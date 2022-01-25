@@ -9,7 +9,7 @@ We built this repository while reporting on excess deaths in counties with high 
 2. Data Dictionaries
 
 ## What useful things will you find in the data folder?
-1. [Excess mortality modeling by state](data/excess_mortality_modeling), includes two datasets, one modeled by the U.S. Centers for Disease Control and Prevention and one by a team at Boston University
+1. [Excess mortality modeling by state](data/excess_mortality_modeling), includes two datasets, one modeled by the U.S. Centers for Disease Control and Prevention and one by [a team at Boston University led by Andrew Stokes, an assistant professor of global health](https://www.bu.edu/articles/2022/underreporting-covid-19-deaths/?utm_campaign=social_experts&utm_source=twitter&utm_medium=photo&utm_content=research_publichealth)
 2. Several [breakdowns of deaths by state from 2018 through 2022](data/race_ethnicity_cause_place_breakdowns), including by race/ethnicity, cause and setting. We've found that each of these distinctions changes the quality of death investigation a person receives.
 3. [Vaccination rates by state](data/vaccinations), which can be cross-referenced to other datasets found in this repository.
 4. [Your state's medicolegal death investigation system](data/coroner_and_medical_examiner_survey) - whether a coroner, mixed coroner/medical examiner or state medical examiner system
