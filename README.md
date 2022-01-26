@@ -2,14 +2,20 @@
 This repository contains data and findings used in Documenting COVID-19's Uncounted project with the USA TODAY network, found here: [Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19](https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/), which was published in December 2021.
 
 ## Overview
-[Along with this reporting recipe,](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/), the data in this repository can be combined and analyzed to make sense of counties with high amounts of "unexplained excess deaths" during the pandemic, deaths that point toward COVID-19 death undercounts. The reporting recipe covers the origins of death records, why death data is important, and how to use it. 
+The data in the repository come from three sources
+1. [The WONDER database from the U.S. Centers for Disease Control and Prevention](https://wonder.cdc.gov/) (last updated Dec.4)
+2. 
+
+[Along with this reporting recipe,](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/), the data in the repository can be combined to make sense of counties with high amounts of "unexplained excess deaths" during the pandemic, deaths that point toward COVID-19 death undercounts. The reporting recipe covers the origins of death records, why death data is important, and how to use it. 
+
+
 
 ## Table of Contents
 1. Data
 2. Data Dictionaries
 
 ## What useful things will you find in the data folder?
-1. [Excess mortality modeling by state](data/excess_mortality_modeling), includes two datasets, one modeled by the U.S. Centers for Disease Control and Prevention and one by a team at Boston University [led by Andrew Stokes, an assistant professor of global health](https://www.bu.edu/articles/2022/underreporting-covid-19-deaths/?utm_campaign=social_experts&utm_source=twitter&utm_medium=photo&utm_content=research_publichealth)
+1. [Excess mortality modeling by state](data/excess_mortality_modeling), includes two datasets, one modeled by the CDC and one by a team at Boston University [led by Andrew Stokes, an assistant professor of global health](https://www.bu.edu/articles/2022/underreporting-covid-19-deaths/?utm_campaign=social_experts&utm_source=twitter&utm_medium=photo&utm_content=research_publichealth)
 2. Several [breakdowns of deaths by state from 2018 through 2022](data/race_ethnicity_cause_place_breakdowns), including by race/ethnicity, cause and setting. We've found that each of these distinctions changes the quality of death investigation a person receives
 3. [Vaccination rates by state](data/vaccinations), which can be cross-referenced to other datasets found in this repository
 4. [Your state's medicolegal death investigation system](data/coroner_and_medical_examiner_survey) - whether a coroner, mixed coroner/medical examiner or state medical examiner system
