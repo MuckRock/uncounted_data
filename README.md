@@ -2,7 +2,7 @@
 This repository contains data and findings used in Documenting COVID-19's Uncounted project with the USA TODAY network, found here: [Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19](https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/), which was published in December 2021.
 
 ## Overview
-The data in the repository come from three sources
+The data in this repository comes from three sources
 1. [The WONDER database](https://wonder.cdc.gov/), from the U.S. Centers for Disease Control and Prevention which updates its provisional cause of death data every few weeks (the data here was last updated on Dec.4,2022)
 2. [A team of demographers from Boston University](https://github.com/Mortality-Surv-and-Reporting-Proj/county-level-estimates-of-excess-mortality), who have modeled excess deaths at the county level
 3. [The National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/web/NACJD/studies/38251), which has archived the US Department of Justice's 2018 Census of Medical Examiner and Coroner Offices
