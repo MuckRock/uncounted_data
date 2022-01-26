@@ -3,9 +3,9 @@ This repository contains data and findings used in Documenting COVID-19's Uncoun
 
 ## Overview
 The data in this repository comes from three sources:
-1. The U.S. Centers for Disease Control and Prevention's [WONDER database](https://wonder.cdc.gov/). The CDC now updates its provisional cause of death data every few weeks and the data here was last updated on Dec.4,2022.
-2. [A team of demographers from Boston University](https://github.com/Mortality-Surv-and-Reporting-Proj/county-level-estimates-of-excess-mortality), who have modeled excess deaths at the county level
-3. [The National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/web/NACJD/studies/38251), which has archived the US Department of Justice's 2018 Census of Medical Examiner and Coroner Offices
+1. The U.S. Centers for Disease Control and Prevention's [WONDER database](https://wonder.cdc.gov/) (the data here was last updated on Dec.4, 2022).
+3. [A team of demographers from Boston University](https://github.com/Mortality-Surv-and-Reporting-Proj/county-level-estimates-of-excess-mortality), who have modeled excess deaths at the county level
+4. [The National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/web/NACJD/studies/38251), which has archived the US Department of Justice's 2018 Census of Medical Examiner and Coroner Offices
 
 [Along with this reporting recipe,](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/) the data in the repository can be combined to investigate counties with high amounts of "unexplained excess deaths" during the pandemic - deaths that point toward COVID-19 death undercounts. 
 
