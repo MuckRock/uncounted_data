@@ -2,7 +2,7 @@
 This repository contains data and findings used in Documenting COVID-19's Uncounted project with the USA TODAY network, found here: [Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19](https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/), which was published in December 2021.
 
 ## Overview
-The data in this repository can be combined and analyzed to make sense of counties with high amounts of "unexplained excess deaths" during the pandemic, deaths that point toward COVID-19 death undercounts. [This reporting recipe](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/) aims to help you learn the origins of death records, why death data is important, and how to use it. 
+[Along with this reporting recipe,](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/), the data in this repository can be combined and analyzed to make sense of counties with high amounts of "unexplained excess deaths" during the pandemic, deaths that point toward COVID-19 death undercounts. The reporting recipe covers the origins of death records, why death data is important, and how to use it. 
 
 ## Table of Contents
 1. Data
