@@ -3,7 +3,7 @@ This repository contains data and findings used in Documenting COVID-19's Uncoun
 
 ## Overview
 The data in this repository comes from three sources:
-1. The U.S. Centers for Disease Control and Prevention's [WONDER database](https://wonder.cdc.gov/), which contains provisional cause of death data and is updated every few weeks (last updated: Mar. 18, 2022)
+1. The U.S. Centers for Disease Control and Prevention's [WONDER database](https://wonder.cdc.gov/), which contains provisional cause of death data and is updated every few weeks (last updated: March 18, 2022)
 3. [A team of demographers from Boston University](https://github.com/Mortality-Surv-and-Reporting-Proj/county-level-estimates-of-excess-mortality), who have modeled excess deaths at the county level (last updated: Jan. 31, 2020)
 4. [The National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/web/NACJD/studies/38251), which has archived the U.S. Department of Justice's 2018 Census of Medical Examiner and Coroner Offices (last updated: Jan. 31, 2018)
 
@@ -22,7 +22,7 @@ The data in this repository comes from three sources:
 5. A DOJ survey of all medical examiner and coroner offices in the country, conducted in 2018 and published in 2021, provides [the resources, personnel, tools, and caseload of your local death investigation system](data/coroner_and_medical_examiner_survey). The entire survey is included along with a paired-down version in a separate .csv file
 
 ## Methodology and Caveats
-1. Our investigation focused on underreporting COVID deaths, but not all excess deaths are COVID deaths. We cover this in our [Uncounted "how to" guide](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/);
+1. Our investigation focused on underreporting COVID deaths, but not all excess deaths are COVID deaths. We cover this in our [Uncounted "how to" guide](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/).
 >The term “excess death” refers to the estimate of how many more people died in a given time period and region than expected. The expected number of deaths is derived through statistical modeling and typically accounts for changing mortality trends. Epidemiologists and demographers have used excess mortality to measure natural and non-natural disasters, such as during Hurricane Maria and opioid overdose deaths.
 
 Measuring excess deaths helps determine how many more people are dying than a normal, pre-pandemic year, and the rest of the data in this repository serves to explain what those people are dying of, and possibly, why.
