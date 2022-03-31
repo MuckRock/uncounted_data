@@ -1,0 +1,70 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Louisiana,"Ascension Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,124672.0,Unreliable
+2018,Louisiana,"Ascension Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,124672.0,20.1
+2018,Louisiana,"Ascension Parish, LA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,124672.0,Unreliable
+2018,Louisiana,"Caddo Parish, LA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,27.0,242922.0,11.1
+2018,Louisiana,"Caddo Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,242922.0,Unreliable
+2018,Louisiana,"Caddo Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,27.0,242922.0,11.1
+2018,Louisiana,"Caddo Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,52.0,242922.0,21.4
+2018,Louisiana,"Calcasieu Parish, LA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,203112.0,Unreliable
+2018,Louisiana,"Calcasieu Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,203112.0,Unreliable
+2018,Louisiana,"Calcasieu Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,203112.0,Unreliable
+2018,Louisiana,"Calcasieu Parish, LA",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,26.0,203112.0,12.8
+2018,Louisiana,"East Baton Rouge Parish, LA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,16.0,440956.0,Unreliable
+2018,Louisiana,"East Baton Rouge Parish, LA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,33.0,440956.0,7.5
+2018,Louisiana,"East Baton Rouge Parish, LA",Nontransport accidents,Other fall on same level,W18,29.0,440956.0,6.6
+2018,Louisiana,"East Baton Rouge Parish, LA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,440956.0,Unreliable
+2018,Louisiana,"East Baton Rouge Parish, LA",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,14.0,440956.0,Unreliable
+2018,Louisiana,"East Baton Rouge Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,26.0,440956.0,5.9
+2018,Louisiana,"East Baton Rouge Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,62.0,440956.0,14.1
+2018,Louisiana,"East Baton Rouge Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,38.0,440956.0,8.6
+2018,Louisiana,"East Baton Rouge Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,86.0,440956.0,19.5
+2018,Louisiana,"Iberia Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,70941.0,Unreliable
+2018,Louisiana,"Iberia Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,70941.0,Unreliable
+2018,Louisiana,"Jefferson Parish, LA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,434051.0,Unreliable
+2018,Louisiana,"Jefferson Parish, LA",Nontransport accidents,Other fall on same level,W18,12.0,434051.0,Unreliable
+2018,Louisiana,"Jefferson Parish, LA",Nontransport accidents,Unspecified fall,W19,23.0,434051.0,5.3
+2018,Louisiana,"Jefferson Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,79.0,434051.0,18.2
+2018,Louisiana,"Jefferson Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,71.0,434051.0,16.4
+2018,Louisiana,"Jefferson Parish, LA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,434051.0,Unreliable
+2018,Louisiana,"Jefferson Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,39.0,434051.0,9.0
+2018,Louisiana,"Jefferson Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,35.0,434051.0,8.1
+2018,Louisiana,"Lafayette Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,242782.0,Unreliable
+2018,Louisiana,"Lafayette Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,242782.0,10.3
+2018,Louisiana,"Lafayette Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,26.0,242782.0,10.7
+2018,Louisiana,"Lafayette Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,242782.0,Unreliable
+2018,Louisiana,"Lafourche Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,98115.0,Unreliable
+2018,Louisiana,"Livingston Parish, LA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,22.0,139567.0,15.8
+2018,Louisiana,"Livingston Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,139567.0,Unreliable
+2018,Louisiana,"Livingston Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29.0,139567.0,20.8
+2018,Louisiana,"Livingston Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,139567.0,Unreliable
+2018,Louisiana,"Orleans Parish, LA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,391006.0,Unreliable
+2018,Louisiana,"Orleans Parish, LA",Nontransport accidents,Unspecified fall,W19,15.0,391006.0,Unreliable
+2018,Louisiana,"Orleans Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,50.0,391006.0,12.8
+2018,Louisiana,"Orleans Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,102.0,391006.0,26.1
+2018,Louisiana,"Orleans Parish, LA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,391006.0,Unreliable
+2018,Louisiana,"Orleans Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,24.0,391006.0,6.1
+2018,Louisiana,"Orleans Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,106.0,391006.0,27.1
+2018,Louisiana,"Ouachita Parish, LA",Nontransport accidents,Unspecified fall,W19,22.0,154475.0,14.2
+2018,Louisiana,"Ouachita Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,154475.0,Unreliable
+2018,Louisiana,"Ouachita Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,154475.0,13.6
+2018,Louisiana,"Rapides Parish, LA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,130562.0,Unreliable
+2018,Louisiana,"Rapides Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,130562.0,Unreliable
+2018,Louisiana,"Rapides Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,130562.0,Unreliable
+2018,Louisiana,"Rapides Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,130562.0,Unreliable
+2018,Louisiana,"Rapides Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,130562.0,Unreliable
+2018,Louisiana,"St. Bernard Parish, LA",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,18.0,46721.0,Unreliable
+2018,Louisiana,"St. Landry Parish, LA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,82764.0,Unreliable
+2018,Louisiana,"St. Landry Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,82764.0,Unreliable
+2018,Louisiana,"St. Tammany Parish, LA",Nontransport accidents,Unspecified fall,W19,36.0,258111.0,13.9
+2018,Louisiana,"St. Tammany Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,26.0,258111.0,10.1
+2018,Louisiana,"St. Tammany Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,52.0,258111.0,20.1
+2018,Louisiana,"St. Tammany Parish, LA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,258111.0,Unreliable
+2018,Louisiana,"St. Tammany Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,26.0,258111.0,10.1
+2018,Louisiana,"St. Tammany Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,14.0,258111.0,Unreliable
+2018,Louisiana,"Tangipahoa Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,42.0,133777.0,31.4
+2018,Louisiana,"Tangipahoa Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,133777.0,Unreliable
+2018,Louisiana,"Tangipahoa Parish, LA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,133777.0,Unreliable
+2018,Louisiana,"Terrebonne Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31.0,111021.0,27.9
+2018,Louisiana,"Terrebonne Parish, LA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,111021.0,Unreliable
+2018,Louisiana,"Washington Parish, LA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,46582.0,53.7

@@ -1,0 +1,686 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Hawaii,15,"Hawaii County, HI",15001,Sepsis,"Septicaemia, unspecified",A41.9,27.0,200983.0,13.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,25.0,200983.0,12.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,29.0,200983.0,14.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,71.0,200983.0,35.3
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,24.0,200983.0,11.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of ovary,C56,10.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of prostate,C61,35.0,200983.0,17.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,14.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,22.0,200983.0,10.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,11.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,11.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,15.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,30.0,200983.0,14.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,Unspecified dementia,F03,64.0,200983.0,31.8
+2018,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,49.0,200983.0,24.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,23.0,200983.0,11.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,55.0,200983.0,27.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,50.0,200983.0,24.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,98.0,200983.0,48.8
+2018,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,12.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,16.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,17.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Congestive heart failure,I50.0,30.0,200983.0,14.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,10.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Cardiomegaly,I51.7,28.0,200983.0,13.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,12.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,50.0,200983.0,24.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,11.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,22.0,200983.0,10.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,14.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,52.0,200983.0,25.9
+2018,Hawaii,15,"Hawaii County, HI",15001,Renal failure,"Chronic kidney disease, stage 5",N18.5,18.0,200983.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Sepsis,"Septicaemia, unspecified",A41.9,72.0,980080.0,7.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,37.0,980080.0,3.8
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,40.0,980080.0,4.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,102.0,980080.0,10.4
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,13.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectum,C20,25.0,980080.0,2.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,58.0,980080.0,5.9
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,23.0,980080.0,2.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,18.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of gallbladder,C23,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,128.0,980080.0,13.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,343.0,980080.0,35.0
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,13.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,11.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,108.0,980080.0,11.0
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,24.0,980080.0,2.4
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of ovary,C56,23.0,980080.0,2.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of prostate,C61,76.0,980080.0,7.8
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,32.0,980080.0,3.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,39.0,980080.0,4.0
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,23.0,980080.0,2.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of thyroid gland,C73,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,89.0,980080.0,9.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,20.0,980080.0,2.0
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"B-cell lymphoma, unspecified - Malignant neoplasms",C85.1,11.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,18.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,31.0,980080.0,3.2
+2018,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,26.0,980080.0,2.7
+2018,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,23.0,980080.0,2.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,34.0,980080.0,3.5
+2018,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,52.0,980080.0,5.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, with multiple complications",E14.7,14.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,55.0,980080.0,5.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,51.0,980080.0,5.2
+2018,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Unspecified dementia,F03,418.0,980080.0,42.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,26.0,980080.0,2.7
+2018,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,322.0,980080.0,32.9
+2018,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,22.0,980080.0,2.2
+2018,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Essential (primary) hypertension,I10,46.0,980080.0,4.7
+2018,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,34.0,980080.0,3.5
+2018,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,122.0,980080.0,12.4
+2018,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,53.0,980080.0,5.4
+2018,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,55.0,980080.0,5.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,215.0,980080.0,21.9
+2018,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,264.0,980080.0,26.9
+2018,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,377.0,980080.0,38.5
+2018,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,61.0,980080.0,6.2
+2018,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,19.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,23.0,980080.0,2.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Mitral (valve) insufficiency,I34.0,12.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,55.0,980080.0,5.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,13.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,29.0,980080.0,3.0
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,70.0,980080.0,7.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,82.0,980080.0,8.4
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,64.0,980080.0,6.5
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Congestive heart failure,I50.0,94.0,980080.0,9.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,58.0,980080.0,5.9
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,30.0,980080.0,3.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,Intracerebral haemorrhage in brain stem,I61.3,12.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,66.0,980080.0,6.7
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,25.0,980080.0,2.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,Cerebral infarction due to embolism of cerebral arteries,I63.4,21.0,980080.0,2.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,54.0,980080.0,5.5
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,184.0,980080.0,18.8
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,Other specified cerebrovascular diseases,I67.8,19.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,95.0,980080.0,9.7
+2018,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,37.0,980080.0,3.8
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,19.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,22.0,980080.0,2.2
+2018,Hawaii,15,"Honolulu County, HI",15003,Influenza and pneumonia,"Influenza with pneumonia, influenza virus identified",J10.0,11.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,437.0,980080.0,44.6
+2018,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,15.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,30.0,980080.0,3.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,141.0,980080.0,14.4
+2018,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,21.0,980080.0,2.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Bronchiectasis,J47,12.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,78.0,980080.0,8.0
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,44.0,980080.0,4.5
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,14.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,"Respiratory failure, unspecified",J96.9,15.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Acute renal failure, unspecified",N17.9,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic kidney disease, stage 5",N18.5,76.0,980080.0,7.8
+2018,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic renal failure, unspecified",N18.9,19.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Renal failure,Unspecified renal failure,N19,17.0,980080.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,28.0,72133.0,38.8
+2018,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,26.0,72133.0,36.0
+2018,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,19.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,72133.0,34.7
+2018,Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,15.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,72133.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Sepsis,"Septicaemia, unspecified",A41.9,11.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,17.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,52.0,167207.0,31.1
+2018,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm of prostate,C61,25.0,167207.0,15.0
+2018,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Unspecified dementia,F03,53.0,167207.0,31.7
+2018,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,15.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,38.0,167207.0,22.7
+2018,Hawaii,15,"Maui County, HI",15009,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,35.0,167207.0,20.9
+2018,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,42.0,167207.0,25.1
+2018,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,50.0,167207.0,29.9
+2018,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,14.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,10.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,17.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,16.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,167207.0,13.8
+2018,Hawaii,15,"Maui County, HI",15009,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,167207.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Sepsis,"Septicaemia, unspecified",A41.9,17.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,10.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,22.0,201513.0,10.9
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,31.0,201513.0,15.4
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,81.0,201513.0,40.2
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,29.0,201513.0,14.4
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,201513.0,10.4
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,12.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,33.0,201513.0,16.4
+2019,Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,12.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,201513.0,9.9
+2019,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,18.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,Unspecified dementia,F03,92.0,201513.0,45.7
+2019,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,56.0,201513.0,27.8
+2019,Hawaii,15,"Hawaii County, HI",15001,Hypertensive diseases,Essential (primary) hypertension,I10,14.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,23.0,201513.0,11.4
+2019,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,11.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,58.0,201513.0,28.8
+2019,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,45.0,201513.0,22.3
+2019,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,103.0,201513.0,51.1
+2019,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,10.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,16.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,16.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Congestive heart failure,I50.0,34.0,201513.0,16.9
+2019,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,23.0,201513.0,11.4
+2019,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Cardiomegaly,I51.7,13.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,55.0,201513.0,27.3
+2019,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,16.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,10.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,42.0,201513.0,20.8
+2019,Hawaii,15,"Hawaii County, HI",15001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,59.0,201513.0,29.3
+2019,Hawaii,15,"Hawaii County, HI",15001,Renal failure,"Acute renal failure, unspecified",N17.9,12.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,201513.0,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Renal failure,Unspecified renal failure,N19,14.0,201513.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Sepsis,"Septicaemia, unspecified",A41.9,68.0,974563.0,7.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Tongue, unspecified - Malignant neoplasms",C02.9,10.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,33.0,974563.0,3.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,50.0,974563.0,5.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Sigmoid colon - Malignant neoplasms,C18.7,10.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,97.0,974563.0,10.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,10.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectum,C20,29.0,974563.0,3.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,57.0,974563.0,5.8
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,31.0,974563.0,3.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,20.0,974563.0,2.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,137.0,974563.0,14.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Upper lobe, bronchus or lung - Malignant neoplasms",C34.1,14.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,349.0,974563.0,35.8
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,15.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,127.0,974563.0,13.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,10.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,29.0,974563.0,3.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of ovary,C56,29.0,974563.0,3.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of prostate,C61,63.0,974563.0,6.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,36.0,974563.0,3.7
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,34.0,974563.0,3.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,22.0,974563.0,2.3
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,83.0,974563.0,8.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,22.0,974563.0,2.3
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"B-cell lymphoma, unspecified - Malignant neoplasms",C85.1,18.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,20.0,974563.0,2.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,26.0,974563.0,2.7
+2019,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,32.0,974563.0,3.3
+2019,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,29.0,974563.0,3.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,37.0,974563.0,3.8
+2019,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,52.0,974563.0,5.3
+2019,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,50.0,974563.0,5.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,74.0,974563.0,7.6
+2019,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Unspecified dementia,F03,554.0,974563.0,56.8
+2019,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,30.0,974563.0,3.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,292.0,974563.0,30.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,18.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Essential (primary) hypertension,I10,51.0,974563.0,5.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,54.0,974563.0,5.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,147.0,974563.0,15.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,54.0,974563.0,5.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,16.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,34.0,974563.0,3.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,172.0,974563.0,17.6
+2019,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,140.0,974563.0,14.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,368.0,974563.0,37.8
+2019,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,46.0,974563.0,4.7
+2019,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,21.0,974563.0,2.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,20.0,974563.0,2.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,20.0,974563.0,2.1
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,68.0,974563.0,7.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,14.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,21.0,974563.0,2.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,68.0,974563.0,7.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,90.0,974563.0,9.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,62.0,974563.0,6.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,18.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Congestive heart failure,I50.0,101.0,974563.0,10.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,44.0,974563.0,4.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,18.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,53.0,974563.0,5.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,23.0,974563.0,2.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,Cerebral infarction due to embolism of cerebral arteries,I63.4,13.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,28.0,974563.0,2.9
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,218.0,974563.0,22.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,103.0,974563.0,10.6
+2019,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,34.0,974563.0,3.5
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,14.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,16.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,243.0,974563.0,24.9
+2019,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,18.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,29.0,974563.0,3.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,13.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,119.0,974563.0,12.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,15.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Bronchiectasis,J47,14.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,96.0,974563.0,9.9
+2019,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,39.0,974563.0,4.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Acute renal failure, unspecified",N17.9,14.0,974563.0,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic kidney disease, stage 5",N18.5,94.0,974563.0,9.6
+2019,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic renal failure, unspecified",N18.9,21.0,974563.0,2.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Renal failure,Unspecified renal failure,N19,24.0,974563.0,2.5
+2019,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,72293.0,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,72293.0,33.2
+2019,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,72293.0,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,Unspecified dementia,F03,32.0,72293.0,44.3
+2019,Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,72293.0,31.8
+2019,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,72293.0,34.6
+2019,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,72293.0,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,72293.0,30.4
+2019,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,13.0,72293.0,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,11.0,72293.0,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,72293.0,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,72293.0,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,22.0,72293.0,30.4
+2019,Hawaii,15,"Kauai County, HI",15007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,72293.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Sepsis,"Septicaemia, unspecified",A41.9,14.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,28.0,167417.0,16.7
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm of rectum,C20,11.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,52.0,167417.0,31.1
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm of prostate,C61,18.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,13.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,23.0,167417.0,13.7
+2019,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Unspecified dementia,F03,26.0,167417.0,15.5
+2019,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,17.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,50.0,167417.0,29.9
+2019,Hawaii,15,"Maui County, HI",15009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,29.0,167417.0,17.3
+2019,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,59.0,167417.0,35.2
+2019,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,57.0,167417.0,34.0
+2019,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,10.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,13.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,27.0,167417.0,16.1
+2019,Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,12.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,167417.0,Unreliable
+2019,Hawaii,15,"Maui County, HI",15009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,167417.0,17.3
+2020,Hawaii,15,"Hawaii County, HI",15001,Sepsis,"Septicaemia, unspecified",A41.9,14.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,18.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,15.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,10.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,24.0,203340.0,11.8
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,79.0,203340.0,38.9
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,25.0,203340.0,12.3
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of ovary,C56,14.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of prostate,C61,27.0,203340.0,13.3
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,17.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,28.0,203340.0,13.8
+2020,Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,Unspecified dementia,F03,71.0,203340.0,34.9
+2020,Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,203340.0,22.1
+2020,Hawaii,15,"Hawaii County, HI",15001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,49.0,203340.0,24.1
+2020,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,47.0,203340.0,23.1
+2020,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,38.0,203340.0,18.7
+2020,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,104.0,203340.0,51.1
+2020,Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,12.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,11.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Sudden cardiac death, so described",I46.1,19.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,20.0,203340.0,9.8
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Congestive heart failure,I50.0,22.0,203340.0,10.8
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,27.0,203340.0,13.3
+2020,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,11.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,68.0,203340.0,33.4
+2020,Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,12.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,35.0,203340.0,17.2
+2020,Hawaii,15,"Hawaii County, HI",15001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,55.0,203340.0,27.0
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,12.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,12.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,203340.0,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Renal failure,Unspecified renal failure,N19,10.0,203340.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Sepsis,"Septicaemia, unspecified",A41.9,88.0,963826.0,9.1
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Tongue, unspecified - Malignant neoplasms",C02.9,10.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,37.0,963826.0,3.8
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,54.0,963826.0,5.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,99.0,963826.0,10.3
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,14.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectum,C20,38.0,963826.0,3.9
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,50.0,963826.0,5.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,42.0,963826.0,4.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,27.0,963826.0,2.8
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of gallbladder,C23,11.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,156.0,963826.0,16.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Ill-defined sites within the digestive system - Malignant neoplasms,C26.9,11.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Upper lobe, bronchus or lung - Malignant neoplasms",C34.1,10.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,324.0,963826.0,33.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,16.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,12.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,101.0,963826.0,10.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,13.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,22.0,963826.0,2.3
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,13.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of ovary,C56,36.0,963826.0,3.7
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of prostate,C61,108.0,963826.0,11.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,40.0,963826.0,4.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,32.0,963826.0,3.3
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,24.0,963826.0,2.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,78.0,963826.0,8.1
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,23.0,963826.0,2.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"B-cell lymphoma, unspecified - Malignant neoplasms",C85.1,13.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,13.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,23.0,963826.0,2.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,38.0,963826.0,3.9
+2020,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,46.0,963826.0,4.8
+2020,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, with multiple complications",E11.7,12.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,35.0,963826.0,3.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,43.0,963826.0,4.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, with multiple complications",E14.7,12.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,69.0,963826.0,7.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,68.0,963826.0,7.1
+2020,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Unspecified dementia,F03,501.0,963826.0,52.0
+2020,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,21.0,963826.0,2.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,428.0,963826.0,44.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,19.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,28.0,963826.0,2.9
+2020,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Essential (primary) hypertension,I10,62.0,963826.0,6.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,54.0,963826.0,5.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,159.0,963826.0,16.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,49.0,963826.0,5.1
+2020,Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,17.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,39.0,963826.0,4.0
+2020,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,161.0,963826.0,16.7
+2020,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,197.0,963826.0,20.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,418.0,963826.0,43.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,35.0,963826.0,3.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,17.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,12.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,15.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Mitral (valve) insufficiency,I34.0,10.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,51.0,963826.0,5.3
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,16.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,20.0,963826.0,2.1
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,64.0,963826.0,6.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,110.0,963826.0,11.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,61.0,963826.0,6.3
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,17.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Congestive heart failure,I50.0,106.0,963826.0,11.0
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,50.0,963826.0,5.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Other ill-defined heart diseases,I51.8,20.0,963826.0,2.1
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,23.0,963826.0,2.4
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,54.0,963826.0,5.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,24.0,963826.0,2.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,34.0,963826.0,3.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,239.0,963826.0,24.8
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,Other specified cerebrovascular diseases,I67.8,16.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,82.0,963826.0,8.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,34.0,963826.0,3.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,26.0,963826.0,2.7
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,16.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,142.0,963826.0,14.7
+2020,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,17.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,34.0,963826.0,3.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,12.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,121.0,963826.0,12.6
+2020,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,14.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Bronchiectasis,J47,16.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,74.0,963826.0,7.7
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,48.0,963826.0,5.0
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,12.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,"Respiratory failure, unspecified",J96.9,10.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Acute renal failure, unspecified",N17.9,13.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic kidney disease, stage 5",N18.5,104.0,963826.0,10.8
+2020,Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic renal failure, unspecified",N18.9,18.0,963826.0,Unreliable
+2020,Hawaii,15,"Honolulu County, HI",15003,Renal failure,Unspecified renal failure,N19,16.0,963826.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,71851.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,71851.0,27.8
+2020,Hawaii,15,"Kauai County, HI",15007,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,71851.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,Unspecified dementia,F03,33.0,71851.0,45.9
+2020,Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,71851.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,71851.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,71851.0,27.8
+2020,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,71851.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,22.0,71851.0,30.6
+2020,Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,16.0,71851.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,71851.0,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,27.0,71851.0,37.6
+2020,Hawaii,15,"Kauai County, HI",15007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,71851.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Sepsis,"Septicaemia, unspecified",A41.9,11.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,17.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,40.0,167902.0,23.8
+2020,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,21.0,167902.0,12.5
+2020,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm of prostate,C61,22.0,167902.0,13.1
+2020,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,12.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,11.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,30.0,167902.0,17.9
+2020,Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,31.0,167902.0,18.5
+2020,Hawaii,15,"Maui County, HI",15009,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,12.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,31.0,167902.0,18.5
+2020,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,70.0,167902.0,41.7
+2020,Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,47.0,167902.0,28.0
+2020,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,14.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,12.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,16.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,18.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,33.0,167902.0,19.7
+2020,Hawaii,15,"Maui County, HI",15009,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,167902.0,Unreliable
+2020,Hawaii,15,"Maui County, HI",15009,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Sepsis,"Septicaemia, unspecified",A41.9,16.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,14.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,19.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of rectum,C20,10.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,20.0,203340.0,9.8
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,38.0,203340.0,18.7
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,81.0,203340.0,39.8
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,25.0,203340.0,12.3
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of ovary,C56,12.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm of prostate,C61,23.0,203340.0,11.3
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,11.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,33.0,203340.0,16.2
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,17.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,16.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,Unspecified dementia,F03,102.0,203340.0,50.2
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,44.0,203340.0,21.6
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,34.0,203340.0,16.7
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,37.0,203340.0,18.2
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,74.0,203340.0,36.4
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,105.0,203340.0,51.6
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,12.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,14.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Congestive heart failure,I50.0,28.0,203340.0,13.8
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,13.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,17.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,57.0,203340.0,28.0
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,11.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,13.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,24.0,203340.0,11.8
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,59.0,203340.0,29.0
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Other diseases of the respiratory system,Acute respiratory failure,J96.0,11.0,203340.0,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Renal failure,"Chronic kidney disease, stage 5",N18.5,21.0,203340.0,10.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Sepsis,"Septicaemia, unspecified",A41.9,97.0,963826.0,10.1
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,33.0,963826.0,3.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,38.0,963826.0,3.9
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Sigmoid colon - Malignant neoplasms,C18.7,14.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,99.0,963826.0,10.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,17.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of rectum,C20,37.0,963826.0,3.8
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,52.0,963826.0,5.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,31.0,963826.0,3.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,20.0,963826.0,2.1
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,146.0,963826.0,15.1
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Upper lobe, bronchus or lung - Malignant neoplasms",C34.1,17.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,291.0,963826.0,30.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,16.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,118.0,963826.0,12.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,10.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,41.0,963826.0,4.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of ovary,C56,35.0,963826.0,3.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of prostate,C61,98.0,963826.0,10.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,29.0,963826.0,3.0
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,34.0,963826.0,3.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,20.0,963826.0,2.1
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm of thyroid gland,C73,13.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,89.0,963826.0,9.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,13.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"B-cell lymphoma, unspecified - Malignant neoplasms",C85.1,16.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,29.0,963826.0,3.0
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,25.0,963826.0,2.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,39.0,963826.0,4.0
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,45.0,963826.0,4.7
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,38.0,963826.0,3.9
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,60.0,963826.0,6.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, with multiple complications",E14.7,10.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,63.0,963826.0,6.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,71.0,963826.0,7.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Unspecified dementia,F03,524.0,963826.0,54.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,19.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,430.0,963826.0,44.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,24.0,963826.0,2.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,20.0,963826.0,2.1
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Essential (primary) hypertension,I10,63.0,963826.0,6.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,48.0,963826.0,5.0
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,124.0,963826.0,12.9
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,40.0,963826.0,4.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,18.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,50.0,963826.0,5.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,227.0,963826.0,23.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,192.0,963826.0,19.9
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,408.0,963826.0,42.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,40.0,963826.0,4.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,10.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,13.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,18.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Mitral (valve) insufficiency,I34.0,13.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,62.0,963826.0,6.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,19.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,63.0,963826.0,6.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,75.0,963826.0,7.8
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,72.0,963826.0,7.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,16.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Congestive heart failure,I50.0,89.0,963826.0,9.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,57.0,963826.0,5.9
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Other ill-defined heart diseases,I51.8,25.0,963826.0,2.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,32.0,963826.0,3.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracerebral haemorrhage, intraventricular",I61.5,11.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,44.0,963826.0,4.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,15.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,Cerebral infarction due to embolism of cerebral arteries,I63.4,11.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,64.0,963826.0,6.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,218.0,963826.0,22.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,144.0,963826.0,14.9
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,39.0,963826.0,4.0
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,21.0,963826.0,2.2
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,16.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,144.0,963826.0,14.9
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,18.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,22.0,963826.0,2.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,143.0,963826.0,14.8
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,14.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,Bronchiectasis,J47,12.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,83.0,963826.0,8.6
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,53.0,963826.0,5.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,10.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the respiratory system,"Respiratory failure, unspecified",J96.9,16.0,963826.0,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic kidney disease, stage 5",N18.5,128.0,963826.0,13.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic renal failure, unspecified",N18.9,26.0,963826.0,2.7
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Renal failure,Unspecified renal failure,N19,20.0,963826.0,2.1
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,32.0,71851.0,44.5
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Malignant neoplasms,Malignant neoplasm of prostate,C61,12.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,Unspecified dementia,F03,40.0,71851.0,55.7
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,10.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,21.0,71851.0,29.2
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,71851.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,15.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,12.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,12.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,20.0,167902.0,11.9
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,55.0,167902.0,32.8
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,15.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm of ovary,C56,13.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasm of prostate,C61,17.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,11.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Unspecified dementia,F03,33.0,167902.0,19.7
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,29.0,167902.0,17.3
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,167902.0,13.7
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,34.0,167902.0,20.2
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,10.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,167902.0,11.9
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,57.0,167902.0,33.9
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,58.0,167902.0,34.5
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,10.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,10.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,12.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,36.0,167902.0,21.4
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,21.0,167902.0,12.5
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,167902.0,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,42.0,167902.0,25.0
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Renal failure,"Chronic kidney disease, stage 5",N18.5,17.0,167902.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Hawaii County, HI",15001,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,203340.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Hawaii County, HI",15001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,203340.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Sepsis,"Septicaemia, unspecified",A41.9,10.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,18.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,47.0,963826.0,4.9
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,12.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,Unspecified dementia,F03,74.0,963826.0,7.7
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,49.0,963826.0,5.1
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,23.0,963826.0,2.4
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,56.0,963826.0,5.8
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,11.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,18.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,24.0,963826.0,2.5
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,18.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,26.0,963826.0,2.7
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,963826.0,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Renal failure,"Chronic kidney disease, stage 5",N18.5,18.0,963826.0,Unreliable

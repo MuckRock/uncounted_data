@@ -1,0 +1,827 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Mississippi,28,"Adams County, MS",28001,Black or African American,Not Hispanic or Latino,224.0,16336.0,1371.2,1218.4
+2018,Mississippi,28,"Adams County, MS",28001,White,Not Hispanic or Latino,219.0,10798.0,2028.2,1086.8
+2018,Mississippi,28,"Alcorn County, MS",28003,Black or African American,Not Hispanic or Latino,49.0,4497.0,1089.6,1185.9
+2018,Mississippi,28,"Alcorn County, MS",28003,White,Not Hispanic or Latino,418.0,30529.0,1369.2,977.5
+2018,Mississippi,28,"Amite County, MS",28005,Black or African American,Not Hispanic or Latino,58.0,4955.0,1170.5,889.7
+2018,Mississippi,28,"Amite County, MS",28005,White,Not Hispanic or Latino,102.0,7062.0,1444.4,815.9
+2018,Mississippi,28,"Attala County, MS",28007,Black or African American,Not Hispanic or Latino,71.0,7911.0,897.5,845.3
+2018,Mississippi,28,"Attala County, MS",28007,White,Not Hispanic or Latino,170.0,9815.0,1732.0,987.5
+2018,Mississippi,28,"Benton County, MS",28009,Black or African American,Not Hispanic or Latino,30.0,2900.0,1034.5,936.8
+2018,Mississippi,28,"Benton County, MS",28009,White,Not Hispanic or Latino,73.0,5004.0,1458.8,920.3
+2018,Mississippi,28,"Bolivar County, MS",28011,Black or African American,Not Hispanic or Latino,259.0,19919.0,1300.3,1326.4
+2018,Mississippi,28,"Bolivar County, MS",28011,White,Not Hispanic or Latino,134.0,10214.0,1311.9,843.3
+2018,Mississippi,28,"Calhoun County, MS",28013,Black or African American,Not Hispanic or Latino,31.0,4023.0,770.6,724.2
+2018,Mississippi,28,"Calhoun County, MS",28013,White,Not Hispanic or Latino,133.0,9295.0,1430.9,895.4
+2018,Mississippi,28,"Carroll County, MS",28015,Black or African American,Not Hispanic or Latino,31.0,3229.0,960.0,746.7
+2018,Mississippi,28,"Carroll County, MS",28015,White,Not Hispanic or Latino,74.0,6380.0,1159.9,722.4
+2018,Mississippi,28,"Chickasaw County, MS",28017,Black or African American,Not Hispanic or Latino,83.0,7512.0,1104.9,1102.0
+2018,Mississippi,28,"Chickasaw County, MS",28017,White,Not Hispanic or Latino,121.0,8444.0,1433.0,881.1
+2018,Mississippi,28,"Choctaw County, MS",28019,Black or African American,Not Hispanic or Latino,34.0,2469.0,1377.1,1173.3
+2018,Mississippi,28,"Choctaw County, MS",28019,White,Not Hispanic or Latino,82.0,5535.0,1481.5,932.8
+2018,Mississippi,28,"Claiborne County, MS",28021,Black or African American,Not Hispanic or Latino,96.0,7689.0,1248.5,1250.0
+2018,Mississippi,28,"Claiborne County, MS",28021,White,Not Hispanic or Latino,17.0,1009.0,Unreliable,Unreliable
+2018,Mississippi,28,"Clarke County, MS",28023,Black or African American,Not Hispanic or Latino,68.0,5388.0,1262.1,1103.8
+2018,Mississippi,28,"Clarke County, MS",28023,White,Not Hispanic or Latino,155.0,9839.0,1575.4,999.5
+2018,Mississippi,28,"Clay County, MS",28025,Black or African American,Not Hispanic or Latino,102.0,11334.0,899.9,887.5
+2018,Mississippi,28,"Clay County, MS",28025,White,Not Hispanic or Latino,121.0,7502.0,1612.9,872.1
+2018,Mississippi,28,"Coahoma County, MS",28027,Black or African American,Not Hispanic or Latino,202.0,17343.0,1164.7,1229.8
+2018,Mississippi,28,"Coahoma County, MS",28027,White,Not Hispanic or Latino,88.0,4653.0,1891.3,970.5
+2018,Mississippi,28,"Copiah County, MS",28029,Black or African American,Not Hispanic or Latino,122.0,14617.0,834.6,864.7
+2018,Mississippi,28,"Copiah County, MS",28029,White,Not Hispanic or Latino,168.0,12469.0,1347.3,797.8
+2018,Mississippi,28,"Covington County, MS",28031,Black or African American,Not Hispanic or Latino,77.0,6716.0,1146.5,1305.5
+2018,Mississippi,28,"Covington County, MS",28031,White,Not Hispanic or Latino,196.0,11381.0,1722.2,1194.7
+2018,Mississippi,28,"DeSoto County, MS",28033,Asian,Not Hispanic or Latino,15.0,2676.0,Unreliable,Unreliable
+2018,Mississippi,28,"DeSoto County, MS",28033,Black or African American,Not Hispanic or Latino,249.0,52245.0,476.6,852.1
+2018,Mississippi,28,"DeSoto County, MS",28033,White,Not Hispanic or Latino,1156.0,114911.0,1006.0,854.4
+2018,Mississippi,28,"Forrest County, MS",28035,Black or African American,Not Hispanic or Latino,283.0,28151.0,1005.3,1291.2
+2018,Mississippi,28,"Forrest County, MS",28035,White,Not Hispanic or Latino,535.0,42737.0,1251.8,973.2
+2018,Mississippi,28,"Franklin County, MS",28037,Black or African American,Not Hispanic or Latino,34.0,2687.0,1265.4,1183.7
+2018,Mississippi,28,"Franklin County, MS",28037,White,Not Hispanic or Latino,79.0,4892.0,1614.9,968.8
+2018,Mississippi,28,"George County, MS",28039,Black or African American,Not Hispanic or Latino,10.0,1895.0,Unreliable,Unreliable
+2018,Mississippi,28,"George County, MS",28039,White,Not Hispanic or Latino,258.0,21050.0,1225.7,1259.1
+2018,Mississippi,28,"Greene County, MS",28041,Black or African American,Not Hispanic or Latino,25.0,3433.0,728.2,939.3
+2018,Mississippi,28,"Greene County, MS",28041,White,Not Hispanic or Latino,110.0,9789.0,1123.7,922.5
+2018,Mississippi,28,"Grenada County, MS",28043,Black or African American,Not Hispanic or Latino,144.0,8933.0,1612.0,1595.3
+2018,Mississippi,28,"Grenada County, MS",28043,White,Not Hispanic or Latino,199.0,11465.0,1735.7,1225.2
+2018,Mississippi,28,"Hancock County, MS",28045,Black or African American,Not Hispanic or Latino,35.0,3762.0,930.4,1017.6
+2018,Mississippi,28,"Hancock County, MS",28045,White,Not Hispanic or Latino,446.0,40047.0,1113.7,784.7
+2018,Mississippi,28,"Harrison County, MS",28047,Asian,Not Hispanic or Latino,30.0,5818.0,515.6,664.7
+2018,Mississippi,28,"Harrison County, MS",28047,Black or African American,Not Hispanic or Latino,441.0,52021.0,847.7,1087.5
+2018,Mississippi,28,"Harrison County, MS",28047,White,Hispanic or Latino,22.0,9489.0,231.8,361.1
+2018,Mississippi,28,"Harrison County, MS",28047,White,Not Hispanic or Latino,1649.0,131276.0,1256.1,944.9
+2018,Mississippi,28,"Hinds County, MS",28049,Black or African American,Not Hispanic or Latino,1440.0,171719.0,838.6,944.8
+2018,Mississippi,28,"Hinds County, MS",28049,White,Not Hispanic or Latino,739.0,57381.0,1287.9,742.4
+2018,Mississippi,28,"Holmes County, MS",28051,Black or African American,Not Hispanic or Latino,164.0,14442.0,1135.6,1111.7
+2018,Mississippi,28,"Holmes County, MS",28051,White,Not Hispanic or Latino,38.0,2771.0,1371.3,751.5
+2018,Mississippi,28,"Humphreys County, MS",28053,Black or African American,Not Hispanic or Latino,66.0,6177.0,1068.5,1027.2
+2018,Mississippi,28,"Humphreys County, MS",28053,White,Not Hispanic or Latino,31.0,1666.0,1860.7,893.3
+2018,Mississippi,28,"Issaquena County, MS",28055,Black or African American,Not Hispanic or Latino,17.0,824.0,Unreliable,Unreliable
+2018,Mississippi,28,"Itawamba County, MS",28057,Black or African American,Not Hispanic or Latino,17.0,1616.0,Unreliable,Unreliable
+2018,Mississippi,28,"Itawamba County, MS",28057,White,Not Hispanic or Latino,260.0,21123.0,1230.9,907.4
+2018,Mississippi,28,"Jackson County, MS",28059,Asian,Not Hispanic or Latino,13.0,3251.0,Unreliable,Unreliable
+2018,Mississippi,28,"Jackson County, MS",28059,Black or African American,Not Hispanic or Latino,268.0,30260.0,885.7,995.0
+2018,Mississippi,28,"Jackson County, MS",28059,White,Hispanic or Latino,15.0,8494.0,Unreliable,Unreliable
+2018,Mississippi,28,"Jackson County, MS",28059,White,Not Hispanic or Latino,1138.0,96554.0,1178.6,908.8
+2018,Mississippi,28,"Jasper County, MS",28061,Black or African American,Not Hispanic or Latino,88.0,8712.0,1010.1,881.6
+2018,Mississippi,28,"Jasper County, MS",28061,White,Not Hispanic or Latino,98.0,7300.0,1342.5,894.6
+2018,Mississippi,28,"Jefferson County, MS",28063,Black or African American,Not Hispanic or Latino,83.0,6025.0,1377.6,1187.0
+2018,Mississippi,28,"Jefferson County, MS",28063,White,Not Hispanic or Latino,10.0,935.0,Unreliable,Unreliable
+2018,Mississippi,28,"Jefferson Davis County, MS",28065,Black or African American,Not Hispanic or Latino,98.0,6700.0,1462.7,1241.4
+2018,Mississippi,28,"Jefferson Davis County, MS",28065,White,Not Hispanic or Latino,69.0,4205.0,1640.9,745.3
+2018,Mississippi,28,"Jones County, MS",28067,Black or African American,Not Hispanic or Latino,166.0,19979.0,830.9,945.3
+2018,Mississippi,28,"Jones County, MS",28067,White,Not Hispanic or Latino,631.0,44192.0,1427.9,997.8
+2018,Mississippi,28,"Kemper County, MS",28069,Black or African American,Not Hispanic or Latino,58.0,6084.0,953.3,848.3
+2018,Mississippi,28,"Kemper County, MS",28069,White,Not Hispanic or Latino,49.0,3400.0,1441.2,743.0
+2018,Mississippi,28,"Lafayette County, MS",28071,Black or African American,Not Hispanic or Latino,83.0,12743.0,651.3,872.0
+2018,Mississippi,28,"Lafayette County, MS",28071,White,Not Hispanic or Latino,283.0,38604.0,733.1,736.9
+2018,Mississippi,28,"Lamar County, MS",28073,Black or African American,Not Hispanic or Latino,40.0,12835.0,311.6,430.5
+2018,Mississippi,28,"Lamar County, MS",28073,White,Not Hispanic or Latino,396.0,46032.0,860.3,718.6
+2018,Mississippi,28,"Lauderdale County, MS",28075,Black or African American,Not Hispanic or Latino,306.0,32983.0,927.8,967.1
+2018,Mississippi,28,"Lauderdale County, MS",28075,White,Not Hispanic or Latino,578.0,39211.0,1474.1,937.0
+2018,Mississippi,28,"Lawrence County, MS",28077,Black or African American,Not Hispanic or Latino,48.0,3972.0,1208.5,1166.7
+2018,Mississippi,28,"Lawrence County, MS",28077,White,Not Hispanic or Latino,119.0,8069.0,1474.8,1091.1
+2018,Mississippi,28,"Leake County, MS",28079,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1253.0,Unreliable,Unreliable
+2018,Mississippi,28,"Leake County, MS",28079,Black or African American,Not Hispanic or Latino,72.0,9494.0,758.4,788.5
+2018,Mississippi,28,"Leake County, MS",28079,White,Not Hispanic or Latino,151.0,10660.0,1416.5,918.8
+2018,Mississippi,28,"Lee County, MS",28081,Black or African American,Not Hispanic or Latino,190.0,25551.0,743.6,1061.0
+2018,Mississippi,28,"Lee County, MS",28081,White,Not Hispanic or Latino,694.0,55354.0,1253.7,940.7
+2018,Mississippi,28,"Leflore County, MS",28083,Black or African American,Not Hispanic or Latino,233.0,21397.0,1088.9,1191.4
+2018,Mississippi,28,"Leflore County, MS",28083,White,Not Hispanic or Latino,149.0,6324.0,2356.1,1312.6
+2018,Mississippi,28,"Lincoln County, MS",28085,Black or African American,Not Hispanic or Latino,116.0,10282.0,1128.2,1200.8
+2018,Mississippi,28,"Lincoln County, MS",28085,White,Not Hispanic or Latino,299.0,23002.0,1299.9,923.8
+2018,Mississippi,28,"Lowndes County, MS",28087,Black or African American,Not Hispanic or Latino,246.0,26269.0,936.5,1036.8
+2018,Mississippi,28,"Lowndes County, MS",28087,White,Not Hispanic or Latino,385.0,30132.0,1277.7,862.2
+2018,Mississippi,28,"Madison County, MS",28089,Black or African American,Not Hispanic or Latino,332.0,40167.0,826.5,1141.5
+2018,Mississippi,28,"Madison County, MS",28089,White,Not Hispanic or Latino,713.0,58344.0,1222.1,1009.9
+2018,Mississippi,28,"Marion County, MS",28091,Black or African American,Not Hispanic or Latino,74.0,7793.0,949.6,873.2
+2018,Mississippi,28,"Marion County, MS",28091,White,Not Hispanic or Latino,205.0,16072.0,1275.5,846.3
+2018,Mississippi,28,"Marshall County, MS",28093,Black or African American,Not Hispanic or Latino,154.0,16666.0,924.0,861.1
+2018,Mississippi,28,"Marshall County, MS",28093,White,Not Hispanic or Latino,262.0,16864.0,1553.6,1093.5
+2018,Mississippi,28,"Monroe County, MS",28095,Black or African American,Not Hispanic or Latino,104.0,10786.0,964.2,897.1
+2018,Mississippi,28,"Monroe County, MS",28095,White,Not Hispanic or Latino,325.0,23846.0,1362.9,918.2
+2018,Mississippi,28,"Montgomery County, MS",28097,Black or African American,Not Hispanic or Latino,77.0,4475.0,1720.7,1558.8
+2018,Mississippi,28,"Montgomery County, MS",28097,White,Not Hispanic or Latino,89.0,5233.0,1700.7,958.4
+2018,Mississippi,28,"Neshoba County, MS",28099,American Indian or Alaska Native,Not Hispanic or Latino,55.0,4824.0,1140.1,2402.0
+2018,Mississippi,28,"Neshoba County, MS",28099,Black or African American,Not Hispanic or Latino,58.0,6159.0,941.7,988.7
+2018,Mississippi,28,"Neshoba County, MS",28099,White,Not Hispanic or Latino,277.0,16931.0,1636.1,1121.8
+2018,Mississippi,28,"Newton County, MS",28101,Black or African American,Not Hispanic or Latino,65.0,6597.0,985.3,1017.2
+2018,Mississippi,28,"Newton County, MS",28101,White,Not Hispanic or Latino,172.0,12940.0,1329.2,941.8
+2018,Mississippi,28,"Noxubee County, MS",28103,Black or African American,Not Hispanic or Latino,83.0,7566.0,1097.0,1078.5
+2018,Mississippi,28,"Noxubee County, MS",28103,White,Not Hispanic or Latino,46.0,2700.0,1703.7,835.1
+2018,Mississippi,28,"Oktibbeha County, MS",28105,Black or African American,Not Hispanic or Latino,137.0,18504.0,740.4,886.7
+2018,Mississippi,28,"Oktibbeha County, MS",28105,White,Not Hispanic or Latino,188.0,28064.0,669.9,655.6
+2018,Mississippi,28,"Panola County, MS",28107,Black or African American,Not Hispanic or Latino,135.0,16930.0,797.4,952.0
+2018,Mississippi,28,"Panola County, MS",28107,White,Not Hispanic or Latino,236.0,15937.0,1480.8,967.9
+2018,Mississippi,28,"Pearl River County, MS",28109,Black or African American,Not Hispanic or Latino,80.0,6841.0,1169.4,1145.1
+2018,Mississippi,28,"Pearl River County, MS",28109,White,Not Hispanic or Latino,637.0,45242.0,1408.0,1036.8
+2018,Mississippi,28,"Perry County, MS",28111,Black or African American,Not Hispanic or Latino,22.0,2280.0,964.9,955.3
+2018,Mississippi,28,"Perry County, MS",28111,White,Not Hispanic or Latino,112.0,9237.0,1212.5,864.4
+2018,Mississippi,28,"Pike County, MS",28113,Black or African American,Not Hispanic or Latino,248.0,21007.0,1180.6,1288.7
+2018,Mississippi,28,"Pike County, MS",28113,White,Not Hispanic or Latino,290.0,17026.0,1703.3,1035.3
+2018,Mississippi,28,"Pontotoc County, MS",28115,Black or African American,Not Hispanic or Latino,45.0,4676.0,962.4,909.6
+2018,Mississippi,28,"Pontotoc County, MS",28115,White,Not Hispanic or Latino,273.0,24352.0,1121.1,912.1
+2018,Mississippi,28,"Prentiss County, MS",28117,Black or African American,Not Hispanic or Latino,29.0,3643.0,796.0,898.1
+2018,Mississippi,28,"Prentiss County, MS",28117,White,Not Hispanic or Latino,303.0,20870.0,1451.8,1043.6
+2018,Mississippi,28,"Quitman County, MS",28119,Black or African American,Not Hispanic or Latino,71.0,4996.0,1421.1,1312.0
+2018,Mississippi,28,"Quitman County, MS",28119,White,Not Hispanic or Latino,36.0,1806.0,1993.4,966.1
+2018,Mississippi,28,"Rankin County, MS",28121,Black or African American,Not Hispanic or Latino,217.0,32410.0,669.5,926.4
+2018,Mississippi,28,"Rankin County, MS",28121,White,Not Hispanic or Latino,1031.0,113050.0,912.0,717.9
+2018,Mississippi,28,"Scott County, MS",28123,Black or African American,Not Hispanic or Latino,124.0,10547.0,1175.7,1258.1
+2018,Mississippi,28,"Scott County, MS",28123,White,Not Hispanic or Latino,168.0,13930.0,1206.0,858.3
+2018,Mississippi,28,"Sharkey County, MS",28125,Black or African American,Not Hispanic or Latino,35.0,3076.0,1137.8,940.3
+2018,Mississippi,28,"Sharkey County, MS",28125,White,Not Hispanic or Latino,25.0,1141.0,2191.1,1114.5
+2018,Mississippi,28,"Simpson County, MS",28127,Black or African American,Not Hispanic or Latino,79.0,9331.0,846.6,822.6
+2018,Mississippi,28,"Simpson County, MS",28127,White,Not Hispanic or Latino,226.0,16496.0,1370.0,953.2
+2018,Mississippi,28,"Smith County, MS",28129,Black or African American,Not Hispanic or Latino,32.0,3782.0,846.1,854.6
+2018,Mississippi,28,"Smith County, MS",28129,White,Not Hispanic or Latino,137.0,11794.0,1161.6,784.7
+2018,Mississippi,28,"Stone County, MS",28131,Black or African American,Not Hispanic or Latino,30.0,3683.0,814.6,996.0
+2018,Mississippi,28,"Stone County, MS",28131,White,Not Hispanic or Latino,147.0,14220.0,1033.8,884.5
+2018,Mississippi,28,"Sunflower County, MS",28133,Black or African American,Not Hispanic or Latino,222.0,18830.0,1179.0,1321.3
+2018,Mississippi,28,"Sunflower County, MS",28133,White,Not Hispanic or Latino,106.0,6093.0,1739.7,975.7
+2018,Mississippi,28,"Tallahatchie County, MS",28135,Black or African American,Not Hispanic or Latino,78.0,7845.0,994.3,1044.9
+2018,Mississippi,28,"Tallahatchie County, MS",28135,White,Not Hispanic or Latino,81.0,4848.0,1670.8,961.5
+2018,Mississippi,28,"Tate County, MS",28137,Black or African American,Not Hispanic or Latino,78.0,8860.0,880.4,994.6
+2018,Mississippi,28,"Tate County, MS",28137,White,Not Hispanic or Latino,239.0,18542.0,1289.0,980.2
+2018,Mississippi,28,"Tippah County, MS",28139,Black or African American,Not Hispanic or Latino,40.0,3655.0,1094.4,1242.7
+2018,Mississippi,28,"Tippah County, MS",28139,White,Not Hispanic or Latino,225.0,16874.0,1333.4,1041.9
+2018,Mississippi,28,"Tishomingo County, MS",28141,White,Not Hispanic or Latino,291.0,18037.0,1613.4,1161.1
+2018,Mississippi,28,"Tunica County, MS",28143,Black or African American,Not Hispanic or Latino,76.0,7657.0,992.6,1289.4
+2018,Mississippi,28,"Tunica County, MS",28143,White,Not Hispanic or Latino,49.0,1839.0,2664.5,1597.6
+2018,Mississippi,28,"Union County, MS",28145,Black or African American,Not Hispanic or Latino,34.0,4302.0,790.3,848.7
+2018,Mississippi,28,"Union County, MS",28145,White,Not Hispanic or Latino,291.0,22304.0,1304.7,967.3
+2018,Mississippi,28,"Walthall County, MS",28147,Black or African American,Not Hispanic or Latino,79.0,6230.0,1268.1,1187.0
+2018,Mississippi,28,"Walthall County, MS",28147,White,Not Hispanic or Latino,133.0,7619.0,1745.6,968.5
+2018,Mississippi,28,"Warren County, MS",28149,Black or African American,Not Hispanic or Latino,203.0,22575.0,899.2,982.5
+2018,Mississippi,28,"Warren County, MS",28149,White,Not Hispanic or Latino,299.0,21601.0,1384.2,938.0
+2018,Mississippi,28,"Washington County, MS",28151,Black or African American,Not Hispanic or Latino,403.0,32397.0,1243.9,1283.9
+2018,Mississippi,28,"Washington County, MS",28151,White,Not Hispanic or Latino,190.0,11223.0,1693.0,992.8
+2018,Mississippi,28,"Wayne County, MS",28153,Black or African American,Not Hispanic or Latino,83.0,8054.0,1030.5,1113.9
+2018,Mississippi,28,"Wayne County, MS",28153,White,Not Hispanic or Latino,152.0,11621.0,1308.0,878.5
+2018,Mississippi,28,"Webster County, MS",28155,Black or African American,Not Hispanic or Latino,17.0,1866.0,Unreliable,Unreliable
+2018,Mississippi,28,"Webster County, MS",28155,White,Not Hispanic or Latino,138.0,7645.0,1805.1,1324.9
+2018,Mississippi,28,"Wilkinson County, MS",28157,Black or African American,Not Hispanic or Latino,85.0,6177.0,1376.1,1316.9
+2018,Mississippi,28,"Wilkinson County, MS",28157,White,Not Hispanic or Latino,41.0,2441.0,1679.6,887.3
+2018,Mississippi,28,"Winston County, MS",28159,Black or African American,Not Hispanic or Latino,105.0,8467.0,1240.1,1157.7
+2018,Mississippi,28,"Winston County, MS",28159,White,Not Hispanic or Latino,157.0,9023.0,1740.0,948.4
+2018,Mississippi,28,"Yalobusha County, MS",28161,Black or African American,Not Hispanic or Latino,47.0,4761.0,987.2,1060.3
+2018,Mississippi,28,"Yalobusha County, MS",28161,White,Not Hispanic or Latino,130.0,7186.0,1809.1,1199.7
+2018,Mississippi,28,"Yazoo County, MS",28163,Black or African American,Not Hispanic or Latino,157.0,16004.0,981.0,1192.1
+2018,Mississippi,28,"Yazoo County, MS",28163,White,Not Hispanic or Latino,148.0,9677.0,1529.4,951.9
+2019,Mississippi,28,"Adams County, MS",28001,Black or African American,Not Hispanic or Latino,216.0,16145.0,1337.9,1098.3
+2019,Mississippi,28,"Adams County, MS",28001,White,Not Hispanic or Latino,206.0,10904.0,1889.2,930.1
+2019,Mississippi,28,"Alcorn County, MS",28003,Black or African American,Not Hispanic or Latino,50.0,4500.0,1111.1,1096.1
+2019,Mississippi,28,"Alcorn County, MS",28003,White,Not Hispanic or Latino,435.0,30577.0,1422.6,1023.5
+2019,Mississippi,28,"Amite County, MS",28005,Black or African American,Not Hispanic or Latino,62.0,4865.0,1274.4,981.0
+2019,Mississippi,28,"Amite County, MS",28005,White,Not Hispanic or Latino,105.0,7115.0,1475.8,799.8
+2019,Mississippi,28,"Attala County, MS",28007,Black or African American,Not Hispanic or Latino,97.0,7888.0,1229.7,1182.5
+2019,Mississippi,28,"Attala County, MS",28007,White,Not Hispanic or Latino,173.0,9632.0,1796.1,1002.8
+2019,Mississippi,28,"Benton County, MS",28009,Black or African American,Not Hispanic or Latino,38.0,2929.0,1297.4,1217.5
+2019,Mississippi,28,"Benton County, MS",28009,White,Not Hispanic or Latino,75.0,4962.0,1511.5,984.4
+2019,Mississippi,28,"Bolivar County, MS",28011,Black or African American,Not Hispanic or Latino,245.0,19369.0,1264.9,1275.1
+2019,Mississippi,28,"Bolivar County, MS",28011,White,Not Hispanic or Latino,162.0,10003.0,1619.5,1115.9
+2019,Mississippi,28,"Calhoun County, MS",28013,Black or African American,Not Hispanic or Latino,43.0,4002.0,1074.5,1040.9
+2019,Mississippi,28,"Calhoun County, MS",28013,White,Not Hispanic or Latino,135.0,9237.0,1461.5,906.9
+2019,Mississippi,28,"Carroll County, MS",28015,Black or African American,Not Hispanic or Latino,31.0,3252.0,953.3,710.5
+2019,Mississippi,28,"Carroll County, MS",28015,White,Not Hispanic or Latino,95.0,6390.0,1486.7,902.5
+2019,Mississippi,28,"Chickasaw County, MS",28017,Black or African American,Not Hispanic or Latino,76.0,7513.0,1011.6,1023.6
+2019,Mississippi,28,"Chickasaw County, MS",28017,White,Not Hispanic or Latino,124.0,8335.0,1487.7,947.6
+2019,Mississippi,28,"Choctaw County, MS",28019,Black or African American,Not Hispanic or Latino,33.0,2425.0,1360.8,1178.2
+2019,Mississippi,28,"Choctaw County, MS",28019,White,Not Hispanic or Latino,79.0,5507.0,1434.5,910.1
+2019,Mississippi,28,"Claiborne County, MS",28021,Black or African American,Not Hispanic or Latino,87.0,7718.0,1127.2,1156.2
+2019,Mississippi,28,"Claiborne County, MS",28021,White,Not Hispanic or Latino,32.0,964.0,3319.5,1247.9
+2019,Mississippi,28,"Clarke County, MS",28023,Black or African American,Not Hispanic or Latino,73.0,5381.0,1356.6,1251.2
+2019,Mississippi,28,"Clarke County, MS",28023,White,Not Hispanic or Latino,139.0,9782.0,1421.0,874.7
+2019,Mississippi,28,"Clay County, MS",28025,Black or African American,Not Hispanic or Latino,103.0,11359.0,906.8,911.5
+2019,Mississippi,28,"Clay County, MS",28025,White,Not Hispanic or Latino,114.0,7413.0,1537.8,789.1
+2019,Mississippi,28,"Coahoma County, MS",28027,Black or African American,Not Hispanic or Latino,225.0,17080.0,1317.3,1361.3
+2019,Mississippi,28,"Coahoma County, MS",28027,White,Not Hispanic or Latino,88.0,4412.0,1994.6,1030.6
+2019,Mississippi,28,"Copiah County, MS",28029,Black or African American,Not Hispanic or Latino,149.0,14396.0,1035.0,1018.1
+2019,Mississippi,28,"Copiah County, MS",28029,White,Not Hispanic or Latino,178.0,12310.0,1446.0,858.7
+2019,Mississippi,28,"Covington County, MS",28031,Black or African American,Not Hispanic or Latino,66.0,6631.0,995.3,1063.8
+2019,Mississippi,28,"Covington County, MS",28031,White,Not Hispanic or Latino,195.0,11240.0,1734.9,1193.9
+2019,Mississippi,28,"DeSoto County, MS",28033,Black or African American,Not Hispanic or Latino,277.0,55139.0,502.4,853.4
+2019,Mississippi,28,"DeSoto County, MS",28033,White,Hispanic or Latino,14.0,8375.0,Unreliable,Unreliable
+2019,Mississippi,28,"DeSoto County, MS",28033,White,Not Hispanic or Latino,1192.0,114447.0,1041.5,856.4
+2019,Mississippi,28,"Forrest County, MS",28035,Black or African American,Not Hispanic or Latino,254.0,28062.0,905.1,1171.5
+2019,Mississippi,28,"Forrest County, MS",28035,White,Not Hispanic or Latino,507.0,42611.0,1189.8,922.0
+2019,Mississippi,28,"Franklin County, MS",28037,Black or African American,Not Hispanic or Latino,24.0,2645.0,907.4,784.4
+2019,Mississippi,28,"Franklin County, MS",28037,White,Not Hispanic or Latino,83.0,4846.0,1712.8,1040.3
+2019,Mississippi,28,"George County, MS",28039,Black or African American,Not Hispanic or Latino,20.0,1861.0,1074.7,1272.5
+2019,Mississippi,28,"George County, MS",28039,White,Not Hispanic or Latino,284.0,21303.0,1333.1,1261.6
+2019,Mississippi,28,"Greene County, MS",28041,Black or African American,Not Hispanic or Latino,21.0,3424.0,613.3,723.8
+2019,Mississippi,28,"Greene County, MS",28041,White,Not Hispanic or Latino,103.0,9808.0,1050.2,802.0
+2019,Mississippi,28,"Grenada County, MS",28043,Black or African American,Not Hispanic or Latino,120.0,8830.0,1359.0,1357.8
+2019,Mississippi,28,"Grenada County, MS",28043,White,Not Hispanic or Latino,179.0,11252.0,1590.8,1125.1
+2019,Mississippi,28,"Hancock County, MS",28045,Black or African American,Not Hispanic or Latino,31.0,3863.0,802.5,758.4
+2019,Mississippi,28,"Hancock County, MS",28045,White,Not Hispanic or Latino,483.0,40268.0,1199.5,813.9
+2019,Mississippi,28,"Harrison County, MS",28047,Asian,Not Hispanic or Latino,39.0,5897.0,661.4,762.0
+2019,Mississippi,28,"Harrison County, MS",28047,Black or African American,Not Hispanic or Latino,410.0,52925.0,774.7,1019.8
+2019,Mississippi,28,"Harrison County, MS",28047,White,Hispanic or Latino,41.0,9682.0,423.5,737.3
+2019,Mississippi,28,"Harrison County, MS",28047,White,Not Hispanic or Latino,1750.0,131483.0,1331.0,1004.3
+2019,Mississippi,28,"Hinds County, MS",28049,Asian,Not Hispanic or Latino,12.0,1697.0,Unreliable,Unreliable
+2019,Mississippi,28,"Hinds County, MS",28049,Black or African American,Not Hispanic or Latino,1464.0,168931.0,866.6,934.7
+2019,Mississippi,28,"Hinds County, MS",28049,White,Hispanic or Latino,15.0,2777.0,Unreliable,Unreliable
+2019,Mississippi,28,"Hinds County, MS",28049,White,Not Hispanic or Latino,848.0,55352.0,1532.0,846.5
+2019,Mississippi,28,"Holmes County, MS",28051,Black or African American,Not Hispanic or Latino,194.0,14028.0,1382.9,1337.5
+2019,Mississippi,28,"Holmes County, MS",28051,White,Not Hispanic or Latino,47.0,2587.0,1816.8,938.6
+2019,Mississippi,28,"Humphreys County, MS",28053,Black or African American,Not Hispanic or Latino,77.0,6032.0,1276.5,1258.5
+2019,Mississippi,28,"Humphreys County, MS",28053,White,Not Hispanic or Latino,39.0,1615.0,2414.9,1221.0
+2019,Mississippi,28,"Issaquena County, MS",28055,Black or African American,Not Hispanic or Latino,14.0,842.0,Unreliable,Unreliable
+2019,Mississippi,28,"Itawamba County, MS",28057,Black or African American,Not Hispanic or Latino,15.0,1606.0,Unreliable,Unreliable
+2019,Mississippi,28,"Itawamba County, MS",28057,White,Not Hispanic or Latino,320.0,20960.0,1526.7,1120.2
+2019,Mississippi,28,"Jackson County, MS",28059,Asian,Not Hispanic or Latino,13.0,3320.0,Unreliable,Unreliable
+2019,Mississippi,28,"Jackson County, MS",28059,Black or African American,Not Hispanic or Latino,266.0,30291.0,878.1,986.6
+2019,Mississippi,28,"Jackson County, MS",28059,White,Hispanic or Latino,26.0,8372.0,310.6,597.2
+2019,Mississippi,28,"Jackson County, MS",28059,White,Not Hispanic or Latino,1241.0,96828.0,1281.7,970.5
+2019,Mississippi,28,"Jasper County, MS",28061,Black or African American,Not Hispanic or Latino,77.0,8645.0,890.7,750.9
+2019,Mississippi,28,"Jasper County, MS",28061,White,Not Hispanic or Latino,134.0,7304.0,1834.6,1097.9
+2019,Mississippi,28,"Jefferson County, MS",28063,Black or African American,Not Hispanic or Latino,58.0,5945.0,975.6,818.7
+2019,Mississippi,28,"Jefferson County, MS",28063,White,Not Hispanic or Latino,14.0,904.0,Unreliable,Unreliable
+2019,Mississippi,28,"Jefferson Davis County, MS",28065,Black or African American,Not Hispanic or Latino,94.0,6593.0,1425.8,1203.6
+2019,Mississippi,28,"Jefferson Davis County, MS",28065,White,Not Hispanic or Latino,67.0,4176.0,1604.4,849.5
+2019,Mississippi,28,"Jones County, MS",28067,Black or African American,Not Hispanic or Latino,171.0,19942.0,857.5,955.4
+2019,Mississippi,28,"Jones County, MS",28067,White,Not Hispanic or Latino,613.0,43743.0,1401.4,970.5
+2019,Mississippi,28,"Kemper County, MS",28069,Black or African American,Not Hispanic or Latino,48.0,5944.0,807.5,632.5
+2019,Mississippi,28,"Kemper County, MS",28069,White,Not Hispanic or Latino,50.0,3281.0,1523.9,809.2
+2019,Mississippi,28,"Lafayette County, MS",28071,Black or African American,Not Hispanic or Latino,90.0,12684.0,709.6,879.9
+2019,Mississippi,28,"Lafayette County, MS",28071,White,Not Hispanic or Latino,292.0,37946.0,769.5,739.0
+2019,Mississippi,28,"Lamar County, MS",28073,Black or African American,Not Hispanic or Latino,54.0,13139.0,411.0,695.6
+2019,Mississippi,28,"Lamar County, MS",28073,White,Not Hispanic or Latino,363.0,46411.0,782.1,621.6
+2019,Mississippi,28,"Lauderdale County, MS",28075,Black or African American,Not Hispanic or Latino,309.0,32495.0,950.9,990.4
+2019,Mississippi,28,"Lauderdale County, MS",28075,White,Not Hispanic or Latino,575.0,38546.0,1491.7,940.1
+2019,Mississippi,28,"Lawrence County, MS",28077,Black or African American,Not Hispanic or Latino,32.0,4038.0,792.5,759.3
+2019,Mississippi,28,"Lawrence County, MS",28077,White,Not Hispanic or Latino,134.0,8111.0,1652.1,1184.4
+2019,Mississippi,28,"Leake County, MS",28079,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1285.0,Unreliable,Unreliable
+2019,Mississippi,28,"Leake County, MS",28079,Black or African American,Not Hispanic or Latino,74.0,9475.0,781.0,875.9
+2019,Mississippi,28,"Leake County, MS",28079,White,Not Hispanic or Latino,144.0,10624.0,1355.4,821.7
+2019,Mississippi,28,"Lee County, MS",28081,Black or African American,Not Hispanic or Latino,212.0,25831.0,820.7,1118.6
+2019,Mississippi,28,"Lee County, MS",28081,White,Not Hispanic or Latino,710.0,55204.0,1286.1,941.9
+2019,Mississippi,28,"Leflore County, MS",28083,Black or African American,Not Hispanic or Latino,214.0,20907.0,1023.6,1091.8
+2019,Mississippi,28,"Leflore County, MS",28083,White,Not Hispanic or Latino,140.0,6085.0,2300.7,1212.2
+2019,Mississippi,28,"Lincoln County, MS",28085,Black or African American,Not Hispanic or Latino,121.0,10271.0,1178.1,1224.6
+2019,Mississippi,28,"Lincoln County, MS",28085,White,Not Hispanic or Latino,317.0,22857.0,1386.9,993.7
+2019,Mississippi,28,"Lowndes County, MS",28087,Black or African American,Not Hispanic or Latino,253.0,26056.0,971.0,1074.3
+2019,Mississippi,28,"Lowndes County, MS",28087,White,Not Hispanic or Latino,442.0,30018.0,1472.4,1009.2
+2019,Mississippi,28,"Madison County, MS",28089,Black or African American,Not Hispanic or Latino,328.0,40349.0,812.9,1131.0
+2019,Mississippi,28,"Madison County, MS",28089,White,Not Hispanic or Latino,711.0,58588.0,1213.6,1010.2
+2019,Mississippi,28,"Marion County, MS",28091,Black or African American,Not Hispanic or Latino,91.0,7720.0,1178.8,1102.9
+2019,Mississippi,28,"Marion County, MS",28091,White,Not Hispanic or Latino,256.0,15999.0,1600.1,1040.8
+2019,Mississippi,28,"Marshall County, MS",28093,Black or African American,Not Hispanic or Latino,184.0,16442.0,1119.1,1027.1
+2019,Mississippi,28,"Marshall County, MS",28093,White,Not Hispanic or Latino,263.0,16913.0,1555.0,1055.0
+2019,Mississippi,28,"Monroe County, MS",28095,Black or African American,Not Hispanic or Latino,122.0,10670.0,1143.4,1052.1
+2019,Mississippi,28,"Monroe County, MS",28095,White,Not Hispanic or Latino,348.0,23622.0,1473.2,975.3
+2019,Mississippi,28,"Montgomery County, MS",28097,Black or African American,Not Hispanic or Latino,60.0,4340.0,1382.5,1217.1
+2019,Mississippi,28,"Montgomery County, MS",28097,White,Not Hispanic or Latino,96.0,5103.0,1881.2,1110.5
+2019,Mississippi,28,"Neshoba County, MS",28099,American Indian or Alaska Native,Not Hispanic or Latino,65.0,4884.0,1330.9,2682.4
+2019,Mississippi,28,"Neshoba County, MS",28099,Black or African American,Not Hispanic or Latino,65.0,6139.0,1058.8,1071.7
+2019,Mississippi,28,"Neshoba County, MS",28099,White,Not Hispanic or Latino,273.0,16794.0,1625.6,1094.5
+2019,Mississippi,28,"Newton County, MS",28101,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1106.0,Unreliable,Unreliable
+2019,Mississippi,28,"Newton County, MS",28101,Black or African American,Not Hispanic or Latino,69.0,6511.0,1059.7,1095.5
+2019,Mississippi,28,"Newton County, MS",28101,White,Not Hispanic or Latino,186.0,12681.0,1466.8,1037.1
+2019,Mississippi,28,"Noxubee County, MS",28103,Black or African American,Not Hispanic or Latino,84.0,7456.0,1126.6,1090.7
+2019,Mississippi,28,"Noxubee County, MS",28103,White,Not Hispanic or Latino,38.0,2684.0,1415.8,749.4
+2019,Mississippi,28,"Oktibbeha County, MS",28105,Black or African American,Not Hispanic or Latino,154.0,18501.0,832.4,977.2
+2019,Mississippi,28,"Oktibbeha County, MS",28105,White,Not Hispanic or Latino,184.0,27881.0,659.9,640.2
+2019,Mississippi,28,"Panola County, MS",28107,Black or African American,Not Hispanic or Latino,149.0,16991.0,876.9,1030.4
+2019,Mississippi,28,"Panola County, MS",28107,White,Not Hispanic or Latino,255.0,15934.0,1600.4,1033.0
+2019,Mississippi,28,"Pearl River County, MS",28109,Black or African American,Not Hispanic or Latino,75.0,6770.0,1107.8,1119.8
+2019,Mississippi,28,"Pearl River County, MS",28109,White,Not Hispanic or Latino,624.0,45389.0,1374.8,1031.2
+2019,Mississippi,28,"Perry County, MS",28111,Black or African American,Not Hispanic or Latino,24.0,2283.0,1051.2,898.3
+2019,Mississippi,28,"Perry County, MS",28111,White,Not Hispanic or Latino,122.0,9283.0,1314.2,933.1
+2019,Mississippi,28,"Pike County, MS",28113,Black or African American,Not Hispanic or Latino,216.0,21088.0,1024.3,1112.3
+2019,Mississippi,28,"Pike County, MS",28113,White,Not Hispanic or Latino,295.0,16828.0,1753.0,1082.3
+2019,Mississippi,28,"Pontotoc County, MS",28115,Black or African American,Not Hispanic or Latino,35.0,4796.0,729.8,720.8
+2019,Mississippi,28,"Pontotoc County, MS",28115,White,Not Hispanic or Latino,261.0,24412.0,1069.1,842.6
+2019,Mississippi,28,"Prentiss County, MS",28117,Black or African American,Not Hispanic or Latino,30.0,3579.0,838.2,954.5
+2019,Mississippi,28,"Prentiss County, MS",28117,White,Not Hispanic or Latino,285.0,20718.0,1375.6,978.1
+2019,Mississippi,28,"Quitman County, MS",28119,Black or African American,Not Hispanic or Latino,60.0,4832.0,1241.7,1208.8
+2019,Mississippi,28,"Quitman County, MS",28119,White,Not Hispanic or Latino,41.0,1718.0,2386.5,1283.2
+2019,Mississippi,28,"Rankin County, MS",28121,Black or African American,Not Hispanic or Latino,199.0,33206.0,599.3,780.1
+2019,Mississippi,28,"Rankin County, MS",28121,White,Not Hispanic or Latino,1011.0,113510.0,890.7,693.0
+2019,Mississippi,28,"Scott County, MS",28123,Black or African American,Not Hispanic or Latino,111.0,10504.0,1056.7,1149.1
+2019,Mississippi,28,"Scott County, MS",28123,White,Not Hispanic or Latino,201.0,13741.0,1462.8,1039.2
+2019,Mississippi,28,"Sharkey County, MS",28125,Black or African American,Not Hispanic or Latino,45.0,3041.0,1479.8,1144.5
+2019,Mississippi,28,"Sharkey County, MS",28125,White,Not Hispanic or Latino,16.0,1120.0,Unreliable,Unreliable
+2019,Mississippi,28,"Simpson County, MS",28127,Black or African American,Not Hispanic or Latino,100.0,9272.0,1078.5,1038.5
+2019,Mississippi,28,"Simpson County, MS",28127,White,Not Hispanic or Latino,207.0,16388.0,1263.1,885.2
+2019,Mississippi,28,"Smith County, MS",28129,Black or African American,Not Hispanic or Latino,38.0,3722.0,1021.0,1118.1
+2019,Mississippi,28,"Smith County, MS",28129,White,Not Hispanic or Latino,146.0,11756.0,1241.9,844.1
+2019,Mississippi,28,"Stone County, MS",28131,Black or African American,Not Hispanic or Latino,18.0,3467.0,Unreliable,Unreliable
+2019,Mississippi,28,"Stone County, MS",28131,White,Not Hispanic or Latino,179.0,14074.0,1271.8,1019.1
+2019,Mississippi,28,"Sunflower County, MS",28133,Black or African American,Not Hispanic or Latino,210.0,18359.0,1143.9,1244.6
+2019,Mississippi,28,"Sunflower County, MS",28133,White,Not Hispanic or Latino,118.0,5934.0,1988.5,1168.3
+2019,Mississippi,28,"Tallahatchie County, MS",28135,Black or African American,Not Hispanic or Latino,77.0,7764.0,991.8,1024.9
+2019,Mississippi,28,"Tallahatchie County, MS",28135,White,Not Hispanic or Latino,63.0,4764.0,1322.4,876.8
+2019,Mississippi,28,"Tate County, MS",28137,Black or African American,Not Hispanic or Latino,69.0,8651.0,797.6,839.3
+2019,Mississippi,28,"Tate County, MS",28137,White,Not Hispanic or Latino,226.0,18401.0,1228.2,917.0
+2019,Mississippi,28,"Tippah County, MS",28139,Black or African American,Not Hispanic or Latino,42.0,3612.0,1162.8,1253.9
+2019,Mississippi,28,"Tippah County, MS",28139,White,Not Hispanic or Latino,227.0,16912.0,1342.2,1060.0
+2019,Mississippi,28,"Tishomingo County, MS",28141,Black or African American,Not Hispanic or Latino,10.0,470.0,Unreliable,Unreliable
+2019,Mississippi,28,"Tishomingo County, MS",28141,White,Not Hispanic or Latino,280.0,17996.0,1555.9,1077.5
+2019,Mississippi,28,"Tunica County, MS",28143,Black or African American,Not Hispanic or Latino,68.0,7421.0,916.3,1143.6
+2019,Mississippi,28,"Tunica County, MS",28143,White,Not Hispanic or Latino,41.0,1788.0,2293.1,1327.6
+2019,Mississippi,28,"Union County, MS",28145,Black or African American,Not Hispanic or Latino,43.0,4356.0,987.1,1069.9
+2019,Mississippi,28,"Union County, MS",28145,White,Not Hispanic or Latino,272.0,22358.0,1216.6,912.8
+2019,Mississippi,28,"Walthall County, MS",28147,Black or African American,Not Hispanic or Latino,63.0,6103.0,1032.3,965.9
+2019,Mississippi,28,"Walthall County, MS",28147,White,Not Hispanic or Latino,110.0,7551.0,1456.8,845.1
+2019,Mississippi,28,"Warren County, MS",28149,Black or African American,Not Hispanic or Latino,210.0,22204.0,945.8,1022.0
+2019,Mississippi,28,"Warren County, MS",28149,White,Not Hispanic or Latino,250.0,21252.0,1176.4,730.4
+2019,Mississippi,28,"Washington County, MS",28151,Black or African American,Not Hispanic or Latino,417.0,31581.0,1320.4,1368.3
+2019,Mississippi,28,"Washington County, MS",28151,White,Not Hispanic or Latino,220.0,10880.0,2022.1,1163.7
+2019,Mississippi,28,"Wayne County, MS",28153,Black or African American,Not Hispanic or Latino,67.0,7963.0,841.4,912.6
+2019,Mississippi,28,"Wayne County, MS",28153,White,Not Hispanic or Latino,135.0,11599.0,1163.9,778.3
+2019,Mississippi,28,"Webster County, MS",28155,Black or African American,Not Hispanic or Latino,22.0,1796.0,1224.9,1247.1
+2019,Mississippi,28,"Webster County, MS",28155,White,Not Hispanic or Latino,101.0,7597.0,1329.5,995.5
+2019,Mississippi,28,"Wilkinson County, MS",28157,Black or African American,Not Hispanic or Latino,83.0,6062.0,1369.2,1324.7
+2019,Mississippi,28,"Wilkinson County, MS",28157,White,Not Hispanic or Latino,46.0,2383.0,1930.3,1022.6
+2019,Mississippi,28,"Winston County, MS",28159,Black or African American,Not Hispanic or Latino,85.0,8362.0,1016.5,940.9
+2019,Mississippi,28,"Winston County, MS",28159,White,Not Hispanic or Latino,144.0,8912.0,1615.8,896.3
+2019,Mississippi,28,"Yalobusha County, MS",28161,Black or African American,Not Hispanic or Latino,58.0,4673.0,1241.2,1093.6
+2019,Mississippi,28,"Yalobusha County, MS",28161,White,Not Hispanic or Latino,148.0,7019.0,2108.6,1336.1
+2019,Mississippi,28,"Yazoo County, MS",28163,Black or African American,Not Hispanic or Latino,133.0,16690.0,796.9,983.5
+2019,Mississippi,28,"Yazoo County, MS",28163,White,Not Hispanic or Latino,150.0,9948.0,1507.8,948.3
+2020,Mississippi,28,"Adams County, MS",28001,Black or African American,Not Hispanic or Latino,252.0,15954.0,1579.5,1295.7
+2020,Mississippi,28,"Adams County, MS",28001,White,Not Hispanic or Latino,235.0,10888.0,2158.3,1109.2
+2020,Mississippi,28,"Alcorn County, MS",28003,Black or African American,Not Hispanic or Latino,49.0,4567.0,1072.9,1100.0
+2020,Mississippi,28,"Alcorn County, MS",28003,White,Not Hispanic or Latino,487.0,30342.0,1605.0,1109.1
+2020,Mississippi,28,"Amite County, MS",28005,Black or African American,Not Hispanic or Latino,77.0,4772.0,1613.6,1143.5
+2020,Mississippi,28,"Amite County, MS",28005,White,Not Hispanic or Latino,116.0,7076.0,1639.3,909.0
+2020,Mississippi,28,"Attala County, MS",28007,Black or African American,Not Hispanic or Latino,125.0,7838.0,1594.8,1509.6
+2020,Mississippi,28,"Attala County, MS",28007,White,Not Hispanic or Latino,187.0,9513.0,1965.7,1116.7
+2020,Mississippi,28,"Benton County, MS",28009,Black or African American,Not Hispanic or Latino,35.0,2922.0,1197.8,1039.5
+2020,Mississippi,28,"Benton County, MS",28009,White,Not Hispanic or Latino,102.0,5031.0,2027.4,1343.1
+2020,Mississippi,28,"Bolivar County, MS",28011,Black or African American,Not Hispanic or Latino,372.0,19245.0,1933.0,1902.9
+2020,Mississippi,28,"Bolivar County, MS",28011,White,Not Hispanic or Latino,176.0,9664.0,1821.2,1145.0
+2020,Mississippi,28,"Calhoun County, MS",28013,Black or African American,Not Hispanic or Latino,61.0,3964.0,1538.8,1418.1
+2020,Mississippi,28,"Calhoun County, MS",28013,White,Not Hispanic or Latino,187.0,9173.0,2038.6,1260.1
+2020,Mississippi,28,"Carroll County, MS",28015,Black or African American,Not Hispanic or Latino,52.0,3195.0,1627.5,1236.6
+2020,Mississippi,28,"Carroll County, MS",28015,White,Not Hispanic or Latino,109.0,6235.0,1748.2,1049.1
+2020,Mississippi,28,"Chickasaw County, MS",28017,Black or African American,Not Hispanic or Latino,109.0,7505.0,1452.4,1445.8
+2020,Mississippi,28,"Chickasaw County, MS",28017,White,Not Hispanic or Latino,139.0,8267.0,1681.4,1028.6
+2020,Mississippi,28,"Choctaw County, MS",28019,Black or African American,Not Hispanic or Latino,41.0,2381.0,1722.0,1380.9
+2020,Mississippi,28,"Choctaw County, MS",28019,White,Not Hispanic or Latino,92.0,5400.0,1703.7,952.7
+2020,Mississippi,28,"Claiborne County, MS",28021,Black or African American,Not Hispanic or Latino,104.0,7628.0,1363.4,1465.9
+2020,Mississippi,28,"Claiborne County, MS",28021,White,Not Hispanic or Latino,19.0,968.0,Unreliable,Unreliable
+2020,Mississippi,28,"Clarke County, MS",28023,Black or African American,Not Hispanic or Latino,89.0,5270.0,1688.8,1539.0
+2020,Mississippi,28,"Clarke County, MS",28023,White,Not Hispanic or Latino,170.0,9645.0,1762.6,1109.6
+2020,Mississippi,28,"Clay County, MS",28025,Black or African American,Not Hispanic or Latino,140.0,11365.0,1231.9,1179.5
+2020,Mississippi,28,"Clay County, MS",28025,White,Not Hispanic or Latino,135.0,7411.0,1821.6,937.9
+2020,Mississippi,28,"Coahoma County, MS",28027,Black or African American,Not Hispanic or Latino,292.0,16686.0,1750.0,1812.8
+2020,Mississippi,28,"Coahoma County, MS",28027,White,Not Hispanic or Latino,88.0,4260.0,2065.7,995.6
+2020,Mississippi,28,"Copiah County, MS",28029,Black or African American,Not Hispanic or Latino,211.0,14348.0,1470.6,1367.6
+2020,Mississippi,28,"Copiah County, MS",28029,White,Not Hispanic or Latino,202.0,12151.0,1662.4,979.6
+2020,Mississippi,28,"Covington County, MS",28031,Black or African American,Not Hispanic or Latino,108.0,6624.0,1630.4,1717.7
+2020,Mississippi,28,"Covington County, MS",28031,White,Not Hispanic or Latino,236.0,11110.0,2124.2,1428.6
+2020,Mississippi,28,"DeSoto County, MS",28033,Asian,Not Hispanic or Latino,11.0,3029.0,Unreliable,Unreliable
+2020,Mississippi,28,"DeSoto County, MS",28033,Black or African American,Not Hispanic or Latino,374.0,58509.0,639.2,1102.9
+2020,Mississippi,28,"DeSoto County, MS",28033,White,Hispanic or Latino,24.0,8446.0,284.2,548.1
+2020,Mississippi,28,"DeSoto County, MS",28033,White,Not Hispanic or Latino,1342.0,113905.0,1178.2,941.2
+2020,Mississippi,28,"Forrest County, MS",28035,Black or African American,Not Hispanic or Latino,330.0,27941.0,1181.1,1470.1
+2020,Mississippi,28,"Forrest County, MS",28035,White,Not Hispanic or Latino,581.0,42698.0,1360.7,1025.2
+2020,Mississippi,28,"Franklin County, MS",28037,Black or African American,Not Hispanic or Latino,56.0,2647.0,2115.6,1902.6
+2020,Mississippi,28,"Franklin County, MS",28037,White,Not Hispanic or Latino,66.0,4792.0,1377.3,737.3
+2020,Mississippi,28,"George County, MS",28039,Black or African American,Not Hispanic or Latino,28.0,1856.0,1508.6,1534.7
+2020,Mississippi,28,"George County, MS",28039,White,Not Hispanic or Latino,294.0,21272.0,1382.1,1392.3
+2020,Mississippi,28,"Greene County, MS",28041,Black or African American,Not Hispanic or Latino,25.0,3393.0,736.8,931.3
+2020,Mississippi,28,"Greene County, MS",28041,White,Not Hispanic or Latino,136.0,9709.0,1400.8,1092.3
+2020,Mississippi,28,"Grenada County, MS",28043,Black or African American,Not Hispanic or Latino,147.0,8836.0,1663.6,1680.9
+2020,Mississippi,28,"Grenada County, MS",28043,White,Not Hispanic or Latino,222.0,11084.0,2002.9,1326.2
+2020,Mississippi,28,"Hancock County, MS",28045,Black or African American,Not Hispanic or Latino,52.0,4025.0,1291.9,1282.9
+2020,Mississippi,28,"Hancock County, MS",28045,White,Not Hispanic or Latino,556.0,40505.0,1372.7,947.3
+2020,Mississippi,28,"Harrison County, MS",28047,Asian,Not Hispanic or Latino,40.0,5874.0,681.0,732.8
+2020,Mississippi,28,"Harrison County, MS",28047,Black or African American,Not Hispanic or Latino,481.0,53781.0,894.4,1127.8
+2020,Mississippi,28,"Harrison County, MS",28047,White,Hispanic or Latino,34.0,9508.0,357.6,568.9
+2020,Mississippi,28,"Harrison County, MS",28047,White,Not Hispanic or Latino,1876.0,131185.0,1430.0,1047.7
+2020,Mississippi,28,"Hinds County, MS",28049,Black or African American,Not Hispanic or Latino,1897.0,166770.0,1137.5,1181.8
+2020,Mississippi,28,"Hinds County, MS",28049,White,Hispanic or Latino,15.0,2626.0,Unreliable,Unreliable
+2020,Mississippi,28,"Hinds County, MS",28049,White,Not Hispanic or Latino,941.0,53896.0,1746.0,990.6
+2020,Mississippi,28,"Holmes County, MS",28051,Black or African American,Not Hispanic or Latino,244.0,13846.0,1762.2,1700.7
+2020,Mississippi,28,"Holmes County, MS",28051,White,Not Hispanic or Latino,51.0,2502.0,2038.4,1107.3
+2020,Mississippi,28,"Humphreys County, MS",28053,Black or African American,Not Hispanic or Latino,98.0,5869.0,1669.8,1495.8
+2020,Mississippi,28,"Humphreys County, MS",28053,White,Not Hispanic or Latino,38.0,1560.0,2435.9,1274.3
+2020,Mississippi,28,"Itawamba County, MS",28057,Black or African American,Not Hispanic or Latino,18.0,1600.0,Unreliable,Unreliable
+2020,Mississippi,28,"Itawamba County, MS",28057,White,Not Hispanic or Latino,343.0,20840.0,1645.9,1157.3
+2020,Mississippi,28,"Jackson County, MS",28059,Asian,Not Hispanic or Latino,15.0,3265.0,Unreliable,Unreliable
+2020,Mississippi,28,"Jackson County, MS",28059,Black or African American,Not Hispanic or Latino,354.0,30281.0,1169.0,1252.7
+2020,Mississippi,28,"Jackson County, MS",28059,White,Hispanic or Latino,13.0,8390.0,Unreliable,Unreliable
+2020,Mississippi,28,"Jackson County, MS",28059,White,Not Hispanic or Latino,1293.0,96894.0,1334.4,1002.1
+2020,Mississippi,28,"Jasper County, MS",28061,Black or African American,Not Hispanic or Latino,137.0,8647.0,1584.4,1363.3
+2020,Mississippi,28,"Jasper County, MS",28061,White,Not Hispanic or Latino,107.0,7243.0,1477.3,867.4
+2020,Mississippi,28,"Jefferson County, MS",28063,Black or African American,Not Hispanic or Latino,93.0,5917.0,1571.7,1327.0
+2020,Mississippi,28,"Jefferson County, MS",28063,White,Not Hispanic or Latino,14.0,936.0,Unreliable,Unreliable
+2020,Mississippi,28,"Jefferson Davis County, MS",28065,Black or African American,Not Hispanic or Latino,99.0,6466.0,1531.1,1233.2
+2020,Mississippi,28,"Jefferson Davis County, MS",28065,White,Not Hispanic or Latino,77.0,4077.0,1888.6,884.8
+2020,Mississippi,28,"Jones County, MS",28067,Black or African American,Not Hispanic or Latino,224.0,19912.0,1124.9,1197.5
+2020,Mississippi,28,"Jones County, MS",28067,White,Not Hispanic or Latino,664.0,43722.0,1518.7,1050.8
+2020,Mississippi,28,"Kemper County, MS",28069,Black or African American,Not Hispanic or Latino,66.0,5785.0,1140.9,929.1
+2020,Mississippi,28,"Kemper County, MS",28069,White,Not Hispanic or Latino,61.0,3189.0,1912.8,901.6
+2020,Mississippi,28,"Lafayette County, MS",28071,Black or African American,Not Hispanic or Latino,125.0,12758.0,979.8,1228.2
+2020,Mississippi,28,"Lafayette County, MS",28071,White,Not Hispanic or Latino,361.0,38160.0,946.0,883.2
+2020,Mississippi,28,"Lamar County, MS",28073,Black or African American,Not Hispanic or Latino,65.0,13722.0,473.7,851.3
+2020,Mississippi,28,"Lamar County, MS",28073,White,Not Hispanic or Latino,486.0,46549.0,1044.1,823.6
+2020,Mississippi,28,"Lauderdale County, MS",28075,Black or African American,Not Hispanic or Latino,466.0,32617.0,1428.7,1431.6
+2020,Mississippi,28,"Lauderdale County, MS",28075,White,Not Hispanic or Latino,710.0,37902.0,1873.3,1155.9
+2020,Mississippi,28,"Lawrence County, MS",28077,Black or African American,Not Hispanic or Latino,56.0,4022.0,1392.3,1344.5
+2020,Mississippi,28,"Lawrence County, MS",28077,White,Not Hispanic or Latino,146.0,8002.0,1824.5,1289.9
+2020,Mississippi,28,"Leake County, MS",28079,American Indian or Alaska Native,Not Hispanic or Latino,31.0,1243.0,2494.0,2993.3
+2020,Mississippi,28,"Leake County, MS",28079,Black or African American,Not Hispanic or Latino,103.0,9597.0,1073.3,1144.5
+2020,Mississippi,28,"Leake County, MS",28079,White,Not Hispanic or Latino,177.0,10522.0,1682.2,979.4
+2020,Mississippi,28,"Lee County, MS",28081,Black or African American,Not Hispanic or Latino,277.0,26139.0,1059.7,1415.0
+2020,Mississippi,28,"Lee County, MS",28081,White,Hispanic or Latino,11.0,2009.0,Unreliable,Unreliable
+2020,Mississippi,28,"Lee County, MS",28081,White,Not Hispanic or Latino,839.0,54679.0,1534.4,1133.8
+2020,Mississippi,28,"Leflore County, MS",28083,Black or African American,Not Hispanic or Latino,378.0,20770.0,1819.9,1915.0
+2020,Mississippi,28,"Leflore County, MS",28083,White,Not Hispanic or Latino,174.0,5900.0,2949.2,1596.3
+2020,Mississippi,28,"Lincoln County, MS",28085,Black or African American,Not Hispanic or Latino,163.0,10191.0,1599.5,1628.5
+2020,Mississippi,28,"Lincoln County, MS",28085,White,Not Hispanic or Latino,380.0,22722.0,1672.4,1186.4
+2020,Mississippi,28,"Lowndes County, MS",28087,Black or African American,Not Hispanic or Latino,331.0,26083.0,1269.0,1364.6
+2020,Mississippi,28,"Lowndes County, MS",28087,White,Not Hispanic or Latino,468.0,29632.0,1579.4,1075.9
+2020,Mississippi,28,"Madison County, MS",28089,Asian,Not Hispanic or Latino,13.0,2999.0,Unreliable,Unreliable
+2020,Mississippi,28,"Madison County, MS",28089,Black or African American,Not Hispanic or Latino,400.0,40608.0,985.0,1361.4
+2020,Mississippi,28,"Madison County, MS",28089,White,Hispanic or Latino,11.0,2511.0,Unreliable,Unreliable
+2020,Mississippi,28,"Madison County, MS",28089,White,Not Hispanic or Latino,758.0,58842.0,1288.2,1046.0
+2020,Mississippi,28,"Marion County, MS",28091,Black or African American,Not Hispanic or Latino,136.0,7684.0,1769.9,1610.5
+2020,Mississippi,28,"Marion County, MS",28091,White,Not Hispanic or Latino,311.0,15896.0,1956.5,1275.4
+2020,Mississippi,28,"Marshall County, MS",28093,Black or African American,Not Hispanic or Latino,218.0,16389.0,1330.2,1217.3
+2020,Mississippi,28,"Marshall County, MS",28093,White,Not Hispanic or Latino,286.0,16883.0,1694.0,1165.5
+2020,Mississippi,28,"Monroe County, MS",28095,Black or African American,Not Hispanic or Latino,152.0,10644.0,1428.0,1286.8
+2020,Mississippi,28,"Monroe County, MS",28095,White,Not Hispanic or Latino,434.0,23469.0,1849.2,1181.2
+2020,Mississippi,28,"Montgomery County, MS",28097,Black or African American,Not Hispanic or Latino,102.0,4282.0,2382.1,1804.3
+2020,Mississippi,28,"Montgomery County, MS",28097,White,Not Hispanic or Latino,99.0,5054.0,1958.8,1081.1
+2020,Mississippi,28,"Neshoba County, MS",28099,American Indian or Alaska Native,Not Hispanic or Latino,146.0,4788.0,3049.3,5560.4
+2020,Mississippi,28,"Neshoba County, MS",28099,Black or African American,Not Hispanic or Latino,91.0,6146.0,1480.6,1536.3
+2020,Mississippi,28,"Neshoba County, MS",28099,White,Not Hispanic or Latino,321.0,16732.0,1918.5,1302.3
+2020,Mississippi,28,"Newton County, MS",28101,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1071.0,Unreliable,Unreliable
+2020,Mississippi,28,"Newton County, MS",28101,Black or African American,Not Hispanic or Latino,103.0,6496.0,1585.6,1561.2
+2020,Mississippi,28,"Newton County, MS",28101,White,Not Hispanic or Latino,195.0,12544.0,1554.5,1088.7
+2020,Mississippi,28,"Noxubee County, MS",28103,Black or African American,Not Hispanic or Latino,113.0,7379.0,1531.4,1461.4
+2020,Mississippi,28,"Noxubee County, MS",28103,White,Not Hispanic or Latino,52.0,2600.0,2000.0,1051.4
+2020,Mississippi,28,"Oktibbeha County, MS",28105,Black or African American,Not Hispanic or Latino,201.0,18655.0,1077.5,1242.3
+2020,Mississippi,28,"Oktibbeha County, MS",28105,White,Not Hispanic or Latino,246.0,27958.0,879.9,866.2
+2020,Mississippi,28,"Panola County, MS",28107,Black or African American,Not Hispanic or Latino,197.0,16888.0,1166.5,1399.8
+2020,Mississippi,28,"Panola County, MS",28107,White,Not Hispanic or Latino,273.0,15778.0,1730.3,1096.1
+2020,Mississippi,28,"Pearl River County, MS",28109,Black or African American,Not Hispanic or Latino,120.0,6757.0,1775.9,1812.0
+2020,Mississippi,28,"Pearl River County, MS",28109,White,Not Hispanic or Latino,714.0,45600.0,1565.8,1132.8
+2020,Mississippi,28,"Perry County, MS",28111,Black or African American,Not Hispanic or Latino,33.0,2235.0,1476.5,1297.4
+2020,Mississippi,28,"Perry County, MS",28111,White,Not Hispanic or Latino,174.0,9218.0,1887.6,1320.3
+2020,Mississippi,28,"Pike County, MS",28113,Black or African American,Not Hispanic or Latino,289.0,21146.0,1366.7,1447.7
+2020,Mississippi,28,"Pike County, MS",28113,White,Not Hispanic or Latino,330.0,16496.0,2000.5,1227.0
+2020,Mississippi,28,"Pontotoc County, MS",28115,Black or African American,Not Hispanic or Latino,50.0,4843.0,1032.4,1046.7
+2020,Mississippi,28,"Pontotoc County, MS",28115,White,Hispanic or Latino,10.0,1906.0,Unreliable,Unreliable
+2020,Mississippi,28,"Pontotoc County, MS",28115,White,Not Hispanic or Latino,365.0,24630.0,1481.9,1169.7
+2020,Mississippi,28,"Prentiss County, MS",28117,Black or African American,Not Hispanic or Latino,49.0,3591.0,1364.5,1547.2
+2020,Mississippi,28,"Prentiss County, MS",28117,White,Not Hispanic or Latino,344.0,20624.0,1668.0,1158.8
+2020,Mississippi,28,"Quitman County, MS",28119,Black or African American,Not Hispanic or Latino,91.0,4859.0,1872.8,1813.7
+2020,Mississippi,28,"Quitman County, MS",28119,White,Not Hispanic or Latino,48.0,1669.0,2876.0,1570.7
+2020,Mississippi,28,"Rankin County, MS",28121,Asian,Not Hispanic or Latino,10.0,2105.0,Unreliable,Unreliable
+2020,Mississippi,28,"Rankin County, MS",28121,Black or African American,Not Hispanic or Latino,270.0,33722.0,800.7,1032.4
+2020,Mississippi,28,"Rankin County, MS",28121,White,Not Hispanic or Latino,1319.0,113795.0,1159.1,856.1
+2020,Mississippi,28,"Scott County, MS",28123,Black or African American,Not Hispanic or Latino,124.0,10503.0,1180.6,1252.6
+2020,Mississippi,28,"Scott County, MS",28123,White,Hispanic or Latino,18.0,2589.0,Unreliable,Unreliable
+2020,Mississippi,28,"Scott County, MS",28123,White,Not Hispanic or Latino,208.0,13729.0,1515.0,1055.8
+2020,Mississippi,28,"Sharkey County, MS",28125,Black or African American,Not Hispanic or Latino,54.0,2949.0,1831.1,1476.2
+2020,Mississippi,28,"Sharkey County, MS",28125,White,Not Hispanic or Latino,30.0,1047.0,2865.3,1275.5
+2020,Mississippi,28,"Simpson County, MS",28127,Black or African American,Not Hispanic or Latino,138.0,9333.0,1478.6,1297.4
+2020,Mississippi,28,"Simpson County, MS",28127,White,Not Hispanic or Latino,265.0,16277.0,1628.1,1101.0
+2020,Mississippi,28,"Smith County, MS",28129,Black or African American,Not Hispanic or Latino,42.0,3676.0,1142.5,1126.9
+2020,Mississippi,28,"Smith County, MS",28129,White,Not Hispanic or Latino,162.0,11655.0,1390.0,863.6
+2020,Mississippi,28,"Stone County, MS",28131,Black or African American,Not Hispanic or Latino,39.0,3456.0,1128.5,1300.7
+2020,Mississippi,28,"Stone County, MS",28131,White,Not Hispanic or Latino,209.0,14068.0,1485.6,1259.9
+2020,Mississippi,28,"Sunflower County, MS",28133,Black or African American,Not Hispanic or Latino,295.0,18124.0,1627.7,1775.8
+2020,Mississippi,28,"Sunflower County, MS",28133,White,Not Hispanic or Latino,137.0,5820.0,2354.0,1386.9
+2020,Mississippi,28,"Tallahatchie County, MS",28135,Black or African American,Not Hispanic or Latino,116.0,7611.0,1524.1,1627.9
+2020,Mississippi,28,"Tallahatchie County, MS",28135,White,Not Hispanic or Latino,92.0,4767.0,1929.9,1099.8
+2020,Mississippi,28,"Tate County, MS",28137,Black or African American,Not Hispanic or Latino,113.0,8788.0,1285.8,1403.9
+2020,Mississippi,28,"Tate County, MS",28137,White,Not Hispanic or Latino,300.0,18445.0,1626.5,1214.7
+2020,Mississippi,28,"Tippah County, MS",28139,Black or African American,Not Hispanic or Latino,53.0,3564.0,1487.1,1552.4
+2020,Mississippi,28,"Tippah County, MS",28139,White,Not Hispanic or Latino,275.0,16721.0,1644.6,1272.1
+2020,Mississippi,28,"Tishomingo County, MS",28141,White,Not Hispanic or Latino,356.0,17854.0,1994.0,1388.3
+2020,Mississippi,28,"Tunica County, MS",28143,Black or African American,Not Hispanic or Latino,110.0,7216.0,1524.4,1771.5
+2020,Mississippi,28,"Tunica County, MS",28143,White,Not Hispanic or Latino,32.0,1730.0,1849.7,1166.4
+2020,Mississippi,28,"Union County, MS",28145,Black or African American,Not Hispanic or Latino,46.0,4460.0,1031.4,1060.2
+2020,Mississippi,28,"Union County, MS",28145,White,Not Hispanic or Latino,305.0,22303.0,1367.5,1027.9
+2020,Mississippi,28,"Walthall County, MS",28147,Black or African American,Not Hispanic or Latino,87.0,6100.0,1426.2,1358.7
+2020,Mississippi,28,"Walthall County, MS",28147,White,Not Hispanic or Latino,146.0,7523.0,1940.7,1116.9
+2020,Mississippi,28,"Warren County, MS",28149,Black or African American,Not Hispanic or Latino,293.0,21993.0,1332.2,1391.8
+2020,Mississippi,28,"Warren County, MS",28149,White,Not Hispanic or Latino,377.0,21011.0,1794.3,1165.0
+2020,Mississippi,28,"Washington County, MS",28151,Black or African American,Not Hispanic or Latino,528.0,30910.0,1708.2,1714.9
+2020,Mississippi,28,"Washington County, MS",28151,White,Not Hispanic or Latino,250.0,10488.0,2383.7,1363.6
+2020,Mississippi,28,"Wayne County, MS",28153,Black or African American,Not Hispanic or Latino,104.0,8111.0,1282.2,1372.1
+2020,Mississippi,28,"Wayne County, MS",28153,White,Not Hispanic or Latino,151.0,11551.0,1307.2,857.8
+2020,Mississippi,28,"Webster County, MS",28155,Black or African American,Not Hispanic or Latino,33.0,1769.0,1865.5,2006.3
+2020,Mississippi,28,"Webster County, MS",28155,White,Not Hispanic or Latino,135.0,7602.0,1775.8,1384.3
+2020,Mississippi,28,"Wilkinson County, MS",28157,Black or African American,Not Hispanic or Latino,90.0,5861.0,1535.6,1433.2
+2020,Mississippi,28,"Wilkinson County, MS",28157,White,Not Hispanic or Latino,55.0,2304.0,2387.2,1340.6
+2020,Mississippi,28,"Winston County, MS",28159,Black or African American,Not Hispanic or Latino,114.0,8282.0,1376.5,1246.7
+2020,Mississippi,28,"Winston County, MS",28159,White,Not Hispanic or Latino,179.0,8840.0,2024.9,1122.2
+2020,Mississippi,28,"Yalobusha County, MS",28161,Black or African American,Not Hispanic or Latino,71.0,4629.0,1533.8,1574.0
+2020,Mississippi,28,"Yalobusha County, MS",28161,White,Not Hispanic or Latino,174.0,6916.0,2515.9,1619.3
+2020,Mississippi,28,"Yazoo County, MS",28163,Black or African American,Not Hispanic or Latino,194.0,15350.0,1263.8,1445.7
+2020,Mississippi,28,"Yazoo County, MS",28163,White,Not Hispanic or Latino,164.0,9307.0,1762.1,1055.4
+2021 (provisional),Mississippi,28,"Adams County, MS",28001,Black or African American,Not Hispanic or Latino,270.0,15954.0,1692.4,1401.7
+2021 (provisional),Mississippi,28,"Adams County, MS",28001,White,Not Hispanic or Latino,193.0,10888.0,1772.6,928.9
+2021 (provisional),Mississippi,28,"Alcorn County, MS",28003,Black or African American,Not Hispanic or Latino,53.0,4567.0,1160.5,1274.5
+2021 (provisional),Mississippi,28,"Alcorn County, MS",28003,White,Not Hispanic or Latino,483.0,30342.0,1591.9,1111.4
+2021 (provisional),Mississippi,28,"Amite County, MS",28005,Black or African American,Not Hispanic or Latino,91.0,4772.0,1907.0,1477.4
+2021 (provisional),Mississippi,28,"Amite County, MS",28005,White,Not Hispanic or Latino,130.0,7076.0,1837.2,1051.4
+2021 (provisional),Mississippi,28,"Attala County, MS",28007,Black or African American,Not Hispanic or Latino,101.0,7838.0,1288.6,1179.5
+2021 (provisional),Mississippi,28,"Attala County, MS",28007,White,Not Hispanic or Latino,203.0,9513.0,2133.9,1256.9
+2021 (provisional),Mississippi,28,"Benton County, MS",28009,Black or African American,Not Hispanic or Latino,44.0,2922.0,1505.8,1325.1
+2021 (provisional),Mississippi,28,"Benton County, MS",28009,White,Not Hispanic or Latino,86.0,5031.0,1709.4,1133.5
+2021 (provisional),Mississippi,28,"Bolivar County, MS",28011,Black or African American,Not Hispanic or Latino,315.0,19245.0,1636.8,1650.5
+2021 (provisional),Mississippi,28,"Bolivar County, MS",28011,White,Not Hispanic or Latino,166.0,9664.0,1717.7,1139.2
+2021 (provisional),Mississippi,28,"Calhoun County, MS",28013,Black or African American,Not Hispanic or Latino,48.0,3964.0,1210.9,1096.9
+2021 (provisional),Mississippi,28,"Calhoun County, MS",28013,White,Not Hispanic or Latino,177.0,9173.0,1929.6,1125.6
+2021 (provisional),Mississippi,28,"Carroll County, MS",28015,Black or African American,Not Hispanic or Latino,48.0,3195.0,1502.3,1102.9
+2021 (provisional),Mississippi,28,"Carroll County, MS",28015,White,Not Hispanic or Latino,106.0,6235.0,1700.1,942.4
+2021 (provisional),Mississippi,28,"Chickasaw County, MS",28017,Black or African American,Not Hispanic or Latino,90.0,7505.0,1199.2,1210.6
+2021 (provisional),Mississippi,28,"Chickasaw County, MS",28017,White,Not Hispanic or Latino,154.0,8267.0,1862.8,1169.4
+2021 (provisional),Mississippi,28,"Choctaw County, MS",28019,Black or African American,Not Hispanic or Latino,28.0,2381.0,1176.0,1031.6
+2021 (provisional),Mississippi,28,"Choctaw County, MS",28019,White,Not Hispanic or Latino,87.0,5400.0,1611.1,930.3
+2021 (provisional),Mississippi,28,"Claiborne County, MS",28021,Black or African American,Not Hispanic or Latino,109.0,7628.0,1428.9,1471.0
+2021 (provisional),Mississippi,28,"Claiborne County, MS",28021,White,Not Hispanic or Latino,21.0,968.0,2169.4,1138.3
+2021 (provisional),Mississippi,28,"Clarke County, MS",28023,Black or African American,Not Hispanic or Latino,91.0,5270.0,1726.8,1493.2
+2021 (provisional),Mississippi,28,"Clarke County, MS",28023,White,Not Hispanic or Latino,162.0,9645.0,1679.6,1036.3
+2021 (provisional),Mississippi,28,"Clay County, MS",28025,Black or African American,Not Hispanic or Latino,147.0,11365.0,1293.4,1277.0
+2021 (provisional),Mississippi,28,"Clay County, MS",28025,White,Not Hispanic or Latino,140.0,7411.0,1889.1,1005.0
+2021 (provisional),Mississippi,28,"Coahoma County, MS",28027,Black or African American,Not Hispanic or Latino,306.0,16686.0,1833.9,1924.4
+2021 (provisional),Mississippi,28,"Coahoma County, MS",28027,White,Not Hispanic or Latino,77.0,4260.0,1807.5,992.7
+2021 (provisional),Mississippi,28,"Copiah County, MS",28029,Black or African American,Not Hispanic or Latino,193.0,14348.0,1345.1,1289.7
+2021 (provisional),Mississippi,28,"Copiah County, MS",28029,White,Not Hispanic or Latino,202.0,12151.0,1662.4,1014.7
+2021 (provisional),Mississippi,28,"Covington County, MS",28031,Black or African American,Not Hispanic or Latino,87.0,6624.0,1313.4,1395.7
+2021 (provisional),Mississippi,28,"Covington County, MS",28031,White,Not Hispanic or Latino,212.0,11110.0,1908.2,1305.2
+2021 (provisional),Mississippi,28,"DeSoto County, MS",28033,Asian,Not Hispanic or Latino,18.0,3029.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"DeSoto County, MS",28033,Black or African American,Not Hispanic or Latino,394.0,58509.0,673.4,1070.9
+2021 (provisional),Mississippi,28,"DeSoto County, MS",28033,White,Hispanic or Latino,26.0,8446.0,307.8,759.6
+2021 (provisional),Mississippi,28,"DeSoto County, MS",28033,White,Not Hispanic or Latino,1629.0,113905.0,1430.1,1144.7
+2021 (provisional),Mississippi,28,"Forrest County, MS",28035,Black or African American,Not Hispanic or Latino,321.0,27941.0,1148.8,1379.4
+2021 (provisional),Mississippi,28,"Forrest County, MS",28035,White,Not Hispanic or Latino,695.0,42698.0,1627.7,1245.6
+2021 (provisional),Mississippi,28,"Franklin County, MS",28037,Black or African American,Not Hispanic or Latino,45.0,2647.0,1700.0,1495.6
+2021 (provisional),Mississippi,28,"Franklin County, MS",28037,White,Not Hispanic or Latino,94.0,4792.0,1961.6,1158.0
+2021 (provisional),Mississippi,28,"George County, MS",28039,Black or African American,Not Hispanic or Latino,18.0,1856.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"George County, MS",28039,White,Not Hispanic or Latino,357.0,21272.0,1678.3,1649.1
+2021 (provisional),Mississippi,28,"Greene County, MS",28041,Black or African American,Not Hispanic or Latino,21.0,3393.0,618.9,736.2
+2021 (provisional),Mississippi,28,"Greene County, MS",28041,White,Not Hispanic or Latino,120.0,9709.0,1236.0,970.3
+2021 (provisional),Mississippi,28,"Grenada County, MS",28043,Black or African American,Not Hispanic or Latino,145.0,8836.0,1641.0,1620.3
+2021 (provisional),Mississippi,28,"Grenada County, MS",28043,White,Not Hispanic or Latino,202.0,11084.0,1822.4,1243.0
+2021 (provisional),Mississippi,28,"Hancock County, MS",28045,Black or African American,Not Hispanic or Latino,55.0,4025.0,1366.5,1282.4
+2021 (provisional),Mississippi,28,"Hancock County, MS",28045,White,Hispanic or Latino,10.0,1457.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Hancock County, MS",28045,White,Not Hispanic or Latino,585.0,40505.0,1444.3,943.8
+2021 (provisional),Mississippi,28,"Harrison County, MS",28047,Asian,Not Hispanic or Latino,48.0,5874.0,817.2,869.4
+2021 (provisional),Mississippi,28,"Harrison County, MS",28047,Black or African American,Not Hispanic or Latino,611.0,53781.0,1136.1,1409.9
+2021 (provisional),Mississippi,28,"Harrison County, MS",28047,White,Hispanic or Latino,38.0,9508.0,399.7,588.9
+2021 (provisional),Mississippi,28,"Harrison County, MS",28047,White,Not Hispanic or Latino,2138.0,131185.0,1629.8,1211.8
+2021 (provisional),Mississippi,28,"Hinds County, MS",28049,Black or African American,Not Hispanic or Latino,1894.0,166770.0,1135.7,1176.3
+2021 (provisional),Mississippi,28,"Hinds County, MS",28049,White,Not Hispanic or Latino,959.0,53896.0,1779.4,1012.9
+2021 (provisional),Mississippi,28,"Holmes County, MS",28051,Black or African American,Not Hispanic or Latino,234.0,13846.0,1690.0,1588.2
+2021 (provisional),Mississippi,28,"Holmes County, MS",28051,White,Not Hispanic or Latino,64.0,2502.0,2558.0,1217.1
+2021 (provisional),Mississippi,28,"Humphreys County, MS",28053,Black or African American,Not Hispanic or Latino,112.0,5869.0,1908.3,1716.1
+2021 (provisional),Mississippi,28,"Humphreys County, MS",28053,White,Not Hispanic or Latino,31.0,1560.0,1987.2,965.1
+2021 (provisional),Mississippi,28,"Issaquena County, MS",28055,Black or African American,Not Hispanic or Latino,10.0,754.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Itawamba County, MS",28057,Black or African American,Not Hispanic or Latino,18.0,1600.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Itawamba County, MS",28057,White,Not Hispanic or Latino,339.0,20840.0,1626.7,1185.4
+2021 (provisional),Mississippi,28,"Jackson County, MS",28059,Asian,Not Hispanic or Latino,19.0,3265.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Jackson County, MS",28059,Black or African American,Not Hispanic or Latino,352.0,30281.0,1162.4,1227.1
+2021 (provisional),Mississippi,28,"Jackson County, MS",28059,White,Hispanic or Latino,28.0,8390.0,333.7,623.4
+2021 (provisional),Mississippi,28,"Jackson County, MS",28059,White,Not Hispanic or Latino,1409.0,96894.0,1454.2,1078.9
+2021 (provisional),Mississippi,28,"Jasper County, MS",28061,Black or African American,Not Hispanic or Latino,156.0,8647.0,1804.1,1556.3
+2021 (provisional),Mississippi,28,"Jasper County, MS",28061,White,Not Hispanic or Latino,158.0,7243.0,2181.4,1257.6
+2021 (provisional),Mississippi,28,"Jefferson County, MS",28063,Black or African American,Not Hispanic or Latino,94.0,5917.0,1588.6,1298.3
+2021 (provisional),Mississippi,28,"Jefferson Davis County, MS",28065,Black or African American,Not Hispanic or Latino,111.0,6466.0,1716.7,1385.8
+2021 (provisional),Mississippi,28,"Jefferson Davis County, MS",28065,White,Not Hispanic or Latino,85.0,4077.0,2084.9,1224.5
+2021 (provisional),Mississippi,28,"Jones County, MS",28067,Black or African American,Not Hispanic or Latino,246.0,19912.0,1235.4,1337.0
+2021 (provisional),Mississippi,28,"Jones County, MS",28067,White,Not Hispanic or Latino,786.0,43722.0,1797.7,1231.5
+2021 (provisional),Mississippi,28,"Kemper County, MS",28069,Black or African American,Not Hispanic or Latino,78.0,5785.0,1348.3,1079.7
+2021 (provisional),Mississippi,28,"Kemper County, MS",28069,White,Not Hispanic or Latino,53.0,3189.0,1662.0,695.4
+2021 (provisional),Mississippi,28,"Lafayette County, MS",28071,Black or African American,Not Hispanic or Latino,131.0,12758.0,1026.8,1293.2
+2021 (provisional),Mississippi,28,"Lafayette County, MS",28071,White,Not Hispanic or Latino,382.0,38160.0,1001.0,945.0
+2021 (provisional),Mississippi,28,"Lamar County, MS",28073,Black or African American,Not Hispanic or Latino,87.0,13722.0,634.0,1111.4
+2021 (provisional),Mississippi,28,"Lamar County, MS",28073,White,Not Hispanic or Latino,484.0,46549.0,1039.8,836.1
+2021 (provisional),Mississippi,28,"Lauderdale County, MS",28075,Black or African American,Not Hispanic or Latino,386.0,32617.0,1183.4,1172.7
+2021 (provisional),Mississippi,28,"Lauderdale County, MS",28075,White,Not Hispanic or Latino,669.0,37902.0,1765.1,1106.0
+2021 (provisional),Mississippi,28,"Lawrence County, MS",28077,Black or African American,Not Hispanic or Latino,56.0,4022.0,1392.3,1444.9
+2021 (provisional),Mississippi,28,"Lawrence County, MS",28077,White,Not Hispanic or Latino,145.0,8002.0,1812.0,1264.9
+2021 (provisional),Mississippi,28,"Leake County, MS",28079,American Indian or Alaska Native,Not Hispanic or Latino,20.0,1243.0,1609.0,1614.2
+2021 (provisional),Mississippi,28,"Leake County, MS",28079,Black or African American,Not Hispanic or Latino,106.0,9597.0,1104.5,1136.7
+2021 (provisional),Mississippi,28,"Leake County, MS",28079,White,Not Hispanic or Latino,186.0,10522.0,1767.7,1162.3
+2021 (provisional),Mississippi,28,"Lee County, MS",28081,Black or African American,Not Hispanic or Latino,294.0,26139.0,1124.8,1512.0
+2021 (provisional),Mississippi,28,"Lee County, MS",28081,White,Not Hispanic or Latino,855.0,54679.0,1563.7,1136.1
+2021 (provisional),Mississippi,28,"Leflore County, MS",28083,Black or African American,Not Hispanic or Latino,308.0,20770.0,1482.9,1592.0
+2021 (provisional),Mississippi,28,"Leflore County, MS",28083,White,Not Hispanic or Latino,128.0,5900.0,2169.5,1231.0
+2021 (provisional),Mississippi,28,"Lincoln County, MS",28085,Black or African American,Not Hispanic or Latino,160.0,10191.0,1570.0,1551.5
+2021 (provisional),Mississippi,28,"Lincoln County, MS",28085,White,Not Hispanic or Latino,373.0,22722.0,1641.6,1180.7
+2021 (provisional),Mississippi,28,"Lowndes County, MS",28087,Black or African American,Not Hispanic or Latino,310.0,26083.0,1188.5,1249.6
+2021 (provisional),Mississippi,28,"Lowndes County, MS",28087,White,Not Hispanic or Latino,431.0,29632.0,1454.5,996.7
+2021 (provisional),Mississippi,28,"Madison County, MS",28089,Asian,Not Hispanic or Latino,11.0,2999.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Madison County, MS",28089,Black or African American,Not Hispanic or Latino,424.0,40608.0,1044.1,1381.3
+2021 (provisional),Mississippi,28,"Madison County, MS",28089,White,Hispanic or Latino,15.0,2511.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Madison County, MS",28089,White,Not Hispanic or Latino,723.0,58842.0,1228.7,994.0
+2021 (provisional),Mississippi,28,"Marion County, MS",28091,Black or African American,Not Hispanic or Latino,121.0,7684.0,1574.7,1430.7
+2021 (provisional),Mississippi,28,"Marion County, MS",28091,White,Not Hispanic or Latino,283.0,15896.0,1780.3,1199.4
+2021 (provisional),Mississippi,28,"Marshall County, MS",28093,Black or African American,Not Hispanic or Latino,243.0,16389.0,1482.7,1352.0
+2021 (provisional),Mississippi,28,"Marshall County, MS",28093,White,Not Hispanic or Latino,327.0,16883.0,1936.9,1287.1
+2021 (provisional),Mississippi,28,"Monroe County, MS",28095,Black or African American,Not Hispanic or Latino,130.0,10644.0,1221.3,1092.0
+2021 (provisional),Mississippi,28,"Monroe County, MS",28095,White,Not Hispanic or Latino,417.0,23469.0,1776.8,1176.0
+2021 (provisional),Mississippi,28,"Montgomery County, MS",28097,Black or African American,Not Hispanic or Latino,76.0,4282.0,1774.9,1447.4
+2021 (provisional),Mississippi,28,"Montgomery County, MS",28097,White,Not Hispanic or Latino,92.0,5054.0,1820.3,1059.5
+2021 (provisional),Mississippi,28,"Neshoba County, MS",28099,American Indian or Alaska Native,Not Hispanic or Latino,102.0,4788.0,2130.3,3426.9
+2021 (provisional),Mississippi,28,"Neshoba County, MS",28099,Black or African American,Not Hispanic or Latino,77.0,6146.0,1252.8,1248.2
+2021 (provisional),Mississippi,28,"Neshoba County, MS",28099,White,Not Hispanic or Latino,288.0,16732.0,1721.3,1110.3
+2021 (provisional),Mississippi,28,"Newton County, MS",28101,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1071.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Newton County, MS",28101,Black or African American,Not Hispanic or Latino,91.0,6496.0,1400.9,1396.5
+2021 (provisional),Mississippi,28,"Newton County, MS",28101,White,Not Hispanic or Latino,211.0,12544.0,1682.1,1234.0
+2021 (provisional),Mississippi,28,"Noxubee County, MS",28103,Black or African American,Not Hispanic or Latino,109.0,7379.0,1477.2,1420.5
+2021 (provisional),Mississippi,28,"Noxubee County, MS",28103,White,Not Hispanic or Latino,38.0,2600.0,1461.5,721.5
+2021 (provisional),Mississippi,28,"Oktibbeha County, MS",28105,Black or African American,Not Hispanic or Latino,197.0,18655.0,1056.0,1229.8
+2021 (provisional),Mississippi,28,"Oktibbeha County, MS",28105,White,Not Hispanic or Latino,224.0,27958.0,801.2,805.8
+2021 (provisional),Mississippi,28,"Panola County, MS",28107,Black or African American,Not Hispanic or Latino,219.0,16888.0,1296.8,1465.0
+2021 (provisional),Mississippi,28,"Panola County, MS",28107,White,Not Hispanic or Latino,276.0,15778.0,1749.3,1133.5
+2021 (provisional),Mississippi,28,"Pearl River County, MS",28109,Black or African American,Not Hispanic or Latino,87.0,6757.0,1287.6,1344.0
+2021 (provisional),Mississippi,28,"Pearl River County, MS",28109,White,Hispanic or Latino,14.0,1585.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Pearl River County, MS",28109,White,Not Hispanic or Latino,827.0,45600.0,1813.6,1323.5
+2021 (provisional),Mississippi,28,"Perry County, MS",28111,Black or African American,Not Hispanic or Latino,36.0,2235.0,1610.7,1362.1
+2021 (provisional),Mississippi,28,"Perry County, MS",28111,White,Not Hispanic or Latino,154.0,9218.0,1670.6,1200.3
+2021 (provisional),Mississippi,28,"Pike County, MS",28113,Black or African American,Not Hispanic or Latino,307.0,21146.0,1451.8,1540.0
+2021 (provisional),Mississippi,28,"Pike County, MS",28113,White,Not Hispanic or Latino,328.0,16496.0,1988.4,1247.4
+2021 (provisional),Mississippi,28,"Pontotoc County, MS",28115,Black or African American,Not Hispanic or Latino,60.0,4843.0,1238.9,1217.3
+2021 (provisional),Mississippi,28,"Pontotoc County, MS",28115,White,Not Hispanic or Latino,392.0,24630.0,1591.6,1256.4
+2021 (provisional),Mississippi,28,"Prentiss County, MS",28117,Black or African American,Not Hispanic or Latino,46.0,3591.0,1281.0,1395.0
+2021 (provisional),Mississippi,28,"Prentiss County, MS",28117,White,Not Hispanic or Latino,317.0,20624.0,1537.0,1078.4
+2021 (provisional),Mississippi,28,"Quitman County, MS",28119,Black or African American,Not Hispanic or Latino,83.0,4859.0,1708.2,1557.2
+2021 (provisional),Mississippi,28,"Quitman County, MS",28119,White,Not Hispanic or Latino,47.0,1669.0,2816.1,1274.4
+2021 (provisional),Mississippi,28,"Rankin County, MS",28121,Black or African American,Not Hispanic or Latino,280.0,33722.0,830.3,1104.7
+2021 (provisional),Mississippi,28,"Rankin County, MS",28121,White,Hispanic or Latino,12.0,3673.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Rankin County, MS",28121,White,Not Hispanic or Latino,1305.0,113795.0,1146.8,846.2
+2021 (provisional),Mississippi,28,"Scott County, MS",28123,Black or African American,Not Hispanic or Latino,135.0,10503.0,1285.3,1271.2
+2021 (provisional),Mississippi,28,"Scott County, MS",28123,White,Hispanic or Latino,17.0,2589.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Scott County, MS",28123,White,Not Hispanic or Latino,242.0,13729.0,1762.7,1226.9
+2021 (provisional),Mississippi,28,"Sharkey County, MS",28125,Black or African American,Not Hispanic or Latino,45.0,2949.0,1525.9,1317.7
+2021 (provisional),Mississippi,28,"Sharkey County, MS",28125,White,Not Hispanic or Latino,29.0,1047.0,2769.8,1511.5
+2021 (provisional),Mississippi,28,"Simpson County, MS",28127,Black or African American,Not Hispanic or Latino,121.0,9333.0,1296.5,1215.6
+2021 (provisional),Mississippi,28,"Simpson County, MS",28127,White,Not Hispanic or Latino,272.0,16277.0,1671.1,1162.9
+2021 (provisional),Mississippi,28,"Smith County, MS",28129,Black or African American,Not Hispanic or Latino,45.0,3676.0,1224.2,1114.2
+2021 (provisional),Mississippi,28,"Smith County, MS",28129,White,Not Hispanic or Latino,173.0,11655.0,1484.3,1011.7
+2021 (provisional),Mississippi,28,"Stone County, MS",28131,Black or African American,Not Hispanic or Latino,36.0,3456.0,1041.7,1249.8
+2021 (provisional),Mississippi,28,"Stone County, MS",28131,White,Not Hispanic or Latino,242.0,14068.0,1720.2,1439.7
+2021 (provisional),Mississippi,28,"Sunflower County, MS",28133,Black or African American,Not Hispanic or Latino,253.0,18124.0,1395.9,1482.3
+2021 (provisional),Mississippi,28,"Sunflower County, MS",28133,White,Not Hispanic or Latino,142.0,5820.0,2439.9,1475.2
+2021 (provisional),Mississippi,28,"Tallahatchie County, MS",28135,Black or African American,Not Hispanic or Latino,91.0,7611.0,1195.6,1247.4
+2021 (provisional),Mississippi,28,"Tallahatchie County, MS",28135,White,Not Hispanic or Latino,100.0,4767.0,2097.8,1159.5
+2021 (provisional),Mississippi,28,"Tate County, MS",28137,Black or African American,Not Hispanic or Latino,106.0,8788.0,1206.2,1286.9
+2021 (provisional),Mississippi,28,"Tate County, MS",28137,White,Not Hispanic or Latino,305.0,18445.0,1653.6,1208.4
+2021 (provisional),Mississippi,28,"Tippah County, MS",28139,Black or African American,Not Hispanic or Latino,54.0,3564.0,1515.2,1533.3
+2021 (provisional),Mississippi,28,"Tippah County, MS",28139,White,Not Hispanic or Latino,279.0,16721.0,1668.6,1291.5
+2021 (provisional),Mississippi,28,"Tishomingo County, MS",28141,Black or African American,Not Hispanic or Latino,13.0,481.0,Unreliable,Unreliable
+2021 (provisional),Mississippi,28,"Tishomingo County, MS",28141,White,Not Hispanic or Latino,376.0,17854.0,2106.0,1457.8
+2021 (provisional),Mississippi,28,"Tunica County, MS",28143,Black or African American,Not Hispanic or Latino,122.0,7216.0,1690.7,2137.6
+2021 (provisional),Mississippi,28,"Tunica County, MS",28143,White,Not Hispanic or Latino,40.0,1730.0,2312.1,1812.3
+2021 (provisional),Mississippi,28,"Union County, MS",28145,Black or African American,Not Hispanic or Latino,53.0,4460.0,1188.3,1236.1
+2021 (provisional),Mississippi,28,"Union County, MS",28145,White,Not Hispanic or Latino,324.0,22303.0,1452.7,1099.3
+2021 (provisional),Mississippi,28,"Walthall County, MS",28147,Black or African American,Not Hispanic or Latino,101.0,6100.0,1655.7,1514.0
+2021 (provisional),Mississippi,28,"Walthall County, MS",28147,White,Not Hispanic or Latino,125.0,7523.0,1661.6,977.3
+2021 (provisional),Mississippi,28,"Warren County, MS",28149,Black or African American,Not Hispanic or Latino,256.0,21993.0,1164.0,1185.0
+2021 (provisional),Mississippi,28,"Warren County, MS",28149,White,Not Hispanic or Latino,389.0,21011.0,1851.4,1222.6
+2021 (provisional),Mississippi,28,"Washington County, MS",28151,Black or African American,Not Hispanic or Latino,498.0,30910.0,1611.1,1567.4
+2021 (provisional),Mississippi,28,"Washington County, MS",28151,White,Not Hispanic or Latino,208.0,10488.0,1983.2,1191.0
+2021 (provisional),Mississippi,28,"Wayne County, MS",28153,Black or African American,Not Hispanic or Latino,100.0,8111.0,1232.9,1259.4
+2021 (provisional),Mississippi,28,"Wayne County, MS",28153,White,Not Hispanic or Latino,201.0,11551.0,1740.1,1193.8
+2021 (provisional),Mississippi,28,"Webster County, MS",28155,Black or African American,Not Hispanic or Latino,35.0,1769.0,1978.5,2009.2
+2021 (provisional),Mississippi,28,"Webster County, MS",28155,White,Not Hispanic or Latino,166.0,7602.0,2183.6,1637.4
+2021 (provisional),Mississippi,28,"Wilkinson County, MS",28157,Black or African American,Not Hispanic or Latino,76.0,5861.0,1296.7,1144.1
+2021 (provisional),Mississippi,28,"Wilkinson County, MS",28157,White,Not Hispanic or Latino,47.0,2304.0,2039.9,1118.7
+2021 (provisional),Mississippi,28,"Winston County, MS",28159,Black or African American,Not Hispanic or Latino,119.0,8282.0,1436.9,1335.3
+2021 (provisional),Mississippi,28,"Winston County, MS",28159,White,Not Hispanic or Latino,177.0,8840.0,2002.3,1140.7
+2021 (provisional),Mississippi,28,"Yalobusha County, MS",28161,Black or African American,Not Hispanic or Latino,57.0,4629.0,1231.4,1104.3
+2021 (provisional),Mississippi,28,"Yalobusha County, MS",28161,White,Not Hispanic or Latino,139.0,6916.0,2009.8,1248.6
+2021 (provisional),Mississippi,28,"Yazoo County, MS",28163,Black or African American,Not Hispanic or Latino,173.0,15350.0,1127.0,1253.0
+2021 (provisional),Mississippi,28,"Yazoo County, MS",28163,White,Not Hispanic or Latino,185.0,9307.0,1987.8,1231.1
+2022 (provisional and partial),Mississippi,28,"Adams County, MS",28001,Black or African American,Not Hispanic or Latino,39.0,15954.0,244.5,189.1
+2022 (provisional and partial),Mississippi,28,"Adams County, MS",28001,White,Not Hispanic or Latino,32.0,10888.0,293.9,144.4
+2022 (provisional and partial),Mississippi,28,"Alcorn County, MS",28003,Black or African American,Not Hispanic or Latino,10.0,4567.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Alcorn County, MS",28003,White,Not Hispanic or Latino,73.0,30342.0,240.6,166.6
+2022 (provisional and partial),Mississippi,28,"Amite County, MS",28005,Black or African American,Not Hispanic or Latino,10.0,4772.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Amite County, MS",28005,White,Not Hispanic or Latino,20.0,7076.0,282.6,123.7
+2022 (provisional and partial),Mississippi,28,"Attala County, MS",28007,Black or African American,Not Hispanic or Latino,13.0,7838.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Attala County, MS",28007,White,Not Hispanic or Latino,45.0,9513.0,473.0,294.4
+2022 (provisional and partial),Mississippi,28,"Benton County, MS",28009,White,Not Hispanic or Latino,16.0,5031.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Bolivar County, MS",28011,Black or African American,Not Hispanic or Latino,50.0,19245.0,259.8,246.4
+2022 (provisional and partial),Mississippi,28,"Bolivar County, MS",28011,White,Not Hispanic or Latino,30.0,9664.0,310.4,191.0
+2022 (provisional and partial),Mississippi,28,"Calhoun County, MS",28013,White,Not Hispanic or Latino,20.0,9173.0,218.0,123.7
+2022 (provisional and partial),Mississippi,28,"Carroll County, MS",28015,White,Not Hispanic or Latino,19.0,6235.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Chickasaw County, MS",28017,Black or African American,Not Hispanic or Latino,20.0,7505.0,266.5,277.1
+2022 (provisional and partial),Mississippi,28,"Chickasaw County, MS",28017,White,Not Hispanic or Latino,35.0,8267.0,423.4,231.9
+2022 (provisional and partial),Mississippi,28,"Choctaw County, MS",28019,Black or African American,Not Hispanic or Latino,11.0,2381.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Choctaw County, MS",28019,White,Not Hispanic or Latino,18.0,5400.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Claiborne County, MS",28021,Black or African American,Not Hispanic or Latino,10.0,7628.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Clarke County, MS",28023,White,Not Hispanic or Latino,27.0,9645.0,279.9,173.9
+2022 (provisional and partial),Mississippi,28,"Clay County, MS",28025,Black or African American,Not Hispanic or Latino,21.0,11365.0,184.8,181.5
+2022 (provisional and partial),Mississippi,28,"Clay County, MS",28025,White,Not Hispanic or Latino,20.0,7411.0,269.9,122.0
+2022 (provisional and partial),Mississippi,28,"Coahoma County, MS",28027,Black or African American,Not Hispanic or Latino,41.0,16686.0,245.7,243.9
+2022 (provisional and partial),Mississippi,28,"Coahoma County, MS",28027,White,Not Hispanic or Latino,14.0,4260.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Copiah County, MS",28029,Black or African American,Not Hispanic or Latino,22.0,14348.0,153.3,151.5
+2022 (provisional and partial),Mississippi,28,"Copiah County, MS",28029,White,Not Hispanic or Latino,34.0,12151.0,279.8,165.7
+2022 (provisional and partial),Mississippi,28,"Covington County, MS",28031,Black or African American,Not Hispanic or Latino,13.0,6624.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Covington County, MS",28031,White,Not Hispanic or Latino,36.0,11110.0,324.0,223.9
+2022 (provisional and partial),Mississippi,28,"DeSoto County, MS",28033,Black or African American,Not Hispanic or Latino,48.0,58509.0,82.0,112.5
+2022 (provisional and partial),Mississippi,28,"DeSoto County, MS",28033,White,Not Hispanic or Latino,229.0,113905.0,201.0,157.9
+2022 (provisional and partial),Mississippi,28,"Forrest County, MS",28035,Black or African American,Not Hispanic or Latino,43.0,27941.0,153.9,178.4
+2022 (provisional and partial),Mississippi,28,"Forrest County, MS",28035,White,Not Hispanic or Latino,87.0,42698.0,203.8,159.2
+2022 (provisional and partial),Mississippi,28,"Franklin County, MS",28037,White,Not Hispanic or Latino,15.0,4792.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"George County, MS",28039,White,Not Hispanic or Latino,60.0,21272.0,282.1,314.2
+2022 (provisional and partial),Mississippi,28,"Greene County, MS",28041,White,Not Hispanic or Latino,21.0,9709.0,216.3,166.5
+2022 (provisional and partial),Mississippi,28,"Grenada County, MS",28043,Black or African American,Not Hispanic or Latino,20.0,8836.0,226.3,231.4
+2022 (provisional and partial),Mississippi,28,"Grenada County, MS",28043,White,Not Hispanic or Latino,28.0,11084.0,252.6,161.6
+2022 (provisional and partial),Mississippi,28,"Hancock County, MS",28045,Black or African American,Not Hispanic or Latino,10.0,4025.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Hancock County, MS",28045,White,Not Hispanic or Latino,80.0,40505.0,197.5,130.4
+2022 (provisional and partial),Mississippi,28,"Harrison County, MS",28047,Black or African American,Not Hispanic or Latino,52.0,53781.0,96.7,124.8
+2022 (provisional and partial),Mississippi,28,"Harrison County, MS",28047,White,Not Hispanic or Latino,264.0,131185.0,201.2,148.2
+2022 (provisional and partial),Mississippi,28,"Hinds County, MS",28049,Black or African American,Not Hispanic or Latino,250.0,166770.0,149.9,155.9
+2022 (provisional and partial),Mississippi,28,"Hinds County, MS",28049,White,Not Hispanic or Latino,119.0,53896.0,220.8,125.1
+2022 (provisional and partial),Mississippi,28,"Holmes County, MS",28051,Black or African American,Not Hispanic or Latino,41.0,13846.0,296.1,282.5
+2022 (provisional and partial),Mississippi,28,"Humphreys County, MS",28053,Black or African American,Not Hispanic or Latino,20.0,5869.0,340.8,325.5
+2022 (provisional and partial),Mississippi,28,"Itawamba County, MS",28057,White,Not Hispanic or Latino,62.0,20840.0,297.5,210.2
+2022 (provisional and partial),Mississippi,28,"Jackson County, MS",28059,Black or African American,Not Hispanic or Latino,42.0,30281.0,138.7,151.9
+2022 (provisional and partial),Mississippi,28,"Jackson County, MS",28059,White,Not Hispanic or Latino,174.0,96894.0,179.6,131.2
+2022 (provisional and partial),Mississippi,28,"Jasper County, MS",28061,Black or African American,Not Hispanic or Latino,15.0,8647.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Jasper County, MS",28061,White,Not Hispanic or Latino,22.0,7243.0,303.7,165.0
+2022 (provisional and partial),Mississippi,28,"Jefferson Davis County, MS",28065,Black or African American,Not Hispanic or Latino,15.0,6466.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Jefferson Davis County, MS",28065,White,Not Hispanic or Latino,11.0,4077.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Jones County, MS",28067,Black or African American,Not Hispanic or Latino,38.0,19912.0,190.8,209.1
+2022 (provisional and partial),Mississippi,28,"Jones County, MS",28067,White,Not Hispanic or Latino,119.0,43722.0,272.2,177.6
+2022 (provisional and partial),Mississippi,28,"Kemper County, MS",28069,White,Not Hispanic or Latino,12.0,3189.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Lafayette County, MS",28071,Black or African American,Not Hispanic or Latino,28.0,12758.0,219.5,256.4
+2022 (provisional and partial),Mississippi,28,"Lafayette County, MS",28071,White,Not Hispanic or Latino,71.0,38160.0,186.1,174.8
+2022 (provisional and partial),Mississippi,28,"Lamar County, MS",28073,Black or African American,Not Hispanic or Latino,16.0,13722.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Lamar County, MS",28073,White,Not Hispanic or Latino,62.0,46549.0,133.2,103.0
+2022 (provisional and partial),Mississippi,28,"Lauderdale County, MS",28075,Black or African American,Not Hispanic or Latino,64.0,32617.0,196.2,202.7
+2022 (provisional and partial),Mississippi,28,"Lauderdale County, MS",28075,White,Not Hispanic or Latino,79.0,37902.0,208.4,124.7
+2022 (provisional and partial),Mississippi,28,"Lawrence County, MS",28077,Black or African American,Not Hispanic or Latino,12.0,4022.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Lawrence County, MS",28077,White,Not Hispanic or Latino,28.0,8002.0,349.9,255.7
+2022 (provisional and partial),Mississippi,28,"Leake County, MS",28079,Black or African American,Not Hispanic or Latino,22.0,9597.0,229.2,252.3
+2022 (provisional and partial),Mississippi,28,"Leake County, MS",28079,White,Not Hispanic or Latino,33.0,10522.0,313.6,182.9
+2022 (provisional and partial),Mississippi,28,"Lee County, MS",28081,Black or African American,Not Hispanic or Latino,47.0,26139.0,179.8,233.6
+2022 (provisional and partial),Mississippi,28,"Lee County, MS",28081,White,Not Hispanic or Latino,119.0,54679.0,217.6,162.3
+2022 (provisional and partial),Mississippi,28,"Leflore County, MS",28083,Black or African American,Not Hispanic or Latino,50.0,20770.0,240.7,267.2
+2022 (provisional and partial),Mississippi,28,"Leflore County, MS",28083,White,Not Hispanic or Latino,25.0,5900.0,423.7,193.3
+2022 (provisional and partial),Mississippi,28,"Lincoln County, MS",28085,Black or African American,Not Hispanic or Latino,22.0,10191.0,215.9,259.4
+2022 (provisional and partial),Mississippi,28,"Lincoln County, MS",28085,White,Not Hispanic or Latino,51.0,22722.0,224.5,150.9
+2022 (provisional and partial),Mississippi,28,"Lowndes County, MS",28087,Black or African American,Not Hispanic or Latino,37.0,26083.0,141.9,151.5
+2022 (provisional and partial),Mississippi,28,"Lowndes County, MS",28087,White,Not Hispanic or Latino,63.0,29632.0,212.6,143.0
+2022 (provisional and partial),Mississippi,28,"Madison County, MS",28089,Black or African American,Not Hispanic or Latino,51.0,40608.0,125.6,173.8
+2022 (provisional and partial),Mississippi,28,"Madison County, MS",28089,White,Not Hispanic or Latino,129.0,58842.0,219.2,175.1
+2022 (provisional and partial),Mississippi,28,"Marion County, MS",28091,White,Not Hispanic or Latino,49.0,15896.0,308.3,216.4
+2022 (provisional and partial),Mississippi,28,"Marshall County, MS",28093,Black or African American,Not Hispanic or Latino,30.0,16389.0,183.0,173.1
+2022 (provisional and partial),Mississippi,28,"Marshall County, MS",28093,White,Not Hispanic or Latino,58.0,16883.0,343.5,226.9
+2022 (provisional and partial),Mississippi,28,"Monroe County, MS",28095,Black or African American,Not Hispanic or Latino,28.0,10644.0,263.1,235.4
+2022 (provisional and partial),Mississippi,28,"Monroe County, MS",28095,White,Not Hispanic or Latino,64.0,23469.0,272.7,171.1
+2022 (provisional and partial),Mississippi,28,"Montgomery County, MS",28097,Black or African American,Not Hispanic or Latino,13.0,4282.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Montgomery County, MS",28097,White,Not Hispanic or Latino,21.0,5054.0,415.5,220.3
+2022 (provisional and partial),Mississippi,28,"Neshoba County, MS",28099,Black or African American,Not Hispanic or Latino,12.0,6146.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Neshoba County, MS",28099,White,Not Hispanic or Latino,48.0,16732.0,286.9,201.5
+2022 (provisional and partial),Mississippi,28,"Newton County, MS",28101,Black or African American,Not Hispanic or Latino,14.0,6496.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Newton County, MS",28101,White,Not Hispanic or Latino,34.0,12544.0,271.0,186.3
+2022 (provisional and partial),Mississippi,28,"Noxubee County, MS",28103,Black or African American,Not Hispanic or Latino,10.0,7379.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Oktibbeha County, MS",28105,Black or African American,Not Hispanic or Latino,26.0,18655.0,139.4,177.7
+2022 (provisional and partial),Mississippi,28,"Oktibbeha County, MS",28105,White,Not Hispanic or Latino,38.0,27958.0,135.9,141.7
+2022 (provisional and partial),Mississippi,28,"Panola County, MS",28107,Black or African American,Not Hispanic or Latino,31.0,16888.0,183.6,212.2
+2022 (provisional and partial),Mississippi,28,"Panola County, MS",28107,White,Not Hispanic or Latino,46.0,15778.0,291.5,166.9
+2022 (provisional and partial),Mississippi,28,"Pearl River County, MS",28109,White,Not Hispanic or Latino,103.0,45600.0,225.9,158.0
+2022 (provisional and partial),Mississippi,28,"Perry County, MS",28111,White,Not Hispanic or Latino,19.0,9218.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Pike County, MS",28113,Black or African American,Not Hispanic or Latino,43.0,21146.0,203.3,212.6
+2022 (provisional and partial),Mississippi,28,"Pike County, MS",28113,White,Not Hispanic or Latino,56.0,16496.0,339.5,206.0
+2022 (provisional and partial),Mississippi,28,"Pontotoc County, MS",28115,White,Not Hispanic or Latino,48.0,24630.0,194.9,148.2
+2022 (provisional and partial),Mississippi,28,"Prentiss County, MS",28117,White,Not Hispanic or Latino,62.0,20624.0,300.6,201.3
+2022 (provisional and partial),Mississippi,28,"Quitman County, MS",28119,Black or African American,Not Hispanic or Latino,13.0,4859.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Rankin County, MS",28121,Black or African American,Not Hispanic or Latino,44.0,33722.0,130.5,184.6
+2022 (provisional and partial),Mississippi,28,"Rankin County, MS",28121,White,Not Hispanic or Latino,207.0,113795.0,181.9,137.4
+2022 (provisional and partial),Mississippi,28,"Scott County, MS",28123,Black or African American,Not Hispanic or Latino,24.0,10503.0,228.5,263.9
+2022 (provisional and partial),Mississippi,28,"Scott County, MS",28123,White,Not Hispanic or Latino,32.0,13729.0,233.1,150.5
+2022 (provisional and partial),Mississippi,28,"Simpson County, MS",28127,Black or African American,Not Hispanic or Latino,19.0,9333.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Simpson County, MS",28127,White,Not Hispanic or Latino,47.0,16277.0,288.8,197.0
+2022 (provisional and partial),Mississippi,28,"Smith County, MS",28129,White,Not Hispanic or Latino,26.0,11655.0,223.1,145.7
+2022 (provisional and partial),Mississippi,28,"Stone County, MS",28131,White,Not Hispanic or Latino,27.0,14068.0,191.9,145.8
+2022 (provisional and partial),Mississippi,28,"Sunflower County, MS",28133,Black or African American,Not Hispanic or Latino,27.0,18124.0,149.0,143.3
+2022 (provisional and partial),Mississippi,28,"Sunflower County, MS",28133,White,Not Hispanic or Latino,17.0,5820.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Tallahatchie County, MS",28135,Black or African American,Not Hispanic or Latino,13.0,7611.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Tallahatchie County, MS",28135,White,Not Hispanic or Latino,11.0,4767.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Tate County, MS",28137,Black or African American,Not Hispanic or Latino,12.0,8788.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Tate County, MS",28137,White,Not Hispanic or Latino,40.0,18445.0,216.9,169.8
+2022 (provisional and partial),Mississippi,28,"Tippah County, MS",28139,White,Not Hispanic or Latino,50.0,16721.0,299.0,216.5
+2022 (provisional and partial),Mississippi,28,"Tishomingo County, MS",28141,White,Not Hispanic or Latino,63.0,17854.0,352.9,230.5
+2022 (provisional and partial),Mississippi,28,"Tunica County, MS",28143,Black or African American,Not Hispanic or Latino,16.0,7216.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Union County, MS",28145,White,Not Hispanic or Latino,51.0,22303.0,228.7,176.3
+2022 (provisional and partial),Mississippi,28,"Walthall County, MS",28147,Black or African American,Not Hispanic or Latino,17.0,6100.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Walthall County, MS",28147,White,Not Hispanic or Latino,27.0,7523.0,358.9,245.2
+2022 (provisional and partial),Mississippi,28,"Warren County, MS",28149,Black or African American,Not Hispanic or Latino,39.0,21993.0,177.3,180.1
+2022 (provisional and partial),Mississippi,28,"Warren County, MS",28149,White,Not Hispanic or Latino,54.0,21011.0,257.0,165.5
+2022 (provisional and partial),Mississippi,28,"Washington County, MS",28151,Black or African American,Not Hispanic or Latino,81.0,30910.0,262.1,257.5
+2022 (provisional and partial),Mississippi,28,"Washington County, MS",28151,White,Not Hispanic or Latino,34.0,10488.0,324.2,193.9
+2022 (provisional and partial),Mississippi,28,"Wayne County, MS",28153,Black or African American,Not Hispanic or Latino,21.0,8111.0,258.9,254.4
+2022 (provisional and partial),Mississippi,28,"Wayne County, MS",28153,White,Not Hispanic or Latino,33.0,11551.0,285.7,174.1
+2022 (provisional and partial),Mississippi,28,"Webster County, MS",28155,White,Not Hispanic or Latino,31.0,7602.0,407.8,305.2
+2022 (provisional and partial),Mississippi,28,"Wilkinson County, MS",28157,Black or African American,Not Hispanic or Latino,16.0,5861.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Winston County, MS",28159,Black or African American,Not Hispanic or Latino,14.0,8282.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Winston County, MS",28159,White,Not Hispanic or Latino,24.0,8840.0,271.5,156.2
+2022 (provisional and partial),Mississippi,28,"Yalobusha County, MS",28161,White,Not Hispanic or Latino,23.0,6916.0,332.6,235.3
+2022 (provisional and partial),Mississippi,28,"Yazoo County, MS",28163,Black or African American,Not Hispanic or Latino,16.0,15350.0,Unreliable,Unreliable
+2022 (provisional and partial),Mississippi,28,"Yazoo County, MS",28163,White,Not Hispanic or Latino,19.0,9307.0,Unreliable,Unreliable

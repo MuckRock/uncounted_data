@@ -1,0 +1,1239 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Florida,12,"Alachua County, FL",12001,Asian,Not Hispanic or Latino,18.0,16600.0,Unreliable,Unreliable
+2018,Florida,12,"Alachua County, FL",12001,Black or African American,Not Hispanic or Latino,393.0,53882.0,729.4,888.3
+2018,Florida,12,"Alachua County, FL",12001,White,Hispanic or Latino,82.0,24424.0,335.7,501.7
+2018,Florida,12,"Alachua County, FL",12001,White,Not Hispanic or Latino,1512.0,164160.0,921.1,734.5
+2018,Florida,12,"Alachua County, FL",12001,More than one race,Not Hispanic or Latino,20.0,6750.0,296.3,802.8
+2018,Florida,12,"Baker County, FL",12003,Black or African American,Not Hispanic or Latino,19.0,3917.0,Unreliable,Unreliable
+2018,Florida,12,"Baker County, FL",12003,White,Not Hispanic or Latino,262.0,22907.0,1143.8,1006.4
+2018,Florida,12,"Bay County, FL",12005,Asian,Not Hispanic or Latino,18.0,4107.0,Unreliable,Unreliable
+2018,Florida,12,"Bay County, FL",12005,Black or African American,Not Hispanic or Latino,168.0,20779.0,808.5,895.4
+2018,Florida,12,"Bay County, FL",12005,White,Hispanic or Latino,24.0,10313.0,232.7,363.3
+2018,Florida,12,"Bay County, FL",12005,White,Not Hispanic or Latino,1768.0,141071.0,1253.3,894.7
+2018,Florida,12,"Bay County, FL",12005,More than one race,Not Hispanic or Latino,17.0,5527.0,Unreliable,Unreliable
+2018,Florida,12,"Bradford County, FL",12007,Black or African American,Not Hispanic or Latino,39.0,5461.0,714.2,897.2
+2018,Florida,12,"Bradford County, FL",12007,White,Not Hispanic or Latino,294.0,20307.0,1447.8,969.6
+2018,Florida,12,"Brevard County, FL",12009,Asian,Not Hispanic or Latino,69.0,15212.0,453.6,372.3
+2018,Florida,12,"Brevard County, FL",12009,Black or African American,Hispanic or Latino,12.0,4558.0,Unreliable,Unreliable
+2018,Florida,12,"Brevard County, FL",12009,Black or African American,Not Hispanic or Latino,593.0,59458.0,997.3,884.0
+2018,Florida,12,"Brevard County, FL",12009,White,Hispanic or Latino,284.0,54756.0,518.7,506.2
+2018,Florida,12,"Brevard County, FL",12009,White,Not Hispanic or Latino,6608.0,442087.0,1494.7,799.8
+2018,Florida,12,"Brevard County, FL",12009,More than one race,Not Hispanic or Latino,25.0,13816.0,180.9,308.1
+2018,Florida,12,"Broward County, FL",12011,American Indian or Alaska Native,Not Hispanic or Latino,12.0,3782.0,Unreliable,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Asian,Not Hispanic or Latino,245.0,72908.0,336.0,365.1
+2018,Florida,12,"Broward County, FL",12011,Black or African American,Hispanic or Latino,85.0,34093.0,249.3,372.3
+2018,Florida,12,"Broward County, FL",12011,Black or African American,Not Hispanic or Latino,2980.0,553089.0,538.8,623.5
+2018,Florida,12,"Broward County, FL",12011,White,Hispanic or Latino,2193.0,538888.0,406.9,425.9
+2018,Florida,12,"Broward County, FL",12011,White,Not Hispanic or Latino,9511.0,694707.0,1369.1,692.5
+2018,Florida,12,"Broward County, FL",12011,White,Not Stated,51.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Broward County, FL",12011,More than one race,Hispanic or Latino,10.0,12536.0,Unreliable,Unreliable
+2018,Florida,12,"Broward County, FL",12011,More than one race,Not Hispanic or Latino,56.0,31798.0,176.1,290.3
+2018,Florida,12,"Calhoun County, FL",12013,Black or African American,Not Hispanic or Latino,18.0,1897.0,Unreliable,Unreliable
+2018,Florida,12,"Calhoun County, FL",12013,White,Not Hispanic or Latino,175.0,11268.0,1553.1,1076.6
+2018,Florida,12,"Charlotte County, FL",12015,Asian,Not Hispanic or Latino,10.0,2564.0,Unreliable,Unreliable
+2018,Florida,12,"Charlotte County, FL",12015,Black or African American,Not Hispanic or Latino,97.0,10180.0,952.8,557.0
+2018,Florida,12,"Charlotte County, FL",12015,White,Hispanic or Latino,74.0,12006.0,616.4,501.1
+2018,Florida,12,"Charlotte County, FL",12015,White,Not Hispanic or Latino,2532.0,155327.0,1630.1,641.5
+2018,Florida,12,"Citrus County, FL",12017,Asian,Not Hispanic or Latino,11.0,2423.0,Unreliable,Unreliable
+2018,Florida,12,"Citrus County, FL",12017,Black or African American,Not Hispanic or Latino,43.0,4244.0,1013.2,724.9
+2018,Florida,12,"Citrus County, FL",12017,White,Hispanic or Latino,69.0,7825.0,881.8,691.3
+2018,Florida,12,"Citrus County, FL",12017,White,Not Hispanic or Latino,2610.0,129756.0,2011.5,940.6
+2018,Florida,12,"Citrus County, FL",12017,More than one race,Not Hispanic or Latino,15.0,2188.0,Unreliable,Unreliable
+2018,Florida,12,"Clay County, FL",12019,Asian,Not Hispanic or Latino,28.0,6540.0,428.1,398.2
+2018,Florida,12,"Clay County, FL",12019,Black or African American,Not Hispanic or Latino,118.0,24468.0,482.3,684.7
+2018,Florida,12,"Clay County, FL",12019,White,Hispanic or Latino,53.0,18391.0,288.2,535.7
+2018,Florida,12,"Clay County, FL",12019,White,Not Hispanic or Latino,1618.0,155772.0,1038.7,841.5
+2018,Florida,12,"Clay County, FL",12019,More than one race,Not Hispanic or Latino,11.0,5863.0,Unreliable,Unreliable
+2018,Florida,12,"Collier County, FL",12021,Black or African American,Not Hispanic or Latino,113.0,25332.0,446.1,468.5
+2018,Florida,12,"Collier County, FL",12021,White,Hispanic or Latino,320.0,101268.0,316.0,427.8
+2018,Florida,12,"Collier County, FL",12021,White,Not Hispanic or Latino,3075.0,236691.0,1299.2,444.5
+2018,Florida,12,"Columbia County, FL",12023,Black or African American,Not Hispanic or Latino,107.0,12717.0,841.4,945.3
+2018,Florida,12,"Columbia County, FL",12023,White,Hispanic or Latino,15.0,3898.0,Unreliable,Unreliable
+2018,Florida,12,"Columbia County, FL",12023,White,Not Hispanic or Latino,707.0,50953.0,1387.6,937.5
+2018,Florida,12,"DeSoto County, FL",12027,Black or African American,Not Hispanic or Latino,39.0,4467.0,873.1,1037.8
+2018,Florida,12,"DeSoto County, FL",12027,White,Hispanic or Latino,25.0,11143.0,224.4,477.6
+2018,Florida,12,"DeSoto County, FL",12027,White,Not Hispanic or Latino,319.0,20434.0,1561.1,745.5
+2018,Florida,12,"Dixie County, FL",12029,Black or African American,Not Hispanic or Latino,10.0,1598.0,Unreliable,Unreliable
+2018,Florida,12,"Dixie County, FL",12029,White,Not Hispanic or Latino,211.0,14004.0,1506.7,875.2
+2018,Florida,12,"Duval County, FL",12031,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2990.0,Unreliable,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Asian,Not Hispanic or Latino,153.0,46818.0,326.8,367.7
+2018,Florida,12,"Duval County, FL",12031,Black or African American,Hispanic or Latino,15.0,10530.0,Unreliable,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Black or African American,Not Hispanic or Latino,2292.0,279975.0,818.6,969.3
+2018,Florida,12,"Duval County, FL",12031,Black or African American,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Duval County, FL",12031,White,Hispanic or Latino,303.0,78274.0,387.1,579.6
+2018,Florida,12,"Duval County, FL",12031,White,Not Hispanic or Latino,5784.0,499458.0,1158.1,883.1
+2018,Florida,12,"Duval County, FL",12031,White,Not Stated,34.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Duval County, FL",12031,More than one race,Not Hispanic or Latino,62.0,23829.0,260.2,667.4
+2018,Florida,12,"Escambia County, FL",12033,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2406.0,Unreliable,Unreliable
+2018,Florida,12,"Escambia County, FL",12033,Asian,Not Hispanic or Latino,41.0,10440.0,392.7,385.4
+2018,Florida,12,"Escambia County, FL",12033,Black or African American,Not Hispanic or Latino,721.0,71684.0,1005.8,1093.5
+2018,Florida,12,"Escambia County, FL",12033,White,Hispanic or Latino,48.0,14954.0,321.0,524.7
+2018,Florida,12,"Escambia County, FL",12033,White,Not Hispanic or Latino,2647.0,202512.0,1307.1,917.9
+2018,Florida,12,"Escambia County, FL",12033,More than one race,Not Hispanic or Latino,27.0,9652.0,279.7,482.3
+2018,Florida,12,"Flagler County, FL",12035,Asian,Not Hispanic or Latino,11.0,2788.0,Unreliable,Unreliable
+2018,Florida,12,"Flagler County, FL",12035,Black or African American,Hispanic or Latino,10.0,870.0,Unreliable,Unreliable
+2018,Florida,12,"Flagler County, FL",12035,Black or African American,Not Hispanic or Latino,126.0,11165.0,1128.5,710.2
+2018,Florida,12,"Flagler County, FL",12035,White,Hispanic or Latino,56.0,10231.0,547.4,394.4
+2018,Florida,12,"Flagler County, FL",12035,White,Not Hispanic or Latino,1209.0,83849.0,1441.9,704.7
+2018,Florida,12,"Franklin County, FL",12037,Black or African American,Not Hispanic or Latino,14.0,1427.0,Unreliable,Unreliable
+2018,Florida,12,"Franklin County, FL",12037,White,Not Hispanic or Latino,111.0,9315.0,1191.6,752.2
+2018,Florida,12,"Gadsden County, FL",12039,Black or African American,Not Hispanic or Latino,268.0,25298.0,1059.4,973.6
+2018,Florida,12,"Gadsden County, FL",12039,White,Hispanic or Latino,13.0,4171.0,Unreliable,Unreliable
+2018,Florida,12,"Gadsden County, FL",12039,White,Not Hispanic or Latino,222.0,14944.0,1485.5,828.3
+2018,Florida,12,"Gilchrist County, FL",12041,White,Not Hispanic or Latino,221.0,15662.0,1411.1,894.7
+2018,Florida,12,"Glades County, FL",12043,Black or African American,Not Hispanic or Latino,12.0,1788.0,Unreliable,Unreliable
+2018,Florida,12,"Glades County, FL",12043,White,Not Hispanic or Latino,107.0,8245.0,1297.8,574.0
+2018,Florida,12,"Gulf County, FL",12045,Black or African American,Not Hispanic or Latino,21.0,2720.0,772.1,949.5
+2018,Florida,12,"Gulf County, FL",12045,White,Not Hispanic or Latino,171.0,12235.0,1397.6,869.3
+2018,Florida,12,"Hamilton County, FL",12047,Black or African American,Not Hispanic or Latino,39.0,4597.0,848.4,862.2
+2018,Florida,12,"Hamilton County, FL",12047,White,Not Hispanic or Latino,105.0,7874.0,1333.5,849.6
+2018,Florida,12,"Hardee County, FL",12049,Black or African American,Not Hispanic or Latino,23.0,1815.0,1267.2,1089.1
+2018,Florida,12,"Hardee County, FL",12049,White,Hispanic or Latino,34.0,11358.0,299.3,507.7
+2018,Florida,12,"Hardee County, FL",12049,White,Not Hispanic or Latino,160.0,12737.0,1256.2,695.1
+2018,Florida,12,"Hendry County, FL",12051,Black or African American,Not Hispanic or Latino,47.0,4497.0,1045.1,1009.8
+2018,Florida,12,"Hendry County, FL",12051,White,Hispanic or Latino,85.0,21432.0,396.6,587.0
+2018,Florida,12,"Hendry County, FL",12051,White,Not Hispanic or Latino,211.0,13321.0,1584.0,942.5
+2018,Florida,12,"Hernando County, FL",12053,Asian,Not Hispanic or Latino,10.0,2607.0,Unreliable,Unreliable
+2018,Florida,12,"Hernando County, FL",12053,Black or African American,Not Hispanic or Latino,91.0,9841.0,924.7,781.0
+2018,Florida,12,"Hernando County, FL",12053,White,Hispanic or Latino,167.0,23988.0,696.2,622.0
+2018,Florida,12,"Hernando County, FL",12053,White,Not Hispanic or Latino,2581.0,147415.0,1750.8,867.2
+2018,Florida,12,"Highlands County, FL",12055,Black or African American,Not Hispanic or Latino,107.0,10119.0,1057.4,936.8
+2018,Florida,12,"Highlands County, FL",12055,White,Hispanic or Latino,107.0,20096.0,532.4,516.7
+2018,Florida,12,"Highlands County, FL",12055,White,Not Hispanic or Latino,1369.0,69979.0,1956.3,732.5
+2018,Florida,12,"Hillsborough County, FL",12057,American Indian or Alaska Native,Not Hispanic or Latino,12.0,3250.0,Unreliable,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Asian,Not Hispanic or Latino,174.0,61687.0,282.1,360.3
+2018,Florida,12,"Hillsborough County, FL",12057,Black or African American,Hispanic or Latino,74.0,27834.0,265.9,526.8
+2018,Florida,12,"Hillsborough County, FL",12057,Black or African American,Not Hispanic or Latino,1496.0,228567.0,654.5,826.1
+2018,Florida,12,"Hillsborough County, FL",12057,White,Hispanic or Latino,1774.0,374108.0,474.2,572.0
+2018,Florida,12,"Hillsborough County, FL",12057,White,Not Hispanic or Latino,7365.0,693221.0,1062.4,757.0
+2018,Florida,12,"Hillsborough County, FL",12057,More than one race,Not Hispanic or Latino,53.0,29055.0,182.4,477.5
+2018,Florida,12,"Holmes County, FL",12059,White,Not Hispanic or Latino,281.0,16839.0,1668.7,1133.4
+2018,Florida,12,"Indian River County, FL",12061,Black or African American,Not Hispanic or Latino,126.0,14215.0,886.4,897.2
+2018,Florida,12,"Indian River County, FL",12061,White,Hispanic or Latino,58.0,18451.0,314.3,354.4
+2018,Florida,12,"Indian River County, FL",12061,White,Not Hispanic or Latino,1921.0,118361.0,1623.0,631.4
+2018,Florida,12,"Jackson County, FL",12063,Black or African American,Not Hispanic or Latino,148.0,12780.0,1158.1,1058.4
+2018,Florida,12,"Jackson County, FL",12063,White,Not Hispanic or Latino,507.0,31440.0,1612.6,1021.6
+2018,Florida,12,"Jefferson County, FL",12065,Black or African American,Not Hispanic or Latino,52.0,4822.0,1078.4,837.4
+2018,Florida,12,"Jefferson County, FL",12065,White,Not Hispanic or Latino,105.0,8590.0,1222.4,706.5
+2018,Florida,12,"Lafayette County, FL",12067,White,Not Hispanic or Latino,76.0,6178.0,1230.2,850.1
+2018,Florida,12,"Lake County, FL",12069,Asian,Not Hispanic or Latino,30.0,7668.0,391.2,356.5
+2018,Florida,12,"Lake County, FL",12069,Black or African American,Not Hispanic or Latino,278.0,36855.0,754.3,779.2
+2018,Florida,12,"Lake County, FL",12069,White,Hispanic or Latino,202.0,50437.0,400.5,508.4
+2018,Florida,12,"Lake County, FL",12069,White,Not Hispanic or Latino,3817.0,247397.0,1542.9,729.6
+2018,Florida,12,"Lake County, FL",12069,More than one race,Not Hispanic or Latino,17.0,5854.0,Unreliable,Unreliable
+2018,Florida,12,"Lee County, FL",12071,Asian,Not Hispanic or Latino,37.0,12628.0,293.0,223.7
+2018,Florida,12,"Lee County, FL",12071,Black or African American,Hispanic or Latino,15.0,7511.0,Unreliable,Unreliable
+2018,Florida,12,"Lee County, FL",12071,Black or African American,Not Hispanic or Latino,378.0,61000.0,619.7,665.0
+2018,Florida,12,"Lee County, FL",12071,White,Hispanic or Latino,544.0,150732.0,360.9,492.1
+2018,Florida,12,"Lee County, FL",12071,White,Not Hispanic or Latino,6344.0,504219.0,1258.2,582.4
+2018,Florida,12,"Lee County, FL",12071,More than one race,Not Hispanic or Latino,12.0,9614.0,Unreliable,Unreliable
+2018,Florida,12,"Leon County, FL",12073,Asian,Not Hispanic or Latino,19.0,10811.0,Unreliable,Unreliable
+2018,Florida,12,"Leon County, FL",12073,Black or African American,Not Hispanic or Latino,502.0,90765.0,553.1,794.3
+2018,Florida,12,"Leon County, FL",12073,White,Hispanic or Latino,38.0,16165.0,235.1,429.7
+2018,Florida,12,"Leon County, FL",12073,White,Not Hispanic or Latino,1364.0,164809.0,827.6,678.0
+2018,Florida,12,"Levy County, FL",12075,Black or African American,Not Hispanic or Latino,41.0,3651.0,1123.0,964.1
+2018,Florida,12,"Levy County, FL",12075,White,Hispanic or Latino,18.0,3092.0,Unreliable,Unreliable
+2018,Florida,12,"Levy County, FL",12075,White,Not Hispanic or Latino,487.0,32426.0,1501.9,899.0
+2018,Florida,12,"Liberty County, FL",12077,White,Not Hispanic or Latino,88.0,6021.0,1461.6,1188.5
+2018,Florida,12,"Madison County, FL",12079,Black or African American,Not Hispanic or Latino,64.0,6910.0,926.2,853.1
+2018,Florida,12,"Madison County, FL",12079,White,Not Hispanic or Latino,174.0,10142.0,1715.6,1032.3
+2018,Florida,12,"Manatee County, FL",12081,Asian,Not Hispanic or Latino,25.0,8499.0,294.2,257.4
+2018,Florida,12,"Manatee County, FL",12081,Black or African American,Not Hispanic or Latino,276.0,33353.0,827.5,893.2
+2018,Florida,12,"Manatee County, FL",12081,White,Hispanic or Latino,187.0,60201.0,310.6,498.3
+2018,Florida,12,"Manatee County, FL",12081,White,Not Hispanic or Latino,3673.0,279999.0,1311.8,602.0
+2018,Florida,12,"Marion County, FL",12083,Asian,Not Hispanic or Latino,21.0,6276.0,334.6,351.5
+2018,Florida,12,"Marion County, FL",12083,Black or African American,Hispanic or Latino,17.0,3471.0,Unreliable,Unreliable
+2018,Florida,12,"Marion County, FL",12083,Black or African American,Not Hispanic or Latino,380.0,45029.0,843.9,797.5
+2018,Florida,12,"Marion County, FL",12083,White,Hispanic or Latino,264.0,43393.0,608.4,635.3
+2018,Florida,12,"Marion County, FL",12083,White,Not Hispanic or Latino,4585.0,252289.0,1817.4,895.9
+2018,Florida,12,"Marion County, FL",12083,More than one race,Not Hispanic or Latino,24.0,5929.0,404.8,574.5
+2018,Florida,12,"Martin County, FL",12085,Black or African American,Not Hispanic or Latino,64.0,8403.0,761.6,738.7
+2018,Florida,12,"Martin County, FL",12085,White,Hispanic or Latino,59.0,19565.0,301.6,400.9
+2018,Florida,12,"Martin County, FL",12085,White,Not Hispanic or Latino,1801.0,125482.0,1435.3,585.8
+2018,Florida,12,"Miami-Dade County, FL",12086,Asian,Hispanic or Latino,11.0,3287.0,Unreliable,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Asian,Not Hispanic or Latino,157.0,42481.0,369.6,355.5
+2018,Florida,12,"Miami-Dade County, FL",12086,Black or African American,Hispanic or Latino,263.0,65392.0,402.2,473.2
+2018,Florida,12,"Miami-Dade County, FL",12086,Black or African American,Not Hispanic or Latino,3319.0,430245.0,771.4,767.9
+2018,Florida,12,"Miami-Dade County, FL",12086,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Miami-Dade County, FL",12086,White,Hispanic or Latino,12635.0,1817309.0,695.3,504.6
+2018,Florida,12,"Miami-Dade County, FL",12086,White,Not Hispanic or Latino,3608.0,359792.0,1002.8,685.8
+2018,Florida,12,"Miami-Dade County, FL",12086,White,Not Stated,35.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Miami-Dade County, FL",12086,More than one race,Hispanic or Latino,18.0,15007.0,Unreliable,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,More than one race,Not Hispanic or Latino,43.0,19073.0,225.4,284.8
+2018,Florida,12,"Monroe County, FL",12087,Black or African American,Not Hispanic or Latino,22.0,4601.0,478.2,572.5
+2018,Florida,12,"Monroe County, FL",12087,White,Hispanic or Latino,78.0,17652.0,441.9,410.6
+2018,Florida,12,"Monroe County, FL",12087,White,Not Hispanic or Latino,596.0,49335.0,1208.1,668.4
+2018,Florida,12,"Nassau County, FL",12089,Black or African American,Not Hispanic or Latino,60.0,4924.0,1218.5,1044.3
+2018,Florida,12,"Nassau County, FL",12089,White,Hispanic or Latino,12.0,3215.0,Unreliable,Unreliable
+2018,Florida,12,"Nassau County, FL",12089,White,Not Hispanic or Latino,865.0,74551.0,1160.3,786.0
+2018,Florida,12,"Okaloosa County, FL",12091,Asian,Not Hispanic or Latino,23.0,6406.0,359.0,297.4
+2018,Florida,12,"Okaloosa County, FL",12091,Black or African American,Not Hispanic or Latino,140.0,19921.0,702.8,971.8
+2018,Florida,12,"Okaloosa County, FL",12091,White,Hispanic or Latino,46.0,16528.0,278.3,507.3
+2018,Florida,12,"Okaloosa County, FL",12091,White,Not Hispanic or Latino,1668.0,151614.0,1100.2,822.8
+2018,Florida,12,"Okaloosa County, FL",12091,More than one race,Not Hispanic or Latino,24.0,7740.0,310.1,678.7
+2018,Florida,12,"Okeechobee County, FL",12093,Black or African American,Not Hispanic or Latino,19.0,3541.0,Unreliable,Unreliable
+2018,Florida,12,"Okeechobee County, FL",12093,White,Hispanic or Latino,39.0,9874.0,395.0,673.8
+2018,Florida,12,"Okeechobee County, FL",12093,White,Not Hispanic or Latino,408.0,26177.0,1558.6,899.4
+2018,Florida,12,"Orange County, FL",12095,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2905.0,Unreliable,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Asian,Not Hispanic or Latino,250.0,75789.0,329.9,369.5
+2018,Florida,12,"Orange County, FL",12095,Black or African American,Hispanic or Latino,45.0,34043.0,132.2,192.8
+2018,Florida,12,"Orange County, FL",12095,Black or African American,Not Hispanic or Latino,1651.0,279380.0,591.0,760.5
+2018,Florida,12,"Orange County, FL",12095,White,Hispanic or Latino,1720.0,391633.0,439.2,565.4
+2018,Florida,12,"Orange County, FL",12095,White,Not Hispanic or Latino,4852.0,548738.0,884.2,726.0
+2018,Florida,12,"Orange County, FL",12095,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Orange County, FL",12095,More than one race,Not Hispanic or Latino,41.0,25900.0,158.3,315.5
+2018,Florida,12,"Osceola County, FL",12097,Asian,Not Hispanic or Latino,46.0,9781.0,470.3,427.3
+2018,Florida,12,"Osceola County, FL",12097,Black or African American,Hispanic or Latino,20.0,15799.0,126.6,188.7
+2018,Florida,12,"Osceola County, FL",12097,Black or African American,Not Hispanic or Latino,204.0,35180.0,579.9,672.9
+2018,Florida,12,"Osceola County, FL",12097,White,Hispanic or Latino,939.0,178836.0,525.1,686.6
+2018,Florida,12,"Osceola County, FL",12097,White,Not Hispanic or Latino,1239.0,113263.0,1093.9,790.7
+2018,Florida,12,"Palm Beach County, FL",12099,Asian,Not Hispanic or Latino,109.0,42060.0,259.2,258.4
+2018,Florida,12,"Palm Beach County, FL",12099,Black or African American,Hispanic or Latino,32.0,16453.0,194.5,301.9
+2018,Florida,12,"Palm Beach County, FL",12099,Black or African American,Not Hispanic or Latino,1521.0,276309.0,550.5,625.2
+2018,Florida,12,"Palm Beach County, FL",12099,White,Hispanic or Latino,1151.0,308456.0,373.1,409.7
+2018,Florida,12,"Palm Beach County, FL",12099,White,Not Hispanic or Latino,11839.0,803636.0,1473.2,578.5
+2018,Florida,12,"Palm Beach County, FL",12099,More than one race,Not Hispanic or Latino,36.0,20279.0,177.5,309.2
+2018,Florida,12,"Pasco County, FL",12101,Asian,Not Hispanic or Latino,51.0,14015.0,363.9,370.4
+2018,Florida,12,"Pasco County, FL",12101,Black or African American,Hispanic or Latino,10.0,4811.0,Unreliable,Unreliable
+2018,Florida,12,"Pasco County, FL",12101,Black or African American,Not Hispanic or Latino,168.0,30082.0,558.5,684.9
+2018,Florida,12,"Pasco County, FL",12101,White,Hispanic or Latino,325.0,76078.0,427.2,538.4
+2018,Florida,12,"Pasco County, FL",12101,White,Not Hispanic or Latino,5884.0,398422.0,1476.8,832.5
+2018,Florida,12,"Pasco County, FL",12101,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Pasco County, FL",12101,More than one race,Not Hispanic or Latino,18.0,10093.0,Unreliable,Unreliable
+2018,Florida,12,"Pinellas County, FL",12103,Asian,Not Hispanic or Latino,139.0,34132.0,407.2,388.6
+2018,Florida,12,"Pinellas County, FL",12103,Black or African American,Hispanic or Latino,12.0,5785.0,Unreliable,Unreliable
+2018,Florida,12,"Pinellas County, FL",12103,Black or African American,Not Hispanic or Latino,909.0,102008.0,891.1,925.7
+2018,Florida,12,"Pinellas County, FL",12103,White,Hispanic or Latino,402.0,85670.0,469.2,497.2
+2018,Florida,12,"Pinellas County, FL",12103,White,Not Hispanic or Latino,10678.0,720034.0,1483.0,720.6
+2018,Florida,12,"Pinellas County, FL",12103,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2018,Florida,12,"Pinellas County, FL",12103,More than one race,Not Hispanic or Latino,26.0,18485.0,140.7,231.9
+2018,Florida,12,"Polk County, FL",12105,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1934.0,Unreliable,Unreliable
+2018,Florida,12,"Polk County, FL",12105,Asian,Not Hispanic or Latino,60.0,13101.0,458.0,395.7
+2018,Florida,12,"Polk County, FL",12105,Black or African American,Not Hispanic or Latino,838.0,103595.0,808.9,883.4
+2018,Florida,12,"Polk County, FL",12105,White,Hispanic or Latino,588.0,148453.0,396.1,618.4
+2018,Florida,12,"Polk County, FL",12105,White,Not Hispanic or Latino,5661.0,410283.0,1379.8,753.8
+2018,Florida,12,"Polk County, FL",12105,More than one race,Not Hispanic or Latino,13.0,11502.0,Unreliable,Unreliable
+2018,Florida,12,"Putnam County, FL",12107,Black or African American,Not Hispanic or Latino,132.0,11751.0,1123.3,1062.2
+2018,Florida,12,"Putnam County, FL",12107,White,Hispanic or Latino,41.0,6727.0,609.5,827.1
+2018,Florida,12,"Putnam County, FL",12107,White,Not Hispanic or Latino,902.0,52871.0,1706.0,1004.2
+2018,Florida,12,"St. Johns County, FL",12109,Black or African American,Not Hispanic or Latino,104.0,13281.0,783.1,752.4
+2018,Florida,12,"St. Johns County, FL",12109,White,Hispanic or Latino,48.0,16399.0,292.7,396.9
+2018,Florida,12,"St. Johns County, FL",12109,White,Not Hispanic or Latino,1905.0,209338.0,910.0,613.6
+2018,Florida,12,"St. Lucie County, FL",12111,Asian,Not Hispanic or Latino,28.0,6044.0,463.3,378.8
+2018,Florida,12,"St. Lucie County, FL",12111,Black or African American,Hispanic or Latino,13.0,3767.0,Unreliable,Unreliable
+2018,Florida,12,"St. Lucie County, FL",12111,Black or African American,Not Hispanic or Latino,496.0,63643.0,779.3,746.1
+2018,Florida,12,"St. Lucie County, FL",12111,White,Hispanic or Latino,210.0,55779.0,376.5,422.8
+2018,Florida,12,"St. Lucie County, FL",12111,White,Not Hispanic or Latino,2571.0,182036.0,1412.4,675.4
+2018,Florida,12,"St. Lucie County, FL",12111,More than one race,Not Hispanic or Latino,12.0,5760.0,Unreliable,Unreliable
+2018,Florida,12,"Santa Rosa County, FL",12113,Asian,Not Hispanic or Latino,13.0,3684.0,Unreliable,Unreliable
+2018,Florida,12,"Santa Rosa County, FL",12113,Black or African American,Not Hispanic or Latino,43.0,11001.0,390.9,574.3
+2018,Florida,12,"Santa Rosa County, FL",12113,White,Hispanic or Latino,30.0,8516.0,352.3,683.1
+2018,Florida,12,"Santa Rosa County, FL",12113,White,Not Hispanic or Latino,1582.0,147601.0,1071.8,886.4
+2018,Florida,12,"Santa Rosa County, FL",12113,More than one race,Not Hispanic or Latino,16.0,5295.0,Unreliable,Unreliable
+2018,Florida,12,"Sarasota County, FL",12115,Asian,Not Hispanic or Latino,20.0,7366.0,271.5,227.1
+2018,Florida,12,"Sarasota County, FL",12115,Black or African American,Not Hispanic or Latino,180.0,18739.0,960.6,826.2
+2018,Florida,12,"Sarasota County, FL",12115,White,Hispanic or Latino,134.0,36319.0,369.0,377.0
+2018,Florida,12,"Sarasota County, FL",12115,White,Not Hispanic or Latino,5505.0,354243.0,1554.0,581.4
+2018,Florida,12,"Sarasota County, FL",12115,More than one race,Not Hispanic or Latino,14.0,5622.0,Unreliable,Unreliable
+2018,Florida,12,"Seminole County, FL",12117,Asian,Not Hispanic or Latino,78.0,22132.0,352.4,436.0
+2018,Florida,12,"Seminole County, FL",12117,Black or African American,Hispanic or Latino,15.0,7165.0,Unreliable,Unreliable
+2018,Florida,12,"Seminole County, FL",12117,Black or African American,Not Hispanic or Latino,338.0,53293.0,634.2,691.2
+2018,Florida,12,"Seminole County, FL",12117,White,Hispanic or Latino,399.0,90572.0,440.5,531.6
+2018,Florida,12,"Seminole County, FL",12117,White,Not Hispanic or Latino,2721.0,278726.0,976.2,684.9
+2018,Florida,12,"Seminole County, FL",12117,More than one race,Not Hispanic or Latino,11.0,9530.0,Unreliable,Unreliable
+2018,Florida,12,"Sumter County, FL",12119,Black or African American,Not Hispanic or Latino,64.0,9056.0,706.7,734.6
+2018,Florida,12,"Sumter County, FL",12119,White,Hispanic or Latino,24.0,6464.0,371.3,341.8
+2018,Florida,12,"Sumter County, FL",12119,White,Not Hispanic or Latino,1899.0,109568.0,1733.2,625.2
+2018,Florida,12,"Suwannee County, FL",12121,Black or African American,Not Hispanic or Latino,45.0,5478.0,821.5,797.9
+2018,Florida,12,"Suwannee County, FL",12121,White,Hispanic or Latino,10.0,3811.0,Unreliable,Unreliable
+2018,Florida,12,"Suwannee County, FL",12121,White,Not Hispanic or Latino,502.0,33367.0,1504.5,899.5
+2018,Florida,12,"Taylor County, FL",12123,Black or African American,Not Hispanic or Latino,41.0,4169.0,983.4,924.5
+2018,Florida,12,"Taylor County, FL",12123,White,Not Hispanic or Latino,242.0,15663.0,1545.0,981.1
+2018,Florida,12,"Union County, FL",12125,Black or African American,Not Hispanic or Latino,45.0,3278.0,1372.8,1496.3
+2018,Florida,12,"Union County, FL",12125,White,Not Hispanic or Latino,196.0,10399.0,1884.8,1534.9
+2018,Florida,12,"Volusia County, FL",12127,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1533.0,Unreliable,Unreliable
+2018,Florida,12,"Volusia County, FL",12127,Asian,Not Hispanic or Latino,36.0,10439.0,344.9,335.5
+2018,Florida,12,"Volusia County, FL",12127,Black or African American,Hispanic or Latino,17.0,5582.0,Unreliable,Unreliable
+2018,Florida,12,"Volusia County, FL",12127,Black or African American,Not Hispanic or Latino,513.0,56759.0,903.8,943.9
+2018,Florida,12,"Volusia County, FL",12127,White,Hispanic or Latino,391.0,69652.0,561.4,582.9
+2018,Florida,12,"Volusia County, FL",12127,White,Not Hispanic or Latino,6337.0,389728.0,1626.0,850.4
+2018,Florida,12,"Volusia County, FL",12127,More than one race,Not Hispanic or Latino,19.0,9297.0,Unreliable,Unreliable
+2018,Florida,12,"Wakulla County, FL",12129,Black or African American,Not Hispanic or Latino,29.0,4156.0,697.8,933.7
+2018,Florida,12,"Wakulla County, FL",12129,White,Not Hispanic or Latino,255.0,25988.0,981.2,867.0
+2018,Florida,12,"Walton County, FL",12131,Black or African American,Not Hispanic or Latino,22.0,3597.0,611.6,731.1
+2018,Florida,12,"Walton County, FL",12131,White,Hispanic or Latino,13.0,3931.0,Unreliable,Unreliable
+2018,Florida,12,"Walton County, FL",12131,White,Not Hispanic or Latino,691.0,60102.0,1149.7,789.7
+2018,Florida,12,"Washington County, FL",12133,Black or African American,Not Hispanic or Latino,32.0,3608.0,886.9,1077.6
+2018,Florida,12,"Washington County, FL",12133,White,Not Hispanic or Latino,310.0,19292.0,1606.9,1212.1
+2019,Florida,12,"Alachua County, FL",12001,Asian,Not Hispanic or Latino,30.0,16261.0,184.5,280.1
+2019,Florida,12,"Alachua County, FL",12001,Black or African American,Not Hispanic or Latino,415.0,53858.0,770.5,944.0
+2019,Florida,12,"Alachua County, FL",12001,White,Hispanic or Latino,71.0,24922.0,284.9,463.0
+2019,Florida,12,"Alachua County, FL",12001,White,Not Hispanic or Latino,1477.0,163036.0,905.9,713.9
+2019,Florida,12,"Alachua County, FL",12001,More than one race,Not Hispanic or Latino,11.0,6833.0,Unreliable,Unreliable
+2019,Florida,12,"Baker County, FL",12003,Black or African American,Not Hispanic or Latino,25.0,4102.0,609.5,892.7
+2019,Florida,12,"Baker County, FL",12003,White,Not Hispanic or Latino,233.0,23471.0,992.7,867.3
+2019,Florida,12,"Bay County, FL",12005,Asian,Not Hispanic or Latino,31.0,3954.0,784.0,715.5
+2019,Florida,12,"Bay County, FL",12005,Black or African American,Not Hispanic or Latino,156.0,18943.0,823.5,862.5
+2019,Florida,12,"Bay County, FL",12005,White,Hispanic or Latino,30.0,9817.0,305.6,467.2
+2019,Florida,12,"Bay County, FL",12005,White,Not Hispanic or Latino,1637.0,133860.0,1222.9,834.7
+2019,Florida,12,"Bay County, FL",12005,More than one race,Not Hispanic or Latino,14.0,5036.0,Unreliable,Unreliable
+2019,Florida,12,"Bradford County, FL",12007,Black or African American,Not Hispanic or Latino,30.0,5687.0,527.5,673.7
+2019,Florida,12,"Bradford County, FL",12007,White,Not Hispanic or Latino,272.0,20368.0,1335.4,896.7
+2019,Florida,12,"Brevard County, FL",12009,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1909.0,Unreliable,Unreliable
+2019,Florida,12,"Brevard County, FL",12009,Asian,Not Hispanic or Latino,61.0,15151.0,402.6,318.8
+2019,Florida,12,"Brevard County, FL",12009,Black or African American,Hispanic or Latino,12.0,4667.0,Unreliable,Unreliable
+2019,Florida,12,"Brevard County, FL",12009,Black or African American,Not Hispanic or Latino,540.0,60402.0,894.0,774.8
+2019,Florida,12,"Brevard County, FL",12009,White,Hispanic or Latino,282.0,56299.0,500.9,470.2
+2019,Florida,12,"Brevard County, FL",12009,White,Not Hispanic or Latino,6664.0,444290.0,1499.9,803.4
+2019,Florida,12,"Brevard County, FL",12009,More than one race,Not Hispanic or Latino,30.0,14140.0,212.2,408.4
+2019,Florida,12,"Broward County, FL",12011,American Indian or Alaska Native,Not Hispanic or Latino,17.0,3737.0,Unreliable,Unreliable
+2019,Florida,12,"Broward County, FL",12011,Asian,Not Hispanic or Latino,252.0,72644.0,346.9,343.6
+2019,Florida,12,"Broward County, FL",12011,Black or African American,Hispanic or Latino,91.0,34840.0,261.2,389.7
+2019,Florida,12,"Broward County, FL",12011,Black or African American,Not Hispanic or Latino,3167.0,555237.0,570.4,629.1
+2019,Florida,12,"Broward County, FL",12011,White,Hispanic or Latino,2294.0,551047.0,416.3,421.9
+2019,Florida,12,"Broward County, FL",12011,White,Not Hispanic or Latino,9331.0,680536.0,1371.1,686.3
+2019,Florida,12,"Broward County, FL",12011,More than one race,Hispanic or Latino,12.0,12728.0,Unreliable,Unreliable
+2019,Florida,12,"Broward County, FL",12011,More than one race,Not Hispanic or Latino,60.0,32424.0,185.0,293.7
+2019,Florida,12,"Calhoun County, FL",12013,Black or African American,Not Hispanic or Latino,13.0,1731.0,Unreliable,Unreliable
+2019,Florida,12,"Calhoun County, FL",12013,White,Not Hispanic or Latino,149.0,10975.0,1357.6,896.8
+2019,Florida,12,"Charlotte County, FL",12015,Asian,Not Hispanic or Latino,13.0,2612.0,Unreliable,Unreliable
+2019,Florida,12,"Charlotte County, FL",12015,Black or African American,Not Hispanic or Latino,84.0,10163.0,826.5,510.8
+2019,Florida,12,"Charlotte County, FL",12015,White,Hispanic or Latino,63.0,12847.0,490.4,408.6
+2019,Florida,12,"Charlotte County, FL",12015,White,Not Hispanic or Latino,2571.0,158292.0,1624.2,611.5
+2019,Florida,12,"Citrus County, FL",12017,Asian,Not Hispanic or Latino,19.0,2437.0,Unreliable,Unreliable
+2019,Florida,12,"Citrus County, FL",12017,Black or African American,Not Hispanic or Latino,48.0,4294.0,1117.8,791.0
+2019,Florida,12,"Citrus County, FL",12017,White,Hispanic or Latino,62.0,8137.0,762.0,590.7
+2019,Florida,12,"Citrus County, FL",12017,White,Not Hispanic or Latino,2499.0,130922.0,1908.8,863.2
+2019,Florida,12,"Citrus County, FL",12017,More than one race,Not Hispanic or Latino,11.0,2268.0,Unreliable,Unreliable
+2019,Florida,12,"Clay County, FL",12019,Asian,Not Hispanic or Latino,30.0,6538.0,458.9,461.9
+2019,Florida,12,"Clay County, FL",12019,Black or African American,Not Hispanic or Latino,125.0,25430.0,491.5,674.4
+2019,Florida,12,"Clay County, FL",12019,White,Hispanic or Latino,74.0,18862.0,392.3,627.5
+2019,Florida,12,"Clay County, FL",12019,White,Not Hispanic or Latino,1693.0,157209.0,1076.9,857.1
+2019,Florida,12,"Clay County, FL",12019,More than one race,Not Hispanic or Latino,10.0,6120.0,Unreliable,Unreliable
+2019,Florida,12,"Collier County, FL",12021,Asian,Not Hispanic or Latino,15.0,5671.0,Unreliable,Unreliable
+2019,Florida,12,"Collier County, FL",12021,Black or African American,Not Hispanic or Latino,119.0,25487.0,466.9,484.2
+2019,Florida,12,"Collier County, FL",12021,White,Hispanic or Latino,325.0,104449.0,311.2,397.2
+2019,Florida,12,"Collier County, FL",12021,White,Not Hispanic or Latino,3119.0,239424.0,1302.7,462.4
+2019,Florida,12,"Columbia County, FL",12023,Black or African American,Not Hispanic or Latino,100.0,13068.0,765.2,866.5
+2019,Florida,12,"Columbia County, FL",12023,White,Hispanic or Latino,20.0,4209.0,475.2,521.5
+2019,Florida,12,"Columbia County, FL",12023,White,Not Hispanic or Latino,702.0,51484.0,1363.5,905.1
+2019,Florida,12,"DeSoto County, FL",12027,Black or African American,Not Hispanic or Latino,39.0,4560.0,855.3,904.3
+2019,Florida,12,"DeSoto County, FL",12027,White,Hispanic or Latino,22.0,11390.0,193.2,327.3
+2019,Florida,12,"DeSoto County, FL",12027,White,Not Hispanic or Latino,289.0,20593.0,1403.4,692.1
+2019,Florida,12,"Dixie County, FL",12029,Black or African American,Not Hispanic or Latino,12.0,1596.0,Unreliable,Unreliable
+2019,Florida,12,"Dixie County, FL",12029,White,Not Hispanic or Latino,213.0,14072.0,1513.6,892.3
+2019,Florida,12,"Duval County, FL",12031,Asian,Not Hispanic or Latino,145.0,46542.0,311.5,323.7
+2019,Florida,12,"Duval County, FL",12031,Black or African American,Hispanic or Latino,25.0,11030.0,226.7,352.3
+2019,Florida,12,"Duval County, FL",12031,Black or African American,Not Hispanic or Latino,2283.0,283907.0,804.1,930.4
+2019,Florida,12,"Duval County, FL",12031,White,Hispanic or Latino,296.0,82082.0,360.6,535.8
+2019,Florida,12,"Duval County, FL",12031,White,Not Hispanic or Latino,5958.0,498343.0,1195.6,907.0
+2019,Florida,12,"Duval County, FL",12031,More than one race,Not Hispanic or Latino,49.0,24469.0,200.3,524.9
+2019,Florida,12,"Escambia County, FL",12033,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2398.0,Unreliable,Unreliable
+2019,Florida,12,"Escambia County, FL",12033,Asian,Not Hispanic or Latino,45.0,10301.0,436.9,437.8
+2019,Florida,12,"Escambia County, FL",12033,Black or African American,Not Hispanic or Latino,723.0,72465.0,997.7,1056.7
+2019,Florida,12,"Escambia County, FL",12033,White,Hispanic or Latino,51.0,15355.0,332.1,535.8
+2019,Florida,12,"Escambia County, FL",12033,White,Not Hispanic or Latino,2863.0,203840.0,1404.5,994.3
+2019,Florida,12,"Escambia County, FL",12033,More than one race,Not Hispanic or Latino,29.0,9880.0,293.5,729.6
+2019,Florida,12,"Flagler County, FL",12035,Asian,Not Hispanic or Latino,13.0,2765.0,Unreliable,Unreliable
+2019,Florida,12,"Flagler County, FL",12035,Black or African American,Not Hispanic or Latino,151.0,11600.0,1301.7,814.0
+2019,Florida,12,"Flagler County, FL",12035,White,Hispanic or Latino,71.0,10848.0,654.5,493.9
+2019,Florida,12,"Flagler County, FL",12035,White,Not Hispanic or Latino,1274.0,85668.0,1487.1,731.3
+2019,Florida,12,"Franklin County, FL",12037,Black or African American,Not Hispanic or Latino,11.0,1580.0,Unreliable,Unreliable
+2019,Florida,12,"Franklin County, FL",12037,White,Not Hispanic or Latino,145.0,9523.0,1522.6,962.3
+2019,Florida,12,"Gadsden County, FL",12039,Black or African American,Not Hispanic or Latino,264.0,25024.0,1055.0,919.8
+2019,Florida,12,"Gadsden County, FL",12039,White,Hispanic or Latino,10.0,4308.0,Unreliable,Unreliable
+2019,Florida,12,"Gadsden County, FL",12039,White,Not Hispanic or Latino,206.0,14840.0,1388.1,804.7
+2019,Florida,12,"Gilchrist County, FL",12041,White,Not Hispanic or Latino,184.0,15971.0,1152.1,735.9
+2019,Florida,12,"Glades County, FL",12043,White,Not Hispanic or Latino,118.0,8220.0,1435.5,782.9
+2019,Florida,12,"Gulf County, FL",12045,Black or African American,Not Hispanic or Latino,20.0,1524.0,1312.3,965.9
+2019,Florida,12,"Gulf County, FL",12045,White,Not Hispanic or Latino,163.0,11252.0,1448.6,890.0
+2019,Florida,12,"Hamilton County, FL",12047,Black or African American,Not Hispanic or Latino,43.0,4681.0,918.6,927.1
+2019,Florida,12,"Hamilton County, FL",12047,White,Not Hispanic or Latino,119.0,7895.0,1507.3,895.4
+2019,Florida,12,"Hardee County, FL",12049,Black or African American,Not Hispanic or Latino,16.0,1812.0,Unreliable,Unreliable
+2019,Florida,12,"Hardee County, FL",12049,White,Hispanic or Latino,45.0,11134.0,404.2,748.9
+2019,Florida,12,"Hardee County, FL",12049,White,Not Hispanic or Latino,176.0,12662.0,1390.0,782.2
+2019,Florida,12,"Hendry County, FL",12051,Black or African American,Not Hispanic or Latino,57.0,4417.0,1290.5,1226.3
+2019,Florida,12,"Hendry County, FL",12051,White,Hispanic or Latino,75.0,21821.0,343.7,509.0
+2019,Florida,12,"Hendry County, FL",12051,White,Not Hispanic or Latino,187.0,13166.0,1420.3,829.7
+2019,Florida,12,"Hernando County, FL",12053,Black or African American,Not Hispanic or Latino,92.0,10142.0,907.1,779.7
+2019,Florida,12,"Hernando County, FL",12053,White,Hispanic or Latino,156.0,25531.0,611.0,539.0
+2019,Florida,12,"Hernando County, FL",12053,White,Not Hispanic or Latino,2584.0,148291.0,1742.5,867.7
+2019,Florida,12,"Highlands County, FL",12055,Black or African American,Not Hispanic or Latino,100.0,10165.0,983.8,876.0
+2019,Florida,12,"Highlands County, FL",12055,White,Hispanic or Latino,116.0,20525.0,565.2,548.2
+2019,Florida,12,"Highlands County, FL",12055,White,Not Hispanic or Latino,1431.0,70203.0,2038.4,756.1
+2019,Florida,12,"Hillsborough County, FL",12057,American Indian or Alaska Native,Not Hispanic or Latino,15.0,3274.0,Unreliable,Unreliable
+2019,Florida,12,"Hillsborough County, FL",12057,Asian,Not Hispanic or Latino,163.0,63405.0,257.1,312.2
+2019,Florida,12,"Hillsborough County, FL",12057,Black or African American,Hispanic or Latino,58.0,28751.0,201.7,431.3
+2019,Florida,12,"Hillsborough County, FL",12057,Black or African American,Not Hispanic or Latino,1594.0,235544.0,676.7,849.3
+2019,Florida,12,"Hillsborough County, FL",12057,White,Hispanic or Latino,1834.0,388989.0,471.5,566.3
+2019,Florida,12,"Hillsborough County, FL",12057,White,Not Hispanic or Latino,7250.0,701596.0,1033.4,730.7
+2019,Florida,12,"Hillsborough County, FL",12057,More than one race,Not Hispanic or Latino,64.0,30226.0,211.7,592.5
+2019,Florida,12,"Holmes County, FL",12059,Black or African American,Not Hispanic or Latino,11.0,1305.0,Unreliable,Unreliable
+2019,Florida,12,"Holmes County, FL",12059,White,Not Hispanic or Latino,301.0,16953.0,1775.5,1153.3
+2019,Florida,12,"Indian River County, FL",12061,Asian,Not Hispanic or Latino,12.0,2487.0,Unreliable,Unreliable
+2019,Florida,12,"Indian River County, FL",12061,Black or African American,Not Hispanic or Latino,129.0,14615.0,882.7,918.5
+2019,Florida,12,"Indian River County, FL",12061,White,Hispanic or Latino,75.0,18801.0,398.9,424.5
+2019,Florida,12,"Indian River County, FL",12061,White,Not Hispanic or Latino,1974.0,119915.0,1646.2,640.1
+2019,Florida,12,"Jackson County, FL",12063,Black or African American,Not Hispanic or Latino,131.0,12018.0,1090.0,892.1
+2019,Florida,12,"Jackson County, FL",12063,White,Not Hispanic or Latino,491.0,30509.0,1609.4,985.4
+2019,Florida,12,"Jefferson County, FL",12065,Black or African American,Not Hispanic or Latino,55.0,4700.0,1170.2,905.1
+2019,Florida,12,"Jefferson County, FL",12065,White,Not Hispanic or Latino,111.0,8601.0,1290.5,683.7
+2019,Florida,12,"Lafayette County, FL",12067,White,Not Hispanic or Latino,75.0,6046.0,1240.5,799.8
+2019,Florida,12,"Lake County, FL",12069,Asian,Not Hispanic or Latino,35.0,7885.0,443.9,341.2
+2019,Florida,12,"Lake County, FL",12069,Black or African American,Hispanic or Latino,10.0,3900.0,Unreliable,Unreliable
+2019,Florida,12,"Lake County, FL",12069,Black or African American,Not Hispanic or Latino,335.0,38224.0,876.4,895.0
+2019,Florida,12,"Lake County, FL",12069,White,Hispanic or Latino,238.0,54069.0,440.2,537.0
+2019,Florida,12,"Lake County, FL",12069,White,Not Hispanic or Latino,3931.0,252030.0,1559.7,744.9
+2019,Florida,12,"Lake County, FL",12069,More than one race,Not Hispanic or Latino,17.0,6037.0,Unreliable,Unreliable
+2019,Florida,12,"Lee County, FL",12071,Asian,Not Hispanic or Latino,58.0,12870.0,450.7,314.5
+2019,Florida,12,"Lee County, FL",12071,Black or African American,Hispanic or Latino,16.0,7635.0,Unreliable,Unreliable
+2019,Florida,12,"Lee County, FL",12071,Black or African American,Not Hispanic or Latino,376.0,62344.0,603.1,635.0
+2019,Florida,12,"Lee County, FL",12071,White,Hispanic or Latino,570.0,159132.0,358.2,476.5
+2019,Florida,12,"Lee County, FL",12071,White,Not Hispanic or Latino,6486.0,510000.0,1271.8,564.2
+2019,Florida,12,"Lee County, FL",12071,More than one race,Not Hispanic or Latino,15.0,9970.0,Unreliable,Unreliable
+2019,Florida,12,"Leon County, FL",12073,Asian,Not Hispanic or Latino,13.0,10483.0,Unreliable,Unreliable
+2019,Florida,12,"Leon County, FL",12073,Black or African American,Not Hispanic or Latino,560.0,92148.0,607.7,830.7
+2019,Florida,12,"Leon County, FL",12073,White,Hispanic or Latino,31.0,16501.0,187.9,341.5
+2019,Florida,12,"Leon County, FL",12073,White,Not Hispanic or Latino,1432.0,164198.0,872.1,698.5
+2019,Florida,12,"Levy County, FL",12075,Black or African American,Not Hispanic or Latino,41.0,3684.0,1112.9,958.7
+2019,Florida,12,"Levy County, FL",12075,White,Hispanic or Latino,17.0,3224.0,Unreliable,Unreliable
+2019,Florida,12,"Levy County, FL",12075,White,Not Hispanic or Latino,491.0,32891.0,1492.8,895.5
+2019,Florida,12,"Liberty County, FL",12077,White,Not Hispanic or Latino,60.0,5929.0,1012.0,872.0
+2019,Florida,12,"Madison County, FL",12079,Black or African American,Not Hispanic or Latino,73.0,6911.0,1056.3,932.9
+2019,Florida,12,"Madison County, FL",12079,White,Not Hispanic or Latino,170.0,10097.0,1683.7,994.2
+2019,Florida,12,"Manatee County, FL",12081,Asian,Not Hispanic or Latino,29.0,8764.0,330.9,279.4
+2019,Florida,12,"Manatee County, FL",12081,Black or African American,Not Hispanic or Latino,261.0,34377.0,759.2,814.5
+2019,Florida,12,"Manatee County, FL",12081,White,Hispanic or Latino,199.0,61930.0,321.3,465.9
+2019,Florida,12,"Manatee County, FL",12081,White,Not Hispanic or Latino,3852.0,284753.0,1352.8,611.2
+2019,Florida,12,"Manatee County, FL",12081,More than one race,Not Hispanic or Latino,10.0,6213.0,Unreliable,Unreliable
+2019,Florida,12,"Marion County, FL",12083,Asian,Not Hispanic or Latino,27.0,6181.0,436.8,393.5
+2019,Florida,12,"Marion County, FL",12083,Black or African American,Hispanic or Latino,13.0,3669.0,Unreliable,Unreliable
+2019,Florida,12,"Marion County, FL",12083,Black or African American,Not Hispanic or Latino,427.0,45729.0,933.8,861.4
+2019,Florida,12,"Marion County, FL",12083,White,Hispanic or Latino,306.0,45620.0,670.8,681.4
+2019,Florida,12,"Marion County, FL",12083,White,Not Hispanic or Latino,4556.0,254448.0,1790.5,848.9
+2019,Florida,12,"Marion County, FL",12083,More than one race,Not Hispanic or Latino,14.0,6193.0,Unreliable,Unreliable
+2019,Florida,12,"Martin County, FL",12085,Black or African American,Not Hispanic or Latino,56.0,8307.0,674.1,688.7
+2019,Florida,12,"Martin County, FL",12085,White,Hispanic or Latino,58.0,19857.0,292.1,406.2
+2019,Florida,12,"Martin County, FL",12085,White,Not Hispanic or Latino,1841.0,125144.0,1471.1,577.0
+2019,Florida,12,"Miami-Dade County, FL",12086,Asian,Not Hispanic or Latino,142.0,40914.0,347.1,314.3
+2019,Florida,12,"Miami-Dade County, FL",12086,Black or African American,Hispanic or Latino,308.0,64630.0,476.6,583.5
+2019,Florida,12,"Miami-Dade County, FL",12086,Black or African American,Not Hispanic or Latino,3414.0,417130.0,818.4,793.1
+2019,Florida,12,"Miami-Dade County, FL",12086,White,Hispanic or Latino,12568.0,1797036.0,699.4,500.5
+2019,Florida,12,"Miami-Dade County, FL",12086,White,Not Hispanic or Latino,3554.0,350675.0,1013.5,696.2
+2019,Florida,12,"Miami-Dade County, FL",12086,More than one race,Not Hispanic or Latino,32.0,19070.0,167.8,182.8
+2019,Florida,12,"Monroe County, FL",12087,Black or African American,Not Hispanic or Latino,29.0,4710.0,615.7,742.4
+2019,Florida,12,"Monroe County, FL",12087,White,Hispanic or Latino,76.0,17721.0,428.9,380.3
+2019,Florida,12,"Monroe County, FL",12087,White,Not Hispanic or Latino,545.0,48340.0,1127.4,638.1
+2019,Florida,12,"Nassau County, FL",12089,Black or African American,Not Hispanic or Latino,66.0,5092.0,1296.2,1120.8
+2019,Florida,12,"Nassau County, FL",12089,White,Hispanic or Latino,15.0,3495.0,Unreliable,Unreliable
+2019,Florida,12,"Nassau County, FL",12089,White,Not Hispanic or Latino,852.0,76751.0,1110.1,734.6
+2019,Florida,12,"Okaloosa County, FL",12091,Asian,Not Hispanic or Latino,33.0,6312.0,522.8,396.5
+2019,Florida,12,"Okaloosa County, FL",12091,Black or African American,Not Hispanic or Latino,125.0,20556.0,608.1,851.3
+2019,Florida,12,"Okaloosa County, FL",12091,White,Hispanic or Latino,50.0,16951.0,295.0,473.5
+2019,Florida,12,"Okaloosa County, FL",12091,White,Not Hispanic or Latino,1653.0,153895.0,1074.1,797.7
+2019,Florida,12,"Okaloosa County, FL",12091,More than one race,Not Hispanic or Latino,13.0,7918.0,Unreliable,Unreliable
+2019,Florida,12,"Okeechobee County, FL",12093,Black or African American,Not Hispanic or Latino,20.0,3556.0,562.4,668.1
+2019,Florida,12,"Okeechobee County, FL",12093,White,Hispanic or Latino,32.0,10285.0,311.1,556.2
+2019,Florida,12,"Okeechobee County, FL",12093,White,Not Hispanic or Latino,428.0,26375.0,1622.7,934.9
+2019,Florida,12,"Orange County, FL",12095,American Indian or Alaska Native,Not Hispanic or Latino,12.0,2932.0,Unreliable,Unreliable
+2019,Florida,12,"Orange County, FL",12095,Asian,Not Hispanic or Latino,248.0,76169.0,325.6,335.5
+2019,Florida,12,"Orange County, FL",12095,Black or African American,Hispanic or Latino,54.0,34903.0,154.7,229.2
+2019,Florida,12,"Orange County, FL",12095,Black or African American,Not Hispanic or Latino,1581.0,282303.0,560.0,705.3
+2019,Florida,12,"Orange County, FL",12095,White,Hispanic or Latino,1669.0,399308.0,418.0,532.6
+2019,Florida,12,"Orange County, FL",12095,White,Not Hispanic or Latino,4797.0,548552.0,874.5,709.4
+2019,Florida,12,"Orange County, FL",12095,More than one race,Not Hispanic or Latino,36.0,26636.0,135.2,267.5
+2019,Florida,12,"Osceola County, FL",12097,Asian,Not Hispanic or Latino,52.0,10011.0,519.4,438.1
+2019,Florida,12,"Osceola County, FL",12097,Black or African American,Hispanic or Latino,24.0,16441.0,146.0,197.2
+2019,Florida,12,"Osceola County, FL",12097,Black or African American,Not Hispanic or Latino,247.0,36400.0,678.6,761.5
+2019,Florida,12,"Osceola County, FL",12097,White,Hispanic or Latino,915.0,184137.0,496.9,612.0
+2019,Florida,12,"Osceola County, FL",12097,White,Not Hispanic or Latino,1284.0,113104.0,1135.2,807.5
+2019,Florida,12,"Palm Beach County, FL",12099,Asian,Not Hispanic or Latino,131.0,42513.0,308.1,285.1
+2019,Florida,12,"Palm Beach County, FL",12099,Black or African American,Hispanic or Latino,35.0,17386.0,201.3,317.5
+2019,Florida,12,"Palm Beach County, FL",12099,Black or African American,Not Hispanic or Latino,1646.0,279405.0,589.1,641.8
+2019,Florida,12,"Palm Beach County, FL",12099,White,Hispanic or Latino,1212.0,315970.0,383.6,410.1
+2019,Florida,12,"Palm Beach County, FL",12099,White,Not Hispanic or Latino,11780.0,801351.0,1470.0,573.0
+2019,Florida,12,"Palm Beach County, FL",12099,More than one race,Not Hispanic or Latino,21.0,20785.0,101.0,179.5
+2019,Florida,12,"Pasco County, FL",12101,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1494.0,Unreliable,Unreliable
+2019,Florida,12,"Pasco County, FL",12101,Asian,Not Hispanic or Latino,70.0,14923.0,469.1,479.6
+2019,Florida,12,"Pasco County, FL",12101,Black or African American,Hispanic or Latino,11.0,5245.0,Unreliable,Unreliable
+2019,Florida,12,"Pasco County, FL",12101,Black or African American,Not Hispanic or Latino,190.0,31972.0,594.3,709.9
+2019,Florida,12,"Pasco County, FL",12101,White,Hispanic or Latino,363.0,81821.0,443.7,555.6
+2019,Florida,12,"Pasco County, FL",12101,White,Not Hispanic or Latino,5874.0,402918.0,1457.9,814.6
+2019,Florida,12,"Pasco County, FL",12101,More than one race,Not Hispanic or Latino,18.0,10677.0,Unreliable,Unreliable
+2019,Florida,12,"Pinellas County, FL",12103,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2257.0,Unreliable,Unreliable
+2019,Florida,12,"Pinellas County, FL",12103,Asian,Not Hispanic or Latino,159.0,33899.0,469.0,417.1
+2019,Florida,12,"Pinellas County, FL",12103,Black or African American,Hispanic or Latino,16.0,6127.0,Unreliable,Unreliable
+2019,Florida,12,"Pinellas County, FL",12103,Black or African American,Not Hispanic or Latino,927.0,102032.0,908.5,920.7
+2019,Florida,12,"Pinellas County, FL",12103,White,Hispanic or Latino,456.0,86732.0,525.8,530.4
+2019,Florida,12,"Pinellas County, FL",12103,White,Not Hispanic or Latino,10574.0,717761.0,1473.2,710.6
+2019,Florida,12,"Pinellas County, FL",12103,More than one race,Not Hispanic or Latino,28.0,18798.0,149.0,242.7
+2019,Florida,12,"Polk County, FL",12105,Asian,Not Hispanic or Latino,62.0,13163.0,471.0,368.8
+2019,Florida,12,"Polk County, FL",12105,Black or African American,Hispanic or Latino,10.0,11364.0,Unreliable,Unreliable
+2019,Florida,12,"Polk County, FL",12105,Black or African American,Not Hispanic or Latino,826.0,106234.0,777.5,848.6
+2019,Florida,12,"Polk County, FL",12105,White,Hispanic or Latino,608.0,158203.0,384.3,591.6
+2019,Florida,12,"Polk County, FL",12105,White,Not Hispanic or Latino,5830.0,412649.0,1412.8,763.9
+2019,Florida,12,"Polk County, FL",12105,More than one race,Not Hispanic or Latino,20.0,11962.0,167.2,351.4
+2019,Florida,12,"Putnam County, FL",12107,Black or African American,Not Hispanic or Latino,135.0,11854.0,1138.9,1130.2
+2019,Florida,12,"Putnam County, FL",12107,White,Hispanic or Latino,22.0,6751.0,325.9,440.6
+2019,Florida,12,"Putnam County, FL",12107,White,Not Hispanic or Latino,833.0,53061.0,1569.9,902.4
+2019,Florida,12,"St. Johns County, FL",12109,Asian,Not Hispanic or Latino,14.0,8411.0,Unreliable,Unreliable
+2019,Florida,12,"St. Johns County, FL",12109,Black or African American,Not Hispanic or Latino,112.0,13834.0,809.6,782.3
+2019,Florida,12,"St. Johns County, FL",12109,White,Hispanic or Latino,44.0,17711.0,248.4,346.1
+2019,Florida,12,"St. Johns County, FL",12109,White,Not Hispanic or Latino,1935.0,216843.0,892.4,583.5
+2019,Florida,12,"St. Lucie County, FL",12111,Asian,Not Hispanic or Latino,33.0,6224.0,530.2,423.3
+2019,Florida,12,"St. Lucie County, FL",12111,Black or African American,Not Hispanic or Latino,481.0,66494.0,723.4,686.0
+2019,Florida,12,"St. Lucie County, FL",12111,White,Hispanic or Latino,237.0,58074.0,408.1,460.4
+2019,Florida,12,"St. Lucie County, FL",12111,White,Not Hispanic or Latino,2741.0,183442.0,1494.2,698.3
+2019,Florida,12,"Santa Rosa County, FL",12113,Asian,Not Hispanic or Latino,15.0,3797.0,Unreliable,Unreliable
+2019,Florida,12,"Santa Rosa County, FL",12113,Black or African American,Not Hispanic or Latino,52.0,11394.0,456.4,804.7
+2019,Florida,12,"Santa Rosa County, FL",12113,White,Hispanic or Latino,28.0,9076.0,308.5,534.7
+2019,Florida,12,"Santa Rosa County, FL",12113,White,Not Hispanic or Latino,1565.0,151116.0,1035.6,842.5
+2019,Florida,12,"Santa Rosa County, FL",12113,More than one race,Not Hispanic or Latino,12.0,5538.0,Unreliable,Unreliable
+2019,Florida,12,"Sarasota County, FL",12115,Asian,Not Hispanic or Latino,25.0,7741.0,323.0,267.9
+2019,Florida,12,"Sarasota County, FL",12115,Black or African American,Not Hispanic or Latino,161.0,18817.0,855.6,745.1
+2019,Florida,12,"Sarasota County, FL",12115,White,Hispanic or Latino,148.0,37836.0,391.2,403.4
+2019,Florida,12,"Sarasota County, FL",12115,White,Not Hispanic or Latino,5644.0,358957.0,1572.3,591.1
+2019,Florida,12,"Seminole County, FL",12117,Asian,Not Hispanic or Latino,75.0,22711.0,330.2,373.3
+2019,Florida,12,"Seminole County, FL",12117,Black or African American,Hispanic or Latino,14.0,7401.0,Unreliable,Unreliable
+2019,Florida,12,"Seminole County, FL",12117,Black or African American,Not Hispanic or Latino,369.0,54202.0,680.8,750.0
+2019,Florida,12,"Seminole County, FL",12117,White,Hispanic or Latino,398.0,92940.0,428.2,511.0
+2019,Florida,12,"Seminole County, FL",12117,White,Not Hispanic or Latino,2662.0,277730.0,958.5,660.4
+2019,Florida,12,"Seminole County, FL",12117,More than one race,Not Hispanic or Latino,16.0,9937.0,Unreliable,Unreliable
+2019,Florida,12,"Sumter County, FL",12119,Black or African American,Not Hispanic or Latino,78.0,9151.0,852.4,898.4
+2019,Florida,12,"Sumter County, FL",12119,White,Hispanic or Latino,46.0,6909.0,665.8,551.1
+2019,Florida,12,"Sumter County, FL",12119,White,Not Hispanic or Latino,1941.0,112624.0,1723.4,624.2
+2019,Florida,12,"Sumter County, FL",12119,More than one race,Not Hispanic or Latino,10.0,1128.0,Unreliable,Unreliable
+2019,Florida,12,"Suwannee County, FL",12121,Black or African American,Not Hispanic or Latino,53.0,5439.0,974.4,935.4
+2019,Florida,12,"Suwannee County, FL",12121,White,Hispanic or Latino,21.0,3956.0,530.8,802.1
+2019,Florida,12,"Suwannee County, FL",12121,White,Not Hispanic or Latino,502.0,33460.0,1500.3,894.5
+2019,Florida,12,"Taylor County, FL",12123,Black or African American,Not Hispanic or Latino,42.0,4221.0,995.0,1038.4
+2019,Florida,12,"Taylor County, FL",12123,White,Not Hispanic or Latino,210.0,15600.0,1346.2,882.1
+2019,Florida,12,"Union County, FL",12125,Black or African American,Not Hispanic or Latino,49.0,3344.0,1465.3,1800.1
+2019,Florida,12,"Union County, FL",12125,White,Hispanic or Latino,11.0,703.0,Unreliable,Unreliable
+2019,Florida,12,"Union County, FL",12125,White,Not Hispanic or Latino,190.0,10643.0,1785.2,1372.4
+2019,Florida,12,"Volusia County, FL",12127,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1546.0,Unreliable,Unreliable
+2019,Florida,12,"Volusia County, FL",12127,Asian,Not Hispanic or Latino,43.0,10456.0,411.2,392.2
+2019,Florida,12,"Volusia County, FL",12127,Black or African American,Hispanic or Latino,18.0,5906.0,Unreliable,Unreliable
+2019,Florida,12,"Volusia County, FL",12127,Black or African American,Not Hispanic or Latino,528.0,57826.0,913.1,959.4
+2019,Florida,12,"Volusia County, FL",12127,White,Hispanic or Latino,421.0,72545.0,580.3,594.4
+2019,Florida,12,"Volusia County, FL",12127,White,Not Hispanic or Latino,6343.0,390746.0,1623.3,844.9
+2019,Florida,12,"Volusia County, FL",12127,More than one race,Not Hispanic or Latino,25.0,9512.0,262.8,492.9
+2019,Florida,12,"Wakulla County, FL",12129,Black or African American,Not Hispanic or Latino,26.0,4593.0,566.1,731.9
+2019,Florida,12,"Wakulla County, FL",12129,White,Not Hispanic or Latino,268.0,26705.0,1003.6,868.2
+2019,Florida,12,"Walton County, FL",12131,Black or African American,Not Hispanic or Latino,23.0,3732.0,616.3,683.7
+2019,Florida,12,"Walton County, FL",12131,White,Hispanic or Latino,14.0,4134.0,Unreliable,Unreliable
+2019,Florida,12,"Walton County, FL",12131,White,Not Hispanic or Latino,628.0,62226.0,1009.2,707.1
+2019,Florida,12,"Washington County, FL",12133,Black or African American,Not Hispanic or Latino,34.0,3767.0,902.6,1167.2
+2019,Florida,12,"Washington County, FL",12133,White,Not Hispanic or Latino,331.0,19645.0,1684.9,1264.4
+2020,Florida,12,"Alachua County, FL",12001,Asian,Not Hispanic or Latino,45.0,16350.0,275.2,389.3
+2020,Florida,12,"Alachua County, FL",12001,Black or African American,Not Hispanic or Latino,496.0,54204.0,915.1,1084.5
+2020,Florida,12,"Alachua County, FL",12001,White,Hispanic or Latino,81.0,25631.0,316.0,475.6
+2020,Florida,12,"Alachua County, FL",12001,White,Not Hispanic or Latino,1666.0,163964.0,1016.1,789.3
+2020,Florida,12,"Alachua County, FL",12001,More than one race,Not Hispanic or Latino,14.0,6788.0,Unreliable,Unreliable
+2020,Florida,12,"Baker County, FL",12003,Black or African American,Not Hispanic or Latino,30.0,4173.0,718.9,935.2
+2020,Florida,12,"Baker County, FL",12003,White,Not Hispanic or Latino,268.0,23670.0,1132.2,950.3
+2020,Florida,12,"Bay County, FL",12005,Asian,Not Hispanic or Latino,22.0,3937.0,558.8,494.2
+2020,Florida,12,"Bay County, FL",12005,Black or African American,Not Hispanic or Latino,181.0,18377.0,984.9,1020.9
+2020,Florida,12,"Bay County, FL",12005,White,Hispanic or Latino,43.0,9791.0,439.2,583.7
+2020,Florida,12,"Bay County, FL",12005,White,Not Hispanic or Latino,1861.0,130732.0,1423.5,951.9
+2020,Florida,12,"Bay County, FL",12005,More than one race,Not Hispanic or Latino,14.0,5185.0,Unreliable,Unreliable
+2020,Florida,12,"Bradford County, FL",12007,Black or African American,Not Hispanic or Latino,44.0,5684.0,774.1,980.9
+2020,Florida,12,"Bradford County, FL",12007,White,Not Hispanic or Latino,301.0,20749.0,1450.7,961.7
+2020,Florida,12,"Brevard County, FL",12009,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1914.0,Unreliable,Unreliable
+2020,Florida,12,"Brevard County, FL",12009,Asian,Not Hispanic or Latino,94.0,15653.0,600.5,460.7
+2020,Florida,12,"Brevard County, FL",12009,Black or African American,Hispanic or Latino,19.0,5072.0,Unreliable,Unreliable
+2020,Florida,12,"Brevard County, FL",12009,Black or African American,Not Hispanic or Latino,689.0,61065.0,1128.3,962.2
+2020,Florida,12,"Brevard County, FL",12009,White,Hispanic or Latino,384.0,58042.0,661.6,606.5
+2020,Florida,12,"Brevard County, FL",12009,White,Not Hispanic or Latino,7152.0,446714.0,1601.0,855.6
+2020,Florida,12,"Brevard County, FL",12009,More than one race,Not Hispanic or Latino,20.0,14506.0,137.9,301.7
+2020,Florida,12,"Broward County, FL",12011,American Indian or Alaska Native,Not Hispanic or Latino,21.0,3818.0,550.0,559.8
+2020,Florida,12,"Broward County, FL",12011,Asian,Not Hispanic or Latino,321.0,73280.0,438.0,411.8
+2020,Florida,12,"Broward County, FL",12011,Black or African American,Hispanic or Latino,119.0,36353.0,327.3,567.2
+2020,Florida,12,"Broward County, FL",12011,Black or African American,Not Hispanic or Latino,4220.0,560801.0,752.5,803.6
+2020,Florida,12,"Broward County, FL",12011,White,Hispanic or Latino,2992.0,556620.0,537.5,515.3
+2020,Florida,12,"Broward County, FL",12011,White,Not Hispanic or Latino,10180.0,671839.0,1515.2,772.4
+2020,Florida,12,"Broward County, FL",12011,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2020,Florida,12,"Broward County, FL",12011,More than one race,Hispanic or Latino,16.0,12837.0,Unreliable,Unreliable
+2020,Florida,12,"Broward County, FL",12011,More than one race,Not Hispanic or Latino,91.0,32453.0,280.4,426.9
+2020,Florida,12,"Calhoun County, FL",12013,Black or African American,Not Hispanic or Latino,17.0,1730.0,Unreliable,Unreliable
+2020,Florida,12,"Calhoun County, FL",12013,White,Not Hispanic or Latino,186.0,10907.0,1705.3,1095.3
+2020,Florida,12,"Charlotte County, FL",12015,Asian,Not Hispanic or Latino,15.0,2714.0,Unreliable,Unreliable
+2020,Florida,12,"Charlotte County, FL",12015,Black or African American,Not Hispanic or Latino,112.0,10635.0,1053.1,621.5
+2020,Florida,12,"Charlotte County, FL",12015,White,Hispanic or Latino,97.0,13655.0,710.4,577.1
+2020,Florida,12,"Charlotte County, FL",12015,White,Not Hispanic or Latino,2939.0,162478.0,1808.9,702.0
+2020,Florida,12,"Charlotte County, FL",12015,More than one race,Not Hispanic or Latino,11.0,2734.0,Unreliable,Unreliable
+2020,Florida,12,"Citrus County, FL",12017,Asian,Not Hispanic or Latino,20.0,2542.0,786.8,423.6
+2020,Florida,12,"Citrus County, FL",12017,Black or African American,Not Hispanic or Latino,77.0,4398.0,1750.8,1335.6
+2020,Florida,12,"Citrus County, FL",12017,White,Hispanic or Latino,98.0,8508.0,1151.9,963.5
+2020,Florida,12,"Citrus County, FL",12017,White,Not Hispanic or Latino,3007.0,133434.0,2253.5,1026.6
+2020,Florida,12,"Citrus County, FL",12017,More than one race,Not Hispanic or Latino,12.0,2420.0,Unreliable,Unreliable
+2020,Florida,12,"Clay County, FL",12019,Asian,Not Hispanic or Latino,42.0,6666.0,630.1,542.5
+2020,Florida,12,"Clay County, FL",12019,Black or African American,Not Hispanic or Latino,172.0,26632.0,645.8,974.4
+2020,Florida,12,"Clay County, FL",12019,White,Hispanic or Latino,88.0,19392.0,453.8,686.2
+2020,Florida,12,"Clay County, FL",12019,White,Not Hispanic or Latino,1882.0,157184.0,1197.3,915.9
+2020,Florida,12,"Clay County, FL",12019,More than one race,Not Hispanic or Latino,19.0,6354.0,Unreliable,Unreliable
+2020,Florida,12,"Collier County, FL",12021,American Indian or Alaska Native,Not Hispanic or Latino,14.0,742.0,Unreliable,Unreliable
+2020,Florida,12,"Collier County, FL",12021,Asian,Not Hispanic or Latino,29.0,5885.0,492.8,341.9
+2020,Florida,12,"Collier County, FL",12021,Black or African American,Not Hispanic or Latino,126.0,26005.0,484.5,486.9
+2020,Florida,12,"Collier County, FL",12021,White,Hispanic or Latino,425.0,106605.0,398.7,502.6
+2020,Florida,12,"Collier County, FL",12021,White,Not Hispanic or Latino,3432.0,244067.0,1406.2,500.7
+2020,Florida,12,"Columbia County, FL",12023,Black or African American,Not Hispanic or Latino,117.0,13144.0,890.1,958.8
+2020,Florida,12,"Columbia County, FL",12023,White,Hispanic or Latino,29.0,4182.0,693.4,711.8
+2020,Florida,12,"Columbia County, FL",12023,White,Not Hispanic or Latino,803.0,52165.0,1539.3,1005.2
+2020,Florida,12,"DeSoto County, FL",12027,Black or African American,Not Hispanic or Latino,50.0,4556.0,1097.5,1190.9
+2020,Florida,12,"DeSoto County, FL",12027,White,Hispanic or Latino,39.0,11421.0,341.5,549.7
+2020,Florida,12,"DeSoto County, FL",12027,White,Not Hispanic or Latino,354.0,20969.0,1688.2,838.6
+2020,Florida,12,"Dixie County, FL",12029,Black or African American,Not Hispanic or Latino,15.0,1587.0,Unreliable,Unreliable
+2020,Florida,12,"Dixie County, FL",12029,White,Not Hispanic or Latino,224.0,14312.0,1565.1,923.3
+2020,Florida,12,"Duval County, FL",12031,Asian,Not Hispanic or Latino,201.0,47406.0,424.0,430.7
+2020,Florida,12,"Duval County, FL",12031,Black or African American,Hispanic or Latino,21.0,12146.0,172.9,374.8
+2020,Florida,12,"Duval County, FL",12031,Black or African American,Not Hispanic or Latino,2866.0,287453.0,997.0,1140.9
+2020,Florida,12,"Duval County, FL",12031,White,Hispanic or Latino,369.0,86134.0,428.4,596.4
+2020,Florida,12,"Duval County, FL",12031,White,Not Hispanic or Latino,6595.0,496515.0,1328.3,993.0
+2020,Florida,12,"Duval County, FL",12031,More than one race,Not Hispanic or Latino,45.0,25352.0,177.5,463.8
+2020,Florida,12,"Escambia County, FL",12033,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2320.0,Unreliable,Unreliable
+2020,Florida,12,"Escambia County, FL",12033,Asian,Not Hispanic or Latino,63.0,10413.0,605.0,593.5
+2020,Florida,12,"Escambia County, FL",12033,Black or African American,Not Hispanic or Latino,913.0,72926.0,1252.0,1319.3
+2020,Florida,12,"Escambia County, FL",12033,White,Hispanic or Latino,52.0,16030.0,324.4,490.5
+2020,Florida,12,"Escambia County, FL",12033,White,Not Hispanic or Latino,3153.0,205867.0,1531.6,1078.3
+2020,Florida,12,"Escambia County, FL",12033,More than one race,Not Hispanic or Latino,21.0,10602.0,198.1,398.6
+2020,Florida,12,"Flagler County, FL",12035,Asian,Not Hispanic or Latino,15.0,2848.0,Unreliable,Unreliable
+2020,Florida,12,"Flagler County, FL",12035,Black or African American,Hispanic or Latino,15.0,990.0,Unreliable,Unreliable
+2020,Florida,12,"Flagler County, FL",12035,Black or African American,Not Hispanic or Latino,144.0,11763.0,1224.2,787.5
+2020,Florida,12,"Flagler County, FL",12035,White,Hispanic or Latino,78.0,11270.0,692.1,491.5
+2020,Florida,12,"Flagler County, FL",12035,White,Not Hispanic or Latino,1355.0,88129.0,1537.5,759.3
+2020,Florida,12,"Franklin County, FL",12037,Black or African American,Not Hispanic or Latino,20.0,1563.0,1279.6,1606.4
+2020,Florida,12,"Franklin County, FL",12037,White,Not Hispanic or Latino,146.0,9567.0,1526.1,884.6
+2020,Florida,12,"Gadsden County, FL",12039,Black or African American,Not Hispanic or Latino,297.0,24848.0,1195.3,1029.2
+2020,Florida,12,"Gadsden County, FL",12039,White,Hispanic or Latino,19.0,4185.0,Unreliable,Unreliable
+2020,Florida,12,"Gadsden County, FL",12039,White,Not Hispanic or Latino,243.0,14689.0,1654.3,866.4
+2020,Florida,12,"Gilchrist County, FL",12041,White,Hispanic or Latino,13.0,1065.0,Unreliable,Unreliable
+2020,Florida,12,"Gilchrist County, FL",12041,White,Not Hispanic or Latino,210.0,16196.0,1296.6,793.9
+2020,Florida,12,"Glades County, FL",12043,Black or African American,Not Hispanic or Latino,16.0,1803.0,Unreliable,Unreliable
+2020,Florida,12,"Glades County, FL",12043,White,Hispanic or Latino,10.0,2706.0,Unreliable,Unreliable
+2020,Florida,12,"Glades County, FL",12043,White,Not Hispanic or Latino,116.0,8531.0,1359.7,586.0
+2020,Florida,12,"Gulf County, FL",12045,Black or African American,Not Hispanic or Latino,34.0,1515.0,2244.2,1879.8
+2020,Florida,12,"Gulf County, FL",12045,White,Not Hispanic or Latino,195.0,11157.0,1747.8,993.8
+2020,Florida,12,"Hamilton County, FL",12047,Black or African American,Not Hispanic or Latino,57.0,4698.0,1213.3,1239.5
+2020,Florida,12,"Hamilton County, FL",12047,White,Not Hispanic or Latino,136.0,7872.0,1727.6,1118.9
+2020,Florida,12,"Hardee County, FL",12049,Black or African American,Not Hispanic or Latino,25.0,1787.0,1399.0,1147.0
+2020,Florida,12,"Hardee County, FL",12049,White,Hispanic or Latino,54.0,11210.0,481.7,880.2
+2020,Florida,12,"Hardee County, FL",12049,White,Not Hispanic or Latino,168.0,12473.0,1346.9,715.0
+2020,Florida,12,"Hendry County, FL",12051,Black or African American,Not Hispanic or Latino,66.0,4606.0,1432.9,1434.5
+2020,Florida,12,"Hendry County, FL",12051,White,Hispanic or Latino,101.0,22283.0,453.3,650.2
+2020,Florida,12,"Hendry County, FL",12051,White,Not Hispanic or Latino,194.0,13146.0,1475.7,847.4
+2020,Florida,12,"Hernando County, FL",12053,Asian,Not Hispanic or Latino,13.0,2754.0,Unreliable,Unreliable
+2020,Florida,12,"Hernando County, FL",12053,Black or African American,Not Hispanic or Latino,111.0,10652.0,1042.1,875.7
+2020,Florida,12,"Hernando County, FL",12053,White,Hispanic or Latino,219.0,27069.0,809.0,719.1
+2020,Florida,12,"Hernando County, FL",12053,White,Not Hispanic or Latino,2808.0,150521.0,1865.5,943.8
+2020,Florida,12,"Hernando County, FL",12053,More than one race,Not Hispanic or Latino,14.0,3532.0,Unreliable,Unreliable
+2020,Florida,12,"Highlands County, FL",12055,Asian,Not Hispanic or Latino,10.0,1588.0,Unreliable,Unreliable
+2020,Florida,12,"Highlands County, FL",12055,Black or African American,Not Hispanic or Latino,138.0,10311.0,1338.4,1163.2
+2020,Florida,12,"Highlands County, FL",12055,White,Hispanic or Latino,145.0,20674.0,701.4,640.9
+2020,Florida,12,"Highlands County, FL",12055,White,Not Hispanic or Latino,1553.0,70132.0,2214.4,878.6
+2020,Florida,12,"Highlands County, FL",12055,More than one race,Not Hispanic or Latino,10.0,1450.0,Unreliable,Unreliable
+2020,Florida,12,"Hillsborough County, FL",12057,American Indian or Alaska Native,Not Hispanic or Latino,15.0,3297.0,Unreliable,Unreliable
+2020,Florida,12,"Hillsborough County, FL",12057,Asian,Not Hispanic or Latino,217.0,66112.0,328.2,369.1
+2020,Florida,12,"Hillsborough County, FL",12057,Black or African American,Hispanic or Latino,94.0,31269.0,300.6,690.1
+2020,Florida,12,"Hillsborough County, FL",12057,Black or African American,Not Hispanic or Latino,1966.0,242280.0,811.5,982.3
+2020,Florida,12,"Hillsborough County, FL",12057,White,Hispanic or Latino,2387.0,396869.0,601.5,696.9
+2020,Florida,12,"Hillsborough County, FL",12057,White,Not Hispanic or Latino,8081.0,704933.0,1146.4,805.4
+2020,Florida,12,"Hillsborough County, FL",12057,More than one race,Hispanic or Latino,12.0,12381.0,Unreliable,Unreliable
+2020,Florida,12,"Hillsborough County, FL",12057,More than one race,Not Hispanic or Latino,65.0,31734.0,204.8,610.4
+2020,Florida,12,"Holmes County, FL",12059,White,Not Hispanic or Latino,307.0,16892.0,1817.4,1203.7
+2020,Florida,12,"Indian River County, FL",12061,Black or African American,Not Hispanic or Latino,159.0,14599.0,1089.1,1123.8
+2020,Florida,12,"Indian River County, FL",12061,White,Hispanic or Latino,98.0,19169.0,511.2,521.6
+2020,Florida,12,"Indian River County, FL",12061,White,Not Hispanic or Latino,2108.0,121702.0,1732.1,645.9
+2020,Florida,12,"Jackson County, FL",12063,Black or African American,Not Hispanic or Latino,186.0,11959.0,1555.3,1316.5
+2020,Florida,12,"Jackson County, FL",12063,White,Not Hispanic or Latino,582.0,30218.0,1926.0,1183.1
+2020,Florida,12,"Jefferson County, FL",12065,Black or African American,Not Hispanic or Latino,65.0,4637.0,1401.8,1050.7
+2020,Florida,12,"Jefferson County, FL",12065,White,Not Hispanic or Latino,152.0,8905.0,1706.9,940.8
+2020,Florida,12,"Lafayette County, FL",12067,White,Not Hispanic or Latino,102.0,6046.0,1687.1,1130.3
+2020,Florida,12,"Lake County, FL",12069,Asian,Not Hispanic or Latino,41.0,8353.0,490.8,335.2
+2020,Florida,12,"Lake County, FL",12069,Black or African American,Hispanic or Latino,13.0,4312.0,Unreliable,Unreliable
+2020,Florida,12,"Lake County, FL",12069,Black or African American,Not Hispanic or Latino,394.0,40228.0,979.4,975.5
+2020,Florida,12,"Lake County, FL",12069,White,Hispanic or Latino,321.0,56486.0,568.3,653.1
+2020,Florida,12,"Lake County, FL",12069,White,Not Hispanic or Latino,4354.0,254603.0,1710.1,804.6
+2020,Florida,12,"Lake County, FL",12069,More than one race,Not Hispanic or Latino,12.0,6405.0,Unreliable,Unreliable
+2020,Florida,12,"Lee County, FL",12071,Asian,Not Hispanic or Latino,57.0,13350.0,427.0,307.3
+2020,Florida,12,"Lee County, FL",12071,Black or African American,Hispanic or Latino,26.0,8411.0,309.1,553.1
+2020,Florida,12,"Lee County, FL",12071,Black or African American,Not Hispanic or Latino,440.0,63945.0,688.1,716.7
+2020,Florida,12,"Lee County, FL",12071,White,Hispanic or Latino,704.0,165988.0,424.1,547.8
+2020,Florida,12,"Lee County, FL",12071,White,Not Hispanic or Latino,7364.0,519276.0,1418.1,634.3
+2020,Florida,12,"Lee County, FL",12071,More than one race,Not Hispanic or Latino,22.0,10719.0,205.2,399.7
+2020,Florida,12,"Leon County, FL",12073,Asian,Not Hispanic or Latino,22.0,10481.0,209.9,324.2
+2020,Florida,12,"Leon County, FL",12073,Black or African American,Not Hispanic or Latino,695.0,93522.0,743.1,1014.9
+2020,Florida,12,"Leon County, FL",12073,White,Hispanic or Latino,44.0,16795.0,262.0,419.1
+2020,Florida,12,"Leon County, FL",12073,White,Not Hispanic or Latino,1665.0,163943.0,1015.6,797.4
+2020,Florida,12,"Levy County, FL",12075,Black or African American,Not Hispanic or Latino,39.0,3743.0,1041.9,908.6
+2020,Florida,12,"Levy County, FL",12075,White,Hispanic or Latino,15.0,3368.0,Unreliable,Unreliable
+2020,Florida,12,"Levy County, FL",12075,White,Not Hispanic or Latino,585.0,33262.0,1758.8,1011.5
+2020,Florida,12,"Liberty County, FL",12077,Black or African American,Not Hispanic or Latino,18.0,1584.0,Unreliable,Unreliable
+2020,Florida,12,"Liberty County, FL",12077,White,Not Hispanic or Latino,77.0,5965.0,1290.9,988.0
+2020,Florida,12,"Madison County, FL",12079,Black or African American,Not Hispanic or Latino,103.0,6919.0,1488.7,1271.2
+2020,Florida,12,"Madison County, FL",12079,White,Not Hispanic or Latino,203.0,10177.0,1994.7,1148.4
+2020,Florida,12,"Manatee County, FL",12081,Asian,Not Hispanic or Latino,28.0,9264.0,302.2,239.6
+2020,Florida,12,"Manatee County, FL",12081,Black or African American,Not Hispanic or Latino,346.0,35047.0,987.2,1033.3
+2020,Florida,12,"Manatee County, FL",12081,White,Hispanic or Latino,263.0,62357.0,421.8,563.9
+2020,Florida,12,"Manatee County, FL",12081,White,Not Hispanic or Latino,4171.0,290302.0,1436.8,638.7
+2020,Florida,12,"Manatee County, FL",12081,More than one race,Not Hispanic or Latino,14.0,6636.0,Unreliable,Unreliable
+2020,Florida,12,"Marion County, FL",12083,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1245.0,Unreliable,Unreliable
+2020,Florida,12,"Marion County, FL",12083,Asian,Not Hispanic or Latino,44.0,6499.0,677.0,588.3
+2020,Florida,12,"Marion County, FL",12083,Black or African American,Hispanic or Latino,17.0,4017.0,Unreliable,Unreliable
+2020,Florida,12,"Marion County, FL",12083,Black or African American,Not Hispanic or Latino,539.0,46796.0,1151.8,1063.1
+2020,Florida,12,"Marion County, FL",12083,White,Hispanic or Latino,388.0,48171.0,805.5,789.3
+2020,Florida,12,"Marion County, FL",12083,White,Not Hispanic or Latino,5126.0,257611.0,1989.8,965.5
+2020,Florida,12,"Marion County, FL",12083,More than one race,Not Hispanic or Latino,19.0,6386.0,Unreliable,Unreliable
+2020,Florida,12,"Martin County, FL",12085,Black or African American,Not Hispanic or Latino,68.0,8179.0,831.4,829.8
+2020,Florida,12,"Martin County, FL",12085,White,Hispanic or Latino,95.0,19632.0,483.9,626.2
+2020,Florida,12,"Martin County, FL",12085,White,Not Hispanic or Latino,2157.0,126089.0,1710.7,650.1
+2020,Florida,12,"Miami-Dade County, FL",12086,Asian,Not Hispanic or Latino,220.0,41157.0,534.5,472.0
+2020,Florida,12,"Miami-Dade County, FL",12086,Black or African American,Hispanic or Latino,360.0,65685.0,548.1,671.2
+2020,Florida,12,"Miami-Dade County, FL",12086,Black or African American,Not Hispanic or Latino,4467.0,413450.0,1080.4,1031.4
+2020,Florida,12,"Miami-Dade County, FL",12086,White,Hispanic or Latino,16385.0,1773644.0,923.8,640.1
+2020,Florida,12,"Miami-Dade County, FL",12086,White,Not Hispanic or Latino,4090.0,365483.0,1119.1,793.6
+2020,Florida,12,"Miami-Dade County, FL",12086,More than one race,Hispanic or Latino,19.0,15036.0,Unreliable,Unreliable
+2020,Florida,12,"Miami-Dade County, FL",12086,More than one race,Not Hispanic or Latino,52.0,19522.0,266.4,303.0
+2020,Florida,12,"Monroe County, FL",12087,Black or African American,Not Hispanic or Latino,41.0,4899.0,836.9,1029.0
+2020,Florida,12,"Monroe County, FL",12087,White,Hispanic or Latino,92.0,17695.0,519.9,458.8
+2020,Florida,12,"Monroe County, FL",12087,White,Not Hispanic or Latino,632.0,47723.0,1324.3,718.2
+2020,Florida,12,"Nassau County, FL",12089,Black or African American,Not Hispanic or Latino,69.0,5288.0,1304.8,1081.8
+2020,Florida,12,"Nassau County, FL",12089,White,Hispanic or Latino,19.0,3743.0,Unreliable,Unreliable
+2020,Florida,12,"Nassau County, FL",12089,White,Not Hispanic or Latino,980.0,78564.0,1247.4,830.5
+2020,Florida,12,"Okaloosa County, FL",12091,Asian,Not Hispanic or Latino,42.0,6556.0,640.6,463.3
+2020,Florida,12,"Okaloosa County, FL",12091,Black or African American,Not Hispanic or Latino,158.0,20673.0,764.3,1057.2
+2020,Florida,12,"Okaloosa County, FL",12091,White,Hispanic or Latino,62.0,17508.0,354.1,657.8
+2020,Florida,12,"Okaloosa County, FL",12091,White,Not Hispanic or Latino,1934.0,154404.0,1252.6,921.1
+2020,Florida,12,"Okaloosa County, FL",12091,More than one race,Not Hispanic or Latino,23.0,8423.0,273.1,670.5
+2020,Florida,12,"Okeechobee County, FL",12093,Black or African American,Not Hispanic or Latino,37.0,3573.0,1035.5,1367.7
+2020,Florida,12,"Okeechobee County, FL",12093,White,Hispanic or Latino,53.0,10444.0,507.5,942.2
+2020,Florida,12,"Okeechobee County, FL",12093,White,Not Hispanic or Latino,459.0,26269.0,1747.3,970.4
+2020,Florida,12,"Orange County, FL",12095,American Indian or Alaska Native,Not Hispanic or Latino,14.0,2963.0,Unreliable,Unreliable
+2020,Florida,12,"Orange County, FL",12095,Asian,Not Hispanic or Latino,319.0,77811.0,410.0,409.0
+2020,Florida,12,"Orange County, FL",12095,Black or African American,Hispanic or Latino,57.0,36566.0,155.9,257.0
+2020,Florida,12,"Orange County, FL",12095,Black or African American,Not Hispanic or Latino,2132.0,284269.0,750.0,917.0
+2020,Florida,12,"Orange County, FL",12095,White,Hispanic or Latino,2047.0,402898.0,508.1,624.0
+2020,Florida,12,"Orange County, FL",12095,White,Not Hispanic or Latino,5232.0,548833.0,953.3,766.8
+2020,Florida,12,"Orange County, FL",12095,More than one race,Not Hispanic or Latino,32.0,27337.0,117.1,251.8
+2020,Florida,12,"Osceola County, FL",12097,Asian,Not Hispanic or Latino,63.0,10613.0,593.6,490.2
+2020,Florida,12,"Osceola County, FL",12097,Black or African American,Hispanic or Latino,26.0,17797.0,146.1,226.6
+2020,Florida,12,"Osceola County, FL",12097,Black or African American,Not Hispanic or Latino,290.0,37824.0,766.7,870.6
+2020,Florida,12,"Osceola County, FL",12097,White,Hispanic or Latino,1153.0,188324.0,612.2,753.5
+2020,Florida,12,"Osceola County, FL",12097,White,Not Hispanic or Latino,1451.0,114168.0,1270.9,902.8
+2020,Florida,12,"Palm Beach County, FL",12099,Asian,Not Hispanic or Latino,140.0,43598.0,321.1,280.7
+2020,Florida,12,"Palm Beach County, FL",12099,Black or African American,Hispanic or Latino,41.0,17821.0,230.1,403.3
+2020,Florida,12,"Palm Beach County, FL",12099,Black or African American,Not Hispanic or Latino,2142.0,282780.0,757.5,809.5
+2020,Florida,12,"Palm Beach County, FL",12099,White,Hispanic or Latino,1721.0,318528.0,540.3,549.0
+2020,Florida,12,"Palm Beach County, FL",12099,White,Not Hispanic or Latino,13161.0,803793.0,1637.4,636.0
+2020,Florida,12,"Palm Beach County, FL",12099,More than one race,Not Hispanic or Latino,42.0,21191.0,198.2,317.4
+2020,Florida,12,"Pasco County, FL",12101,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1584.0,Unreliable,Unreliable
+2020,Florida,12,"Pasco County, FL",12101,Asian,Not Hispanic or Latino,70.0,16426.0,426.2,403.3
+2020,Florida,12,"Pasco County, FL",12101,Black or African American,Not Hispanic or Latino,246.0,34370.0,715.7,852.8
+2020,Florida,12,"Pasco County, FL",12101,White,Hispanic or Latino,484.0,86792.0,557.7,670.1
+2020,Florida,12,"Pasco County, FL",12101,White,Not Hispanic or Latino,6401.0,408566.0,1566.7,882.1
+2020,Florida,12,"Pasco County, FL",12101,More than one race,Not Hispanic or Latino,31.0,11386.0,272.3,773.1
+2020,Florida,12,"Pinellas County, FL",12103,American Indian or Alaska Native,Not Hispanic or Latino,14.0,2216.0,Unreliable,Unreliable
+2020,Florida,12,"Pinellas County, FL",12103,Asian,Not Hispanic or Latino,190.0,34497.0,550.8,453.3
+2020,Florida,12,"Pinellas County, FL",12103,Black or African American,Hispanic or Latino,23.0,6444.0,356.9,649.2
+2020,Florida,12,"Pinellas County, FL",12103,Black or African American,Not Hispanic or Latino,1051.0,101780.0,1032.6,1024.0
+2020,Florida,12,"Pinellas County, FL",12103,White,Hispanic or Latino,478.0,87262.0,547.8,542.8
+2020,Florida,12,"Pinellas County, FL",12103,White,Not Hispanic or Latino,11476.0,717510.0,1599.4,771.9
+2020,Florida,12,"Pinellas County, FL",12103,More than one race,Not Hispanic or Latino,42.0,19433.0,216.1,340.0
+2020,Florida,12,"Polk County, FL",12105,Asian,Not Hispanic or Latino,51.0,13539.0,376.7,277.9
+2020,Florida,12,"Polk County, FL",12105,Black or African American,Hispanic or Latino,21.0,13317.0,157.7,239.3
+2020,Florida,12,"Polk County, FL",12105,Black or African American,Not Hispanic or Latino,1075.0,109561.0,981.2,1033.2
+2020,Florida,12,"Polk County, FL",12105,White,Hispanic or Latino,839.0,168618.0,497.6,718.7
+2020,Florida,12,"Polk County, FL",12105,White,Not Hispanic or Latino,6572.0,415014.0,1583.6,850.1
+2020,Florida,12,"Polk County, FL",12105,More than one race,Not Hispanic or Latino,24.0,12593.0,190.6,498.6
+2020,Florida,12,"Putnam County, FL",12107,Black or African American,Not Hispanic or Latino,162.0,11837.0,1368.6,1338.3
+2020,Florida,12,"Putnam County, FL",12107,White,Hispanic or Latino,35.0,6868.0,509.6,677.6
+2020,Florida,12,"Putnam County, FL",12107,White,Not Hispanic or Latino,962.0,53095.0,1811.8,1071.3
+2020,Florida,12,"St. Johns County, FL",12109,Asian,Not Hispanic or Latino,21.0,9486.0,221.4,313.4
+2020,Florida,12,"St. Johns County, FL",12109,Black or African American,Not Hispanic or Latino,126.0,14485.0,869.9,867.9
+2020,Florida,12,"St. Johns County, FL",12109,White,Hispanic or Latino,59.0,19505.0,302.5,346.7
+2020,Florida,12,"St. Johns County, FL",12109,White,Not Hispanic or Latino,2146.0,226602.0,947.0,621.7
+2020,Florida,12,"St. Lucie County, FL",12111,Asian,Not Hispanic or Latino,37.0,6420.0,576.3,482.6
+2020,Florida,12,"St. Lucie County, FL",12111,Black or African American,Not Hispanic or Latino,611.0,69127.0,883.9,805.8
+2020,Florida,12,"St. Lucie County, FL",12111,White,Hispanic or Latino,316.0,60534.0,522.0,571.2
+2020,Florida,12,"St. Lucie County, FL",12111,White,Not Hispanic or Latino,2985.0,186041.0,1604.5,736.8
+2020,Florida,12,"St. Lucie County, FL",12111,More than one race,Not Hispanic or Latino,20.0,6244.0,320.3,916.7
+2020,Florida,12,"Santa Rosa County, FL",12113,Asian,Not Hispanic or Latino,18.0,4004.0,Unreliable,Unreliable
+2020,Florida,12,"Santa Rosa County, FL",12113,Black or African American,Not Hispanic or Latino,75.0,11648.0,643.9,1040.0
+2020,Florida,12,"Santa Rosa County, FL",12113,White,Hispanic or Latino,29.0,9582.0,302.7,530.2
+2020,Florida,12,"Santa Rosa County, FL",12113,White,Not Hispanic or Latino,1727.0,154446.0,1118.2,899.2
+2020,Florida,12,"Sarasota County, FL",12115,Asian,Not Hispanic or Latino,41.0,8198.0,500.1,382.3
+2020,Florida,12,"Sarasota County, FL",12115,Black or African American,Not Hispanic or Latino,236.0,18984.0,1243.2,1043.1
+2020,Florida,12,"Sarasota County, FL",12115,White,Hispanic or Latino,207.0,39254.0,527.3,510.5
+2020,Florida,12,"Sarasota County, FL",12115,White,Not Hispanic or Latino,6281.0,365908.0,1716.6,658.3
+2020,Florida,12,"Sarasota County, FL",12115,More than one race,Not Hispanic or Latino,21.0,6235.0,336.8,425.9
+2020,Florida,12,"Seminole County, FL",12117,Asian,Not Hispanic or Latino,76.0,23495.0,323.5,368.2
+2020,Florida,12,"Seminole County, FL",12117,Black or African American,Hispanic or Latino,13.0,7801.0,Unreliable,Unreliable
+2020,Florida,12,"Seminole County, FL",12117,Black or African American,Not Hispanic or Latino,464.0,55007.0,843.5,891.1
+2020,Florida,12,"Seminole County, FL",12117,White,Hispanic or Latino,443.0,94930.0,466.7,522.8
+2020,Florida,12,"Seminole County, FL",12117,White,Not Hispanic or Latino,2988.0,275546.0,1084.4,734.0
+2020,Florida,12,"Seminole County, FL",12117,More than one race,Not Hispanic or Latino,21.0,10250.0,204.9,447.5
+2020,Florida,12,"Sumter County, FL",12119,Asian,Not Hispanic or Latino,17.0,1378.0,Unreliable,Unreliable
+2020,Florida,12,"Sumter County, FL",12119,Black or African American,Not Hispanic or Latino,92.0,9194.0,1000.7,1000.1
+2020,Florida,12,"Sumter County, FL",12119,White,Hispanic or Latino,39.0,7288.0,535.1,452.9
+2020,Florida,12,"Sumter County, FL",12119,White,Not Hispanic or Latino,2246.0,118460.0,1896.0,686.4
+2020,Florida,12,"Suwannee County, FL",12121,Black or African American,Not Hispanic or Latino,67.0,5380.0,1245.4,1134.0
+2020,Florida,12,"Suwannee County, FL",12121,White,Hispanic or Latino,21.0,4091.0,513.3,679.9
+2020,Florida,12,"Suwannee County, FL",12121,White,Not Hispanic or Latino,588.0,33749.0,1742.3,998.2
+2020,Florida,12,"Taylor County, FL",12123,Black or African American,Not Hispanic or Latino,40.0,4192.0,954.2,911.6
+2020,Florida,12,"Taylor County, FL",12123,White,Not Hispanic or Latino,296.0,15656.0,1890.6,1186.6
+2020,Florida,12,"Union County, FL",12125,Black or African American,Not Hispanic or Latino,60.0,3369.0,1780.9,2196.1
+2020,Florida,12,"Union County, FL",12125,White,Hispanic or Latino,18.0,701.0,Unreliable,Unreliable
+2020,Florida,12,"Union County, FL",12125,White,Not Hispanic or Latino,225.0,10545.0,2133.7,1625.2
+2020,Florida,12,"Volusia County, FL",12127,Asian,Not Hispanic or Latino,51.0,10445.0,488.3,419.0
+2020,Florida,12,"Volusia County, FL",12127,Black or African American,Not Hispanic or Latino,587.0,58713.0,999.8,1021.6
+2020,Florida,12,"Volusia County, FL",12127,White,Hispanic or Latino,509.0,75581.0,673.4,675.1
+2020,Florida,12,"Volusia County, FL",12127,White,Not Hispanic or Latino,7045.0,393451.0,1790.6,938.9
+2020,Florida,12,"Volusia County, FL",12127,More than one race,Not Hispanic or Latino,30.0,10113.0,296.6,533.0
+2020,Florida,12,"Wakulla County, FL",12129,Black or African American,Not Hispanic or Latino,38.0,4609.0,824.5,1157.4
+2020,Florida,12,"Wakulla County, FL",12129,White,Not Hispanic or Latino,343.0,27124.0,1264.6,1083.0
+2020,Florida,12,"Walton County, FL",12131,Black or African American,Not Hispanic or Latino,29.0,3890.0,745.5,853.1
+2020,Florida,12,"Walton County, FL",12131,White,Hispanic or Latino,18.0,4190.0,Unreliable,Unreliable
+2020,Florida,12,"Walton County, FL",12131,White,Not Hispanic or Latino,750.0,64488.0,1163.0,817.8
+2020,Florida,12,"Washington County, FL",12133,Black or African American,Not Hispanic or Latino,44.0,3694.0,1191.1,1621.5
+2020,Florida,12,"Washington County, FL",12133,White,Not Hispanic or Latino,297.0,20012.0,1484.1,1098.7
+2021 (provisional),Florida,12,"Alachua County, FL",12001,Asian,Not Hispanic or Latino,37.0,16350.0,226.3,321.1
+2021 (provisional),Florida,12,"Alachua County, FL",12001,Black or African American,Not Hispanic or Latino,534.0,54204.0,985.2,1132.6
+2021 (provisional),Florida,12,"Alachua County, FL",12001,White,Hispanic or Latino,104.0,25631.0,405.8,565.8
+2021 (provisional),Florida,12,"Alachua County, FL",12001,White,Not Hispanic or Latino,1745.0,163964.0,1064.3,823.1
+2021 (provisional),Florida,12,"Alachua County, FL",12001,More than one race,Not Hispanic or Latino,14.0,6788.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Baker County, FL",12003,Black or African American,Not Hispanic or Latino,32.0,4173.0,766.8,993.3
+2021 (provisional),Florida,12,"Baker County, FL",12003,White,Not Hispanic or Latino,327.0,23670.0,1381.5,1184.2
+2021 (provisional),Florida,12,"Bay County, FL",12005,Asian,Not Hispanic or Latino,26.0,3937.0,660.4,550.6
+2021 (provisional),Florida,12,"Bay County, FL",12005,Black or African American,Not Hispanic or Latino,228.0,18377.0,1240.7,1310.4
+2021 (provisional),Florida,12,"Bay County, FL",12005,White,Hispanic or Latino,60.0,9791.0,612.8,817.0
+2021 (provisional),Florida,12,"Bay County, FL",12005,White,Not Hispanic or Latino,2188.0,130732.0,1673.7,1139.5
+2021 (provisional),Florida,12,"Bay County, FL",12005,More than one race,Not Hispanic or Latino,26.0,5185.0,501.4,793.2
+2021 (provisional),Florida,12,"Bradford County, FL",12007,Black or African American,Not Hispanic or Latino,50.0,5684.0,879.7,1085.0
+2021 (provisional),Florida,12,"Bradford County, FL",12007,White,Not Hispanic or Latino,347.0,20749.0,1672.4,1109.0
+2021 (provisional),Florida,12,"Brevard County, FL",12009,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1914.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Brevard County, FL",12009,Asian,Not Hispanic or Latino,96.0,15653.0,613.3,444.1
+2021 (provisional),Florida,12,"Brevard County, FL",12009,Black or African American,Hispanic or Latino,29.0,5072.0,571.8,1183.1
+2021 (provisional),Florida,12,"Brevard County, FL",12009,Black or African American,Not Hispanic or Latino,854.0,61065.0,1398.5,1207.4
+2021 (provisional),Florida,12,"Brevard County, FL",12009,White,Hispanic or Latino,419.0,58042.0,721.9,662.5
+2021 (provisional),Florida,12,"Brevard County, FL",12009,White,Not Hispanic or Latino,7797.0,446714.0,1745.4,956.5
+2021 (provisional),Florida,12,"Brevard County, FL",12009,More than one race,Not Hispanic or Latino,43.0,14506.0,296.4,536.7
+2021 (provisional),Florida,12,"Broward County, FL",12011,American Indian or Alaska Native,Not Hispanic or Latino,24.0,3818.0,628.6,571.3
+2021 (provisional),Florida,12,"Broward County, FL",12011,Asian,Not Hispanic or Latino,364.0,73280.0,496.7,458.5
+2021 (provisional),Florida,12,"Broward County, FL",12011,Black or African American,Hispanic or Latino,136.0,36353.0,374.1,589.3
+2021 (provisional),Florida,12,"Broward County, FL",12011,Black or African American,Not Hispanic or Latino,4797.0,560801.0,855.4,912.0
+2021 (provisional),Florida,12,"Broward County, FL",12011,White,Hispanic or Latino,3193.0,556620.0,573.6,547.3
+2021 (provisional),Florida,12,"Broward County, FL",12011,White,Not Hispanic or Latino,10103.0,671839.0,1503.8,767.2
+2021 (provisional),Florida,12,"Broward County, FL",12011,White,Not Stated,19.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Florida,12,"Broward County, FL",12011,More than one race,Hispanic or Latino,16.0,12837.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Broward County, FL",12011,More than one race,Not Hispanic or Latino,67.0,32453.0,206.5,318.6
+2021 (provisional),Florida,12,"Calhoun County, FL",12013,Black or African American,Not Hispanic or Latino,19.0,1730.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Calhoun County, FL",12013,White,Not Hispanic or Latino,216.0,10907.0,1980.4,1291.6
+2021 (provisional),Florida,12,"Charlotte County, FL",12015,Asian,Not Hispanic or Latino,13.0,2714.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Charlotte County, FL",12015,Black or African American,Not Hispanic or Latino,110.0,10635.0,1034.3,636.9
+2021 (provisional),Florida,12,"Charlotte County, FL",12015,White,Hispanic or Latino,106.0,13655.0,776.3,646.0
+2021 (provisional),Florida,12,"Charlotte County, FL",12015,White,Not Hispanic or Latino,3088.0,162478.0,1900.6,775.6
+2021 (provisional),Florida,12,"Citrus County, FL",12017,Asian,Not Hispanic or Latino,27.0,2542.0,1062.2,483.2
+2021 (provisional),Florida,12,"Citrus County, FL",12017,Black or African American,Not Hispanic or Latino,65.0,4398.0,1477.9,1114.4
+2021 (provisional),Florida,12,"Citrus County, FL",12017,White,Hispanic or Latino,110.0,8508.0,1292.9,1059.2
+2021 (provisional),Florida,12,"Citrus County, FL",12017,White,Not Hispanic or Latino,3341.0,133434.0,2503.9,1164.9
+2021 (provisional),Florida,12,"Citrus County, FL",12017,More than one race,Not Hispanic or Latino,10.0,2420.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Clay County, FL",12019,Asian,Not Hispanic or Latino,46.0,6666.0,690.1,598.0
+2021 (provisional),Florida,12,"Clay County, FL",12019,Black or African American,Not Hispanic or Latino,211.0,26632.0,792.3,1032.9
+2021 (provisional),Florida,12,"Clay County, FL",12019,White,Hispanic or Latino,116.0,19392.0,598.2,888.4
+2021 (provisional),Florida,12,"Clay County, FL",12019,White,Not Hispanic or Latino,2359.0,157184.0,1500.8,1159.6
+2021 (provisional),Florida,12,"Clay County, FL",12019,More than one race,Not Hispanic or Latino,21.0,6354.0,330.5,708.5
+2021 (provisional),Florida,12,"Collier County, FL",12021,American Indian or Alaska Native,Not Hispanic or Latino,17.0,742.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Collier County, FL",12021,Asian,Not Hispanic or Latino,32.0,5885.0,543.8,357.5
+2021 (provisional),Florida,12,"Collier County, FL",12021,Black or African American,Not Hispanic or Latino,171.0,26005.0,657.6,664.6
+2021 (provisional),Florida,12,"Collier County, FL",12021,White,Hispanic or Latino,552.0,106605.0,517.8,626.9
+2021 (provisional),Florida,12,"Collier County, FL",12021,White,Not Hispanic or Latino,3667.0,244067.0,1502.5,549.8
+2021 (provisional),Florida,12,"Collier County, FL",12021,More than one race,Not Hispanic or Latino,14.0,3670.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Columbia County, FL",12023,Black or African American,Not Hispanic or Latino,153.0,13144.0,1164.0,1244.6
+2021 (provisional),Florida,12,"Columbia County, FL",12023,White,Hispanic or Latino,26.0,4182.0,621.7,681.5
+2021 (provisional),Florida,12,"Columbia County, FL",12023,White,Not Hispanic or Latino,943.0,52165.0,1807.7,1190.0
+2021 (provisional),Florida,12,"DeSoto County, FL",12027,Black or African American,Not Hispanic or Latino,45.0,4556.0,987.7,1132.0
+2021 (provisional),Florida,12,"DeSoto County, FL",12027,White,Hispanic or Latino,49.0,11421.0,429.0,629.3
+2021 (provisional),Florida,12,"DeSoto County, FL",12027,White,Not Hispanic or Latino,371.0,20969.0,1769.3,852.8
+2021 (provisional),Florida,12,"Dixie County, FL",12029,White,Not Hispanic or Latino,301.0,14312.0,2103.1,1210.2
+2021 (provisional),Florida,12,"Duval County, FL",12031,American Indian or Alaska Native,Not Hispanic or Latino,14.0,2937.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Duval County, FL",12031,Asian,Not Hispanic or Latino,246.0,47406.0,518.9,517.8
+2021 (provisional),Florida,12,"Duval County, FL",12031,Black or African American,Hispanic or Latino,25.0,12146.0,205.8,394.1
+2021 (provisional),Florida,12,"Duval County, FL",12031,Black or African American,Not Hispanic or Latino,3234.0,287453.0,1125.1,1265.6
+2021 (provisional),Florida,12,"Duval County, FL",12031,White,Hispanic or Latino,507.0,86134.0,588.6,800.4
+2021 (provisional),Florida,12,"Duval County, FL",12031,White,Not Hispanic or Latino,7408.0,496515.0,1492.0,1115.4
+2021 (provisional),Florida,12,"Duval County, FL",12031,More than one race,Not Hispanic or Latino,69.0,25352.0,272.2,671.6
+2021 (provisional),Florida,12,"Escambia County, FL",12033,American Indian or Alaska Native,Not Hispanic or Latino,23.0,2320.0,991.4,813.9
+2021 (provisional),Florida,12,"Escambia County, FL",12033,Asian,Not Hispanic or Latino,79.0,10413.0,758.7,704.4
+2021 (provisional),Florida,12,"Escambia County, FL",12033,Black or African American,Hispanic or Latino,10.0,1661.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Escambia County, FL",12033,Black or African American,Not Hispanic or Latino,959.0,72926.0,1315.0,1394.9
+2021 (provisional),Florida,12,"Escambia County, FL",12033,White,Hispanic or Latino,73.0,16030.0,455.4,634.3
+2021 (provisional),Florida,12,"Escambia County, FL",12033,White,Not Hispanic or Latino,3388.0,205867.0,1645.7,1163.6
+2021 (provisional),Florida,12,"Escambia County, FL",12033,More than one race,Not Hispanic or Latino,38.0,10602.0,358.4,659.9
+2021 (provisional),Florida,12,"Flagler County, FL",12035,Asian,Not Hispanic or Latino,31.0,2848.0,1088.5,599.0
+2021 (provisional),Florida,12,"Flagler County, FL",12035,Black or African American,Not Hispanic or Latino,172.0,11763.0,1462.2,843.3
+2021 (provisional),Florida,12,"Flagler County, FL",12035,White,Hispanic or Latino,87.0,11270.0,772.0,572.8
+2021 (provisional),Florida,12,"Flagler County, FL",12035,White,Not Hispanic or Latino,1532.0,88129.0,1738.4,860.7
+2021 (provisional),Florida,12,"Franklin County, FL",12037,Black or African American,Not Hispanic or Latino,22.0,1563.0,1407.5,1804.6
+2021 (provisional),Florida,12,"Franklin County, FL",12037,White,Not Hispanic or Latino,178.0,9567.0,1860.6,1064.4
+2021 (provisional),Florida,12,"Gadsden County, FL",12039,Black or African American,Not Hispanic or Latino,338.0,24848.0,1360.3,1179.2
+2021 (provisional),Florida,12,"Gadsden County, FL",12039,White,Hispanic or Latino,22.0,4185.0,525.7,734.3
+2021 (provisional),Florida,12,"Gadsden County, FL",12039,White,Not Hispanic or Latino,302.0,14689.0,2056.0,1137.9
+2021 (provisional),Florida,12,"Gilchrist County, FL",12041,White,Hispanic or Latino,11.0,1065.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Gilchrist County, FL",12041,White,Not Hispanic or Latino,277.0,16196.0,1710.3,1084.3
+2021 (provisional),Florida,12,"Glades County, FL",12043,Black or African American,Not Hispanic or Latino,11.0,1803.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Glades County, FL",12043,White,Not Hispanic or Latino,138.0,8531.0,1617.6,697.8
+2021 (provisional),Florida,12,"Gulf County, FL",12045,Black or African American,Not Hispanic or Latino,23.0,1515.0,1518.2,1062.3
+2021 (provisional),Florida,12,"Gulf County, FL",12045,White,Not Hispanic or Latino,215.0,11157.0,1927.0,1136.8
+2021 (provisional),Florida,12,"Hamilton County, FL",12047,Black or African American,Not Hispanic or Latino,65.0,4698.0,1383.6,1365.1
+2021 (provisional),Florida,12,"Hamilton County, FL",12047,White,Not Hispanic or Latino,153.0,7872.0,1943.6,1166.1
+2021 (provisional),Florida,12,"Hardee County, FL",12049,Black or African American,Not Hispanic or Latino,26.0,1787.0,1455.0,1390.8
+2021 (provisional),Florida,12,"Hardee County, FL",12049,White,Hispanic or Latino,78.0,11210.0,695.8,1090.8
+2021 (provisional),Florida,12,"Hardee County, FL",12049,White,Not Hispanic or Latino,243.0,12473.0,1948.2,1095.0
+2021 (provisional),Florida,12,"Hendry County, FL",12051,American Indian or Alaska Native,Not Hispanic or Latino,12.0,542.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Hendry County, FL",12051,Black or African American,Not Hispanic or Latino,62.0,4606.0,1346.1,1316.2
+2021 (provisional),Florida,12,"Hendry County, FL",12051,White,Hispanic or Latino,147.0,22283.0,659.7,904.4
+2021 (provisional),Florida,12,"Hendry County, FL",12051,White,Not Hispanic or Latino,247.0,13146.0,1878.9,1132.0
+2021 (provisional),Florida,12,"Hernando County, FL",12053,Asian,Not Hispanic or Latino,14.0,2754.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Hernando County, FL",12053,Black or African American,Not Hispanic or Latino,144.0,10652.0,1351.9,1133.4
+2021 (provisional),Florida,12,"Hernando County, FL",12053,White,Hispanic or Latino,249.0,27069.0,919.9,828.9
+2021 (provisional),Florida,12,"Hernando County, FL",12053,White,Not Hispanic or Latino,3246.0,150521.0,2156.5,1131.7
+2021 (provisional),Florida,12,"Hernando County, FL",12053,More than one race,Not Hispanic or Latino,15.0,3532.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Highlands County, FL",12055,Asian,Not Hispanic or Latino,12.0,1588.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Highlands County, FL",12055,Black or African American,Not Hispanic or Latino,153.0,10311.0,1483.9,1297.5
+2021 (provisional),Florida,12,"Highlands County, FL",12055,White,Hispanic or Latino,211.0,20674.0,1020.6,936.6
+2021 (provisional),Florida,12,"Highlands County, FL",12055,White,Not Hispanic or Latino,1733.0,70132.0,2471.1,1005.2
+2021 (provisional),Florida,12,"Highlands County, FL",12055,More than one race,Not Hispanic or Latino,12.0,1450.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Hillsborough County, FL",12057,American Indian or Alaska Native,Not Hispanic or Latino,19.0,3297.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Hillsborough County, FL",12057,Asian,Not Hispanic or Latino,264.0,66112.0,399.3,456.0
+2021 (provisional),Florida,12,"Hillsborough County, FL",12057,Black or African American,Hispanic or Latino,115.0,31269.0,367.8,723.4
+2021 (provisional),Florida,12,"Hillsborough County, FL",12057,Black or African American,Not Hispanic or Latino,2271.0,242280.0,937.3,1118.1
+2021 (provisional),Florida,12,"Hillsborough County, FL",12057,White,Hispanic or Latino,2658.0,396869.0,669.7,768.0
+2021 (provisional),Florida,12,"Hillsborough County, FL",12057,White,Not Hispanic or Latino,8892.0,704933.0,1261.4,885.3
+2021 (provisional),Florida,12,"Hillsborough County, FL",12057,More than one race,Not Hispanic or Latino,70.0,31734.0,220.6,586.1
+2021 (provisional),Florida,12,"Holmes County, FL",12059,Black or African American,Not Hispanic or Latino,10.0,1312.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Holmes County, FL",12059,White,Not Hispanic or Latino,350.0,16892.0,2072.0,1375.0
+2021 (provisional),Florida,12,"Indian River County, FL",12061,Asian,Not Hispanic or Latino,13.0,2598.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Indian River County, FL",12061,Black or African American,Not Hispanic or Latino,182.0,14599.0,1246.7,1272.6
+2021 (provisional),Florida,12,"Indian River County, FL",12061,White,Hispanic or Latino,110.0,19169.0,573.8,584.1
+2021 (provisional),Florida,12,"Indian River County, FL",12061,White,Not Hispanic or Latino,2402.0,121702.0,1973.7,803.2
+2021 (provisional),Florida,12,"Jackson County, FL",12063,Black or African American,Not Hispanic or Latino,162.0,11959.0,1354.6,1132.1
+2021 (provisional),Florida,12,"Jackson County, FL",12063,White,Not Hispanic or Latino,587.0,30218.0,1942.6,1228.7
+2021 (provisional),Florida,12,"Jefferson County, FL",12065,Black or African American,Not Hispanic or Latino,70.0,4637.0,1509.6,1137.0
+2021 (provisional),Florida,12,"Jefferson County, FL",12065,White,Not Hispanic or Latino,150.0,8905.0,1684.4,887.8
+2021 (provisional),Florida,12,"Lafayette County, FL",12067,White,Not Hispanic or Latino,107.0,6046.0,1769.8,1143.2
+2021 (provisional),Florida,12,"Lake County, FL",12069,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1196.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Lake County, FL",12069,Asian,Not Hispanic or Latino,56.0,8353.0,670.4,466.8
+2021 (provisional),Florida,12,"Lake County, FL",12069,Black or African American,Not Hispanic or Latino,446.0,40228.0,1108.7,1117.3
+2021 (provisional),Florida,12,"Lake County, FL",12069,White,Hispanic or Latino,380.0,56486.0,672.7,766.6
+2021 (provisional),Florida,12,"Lake County, FL",12069,White,Not Hispanic or Latino,4815.0,254603.0,1891.2,906.8
+2021 (provisional),Florida,12,"Lake County, FL",12069,More than one race,Not Hispanic or Latino,27.0,6405.0,421.5,587.8
+2021 (provisional),Florida,12,"Lee County, FL",12071,Asian,Not Hispanic or Latino,62.0,13350.0,464.4,313.9
+2021 (provisional),Florida,12,"Lee County, FL",12071,Black or African American,Hispanic or Latino,24.0,8411.0,285.3,532.1
+2021 (provisional),Florida,12,"Lee County, FL",12071,Black or African American,Not Hispanic or Latino,542.0,63945.0,847.6,880.2
+2021 (provisional),Florida,12,"Lee County, FL",12071,White,Hispanic or Latino,917.0,165988.0,552.4,697.8
+2021 (provisional),Florida,12,"Lee County, FL",12071,White,Not Hispanic or Latino,7801.0,519276.0,1502.3,678.5
+2021 (provisional),Florida,12,"Lee County, FL",12071,More than one race,Not Hispanic or Latino,34.0,10719.0,317.2,570.5
+2021 (provisional),Florida,12,"Leon County, FL",12073,Asian,Not Hispanic or Latino,22.0,10481.0,209.9,353.2
+2021 (provisional),Florida,12,"Leon County, FL",12073,Black or African American,Not Hispanic or Latino,725.0,93522.0,775.2,1042.9
+2021 (provisional),Florida,12,"Leon County, FL",12073,White,Hispanic or Latino,49.0,16795.0,291.8,504.6
+2021 (provisional),Florida,12,"Leon County, FL",12073,White,Not Hispanic or Latino,1759.0,163943.0,1072.9,848.0
+2021 (provisional),Florida,12,"Leon County, FL",12073,More than one race,Not Hispanic or Latino,10.0,6504.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Levy County, FL",12075,Black or African American,Not Hispanic or Latino,61.0,3743.0,1629.7,1430.4
+2021 (provisional),Florida,12,"Levy County, FL",12075,White,Hispanic or Latino,26.0,3368.0,772.0,1169.3
+2021 (provisional),Florida,12,"Levy County, FL",12075,White,Not Hispanic or Latino,664.0,33262.0,1996.3,1149.3
+2021 (provisional),Florida,12,"Liberty County, FL",12077,Black or African American,Not Hispanic or Latino,15.0,1584.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Liberty County, FL",12077,White,Not Hispanic or Latino,101.0,5965.0,1693.2,1278.8
+2021 (provisional),Florida,12,"Madison County, FL",12079,Black or African American,Not Hispanic or Latino,102.0,6919.0,1474.2,1212.1
+2021 (provisional),Florida,12,"Madison County, FL",12079,White,Not Hispanic or Latino,193.0,10177.0,1896.4,1092.1
+2021 (provisional),Florida,12,"Manatee County, FL",12081,Asian,Not Hispanic or Latino,42.0,9264.0,453.4,370.7
+2021 (provisional),Florida,12,"Manatee County, FL",12081,Black or African American,Not Hispanic or Latino,358.0,35047.0,1021.5,1063.4
+2021 (provisional),Florida,12,"Manatee County, FL",12081,White,Hispanic or Latino,347.0,62357.0,556.5,738.0
+2021 (provisional),Florida,12,"Manatee County, FL",12081,White,Not Hispanic or Latino,4517.0,290302.0,1556.0,704.7
+2021 (provisional),Florida,12,"Manatee County, FL",12081,More than one race,Not Hispanic or Latino,16.0,6636.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Marion County, FL",12083,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1245.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Marion County, FL",12083,Asian,Not Hispanic or Latino,52.0,6499.0,800.1,719.9
+2021 (provisional),Florida,12,"Marion County, FL",12083,Black or African American,Hispanic or Latino,21.0,4017.0,522.8,826.3
+2021 (provisional),Florida,12,"Marion County, FL",12083,Black or African American,Not Hispanic or Latino,578.0,46796.0,1235.1,1133.9
+2021 (provisional),Florida,12,"Marion County, FL",12083,White,Hispanic or Latino,469.0,48171.0,973.6,959.1
+2021 (provisional),Florida,12,"Marion County, FL",12083,White,Not Hispanic or Latino,5904.0,257611.0,2291.8,1129.4
+2021 (provisional),Florida,12,"Marion County, FL",12083,More than one race,Not Hispanic or Latino,24.0,6386.0,375.8,518.6
+2021 (provisional),Florida,12,"Martin County, FL",12085,Asian,Not Hispanic or Latino,11.0,2399.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Martin County, FL",12085,Black or African American,Not Hispanic or Latino,90.0,8179.0,1100.4,1024.5
+2021 (provisional),Florida,12,"Martin County, FL",12085,White,Hispanic or Latino,120.0,19632.0,611.2,795.6
+2021 (provisional),Florida,12,"Martin County, FL",12085,White,Not Hispanic or Latino,2232.0,126089.0,1770.2,687.4
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,Asian,Hispanic or Latino,13.0,3391.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,Asian,Not Hispanic or Latino,217.0,41157.0,527.2,476.8
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,Black or African American,Hispanic or Latino,408.0,65685.0,621.1,755.6
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,Black or African American,Not Hispanic or Latino,4824.0,413450.0,1166.8,1109.5
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,White,Hispanic or Latino,16446.0,1773644.0,927.2,646.4
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,White,Not Hispanic or Latino,4074.0,365483.0,1114.7,805.3
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,More than one race,Hispanic or Latino,15.0,15036.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Miami-Dade County, FL",12086,More than one race,Not Hispanic or Latino,43.0,19522.0,220.3,248.3
+2021 (provisional),Florida,12,"Monroe County, FL",12087,Black or African American,Not Hispanic or Latino,43.0,4899.0,877.7,1056.0
+2021 (provisional),Florida,12,"Monroe County, FL",12087,White,Hispanic or Latino,129.0,17695.0,729.0,642.1
+2021 (provisional),Florida,12,"Monroe County, FL",12087,White,Not Hispanic or Latino,663.0,47723.0,1389.3,797.9
+2021 (provisional),Florida,12,"Nassau County, FL",12089,Asian,Not Hispanic or Latino,10.0,928.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Nassau County, FL",12089,Black or African American,Not Hispanic or Latino,62.0,5288.0,1172.5,943.5
+2021 (provisional),Florida,12,"Nassau County, FL",12089,White,Hispanic or Latino,18.0,3743.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Nassau County, FL",12089,White,Not Hispanic or Latino,1111.0,78564.0,1414.1,921.0
+2021 (provisional),Florida,12,"Okaloosa County, FL",12091,Asian,Not Hispanic or Latino,52.0,6556.0,793.2,558.9
+2021 (provisional),Florida,12,"Okaloosa County, FL",12091,Black or African American,Not Hispanic or Latino,185.0,20673.0,894.9,1163.4
+2021 (provisional),Florida,12,"Okaloosa County, FL",12091,White,Hispanic or Latino,80.0,17508.0,456.9,715.8
+2021 (provisional),Florida,12,"Okaloosa County, FL",12091,White,Not Hispanic or Latino,2007.0,154404.0,1299.8,963.4
+2021 (provisional),Florida,12,"Okaloosa County, FL",12091,More than one race,Not Hispanic or Latino,13.0,8423.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Okeechobee County, FL",12093,Black or African American,Not Hispanic or Latino,32.0,3573.0,895.6,1166.0
+2021 (provisional),Florida,12,"Okeechobee County, FL",12093,White,Hispanic or Latino,61.0,10444.0,584.1,895.7
+2021 (provisional),Florida,12,"Okeechobee County, FL",12093,White,Not Hispanic or Latino,554.0,26269.0,2108.9,1160.8
+2021 (provisional),Florida,12,"Orange County, FL",12095,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2963.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Orange County, FL",12095,Asian,Not Hispanic or Latino,349.0,77811.0,448.5,445.0
+2021 (provisional),Florida,12,"Orange County, FL",12095,Black or African American,Hispanic or Latino,109.0,36566.0,298.1,436.1
+2021 (provisional),Florida,12,"Orange County, FL",12095,Black or African American,Not Hispanic or Latino,2263.0,284269.0,796.1,946.2
+2021 (provisional),Florida,12,"Orange County, FL",12095,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,11.0,1630.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Orange County, FL",12095,White,Hispanic or Latino,2395.0,402898.0,594.4,723.1
+2021 (provisional),Florida,12,"Orange County, FL",12095,White,Not Hispanic or Latino,5583.0,548833.0,1017.2,821.9
+2021 (provisional),Florida,12,"Orange County, FL",12095,More than one race,Not Hispanic or Latino,29.0,27337.0,106.1,214.9
+2021 (provisional),Florida,12,"Osceola County, FL",12097,Asian,Not Hispanic or Latino,70.0,10613.0,659.6,555.2
+2021 (provisional),Florida,12,"Osceola County, FL",12097,Black or African American,Hispanic or Latino,51.0,17797.0,286.6,451.8
+2021 (provisional),Florida,12,"Osceola County, FL",12097,Black or African American,Not Hispanic or Latino,363.0,37824.0,959.7,1067.3
+2021 (provisional),Florida,12,"Osceola County, FL",12097,White,Hispanic or Latino,1423.0,188324.0,755.6,910.5
+2021 (provisional),Florida,12,"Osceola County, FL",12097,White,Not Hispanic or Latino,1612.0,114168.0,1412.0,1007.5
+2021 (provisional),Florida,12,"Palm Beach County, FL",12099,American Indian or Alaska Native,Not Hispanic or Latino,12.0,2395.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Palm Beach County, FL",12099,Asian,Not Hispanic or Latino,183.0,43598.0,419.7,355.0
+2021 (provisional),Florida,12,"Palm Beach County, FL",12099,Black or African American,Hispanic or Latino,54.0,17821.0,303.0,467.6
+2021 (provisional),Florida,12,"Palm Beach County, FL",12099,Black or African American,Not Hispanic or Latino,2428.0,282780.0,858.6,900.7
+2021 (provisional),Florida,12,"Palm Beach County, FL",12099,White,Hispanic or Latino,1893.0,318528.0,594.3,602.7
+2021 (provisional),Florida,12,"Palm Beach County, FL",12099,White,Not Hispanic or Latino,13153.0,803793.0,1636.4,648.5
+2021 (provisional),Florida,12,"Palm Beach County, FL",12099,More than one race,Not Hispanic or Latino,50.0,21191.0,235.9,381.8
+2021 (provisional),Florida,12,"Pasco County, FL",12101,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1584.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Pasco County, FL",12101,Asian,Not Hispanic or Latino,75.0,16426.0,456.6,435.2
+2021 (provisional),Florida,12,"Pasco County, FL",12101,Black or African American,Hispanic or Latino,23.0,5954.0,386.3,648.3
+2021 (provisional),Florida,12,"Pasco County, FL",12101,Black or African American,Not Hispanic or Latino,258.0,34370.0,750.7,866.3
+2021 (provisional),Florida,12,"Pasco County, FL",12101,White,Hispanic or Latino,585.0,86792.0,674.0,775.8
+2021 (provisional),Florida,12,"Pasco County, FL",12101,White,Not Hispanic or Latino,7137.0,408566.0,1746.8,984.2
+2021 (provisional),Florida,12,"Pasco County, FL",12101,More than one race,Not Hispanic or Latino,29.0,11386.0,254.7,497.6
+2021 (provisional),Florida,12,"Pinellas County, FL",12103,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2216.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Pinellas County, FL",12103,Asian,Not Hispanic or Latino,186.0,34497.0,539.2,452.5
+2021 (provisional),Florida,12,"Pinellas County, FL",12103,Black or African American,Hispanic or Latino,22.0,6444.0,341.4,692.1
+2021 (provisional),Florida,12,"Pinellas County, FL",12103,Black or African American,Not Hispanic or Latino,1124.0,101780.0,1104.3,1095.6
+2021 (provisional),Florida,12,"Pinellas County, FL",12103,White,Hispanic or Latino,541.0,87262.0,620.0,617.3
+2021 (provisional),Florida,12,"Pinellas County, FL",12103,White,Not Hispanic or Latino,11962.0,717510.0,1667.2,804.0
+2021 (provisional),Florida,12,"Pinellas County, FL",12103,More than one race,Not Hispanic or Latino,53.0,19433.0,272.7,494.6
+2021 (provisional),Florida,12,"Polk County, FL",12105,American Indian or Alaska Native,Not Hispanic or Latino,23.0,1973.0,1165.7,801.8
+2021 (provisional),Florida,12,"Polk County, FL",12105,Asian,Not Hispanic or Latino,82.0,13539.0,605.7,451.5
+2021 (provisional),Florida,12,"Polk County, FL",12105,Black or African American,Hispanic or Latino,38.0,13317.0,285.3,430.6
+2021 (provisional),Florida,12,"Polk County, FL",12105,Black or African American,Not Hispanic or Latino,1226.0,109561.0,1119.0,1152.8
+2021 (provisional),Florida,12,"Polk County, FL",12105,White,Hispanic or Latino,1030.0,168618.0,610.8,878.0
+2021 (provisional),Florida,12,"Polk County, FL",12105,White,Not Hispanic or Latino,7350.0,415014.0,1771.0,983.8
+2021 (provisional),Florida,12,"Polk County, FL",12105,More than one race,Not Hispanic or Latino,38.0,12593.0,301.8,648.6
+2021 (provisional),Florida,12,"Putnam County, FL",12107,Black or African American,Not Hispanic or Latino,187.0,11837.0,1579.8,1516.2
+2021 (provisional),Florida,12,"Putnam County, FL",12107,White,Hispanic or Latino,44.0,6868.0,640.7,784.4
+2021 (provisional),Florida,12,"Putnam County, FL",12107,White,Not Hispanic or Latino,1243.0,53095.0,2341.1,1351.8
+2021 (provisional),Florida,12,"St. Johns County, FL",12109,Asian,Not Hispanic or Latino,29.0,9486.0,305.7,406.2
+2021 (provisional),Florida,12,"St. Johns County, FL",12109,Black or African American,Not Hispanic or Latino,134.0,14485.0,925.1,948.1
+2021 (provisional),Florida,12,"St. Johns County, FL",12109,White,Hispanic or Latino,89.0,19505.0,456.3,530.0
+2021 (provisional),Florida,12,"St. Johns County, FL",12109,White,Not Hispanic or Latino,2411.0,226602.0,1064.0,703.2
+2021 (provisional),Florida,12,"St. Johns County, FL",12109,More than one race,Not Hispanic or Latino,11.0,5385.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"St. Lucie County, FL",12111,Asian,Not Hispanic or Latino,32.0,6420.0,498.4,391.5
+2021 (provisional),Florida,12,"St. Lucie County, FL",12111,Black or African American,Hispanic or Latino,16.0,4350.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"St. Lucie County, FL",12111,Black or African American,Not Hispanic or Latino,731.0,69127.0,1057.5,982.8
+2021 (provisional),Florida,12,"St. Lucie County, FL",12111,White,Hispanic or Latino,388.0,60534.0,641.0,692.8
+2021 (provisional),Florida,12,"St. Lucie County, FL",12111,White,Not Hispanic or Latino,3248.0,186041.0,1745.9,825.6
+2021 (provisional),Florida,12,"St. Lucie County, FL",12111,More than one race,Not Hispanic or Latino,15.0,6244.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Santa Rosa County, FL",12113,Asian,Not Hispanic or Latino,20.0,4004.0,499.5,662.4
+2021 (provisional),Florida,12,"Santa Rosa County, FL",12113,Black or African American,Not Hispanic or Latino,70.0,11648.0,601.0,920.7
+2021 (provisional),Florida,12,"Santa Rosa County, FL",12113,White,Hispanic or Latino,36.0,9582.0,375.7,620.3
+2021 (provisional),Florida,12,"Santa Rosa County, FL",12113,White,Not Hispanic or Latino,1941.0,154446.0,1256.7,1008.7
+2021 (provisional),Florida,12,"Santa Rosa County, FL",12113,More than one race,Not Hispanic or Latino,14.0,5925.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Sarasota County, FL",12115,Asian,Not Hispanic or Latino,50.0,8198.0,609.9,450.0
+2021 (provisional),Florida,12,"Sarasota County, FL",12115,Black or African American,Not Hispanic or Latino,240.0,18984.0,1264.2,1057.9
+2021 (provisional),Florida,12,"Sarasota County, FL",12115,White,Hispanic or Latino,247.0,39254.0,629.2,616.2
+2021 (provisional),Florida,12,"Sarasota County, FL",12115,White,Not Hispanic or Latino,6547.0,365908.0,1789.2,689.1
+2021 (provisional),Florida,12,"Sarasota County, FL",12115,More than one race,Not Hispanic or Latino,19.0,6235.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Seminole County, FL",12117,Asian,Not Hispanic or Latino,91.0,23495.0,387.3,452.7
+2021 (provisional),Florida,12,"Seminole County, FL",12117,Black or African American,Hispanic or Latino,16.0,7801.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Seminole County, FL",12117,Black or African American,Not Hispanic or Latino,505.0,55007.0,918.1,968.5
+2021 (provisional),Florida,12,"Seminole County, FL",12117,White,Hispanic or Latino,555.0,94930.0,584.6,645.2
+2021 (provisional),Florida,12,"Seminole County, FL",12117,White,Not Hispanic or Latino,3207.0,275546.0,1163.9,788.8
+2021 (provisional),Florida,12,"Seminole County, FL",12117,More than one race,Not Hispanic or Latino,16.0,10250.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Sumter County, FL",12119,Asian,Not Hispanic or Latino,11.0,1378.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Sumter County, FL",12119,Black or African American,Not Hispanic or Latino,90.0,9194.0,978.9,928.5
+2021 (provisional),Florida,12,"Sumter County, FL",12119,White,Hispanic or Latino,64.0,7288.0,878.2,711.0
+2021 (provisional),Florida,12,"Sumter County, FL",12119,White,Not Hispanic or Latino,2565.0,118460.0,2165.3,808.3
+2021 (provisional),Florida,12,"Suwannee County, FL",12121,Black or African American,Not Hispanic or Latino,57.0,5380.0,1059.5,976.6
+2021 (provisional),Florida,12,"Suwannee County, FL",12121,White,Hispanic or Latino,25.0,4091.0,611.1,914.8
+2021 (provisional),Florida,12,"Suwannee County, FL",12121,White,Not Hispanic or Latino,691.0,33749.0,2047.5,1235.9
+2021 (provisional),Florida,12,"Taylor County, FL",12123,Black or African American,Not Hispanic or Latino,43.0,4192.0,1025.8,1000.5
+2021 (provisional),Florida,12,"Taylor County, FL",12123,White,Not Hispanic or Latino,280.0,15656.0,1788.5,1131.0
+2021 (provisional),Florida,12,"Union County, FL",12125,Black or African American,Not Hispanic or Latino,46.0,3369.0,1365.4,1570.7
+2021 (provisional),Florida,12,"Union County, FL",12125,White,Hispanic or Latino,13.0,701.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Union County, FL",12125,White,Not Hispanic or Latino,185.0,10545.0,1754.4,1338.6
+2021 (provisional),Florida,12,"Volusia County, FL",12127,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1569.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Volusia County, FL",12127,Asian,Not Hispanic or Latino,61.0,10445.0,584.0,491.2
+2021 (provisional),Florida,12,"Volusia County, FL",12127,Black or African American,Hispanic or Latino,18.0,6500.0,Unreliable,Unreliable
+2021 (provisional),Florida,12,"Volusia County, FL",12127,Black or African American,Not Hispanic or Latino,747.0,58713.0,1272.3,1298.2
+2021 (provisional),Florida,12,"Volusia County, FL",12127,White,Hispanic or Latino,600.0,75581.0,793.9,791.2
+2021 (provisional),Florida,12,"Volusia County, FL",12127,White,Not Hispanic or Latino,7839.0,393451.0,1992.4,1049.0
+2021 (provisional),Florida,12,"Volusia County, FL",12127,More than one race,Not Hispanic or Latino,25.0,10113.0,247.2,425.5
+2021 (provisional),Florida,12,"Wakulla County, FL",12129,Black or African American,Not Hispanic or Latino,47.0,4609.0,1019.7,1287.5
+2021 (provisional),Florida,12,"Wakulla County, FL",12129,White,Not Hispanic or Latino,364.0,27124.0,1342.0,1133.1
+2021 (provisional),Florida,12,"Walton County, FL",12131,Black or African American,Not Hispanic or Latino,44.0,3890.0,1131.1,1324.8
+2021 (provisional),Florida,12,"Walton County, FL",12131,White,Hispanic or Latino,23.0,4190.0,548.9,956.7
+2021 (provisional),Florida,12,"Walton County, FL",12131,White,Not Hispanic or Latino,809.0,64488.0,1254.5,881.0
+2021 (provisional),Florida,12,"Washington County, FL",12133,Black or African American,Not Hispanic or Latino,49.0,3694.0,1326.5,1747.8
+2021 (provisional),Florida,12,"Washington County, FL",12133,White,Not Hispanic or Latino,353.0,20012.0,1763.9,1285.4
+2022 (provisional and partial),Florida,12,"Alachua County, FL",12001,Black or African American,Not Hispanic or Latino,56.0,54204.0,103.3,119.8
+2022 (provisional and partial),Florida,12,"Alachua County, FL",12001,White,Hispanic or Latino,14.0,25631.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Alachua County, FL",12001,White,Not Hispanic or Latino,223.0,163964.0,136.0,102.6
+2022 (provisional and partial),Florida,12,"Baker County, FL",12003,White,Not Hispanic or Latino,46.0,23670.0,194.3,167.9
+2022 (provisional and partial),Florida,12,"Bay County, FL",12005,Black or African American,Not Hispanic or Latino,31.0,18377.0,168.7,198.3
+2022 (provisional and partial),Florida,12,"Bay County, FL",12005,White,Not Hispanic or Latino,253.0,130732.0,193.5,123.9
+2022 (provisional and partial),Florida,12,"Bradford County, FL",12007,White,Not Hispanic or Latino,43.0,20749.0,207.2,135.5
+2022 (provisional and partial),Florida,12,"Brevard County, FL",12009,Asian,Not Hispanic or Latino,10.0,15653.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Brevard County, FL",12009,Black or African American,Not Hispanic or Latino,88.0,61065.0,144.1,130.5
+2022 (provisional and partial),Florida,12,"Brevard County, FL",12009,White,Hispanic or Latino,47.0,58042.0,81.0,74.6
+2022 (provisional and partial),Florida,12,"Brevard County, FL",12009,White,Not Hispanic or Latino,1025.0,446714.0,229.5,119.8
+2022 (provisional and partial),Florida,12,"Broward County, FL",12011,Asian,Not Hispanic or Latino,51.0,73280.0,69.6,64.7
+2022 (provisional and partial),Florida,12,"Broward County, FL",12011,Black or African American,Hispanic or Latino,17.0,36353.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Broward County, FL",12011,Black or African American,Not Hispanic or Latino,556.0,560801.0,99.1,107.3
+2022 (provisional and partial),Florida,12,"Broward County, FL",12011,White,Hispanic or Latino,477.0,556620.0,85.7,83.3
+2022 (provisional and partial),Florida,12,"Broward County, FL",12011,White,Not Hispanic or Latino,1352.0,671839.0,201.2,101.8
+2022 (provisional and partial),Florida,12,"Broward County, FL",12011,More than one race,Not Hispanic or Latino,12.0,32453.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Calhoun County, FL",12013,White,Not Hispanic or Latino,21.0,10907.0,192.5,129.7
+2022 (provisional and partial),Florida,12,"Charlotte County, FL",12015,Black or African American,Not Hispanic or Latino,17.0,10635.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Charlotte County, FL",12015,White,Not Hispanic or Latino,424.0,162478.0,261.0,102.7
+2022 (provisional and partial),Florida,12,"Citrus County, FL",12017,White,Hispanic or Latino,14.0,8508.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Citrus County, FL",12017,White,Not Hispanic or Latino,463.0,133434.0,347.0,153.4
+2022 (provisional and partial),Florida,12,"Clay County, FL",12019,Black or African American,Not Hispanic or Latino,26.0,26632.0,97.6,152.5
+2022 (provisional and partial),Florida,12,"Clay County, FL",12019,White,Not Hispanic or Latino,282.0,157184.0,179.4,134.6
+2022 (provisional and partial),Florida,12,"Collier County, FL",12021,Black or African American,Not Hispanic or Latino,21.0,26005.0,80.8,81.9
+2022 (provisional and partial),Florida,12,"Collier County, FL",12021,White,Hispanic or Latino,61.0,106605.0,57.2,70.6
+2022 (provisional and partial),Florida,12,"Collier County, FL",12021,White,Not Hispanic or Latino,496.0,244067.0,203.2,67.5
+2022 (provisional and partial),Florida,12,"Columbia County, FL",12023,Black or African American,Not Hispanic or Latino,27.0,13144.0,205.4,224.7
+2022 (provisional and partial),Florida,12,"Columbia County, FL",12023,White,Not Hispanic or Latino,134.0,52165.0,256.9,166.3
+2022 (provisional and partial),Florida,12,"DeSoto County, FL",12027,White,Not Hispanic or Latino,33.0,20969.0,157.4,78.2
+2022 (provisional and partial),Florida,12,"Dixie County, FL",12029,White,Not Hispanic or Latino,28.0,14312.0,195.6,103.6
+2022 (provisional and partial),Florida,12,"Duval County, FL",12031,Asian,Not Hispanic or Latino,37.0,47406.0,78.0,81.4
+2022 (provisional and partial),Florida,12,"Duval County, FL",12031,Black or African American,Not Hispanic or Latino,359.0,287453.0,124.9,147.0
+2022 (provisional and partial),Florida,12,"Duval County, FL",12031,White,Hispanic or Latino,65.0,86134.0,75.5,114.7
+2022 (provisional and partial),Florida,12,"Duval County, FL",12031,White,Not Hispanic or Latino,930.0,496515.0,187.3,139.1
+2022 (provisional and partial),Florida,12,"Escambia County, FL",12033,Asian,Not Hispanic or Latino,12.0,10413.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Escambia County, FL",12033,Black or African American,Not Hispanic or Latino,110.0,72926.0,150.8,163.3
+2022 (provisional and partial),Florida,12,"Escambia County, FL",12033,White,Hispanic or Latino,13.0,16030.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Escambia County, FL",12033,White,Not Hispanic or Latino,431.0,205867.0,209.4,146.3
+2022 (provisional and partial),Florida,12,"Flagler County, FL",12035,Black or African American,Not Hispanic or Latino,18.0,11763.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Flagler County, FL",12035,White,Hispanic or Latino,14.0,11270.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Flagler County, FL",12035,White,Not Hispanic or Latino,210.0,88129.0,238.3,106.5
+2022 (provisional and partial),Florida,12,"Franklin County, FL",12037,White,Not Hispanic or Latino,22.0,9567.0,230.0,164.3
+2022 (provisional and partial),Florida,12,"Gadsden County, FL",12039,Black or African American,Not Hispanic or Latino,54.0,24848.0,217.3,192.8
+2022 (provisional and partial),Florida,12,"Gadsden County, FL",12039,White,Not Hispanic or Latino,27.0,14689.0,183.8,106.8
+2022 (provisional and partial),Florida,12,"Gilchrist County, FL",12041,White,Not Hispanic or Latino,36.0,16196.0,222.3,139.0
+2022 (provisional and partial),Florida,12,"Glades County, FL",12043,White,Not Hispanic or Latino,18.0,8531.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Gulf County, FL",12045,White,Not Hispanic or Latino,36.0,11157.0,322.7,188.7
+2022 (provisional and partial),Florida,12,"Hamilton County, FL",12047,White,Not Hispanic or Latino,20.0,7872.0,254.1,143.9
+2022 (provisional and partial),Florida,12,"Hardee County, FL",12049,White,Not Hispanic or Latino,27.0,12473.0,216.5,117.3
+2022 (provisional and partial),Florida,12,"Hendry County, FL",12051,White,Hispanic or Latino,13.0,22283.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Hendry County, FL",12051,White,Not Hispanic or Latino,25.0,13146.0,190.2,116.2
+2022 (provisional and partial),Florida,12,"Hernando County, FL",12053,Black or African American,Not Hispanic or Latino,21.0,10652.0,197.1,178.6
+2022 (provisional and partial),Florida,12,"Hernando County, FL",12053,White,Hispanic or Latino,23.0,27069.0,85.0,74.3
+2022 (provisional and partial),Florida,12,"Hernando County, FL",12053,White,Not Hispanic or Latino,427.0,150521.0,283.7,144.4
+2022 (provisional and partial),Florida,12,"Highlands County, FL",12055,Black or African American,Not Hispanic or Latino,11.0,10311.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Highlands County, FL",12055,White,Hispanic or Latino,24.0,20674.0,116.1,100.9
+2022 (provisional and partial),Florida,12,"Highlands County, FL",12055,White,Not Hispanic or Latino,218.0,70132.0,310.8,103.2
+2022 (provisional and partial),Florida,12,"Hillsborough County, FL",12057,Asian,Not Hispanic or Latino,38.0,66112.0,57.5,62.2
+2022 (provisional and partial),Florida,12,"Hillsborough County, FL",12057,Black or African American,Hispanic or Latino,17.0,31269.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Hillsborough County, FL",12057,Black or African American,Not Hispanic or Latino,298.0,242280.0,123.0,150.2
+2022 (provisional and partial),Florida,12,"Hillsborough County, FL",12057,White,Hispanic or Latino,342.0,396869.0,86.2,99.2
+2022 (provisional and partial),Florida,12,"Hillsborough County, FL",12057,White,Not Hispanic or Latino,1145.0,704933.0,162.4,113.0
+2022 (provisional and partial),Florida,12,"Holmes County, FL",12059,White,Not Hispanic or Latino,49.0,16892.0,290.1,183.3
+2022 (provisional and partial),Florida,12,"Indian River County, FL",12061,Black or African American,Not Hispanic or Latino,22.0,14599.0,150.7,164.2
+2022 (provisional and partial),Florida,12,"Indian River County, FL",12061,White,Hispanic or Latino,17.0,19169.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Indian River County, FL",12061,White,Not Hispanic or Latino,347.0,121702.0,285.1,102.4
+2022 (provisional and partial),Florida,12,"Jackson County, FL",12063,Black or African American,Not Hispanic or Latino,28.0,11959.0,234.1,202.7
+2022 (provisional and partial),Florida,12,"Jackson County, FL",12063,White,Not Hispanic or Latino,78.0,30218.0,258.1,151.2
+2022 (provisional and partial),Florida,12,"Jefferson County, FL",12065,White,Not Hispanic or Latino,17.0,8905.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Lafayette County, FL",12067,White,Not Hispanic or Latino,15.0,6046.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Lake County, FL",12069,Black or African American,Not Hispanic or Latino,64.0,40228.0,159.1,158.6
+2022 (provisional and partial),Florida,12,"Lake County, FL",12069,White,Hispanic or Latino,54.0,56486.0,95.6,113.3
+2022 (provisional and partial),Florida,12,"Lake County, FL",12069,White,Not Hispanic or Latino,649.0,254603.0,254.9,117.9
+2022 (provisional and partial),Florida,12,"Lee County, FL",12071,Asian,Not Hispanic or Latino,12.0,13350.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Lee County, FL",12071,Black or African American,Not Hispanic or Latino,67.0,63945.0,104.8,107.8
+2022 (provisional and partial),Florida,12,"Lee County, FL",12071,White,Hispanic or Latino,109.0,165988.0,65.7,86.6
+2022 (provisional and partial),Florida,12,"Lee County, FL",12071,White,Not Hispanic or Latino,1042.0,519276.0,200.7,84.9
+2022 (provisional and partial),Florida,12,"Leon County, FL",12073,Black or African American,Not Hispanic or Latino,76.0,93522.0,81.3,118.5
+2022 (provisional and partial),Florida,12,"Leon County, FL",12073,White,Hispanic or Latino,11.0,16795.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Leon County, FL",12073,White,Not Hispanic or Latino,238.0,163943.0,145.2,112.8
+2022 (provisional and partial),Florida,12,"Levy County, FL",12075,White,Not Hispanic or Latino,76.0,33262.0,228.5,120.0
+2022 (provisional and partial),Florida,12,"Liberty County, FL",12077,White,Not Hispanic or Latino,10.0,5965.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Madison County, FL",12079,Black or African American,Not Hispanic or Latino,11.0,6919.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Madison County, FL",12079,White,Not Hispanic or Latino,32.0,10177.0,314.4,185.8
+2022 (provisional and partial),Florida,12,"Manatee County, FL",12081,Black or African American,Not Hispanic or Latino,44.0,35047.0,125.5,137.9
+2022 (provisional and partial),Florida,12,"Manatee County, FL",12081,White,Hispanic or Latino,39.0,62357.0,62.5,91.6
+2022 (provisional and partial),Florida,12,"Manatee County, FL",12081,White,Not Hispanic or Latino,586.0,290302.0,201.9,85.5
+2022 (provisional and partial),Florida,12,"Marion County, FL",12083,Black or African American,Not Hispanic or Latino,83.0,46796.0,177.4,168.4
+2022 (provisional and partial),Florida,12,"Marion County, FL",12083,White,Hispanic or Latino,73.0,48171.0,151.5,150.5
+2022 (provisional and partial),Florida,12,"Marion County, FL",12083,White,Not Hispanic or Latino,719.0,257611.0,279.1,130.7
+2022 (provisional and partial),Florida,12,"Martin County, FL",12085,Black or African American,Not Hispanic or Latino,10.0,8179.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Martin County, FL",12085,White,Not Hispanic or Latino,273.0,126089.0,216.5,71.8
+2022 (provisional and partial),Florida,12,"Miami-Dade County, FL",12086,Asian,Not Hispanic or Latino,29.0,41157.0,70.5,64.9
+2022 (provisional and partial),Florida,12,"Miami-Dade County, FL",12086,Black or African American,Hispanic or Latino,39.0,65685.0,59.4,76.6
+2022 (provisional and partial),Florida,12,"Miami-Dade County, FL",12086,Black or African American,Not Hispanic or Latino,513.0,413450.0,124.1,118.9
+2022 (provisional and partial),Florida,12,"Miami-Dade County, FL",12086,White,Hispanic or Latino,2299.0,1773644.0,129.6,88.5
+2022 (provisional and partial),Florida,12,"Miami-Dade County, FL",12086,White,Not Hispanic or Latino,502.0,365483.0,137.4,97.2
+2022 (provisional and partial),Florida,12,"Monroe County, FL",12087,White,Hispanic or Latino,20.0,17695.0,113.0,100.1
+2022 (provisional and partial),Florida,12,"Monroe County, FL",12087,White,Not Hispanic or Latino,81.0,47723.0,169.7,99.1
+2022 (provisional and partial),Florida,12,"Nassau County, FL",12089,White,Not Hispanic or Latino,147.0,78564.0,187.1,121.5
+2022 (provisional and partial),Florida,12,"Okaloosa County, FL",12091,Black or African American,Not Hispanic or Latino,22.0,20673.0,106.4,134.1
+2022 (provisional and partial),Florida,12,"Okaloosa County, FL",12091,White,Not Hispanic or Latino,294.0,154404.0,190.4,140.3
+2022 (provisional and partial),Florida,12,"Okeechobee County, FL",12093,White,Not Hispanic or Latino,82.0,26269.0,312.2,170.4
+2022 (provisional and partial),Florida,12,"Orange County, FL",12095,Asian,Not Hispanic or Latino,50.0,77811.0,64.3,65.4
+2022 (provisional and partial),Florida,12,"Orange County, FL",12095,Black or African American,Hispanic or Latino,14.0,36566.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Orange County, FL",12095,Black or African American,Not Hispanic or Latino,295.0,284269.0,103.8,132.0
+2022 (provisional and partial),Florida,12,"Orange County, FL",12095,White,Hispanic or Latino,300.0,402898.0,74.5,94.4
+2022 (provisional and partial),Florida,12,"Orange County, FL",12095,White,Not Hispanic or Latino,795.0,548833.0,144.9,117.7
+2022 (provisional and partial),Florida,12,"Osceola County, FL",12097,Asian,Not Hispanic or Latino,10.0,10613.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Osceola County, FL",12097,Black or African American,Not Hispanic or Latino,54.0,37824.0,142.8,165.8
+2022 (provisional and partial),Florida,12,"Osceola County, FL",12097,White,Hispanic or Latino,179.0,188324.0,95.0,118.1
+2022 (provisional and partial),Florida,12,"Osceola County, FL",12097,White,Not Hispanic or Latino,233.0,114168.0,204.1,141.8
+2022 (provisional and partial),Florida,12,"Palm Beach County, FL",12099,Asian,Not Hispanic or Latino,30.0,43598.0,68.8,59.4
+2022 (provisional and partial),Florida,12,"Palm Beach County, FL",12099,Black or African American,Not Hispanic or Latino,314.0,282780.0,111.0,119.5
+2022 (provisional and partial),Florida,12,"Palm Beach County, FL",12099,White,Hispanic or Latino,255.0,318528.0,80.1,82.6
+2022 (provisional and partial),Florida,12,"Palm Beach County, FL",12099,White,Not Hispanic or Latino,1878.0,803793.0,233.6,85.0
+2022 (provisional and partial),Florida,12,"Pasco County, FL",12101,Asian,Not Hispanic or Latino,12.0,16426.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Pasco County, FL",12101,Black or African American,Not Hispanic or Latino,37.0,34370.0,107.7,129.2
+2022 (provisional and partial),Florida,12,"Pasco County, FL",12101,White,Hispanic or Latino,65.0,86792.0,74.9,89.7
+2022 (provisional and partial),Florida,12,"Pasco County, FL",12101,White,Not Hispanic or Latino,915.0,408566.0,224.0,122.9
+2022 (provisional and partial),Florida,12,"Pinellas County, FL",12103,Asian,Not Hispanic or Latino,30.0,34497.0,87.0,73.4
+2022 (provisional and partial),Florida,12,"Pinellas County, FL",12103,Black or African American,Not Hispanic or Latino,171.0,101780.0,168.0,165.6
+2022 (provisional and partial),Florida,12,"Pinellas County, FL",12103,White,Hispanic or Latino,57.0,87262.0,65.3,63.1
+2022 (provisional and partial),Florida,12,"Pinellas County, FL",12103,White,Not Hispanic or Latino,1557.0,717510.0,217.0,101.4
+2022 (provisional and partial),Florida,12,"Polk County, FL",12105,Black or African American,Not Hispanic or Latino,132.0,109561.0,120.5,128.1
+2022 (provisional and partial),Florida,12,"Polk County, FL",12105,White,Hispanic or Latino,136.0,168618.0,80.7,123.6
+2022 (provisional and partial),Florida,12,"Polk County, FL",12105,White,Not Hispanic or Latino,933.0,415014.0,224.8,119.5
+2022 (provisional and partial),Florida,12,"Putnam County, FL",12107,Black or African American,Not Hispanic or Latino,14.0,11837.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Putnam County, FL",12107,White,Not Hispanic or Latino,135.0,53095.0,254.3,147.9
+2022 (provisional and partial),Florida,12,"St. Johns County, FL",12109,Black or African American,Not Hispanic or Latino,18.0,14485.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"St. Johns County, FL",12109,White,Hispanic or Latino,15.0,19505.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"St. Johns County, FL",12109,White,Not Hispanic or Latino,328.0,226602.0,144.7,93.3
+2022 (provisional and partial),Florida,12,"St. Lucie County, FL",12111,Black or African American,Not Hispanic or Latino,85.0,69127.0,123.0,112.7
+2022 (provisional and partial),Florida,12,"St. Lucie County, FL",12111,White,Hispanic or Latino,46.0,60534.0,76.0,83.6
+2022 (provisional and partial),Florida,12,"St. Lucie County, FL",12111,White,Not Hispanic or Latino,468.0,186041.0,251.6,114.7
+2022 (provisional and partial),Florida,12,"Santa Rosa County, FL",12113,Black or African American,Not Hispanic or Latino,11.0,11648.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Santa Rosa County, FL",12113,White,Not Hispanic or Latino,287.0,154446.0,185.8,146.4
+2022 (provisional and partial),Florida,12,"Sarasota County, FL",12115,Black or African American,Not Hispanic or Latino,26.0,18984.0,137.0,112.7
+2022 (provisional and partial),Florida,12,"Sarasota County, FL",12115,White,Hispanic or Latino,27.0,39254.0,68.8,69.4
+2022 (provisional and partial),Florida,12,"Sarasota County, FL",12115,White,Not Hispanic or Latino,845.0,365908.0,230.9,84.9
+2022 (provisional and partial),Florida,12,"Seminole County, FL",12117,Asian,Not Hispanic or Latino,14.0,23495.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Seminole County, FL",12117,Black or African American,Not Hispanic or Latino,61.0,55007.0,110.9,119.1
+2022 (provisional and partial),Florida,12,"Seminole County, FL",12117,White,Hispanic or Latino,71.0,94930.0,74.8,83.3
+2022 (provisional and partial),Florida,12,"Seminole County, FL",12117,White,Not Hispanic or Latino,417.0,275546.0,151.3,103.1
+2022 (provisional and partial),Florida,12,"Sumter County, FL",12119,White,Not Hispanic or Latino,351.0,118460.0,296.3,95.2
+2022 (provisional and partial),Florida,12,"Suwannee County, FL",12121,Black or African American,Not Hispanic or Latino,10.0,5380.0,Unreliable,Unreliable
+2022 (provisional and partial),Florida,12,"Suwannee County, FL",12121,White,Not Hispanic or Latino,99.0,33749.0,293.3,176.4
+2022 (provisional and partial),Florida,12,"Taylor County, FL",12123,White,Not Hispanic or Latino,53.0,15656.0,338.5,211.7
+2022 (provisional and partial),Florida,12,"Union County, FL",12125,White,Not Hispanic or Latino,25.0,10545.0,237.1,184.0
+2022 (provisional and partial),Florida,12,"Volusia County, FL",12127,Black or African American,Not Hispanic or Latino,79.0,58713.0,134.6,133.6
+2022 (provisional and partial),Florida,12,"Volusia County, FL",12127,White,Hispanic or Latino,73.0,75581.0,96.6,96.5
+2022 (provisional and partial),Florida,12,"Volusia County, FL",12127,White,Not Hispanic or Latino,1024.0,393451.0,260.3,129.7
+2022 (provisional and partial),Florida,12,"Wakulla County, FL",12129,White,Not Hispanic or Latino,56.0,27124.0,206.5,186.4
+2022 (provisional and partial),Florida,12,"Walton County, FL",12131,White,Not Hispanic or Latino,104.0,64488.0,161.3,108.1
+2022 (provisional and partial),Florida,12,"Washington County, FL",12133,White,Not Hispanic or Latino,47.0,20012.0,234.9,164.5

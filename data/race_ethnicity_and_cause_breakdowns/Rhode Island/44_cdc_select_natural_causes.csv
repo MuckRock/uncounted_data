@@ -1,0 +1,613 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Rhode Island,44,"Bristol County, RI",44001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,48649.0,47.3
+2018,Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,Unspecified dementia,F03,65.0,48649.0,133.6
+2018,Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,48649.0,43.2
+2018,Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,48649.0,Unreliable
+2018,Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,27.0,48649.0,55.5
+2018,Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,48649.0,55.5
+2018,Rhode Island,44,"Bristol County, RI",44001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,48649.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Sepsis,"Septicaemia, unspecified",A41.9,21.0,163861.0,12.8
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,13.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,18.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,13.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,34.0,163861.0,20.7
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,110.0,163861.0,67.1
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,28.0,163861.0,17.1
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm of prostate,C61,19.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,13.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,14.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,23.0,163861.0,14.0
+2018,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,11.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,21.0,163861.0,12.8
+2018,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,Unspecified dementia,F03,116.0,163861.0,70.8
+2018,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,52.0,163861.0,31.7
+2018,Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Essential (primary) hypertension,I10,11.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,21.0,163861.0,12.8
+2018,Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,14.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,163861.0,25.0
+2018,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,94.0,163861.0,57.4
+2018,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,118.0,163861.0,72.0
+2018,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Congestive heart failure,I50.0,19.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,30.0,163861.0,18.3
+2018,Rhode Island,44,"Kent County, RI",44003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,26.0,163861.0,15.9
+2018,Rhode Island,44,"Kent County, RI",44003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,16.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,52.0,163861.0,31.7
+2018,Rhode Island,44,"Kent County, RI",44003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,11.0,163861.0,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,163861.0,Unreliable
+2018,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,20.0,82542.0,24.2
+2018,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,35.0,82542.0,42.4
+2018,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,21.0,82542.0,25.4
+2018,Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,Unspecified dementia,F03,60.0,82542.0,72.7
+2018,Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,46.0,82542.0,55.7
+2018,Rhode Island,44,"Newport County, RI",44005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,82542.0,Unreliable
+2018,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,82542.0,30.3
+2018,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,27.0,82542.0,32.7
+2018,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,39.0,82542.0,47.2
+2018,Rhode Island,44,"Newport County, RI",44005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,13.0,82542.0,Unreliable
+2018,Rhode Island,44,"Newport County, RI",44005,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,82542.0,Unreliable
+2018,Rhode Island,44,"Newport County, RI",44005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,82542.0,Unreliable
+2018,Rhode Island,44,"Newport County, RI",44005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,82542.0,Unreliable
+2018,Rhode Island,44,"Newport County, RI",44005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,30.0,82542.0,36.3
+2018,Rhode Island,44,"Providence County, RI",44007,Sepsis,"Septicaemia, unspecified",A41.9,50.0,636084.0,7.9
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,32.0,636084.0,5.0
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,28.0,636084.0,4.4
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,74.0,636084.0,11.6
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of rectum,C20,27.0,636084.0,4.2
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,25.0,636084.0,3.9
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,22.0,636084.0,3.5
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,15.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,80.0,636084.0,12.6
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,292.0,636084.0,45.9
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,13.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,71.0,636084.0,11.2
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,14.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,10.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of ovary,C56,27.0,636084.0,4.2
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of prostate,C61,53.0,636084.0,8.3
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,22.0,636084.0,3.5
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,27.0,636084.0,4.2
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,27.0,636084.0,4.2
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Secondary malignant neoplasm of other specified sites - Malignant neoplasms,C79.8,11.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,71.0,636084.0,11.2
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,23.0,636084.0,3.6
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,22.0,636084.0,3.5
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,12.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,18.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,10.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,33.0,636084.0,5.2
+2018,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,68.0,636084.0,10.7
+2018,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,28.0,636084.0,4.4
+2018,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Unspecified dementia,F03,381.0,636084.0,59.9
+2018,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,18.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,289.0,636084.0,45.4
+2018,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,23.0,636084.0,3.6
+2018,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Essential (primary) hypertension,I10,34.0,636084.0,5.3
+2018,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,37.0,636084.0,5.8
+2018,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,80.0,636084.0,12.6
+2018,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,13.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart and renal disease with renal failure,I13.1,12.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,31.0,636084.0,4.9
+2018,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,203.0,636084.0,31.9
+2018,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,294.0,636084.0,46.2
+2018,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,353.0,636084.0,55.5
+2018,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,10.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,14.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,17.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,39.0,636084.0,6.1
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,10.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,18.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,53.0,636084.0,8.3
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Congestive heart failure,I50.0,123.0,636084.0,19.3
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,29.0,636084.0,4.6
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,16.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,24.0,636084.0,3.8
+2018,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,12.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,14.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,118.0,636084.0,18.6
+2018,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,26.0,636084.0,4.1
+2018,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,10.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,21.0,636084.0,3.3
+2018,Rhode Island,44,"Providence County, RI",44007,Influenza and pneumonia,"Influenza with pneumonia, virus not identified",J11.0,15.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,75.0,636084.0,11.8
+2018,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,23.0,636084.0,3.6
+2018,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,42.0,636084.0,6.6
+2018,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,11.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,182.0,636084.0,28.6
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,63.0,636084.0,9.9
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,26.0,636084.0,4.1
+2018,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,13.0,636084.0,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic kidney disease, stage 5",N18.5,35.0,636084.0,5.5
+2018,Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic renal failure, unspecified",N18.9,24.0,636084.0,3.8
+2018,Rhode Island,44,"Providence County, RI",44007,Renal failure,Unspecified renal failure,N19,14.0,636084.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Sepsis,"Septicaemia, unspecified",A41.9,11.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,17.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,126179.0,21.4
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,56.0,126179.0,44.4
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,16.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm of prostate,C61,17.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,28.0,126179.0,22.2
+2018,Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,Unspecified dementia,F03,87.0,126179.0,68.9
+2018,Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,40.0,126179.0,31.7
+2018,Rhode Island,44,"Washington County, RI",44009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,18.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,126179.0,26.9
+2018,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,37.0,126179.0,29.3
+2018,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,80.0,126179.0,63.4
+2018,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Congestive heart failure,I50.0,30.0,126179.0,23.8
+2018,Rhode Island,44,"Washington County, RI",44009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,31.0,126179.0,24.6
+2018,Rhode Island,44,"Washington County, RI",44009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,50.0,126179.0,39.6
+2018,Rhode Island,44,"Washington County, RI",44009,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,12.0,126179.0,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,126179.0,Unreliable
+2019,Rhode Island,44,"Bristol County, RI",44001,Sepsis,"Septicaemia, unspecified",A41.9,10.0,48479.0,Unreliable
+2019,Rhode Island,44,"Bristol County, RI",44001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,48479.0,Unreliable
+2019,Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,Unspecified dementia,F03,53.0,48479.0,109.3
+2019,Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,29.0,48479.0,59.8
+2019,Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,24.0,48479.0,49.5
+2019,Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,48479.0,61.9
+2019,Rhode Island,44,"Bristol County, RI",44001,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,48479.0,Unreliable
+2019,Rhode Island,44,"Bristol County, RI",44001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,48479.0,Unreliable
+2019,Rhode Island,44,"Bristol County, RI",44001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,48479.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Sepsis,"Septicaemia, unspecified",A41.9,16.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,24.0,164292.0,14.6
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,31.0,164292.0,18.9
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,118.0,164292.0,71.8
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,31.0,164292.0,18.9
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm of ovary,C56,10.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm of prostate,C61,27.0,164292.0,16.4
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,13.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,32.0,164292.0,19.5
+2019,Rhode Island,44,"Kent County, RI",44003,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,12.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,10.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,Unspecified dementia,F03,131.0,164292.0,79.7
+2019,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,74.0,164292.0,45.0
+2019,Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Essential (primary) hypertension,I10,14.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,36.0,164292.0,21.9
+2019,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,100.0,164292.0,60.9
+2019,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,168.0,164292.0,102.3
+2019,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,20.0,164292.0,12.2
+2019,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Congestive heart failure,I50.0,36.0,164292.0,21.9
+2019,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,10.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,32.0,164292.0,19.5
+2019,Rhode Island,44,"Kent County, RI",44003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,27.0,164292.0,16.4
+2019,Rhode Island,44,"Kent County, RI",44003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,74.0,164292.0,45.0
+2019,Rhode Island,44,"Kent County, RI",44003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,164292.0,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Renal failure,"Chronic kidney disease, stage 5",N18.5,13.0,164292.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Sepsis,"Septicaemia, unspecified",A41.9,11.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,17.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,38.0,82082.0,46.3
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,11.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,Unspecified dementia,F03,69.0,82082.0,84.1
+2019,Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,50.0,82082.0,60.9
+2019,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,45.0,82082.0,54.8
+2019,Rhode Island,44,"Newport County, RI",44005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,16.0,82082.0,Unreliable
+2019,Rhode Island,44,"Newport County, RI",44005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,50.0,82082.0,60.9
+2019,Rhode Island,44,"Providence County, RI",44007,Sepsis,"Septicaemia, unspecified",A41.9,40.0,638931.0,6.3
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,31.0,638931.0,4.9
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,25.0,638931.0,3.9
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,60.0,638931.0,9.4
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,18.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of rectum,C20,16.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,37.0,638931.0,5.8
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,34.0,638931.0,5.3
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,12.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,96.0,638931.0,15.0
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,285.0,638931.0,44.6
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,22.0,638931.0,3.4
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,11.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,68.0,638931.0,10.6
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,18.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of ovary,C56,24.0,638931.0,3.8
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of prostate,C61,49.0,638931.0,7.7
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,26.0,638931.0,4.1
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,24.0,638931.0,3.8
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,43.0,638931.0,6.7
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Secondary malignant neoplasm of other specified sites - Malignant neoplasms,C79.8,14.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,76.0,638931.0,11.9
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,10.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,12.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,24.0,638931.0,3.8
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,19.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,10.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,20.0,638931.0,3.1
+2019,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,26.0,638931.0,4.1
+2019,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, with multiple complications",E14.7,10.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,72.0,638931.0,11.3
+2019,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,42.0,638931.0,6.6
+2019,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Unspecified dementia,F03,360.0,638931.0,56.3
+2019,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,261.0,638931.0,40.8
+2019,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Essential (primary) hypertension,I10,31.0,638931.0,4.9
+2019,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,26.0,638931.0,4.1
+2019,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,79.0,638931.0,12.4
+2019,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,17.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,22.0,638931.0,3.4
+2019,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,195.0,638931.0,30.5
+2019,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,251.0,638931.0,39.3
+2019,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,362.0,638931.0,56.7
+2019,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,21.0,638931.0,3.3
+2019,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,10.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,12.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,42.0,638931.0,6.6
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,17.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,57.0,638931.0,8.9
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Congestive heart failure,I50.0,117.0,638931.0,18.3
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,34.0,638931.0,5.3
+2019,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,24.0,638931.0,3.8
+2019,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,110.0,638931.0,17.2
+2019,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,21.0,638931.0,3.3
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,47.0,638931.0,7.4
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,15.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,75.0,638931.0,11.7
+2019,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,12.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,33.0,638931.0,5.2
+2019,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,15.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,186.0,638931.0,29.1
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,55.0,638931.0,8.6
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,27.0,638931.0,4.2
+2019,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,14.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Renal failure,"Acute renal failure, unspecified",N17.9,15.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic kidney disease, stage 5",N18.5,44.0,638931.0,6.9
+2019,Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic renal failure, unspecified",N18.9,14.0,638931.0,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Renal failure,Unspecified renal failure,N19,16.0,638931.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Sepsis,"Septicaemia, unspecified",A41.9,11.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,29.0,125577.0,23.1
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,70.0,125577.0,55.7
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,125577.0,17.5
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,Unspecified dementia,F03,111.0,125577.0,88.4
+2019,Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,33.0,125577.0,26.3
+2019,Rhode Island,44,"Washington County, RI",44009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,14.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,42.0,125577.0,33.4
+2019,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,49.0,125577.0,39.0
+2019,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,87.0,125577.0,69.3
+2019,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,16.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Congestive heart failure,I50.0,26.0,125577.0,20.7
+2019,Rhode Island,44,"Washington County, RI",44009,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,13.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,27.0,125577.0,21.5
+2019,Rhode Island,44,"Washington County, RI",44009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,125577.0,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,42.0,125577.0,33.4
+2019,Rhode Island,44,"Washington County, RI",44009,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,12.0,125577.0,Unreliable
+2020,Rhode Island,44,"Bristol County, RI",44001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,48350.0,43.4
+2020,Rhode Island,44,"Bristol County, RI",44001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,48350.0,Unreliable
+2020,Rhode Island,44,"Bristol County, RI",44001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,48350.0,Unreliable
+2020,Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,Unspecified dementia,F03,61.0,48350.0,126.2
+2020,Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,48350.0,47.6
+2020,Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,48350.0,51.7
+2020,Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,48350.0,51.7
+2020,Rhode Island,44,"Bristol County, RI",44001,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,48350.0,Unreliable
+2020,Rhode Island,44,"Bristol County, RI",44001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,48350.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Sepsis,"Septicaemia, unspecified",A41.9,16.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,28.0,164646.0,17.0
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,24.0,164646.0,14.6
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,109.0,164646.0,66.2
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,25.0,164646.0,15.2
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm of prostate,C61,22.0,164646.0,13.4
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,24.0,164646.0,14.6
+2020,Rhode Island,44,"Kent County, RI",44003,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,12.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,12.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,Unspecified dementia,F03,133.0,164646.0,80.8
+2020,Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,65.0,164646.0,39.5
+2020,Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,25.0,164646.0,15.2
+2020,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,33.0,164646.0,20.0
+2020,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,85.0,164646.0,51.6
+2020,Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,135.0,164646.0,82.0
+2020,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,15.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Congestive heart failure,I50.0,27.0,164646.0,16.4
+2020,Rhode Island,44,"Kent County, RI",44003,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,11.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,28.0,164646.0,17.0
+2020,Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,13.0,164646.0,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,21.0,164646.0,12.8
+2020,Rhode Island,44,"Kent County, RI",44003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,52.0,164646.0,31.6
+2020,Rhode Island,44,"Kent County, RI",44003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,164646.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,81836.0,35.4
+2020,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,Unspecified dementia,F03,55.0,81836.0,67.2
+2020,Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,50.0,81836.0,61.1
+2020,Rhode Island,44,"Newport County, RI",44005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,81836.0,30.5
+2020,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,81836.0,24.4
+2020,Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,81836.0,31.8
+2020,Rhode Island,44,"Newport County, RI",44005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Other diseases of the circulatory system,Congestive heart failure,I50.0,19.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,81836.0,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,81836.0,35.4
+2020,Rhode Island,44,"Newport County, RI",44005,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,81836.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Sepsis,"Septicaemia, unspecified",A41.9,43.0,636547.0,6.8
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,29.0,636547.0,4.6
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,15.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,55.0,636547.0,8.6
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,36.0,636547.0,5.7
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,20.0,636547.0,3.1
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,85.0,636547.0,13.4
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,289.0,636547.0,45.4
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,16.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,71.0,636547.0,11.2
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,15.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of ovary,C56,16.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of prostate,C61,56.0,636547.0,8.8
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,21.0,636547.0,3.3
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,43.0,636547.0,6.8
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,26.0,636547.0,4.1
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,65.0,636547.0,10.2
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,15.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,21.0,636547.0,3.3
+2020,Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,20.0,636547.0,3.1
+2020,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,22.0,636547.0,3.5
+2020,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Non-insulin-dependent diabetes mellitus, with multiple complications",E11.7,10.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,29.0,636547.0,4.6
+2020,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,36.0,636547.0,5.7
+2020,Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,74.0,636547.0,11.6
+2020,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,44.0,636547.0,6.9
+2020,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Unspecified dementia,F03,319.0,636547.0,50.1
+2020,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,15.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,306.0,636547.0,48.1
+2020,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,10.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,16.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Essential (primary) hypertension,I10,40.0,636547.0,6.3
+2020,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,32.0,636547.0,5.0
+2020,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,97.0,636547.0,15.2
+2020,Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,24.0,636547.0,3.8
+2020,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,24.0,636547.0,3.8
+2020,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,167.0,636547.0,26.2
+2020,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,239.0,636547.0,37.5
+2020,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,366.0,636547.0,57.5
+2020,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,14.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Other forms of chronic ischaemic heart disease,I25.8,11.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,17.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,32.0,636547.0,5.0
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,10.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,23.0,636547.0,3.6
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,59.0,636547.0,9.3
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Congestive heart failure,I50.0,118.0,636547.0,18.5
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,23.0,636547.0,3.6
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,15.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,11.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,23.0,636547.0,3.6
+2020,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,16.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,97.0,636547.0,15.2
+2020,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,18.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,15.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,66.0,636547.0,10.4
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,12.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,15.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,52.0,636547.0,8.2
+2020,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,10.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,24.0,636547.0,3.8
+2020,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,10.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,215.0,636547.0,33.8
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,47.0,636547.0,7.4
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,18.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,14.0,636547.0,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic kidney disease, stage 5",N18.5,45.0,636547.0,7.1
+2020,Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic renal failure, unspecified",N18.9,22.0,636547.0,3.5
+2020,Rhode Island,44,"Providence County, RI",44007,Renal failure,Unspecified renal failure,N19,12.0,636547.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Sepsis,"Septicaemia, unspecified",A41.9,12.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,20.0,125746.0,15.9
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,25.0,125746.0,19.9
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,63.0,125746.0,50.1
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm of prostate,C61,23.0,125746.0,18.3
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,10.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,Unspecified dementia,F03,113.0,125746.0,89.9
+2020,Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,38.0,125746.0,30.2
+2020,Rhode Island,44,"Washington County, RI",44009,Hypertensive diseases,Essential (primary) hypertension,I10,11.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,125746.0,27.0
+2020,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,35.0,125746.0,27.8
+2020,Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,91.0,125746.0,72.4
+2020,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,11.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,24.0,125746.0,19.1
+2020,Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Congestive heart failure,I50.0,31.0,125746.0,24.7
+2020,Rhode Island,44,"Washington County, RI",44009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,20.0,125746.0,15.9
+2020,Rhode Island,44,"Washington County, RI",44009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,125746.0,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,40.0,125746.0,31.8
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,48350.0,Unreliable
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,Unspecified dementia,F03,45.0,48350.0,93.1
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,48350.0,47.6
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,48350.0,Unreliable
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,30.0,48350.0,62.0
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,48350.0,53.8
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,48350.0,Unreliable
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,18.0,48350.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Sepsis,"Septicaemia, unspecified",A41.9,14.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,12.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,38.0,164646.0,23.1
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,85.0,164646.0,51.6
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,25.0,164646.0,15.2
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,16.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,16.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,27.0,164646.0,16.4
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,26.0,164646.0,15.8
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,Unspecified dementia,F03,128.0,164646.0,77.7
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,64.0,164646.0,38.9
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,18.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,11.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,39.0,164646.0,23.7
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,73.0,164646.0,44.3
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,121.0,164646.0,73.5
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,14.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,23.0,164646.0,14.0
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Congestive heart failure,I50.0,42.0,164646.0,25.5
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,11.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,34.0,164646.0,20.7
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,10.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,18.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,61.0,164646.0,37.0
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,17.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Renal failure,"Chronic renal failure, unspecified",N18.9,18.0,164646.0,Unreliable
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,81836.0,Unreliable
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,42.0,81836.0,51.3
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,81836.0,Unreliable
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,81836.0,Unreliable
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,Unspecified dementia,F03,47.0,81836.0,57.4
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,46.0,81836.0,56.2
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,81836.0,Unreliable
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,31.0,81836.0,37.9
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,36.0,81836.0,44.0
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Other diseases of the circulatory system,Congestive heart failure,I50.0,22.0,81836.0,26.9
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,81836.0,Unreliable
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,35.0,81836.0,42.8
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,11.0,81836.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Sepsis,"Septicaemia, unspecified",A41.9,46.0,636547.0,7.2
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,27.0,636547.0,4.2
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,26.0,636547.0,4.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,58.0,636547.0,9.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,10.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of rectum,C20,22.0,636547.0,3.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,26.0,636547.0,4.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,20.0,636547.0,3.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,86.0,636547.0,13.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,242.0,636547.0,38.0
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,63.0,636547.0,9.9
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,17.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of ovary,C56,35.0,636547.0,5.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of prostate,C61,53.0,636547.0,8.3
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,26.0,636547.0,4.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,45.0,636547.0,7.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,28.0,636547.0,4.4
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Secondary malignant neoplasm of other specified sites - Malignant neoplasms,C79.8,12.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,66.0,636547.0,10.4
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,18.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,12.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,30.0,636547.0,4.7
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,12.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,26.0,636547.0,4.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,28.0,636547.0,4.4
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,30.0,636547.0,4.7
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,78.0,636547.0,12.3
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,38.0,636547.0,6.0
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Unspecified dementia,F03,230.0,636547.0,36.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,264.0,636547.0,41.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,13.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,13.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Essential (primary) hypertension,I10,34.0,636547.0,5.3
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,35.0,636547.0,5.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,53.0,636547.0,8.3
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,23.0,636547.0,3.6
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,10.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,28.0,636547.0,4.4
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,164.0,636547.0,25.8
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,271.0,636547.0,42.6
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,337.0,636547.0,52.9
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,16.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,11.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,21.0,636547.0,3.3
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,18.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,11.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,61.0,636547.0,9.6
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Congestive heart failure,I50.0,113.0,636547.0,17.8
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,34.0,636547.0,5.3
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,13.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,17.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,29.0,636547.0,4.6
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,11.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,13.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,81.0,636547.0,12.7
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,10.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,17.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,14.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,60.0,636547.0,9.4
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,19.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,46.0,636547.0,7.2
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,10.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,23.0,636547.0,3.6
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,10.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,169.0,636547.0,26.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,41.0,636547.0,6.4
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,20.0,636547.0,3.1
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,10.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Renal failure,"Acute renal failure, unspecified",N17.9,13.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic kidney disease, stage 5",N18.5,48.0,636547.0,7.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Renal failure,"Chronic renal failure, unspecified",N18.9,19.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Renal failure,Unspecified renal failure,N19,12.0,636547.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,15.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,57.0,125746.0,45.3
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,21.0,125746.0,16.7
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm of prostate,C61,23.0,125746.0,18.3
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,20.0,125746.0,15.9
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,12.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,Unspecified dementia,F03,100.0,125746.0,79.5
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,34.0,125746.0,27.0
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,11.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,31.0,125746.0,24.7
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,51.0,125746.0,40.6
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,78.0,125746.0,62.0
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,21.0,125746.0,16.7
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Other diseases of the circulatory system,Congestive heart failure,I50.0,35.0,125746.0,27.8
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,125746.0,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,27.0,125746.0,21.5
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,15.0,125746.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Kent County, RI",44003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,164646.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Kent County, RI",44003,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,164646.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,164646.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Kent County, RI",44003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,164646.0,14.6
+2022 (provisional and partial),Rhode Island,44,"Newport County, RI",44005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,81836.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,636547.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,31.0,636547.0,4.9
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,636547.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,636547.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,Unspecified dementia,F03,39.0,636547.0,6.1
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,36.0,636547.0,5.7
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,636547.0,3.9
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,41.0,636547.0,6.4
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,54.0,636547.0,8.5
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,636547.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,636547.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,18.0,636547.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,35.0,636547.0,5.5
+2022 (provisional and partial),Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,125746.0,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Washington County, RI",44009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,125746.0,Unreliable

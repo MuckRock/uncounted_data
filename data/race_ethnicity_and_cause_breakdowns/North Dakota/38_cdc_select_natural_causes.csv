@@ -1,0 +1,311 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,95273.0,Unreliable
+2018,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,37.0,95273.0,38.8
+2018,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,95273.0,Unreliable
+2018,North Dakota,38,"Burleigh County, ND",38015,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,95273.0,Unreliable
+2018,North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,95273.0,23.1
+2018,North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,95273.0,47.2
+2018,North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,95273.0,Unreliable
+2018,North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,46.0,95273.0,48.3
+2018,North Dakota,38,"Burleigh County, ND",38015,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,95273.0,Unreliable
+2018,North Dakota,38,"Burleigh County, ND",38015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,29.0,95273.0,30.4
+2018,North Dakota,38,"Burleigh County, ND",38015,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,95273.0,Unreliable
+2018,North Dakota,38,"Burleigh County, ND",38015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,95273.0,Unreliable
+2018,North Dakota,38,"Burleigh County, ND",38015,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,16.0,95273.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,52.0,181516.0,28.6
+2018,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,Unspecified dementia,F03,42.0,181516.0,23.1
+2018,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,53.0,181516.0,29.2
+2018,North Dakota,38,"Cass County, ND",38017,Hypertensive diseases,Essential (primary) hypertension,I10,28.0,181516.0,15.4
+2018,North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,36.0,181516.0,19.8
+2018,North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,47.0,181516.0,25.9
+2018,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,17.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Congestive heart failure,I50.0,36.0,181516.0,19.8
+2018,North Dakota,38,"Cass County, ND",38017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,181516.0,Unreliable
+2018,North Dakota,38,"Cass County, ND",38017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,37.0,181516.0,20.4
+2018,North Dakota,38,"Grand Forks County, ND",38035,Sepsis,"Septicaemia, unspecified",A41.9,11.0,70770.0,Unreliable
+2018,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,70770.0,Unreliable
+2018,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,36.0,70770.0,50.9
+2018,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,70770.0,Unreliable
+2018,North Dakota,38,"Grand Forks County, ND",38035,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,70770.0,Unreliable
+2018,North Dakota,38,"Grand Forks County, ND",38035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,39.0,70770.0,55.1
+2018,North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,70770.0,Unreliable
+2018,North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,70770.0,Unreliable
+2018,North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,39.0,70770.0,55.1
+2018,North Dakota,38,"Grand Forks County, ND",38035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,70770.0,Unreliable
+2018,North Dakota,38,"Grand Forks County, ND",38035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,28.0,70770.0,39.6
+2018,North Dakota,38,"McKenzie County, ND",38053,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,13632.0,Unreliable
+2018,North Dakota,38,"McLean County, ND",38055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,9541.0,Unreliable
+2018,North Dakota,38,"Morton County, ND",38059,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,31095.0,Unreliable
+2018,North Dakota,38,"Morton County, ND",38059,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,31095.0,Unreliable
+2018,North Dakota,38,"Morton County, ND",38059,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,31095.0,Unreliable
+2018,North Dakota,38,"Morton County, ND",38059,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,31095.0,Unreliable
+2018,North Dakota,38,"Morton County, ND",38059,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,31095.0,Unreliable
+2018,North Dakota,38,"Morton County, ND",38059,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,20.0,31095.0,64.3
+2018,North Dakota,38,"Morton County, ND",38059,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,31095.0,Unreliable
+2018,North Dakota,38,"Mountrail County, ND",38061,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,10218.0,195.7
+2018,North Dakota,38,"Ramsey County, ND",38071,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,11481.0,Unreliable
+2018,North Dakota,38,"Ransom County, ND",38073,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,5237.0,Unreliable
+2018,North Dakota,38,"Richland County, ND",38077,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,16239.0,Unreliable
+2018,North Dakota,38,"Rolette County, ND",38079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,14301.0,Unreliable
+2018,North Dakota,38,"Rolette County, ND",38079,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,14301.0,Unreliable
+2018,North Dakota,38,"Stark County, ND",38089,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,30997.0,74.2
+2018,North Dakota,38,"Stark County, ND",38089,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,30997.0,Unreliable
+2018,North Dakota,38,"Stark County, ND",38089,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,30997.0,Unreliable
+2018,North Dakota,38,"Stutsman County, ND",38093,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,20917.0,Unreliable
+2018,North Dakota,38,"Traill County, ND",38097,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,8037.0,Unreliable
+2018,North Dakota,38,"Walsh County, ND",38099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,10667.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Sepsis,"Septicaemia, unspecified",A41.9,11.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,67744.0,45.8
+2018,North Dakota,38,"Ward County, ND",38101,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,67744.0,Unreliable
+2018,North Dakota,38,"Ward County, ND",38101,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,67744.0,34.0
+2018,North Dakota,38,"Ward County, ND",38101,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,67744.0,Unreliable
+2018,North Dakota,38,"Wells County, ND",38103,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,3957.0,Unreliable
+2018,North Dakota,38,"Williams County, ND",38105,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,35350.0,Unreliable
+2018,North Dakota,38,"Williams County, ND",38105,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,35350.0,Unreliable
+2018,North Dakota,38,"Williams County, ND",38105,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,35350.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,37.0,95626.0,38.7
+2019,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,95626.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,95626.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,95626.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,55.0,95626.0,57.5
+2019,North Dakota,38,"Burleigh County, ND",38015,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,11.0,95626.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,28.0,95626.0,29.3
+2019,North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,60.0,95626.0,62.7
+2019,North Dakota,38,"Burleigh County, ND",38015,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,95626.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,95626.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,95626.0,Unreliable
+2019,North Dakota,38,"Burleigh County, ND",38015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,95626.0,30.3
+2019,North Dakota,38,"Burleigh County, ND",38015,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,95626.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,15.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,16.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,56.0,181923.0,30.8
+2019,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,Malignant neoplasm without specification of site,C80,18.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,Unspecified dementia,F03,53.0,181923.0,29.1
+2019,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,83.0,181923.0,45.6
+2019,North Dakota,38,"Cass County, ND",38017,Hypertensive diseases,Essential (primary) hypertension,I10,39.0,181923.0,21.4
+2019,North Dakota,38,"Cass County, ND",38017,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,16.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,181923.0,18.7
+2019,North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,68.0,181923.0,37.4
+2019,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,12.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,13.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Congestive heart failure,I50.0,35.0,181923.0,19.2
+2019,North Dakota,38,"Cass County, ND",38017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,21.0,181923.0,11.5
+2019,North Dakota,38,"Cass County, ND",38017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,16.0,181923.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,36.0,181923.0,19.8
+2019,North Dakota,38,"Cass County, ND",38017,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,19.0,181923.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Sepsis,"Septicaemia, unspecified",A41.9,14.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,32.0,69451.0,46.1
+2019,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,34.0,69451.0,49.0
+2019,North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,69451.0,40.3
+2019,North Dakota,38,"Grand Forks County, ND",38035,Other diseases of the circulatory system,Congestive heart failure,I50.0,18.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,69451.0,Unreliable
+2019,North Dakota,38,"Grand Forks County, ND",38035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,69451.0,Unreliable
+2019,North Dakota,38,"McLean County, ND",38055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,9450.0,Unreliable
+2019,North Dakota,38,"Morton County, ND",38059,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,31364.0,Unreliable
+2019,North Dakota,38,"Morton County, ND",38059,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,31364.0,Unreliable
+2019,North Dakota,38,"Morton County, ND",38059,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,31364.0,Unreliable
+2019,North Dakota,38,"Morton County, ND",38059,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,31364.0,Unreliable
+2019,North Dakota,38,"Morton County, ND",38059,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,31364.0,73.3
+2019,North Dakota,38,"Morton County, ND",38059,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,31364.0,Unreliable
+2019,North Dakota,38,"Mountrail County, ND",38061,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,10545.0,Unreliable
+2019,North Dakota,38,"Pembina County, ND",38067,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,6801.0,Unreliable
+2019,North Dakota,38,"Richland County, ND",38077,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,16177.0,Unreliable
+2019,North Dakota,38,"Richland County, ND",38077,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,16177.0,Unreliable
+2019,North Dakota,38,"Rolette County, ND",38079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,14176.0,Unreliable
+2019,North Dakota,38,"Rolette County, ND",38079,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,13.0,14176.0,Unreliable
+2019,North Dakota,38,"Stark County, ND",38089,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,31489.0,Unreliable
+2019,North Dakota,38,"Stark County, ND",38089,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,24.0,31489.0,76.2
+2019,North Dakota,38,"Stark County, ND",38089,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,26.0,31489.0,82.6
+2019,North Dakota,38,"Stark County, ND",38089,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,31489.0,Unreliable
+2019,North Dakota,38,"Stutsman County, ND",38093,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,20704.0,Unreliable
+2019,North Dakota,38,"Stutsman County, ND",38093,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,20704.0,Unreliable
+2019,North Dakota,38,"Stutsman County, ND",38093,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,20704.0,Unreliable
+2019,North Dakota,38,"Stutsman County, ND",38093,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,20704.0,Unreliable
+2019,North Dakota,38,"Stutsman County, ND",38093,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,20704.0,Unreliable
+2019,North Dakota,38,"Stutsman County, ND",38093,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,20704.0,Unreliable
+2019,North Dakota,38,"Traill County, ND",38097,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,8036.0,Unreliable
+2019,North Dakota,38,"Walsh County, ND",38099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,10641.0,188.0
+2019,North Dakota,38,"Ward County, ND",38101,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,67641.0,31.0
+2019,North Dakota,38,"Ward County, ND",38101,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,67641.0,Unreliable
+2019,North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,67641.0,Unreliable
+2019,North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,67641.0,Unreliable
+2019,North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,67641.0,Unreliable
+2019,North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,67641.0,35.5
+2019,North Dakota,38,"Ward County, ND",38101,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,67641.0,Unreliable
+2019,North Dakota,38,"Ward County, ND",38101,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,67641.0,Unreliable
+2019,North Dakota,38,"Ward County, ND",38101,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,67641.0,Unreliable
+2019,North Dakota,38,"Ward County, ND",38101,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,67641.0,Unreliable
+2019,North Dakota,38,"Williams County, ND",38105,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,37589.0,Unreliable
+2019,North Dakota,38,"Williams County, ND",38105,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,37589.0,Unreliable
+2019,North Dakota,38,"Williams County, ND",38105,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,37589.0,Unreliable
+2020,North Dakota,38,"Barnes County, ND",38003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,10402.0,Unreliable
+2020,North Dakota,38,"Barnes County, ND",38003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,10402.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Sepsis,"Septicaemia, unspecified",A41.9,13.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,17.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,36.0,96212.0,37.4
+2020,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,Unspecified dementia,F03,29.0,96212.0,30.1
+2020,North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,78.0,96212.0,81.1
+2020,North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,96212.0,27.0
+2020,North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,51.0,96212.0,53.0
+2020,North Dakota,38,"Burleigh County, ND",38015,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,11.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,96212.0,Unreliable
+2020,North Dakota,38,"Burleigh County, ND",38015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,96212.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,22.0,183904.0,12.0
+2020,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,54.0,183904.0,29.4
+2020,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,15.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,19.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,Unspecified dementia,F03,46.0,183904.0,25.0
+2020,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,70.0,183904.0,38.1
+2020,North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,14.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Hypertensive diseases,Essential (primary) hypertension,I10,13.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,22.0,183904.0,12.0
+2020,North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,44.0,183904.0,23.9
+2020,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,12.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,14.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Congestive heart failure,I50.0,40.0,183904.0,21.8
+2020,North Dakota,38,"Cass County, ND",38017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,183904.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,32.0,183904.0,17.4
+2020,North Dakota,38,"Cass County, ND",38017,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,20.0,183904.0,10.9
+2020,North Dakota,38,"Grand Forks County, ND",38035,Sepsis,"Septicaemia, unspecified",A41.9,10.0,69481.0,Unreliable
+2020,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,69481.0,30.2
+2020,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,69481.0,Unreliable
+2020,North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,69481.0,Unreliable
+2020,North Dakota,38,"Grand Forks County, ND",38035,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,69481.0,Unreliable
+2020,North Dakota,38,"Grand Forks County, ND",38035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,42.0,69481.0,60.4
+2020,North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,69481.0,Unreliable
+2020,North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,36.0,69481.0,51.8
+2020,North Dakota,38,"Grand Forks County, ND",38035,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,69481.0,Unreliable
+2020,North Dakota,38,"Grand Forks County, ND",38035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,69481.0,Unreliable
+2020,North Dakota,38,"Grand Forks County, ND",38035,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,69481.0,Unreliable
+2020,North Dakota,38,"Griggs County, ND",38039,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,2207.0,Unreliable
+2020,North Dakota,38,"Morton County, ND",38059,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,31503.0,Unreliable
+2020,North Dakota,38,"Morton County, ND",38059,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,31503.0,Unreliable
+2020,North Dakota,38,"Morton County, ND",38059,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,31503.0,73.0
+2020,North Dakota,38,"Morton County, ND",38059,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,31503.0,Unreliable
+2020,North Dakota,38,"Morton County, ND",38059,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,27.0,31503.0,85.7
+2020,North Dakota,38,"Mountrail County, ND",38061,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,10502.0,209.5
+2020,North Dakota,38,"Ramsey County, ND",38071,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,11388.0,Unreliable
+2020,North Dakota,38,"Ramsey County, ND",38071,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,11388.0,Unreliable
+2020,North Dakota,38,"Richland County, ND",38077,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,16156.0,Unreliable
+2020,North Dakota,38,"Richland County, ND",38077,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,16156.0,Unreliable
+2020,North Dakota,38,"Rolette County, ND",38079,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,20.0,14165.0,141.2
+2020,North Dakota,38,"Stark County, ND",38089,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,32107.0,Unreliable
+2020,North Dakota,38,"Stark County, ND",38089,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,32107.0,65.4
+2020,North Dakota,38,"Stark County, ND",38089,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,32107.0,Unreliable
+2020,North Dakota,38,"Stutsman County, ND",38093,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,20498.0,Unreliable
+2020,North Dakota,38,"Walsh County, ND",38099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,10437.0,Unreliable
+2020,North Dakota,38,"Ward County, ND",38101,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,68466.0,33.6
+2020,North Dakota,38,"Ward County, ND",38101,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,68466.0,Unreliable
+2020,North Dakota,38,"Ward County, ND",38101,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,68466.0,Unreliable
+2020,North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,10.0,68466.0,Unreliable
+2020,North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,68466.0,32.1
+2020,North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,30.0,68466.0,43.8
+2020,North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,68466.0,29.2
+2020,North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,Atherosclerotic heart disease,I25.1,33.0,68466.0,48.2
+2020,North Dakota,38,"Ward County, ND",38101,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,68466.0,Unreliable
+2020,North Dakota,38,"Ward County, ND",38101,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,33.0,68466.0,48.2
+2020,North Dakota,38,"Williams County, ND",38105,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,38700.0,Unreliable
+2020,North Dakota,38,"Williams County, ND",38105,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,38700.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Sepsis,"Septicaemia, unspecified",A41.9,13.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,16.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,26.0,96212.0,27.0
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,19.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,60.0,96212.0,62.4
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,10.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,96212.0,27.0
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,38.0,96212.0,39.5
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,96212.0,20.8
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,11.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Burleigh County, ND",38015,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,96212.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Sepsis,"Septicaemia, unspecified",A41.9,15.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,22.0,183904.0,12.0
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,54.0,183904.0,29.4
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,11.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,Unspecified dementia,F03,29.0,183904.0,15.8
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,183904.0,24.5
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,14.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,28.0,183904.0,15.2
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,43.0,183904.0,23.4
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Other diseases of the circulatory system,Congestive heart failure,I50.0,24.0,183904.0,13.1
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,24.0,183904.0,13.1
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,183904.0,Unreliable
+2021 (provisional),North Dakota,38,"Cass County, ND",38017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,31.0,183904.0,16.9
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Sepsis,"Septicaemia, unspecified",A41.9,13.0,69481.0,Unreliable
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,69481.0,Unreliable
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,26.0,69481.0,37.4
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,69481.0,Unreliable
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,69481.0,Unreliable
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,69481.0,Unreliable
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,69481.0,Unreliable
+2021 (provisional),North Dakota,38,"Grand Forks County, ND",38035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,69481.0,Unreliable
+2021 (provisional),North Dakota,38,"McHenry County, ND",38049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,5695.0,Unreliable
+2021 (provisional),North Dakota,38,"Morton County, ND",38059,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,31503.0,Unreliable
+2021 (provisional),North Dakota,38,"Morton County, ND",38059,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,31503.0,Unreliable
+2021 (provisional),North Dakota,38,"Morton County, ND",38059,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,11.0,31503.0,Unreliable
+2021 (provisional),North Dakota,38,"Morton County, ND",38059,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,31503.0,Unreliable
+2021 (provisional),North Dakota,38,"Morton County, ND",38059,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,31503.0,Unreliable
+2021 (provisional),North Dakota,38,"Morton County, ND",38059,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,31503.0,Unreliable
+2021 (provisional),North Dakota,38,"Richland County, ND",38077,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,16156.0,Unreliable
+2021 (provisional),North Dakota,38,"Rolette County, ND",38079,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,25.0,14165.0,176.5
+2021 (provisional),North Dakota,38,"Sioux County, ND",38085,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,4173.0,Unreliable
+2021 (provisional),North Dakota,38,"Stark County, ND",38089,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,32107.0,Unreliable
+2021 (provisional),North Dakota,38,"Stark County, ND",38089,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,32107.0,Unreliable
+2021 (provisional),North Dakota,38,"Stark County, ND",38089,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,32107.0,Unreliable
+2021 (provisional),North Dakota,38,"Stutsman County, ND",38093,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,20498.0,Unreliable
+2021 (provisional),North Dakota,38,"Stutsman County, ND",38093,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,20498.0,Unreliable
+2021 (provisional),North Dakota,38,"Stutsman County, ND",38093,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,20498.0,Unreliable
+2021 (provisional),North Dakota,38,"Walsh County, ND",38099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,10437.0,230.0
+2021 (provisional),North Dakota,38,"Ward County, ND",38101,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,68466.0,36.5
+2021 (provisional),North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,68466.0,Unreliable
+2021 (provisional),North Dakota,38,"Ward County, ND",38101,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,68466.0,Unreliable
+2021 (provisional),North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,68466.0,Unreliable
+2021 (provisional),North Dakota,38,"Ward County, ND",38101,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,68466.0,38.0
+2021 (provisional),North Dakota,38,"Ward County, ND",38101,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,68466.0,Unreliable
+2021 (provisional),North Dakota,38,"Ward County, ND",38101,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,68466.0,30.7
+2022 (provisional and partial),North Dakota,38,"Cass County, ND",38017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,183904.0,Unreliable

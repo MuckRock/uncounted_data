@@ -1,0 +1,724 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Kansas,20,"Allen County, KS",20001,White,Not Hispanic or Latino,146.0,11198.0,1303.8,876.5
+2018,Kansas,20,"Anderson County, KS",20003,White,Not Hispanic or Latino,102.0,7447.0,1369.7,848.9
+2018,Kansas,20,"Atchison County, KS",20005,White,Not Hispanic or Latino,171.0,14300.0,1195.8,862.4
+2018,Kansas,20,"Barber County, KS",20007,White,Not Hispanic or Latino,58.0,4097.0,1415.7,897.4
+2018,Kansas,20,"Barton County, KS",20009,White,Not Hispanic or Latino,296.0,21194.0,1396.6,799.6
+2018,Kansas,20,"Bourbon County, KS",20011,White,Not Hispanic or Latino,185.0,13152.0,1406.6,929.6
+2018,Kansas,20,"Brown County, KS",20013,American Indian or Alaska Native,Not Hispanic or Latino,15.0,781.0,Unreliable,Unreliable
+2018,Kansas,20,"Brown County, KS",20013,White,Not Hispanic or Latino,144.0,7952.0,1810.9,1092.3
+2018,Kansas,20,"Butler County, KS",20015,Black or African American,Not Hispanic or Latino,14.0,1337.0,Unreliable,Unreliable
+2018,Kansas,20,"Butler County, KS",20015,White,Hispanic or Latino,11.0,2867.0,Unreliable,Unreliable
+2018,Kansas,20,"Butler County, KS",20015,White,Not Hispanic or Latino,630.0,59087.0,1066.2,848.5
+2018,Kansas,20,"Butler County, KS",20015,More than one race,Not Hispanic or Latino,21.0,1513.0,1388.0,3152.0
+2018,Kansas,20,"Chase County, KS",20017,White,Not Hispanic or Latino,42.0,2393.0,1755.1,944.7
+2018,Kansas,20,"Chautauqua County, KS",20019,White,Not Hispanic or Latino,54.0,2835.0,1904.8,971.6
+2018,Kansas,20,"Cherokee County, KS",20021,White,Not Hispanic or Latino,278.0,17547.0,1584.3,1111.0
+2018,Kansas,20,"Cheyenne County, KS",20023,White,Not Hispanic or Latino,41.0,2399.0,1709.0,723.4
+2018,Kansas,20,"Clark County, KS",20025,White,Not Hispanic or Latino,28.0,1685.0,1661.7,746.2
+2018,Kansas,20,"Clay County, KS",20027,White,Not Hispanic or Latino,110.0,7511.0,1464.5,825.8
+2018,Kansas,20,"Cloud County, KS",20029,White,Not Hispanic or Latino,148.0,8089.0,1829.6,1045.6
+2018,Kansas,20,"Coffey County, KS",20031,White,Not Hispanic or Latino,100.0,7657.0,1306.0,810.0
+2018,Kansas,20,"Comanche County, KS",20033,White,Not Hispanic or Latino,26.0,1553.0,1674.2,920.8
+2018,Kansas,20,"Cowley County, KS",20035,Black or African American,Not Hispanic or Latino,11.0,935.0,Unreliable,Unreliable
+2018,Kansas,20,"Cowley County, KS",20035,White,Not Hispanic or Latino,393.0,27890.0,1409.1,914.6
+2018,Kansas,20,"Cowley County, KS",20035,More than one race,Not Hispanic or Latino,19.0,1093.0,Unreliable,Unreliable
+2018,Kansas,20,"Crawford County, KS",20037,White,Not Hispanic or Latino,412.0,33717.0,1221.9,924.0
+2018,Kansas,20,"Decatur County, KS",20039,White,Not Hispanic or Latino,47.0,2693.0,1745.3,881.5
+2018,Kansas,20,"Dickinson County, KS",20041,White,Not Hispanic or Latino,215.0,16942.0,1269.0,745.8
+2018,Kansas,20,"Doniphan County, KS",20043,White,Not Hispanic or Latino,92.0,6931.0,1327.4,864.3
+2018,Kansas,20,"Douglas County, KS",20045,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2670.0,Unreliable,Unreliable
+2018,Kansas,20,"Douglas County, KS",20045,Black or African American,Not Hispanic or Latino,34.0,5323.0,638.7,1057.2
+2018,Kansas,20,"Douglas County, KS",20045,White,Hispanic or Latino,13.0,6172.0,Unreliable,Unreliable
+2018,Kansas,20,"Douglas County, KS",20045,White,Not Hispanic or Latino,722.0,95116.0,759.1,708.7
+2018,Kansas,20,"Douglas County, KS",20045,More than one race,Not Hispanic or Latino,11.0,4497.0,Unreliable,Unreliable
+2018,Kansas,20,"Edwards County, KS",20047,White,Not Hispanic or Latino,40.0,2165.0,1847.6,1334.5
+2018,Kansas,20,"Elk County, KS",20049,White,Not Hispanic or Latino,46.0,2251.0,2043.5,1050.6
+2018,Kansas,20,"Ellis County, KS",20051,White,Not Hispanic or Latino,232.0,25649.0,904.5,703.1
+2018,Kansas,20,"Ellsworth County, KS",20053,White,Not Hispanic or Latino,76.0,5317.0,1429.4,791.3
+2018,Kansas,20,"Finney County, KS",20055,White,Hispanic or Latino,54.0,17599.0,306.8,613.7
+2018,Kansas,20,"Finney County, KS",20055,White,Not Hispanic or Latino,159.0,14786.0,1075.3,754.0
+2018,Kansas,20,"Ford County, KS",20057,White,Hispanic or Latino,41.0,17923.0,228.8,604.8
+2018,Kansas,20,"Ford County, KS",20057,White,Not Hispanic or Latino,191.0,13325.0,1433.4,800.3
+2018,Kansas,20,"Franklin County, KS",20059,White,Not Hispanic or Latino,251.0,23331.0,1075.8,828.3
+2018,Kansas,20,"Geary County, KS",20061,Black or African American,Not Hispanic or Latino,33.0,5606.0,588.7,957.0
+2018,Kansas,20,"Geary County, KS",20061,White,Hispanic or Latino,11.0,4251.0,Unreliable,Unreliable
+2018,Kansas,20,"Geary County, KS",20061,White,Not Hispanic or Latino,141.0,18272.0,771.7,915.0
+2018,Kansas,20,"Gove County, KS",20063,White,Not Hispanic or Latino,23.0,2470.0,931.2,453.5
+2018,Kansas,20,"Graham County, KS",20065,White,Not Hispanic or Latino,33.0,2189.0,1507.5,731.8
+2018,Kansas,20,"Grant County, KS",20067,White,Hispanic or Latino,16.0,3243.0,Unreliable,Unreliable
+2018,Kansas,20,"Grant County, KS",20067,White,Not Hispanic or Latino,45.0,3643.0,1235.2,800.1
+2018,Kansas,20,"Gray County, KS",20069,White,Not Hispanic or Latino,49.0,4897.0,1000.6,706.4
+2018,Kansas,20,"Greeley County, KS",20071,White,Not Hispanic or Latino,18.0,963.0,Unreliable,Unreliable
+2018,Kansas,20,"Greenwood County, KS",20073,White,Not Hispanic or Latino,80.0,5535.0,1445.3,772.5
+2018,Kansas,20,"Hamilton County, KS",20075,White,Not Hispanic or Latino,20.0,1583.0,1263.4,959.2
+2018,Kansas,20,"Harper County, KS",20077,White,Not Hispanic or Latino,90.0,4935.0,1823.7,1035.7
+2018,Kansas,20,"Harvey County, KS",20079,White,Hispanic or Latino,20.0,3779.0,529.2,751.1
+2018,Kansas,20,"Harvey County, KS",20079,White,Not Hispanic or Latino,400.0,28222.0,1417.3,813.2
+2018,Kansas,20,"Haskell County, KS",20081,White,Not Hispanic or Latino,26.0,2632.0,987.8,741.7
+2018,Kansas,20,"Hodgeman County, KS",20083,White,Not Hispanic or Latino,23.0,1585.0,1451.1,691.2
+2018,Kansas,20,"Jackson County, KS",20085,American Indian or Alaska Native,Not Hispanic or Latino,11.0,932.0,Unreliable,Unreliable
+2018,Kansas,20,"Jackson County, KS",20085,White,Not Hispanic or Latino,127.0,11132.0,1140.9,777.0
+2018,Kansas,20,"Jefferson County, KS",20087,White,Not Hispanic or Latino,162.0,17723.0,914.1,664.4
+2018,Kansas,20,"Jewell County, KS",20089,White,Not Hispanic or Latino,52.0,2699.0,1926.6,989.5
+2018,Kansas,20,"Johnson County, KS",20091,Asian,Not Hispanic or Latino,59.0,30748.0,191.9,378.7
+2018,Kansas,20,"Johnson County, KS",20091,Black or African American,Not Hispanic or Latino,139.0,28346.0,490.4,897.8
+2018,Kansas,20,"Johnson County, KS",20091,White,Hispanic or Latino,84.0,42559.0,197.4,457.8
+2018,Kansas,20,"Johnson County, KS",20091,White,Not Hispanic or Latino,3784.0,476419.0,794.3,617.2
+2018,Kansas,20,"Johnson County, KS",20091,More than one race,Not Hispanic or Latino,39.0,13793.0,282.8,1360.3
+2018,Kansas,20,"Kearny County, KS",20093,White,Not Hispanic or Latino,24.0,2488.0,964.6,615.4
+2018,Kansas,20,"Kingman County, KS",20095,Black or African American,Not Hispanic or Latino,26.0,31.0,83871.0,51898.7
+2018,Kansas,20,"Kingman County, KS",20095,White,Not Hispanic or Latino,170.0,6780.0,2507.4,1471.3
+2018,Kansas,20,"Kiowa County, KS",20097,White,Not Hispanic or Latino,39.0,2229.0,1749.7,1067.6
+2018,Kansas,20,"Labette County, KS",20099,White,Not Hispanic or Latino,235.0,17048.0,1378.5,899.2
+2018,Kansas,20,"Lane County, KS",20101,White,Not Hispanic or Latino,30.0,1367.0,2194.6,1069.5
+2018,Kansas,20,"Leavenworth County, KS",20103,Black or African American,Not Hispanic or Latino,48.0,7162.0,670.2,946.9
+2018,Kansas,20,"Leavenworth County, KS",20103,White,Not Hispanic or Latino,566.0,64236.0,881.1,723.8
+2018,Kansas,20,"Leavenworth County, KS",20103,More than one race,Not Hispanic or Latino,11.0,2401.0,Unreliable,Unreliable
+2018,Kansas,20,"Lincoln County, KS",20105,White,Not Hispanic or Latino,32.0,2825.0,1132.7,612.7
+2018,Kansas,20,"Linn County, KS",20107,White,Not Hispanic or Latino,119.0,9096.0,1308.3,827.7
+2018,Kansas,20,"Logan County, KS",20109,White,Not Hispanic or Latino,39.0,2571.0,1516.9,858.2
+2018,Kansas,20,"Lyon County, KS",20111,White,Hispanic or Latino,18.0,6478.0,Unreliable,Unreliable
+2018,Kansas,20,"Lyon County, KS",20111,White,Not Hispanic or Latino,275.0,23616.0,1164.5,808.7
+2018,Kansas,20,"McPherson County, KS",20113,White,Not Hispanic or Latino,355.0,26144.0,1357.9,767.5
+2018,Kansas,20,"Marion County, KS",20115,White,Not Hispanic or Latino,154.0,11037.0,1395.3,733.7
+2018,Kansas,20,"Marshall County, KS",20117,White,Not Hispanic or Latino,144.0,9186.0,1567.6,894.9
+2018,Kansas,20,"Meade County, KS",20119,White,Not Hispanic or Latino,53.0,3241.0,1635.3,939.3
+2018,Kansas,20,"Miami County, KS",20121,White,Not Hispanic or Latino,266.0,31147.0,854.0,644.5
+2018,Kansas,20,"Mitchell County, KS",20123,White,Not Hispanic or Latino,93.0,5805.0,1602.1,786.6
+2018,Kansas,20,"Montgomery County, KS",20125,Black or African American,Not Hispanic or Latino,17.0,1627.0,Unreliable,Unreliable
+2018,Kansas,20,"Montgomery County, KS",20125,White,Not Hispanic or Latino,425.0,25469.0,1668.7,1005.0
+2018,Kansas,20,"Morris County, KS",20127,White,Not Hispanic or Latino,70.0,5044.0,1387.8,717.1
+2018,Kansas,20,"Morton County, KS",20129,White,Not Hispanic or Latino,33.0,1890.0,1746.0,969.0
+2018,Kansas,20,"Nemaha County, KS",20131,White,Not Hispanic or Latino,137.0,9643.0,1420.7,721.3
+2018,Kansas,20,"Neosho County, KS",20133,White,Not Hispanic or Latino,216.0,14347.0,1505.5,979.3
+2018,Kansas,20,"Ness County, KS",20135,White,Not Hispanic or Latino,42.0,2488.0,1688.1,735.1
+2018,Kansas,20,"Norton County, KS",20137,White,Not Hispanic or Latino,57.0,4814.0,1184.0,661.4
+2018,Kansas,20,"Osage County, KS",20139,White,Not Hispanic or Latino,172.0,14832.0,1159.7,751.4
+2018,Kansas,20,"Osborne County, KS",20141,White,Not Hispanic or Latino,48.0,3283.0,1462.1,620.3
+2018,Kansas,20,"Ottawa County, KS",20143,White,Not Hispanic or Latino,51.0,5438.0,937.8,645.5
+2018,Kansas,20,"Pawnee County, KS",20145,White,Not Hispanic or Latino,92.0,5500.0,1672.7,1001.7
+2018,Kansas,20,"Phillips County, KS",20147,White,Not Hispanic or Latino,76.0,4984.0,1524.9,840.6
+2018,Kansas,20,"Pottawatomie County, KS",20149,White,Not Hispanic or Latino,171.0,21833.0,783.2,642.4
+2018,Kansas,20,"Pratt County, KS",20151,White,Not Hispanic or Latino,125.0,8253.0,1514.6,896.6
+2018,Kansas,20,"Rawlins County, KS",20153,White,Not Hispanic or Latino,44.0,2242.0,1962.5,824.9
+2018,Kansas,20,"Reno County, KS",20155,Black or African American,Not Hispanic or Latino,11.0,1893.0,Unreliable,Unreliable
+2018,Kansas,20,"Reno County, KS",20155,White,Hispanic or Latino,18.0,5402.0,Unreliable,Unreliable
+2018,Kansas,20,"Reno County, KS",20155,White,Not Hispanic or Latino,650.0,52384.0,1240.8,734.2
+2018,Kansas,20,"Reno County, KS",20155,More than one race,Not Hispanic or Latino,20.0,1297.0,1542.0,4393.4
+2018,Kansas,20,"Republic County, KS",20157,White,Not Hispanic or Latino,77.0,4429.0,1738.5,733.1
+2018,Kansas,20,"Rice County, KS",20159,White,Not Hispanic or Latino,120.0,7944.0,1510.6,890.9
+2018,Kansas,20,"Riley County, KS",20161,White,Not Hispanic or Latino,376.0,56380.0,666.9,711.5
+2018,Kansas,20,"Rooks County, KS",20163,White,Not Hispanic or Latino,71.0,4708.0,1508.1,833.5
+2018,Kansas,20,"Rush County, KS",20165,White,Not Hispanic or Latino,66.0,2870.0,2299.7,1012.2
+2018,Kansas,20,"Russell County, KS",20167,White,Not Hispanic or Latino,105.0,6334.0,1657.7,942.0
+2018,Kansas,20,"Saline County, KS",20169,Black or African American,Not Hispanic or Latino,14.0,1753.0,Unreliable,Unreliable
+2018,Kansas,20,"Saline County, KS",20169,White,Hispanic or Latino,15.0,5498.0,Unreliable,Unreliable
+2018,Kansas,20,"Saline County, KS",20169,White,Not Hispanic or Latino,513.0,43554.0,1177.8,755.4
+2018,Kansas,20,"Scott County, KS",20171,White,Not Hispanic or Latino,51.0,3825.0,1333.3,717.1
+2018,Kansas,20,"Sedgwick County, KS",20173,American Indian or Alaska Native,Not Hispanic or Latino,38.0,4130.0,920.1,2049.9
+2018,Kansas,20,"Sedgwick County, KS",20173,Asian,Not Hispanic or Latino,64.0,22737.0,281.5,371.8
+2018,Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Hispanic or Latino,437.0,44863.0,974.1,1100.2
+2018,Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2018,Kansas,20,"Sedgwick County, KS",20173,White,Hispanic or Latino,193.0,67459.0,286.1,580.1
+2018,Kansas,20,"Sedgwick County, KS",20173,White,Not Hispanic or Latino,3704.0,348438.0,1063.0,792.8
+2018,Kansas,20,"Sedgwick County, KS",20173,White,Not Stated,55.0,Not Applicable,Not Applicable,Not Applicable
+2018,Kansas,20,"Sedgwick County, KS",20173,More than one race,Not Hispanic or Latino,60.0,16565.0,362.2,2173.3
+2018,Kansas,20,"Seward County, KS",20175,White,Hispanic or Latino,21.0,12793.0,164.2,375.5
+2018,Kansas,20,"Seward County, KS",20175,White,Not Hispanic or Latino,105.0,6413.0,1637.3,911.9
+2018,Kansas,20,"Shawnee County, KS",20177,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1598.0,Unreliable,Unreliable
+2018,Kansas,20,"Shawnee County, KS",20177,Black or African American,Not Hispanic or Latino,173.0,13753.0,1257.9,1304.2
+2018,Kansas,20,"Shawnee County, KS",20177,White,Hispanic or Latino,91.0,18636.0,488.3,658.9
+2018,Kansas,20,"Shawnee County, KS",20177,White,Not Hispanic or Latino,1722.0,130825.0,1316.3,832.0
+2018,Kansas,20,"Shawnee County, KS",20177,More than one race,Not Hispanic or Latino,27.0,6085.0,443.7,1248.3
+2018,Kansas,20,"Sheridan County, KS",20179,White,Not Hispanic or Latino,31.0,2340.0,1324.8,564.4
+2018,Kansas,20,"Sherman County, KS",20181,White,Not Hispanic or Latino,64.0,4960.0,1290.3,784.2
+2018,Kansas,20,"Smith County, KS",20183,White,Not Hispanic or Latino,53.0,3410.0,1554.3,623.9
+2018,Kansas,20,"Stafford County, KS",20185,White,Not Hispanic or Latino,61.0,3485.0,1750.4,812.8
+2018,Kansas,20,"Stanton County, KS",20187,White,Not Hispanic or Latino,23.0,1180.0,1949.2,980.8
+2018,Kansas,20,"Stevens County, KS",20189,White,Not Hispanic or Latino,36.0,3330.0,1081.1,663.4
+2018,Kansas,20,"Sumner County, KS",20191,White,Not Hispanic or Latino,270.0,20560.0,1313.2,889.9
+2018,Kansas,20,"Thomas County, KS",20193,White,Not Hispanic or Latino,88.0,6896.0,1276.1,922.2
+2018,Kansas,20,"Trego County, KS",20195,White,Not Hispanic or Latino,41.0,2642.0,1551.9,767.3
+2018,Kansas,20,"Wabaunsee County, KS",20197,White,Not Hispanic or Latino,76.0,6321.0,1202.3,804.1
+2018,Kansas,20,"Wallace County, KS",20199,White,Not Hispanic or Latino,17.0,1329.0,Unreliable,Unreliable
+2018,Kansas,20,"Washington County, KS",20201,White,Not Hispanic or Latino,77.0,5080.0,1515.7,746.4
+2018,Kansas,20,"Wichita County, KS",20203,White,Not Hispanic or Latino,23.0,1422.0,1617.4,844.2
+2018,Kansas,20,"Wilson County, KS",20205,White,Not Hispanic or Latino,118.0,7942.0,1485.8,948.0
+2018,Kansas,20,"Woodson County, KS",20207,White,Not Hispanic or Latino,51.0,2955.0,1725.9,942.2
+2018,Kansas,20,"Wyandotte County, KS",20209,Asian,Not Hispanic or Latino,18.0,8471.0,Unreliable,Unreliable
+2018,Kansas,20,"Wyandotte County, KS",20209,Black or African American,Not Hispanic or Latino,414.0,36212.0,1143.3,1040.1
+2018,Kansas,20,"Wyandotte County, KS",20209,White,Hispanic or Latino,111.0,43520.0,255.1,479.6
+2018,Kansas,20,"Wyandotte County, KS",20209,White,Not Hispanic or Latino,843.0,67014.0,1257.9,926.3
+2018,Kansas,20,"Wyandotte County, KS",20209,More than one race,Not Hispanic or Latino,25.0,3999.0,625.2,1529.8
+2019,Kansas,20,"Allen County, KS",20001,White,Not Hispanic or Latino,164.0,11071.0,1481.3,898.3
+2019,Kansas,20,"Anderson County, KS",20003,White,Not Hispanic or Latino,97.0,7398.0,1311.2,791.7
+2019,Kansas,20,"Atchison County, KS",20005,White,Not Hispanic or Latino,145.0,14176.0,1022.9,723.5
+2019,Kansas,20,"Barber County, KS",20007,White,Not Hispanic or Latino,59.0,4041.0,1460.0,837.4
+2019,Kansas,20,"Barton County, KS",20009,White,Hispanic or Latino,10.0,3595.0,Unreliable,Unreliable
+2019,Kansas,20,"Barton County, KS",20009,White,Not Hispanic or Latino,277.0,20879.0,1326.7,761.6
+2019,Kansas,20,"Bourbon County, KS",20011,White,Not Hispanic or Latino,161.0,13031.0,1235.5,789.0
+2019,Kansas,20,"Brown County, KS",20013,American Indian or Alaska Native,Not Hispanic or Latino,12.0,763.0,Unreliable,Unreliable
+2019,Kansas,20,"Brown County, KS",20013,White,Not Hispanic or Latino,128.0,7859.0,1628.7,985.7
+2019,Kansas,20,"Butler County, KS",20015,American Indian or Alaska Native,Not Hispanic or Latino,13.0,557.0,Unreliable,Unreliable
+2019,Kansas,20,"Butler County, KS",20015,White,Not Hispanic or Latino,614.0,58998.0,1040.7,799.8
+2019,Kansas,20,"Butler County, KS",20015,More than one race,Not Hispanic or Latino,11.0,1567.0,Unreliable,Unreliable
+2019,Kansas,20,"Chase County, KS",20017,White,Not Hispanic or Latino,24.0,2418.0,992.6,486.2
+2019,Kansas,20,"Chautauqua County, KS",20019,White,Not Hispanic or Latino,46.0,2784.0,1652.3,774.6
+2019,Kansas,20,"Cherokee County, KS",20021,White,Not Hispanic or Latino,309.0,17440.0,1771.8,1205.0
+2019,Kansas,20,"Cheyenne County, KS",20023,White,Not Hispanic or Latino,40.0,2396.0,1669.4,872.9
+2019,Kansas,20,"Clark County, KS",20025,White,Not Hispanic or Latino,30.0,1667.0,1799.6,1002.2
+2019,Kansas,20,"Clay County, KS",20027,White,Not Hispanic or Latino,88.0,7472.0,1177.7,640.1
+2019,Kansas,20,"Cloud County, KS",20029,White,Not Hispanic or Latino,133.0,8123.0,1637.3,923.6
+2019,Kansas,20,"Coffey County, KS",20031,White,Not Hispanic or Latino,109.0,7605.0,1433.3,918.9
+2019,Kansas,20,"Comanche County, KS",20033,White,Not Hispanic or Latino,31.0,1512.0,2050.3,1129.4
+2019,Kansas,20,"Cowley County, KS",20035,White,Hispanic or Latino,11.0,3381.0,Unreliable,Unreliable
+2019,Kansas,20,"Cowley County, KS",20035,White,Not Hispanic or Latino,434.0,27649.0,1569.7,975.3
+2019,Kansas,20,"Cowley County, KS",20035,More than one race,Not Hispanic or Latino,17.0,1060.0,Unreliable,Unreliable
+2019,Kansas,20,"Crawford County, KS",20037,White,Not Hispanic or Latino,420.0,33393.0,1257.7,963.0
+2019,Kansas,20,"Decatur County, KS",20039,White,Not Hispanic or Latino,53.0,2642.0,2006.1,740.1
+2019,Kansas,20,"Dickinson County, KS",20041,White,Not Hispanic or Latino,232.0,16701.0,1389.1,819.8
+2019,Kansas,20,"Doniphan County, KS",20043,White,Not Hispanic or Latino,84.0,6857.0,1225.0,828.4
+2019,Kansas,20,"Douglas County, KS",20045,American Indian or Alaska Native,Not Hispanic or Latino,14.0,2665.0,Unreliable,Unreliable
+2019,Kansas,20,"Douglas County, KS",20045,Black or African American,Not Hispanic or Latino,24.0,5355.0,448.2,760.7
+2019,Kansas,20,"Douglas County, KS",20045,White,Hispanic or Latino,13.0,6363.0,Unreliable,Unreliable
+2019,Kansas,20,"Douglas County, KS",20045,White,Not Hispanic or Latino,640.0,95541.0,669.9,614.2
+2019,Kansas,20,"Edwards County, KS",20047,White,Not Hispanic or Latino,49.0,2099.0,2334.4,1359.7
+2019,Kansas,20,"Elk County, KS",20049,White,Not Hispanic or Latino,32.0,2263.0,1414.1,747.9
+2019,Kansas,20,"Ellis County, KS",20051,White,Not Hispanic or Latino,220.0,25452.0,864.4,619.4
+2019,Kansas,20,"Ellsworth County, KS",20053,White,Not Hispanic or Latino,57.0,5222.0,1091.5,616.0
+2019,Kansas,20,"Finney County, KS",20055,White,Hispanic or Latino,64.0,17618.0,363.3,705.6
+2019,Kansas,20,"Finney County, KS",20055,White,Not Hispanic or Latino,174.0,14611.0,1190.9,861.0
+2019,Kansas,20,"Ford County, KS",20057,White,Hispanic or Latino,36.0,17936.0,200.7,445.1
+2019,Kansas,20,"Ford County, KS",20057,White,Not Hispanic or Latino,217.0,13068.0,1660.5,962.6
+2019,Kansas,20,"Franklin County, KS",20059,White,Not Hispanic or Latino,265.0,23227.0,1140.9,912.1
+2019,Kansas,20,"Geary County, KS",20061,Asian,Not Hispanic or Latino,10.0,963.0,Unreliable,Unreliable
+2019,Kansas,20,"Geary County, KS",20061,Black or African American,Not Hispanic or Latino,36.0,5317.0,677.1,1124.3
+2019,Kansas,20,"Geary County, KS",20061,White,Hispanic or Latino,13.0,4070.0,Unreliable,Unreliable
+2019,Kansas,20,"Geary County, KS",20061,White,Not Hispanic or Latino,155.0,17937.0,864.1,1026.3
+2019,Kansas,20,"Gove County, KS",20063,White,Not Hispanic or Latino,36.0,2485.0,1448.7,668.4
+2019,Kansas,20,"Graham County, KS",20065,White,Not Hispanic or Latino,28.0,2178.0,1285.6,582.1
+2019,Kansas,20,"Grant County, KS",20067,White,Hispanic or Latino,19.0,3193.0,Unreliable,Unreliable
+2019,Kansas,20,"Grant County, KS",20067,White,Not Hispanic or Latino,43.0,3501.0,1228.2,748.7
+2019,Kansas,20,"Gray County, KS",20069,White,Not Hispanic or Latino,55.0,4877.0,1127.7,735.4
+2019,Kansas,20,"Greeley County, KS",20071,White,Not Hispanic or Latino,20.0,968.0,2066.1,1181.5
+2019,Kansas,20,"Greenwood County, KS",20073,White,Not Hispanic or Latino,89.0,5454.0,1631.8,879.7
+2019,Kansas,20,"Hamilton County, KS",20075,White,Not Hispanic or Latino,23.0,1518.0,1515.2,1036.6
+2019,Kansas,20,"Harper County, KS",20077,White,Not Hispanic or Latino,95.0,4874.0,1949.1,1057.9
+2019,Kansas,20,"Harvey County, KS",20079,Black or African American,Not Hispanic or Latino,11.0,552.0,Unreliable,Unreliable
+2019,Kansas,20,"Harvey County, KS",20079,White,Hispanic or Latino,15.0,3832.0,Unreliable,Unreliable
+2019,Kansas,20,"Harvey County, KS",20079,White,Not Hispanic or Latino,384.0,28375.0,1353.3,743.0
+2019,Kansas,20,"Haskell County, KS",20081,White,Not Hispanic or Latino,25.0,2616.0,955.7,779.0
+2019,Kansas,20,"Hodgeman County, KS",20083,White,Not Hispanic or Latino,33.0,1536.0,2148.4,1295.4
+2019,Kansas,20,"Jackson County, KS",20085,White,Not Hispanic or Latino,115.0,10985.0,1046.9,701.3
+2019,Kansas,20,"Jefferson County, KS",20087,White,Not Hispanic or Latino,175.0,17767.0,985.0,670.8
+2019,Kansas,20,"Jewell County, KS",20089,White,Not Hispanic or Latino,30.0,2733.0,1097.7,440.0
+2019,Kansas,20,"Johnson County, KS",20091,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1676.0,Unreliable,Unreliable
+2019,Kansas,20,"Johnson County, KS",20091,Asian,Not Hispanic or Latino,69.0,32008.0,215.6,397.3
+2019,Kansas,20,"Johnson County, KS",20091,Black or African American,Not Hispanic or Latino,138.0,28596.0,482.6,861.7
+2019,Kansas,20,"Johnson County, KS",20091,White,Hispanic or Latino,108.0,43830.0,246.4,549.9
+2019,Kansas,20,"Johnson County, KS",20091,White,Not Hispanic or Latino,3977.0,478067.0,831.9,636.1
+2019,Kansas,20,"Johnson County, KS",20091,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2019,Kansas,20,"Johnson County, KS",20091,More than one race,Not Hispanic or Latino,43.0,14162.0,303.6,1705.2
+2019,Kansas,20,"Kearny County, KS",20093,White,Not Hispanic or Latino,30.0,2416.0,1241.7,773.6
+2019,Kansas,20,"Kingman County, KS",20095,Black or African American,Not Hispanic or Latino,11.0,28.0,Unreliable,Unreliable
+2019,Kansas,20,"Kingman County, KS",20095,White,Not Hispanic or Latino,121.0,6631.0,1824.8,1079.9
+2019,Kansas,20,"Kiowa County, KS",20097,White,Not Hispanic or Latino,30.0,2193.0,1368.0,846.7
+2019,Kansas,20,"Labette County, KS",20099,White,Hispanic or Latino,10.0,711.0,Unreliable,Unreliable
+2019,Kansas,20,"Labette County, KS",20099,White,Not Hispanic or Latino,271.0,16681.0,1624.6,1061.6
+2019,Kansas,20,"Lane County, KS",20101,White,Not Hispanic or Latino,26.0,1329.0,1956.4,1198.8
+2019,Kansas,20,"Leavenworth County, KS",20103,Black or African American,Not Hispanic or Latino,52.0,7140.0,728.3,1054.3
+2019,Kansas,20,"Leavenworth County, KS",20103,White,Hispanic or Latino,13.0,4923.0,Unreliable,Unreliable
+2019,Kansas,20,"Leavenworth County, KS",20103,White,Not Hispanic or Latino,588.0,64369.0,913.5,734.8
+2019,Kansas,20,"Lincoln County, KS",20105,White,Not Hispanic or Latino,38.0,2767.0,1373.3,648.3
+2019,Kansas,20,"Linn County, KS",20107,White,Not Hispanic or Latino,109.0,9026.0,1207.6,767.0
+2019,Kansas,20,"Logan County, KS",20109,White,Not Hispanic or Latino,27.0,2506.0,1077.4,735.0
+2019,Kansas,20,"Lyon County, KS",20111,White,Hispanic or Latino,18.0,6532.0,Unreliable,Unreliable
+2019,Kansas,20,"Lyon County, KS",20111,White,Not Hispanic or Latino,259.0,23404.0,1106.6,753.4
+2019,Kansas,20,"McPherson County, KS",20113,White,Not Hispanic or Latino,366.0,26043.0,1405.4,792.0
+2019,Kansas,20,"Marion County, KS",20115,White,Not Hispanic or Latino,167.0,10935.0,1527.2,766.5
+2019,Kansas,20,"Marshall County, KS",20117,White,Not Hispanic or Latino,142.0,9152.0,1551.6,806.3
+2019,Kansas,20,"Meade County, KS",20119,White,Not Hispanic or Latino,34.0,3115.0,1091.5,712.2
+2019,Kansas,20,"Miami County, KS",20121,White,Not Hispanic or Latino,279.0,31572.0,883.7,657.5
+2019,Kansas,20,"Mitchell County, KS",20123,White,Not Hispanic or Latino,91.0,5641.0,1613.2,815.6
+2019,Kansas,20,"Montgomery County, KS",20125,Black or African American,Not Hispanic or Latino,23.0,1600.0,1437.5,1385.3
+2019,Kansas,20,"Montgomery County, KS",20125,White,Not Hispanic or Latino,360.0,25048.0,1437.2,894.7
+2019,Kansas,20,"Morris County, KS",20127,White,Not Hispanic or Latino,75.0,5132.0,1461.4,756.3
+2019,Kansas,20,"Morton County, KS",20129,White,Not Hispanic or Latino,47.0,1851.0,2539.2,1344.0
+2019,Kansas,20,"Nemaha County, KS",20131,White,Not Hispanic or Latino,143.0,9703.0,1473.8,728.4
+2019,Kansas,20,"Neosho County, KS",20133,White,Not Hispanic or Latino,195.0,14262.0,1367.3,862.0
+2019,Kansas,20,"Ness County, KS",20135,White,Not Hispanic or Latino,48.0,2398.0,2001.7,829.7
+2019,Kansas,20,"Norton County, KS",20137,White,Not Hispanic or Latino,80.0,4736.0,1689.2,936.2
+2019,Kansas,20,"Osage County, KS",20139,White,Not Hispanic or Latino,178.0,14842.0,1199.3,747.4
+2019,Kansas,20,"Osborne County, KS",20141,White,Not Hispanic or Latino,48.0,3217.0,1492.1,690.6
+2019,Kansas,20,"Ottawa County, KS",20143,White,Not Hispanic or Latino,71.0,5359.0,1324.9,884.0
+2019,Kansas,20,"Pawnee County, KS",20145,White,Not Hispanic or Latino,70.0,5399.0,1296.5,705.9
+2019,Kansas,20,"Phillips County, KS",20147,White,Not Hispanic or Latino,80.0,4906.0,1630.7,888.8
+2019,Kansas,20,"Pottawatomie County, KS",20149,White,Not Hispanic or Latino,160.0,21943.0,729.2,612.4
+2019,Kansas,20,"Pratt County, KS",20151,White,Not Hispanic or Latino,114.0,8050.0,1416.1,786.5
+2019,Kansas,20,"Rawlins County, KS",20153,White,Not Hispanic or Latino,39.0,2244.0,1738.0,770.4
+2019,Kansas,20,"Reno County, KS",20155,Black or African American,Not Hispanic or Latino,11.0,1902.0,Unreliable,Unreliable
+2019,Kansas,20,"Reno County, KS",20155,White,Hispanic or Latino,25.0,5397.0,463.2,696.7
+2019,Kansas,20,"Reno County, KS",20155,White,Not Hispanic or Latino,687.0,52016.0,1320.7,789.5
+2019,Kansas,20,"Reno County, KS",20155,More than one race,Not Hispanic or Latino,13.0,1301.0,Unreliable,Unreliable
+2019,Kansas,20,"Republic County, KS",20157,White,Not Hispanic or Latino,79.0,4388.0,1800.4,842.7
+2019,Kansas,20,"Rice County, KS",20159,White,Not Hispanic or Latino,116.0,7887.0,1470.8,928.3
+2019,Kansas,20,"Riley County, KS",20161,Black or African American,Not Hispanic or Latino,16.0,4807.0,Unreliable,Unreliable
+2019,Kansas,20,"Riley County, KS",20161,White,Hispanic or Latino,10.0,5264.0,Unreliable,Unreliable
+2019,Kansas,20,"Riley County, KS",20161,White,Not Hispanic or Latino,351.0,56723.0,618.8,673.0
+2019,Kansas,20,"Rooks County, KS",20163,White,Not Hispanic or Latino,74.0,4631.0,1597.9,788.7
+2019,Kansas,20,"Rush County, KS",20165,White,Not Hispanic or Latino,57.0,2812.0,2027.0,897.0
+2019,Kansas,20,"Russell County, KS",20167,White,Not Hispanic or Latino,98.0,6273.0,1562.3,818.1
+2019,Kansas,20,"Saline County, KS",20169,Black or African American,Not Hispanic or Latino,13.0,1745.0,Unreliable,Unreliable
+2019,Kansas,20,"Saline County, KS",20169,White,Hispanic or Latino,17.0,5692.0,Unreliable,Unreliable
+2019,Kansas,20,"Saline County, KS",20169,White,Not Hispanic or Latino,548.0,43172.0,1269.3,805.4
+2019,Kansas,20,"Scott County, KS",20171,White,Not Hispanic or Latino,56.0,3772.0,1484.6,802.3
+2019,Kansas,20,"Sedgwick County, KS",20173,American Indian or Alaska Native,Not Hispanic or Latino,40.0,4168.0,959.7,4424.2
+2019,Kansas,20,"Sedgwick County, KS",20173,Asian,Not Hispanic or Latino,68.0,23001.0,295.6,369.0
+2019,Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Hispanic or Latino,391.0,45184.0,865.4,949.6
+2019,Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Stated,51.0,Not Applicable,Not Applicable,Not Applicable
+2019,Kansas,20,"Sedgwick County, KS",20173,White,Hispanic or Latino,192.0,68522.0,280.2,507.0
+2019,Kansas,20,"Sedgwick County, KS",20173,White,Not Hispanic or Latino,3809.0,348794.0,1092.0,801.6
+2019,Kansas,20,"Sedgwick County, KS",20173,White,Not Stated,67.0,Not Applicable,Not Applicable,Not Applicable
+2019,Kansas,20,"Sedgwick County, KS",20173,More than one race,Not Hispanic or Latino,57.0,16897.0,337.3,2494.4
+2019,Kansas,20,"Seward County, KS",20175,White,Hispanic or Latino,24.0,12800.0,187.5,366.8
+2019,Kansas,20,"Seward County, KS",20175,White,Not Hispanic or Latino,98.0,6196.0,1581.7,908.8
+2019,Kansas,20,"Shawnee County, KS",20177,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1583.0,Unreliable,Unreliable
+2019,Kansas,20,"Shawnee County, KS",20177,Black or African American,Not Hispanic or Latino,139.0,13700.0,1014.6,1031.5
+2019,Kansas,20,"Shawnee County, KS",20177,White,Hispanic or Latino,81.0,18917.0,428.2,601.8
+2019,Kansas,20,"Shawnee County, KS",20177,White,Not Hispanic or Latino,1678.0,130007.0,1290.7,810.0
+2019,Kansas,20,"Shawnee County, KS",20177,More than one race,Not Hispanic or Latino,11.0,6105.0,Unreliable,Unreliable
+2019,Kansas,20,"Sheridan County, KS",20179,White,Not Hispanic or Latino,30.0,2324.0,1290.9,656.5
+2019,Kansas,20,"Sherman County, KS",20181,White,Not Hispanic or Latino,66.0,4968.0,1328.5,836.0
+2019,Kansas,20,"Smith County, KS",20183,White,Not Hispanic or Latino,55.0,3376.0,1629.1,666.0
+2019,Kansas,20,"Stafford County, KS",20185,White,Not Hispanic or Latino,61.0,3450.0,1768.1,933.6
+2019,Kansas,20,"Stanton County, KS",20187,White,Not Hispanic or Latino,17.0,1145.0,Unreliable,Unreliable
+2019,Kansas,20,"Stevens County, KS",20189,White,Not Hispanic or Latino,42.0,3250.0,1292.3,706.9
+2019,Kansas,20,"Sumner County, KS",20191,White,Not Hispanic or Latino,253.0,20373.0,1241.8,850.0
+2019,Kansas,20,"Thomas County, KS",20193,White,Not Hispanic or Latino,94.0,6910.0,1360.3,938.6
+2019,Kansas,20,"Trego County, KS",20195,White,Not Hispanic or Latino,38.0,2644.0,1437.2,761.4
+2019,Kansas,20,"Wabaunsee County, KS",20197,White,Not Hispanic or Latino,59.0,6335.0,931.3,642.1
+2019,Kansas,20,"Wallace County, KS",20199,White,Not Hispanic or Latino,13.0,1339.0,Unreliable,Unreliable
+2019,Kansas,20,"Washington County, KS",20201,White,Not Hispanic or Latino,60.0,5046.0,1189.1,589.3
+2019,Kansas,20,"Wichita County, KS",20203,White,Not Hispanic or Latino,14.0,1407.0,Unreliable,Unreliable
+2019,Kansas,20,"Wilson County, KS",20205,White,Not Hispanic or Latino,106.0,7801.0,1358.8,866.4
+2019,Kansas,20,"Woodson County, KS",20207,White,Not Hispanic or Latino,39.0,2893.0,1348.1,763.9
+2019,Kansas,20,"Wyandotte County, KS",20209,Asian,Not Hispanic or Latino,17.0,8688.0,Unreliable,Unreliable
+2019,Kansas,20,"Wyandotte County, KS",20209,Black or African American,Not Hispanic or Latino,398.0,35637.0,1116.8,1005.8
+2019,Kansas,20,"Wyandotte County, KS",20209,White,Hispanic or Latino,129.0,44470.0,290.1,580.0
+2019,Kansas,20,"Wyandotte County, KS",20209,White,Not Hispanic or Latino,902.0,66595.0,1354.5,978.2
+2019,Kansas,20,"Wyandotte County, KS",20209,More than one race,Not Hispanic or Latino,22.0,4037.0,545.0,1352.2
+2020,Kansas,20,"Allen County, KS",20001,White,Not Hispanic or Latino,140.0,11092.0,1262.2,767.8
+2020,Kansas,20,"Anderson County, KS",20003,White,Not Hispanic or Latino,102.0,7457.0,1367.8,859.3
+2020,Kansas,20,"Atchison County, KS",20005,Black or African American,Not Hispanic or Latino,11.0,733.0,Unreliable,Unreliable
+2020,Kansas,20,"Atchison County, KS",20005,White,Not Hispanic or Latino,164.0,14106.0,1162.6,839.0
+2020,Kansas,20,"Barber County, KS",20007,White,Not Hispanic or Latino,78.0,3957.0,1971.2,1137.3
+2020,Kansas,20,"Barton County, KS",20009,White,Hispanic or Latino,16.0,3585.0,Unreliable,Unreliable
+2020,Kansas,20,"Barton County, KS",20009,White,Not Hispanic or Latino,334.0,20678.0,1615.2,941.8
+2020,Kansas,20,"Bourbon County, KS",20011,White,Not Hispanic or Latino,193.0,12909.0,1495.1,1011.1
+2020,Kansas,20,"Brown County, KS",20013,American Indian or Alaska Native,Not Hispanic or Latino,14.0,718.0,Unreliable,Unreliable
+2020,Kansas,20,"Brown County, KS",20013,White,Not Hispanic or Latino,146.0,7773.0,1878.3,1181.1
+2020,Kansas,20,"Butler County, KS",20015,White,Hispanic or Latino,11.0,2968.0,Unreliable,Unreliable
+2020,Kansas,20,"Butler County, KS",20015,White,Not Hispanic or Latino,706.0,58891.0,1198.8,931.9
+2020,Kansas,20,"Butler County, KS",20015,More than one race,Not Hispanic or Latino,22.0,1655.0,1329.3,3704.3
+2020,Kansas,20,"Chase County, KS",20017,White,Not Hispanic or Latino,27.0,2329.0,1159.3,558.9
+2020,Kansas,20,"Chautauqua County, KS",20019,White,Not Hispanic or Latino,46.0,2714.0,1694.9,862.5
+2020,Kansas,20,"Cherokee County, KS",20021,White,Not Hispanic or Latino,309.0,17107.0,1806.3,1233.2
+2020,Kansas,20,"Cheyenne County, KS",20023,White,Not Hispanic or Latino,54.0,2342.0,2305.7,859.5
+2020,Kansas,20,"Clark County, KS",20025,White,Not Hispanic or Latino,35.0,1633.0,2143.3,1166.0
+2020,Kansas,20,"Clay County, KS",20027,White,Not Hispanic or Latino,112.0,7470.0,1499.3,808.0
+2020,Kansas,20,"Cloud County, KS",20029,White,Not Hispanic or Latino,147.0,7959.0,1847.0,1018.2
+2020,Kansas,20,"Coffey County, KS",20031,White,Not Hispanic or Latino,104.0,7559.0,1375.8,803.1
+2020,Kansas,20,"Comanche County, KS",20033,White,Not Hispanic or Latino,31.0,1505.0,2059.8,994.4
+2020,Kansas,20,"Cowley County, KS",20035,American Indian or Alaska Native,Not Hispanic or Latino,10.0,603.0,Unreliable,Unreliable
+2020,Kansas,20,"Cowley County, KS",20035,White,Hispanic or Latino,10.0,3382.0,Unreliable,Unreliable
+2020,Kansas,20,"Cowley County, KS",20035,White,Not Hispanic or Latino,436.0,27292.0,1597.5,989.4
+2020,Kansas,20,"Cowley County, KS",20035,More than one race,Not Hispanic or Latino,18.0,1067.0,Unreliable,Unreliable
+2020,Kansas,20,"Crawford County, KS",20037,Black or African American,Not Hispanic or Latino,11.0,809.0,Unreliable,Unreliable
+2020,Kansas,20,"Crawford County, KS",20037,White,Hispanic or Latino,12.0,2151.0,Unreliable,Unreliable
+2020,Kansas,20,"Crawford County, KS",20037,White,Not Hispanic or Latino,532.0,33209.0,1602.0,1222.3
+2020,Kansas,20,"Decatur County, KS",20039,White,Not Hispanic or Latino,45.0,2589.0,1738.1,805.8
+2020,Kansas,20,"Dickinson County, KS",20041,White,Not Hispanic or Latino,235.0,16461.0,1427.6,866.9
+2020,Kansas,20,"Doniphan County, KS",20043,White,Not Hispanic or Latino,99.0,6775.0,1461.3,930.7
+2020,Kansas,20,"Douglas County, KS",20045,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2578.0,775.8,1870.0
+2020,Kansas,20,"Douglas County, KS",20045,Asian,Not Hispanic or Latino,10.0,5824.0,Unreliable,Unreliable
+2020,Kansas,20,"Douglas County, KS",20045,Black or African American,Not Hispanic or Latino,44.0,5342.0,823.7,1207.4
+2020,Kansas,20,"Douglas County, KS",20045,White,Hispanic or Latino,18.0,6370.0,Unreliable,Unreliable
+2020,Kansas,20,"Douglas County, KS",20045,White,Not Hispanic or Latino,770.0,95890.0,803.0,732.2
+2020,Kansas,20,"Edwards County, KS",20047,White,Not Hispanic or Latino,68.0,2068.0,3288.2,2223.5
+2020,Kansas,20,"Elk County, KS",20049,White,Not Hispanic or Latino,42.0,2247.0,1869.2,839.6
+2020,Kansas,20,"Ellis County, KS",20051,White,Not Hispanic or Latino,293.0,25490.0,1149.5,845.8
+2020,Kansas,20,"Ellsworth County, KS",20053,White,Not Hispanic or Latino,99.0,5155.0,1920.5,1048.7
+2020,Kansas,20,"Finney County, KS",20055,White,Hispanic or Latino,84.0,17322.0,484.9,902.6
+2020,Kansas,20,"Finney County, KS",20055,White,Not Hispanic or Latino,223.0,14326.0,1556.6,1112.7
+2020,Kansas,20,"Ford County, KS",20057,White,Hispanic or Latino,70.0,17586.0,398.0,1049.6
+2020,Kansas,20,"Ford County, KS",20057,White,Not Hispanic or Latino,235.0,12779.0,1839.0,1061.1
+2020,Kansas,20,"Franklin County, KS",20059,White,Not Hispanic or Latino,293.0,23251.0,1260.2,957.8
+2020,Kansas,20,"Geary County, KS",20061,Black or African American,Not Hispanic or Latino,46.0,5306.0,866.9,1507.2
+2020,Kansas,20,"Geary County, KS",20061,White,Hispanic or Latino,13.0,4299.0,Unreliable,Unreliable
+2020,Kansas,20,"Geary County, KS",20061,White,Not Hispanic or Latino,169.0,18104.0,933.5,1091.7
+2020,Kansas,20,"Gove County, KS",20063,White,Not Hispanic or Latino,54.0,2452.0,2202.3,1058.4
+2020,Kansas,20,"Graham County, KS",20065,White,Not Hispanic or Latino,29.0,2087.0,1389.6,806.1
+2020,Kansas,20,"Grant County, KS",20067,White,Hispanic or Latino,22.0,3188.0,690.1,1152.7
+2020,Kansas,20,"Grant County, KS",20067,White,Not Hispanic or Latino,45.0,3420.0,1315.8,744.4
+2020,Kansas,20,"Gray County, KS",20069,White,Not Hispanic or Latino,59.0,4824.0,1223.1,818.6
+2020,Kansas,20,"Greeley County, KS",20071,White,Not Hispanic or Latino,26.0,922.0,2820.0,1389.3
+2020,Kansas,20,"Greenwood County, KS",20073,White,Not Hispanic or Latino,96.0,5369.0,1788.0,996.4
+2020,Kansas,20,"Hamilton County, KS",20075,White,Not Hispanic or Latino,20.0,1444.0,1385.0,874.8
+2020,Kansas,20,"Harper County, KS",20077,White,Not Hispanic or Latino,100.0,4765.0,2098.6,1118.5
+2020,Kansas,20,"Harvey County, KS",20079,White,Hispanic or Latino,25.0,3913.0,638.9,902.7
+2020,Kansas,20,"Harvey County, KS",20079,White,Not Hispanic or Latino,418.0,28073.0,1489.0,847.6
+2020,Kansas,20,"Haskell County, KS",20081,White,Not Hispanic or Latino,28.0,2560.0,1093.8,754.4
+2020,Kansas,20,"Hodgeman County, KS",20083,White,Not Hispanic or Latino,21.0,1527.0,1375.2,665.8
+2020,Kansas,20,"Jackson County, KS",20085,American Indian or Alaska Native,Not Hispanic or Latino,10.0,948.0,Unreliable,Unreliable
+2020,Kansas,20,"Jackson County, KS",20085,White,Not Hispanic or Latino,129.0,10882.0,1185.4,788.9
+2020,Kansas,20,"Jefferson County, KS",20087,White,Not Hispanic or Latino,200.0,17740.0,1127.4,772.1
+2020,Kansas,20,"Jewell County, KS",20089,White,Not Hispanic or Latino,40.0,2689.0,1487.5,662.0
+2020,Kansas,20,"Johnson County, KS",20091,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1706.0,Unreliable,Unreliable
+2020,Kansas,20,"Johnson County, KS",20091,Asian,Not Hispanic or Latino,83.0,32736.0,253.5,423.2
+2020,Kansas,20,"Johnson County, KS",20091,Black or African American,Not Hispanic or Latino,174.0,29085.0,598.2,1024.4
+2020,Kansas,20,"Johnson County, KS",20091,White,Hispanic or Latino,141.0,44947.0,313.7,712.8
+2020,Kansas,20,"Johnson County, KS",20091,White,Not Hispanic or Latino,4256.0,479765.0,887.1,668.0
+2020,Kansas,20,"Johnson County, KS",20091,More than one race,Not Hispanic or Latino,46.0,14809.0,310.6,1649.1
+2020,Kansas,20,"Kearny County, KS",20093,White,Not Hispanic or Latino,32.0,2378.0,1345.7,809.1
+2020,Kansas,20,"Kingman County, KS",20095,Black or African American,Not Hispanic or Latino,39.0,25.0,156000.0,48006.1
+2020,Kansas,20,"Kingman County, KS",20095,White,Hispanic or Latino,12.0,243.0,Unreliable,Unreliable
+2020,Kansas,20,"Kingman County, KS",20095,White,Not Hispanic or Latino,189.0,6452.0,2929.3,1756.7
+2020,Kansas,20,"Kiowa County, KS",20097,White,Not Hispanic or Latino,31.0,2170.0,1428.6,850.1
+2020,Kansas,20,"Labette County, KS",20099,Black or African American,Not Hispanic or Latino,18.0,814.0,Unreliable,Unreliable
+2020,Kansas,20,"Labette County, KS",20099,White,Not Hispanic or Latino,257.0,16605.0,1547.7,974.1
+2020,Kansas,20,"Lane County, KS",20101,White,Not Hispanic or Latino,30.0,1296.0,2314.8,1171.4
+2020,Kansas,20,"Leavenworth County, KS",20103,Black or African American,Not Hispanic or Latino,66.0,7238.0,911.9,1248.6
+2020,Kansas,20,"Leavenworth County, KS",20103,White,Hispanic or Latino,13.0,4945.0,Unreliable,Unreliable
+2020,Kansas,20,"Leavenworth County, KS",20103,White,Not Hispanic or Latino,689.0,64531.0,1067.7,839.3
+2020,Kansas,20,"Lincoln County, KS",20105,White,Not Hispanic or Latino,46.0,2784.0,1652.3,864.9
+2020,Kansas,20,"Linn County, KS",20107,White,Not Hispanic or Latino,143.0,8955.0,1596.9,1003.3
+2020,Kansas,20,"Logan County, KS",20109,White,Not Hispanic or Latino,42.0,2444.0,1718.5,870.0
+2020,Kansas,20,"Lyon County, KS",20111,White,Hispanic or Latino,32.0,6600.0,484.8,830.1
+2020,Kansas,20,"Lyon County, KS",20111,White,Not Hispanic or Latino,312.0,23327.0,1337.5,884.5
+2020,Kansas,20,"McPherson County, KS",20113,White,Not Hispanic or Latino,417.0,25830.0,1614.4,899.5
+2020,Kansas,20,"Marion County, KS",20115,White,Not Hispanic or Latino,155.0,10714.0,1446.7,799.7
+2020,Kansas,20,"Marshall County, KS",20117,White,Not Hispanic or Latino,141.0,9086.0,1551.8,809.2
+2020,Kansas,20,"Meade County, KS",20119,White,Not Hispanic or Latino,60.0,3077.0,1950.0,1128.9
+2020,Kansas,20,"Miami County, KS",20121,White,Not Hispanic or Latino,334.0,31614.0,1056.5,764.6
+2020,Kansas,20,"Mitchell County, KS",20123,White,Not Hispanic or Latino,89.0,5550.0,1603.6,832.9
+2020,Kansas,20,"Montgomery County, KS",20125,Black or African American,Not Hispanic or Latino,26.0,1532.0,1697.1,1822.0
+2020,Kansas,20,"Montgomery County, KS",20125,White,Not Hispanic or Latino,427.0,24753.0,1725.0,1016.8
+2020,Kansas,20,"Morris County, KS",20127,White,Not Hispanic or Latino,92.0,5044.0,1823.9,935.5
+2020,Kansas,20,"Morton County, KS",20129,White,Not Hispanic or Latino,38.0,1804.0,2106.4,1027.1
+2020,Kansas,20,"Nemaha County, KS",20131,White,Not Hispanic or Latino,181.0,9598.0,1885.8,949.8
+2020,Kansas,20,"Neosho County, KS",20133,White,Not Hispanic or Latino,217.0,14131.0,1535.6,981.3
+2020,Kansas,20,"Ness County, KS",20135,White,Not Hispanic or Latino,60.0,2388.0,2512.6,1027.6
+2020,Kansas,20,"Norton County, KS",20137,White,Not Hispanic or Latino,82.0,4681.0,1751.8,886.6
+2020,Kansas,20,"Osage County, KS",20139,White,Not Hispanic or Latino,265.0,14643.0,1809.7,1188.8
+2020,Kansas,20,"Osborne County, KS",20141,White,Not Hispanic or Latino,58.0,3220.0,1801.2,972.0
+2020,Kansas,20,"Ottawa County, KS",20143,White,Not Hispanic or Latino,78.0,5353.0,1457.1,952.3
+2020,Kansas,20,"Pawnee County, KS",20145,White,Not Hispanic or Latino,87.0,5321.0,1635.0,857.3
+2020,Kansas,20,"Phillips County, KS",20147,White,Not Hispanic or Latino,76.0,4833.0,1572.5,832.7
+2020,Kansas,20,"Pottawatomie County, KS",20149,White,Not Hispanic or Latino,196.0,22128.0,885.8,754.8
+2020,Kansas,20,"Pratt County, KS",20151,White,Not Hispanic or Latino,138.0,7996.0,1725.9,922.5
+2020,Kansas,20,"Rawlins County, KS",20153,White,Not Hispanic or Latino,37.0,2226.0,1662.2,814.5
+2020,Kansas,20,"Reno County, KS",20155,Black or African American,Not Hispanic or Latino,13.0,1894.0,Unreliable,Unreliable
+2020,Kansas,20,"Reno County, KS",20155,White,Hispanic or Latino,41.0,5461.0,750.8,1096.2
+2020,Kansas,20,"Reno County, KS",20155,White,Not Hispanic or Latino,794.0,51536.0,1540.7,914.1
+2020,Kansas,20,"Reno County, KS",20155,More than one race,Not Hispanic or Latino,14.0,1445.0,Unreliable,Unreliable
+2020,Kansas,20,"Republic County, KS",20157,White,Not Hispanic or Latino,81.0,4293.0,1886.8,858.0
+2020,Kansas,20,"Rice County, KS",20159,White,Not Hispanic or Latino,117.0,7751.0,1509.5,908.2
+2020,Kansas,20,"Riley County, KS",20161,Black or African American,Not Hispanic or Latino,24.0,4601.0,521.6,1085.8
+2020,Kansas,20,"Riley County, KS",20161,White,Hispanic or Latino,13.0,5234.0,Unreliable,Unreliable
+2020,Kansas,20,"Riley County, KS",20161,White,Not Hispanic or Latino,368.0,55914.0,658.2,705.5
+2020,Kansas,20,"Rooks County, KS",20163,White,Not Hispanic or Latino,65.0,4553.0,1427.6,853.2
+2020,Kansas,20,"Rush County, KS",20165,White,Not Hispanic or Latino,69.0,2707.0,2548.9,1206.9
+2020,Kansas,20,"Russell County, KS",20167,White,Not Hispanic or Latino,147.0,6188.0,2375.6,1167.5
+2020,Kansas,20,"Saline County, KS",20169,Asian,Not Hispanic or Latino,10.0,1135.0,Unreliable,Unreliable
+2020,Kansas,20,"Saline County, KS",20169,Black or African American,Not Hispanic or Latino,25.0,1709.0,1462.8,1418.8
+2020,Kansas,20,"Saline County, KS",20169,White,Hispanic or Latino,22.0,5717.0,384.8,954.8
+2020,Kansas,20,"Saline County, KS",20169,White,Not Hispanic or Latino,588.0,42808.0,1373.6,838.5
+2020,Kansas,20,"Scott County, KS",20171,White,Not Hispanic or Latino,58.0,3722.0,1558.3,861.9
+2020,Kansas,20,"Sedgwick County, KS",20173,American Indian or Alaska Native,Not Hispanic or Latino,42.0,4113.0,1021.2,809.0
+2020,Kansas,20,"Sedgwick County, KS",20173,Asian,Not Hispanic or Latino,84.0,23076.0,364.0,447.1
+2020,Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Hispanic or Latino,570.0,45260.0,1259.4,1390.3
+2020,Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Stated,34.0,Not Applicable,Not Applicable,Not Applicable
+2020,Kansas,20,"Sedgwick County, KS",20173,White,Hispanic or Latino,262.0,70137.0,373.6,793.0
+2020,Kansas,20,"Sedgwick County, KS",20173,White,Not Hispanic or Latino,4568.0,349095.0,1308.5,951.1
+2020,Kansas,20,"Sedgwick County, KS",20173,White,Not Stated,70.0,Not Applicable,Not Applicable,Not Applicable
+2020,Kansas,20,"Sedgwick County, KS",20173,More than one race,Not Hispanic or Latino,87.0,17933.0,485.1,3519.8
+2020,Kansas,20,"Seward County, KS",20175,White,Hispanic or Latino,36.0,12673.0,284.1,620.8
+2020,Kansas,20,"Seward County, KS",20175,White,Not Hispanic or Latino,113.0,6033.0,1873.0,1083.0
+2020,Kansas,20,"Shawnee County, KS",20177,American Indian or Alaska Native,Not Hispanic or Latino,25.0,1535.0,1628.7,2424.4
+2020,Kansas,20,"Shawnee County, KS",20177,Asian,Not Hispanic or Latino,15.0,2624.0,Unreliable,Unreliable
+2020,Kansas,20,"Shawnee County, KS",20177,Black or African American,Not Hispanic or Latino,184.0,13536.0,1359.3,1324.6
+2020,Kansas,20,"Shawnee County, KS",20177,White,Hispanic or Latino,136.0,18996.0,715.9,996.5
+2020,Kansas,20,"Shawnee County, KS",20177,White,Not Hispanic or Latino,1875.0,128744.0,1456.4,896.9
+2020,Kansas,20,"Shawnee County, KS",20177,White,Not Stated,24.0,Not Applicable,Not Applicable,Not Applicable
+2020,Kansas,20,"Shawnee County, KS",20177,More than one race,Not Hispanic or Latino,26.0,6277.0,414.2,1214.1
+2020,Kansas,20,"Sheridan County, KS",20179,White,Not Hispanic or Latino,49.0,2310.0,2121.2,1026.5
+2020,Kansas,20,"Sherman County, KS",20181,White,Not Hispanic or Latino,62.0,4834.0,1282.6,757.9
+2020,Kansas,20,"Smith County, KS",20183,White,Not Hispanic or Latino,53.0,3313.0,1599.8,766.7
+2020,Kansas,20,"Stafford County, KS",20185,White,Not Hispanic or Latino,66.0,3354.0,1967.8,1103.3
+2020,Kansas,20,"Stanton County, KS",20187,White,Not Hispanic or Latino,19.0,1063.0,Unreliable,Unreliable
+2020,Kansas,20,"Stevens County, KS",20189,White,Not Hispanic or Latino,49.0,3164.0,1548.7,788.6
+2020,Kansas,20,"Sumner County, KS",20191,White,Not Hispanic or Latino,298.0,20061.0,1485.5,955.2
+2020,Kansas,20,"Thomas County, KS",20193,White,Not Hispanic or Latino,79.0,6812.0,1159.7,774.5
+2020,Kansas,20,"Trego County, KS",20195,White,Not Hispanic or Latino,50.0,2592.0,1929.0,855.5
+2020,Kansas,20,"Wabaunsee County, KS",20197,White,Not Hispanic or Latino,63.0,6309.0,998.6,656.3
+2020,Kansas,20,"Wallace County, KS",20199,White,Not Hispanic or Latino,20.0,1371.0,1458.8,782.6
+2020,Kansas,20,"Washington County, KS",20201,White,Not Hispanic or Latino,78.0,5023.0,1552.9,736.4
+2020,Kansas,20,"Wichita County, KS",20203,White,Hispanic or Latino,12.0,577.0,Unreliable,Unreliable
+2020,Kansas,20,"Wichita County, KS",20203,White,Not Hispanic or Latino,23.0,1390.0,1654.7,926.5
+2020,Kansas,20,"Wilson County, KS",20205,White,Not Hispanic or Latino,122.0,7691.0,1586.3,957.0
+2020,Kansas,20,"Woodson County, KS",20207,White,Not Hispanic or Latino,58.0,2774.0,2090.8,1131.1
+2020,Kansas,20,"Wyandotte County, KS",20209,Asian,Not Hispanic or Latino,32.0,8800.0,363.6,1130.3
+2020,Kansas,20,"Wyandotte County, KS",20209,Black or African American,Not Hispanic or Latino,517.0,35336.0,1463.1,1253.5
+2020,Kansas,20,"Wyandotte County, KS",20209,White,Hispanic or Latino,214.0,44761.0,478.1,844.9
+2020,Kansas,20,"Wyandotte County, KS",20209,White,Not Hispanic or Latino,917.0,65891.0,1391.7,1013.7
+2020,Kansas,20,"Wyandotte County, KS",20209,More than one race,Not Hispanic or Latino,22.0,4247.0,518.0,1418.2
+2021 (provisional),Kansas,20,"Allen County, KS",20001,White,Not Hispanic or Latino,190.0,11092.0,1712.9,1081.3
+2021 (provisional),Kansas,20,"Anderson County, KS",20003,White,Not Hispanic or Latino,102.0,7457.0,1367.8,801.8
+2021 (provisional),Kansas,20,"Atchison County, KS",20005,Black or African American,Not Hispanic or Latino,23.0,733.0,3137.8,2863.8
+2021 (provisional),Kansas,20,"Atchison County, KS",20005,White,Not Hispanic or Latino,187.0,14106.0,1325.7,959.6
+2021 (provisional),Kansas,20,"Barber County, KS",20007,White,Not Hispanic or Latino,63.0,3957.0,1592.1,944.8
+2021 (provisional),Kansas,20,"Barton County, KS",20009,White,Hispanic or Latino,28.0,3585.0,781.0,1639.8
+2021 (provisional),Kansas,20,"Barton County, KS",20009,White,Not Hispanic or Latino,325.0,20678.0,1571.7,953.5
+2021 (provisional),Kansas,20,"Bourbon County, KS",20011,White,Not Hispanic or Latino,209.0,12909.0,1619.0,1131.8
+2021 (provisional),Kansas,20,"Brown County, KS",20013,American Indian or Alaska Native,Not Hispanic or Latino,13.0,718.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Brown County, KS",20013,White,Not Hispanic or Latino,137.0,7773.0,1762.5,1139.4
+2021 (provisional),Kansas,20,"Butler County, KS",20015,White,Hispanic or Latino,16.0,2968.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Butler County, KS",20015,White,Not Hispanic or Latino,728.0,58891.0,1236.2,948.5
+2021 (provisional),Kansas,20,"Butler County, KS",20015,More than one race,Not Hispanic or Latino,20.0,1655.0,1208.5,3585.0
+2021 (provisional),Kansas,20,"Chase County, KS",20017,White,Not Hispanic or Latino,31.0,2329.0,1331.0,671.4
+2021 (provisional),Kansas,20,"Chautauqua County, KS",20019,White,Not Hispanic or Latino,60.0,2714.0,2210.8,1200.6
+2021 (provisional),Kansas,20,"Cherokee County, KS",20021,White,Not Hispanic or Latino,300.0,17107.0,1753.7,1203.9
+2021 (provisional),Kansas,20,"Cheyenne County, KS",20023,White,Not Hispanic or Latino,40.0,2342.0,1707.9,842.9
+2021 (provisional),Kansas,20,"Clark County, KS",20025,White,Not Hispanic or Latino,31.0,1633.0,1898.3,1021.6
+2021 (provisional),Kansas,20,"Clay County, KS",20027,White,Not Hispanic or Latino,108.0,7470.0,1445.8,748.0
+2021 (provisional),Kansas,20,"Cloud County, KS",20029,White,Not Hispanic or Latino,153.0,7959.0,1922.4,1156.3
+2021 (provisional),Kansas,20,"Coffey County, KS",20031,White,Not Hispanic or Latino,108.0,7559.0,1428.8,846.8
+2021 (provisional),Kansas,20,"Comanche County, KS",20033,White,Not Hispanic or Latino,31.0,1505.0,2059.8,1094.5
+2021 (provisional),Kansas,20,"Cowley County, KS",20035,Black or African American,Not Hispanic or Latino,11.0,905.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Cowley County, KS",20035,White,Hispanic or Latino,21.0,3382.0,620.9,1061.1
+2021 (provisional),Kansas,20,"Cowley County, KS",20035,White,Not Hispanic or Latino,439.0,27292.0,1608.5,1027.7
+2021 (provisional),Kansas,20,"Cowley County, KS",20035,More than one race,Not Hispanic or Latino,21.0,1067.0,1968.1,3292.3
+2021 (provisional),Kansas,20,"Crawford County, KS",20037,White,Not Hispanic or Latino,489.0,33209.0,1472.5,1133.3
+2021 (provisional),Kansas,20,"Decatur County, KS",20039,White,Not Hispanic or Latino,57.0,2589.0,2201.6,1017.5
+2021 (provisional),Kansas,20,"Dickinson County, KS",20041,White,Not Hispanic or Latino,277.0,16461.0,1682.8,1080.5
+2021 (provisional),Kansas,20,"Doniphan County, KS",20043,White,Not Hispanic or Latino,106.0,6775.0,1564.6,998.7
+2021 (provisional),Kansas,20,"Douglas County, KS",20045,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2578.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Douglas County, KS",20045,Black or African American,Not Hispanic or Latino,37.0,5342.0,692.6,1044.8
+2021 (provisional),Kansas,20,"Douglas County, KS",20045,White,Hispanic or Latino,14.0,6370.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Douglas County, KS",20045,White,Not Hispanic or Latino,754.0,95890.0,786.3,711.6
+2021 (provisional),Kansas,20,"Douglas County, KS",20045,More than one race,Not Hispanic or Latino,12.0,4708.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Edwards County, KS",20047,White,Not Hispanic or Latino,52.0,2068.0,2514.5,1602.0
+2021 (provisional),Kansas,20,"Elk County, KS",20049,White,Not Hispanic or Latino,47.0,2247.0,2091.7,968.4
+2021 (provisional),Kansas,20,"Ellis County, KS",20051,White,Not Hispanic or Latino,230.0,25490.0,902.3,668.0
+2021 (provisional),Kansas,20,"Ellsworth County, KS",20053,White,Not Hispanic or Latino,78.0,5155.0,1513.1,927.0
+2021 (provisional),Kansas,20,"Finney County, KS",20055,White,Hispanic or Latino,80.0,17322.0,461.8,823.1
+2021 (provisional),Kansas,20,"Finney County, KS",20055,White,Not Hispanic or Latino,215.0,14326.0,1500.8,1053.5
+2021 (provisional),Kansas,20,"Ford County, KS",20057,White,Hispanic or Latino,57.0,17586.0,324.1,796.8
+2021 (provisional),Kansas,20,"Ford County, KS",20057,White,Not Hispanic or Latino,209.0,12779.0,1635.5,905.2
+2021 (provisional),Kansas,20,"Franklin County, KS",20059,White,Not Hispanic or Latino,319.0,23251.0,1372.0,1066.3
+2021 (provisional),Kansas,20,"Geary County, KS",20061,Asian,Not Hispanic or Latino,13.0,971.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Geary County, KS",20061,Black or African American,Not Hispanic or Latino,59.0,5306.0,1111.9,1828.5
+2021 (provisional),Kansas,20,"Geary County, KS",20061,White,Hispanic or Latino,15.0,4299.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Geary County, KS",20061,White,Not Hispanic or Latino,177.0,18104.0,977.7,1185.0
+2021 (provisional),Kansas,20,"Gove County, KS",20063,White,Not Hispanic or Latino,43.0,2452.0,1753.7,807.4
+2021 (provisional),Kansas,20,"Graham County, KS",20065,White,Not Hispanic or Latino,37.0,2087.0,1772.9,821.1
+2021 (provisional),Kansas,20,"Grant County, KS",20067,White,Hispanic or Latino,19.0,3188.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Grant County, KS",20067,White,Not Hispanic or Latino,39.0,3420.0,1140.4,686.2
+2021 (provisional),Kansas,20,"Gray County, KS",20069,White,Not Hispanic or Latino,65.0,4824.0,1347.4,975.2
+2021 (provisional),Kansas,20,"Greeley County, KS",20071,White,Not Hispanic or Latino,24.0,922.0,2603.0,1402.0
+2021 (provisional),Kansas,20,"Greenwood County, KS",20073,White,Not Hispanic or Latino,119.0,5369.0,2216.4,1136.7
+2021 (provisional),Kansas,20,"Hamilton County, KS",20075,White,Not Hispanic or Latino,27.0,1444.0,1869.8,1404.6
+2021 (provisional),Kansas,20,"Harper County, KS",20077,White,Not Hispanic or Latino,74.0,4765.0,1553.0,883.2
+2021 (provisional),Kansas,20,"Harvey County, KS",20079,White,Hispanic or Latino,25.0,3913.0,638.9,920.4
+2021 (provisional),Kansas,20,"Harvey County, KS",20079,White,Not Hispanic or Latino,463.0,28073.0,1649.3,1001.4
+2021 (provisional),Kansas,20,"Harvey County, KS",20079,More than one race,Not Hispanic or Latino,11.0,780.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Haskell County, KS",20081,White,Not Hispanic or Latino,30.0,2560.0,1171.9,800.8
+2021 (provisional),Kansas,20,"Hodgeman County, KS",20083,White,Not Hispanic or Latino,40.0,1527.0,2619.5,1403.3
+2021 (provisional),Kansas,20,"Jackson County, KS",20085,American Indian or Alaska Native,Not Hispanic or Latino,12.0,948.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Jackson County, KS",20085,White,Not Hispanic or Latino,138.0,10882.0,1268.1,853.2
+2021 (provisional),Kansas,20,"Jefferson County, KS",20087,White,Not Hispanic or Latino,191.0,17740.0,1076.7,779.3
+2021 (provisional),Kansas,20,"Jewell County, KS",20089,White,Not Hispanic or Latino,59.0,2689.0,2194.1,906.0
+2021 (provisional),Kansas,20,"Johnson County, KS",20091,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1706.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Johnson County, KS",20091,Asian,Not Hispanic or Latino,88.0,32736.0,268.8,454.2
+2021 (provisional),Kansas,20,"Johnson County, KS",20091,Black or African American,Not Hispanic or Latino,176.0,29085.0,605.1,1041.4
+2021 (provisional),Kansas,20,"Johnson County, KS",20091,White,Hispanic or Latino,150.0,44947.0,333.7,755.3
+2021 (provisional),Kansas,20,"Johnson County, KS",20091,White,Not Hispanic or Latino,4344.0,479765.0,905.4,684.4
+2021 (provisional),Kansas,20,"Johnson County, KS",20091,More than one race,Not Hispanic or Latino,36.0,14809.0,243.1,1100.9
+2021 (provisional),Kansas,20,"Kearny County, KS",20093,White,Not Hispanic or Latino,37.0,2378.0,1555.9,968.7
+2021 (provisional),Kansas,20,"Kingman County, KS",20095,Black or African American,Not Hispanic or Latino,41.0,25.0,164000.0,62354.2
+2021 (provisional),Kansas,20,"Kingman County, KS",20095,White,Not Hispanic or Latino,210.0,6452.0,3254.8,1949.3
+2021 (provisional),Kansas,20,"Kiowa County, KS",20097,White,Not Hispanic or Latino,35.0,2170.0,1612.9,1024.3
+2021 (provisional),Kansas,20,"Labette County, KS",20099,Black or African American,Not Hispanic or Latino,14.0,814.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Labette County, KS",20099,White,Not Hispanic or Latino,277.0,16605.0,1668.2,1040.9
+2021 (provisional),Kansas,20,"Lane County, KS",20101,White,Not Hispanic or Latino,29.0,1296.0,2237.7,1167.7
+2021 (provisional),Kansas,20,"Leavenworth County, KS",20103,Black or African American,Not Hispanic or Latino,54.0,7238.0,746.1,1064.0
+2021 (provisional),Kansas,20,"Leavenworth County, KS",20103,White,Hispanic or Latino,25.0,4945.0,505.6,1358.8
+2021 (provisional),Kansas,20,"Leavenworth County, KS",20103,White,Not Hispanic or Latino,684.0,64531.0,1060.0,843.0
+2021 (provisional),Kansas,20,"Leavenworth County, KS",20103,More than one race,Not Hispanic or Latino,14.0,2532.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Lincoln County, KS",20105,White,Not Hispanic or Latino,37.0,2784.0,1329.0,814.5
+2021 (provisional),Kansas,20,"Linn County, KS",20107,White,Not Hispanic or Latino,164.0,8955.0,1831.4,1138.7
+2021 (provisional),Kansas,20,"Logan County, KS",20109,White,Not Hispanic or Latino,49.0,2444.0,2004.9,1132.0
+2021 (provisional),Kansas,20,"Lyon County, KS",20111,White,Hispanic or Latino,19.0,6600.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Lyon County, KS",20111,White,Not Hispanic or Latino,287.0,23327.0,1230.3,831.2
+2021 (provisional),Kansas,20,"McPherson County, KS",20113,White,Hispanic or Latino,11.0,1148.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"McPherson County, KS",20113,White,Not Hispanic or Latino,401.0,25830.0,1552.5,925.2
+2021 (provisional),Kansas,20,"Marion County, KS",20115,White,Not Hispanic or Latino,215.0,10714.0,2006.7,1054.7
+2021 (provisional),Kansas,20,"Marshall County, KS",20117,White,Not Hispanic or Latino,132.0,9086.0,1452.8,865.4
+2021 (provisional),Kansas,20,"Meade County, KS",20119,White,Not Hispanic or Latino,52.0,3077.0,1690.0,940.2
+2021 (provisional),Kansas,20,"Miami County, KS",20121,Black or African American,Not Hispanic or Latino,10.0,457.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Miami County, KS",20121,White,Not Hispanic or Latino,394.0,31614.0,1246.3,909.4
+2021 (provisional),Kansas,20,"Mitchell County, KS",20123,White,Not Hispanic or Latino,95.0,5550.0,1711.7,830.3
+2021 (provisional),Kansas,20,"Montgomery County, KS",20125,American Indian or Alaska Native,Not Hispanic or Latino,11.0,975.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Montgomery County, KS",20125,Black or African American,Not Hispanic or Latino,24.0,1532.0,1566.6,1626.4
+2021 (provisional),Kansas,20,"Montgomery County, KS",20125,White,Not Hispanic or Latino,490.0,24753.0,1979.6,1238.4
+2021 (provisional),Kansas,20,"Morris County, KS",20127,White,Not Hispanic or Latino,74.0,5044.0,1467.1,794.3
+2021 (provisional),Kansas,20,"Morton County, KS",20129,White,Not Hispanic or Latino,39.0,1804.0,2161.9,1246.1
+2021 (provisional),Kansas,20,"Nemaha County, KS",20131,White,Not Hispanic or Latino,120.0,9598.0,1250.3,661.8
+2021 (provisional),Kansas,20,"Neosho County, KS",20133,White,Not Hispanic or Latino,234.0,14131.0,1655.9,1074.4
+2021 (provisional),Kansas,20,"Ness County, KS",20135,White,Not Hispanic or Latino,50.0,2388.0,2093.8,1065.8
+2021 (provisional),Kansas,20,"Norton County, KS",20137,White,Not Hispanic or Latino,55.0,4681.0,1175.0,656.5
+2021 (provisional),Kansas,20,"Osage County, KS",20139,White,Not Hispanic or Latino,227.0,14643.0,1550.2,1001.0
+2021 (provisional),Kansas,20,"Osborne County, KS",20141,White,Not Hispanic or Latino,58.0,3220.0,1801.2,793.1
+2021 (provisional),Kansas,20,"Ottawa County, KS",20143,White,Not Hispanic or Latino,74.0,5353.0,1382.4,903.9
+2021 (provisional),Kansas,20,"Pawnee County, KS",20145,White,Not Hispanic or Latino,76.0,5321.0,1428.3,840.1
+2021 (provisional),Kansas,20,"Phillips County, KS",20147,White,Not Hispanic or Latino,77.0,4833.0,1593.2,881.8
+2021 (provisional),Kansas,20,"Pottawatomie County, KS",20149,White,Not Hispanic or Latino,205.0,22128.0,926.4,771.1
+2021 (provisional),Kansas,20,"Pratt County, KS",20151,White,Not Hispanic or Latino,125.0,7996.0,1563.3,926.9
+2021 (provisional),Kansas,20,"Rawlins County, KS",20153,White,Not Hispanic or Latino,36.0,2226.0,1617.3,741.0
+2021 (provisional),Kansas,20,"Reno County, KS",20155,Black or African American,Not Hispanic or Latino,15.0,1894.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Reno County, KS",20155,White,Hispanic or Latino,32.0,5461.0,586.0,842.4
+2021 (provisional),Kansas,20,"Reno County, KS",20155,White,Not Hispanic or Latino,742.0,51536.0,1439.8,871.1
+2021 (provisional),Kansas,20,"Reno County, KS",20155,More than one race,Not Hispanic or Latino,27.0,1445.0,1868.5,5706.8
+2021 (provisional),Kansas,20,"Republic County, KS",20157,White,Not Hispanic or Latino,83.0,4293.0,1933.4,901.5
+2021 (provisional),Kansas,20,"Rice County, KS",20159,White,Not Hispanic or Latino,132.0,7751.0,1703.0,1018.6
+2021 (provisional),Kansas,20,"Riley County, KS",20161,Black or African American,Not Hispanic or Latino,32.0,4601.0,695.5,1492.5
+2021 (provisional),Kansas,20,"Riley County, KS",20161,White,Hispanic or Latino,17.0,5234.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Riley County, KS",20161,White,Not Hispanic or Latino,372.0,55914.0,665.3,704.6
+2021 (provisional),Kansas,20,"Rooks County, KS",20163,White,Not Hispanic or Latino,72.0,4553.0,1581.4,986.9
+2021 (provisional),Kansas,20,"Rush County, KS",20165,White,Not Hispanic or Latino,57.0,2707.0,2105.7,1070.0
+2021 (provisional),Kansas,20,"Russell County, KS",20167,White,Not Hispanic or Latino,84.0,6188.0,1357.5,758.3
+2021 (provisional),Kansas,20,"Saline County, KS",20169,Black or African American,Not Hispanic or Latino,24.0,1709.0,1404.3,1376.0
+2021 (provisional),Kansas,20,"Saline County, KS",20169,White,Hispanic or Latino,32.0,5717.0,559.7,1105.5
+2021 (provisional),Kansas,20,"Saline County, KS",20169,White,Not Hispanic or Latino,654.0,42808.0,1527.8,953.2
+2021 (provisional),Kansas,20,"Scott County, KS",20171,White,Not Hispanic or Latino,67.0,3722.0,1800.1,1000.3
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,American Indian or Alaska Native,Not Hispanic or Latino,44.0,4113.0,1069.8,1052.6
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,Asian,Not Hispanic or Latino,133.0,23076.0,576.4,674.9
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Hispanic or Latino,551.0,45260.0,1217.4,1346.0
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Stated,60.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,White,Hispanic or Latino,313.0,70137.0,446.3,870.6
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,White,Not Hispanic or Latino,4376.0,349095.0,1253.5,919.9
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,White,Not Stated,44.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Kansas,20,"Sedgwick County, KS",20173,More than one race,Not Hispanic or Latino,78.0,17933.0,435.0,2501.7
+2021 (provisional),Kansas,20,"Seward County, KS",20175,White,Hispanic or Latino,40.0,12673.0,315.6,710.7
+2021 (provisional),Kansas,20,"Seward County, KS",20175,White,Not Hispanic or Latino,105.0,6033.0,1740.4,950.4
+2021 (provisional),Kansas,20,"Shawnee County, KS",20177,American Indian or Alaska Native,Not Hispanic or Latino,28.0,1535.0,1824.1,2820.4
+2021 (provisional),Kansas,20,"Shawnee County, KS",20177,Black or African American,Not Hispanic or Latino,228.0,13536.0,1684.4,1653.3
+2021 (provisional),Kansas,20,"Shawnee County, KS",20177,White,Hispanic or Latino,99.0,18996.0,521.2,726.2
+2021 (provisional),Kansas,20,"Shawnee County, KS",20177,White,Not Hispanic or Latino,1753.0,128744.0,1361.6,874.0
+2021 (provisional),Kansas,20,"Shawnee County, KS",20177,More than one race,Not Hispanic or Latino,24.0,6277.0,382.3,1169.3
+2021 (provisional),Kansas,20,"Sheridan County, KS",20179,White,Not Hispanic or Latino,39.0,2310.0,1688.3,882.8
+2021 (provisional),Kansas,20,"Sherman County, KS",20181,White,Not Hispanic or Latino,58.0,4834.0,1199.8,767.4
+2021 (provisional),Kansas,20,"Smith County, KS",20183,White,Not Hispanic or Latino,53.0,3313.0,1599.8,643.3
+2021 (provisional),Kansas,20,"Stafford County, KS",20185,White,Not Hispanic or Latino,77.0,3354.0,2295.8,1082.9
+2021 (provisional),Kansas,20,"Stanton County, KS",20187,White,Not Hispanic or Latino,19.0,1063.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Stevens County, KS",20189,White,Not Hispanic or Latino,43.0,3164.0,1359.0,825.7
+2021 (provisional),Kansas,20,"Sumner County, KS",20191,White,Hispanic or Latino,11.0,1128.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Sumner County, KS",20191,White,Not Hispanic or Latino,305.0,20061.0,1520.4,1010.2
+2021 (provisional),Kansas,20,"Thomas County, KS",20193,White,Not Hispanic or Latino,69.0,6812.0,1012.9,660.0
+2021 (provisional),Kansas,20,"Trego County, KS",20195,White,Not Hispanic or Latino,45.0,2592.0,1736.1,793.5
+2021 (provisional),Kansas,20,"Wabaunsee County, KS",20197,White,Not Hispanic or Latino,85.0,6309.0,1347.3,859.8
+2021 (provisional),Kansas,20,"Wallace County, KS",20199,White,Not Hispanic or Latino,18.0,1371.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Washington County, KS",20201,White,Not Hispanic or Latino,81.0,5023.0,1612.6,757.2
+2021 (provisional),Kansas,20,"Wichita County, KS",20203,White,Not Hispanic or Latino,26.0,1390.0,1870.5,1003.7
+2021 (provisional),Kansas,20,"Wilson County, KS",20205,White,Not Hispanic or Latino,148.0,7691.0,1924.3,1167.4
+2021 (provisional),Kansas,20,"Woodson County, KS",20207,White,Not Hispanic or Latino,54.0,2774.0,1946.6,1021.4
+2021 (provisional),Kansas,20,"Wyandotte County, KS",20209,Asian,Not Hispanic or Latino,19.0,8800.0,Unreliable,Unreliable
+2021 (provisional),Kansas,20,"Wyandotte County, KS",20209,Black or African American,Not Hispanic or Latino,482.0,35336.0,1364.0,1210.8
+2021 (provisional),Kansas,20,"Wyandotte County, KS",20209,White,Hispanic or Latino,191.0,44761.0,426.7,794.3
+2021 (provisional),Kansas,20,"Wyandotte County, KS",20209,White,Not Hispanic or Latino,915.0,65891.0,1388.7,1010.7
+2021 (provisional),Kansas,20,"Wyandotte County, KS",20209,More than one race,Not Hispanic or Latino,18.0,4247.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Allen County, KS",20001,White,Not Hispanic or Latino,45.0,11092.0,405.7,243.5
+2022 (provisional and partial),Kansas,20,"Anderson County, KS",20003,White,Not Hispanic or Latino,19.0,7457.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Atchison County, KS",20005,White,Not Hispanic or Latino,26.0,14106.0,184.3,126.9
+2022 (provisional and partial),Kansas,20,"Barber County, KS",20007,White,Not Hispanic or Latino,14.0,3957.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Barton County, KS",20009,White,Not Hispanic or Latino,58.0,20678.0,280.5,154.9
+2022 (provisional and partial),Kansas,20,"Bourbon County, KS",20011,White,Not Hispanic or Latino,34.0,12909.0,263.4,162.6
+2022 (provisional and partial),Kansas,20,"Brown County, KS",20013,White,Not Hispanic or Latino,23.0,7773.0,295.9,176.5
+2022 (provisional and partial),Kansas,20,"Butler County, KS",20015,White,Not Hispanic or Latino,134.0,58891.0,227.5,162.8
+2022 (provisional and partial),Kansas,20,"Chautauqua County, KS",20019,White,Not Hispanic or Latino,12.0,2714.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Cherokee County, KS",20021,White,Not Hispanic or Latino,46.0,17107.0,268.9,177.0
+2022 (provisional and partial),Kansas,20,"Clay County, KS",20027,White,Not Hispanic or Latino,22.0,7470.0,294.5,150.3
+2022 (provisional and partial),Kansas,20,"Cloud County, KS",20029,White,Not Hispanic or Latino,34.0,7959.0,427.2,240.5
+2022 (provisional and partial),Kansas,20,"Coffey County, KS",20031,White,Not Hispanic or Latino,29.0,7559.0,383.6,223.6
+2022 (provisional and partial),Kansas,20,"Cowley County, KS",20035,White,Not Hispanic or Latino,63.0,27292.0,230.8,156.2
+2022 (provisional and partial),Kansas,20,"Crawford County, KS",20037,White,Not Hispanic or Latino,79.0,33209.0,237.9,179.2
+2022 (provisional and partial),Kansas,20,"Dickinson County, KS",20041,White,Not Hispanic or Latino,51.0,16461.0,309.8,196.1
+2022 (provisional and partial),Kansas,20,"Doniphan County, KS",20043,White,Not Hispanic or Latino,10.0,6775.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Douglas County, KS",20045,White,Not Hispanic or Latino,126.0,95890.0,131.4,121.4
+2022 (provisional and partial),Kansas,20,"Ellis County, KS",20051,White,Not Hispanic or Latino,47.0,25490.0,184.4,125.4
+2022 (provisional and partial),Kansas,20,"Ellsworth County, KS",20053,White,Not Hispanic or Latino,13.0,5155.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Finney County, KS",20055,White,Not Hispanic or Latino,21.0,14326.0,146.6,97.2
+2022 (provisional and partial),Kansas,20,"Ford County, KS",20057,White,Not Hispanic or Latino,32.0,12779.0,250.4,152.1
+2022 (provisional and partial),Kansas,20,"Franklin County, KS",20059,White,Not Hispanic or Latino,51.0,23251.0,219.3,168.9
+2022 (provisional and partial),Kansas,20,"Geary County, KS",20061,White,Not Hispanic or Latino,33.0,18104.0,182.3,207.7
+2022 (provisional and partial),Kansas,20,"Greenwood County, KS",20073,White,Not Hispanic or Latino,20.0,5369.0,372.5,179.0
+2022 (provisional and partial),Kansas,20,"Harper County, KS",20077,White,Not Hispanic or Latino,16.0,4765.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Harvey County, KS",20079,White,Not Hispanic or Latino,72.0,28073.0,256.5,139.5
+2022 (provisional and partial),Kansas,20,"Jackson County, KS",20085,White,Not Hispanic or Latino,28.0,10882.0,257.3,166.7
+2022 (provisional and partial),Kansas,20,"Jefferson County, KS",20087,White,Not Hispanic or Latino,36.0,17740.0,202.9,134.8
+2022 (provisional and partial),Kansas,20,"Johnson County, KS",20091,Asian,Not Hispanic or Latino,11.0,32736.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Johnson County, KS",20091,Black or African American,Not Hispanic or Latino,24.0,29085.0,82.5,125.0
+2022 (provisional and partial),Kansas,20,"Johnson County, KS",20091,White,Hispanic or Latino,31.0,44947.0,69.0,144.2
+2022 (provisional and partial),Kansas,20,"Johnson County, KS",20091,White,Not Hispanic or Latino,691.0,479765.0,144.0,109.0
+2022 (provisional and partial),Kansas,20,"Kingman County, KS",20095,White,Not Hispanic or Latino,21.0,6452.0,325.5,185.0
+2022 (provisional and partial),Kansas,20,"Labette County, KS",20099,White,Not Hispanic or Latino,49.0,16605.0,295.1,189.6
+2022 (provisional and partial),Kansas,20,"Leavenworth County, KS",20103,Black or African American,Not Hispanic or Latino,12.0,7238.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Leavenworth County, KS",20103,White,Not Hispanic or Latino,115.0,64531.0,178.2,139.3
+2022 (provisional and partial),Kansas,20,"Linn County, KS",20107,White,Not Hispanic or Latino,28.0,8955.0,312.7,194.1
+2022 (provisional and partial),Kansas,20,"Lyon County, KS",20111,White,Not Hispanic or Latino,59.0,23327.0,252.9,186.2
+2022 (provisional and partial),Kansas,20,"McPherson County, KS",20113,White,Not Hispanic or Latino,62.0,25830.0,240.0,143.9
+2022 (provisional and partial),Kansas,20,"Marion County, KS",20115,White,Not Hispanic or Latino,31.0,10714.0,289.3,141.4
+2022 (provisional and partial),Kansas,20,"Marshall County, KS",20117,White,Not Hispanic or Latino,19.0,9086.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Meade County, KS",20119,White,Not Hispanic or Latino,11.0,3077.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Miami County, KS",20121,White,Not Hispanic or Latino,63.0,31614.0,199.3,136.6
+2022 (provisional and partial),Kansas,20,"Mitchell County, KS",20123,White,Not Hispanic or Latino,12.0,5550.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Montgomery County, KS",20125,White,Not Hispanic or Latino,81.0,24753.0,327.2,209.8
+2022 (provisional and partial),Kansas,20,"Morris County, KS",20127,White,Not Hispanic or Latino,25.0,5044.0,495.6,280.9
+2022 (provisional and partial),Kansas,20,"Nemaha County, KS",20131,White,Not Hispanic or Latino,15.0,9598.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Neosho County, KS",20133,White,Not Hispanic or Latino,50.0,14131.0,353.8,227.8
+2022 (provisional and partial),Kansas,20,"Norton County, KS",20137,White,Not Hispanic or Latino,18.0,4681.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Osage County, KS",20139,White,Not Hispanic or Latino,44.0,14643.0,300.5,199.4
+2022 (provisional and partial),Kansas,20,"Pawnee County, KS",20145,White,Not Hispanic or Latino,18.0,5321.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Phillips County, KS",20147,White,Not Hispanic or Latino,11.0,4833.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Pottawatomie County, KS",20149,White,Not Hispanic or Latino,31.0,22128.0,140.1,122.9
+2022 (provisional and partial),Kansas,20,"Pratt County, KS",20151,White,Not Hispanic or Latino,16.0,7996.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Reno County, KS",20155,White,Not Hispanic or Latino,139.0,51536.0,269.7,158.5
+2022 (provisional and partial),Kansas,20,"Republic County, KS",20157,White,Not Hispanic or Latino,21.0,4293.0,489.2,156.2
+2022 (provisional and partial),Kansas,20,"Rice County, KS",20159,White,Not Hispanic or Latino,20.0,7751.0,258.0,151.3
+2022 (provisional and partial),Kansas,20,"Riley County, KS",20161,White,Not Hispanic or Latino,63.0,55914.0,112.7,116.9
+2022 (provisional and partial),Kansas,20,"Rooks County, KS",20163,White,Not Hispanic or Latino,10.0,4553.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Rush County, KS",20165,White,Not Hispanic or Latino,14.0,2707.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Russell County, KS",20167,White,Not Hispanic or Latino,18.0,6188.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Saline County, KS",20169,White,Not Hispanic or Latino,99.0,42808.0,231.3,142.7
+2022 (provisional and partial),Kansas,20,"Sedgwick County, KS",20173,Asian,Not Hispanic or Latino,16.0,23076.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Hispanic or Latino,72.0,45260.0,159.1,176.8
+2022 (provisional and partial),Kansas,20,"Sedgwick County, KS",20173,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),Kansas,20,"Sedgwick County, KS",20173,White,Hispanic or Latino,48.0,70137.0,68.4,137.5
+2022 (provisional and partial),Kansas,20,"Sedgwick County, KS",20173,White,Not Hispanic or Latino,807.0,349095.0,231.2,168.5
+2022 (provisional and partial),Kansas,20,"Sedgwick County, KS",20173,More than one race,Not Hispanic or Latino,13.0,17933.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Seward County, KS",20175,White,Not Hispanic or Latino,16.0,6033.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Shawnee County, KS",20177,Black or African American,Not Hispanic or Latino,31.0,13536.0,229.0,242.4
+2022 (provisional and partial),Kansas,20,"Shawnee County, KS",20177,White,Hispanic or Latino,28.0,18996.0,147.4,196.7
+2022 (provisional and partial),Kansas,20,"Shawnee County, KS",20177,White,Not Hispanic or Latino,316.0,128744.0,245.4,149.1
+2022 (provisional and partial),Kansas,20,"Sheridan County, KS",20179,White,Not Hispanic or Latino,10.0,2310.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Sherman County, KS",20181,White,Not Hispanic or Latino,10.0,4834.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Smith County, KS",20183,White,Not Hispanic or Latino,13.0,3313.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Stafford County, KS",20185,White,Not Hispanic or Latino,10.0,3354.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Sumner County, KS",20191,White,Not Hispanic or Latino,58.0,20061.0,289.1,196.9
+2022 (provisional and partial),Kansas,20,"Thomas County, KS",20193,White,Not Hispanic or Latino,14.0,6812.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Wabaunsee County, KS",20197,White,Not Hispanic or Latino,16.0,6309.0,Unreliable,Unreliable
+2022 (provisional and partial),Kansas,20,"Wilson County, KS",20205,White,Not Hispanic or Latino,26.0,7691.0,338.1,192.4
+2022 (provisional and partial),Kansas,20,"Wyandotte County, KS",20209,Black or African American,Not Hispanic or Latino,71.0,35336.0,200.9,165.2
+2022 (provisional and partial),Kansas,20,"Wyandotte County, KS",20209,White,Hispanic or Latino,36.0,44761.0,80.4,160.9
+2022 (provisional and partial),Kansas,20,"Wyandotte County, KS",20209,White,Not Hispanic or Latino,147.0,65891.0,223.1,165.4

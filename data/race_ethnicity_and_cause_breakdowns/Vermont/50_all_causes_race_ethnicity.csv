@@ -1,0 +1,78 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Vermont,50,"Addison County, VT",50001,White,Not Hispanic or Latino,340.0,34177.0,994.8,706.4
+2018,Vermont,50,"Bennington County, VT",50003,White,Not Hispanic or Latino,485.0,33394.0,1452.4,886.3
+2018,Vermont,50,"Caledonia County, VT",50005,White,Not Hispanic or Latino,298.0,28700.0,1038.3,733.9
+2018,Vermont,50,"Chittenden County, VT",50007,Asian,Not Hispanic or Latino,12.0,7725.0,Unreliable,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Black or African American,Not Hispanic or Latino,17.0,4038.0,Unreliable,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,White,Not Hispanic or Latino,1136.0,145037.0,783.2,614.4
+2018,Vermont,50,"Essex County, VT",50009,White,Not Hispanic or Latino,71.0,5953.0,1192.7,660.5
+2018,Vermont,50,"Franklin County, VT",50011,White,Not Hispanic or Latino,423.0,46250.0,914.6,772.3
+2018,Vermont,50,"Grand Isle County, VT",50013,White,Not Hispanic or Latino,58.0,6551.0,885.4,683.5
+2018,Vermont,50,"Lamoille County, VT",50015,White,Not Hispanic or Latino,187.0,23900.0,782.4,622.5
+2018,Vermont,50,"Orange County, VT",50017,White,Not Hispanic or Latino,300.0,27691.0,1083.4,773.5
+2018,Vermont,50,"Orleans County, VT",50019,White,Not Hispanic or Latino,300.0,25520.0,1175.5,759.2
+2018,Vermont,50,"Rutland County, VT",50021,White,Not Hispanic or Latino,736.0,55828.0,1318.3,866.2
+2018,Vermont,50,"Washington County, VT",50023,White,Not Hispanic or Latino,539.0,54716.0,985.1,693.1
+2018,Vermont,50,"Windham County, VT",50025,White,Not Hispanic or Latino,458.0,39598.0,1156.6,761.0
+2018,Vermont,50,"Windsor County, VT",50027,White,Not Hispanic or Latino,603.0,52273.0,1153.6,718.2
+2019,Vermont,50,"Addison County, VT",50001,White,Not Hispanic or Latino,315.0,34046.0,925.2,641.0
+2019,Vermont,50,"Bennington County, VT",50003,White,Not Hispanic or Latino,442.0,33227.0,1330.2,766.2
+2019,Vermont,50,"Caledonia County, VT",50005,White,Not Hispanic or Latino,330.0,28407.0,1161.7,782.6
+2019,Vermont,50,"Chittenden County, VT",50007,Asian,Not Hispanic or Latino,12.0,7400.0,Unreliable,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Black or African American,Not Hispanic or Latino,16.0,3961.0,Unreliable,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,White,Not Hispanic or Latino,1129.0,144580.0,780.9,603.9
+2019,Vermont,50,"Essex County, VT",50009,White,Not Hispanic or Latino,78.0,5862.0,1330.6,756.4
+2019,Vermont,50,"Franklin County, VT",50011,White,Not Hispanic or Latino,440.0,46214.0,952.1,776.8
+2019,Vermont,50,"Grand Isle County, VT",50013,White,Not Hispanic or Latino,52.0,6675.0,779.0,627.4
+2019,Vermont,50,"Lamoille County, VT",50015,White,Not Hispanic or Latino,212.0,23919.0,886.3,683.9
+2019,Vermont,50,"Orange County, VT",50017,White,Not Hispanic or Latino,288.0,27629.0,1042.4,684.9
+2019,Vermont,50,"Orleans County, VT",50019,White,Not Hispanic or Latino,325.0,25615.0,1268.8,777.5
+2019,Vermont,50,"Rutland County, VT",50021,White,Not Hispanic or Latino,693.0,55332.0,1252.4,824.5
+2019,Vermont,50,"Washington County, VT",50023,White,Not Hispanic or Latino,536.0,54947.0,975.5,672.5
+2019,Vermont,50,"Windham County, VT",50025,White,Not Hispanic or Latino,432.0,39141.0,1103.7,707.0
+2019,Vermont,50,"Windsor County, VT",50027,White,Not Hispanic or Latino,567.0,51945.0,1091.5,657.7
+2020,Vermont,50,"Addison County, VT",50001,White,Not Hispanic or Latino,327.0,34030.0,960.9,641.7
+2020,Vermont,50,"Bennington County, VT",50003,White,Not Hispanic or Latino,474.0,33003.0,1436.2,834.1
+2020,Vermont,50,"Caledonia County, VT",50005,White,Not Hispanic or Latino,326.0,28075.0,1161.2,799.0
+2020,Vermont,50,"Chittenden County, VT",50007,Asian,Not Hispanic or Latino,21.0,7881.0,266.5,586.7
+2020,Vermont,50,"Chittenden County, VT",50007,Black or African American,Not Hispanic or Latino,11.0,3940.0,Unreliable,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,White,Hispanic or Latino,12.0,3399.0,Unreliable,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,White,Not Hispanic or Latino,1213.0,144343.0,840.4,642.5
+2020,Vermont,50,"Essex County, VT",50009,White,Not Hispanic or Latino,78.0,5827.0,1338.6,719.1
+2020,Vermont,50,"Franklin County, VT",50011,White,Not Hispanic or Latino,462.0,46357.0,996.6,809.1
+2020,Vermont,50,"Grand Isle County, VT",50013,White,Not Hispanic or Latino,66.0,6622.0,996.7,770.9
+2020,Vermont,50,"Lamoille County, VT",50015,White,Not Hispanic or Latino,244.0,23902.0,1020.8,774.7
+2020,Vermont,50,"Orange County, VT",50017,White,Not Hispanic or Latino,286.0,27583.0,1036.9,703.3
+2020,Vermont,50,"Orleans County, VT",50019,White,Not Hispanic or Latino,338.0,25512.0,1324.9,853.0
+2020,Vermont,50,"Rutland County, VT",50021,White,Not Hispanic or Latino,778.0,54907.0,1416.9,905.3
+2020,Vermont,50,"Washington County, VT",50023,White,Not Hispanic or Latino,631.0,54736.0,1152.8,802.1
+2020,Vermont,50,"Windham County, VT",50025,White,Not Hispanic or Latino,458.0,38877.0,1178.1,739.1
+2020,Vermont,50,"Windsor County, VT",50027,White,Not Hispanic or Latino,656.0,51750.0,1267.6,781.2
+2021 (provisional),Vermont,50,"Addison County, VT",50001,White,Not Hispanic or Latino,363.0,34030.0,1066.7,724.8
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,White,Not Hispanic or Latino,538.0,33003.0,1630.2,972.2
+2021 (provisional),Vermont,50,"Caledonia County, VT",50005,White,Not Hispanic or Latino,376.0,28075.0,1339.3,913.3
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Asian,Not Hispanic or Latino,25.0,7881.0,317.2,848.7
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Black or African American,Not Hispanic or Latino,21.0,3940.0,533.0,1189.6
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,White,Not Hispanic or Latino,1257.0,144343.0,870.8,672.7
+2021 (provisional),Vermont,50,"Essex County, VT",50009,White,Not Hispanic or Latino,86.0,5827.0,1475.9,818.8
+2021 (provisional),Vermont,50,"Franklin County, VT",50011,White,Not Hispanic or Latino,465.0,46357.0,1003.1,822.9
+2021 (provisional),Vermont,50,"Grand Isle County, VT",50013,White,Not Hispanic or Latino,95.0,6622.0,1434.6,1095.0
+2021 (provisional),Vermont,50,"Lamoille County, VT",50015,White,Not Hispanic or Latino,242.0,23902.0,1012.5,759.3
+2021 (provisional),Vermont,50,"Orange County, VT",50017,White,Not Hispanic or Latino,287.0,27583.0,1040.5,735.7
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,White,Not Hispanic or Latino,424.0,25512.0,1662.0,1022.1
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,White,Not Hispanic or Latino,786.0,54907.0,1431.5,937.1
+2021 (provisional),Vermont,50,"Washington County, VT",50023,White,Not Hispanic or Latino,604.0,54736.0,1103.5,775.9
+2021 (provisional),Vermont,50,"Windham County, VT",50025,White,Not Hispanic or Latino,520.0,38877.0,1337.6,827.9
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,White,Not Hispanic or Latino,667.0,51750.0,1288.9,778.8
+2022 (provisional and partial),Vermont,50,"Addison County, VT",50001,White,Not Hispanic or Latino,59.0,34030.0,173.4,119.1
+2022 (provisional and partial),Vermont,50,"Bennington County, VT",50003,White,Not Hispanic or Latino,86.0,33003.0,260.6,148.3
+2022 (provisional and partial),Vermont,50,"Caledonia County, VT",50005,White,Not Hispanic or Latino,61.0,28075.0,217.3,155.4
+2022 (provisional and partial),Vermont,50,"Chittenden County, VT",50007,White,Not Hispanic or Latino,177.0,144343.0,122.6,94.7
+2022 (provisional and partial),Vermont,50,"Franklin County, VT",50011,White,Not Hispanic or Latino,77.0,46357.0,166.1,133.2
+2022 (provisional and partial),Vermont,50,"Lamoille County, VT",50015,White,Not Hispanic or Latino,37.0,23902.0,154.8,126.1
+2022 (provisional and partial),Vermont,50,"Orange County, VT",50017,White,Not Hispanic or Latino,40.0,27583.0,145.0,99.7
+2022 (provisional and partial),Vermont,50,"Orleans County, VT",50019,White,Not Hispanic or Latino,63.0,25512.0,246.9,161.9
+2022 (provisional and partial),Vermont,50,"Rutland County, VT",50021,White,Not Hispanic or Latino,97.0,54907.0,176.7,110.6
+2022 (provisional and partial),Vermont,50,"Washington County, VT",50023,White,Not Hispanic or Latino,93.0,54736.0,169.9,109.6
+2022 (provisional and partial),Vermont,50,"Windham County, VT",50025,White,Not Hispanic or Latino,69.0,38877.0,177.5,111.4
+2022 (provisional and partial),Vermont,50,"Windsor County, VT",50027,White,Not Hispanic or Latino,96.0,51750.0,185.5,109.5

@@ -1,0 +1,253 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Wyoming,56,"Albany County, WY",56001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,38601.0,Unreliable
+2018,Wyoming,56,"Albany County, WY",56001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,38601.0,Unreliable
+2018,Wyoming,56,"Albany County, WY",56001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,38601.0,Unreliable
+2018,Wyoming,56,"Big Horn County, WY",56003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,11881.0,Unreliable
+2018,Wyoming,56,"Campbell County, WY",56005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,46140.0,Unreliable
+2018,Wyoming,56,"Campbell County, WY",56005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,46140.0,Unreliable
+2018,Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,24.0,46140.0,52.0
+2018,Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,46140.0,Unreliable
+2018,Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,46140.0,Unreliable
+2018,Wyoming,56,"Converse County, WY",56009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,13640.0,Unreliable
+2018,Wyoming,56,"Fremont County, WY",56013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,39531.0,58.2
+2018,Wyoming,56,"Fremont County, WY",56013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,39531.0,Unreliable
+2018,Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,39531.0,65.8
+2018,Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,39531.0,Unreliable
+2018,Wyoming,56,"Fremont County, WY",56013,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,39531.0,Unreliable
+2018,Wyoming,56,"Fremont County, WY",56013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,40.0,39531.0,101.2
+2018,Wyoming,56,"Goshen County, WY",56015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,13376.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,20.0,98976.0,20.2
+2018,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,37.0,98976.0,37.4
+2018,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,14.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,11.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,55.0,98976.0,55.6
+2018,Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,44.0,98976.0,44.5
+2018,Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,37.0,98976.0,37.4
+2018,Wyoming,56,"Laramie County, WY",56021,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,98976.0,Unreliable
+2018,Wyoming,56,"Laramie County, WY",56021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,55.0,98976.0,55.6
+2018,Wyoming,56,"Lincoln County, WY",56023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,19434.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,79115.0,30.3
+2018,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,10.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,31.0,79115.0,39.2
+2018,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,32.0,79115.0,40.4
+2018,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,29.0,79115.0,36.7
+2018,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,79115.0,34.1
+2018,Wyoming,56,"Natrona County, WY",56025,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Other diseases of the circulatory system,Congestive heart failure,I50.0,21.0,79115.0,26.5
+2018,Wyoming,56,"Natrona County, WY",56025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,79115.0,Unreliable
+2018,Wyoming,56,"Natrona County, WY",56025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,55.0,79115.0,69.5
+2018,Wyoming,56,"Natrona County, WY",56025,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,79115.0,Unreliable
+2018,Wyoming,56,"Park County, WY",56029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,29324.0,Unreliable
+2018,Wyoming,56,"Park County, WY",56029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,29324.0,Unreliable
+2018,Wyoming,56,"Park County, WY",56029,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,29324.0,Unreliable
+2018,Wyoming,56,"Park County, WY",56029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,29324.0,Unreliable
+2018,Wyoming,56,"Platte County, WY",56031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,8566.0,Unreliable
+2018,Wyoming,56,"Sheridan County, WY",56033,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,30233.0,Unreliable
+2018,Wyoming,56,"Sheridan County, WY",56033,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,30233.0,72.8
+2018,Wyoming,56,"Sheridan County, WY",56033,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,24.0,30233.0,79.4
+2018,Wyoming,56,"Sheridan County, WY",56033,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,30233.0,Unreliable
+2018,Wyoming,56,"Sheridan County, WY",56033,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,16.0,30233.0,Unreliable
+2018,Wyoming,56,"Sheridan County, WY",56033,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,30233.0,69.5
+2018,Wyoming,56,"Sweetwater County, WY",56037,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,43051.0,Unreliable
+2018,Wyoming,56,"Sweetwater County, WY",56037,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,43051.0,Unreliable
+2018,Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,43051.0,Unreliable
+2018,Wyoming,56,"Sweetwater County, WY",56037,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,43051.0,Unreliable
+2019,Wyoming,56,"Albany County, WY",56001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,38880.0,Unreliable
+2019,Wyoming,56,"Campbell County, WY",56005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,46341.0,47.5
+2019,Wyoming,56,"Campbell County, WY",56005,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,46341.0,Unreliable
+2019,Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,46341.0,Unreliable
+2019,Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,17.0,46341.0,Unreliable
+2019,Wyoming,56,"Campbell County, WY",56005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,46341.0,Unreliable
+2019,Wyoming,56,"Carbon County, WY",56007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,14800.0,Unreliable
+2019,Wyoming,56,"Converse County, WY",56009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,13822.0,Unreliable
+2019,Wyoming,56,"Fremont County, WY",56013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,39261.0,56.0
+2019,Wyoming,56,"Fremont County, WY",56013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,39261.0,Unreliable
+2019,Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,39261.0,66.2
+2019,Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,39261.0,Unreliable
+2019,Wyoming,56,"Fremont County, WY",56013,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,39261.0,Unreliable
+2019,Wyoming,56,"Fremont County, WY",56013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,39261.0,73.9
+2019,Wyoming,56,"Goshen County, WY",56015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,13211.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,20.0,99500.0,20.1
+2019,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,40.0,99500.0,40.2
+2019,Wyoming,56,"Laramie County, WY",56021,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,99500.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,99500.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,99500.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,59.0,99500.0,59.3
+2019,Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,43.0,99500.0,43.2
+2019,Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,37.0,99500.0,37.2
+2019,Wyoming,56,"Laramie County, WY",56021,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,14.0,99500.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Other diseases of the circulatory system,Congestive heart failure,I50.0,22.0,99500.0,22.1
+2019,Wyoming,56,"Laramie County, WY",56021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,99500.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,99500.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,99500.0,Unreliable
+2019,Wyoming,56,"Laramie County, WY",56021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,56.0,99500.0,56.3
+2019,Wyoming,56,"Lincoln County, WY",56023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,19830.0,Unreliable
+2019,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,79858.0,Unreliable
+2019,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,28.0,79858.0,35.1
+2019,Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,79858.0,26.3
+2019,Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,44.0,79858.0,55.1
+2019,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,79858.0,Unreliable
+2019,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,79858.0,Unreliable
+2019,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,43.0,79858.0,53.8
+2019,Wyoming,56,"Natrona County, WY",56025,Other diseases of the circulatory system,Congestive heart failure,I50.0,34.0,79858.0,42.6
+2019,Wyoming,56,"Natrona County, WY",56025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,79858.0,Unreliable
+2019,Wyoming,56,"Natrona County, WY",56025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,61.0,79858.0,76.4
+2019,Wyoming,56,"Park County, WY",56029,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,29194.0,Unreliable
+2019,Wyoming,56,"Park County, WY",56029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,29194.0,Unreliable
+2019,Wyoming,56,"Park County, WY",56029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,29194.0,Unreliable
+2019,Wyoming,56,"Park County, WY",56029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,29194.0,Unreliable
+2019,Wyoming,56,"Park County, WY",56029,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,29194.0,Unreliable
+2019,Wyoming,56,"Park County, WY",56029,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,29194.0,Unreliable
+2019,Wyoming,56,"Park County, WY",56029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,29194.0,Unreliable
+2019,Wyoming,56,"Sheridan County, WY",56033,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,30485.0,Unreliable
+2019,Wyoming,56,"Sheridan County, WY",56033,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,30485.0,Unreliable
+2019,Wyoming,56,"Sheridan County, WY",56033,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,30485.0,Unreliable
+2019,Wyoming,56,"Sheridan County, WY",56033,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,30485.0,Unreliable
+2019,Wyoming,56,"Sheridan County, WY",56033,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,30485.0,Unreliable
+2019,Wyoming,56,"Sheridan County, WY",56033,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,30485.0,Unreliable
+2019,Wyoming,56,"Sweetwater County, WY",56037,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,42343.0,Unreliable
+2019,Wyoming,56,"Sweetwater County, WY",56037,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,42343.0,Unreliable
+2019,Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,42343.0,Unreliable
+2019,Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,42343.0,Unreliable
+2019,Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,42343.0,Unreliable
+2019,Wyoming,56,"Sweetwater County, WY",56037,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,42343.0,56.7
+2020,Wyoming,56,"Albany County, WY",56001,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,38950.0,Unreliable
+2020,Wyoming,56,"Albany County, WY",56001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,38950.0,Unreliable
+2020,Wyoming,56,"Albany County, WY",56001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,11.0,38950.0,Unreliable
+2020,Wyoming,56,"Campbell County, WY",56005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,46676.0,Unreliable
+2020,Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,46676.0,Unreliable
+2020,Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,46676.0,49.3
+2020,Wyoming,56,"Campbell County, WY",56005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,46676.0,42.8
+2020,Wyoming,56,"Carbon County, WY",56007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,14711.0,Unreliable
+2020,Wyoming,56,"Fremont County, WY",56013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,39317.0,Unreliable
+2020,Wyoming,56,"Fremont County, WY",56013,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,39317.0,Unreliable
+2020,Wyoming,56,"Fremont County, WY",56013,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,39317.0,Unreliable
+2020,Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,33.0,39317.0,83.9
+2020,Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,39317.0,Unreliable
+2020,Wyoming,56,"Fremont County, WY",56013,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,39317.0,Unreliable
+2020,Wyoming,56,"Fremont County, WY",56013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,39317.0,Unreliable
+2020,Wyoming,56,"Goshen County, WY",56015,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,13235.0,Unreliable
+2020,Wyoming,56,"Goshen County, WY",56015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,13235.0,Unreliable
+2020,Wyoming,56,"Hot Springs County, WY",56017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,4425.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,38.0,100595.0,37.8
+2020,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,22.0,100595.0,21.9
+2020,Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,38.0,100595.0,37.8
+2020,Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,100595.0,40.8
+2020,Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,32.0,100595.0,31.8
+2020,Wyoming,56,"Laramie County, WY",56021,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,100595.0,Unreliable
+2020,Wyoming,56,"Laramie County, WY",56021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,63.0,100595.0,62.6
+2020,Wyoming,56,"Lincoln County, WY",56023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,20253.0,Unreliable
+2020,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,80815.0,Unreliable
+2020,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,16.0,80815.0,Unreliable
+2020,Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,33.0,80815.0,40.8
+2020,Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,Unspecified dementia,F03,38.0,80815.0,47.0
+2020,Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,41.0,80815.0,50.7
+2020,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,80815.0,Unreliable
+2020,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,27.0,80815.0,33.4
+2020,Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,45.0,80815.0,55.7
+2020,Wyoming,56,"Natrona County, WY",56025,Other diseases of the circulatory system,Congestive heart failure,I50.0,32.0,80815.0,39.6
+2020,Wyoming,56,"Natrona County, WY",56025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,80815.0,Unreliable
+2020,Wyoming,56,"Natrona County, WY",56025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,45.0,80815.0,55.7
+2020,Wyoming,56,"Natrona County, WY",56025,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,12.0,80815.0,Unreliable
+2020,Wyoming,56,"Park County, WY",56029,Alzheimer disease and dementia,Unspecified dementia,F03,20.0,29331.0,68.2
+2020,Wyoming,56,"Park County, WY",56029,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,29331.0,Unreliable
+2020,Wyoming,56,"Park County, WY",56029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,29331.0,Unreliable
+2020,Wyoming,56,"Park County, WY",56029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,29331.0,Unreliable
+2020,Wyoming,56,"Park County, WY",56029,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,29331.0,Unreliable
+2020,Wyoming,56,"Park County, WY",56029,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,29331.0,Unreliable
+2020,Wyoming,56,"Park County, WY",56029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,29331.0,Unreliable
+2020,Wyoming,56,"Sheridan County, WY",56033,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,30863.0,Unreliable
+2020,Wyoming,56,"Sheridan County, WY",56033,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,30863.0,Unreliable
+2020,Wyoming,56,"Sheridan County, WY",56033,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,30863.0,64.8
+2020,Wyoming,56,"Sheridan County, WY",56033,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,30863.0,68.0
+2020,Wyoming,56,"Sheridan County, WY",56033,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,30863.0,84.2
+2020,Wyoming,56,"Sweetwater County, WY",56037,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,42673.0,Unreliable
+2020,Wyoming,56,"Sweetwater County, WY",56037,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,42673.0,Unreliable
+2020,Wyoming,56,"Sweetwater County, WY",56037,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,42673.0,Unreliable
+2020,Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,17.0,42673.0,Unreliable
+2020,Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,42673.0,49.2
+2020,Wyoming,56,"Sweetwater County, WY",56037,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,42673.0,46.9
+2020,Wyoming,56,"Uinta County, WY",56041,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,20215.0,Unreliable
+2020,Wyoming,56,"Weston County, WY",56045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,6743.0,Unreliable
+2021 (provisional),Wyoming,56,"Campbell County, WY",56005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,10.0,46676.0,Unreliable
+2021 (provisional),Wyoming,56,"Campbell County, WY",56005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,46676.0,47.1
+2021 (provisional),Wyoming,56,"Campbell County, WY",56005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,46676.0,Unreliable
+2021 (provisional),Wyoming,56,"Converse County, WY",56009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,13804.0,Unreliable
+2021 (provisional),Wyoming,56,"Fremont County, WY",56013,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,39317.0,Unreliable
+2021 (provisional),Wyoming,56,"Fremont County, WY",56013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,39317.0,58.5
+2021 (provisional),Wyoming,56,"Fremont County, WY",56013,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,39317.0,Unreliable
+2021 (provisional),Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,39317.0,66.1
+2021 (provisional),Wyoming,56,"Fremont County, WY",56013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,39317.0,50.9
+2021 (provisional),Wyoming,56,"Fremont County, WY",56013,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,39317.0,Unreliable
+2021 (provisional),Wyoming,56,"Fremont County, WY",56013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,39317.0,Unreliable
+2021 (provisional),Wyoming,56,"Goshen County, WY",56015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,13235.0,Unreliable
+2021 (provisional),Wyoming,56,"Goshen County, WY",56015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,13235.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Sepsis,"Septicaemia, unspecified",A41.9,12.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,45.0,100595.0,44.7
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,19.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,100595.0,21.9
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,33.0,100595.0,32.8
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,32.0,100595.0,31.8
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,38.0,100595.0,37.8
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,49.0,100595.0,48.7
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,20.0,100595.0,19.9
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,100595.0,Unreliable
+2021 (provisional),Wyoming,56,"Laramie County, WY",56021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,50.0,100595.0,49.7
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,32.0,80815.0,39.6
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,Unspecified dementia,F03,36.0,80815.0,44.5
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,32.0,80815.0,39.6
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,59.0,80815.0,73.0
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,80815.0,Unreliable
+2021 (provisional),Wyoming,56,"Natrona County, WY",56025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,47.0,80815.0,58.2
+2021 (provisional),Wyoming,56,"Park County, WY",56029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,29331.0,Unreliable
+2021 (provisional),Wyoming,56,"Park County, WY",56029,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,29331.0,Unreliable
+2021 (provisional),Wyoming,56,"Park County, WY",56029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,29331.0,Unreliable
+2021 (provisional),Wyoming,56,"Park County, WY",56029,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,29331.0,Unreliable
+2021 (provisional),Wyoming,56,"Park County, WY",56029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,29331.0,Unreliable
+2021 (provisional),Wyoming,56,"Park County, WY",56029,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,29331.0,Unreliable
+2021 (provisional),Wyoming,56,"Park County, WY",56029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,29331.0,Unreliable
+2021 (provisional),Wyoming,56,"Sheridan County, WY",56033,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,30863.0,74.5
+2021 (provisional),Wyoming,56,"Sheridan County, WY",56033,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,30863.0,Unreliable
+2021 (provisional),Wyoming,56,"Sheridan County, WY",56033,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,30863.0,Unreliable
+2021 (provisional),Wyoming,56,"Sheridan County, WY",56033,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,22.0,30863.0,71.3
+2021 (provisional),Wyoming,56,"Sheridan County, WY",56033,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,30863.0,64.8
+2021 (provisional),Wyoming,56,"Sweetwater County, WY",56037,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,42673.0,Unreliable
+2021 (provisional),Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,42673.0,Unreliable
+2021 (provisional),Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,42673.0,Unreliable
+2021 (provisional),Wyoming,56,"Sweetwater County, WY",56037,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,42673.0,46.9
+2021 (provisional),Wyoming,56,"Sweetwater County, WY",56037,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,42673.0,Unreliable
+2021 (provisional),Wyoming,56,"Uinta County, WY",56041,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,20215.0,Unreliable
+2022 (provisional and partial),Wyoming,56,"Laramie County, WY",56021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,100595.0,Unreliable

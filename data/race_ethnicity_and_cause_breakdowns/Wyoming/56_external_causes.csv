@@ -1,0 +1,4 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Wyoming,"Laramie County, WY",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,17.0,98976.0,Unreliable
+2018,Wyoming,"Natrona County, WY",Nontransport accidents,Unspecified fall,W19,19.0,79115.0,Unreliable
+2018,Wyoming,"Natrona County, WY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,79115.0,Unreliable

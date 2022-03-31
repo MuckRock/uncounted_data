@@ -1,0 +1,315 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Florida,12,"Alachua County, FL",12001,Nontransport accidents,Unspecified fall,W19,48.0,269956.0,17.8
+2018,Florida,12,"Alachua County, FL",12001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,269956.0,Unreliable
+2018,Florida,12,"Alachua County, FL",12001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,269956.0,Unreliable
+2018,Florida,12,"Alachua County, FL",12001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,269956.0,Unreliable
+2018,Florida,12,"Bay County, FL",12005,Nontransport accidents,Unspecified fall,W19,12.0,185287.0,Unreliable
+2018,Florida,12,"Bay County, FL",12005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,185287.0,Unreliable
+2018,Florida,12,"Bay County, FL",12005,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,185287.0,Unreliable
+2018,Florida,12,"Bay County, FL",12005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,30.0,185287.0,16.2
+2018,Florida,12,"Brevard County, FL",12009,Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,14.0,596849.0,Unreliable
+2018,Florida,12,"Brevard County, FL",12009,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,13.0,596849.0,Unreliable
+2018,Florida,12,"Brevard County, FL",12009,Nontransport accidents,Unspecified fall,W19,110.0,596849.0,18.4
+2018,Florida,12,"Brevard County, FL",12009,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,122.0,596849.0,20.4
+2018,Florida,12,"Brevard County, FL",12009,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,104.0,596849.0,17.4
+2018,Florida,12,"Brevard County, FL",12009,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,34.0,596849.0,5.7
+2018,Florida,12,"Brevard County, FL",12009,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,61.0,596849.0,10.2
+2018,Florida,12,"Brevard County, FL",12009,Assault (homicide),Assault by other and unspecified firearm discharge,X95,24.0,596849.0,4.0
+2018,Florida,12,"Broward County, FL",12011,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,63.0,1951260.0,3.2
+2018,Florida,12,"Broward County, FL",12011,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Transport accidents (unintentional injuries),"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,10.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Transport accidents (unintentional injuries),Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,12.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,48.0,1951260.0,2.5
+2018,Florida,12,"Broward County, FL",12011,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,13.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,12.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Nontransport accidents,Other fall on same level,W18,26.0,1951260.0,1.3
+2018,Florida,12,"Broward County, FL",12011,Nontransport accidents,Unspecified fall,W19,60.0,1951260.0,3.1
+2018,Florida,12,"Broward County, FL",12011,Nontransport accidents,Drowning and submersion while in swimming-pool,W67,11.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Nontransport accidents,Drowning and submersion while in natural water,W69,14.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,12.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,15.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,184.0,1951260.0,9.4
+2018,Florida,12,"Broward County, FL",12011,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,214.0,1951260.0,11.0
+2018,Florida,12,"Broward County, FL",12011,Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,12.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,42.0,1951260.0,2.2
+2018,Florida,12,"Broward County, FL",12011,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,74.0,1951260.0,3.8
+2018,Florida,12,"Broward County, FL",12011,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,108.0,1951260.0,5.5
+2018,Florida,12,"Broward County, FL",12011,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,13.0,1951260.0,Unreliable
+2018,Florida,12,"Broward County, FL",12011,Assault (homicide),Assault by other and unspecified firearm discharge,X95,95.0,1951260.0,4.9
+2018,Florida,12,"Charlotte County, FL",12015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,184998.0,Unreliable
+2018,Florida,12,"Citrus County, FL",12017,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,15.0,147929.0,Unreliable
+2018,Florida,12,"Citrus County, FL",12017,Nontransport accidents,Unspecified fall,W19,41.0,147929.0,27.7
+2018,Florida,12,"Citrus County, FL",12017,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,22.0,147929.0,14.9
+2018,Florida,12,"Citrus County, FL",12017,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,147929.0,Unreliable
+2018,Florida,12,"Citrus County, FL",12017,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,147929.0,Unreliable
+2018,Florida,12,"Citrus County, FL",12017,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,27.0,147929.0,18.3
+2018,Florida,12,"Clay County, FL",12019,Nontransport accidents,Unspecified fall,W19,21.0,216072.0,9.7
+2018,Florida,12,"Clay County, FL",12019,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,24.0,216072.0,11.1
+2018,Florida,12,"Clay County, FL",12019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,216072.0,11.6
+2018,Florida,12,"Clay County, FL",12019,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,216072.0,Unreliable
+2018,Florida,12,"Collier County, FL",12021,Nontransport accidents,Other fall on same level,W18,10.0,378488.0,Unreliable
+2018,Florida,12,"Collier County, FL",12021,Nontransport accidents,Unspecified fall,W19,93.0,378488.0,24.6
+2018,Florida,12,"Collier County, FL",12021,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,36.0,378488.0,9.5
+2018,Florida,12,"Collier County, FL",12021,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,378488.0,Unreliable
+2018,Florida,12,"Collier County, FL",12021,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,378488.0,Unreliable
+2018,Florida,12,"Collier County, FL",12021,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,24.0,378488.0,6.3
+2018,Florida,12,"Columbia County, FL",12023,Nontransport accidents,Unspecified fall,W19,11.0,70503.0,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,20.0,950181.0,2.1
+2018,Florida,12,"Duval County, FL",12031,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,23.0,950181.0,2.4
+2018,Florida,12,"Duval County, FL",12031,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,13.0,950181.0,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,950181.0,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Nontransport accidents,Other fall on same level,W18,21.0,950181.0,2.2
+2018,Florida,12,"Duval County, FL",12031,Nontransport accidents,Unspecified fall,W19,68.0,950181.0,7.2
+2018,Florida,12,"Duval County, FL",12031,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,179.0,950181.0,18.8
+2018,Florida,12,"Duval County, FL",12031,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,96.0,950181.0,10.1
+2018,Florida,12,"Duval County, FL",12031,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,14.0,950181.0,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,35.0,950181.0,3.7
+2018,Florida,12,"Duval County, FL",12031,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,19.0,950181.0,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,950181.0,Unreliable
+2018,Florida,12,"Duval County, FL",12031,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,63.0,950181.0,6.6
+2018,Florida,12,"Duval County, FL",12031,Assault (homicide),Assault by other and unspecified firearm discharge,X95,87.0,950181.0,9.2
+2018,Florida,12,"Escambia County, FL",12033,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,19.0,315534.0,Unreliable
+2018,Florida,12,"Escambia County, FL",12033,Nontransport accidents,Other fall on same level,W18,11.0,315534.0,Unreliable
+2018,Florida,12,"Escambia County, FL",12033,Nontransport accidents,Unspecified fall,W19,12.0,315534.0,Unreliable
+2018,Florida,12,"Escambia County, FL",12033,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33.0,315534.0,10.5
+2018,Florida,12,"Escambia County, FL",12033,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,34.0,315534.0,10.8
+2018,Florida,12,"Escambia County, FL",12033,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,315534.0,7.0
+2018,Florida,12,"Escambia County, FL",12033,Assault (homicide),Assault by other and unspecified firearm discharge,X95,14.0,315534.0,Unreliable
+2018,Florida,12,"Flagler County, FL",12035,Nontransport accidents,Other fall on same level,W18,11.0,112067.0,Unreliable
+2018,Florida,12,"Flagler County, FL",12035,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,112067.0,Unreliable
+2018,Florida,12,"Flagler County, FL",12035,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,112067.0,Unreliable
+2018,Florida,12,"Hernando County, FL",12053,Nontransport accidents,Other fall on same level,W18,19.0,190865.0,Unreliable
+2018,Florida,12,"Hernando County, FL",12053,Nontransport accidents,Unspecified fall,W19,60.0,190865.0,31.4
+2018,Florida,12,"Hernando County, FL",12053,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,190865.0,Unreliable
+2018,Florida,12,"Hernando County, FL",12053,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,190865.0,11.5
+2018,Florida,12,"Hernando County, FL",12053,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,190865.0,Unreliable
+2018,Florida,12,"Highlands County, FL",12055,Nontransport accidents,Other fall on same level,W18,18.0,105424.0,Unreliable
+2018,Florida,12,"Highlands County, FL",12055,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,105424.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,36.0,1436888.0,2.5
+2018,Florida,12,"Hillsborough County, FL",12057,Transport accidents (unintentional injuries),"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,18.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,20.0,1436888.0,1.4
+2018,Florida,12,"Hillsborough County, FL",12057,Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,13.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Nontransport accidents,Other fall on same level,W18,144.0,1436888.0,10.0
+2018,Florida,12,"Hillsborough County, FL",12057,Nontransport accidents,Unspecified fall,W19,20.0,1436888.0,1.4
+2018,Florida,12,"Hillsborough County, FL",12057,Nontransport accidents,Drowning and submersion while in swimming-pool,W67,10.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Nontransport accidents,Drowning and submersion while in natural water,W69,10.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,14.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,124.0,1436888.0,8.6
+2018,Florida,12,"Hillsborough County, FL",12057,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,99.0,1436888.0,6.9
+2018,Florida,12,"Hillsborough County, FL",12057,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,17.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,56.0,1436888.0,3.9
+2018,Florida,12,"Hillsborough County, FL",12057,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,61.0,1436888.0,4.2
+2018,Florida,12,"Hillsborough County, FL",12057,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10.0,1436888.0,Unreliable
+2018,Florida,12,"Hillsborough County, FL",12057,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,35.0,1436888.0,2.4
+2018,Florida,12,"Hillsborough County, FL",12057,Assault (homicide),Assault by handgun discharge,X93,32.0,1436888.0,2.2
+2018,Florida,12,"Hillsborough County, FL",12057,Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,1436888.0,1.4
+2018,Florida,12,"Hillsborough County, FL",12057,Assault (homicide),Assault by sharp object,X99,13.0,1436888.0,Unreliable
+2018,Florida,12,"Indian River County, FL",12061,Nontransport accidents,Other fall on same level,W18,10.0,157413.0,Unreliable
+2018,Florida,12,"Indian River County, FL",12061,Nontransport accidents,Unspecified fall,W19,27.0,157413.0,17.2
+2018,Florida,12,"Indian River County, FL",12061,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,157413.0,Unreliable
+2018,Florida,12,"Indian River County, FL",12061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,157413.0,Unreliable
+2018,Florida,12,"Indian River County, FL",12061,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,157413.0,12.7
+2018,Florida,12,"Lake County, FL",12069,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,10.0,356495.0,Unreliable
+2018,Florida,12,"Lake County, FL",12069,Transport accidents (unintentional injuries),Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,11.0,356495.0,Unreliable
+2018,Florida,12,"Lake County, FL",12069,Nontransport accidents,Other fall on same level,W18,36.0,356495.0,10.1
+2018,Florida,12,"Lake County, FL",12069,Nontransport accidents,Unspecified fall,W19,125.0,356495.0,35.1
+2018,Florida,12,"Lake County, FL",12069,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,356495.0,Unreliable
+2018,Florida,12,"Lake County, FL",12069,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,356495.0,Unreliable
+2018,Florida,12,"Lake County, FL",12069,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,356495.0,Unreliable
+2018,Florida,12,"Lake County, FL",12069,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,33.0,356495.0,9.3
+2018,Florida,12,"Lee County, FL",12071,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,14.0,754610.0,Unreliable
+2018,Florida,12,"Lee County, FL",12071,Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,10.0,754610.0,Unreliable
+2018,Florida,12,"Lee County, FL",12071,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,13.0,754610.0,Unreliable
+2018,Florida,12,"Lee County, FL",12071,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,11.0,754610.0,Unreliable
+2018,Florida,12,"Lee County, FL",12071,Nontransport accidents,Other fall on same level,W18,44.0,754610.0,5.8
+2018,Florida,12,"Lee County, FL",12071,Nontransport accidents,Unspecified fall,W19,84.0,754610.0,11.1
+2018,Florida,12,"Lee County, FL",12071,Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,10.0,754610.0,Unreliable
+2018,Florida,12,"Lee County, FL",12071,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,155.0,754610.0,20.5
+2018,Florida,12,"Lee County, FL",12071,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,63.0,754610.0,8.3
+2018,Florida,12,"Lee County, FL",12071,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,37.0,754610.0,4.9
+2018,Florida,12,"Lee County, FL",12071,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,29.0,754610.0,3.8
+2018,Florida,12,"Lee County, FL",12071,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,42.0,754610.0,5.6
+2018,Florida,12,"Lee County, FL",12071,Assault (homicide),Assault by other and unspecified firearm discharge,X95,30.0,754610.0,4.0
+2018,Florida,12,"Leon County, FL",12073,Nontransport accidents,Other fall on same level,W18,18.0,292502.0,Unreliable
+2018,Florida,12,"Leon County, FL",12073,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,292502.0,Unreliable
+2018,Florida,12,"Leon County, FL",12073,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,13.0,292502.0,Unreliable
+2018,Florida,12,"Manatee County, FL",12081,Transport accidents (unintentional injuries),"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,13.0,394855.0,Unreliable
+2018,Florida,12,"Manatee County, FL",12081,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,15.0,394855.0,Unreliable
+2018,Florida,12,"Manatee County, FL",12081,Nontransport accidents,Other fall on same level,W18,51.0,394855.0,12.9
+2018,Florida,12,"Manatee County, FL",12081,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,45.0,394855.0,11.4
+2018,Florida,12,"Manatee County, FL",12081,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,36.0,394855.0,9.1
+2018,Florida,12,"Manatee County, FL",12081,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,394855.0,Unreliable
+2018,Florida,12,"Manatee County, FL",12081,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,39.0,394855.0,9.9
+2018,Florida,12,"Marion County, FL",12083,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,11.0,359977.0,Unreliable
+2018,Florida,12,"Marion County, FL",12083,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,21.0,359977.0,5.8
+2018,Florida,12,"Marion County, FL",12083,Nontransport accidents,Other fall on same level,W18,21.0,359977.0,5.8
+2018,Florida,12,"Marion County, FL",12083,Nontransport accidents,Unspecified fall,W19,184.0,359977.0,51.1
+2018,Florida,12,"Marion County, FL",12083,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,359977.0,Unreliable
+2018,Florida,12,"Marion County, FL",12083,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,46.0,359977.0,12.8
+2018,Florida,12,"Marion County, FL",12083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,61.0,359977.0,16.9
+2018,Florida,12,"Marion County, FL",12083,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,25.0,359977.0,6.9
+2018,Florida,12,"Marion County, FL",12083,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,43.0,359977.0,11.9
+2018,Florida,12,"Marion County, FL",12083,Assault (homicide),Assault by other and unspecified firearm discharge,X95,22.0,359977.0,6.1
+2018,Florida,12,"Martin County, FL",12085,Nontransport accidents,Other fall on same level,W18,12.0,160912.0,Unreliable
+2018,Florida,12,"Martin County, FL",12085,Nontransport accidents,Unspecified fall,W19,14.0,160912.0,Unreliable
+2018,Florida,12,"Martin County, FL",12085,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,160912.0,15.5
+2018,Florida,12,"Martin County, FL",12085,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,160912.0,12.4
+2018,Florida,12,"Martin County, FL",12085,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,160912.0,13.1
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,75.0,2761581.0,2.7
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,17.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,21.0,2761581.0,0.8
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,55.0,2761581.0,2.0
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,12.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),Car occupant [any] injured in unspecified traffic accident,V49.9,13.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,14.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Nontransport accidents,Other fall on same level,W18,10.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Nontransport accidents,Unspecified fall,W19,120.0,2761581.0,4.3
+2018,Florida,12,"Miami-Dade County, FL",12086,Nontransport accidents,Drowning and submersion while in natural water,W69,10.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,19.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,19.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,126.0,2761581.0,4.6
+2018,Florida,12,"Miami-Dade County, FL",12086,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,101.0,2761581.0,3.7
+2018,Florida,12,"Miami-Dade County, FL",12086,Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,21.0,2761581.0,0.8
+2018,Florida,12,"Miami-Dade County, FL",12086,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,23.0,2761581.0,0.8
+2018,Florida,12,"Miami-Dade County, FL",12086,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,69.0,2761581.0,2.5
+2018,Florida,12,"Miami-Dade County, FL",12086,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,131.0,2761581.0,4.7
+2018,Florida,12,"Miami-Dade County, FL",12086,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,28.0,2761581.0,1.0
+2018,Florida,12,"Miami-Dade County, FL",12086,Assault (homicide),Assault by other and unspecified firearm discharge,X95,161.0,2761581.0,5.8
+2018,Florida,12,"Miami-Dade County, FL",12086,Assault (homicide),Assault by sharp object,X99,14.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,Assault (homicide),Assault by unspecified means,Y09,10.0,2761581.0,Unreliable
+2018,Florida,12,"Miami-Dade County, FL",12086,,"Surgical procedure, unspecified",Y83.9,11.0,2761581.0,Unreliable
+2018,Florida,12,"Monroe County, FL",12087,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,75027.0,29.3
+2018,Florida,12,"Nassau County, FL",12089,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,85832.0,Unreliable
+2018,Florida,12,"Okaloosa County, FL",12091,Nontransport accidents,Other fall on same level,W18,17.0,207269.0,Unreliable
+2018,Florida,12,"Okaloosa County, FL",12091,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,207269.0,9.6
+2018,Florida,12,"Okaloosa County, FL",12091,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29.0,207269.0,14.0
+2018,Florida,12,"Okaloosa County, FL",12091,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,207269.0,Unreliable
+2018,Florida,12,"Okaloosa County, FL",12091,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,17.0,207269.0,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,36.0,1380645.0,2.6
+2018,Florida,12,"Orange County, FL",12095,Transport accidents (unintentional injuries),"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,17.0,1380645.0,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,22.0,1380645.0,1.6
+2018,Florida,12,"Orange County, FL",12095,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,14.0,1380645.0,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Nontransport accidents,Other fall on same level,W18,89.0,1380645.0,6.4
+2018,Florida,12,"Orange County, FL",12095,Nontransport accidents,Unspecified fall,W19,32.0,1380645.0,2.3
+2018,Florida,12,"Orange County, FL",12095,Nontransport accidents,Drowning and submersion while in natural water,W69,10.0,1380645.0,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,12.0,1380645.0,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,166.0,1380645.0,12.0
+2018,Florida,12,"Orange County, FL",12095,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,67.0,1380645.0,4.9
+2018,Florida,12,"Orange County, FL",12095,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,1380645.0,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,1380645.0,Unreliable
+2018,Florida,12,"Orange County, FL",12095,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,47.0,1380645.0,3.4
+2018,Florida,12,"Orange County, FL",12095,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,59.0,1380645.0,4.3
+2018,Florida,12,"Orange County, FL",12095,Assault (homicide),Assault by handgun discharge,X93,41.0,1380645.0,3.0
+2018,Florida,12,"Orange County, FL",12095,Assault (homicide),Assault by other and unspecified firearm discharge,X95,49.0,1380645.0,3.5
+2018,Florida,12,"Osceola County, FL",12097,Nontransport accidents,Other fall on same level,W18,19.0,367990.0,Unreliable
+2018,Florida,12,"Osceola County, FL",12097,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,53.0,367990.0,14.4
+2018,Florida,12,"Osceola County, FL",12097,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,367990.0,5.4
+2018,Florida,12,"Osceola County, FL",12097,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,367990.0,Unreliable
+2018,Florida,12,"Osceola County, FL",12097,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,13.0,367990.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,28.0,1485941.0,1.9
+2018,Florida,12,"Palm Beach County, FL",12099,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,32.0,1485941.0,2.2
+2018,Florida,12,"Palm Beach County, FL",12099,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,19.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,19.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Nontransport accidents,Other fall on same level,W18,92.0,1485941.0,6.2
+2018,Florida,12,"Palm Beach County, FL",12099,Nontransport accidents,Unspecified fall,W19,120.0,1485941.0,8.1
+2018,Florida,12,"Palm Beach County, FL",12099,Nontransport accidents,Drowning and submersion while in natural water,W69,11.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Nontransport accidents,Accidental suffocation and strangulation in bed,W75,10.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,11.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,261.0,1485941.0,17.6
+2018,Florida,12,"Palm Beach County, FL",12099,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,89.0,1485941.0,6.0
+2018,Florida,12,"Palm Beach County, FL",12099,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,11.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,12.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,27.0,1485941.0,1.8
+2018,Florida,12,"Palm Beach County, FL",12099,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,52.0,1485941.0,3.5
+2018,Florida,12,"Palm Beach County, FL",12099,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,16.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,91.0,1485941.0,6.1
+2018,Florida,12,"Palm Beach County, FL",12099,Intentional self-harm (suicide),Intentional self-harm by jumping or lying before moving object,X81,11.0,1485941.0,Unreliable
+2018,Florida,12,"Palm Beach County, FL",12099,Assault (homicide),Assault by other and unspecified firearm discharge,X95,71.0,1485941.0,4.8
+2018,Florida,12,"Pasco County, FL",12101,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,14.0,539630.0,Unreliable
+2018,Florida,12,"Pasco County, FL",12101,Transport accidents (unintentional injuries),"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,15.0,539630.0,Unreliable
+2018,Florida,12,"Pasco County, FL",12101,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,20.0,539630.0,3.7
+2018,Florida,12,"Pasco County, FL",12101,Nontransport accidents,Other fall on same level,W18,135.0,539630.0,25.0
+2018,Florida,12,"Pasco County, FL",12101,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,15.0,539630.0,Unreliable
+2018,Florida,12,"Pasco County, FL",12101,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,63.0,539630.0,11.7
+2018,Florida,12,"Pasco County, FL",12101,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,74.0,539630.0,13.7
+2018,Florida,12,"Pasco County, FL",12101,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,32.0,539630.0,5.9
+2018,Florida,12,"Pasco County, FL",12101,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,58.0,539630.0,10.7
+2018,Florida,12,"Pasco County, FL",12101,Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,539630.0,Unreliable
+2018,Florida,12,"Pinellas County, FL",12103,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,33.0,975280.0,3.4
+2018,Florida,12,"Pinellas County, FL",12103,Transport accidents (unintentional injuries),"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,16.0,975280.0,Unreliable
+2018,Florida,12,"Pinellas County, FL",12103,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,21.0,975280.0,2.2
+2018,Florida,12,"Pinellas County, FL",12103,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,10.0,975280.0,Unreliable
+2018,Florida,12,"Pinellas County, FL",12103,Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,10.0,975280.0,Unreliable
+2018,Florida,12,"Pinellas County, FL",12103,Nontransport accidents,Other fall on same level,W18,182.0,975280.0,18.7
+2018,Florida,12,"Pinellas County, FL",12103,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,154.0,975280.0,15.8
+2018,Florida,12,"Pinellas County, FL",12103,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,104.0,975280.0,10.7
+2018,Florida,12,"Pinellas County, FL",12103,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,21.0,975280.0,2.2
+2018,Florida,12,"Pinellas County, FL",12103,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,52.0,975280.0,5.3
+2018,Florida,12,"Pinellas County, FL",12103,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,91.0,975280.0,9.3
+2018,Florida,12,"Pinellas County, FL",12103,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,18.0,975280.0,Unreliable
+2018,Florida,12,"Pinellas County, FL",12103,Assault (homicide),Assault by other and unspecified firearm discharge,X95,33.0,975280.0,3.4
+2018,Florida,12,"Pinellas County, FL",12103,Assault (homicide),Assault by unspecified means,Y09,10.0,975280.0,Unreliable
+2018,Florida,12,"Polk County, FL",12105,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,21.0,708009.0,3.0
+2018,Florida,12,"Polk County, FL",12105,Transport accidents (unintentional injuries),Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,12.0,708009.0,Unreliable
+2018,Florida,12,"Polk County, FL",12105,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,31.0,708009.0,4.4
+2018,Florida,12,"Polk County, FL",12105,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident",V43.6,11.0,708009.0,Unreliable
+2018,Florida,12,"Polk County, FL",12105,Nontransport accidents,Other fall on same level,W18,58.0,708009.0,8.2
+2018,Florida,12,"Polk County, FL",12105,Nontransport accidents,Unspecified fall,W19,11.0,708009.0,Unreliable
+2018,Florida,12,"Polk County, FL",12105,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,34.0,708009.0,4.8
+2018,Florida,12,"Polk County, FL",12105,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,54.0,708009.0,7.6
+2018,Florida,12,"Polk County, FL",12105,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,39.0,708009.0,5.5
+2018,Florida,12,"Polk County, FL",12105,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,26.0,708009.0,3.7
+2018,Florida,12,"Polk County, FL",12105,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,49.0,708009.0,6.9
+2018,Florida,12,"Polk County, FL",12105,Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,708009.0,Unreliable
+2018,Florida,12,"Putnam County, FL",12107,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,74163.0,Unreliable
+2018,Florida,12,"St. Johns County, FL",12109,Nontransport accidents,Unspecified fall,W19,15.0,254261.0,Unreliable
+2018,Florida,12,"St. Johns County, FL",12109,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,254261.0,Unreliable
+2018,Florida,12,"St. Johns County, FL",12109,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,254261.0,Unreliable
+2018,Florida,12,"St. Johns County, FL",12109,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,254261.0,8.7
+2018,Florida,12,"St. Johns County, FL",12109,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,254261.0,Unreliable
+2018,Florida,12,"St. Lucie County, FL",12111,Nontransport accidents,Unspecified fall,W19,30.0,321128.0,9.3
+2018,Florida,12,"St. Lucie County, FL",12111,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,321128.0,9.0
+2018,Florida,12,"St. Lucie County, FL",12111,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,321128.0,10.3
+2018,Florida,12,"St. Lucie County, FL",12111,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,321128.0,Unreliable
+2018,Florida,12,"St. Lucie County, FL",12111,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,26.0,321128.0,8.1
+2018,Florida,12,"St. Lucie County, FL",12111,Assault (homicide),Assault by other and unspecified firearm discharge,X95,19.0,321128.0,Unreliable
+2018,Florida,12,"Santa Rosa County, FL",12113,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,179349.0,Unreliable
+2018,Florida,12,"Santa Rosa County, FL",12113,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,179349.0,Unreliable
+2018,Florida,12,"Santa Rosa County, FL",12113,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,18.0,179349.0,Unreliable
+2018,Florida,12,"Sarasota County, FL",12115,Nontransport accidents,Other fall on same level,W18,74.0,426718.0,17.3
+2018,Florida,12,"Sarasota County, FL",12115,Nontransport accidents,Unspecified fall,W19,12.0,426718.0,Unreliable
+2018,Florida,12,"Sarasota County, FL",12115,Nontransport accidents,Drowning and submersion while in natural water,W69,10.0,426718.0,Unreliable
+2018,Florida,12,"Sarasota County, FL",12115,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,44.0,426718.0,10.3
+2018,Florida,12,"Sarasota County, FL",12115,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,426718.0,5.4
+2018,Florida,12,"Sarasota County, FL",12115,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,426718.0,Unreliable
+2018,Florida,12,"Sarasota County, FL",12115,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,426718.0,5.2
+2018,Florida,12,"Sarasota County, FL",12115,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,39.0,426718.0,9.1
+2018,Florida,12,"Seminole County, FL",12117,Nontransport accidents,Other fall on same level,W18,41.0,467832.0,8.8
+2018,Florida,12,"Seminole County, FL",12117,Nontransport accidents,Unspecified fall,W19,20.0,467832.0,4.3
+2018,Florida,12,"Seminole County, FL",12117,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,54.0,467832.0,11.5
+2018,Florida,12,"Seminole County, FL",12117,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,35.0,467832.0,7.5
+2018,Florida,12,"Seminole County, FL",12117,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,467832.0,Unreliable
+2018,Florida,12,"Seminole County, FL",12117,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,467832.0,4.7
+2018,Florida,12,"Seminole County, FL",12117,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,467832.0,Unreliable
+2018,Florida,12,"Sumter County, FL",12119,Nontransport accidents,Other fall on same level,W18,13.0,128754.0,Unreliable
+2018,Florida,12,"Sumter County, FL",12119,Nontransport accidents,Unspecified fall,W19,78.0,128754.0,60.6
+2018,Florida,12,"Sumter County, FL",12119,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,128754.0,Unreliable
+2018,Florida,12,"Volusia County, FL",12127,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,24.0,547538.0,4.4
+2018,Florida,12,"Volusia County, FL",12127,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,15.0,547538.0,Unreliable
+2018,Florida,12,"Volusia County, FL",12127,Nontransport accidents,Other fall on same level,W18,68.0,547538.0,12.4
+2018,Florida,12,"Volusia County, FL",12127,Nontransport accidents,Unspecified fall,W19,42.0,547538.0,7.7
+2018,Florida,12,"Volusia County, FL",12127,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,89.0,547538.0,16.3
+2018,Florida,12,"Volusia County, FL",12127,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,65.0,547538.0,11.9
+2018,Florida,12,"Volusia County, FL",12127,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,547538.0,Unreliable
+2018,Florida,12,"Volusia County, FL",12127,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,28.0,547538.0,5.1
+2018,Florida,12,"Volusia County, FL",12127,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,547538.0,Unreliable
+2018,Florida,12,"Volusia County, FL",12127,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,55.0,547538.0,10.0
+2018,Florida,12,"Volusia County, FL",12127,Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,547538.0,Unreliable

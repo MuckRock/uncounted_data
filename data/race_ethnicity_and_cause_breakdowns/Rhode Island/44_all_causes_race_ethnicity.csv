@@ -1,0 +1,82 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Rhode Island,44,"Bristol County, RI",44001,White,Not Hispanic or Latino,509.0,44504.0,1143.7,668.5
+2018,Rhode Island,44,"Kent County, RI",44003,Asian,Not Hispanic or Latino,10.0,4359.0,Unreliable,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,Black or African American,Not Hispanic or Latino,12.0,3005.0,Unreliable,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,White,Hispanic or Latino,15.0,6858.0,Unreliable,Unreliable
+2018,Rhode Island,44,"Kent County, RI",44003,White,Not Hispanic or Latino,1684.0,144352.0,1166.6,734.7
+2018,Rhode Island,44,"Newport County, RI",44005,Black or African American,Not Hispanic or Latino,26.0,3054.0,851.3,720.7
+2018,Rhode Island,44,"Newport County, RI",44005,White,Not Hispanic or Latino,729.0,70641.0,1032.0,565.6
+2018,Rhode Island,44,"Providence County, RI",44007,American Indian or Alaska Native,Not Hispanic or Latino,18.0,2678.0,Unreliable,Unreliable
+2018,Rhode Island,44,"Providence County, RI",44007,Asian,Not Hispanic or Latino,90.0,27352.0,329.0,543.8
+2018,Rhode Island,44,"Providence County, RI",44007,Black or African American,Not Hispanic or Latino,295.0,55095.0,535.4,678.6
+2018,Rhode Island,44,"Providence County, RI",44007,White,Hispanic or Latino,258.0,110737.0,233.0,395.5
+2018,Rhode Island,44,"Providence County, RI",44007,White,Not Hispanic or Latino,5075.0,387193.0,1310.7,784.2
+2018,Rhode Island,44,"Providence County, RI",44007,More than one race,Hispanic or Latino,35.0,6372.0,549.3,1216.0
+2018,Rhode Island,44,"Providence County, RI",44007,More than one race,Not Hispanic or Latino,21.0,14242.0,147.5,325.7
+2018,Rhode Island,44,"Washington County, RI",44009,American Indian or Alaska Native,Not Hispanic or Latino,14.0,995.0,Unreliable,Unreliable
+2018,Rhode Island,44,"Washington County, RI",44009,White,Not Hispanic or Latino,1217.0,114749.0,1060.6,665.5
+2019,Rhode Island,44,"Bristol County, RI",44001,White,Not Hispanic or Latino,511.0,44119.0,1158.2,670.7
+2019,Rhode Island,44,"Kent County, RI",44003,Asian,Not Hispanic or Latino,11.0,4613.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,Black or African American,Not Hispanic or Latino,15.0,3151.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,White,Hispanic or Latino,15.0,7267.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Kent County, RI",44003,White,Not Hispanic or Latino,1830.0,143658.0,1273.9,797.8
+2019,Rhode Island,44,"Newport County, RI",44005,Black or African American,Not Hispanic or Latino,24.0,3053.0,786.1,756.6
+2019,Rhode Island,44,"Newport County, RI",44005,White,Not Hispanic or Latino,830.0,70275.0,1181.1,645.7
+2019,Rhode Island,44,"Providence County, RI",44007,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2715.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Asian,Not Hispanic or Latino,81.0,28103.0,288.2,461.1
+2019,Rhode Island,44,"Providence County, RI",44007,Black or African American,Hispanic or Latino,11.0,23309.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Providence County, RI",44007,Black or African American,Not Hispanic or Latino,286.0,56549.0,505.8,590.9
+2019,Rhode Island,44,"Providence County, RI",44007,White,Hispanic or Latino,325.0,113940.0,285.2,469.3
+2019,Rhode Island,44,"Providence County, RI",44007,White,Not Hispanic or Latino,4923.0,383842.0,1282.6,775.1
+2019,Rhode Island,44,"Providence County, RI",44007,White,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2019,Rhode Island,44,"Providence County, RI",44007,More than one race,Hispanic or Latino,44.0,6668.0,659.9,1657.7
+2019,Rhode Island,44,"Providence County, RI",44007,More than one race,Not Hispanic or Latino,19.0,14609.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Asian,Not Hispanic or Latino,11.0,2509.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,Black or African American,Not Hispanic or Latino,12.0,1597.0,Unreliable,Unreliable
+2019,Rhode Island,44,"Washington County, RI",44009,White,Not Hispanic or Latino,1218.0,114037.0,1068.1,656.4
+2020,Rhode Island,44,"Bristol County, RI",44001,White,Not Hispanic or Latino,554.0,43905.0,1261.8,721.1
+2020,Rhode Island,44,"Kent County, RI",44003,Asian,Not Hispanic or Latino,19.0,4750.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,Black or African American,Not Hispanic or Latino,23.0,3351.0,686.4,827.4
+2020,Rhode Island,44,"Kent County, RI",44003,White,Hispanic or Latino,17.0,7705.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Kent County, RI",44003,White,Not Hispanic or Latino,1941.0,142823.0,1359.0,855.9
+2020,Rhode Island,44,"Newport County, RI",44005,Black or African American,Not Hispanic or Latino,16.0,3009.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Newport County, RI",44005,White,Not Hispanic or Latino,794.0,69913.0,1135.7,611.5
+2020,Rhode Island,44,"Newport County, RI",44005,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2020,Rhode Island,44,"Providence County, RI",44007,American Indian or Alaska Native,Not Hispanic or Latino,19.0,2655.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Asian,Not Hispanic or Latino,107.0,27206.0,393.3,606.2
+2020,Rhode Island,44,"Providence County, RI",44007,Black or African American,Hispanic or Latino,15.0,25070.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Providence County, RI",44007,Black or African American,Not Hispanic or Latino,384.0,56305.0,682.0,789.8
+2020,Rhode Island,44,"Providence County, RI",44007,White,Hispanic or Latino,452.0,114276.0,395.5,626.3
+2020,Rhode Island,44,"Providence County, RI",44007,White,Not Hispanic or Latino,5920.0,379456.0,1560.1,925.4
+2020,Rhode Island,44,"Providence County, RI",44007,White,Not Stated,17.0,Not Applicable,Not Applicable,Not Applicable
+2020,Rhode Island,44,"Providence County, RI",44007,More than one race,Hispanic or Latino,50.0,6768.0,738.8,1618.7
+2020,Rhode Island,44,"Providence County, RI",44007,More than one race,Not Hispanic or Latino,22.0,14864.0,148.0,325.4
+2020,Rhode Island,44,"Washington County, RI",44009,American Indian or Alaska Native,Not Hispanic or Latino,12.0,904.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Asian,Not Hispanic or Latino,11.0,2561.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,Black or African American,Not Hispanic or Latino,15.0,1595.0,Unreliable,Unreliable
+2020,Rhode Island,44,"Washington County, RI",44009,White,Not Hispanic or Latino,1364.0,113996.0,1196.5,712.7
+2021 (provisional),Rhode Island,44,"Bristol County, RI",44001,White,Not Hispanic or Latino,576.0,43905.0,1311.9,758.7
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Asian,Not Hispanic or Latino,23.0,4750.0,484.2,572.4
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,Black or African American,Not Hispanic or Latino,25.0,3351.0,746.0,778.1
+2021 (provisional),Rhode Island,44,"Kent County, RI",44003,White,Not Hispanic or Latino,2026.0,142823.0,1418.5,886.8
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,Black or African American,Not Hispanic or Latino,17.0,3009.0,Unreliable,Unreliable
+2021 (provisional),Rhode Island,44,"Newport County, RI",44005,White,Not Hispanic or Latino,846.0,69913.0,1210.1,647.5
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,American Indian or Alaska Native,Not Hispanic or Latino,25.0,2655.0,941.6,1098.2
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Asian,Not Hispanic or Latino,113.0,27206.0,415.3,578.8
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,Black or African American,Not Hispanic or Latino,378.0,56305.0,671.3,765.7
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,White,Hispanic or Latino,107.0,114276.0,93.6,153.9
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,White,Not Hispanic or Latino,5513.0,379456.0,1452.9,897.0
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,More than one race,Hispanic or Latino,11.0,6768.0,Unreliable,Unreliable
+2021 (provisional),Rhode Island,44,"Providence County, RI",44007,More than one race,Not Hispanic or Latino,51.0,14864.0,343.1,690.4
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,American Indian or Alaska Native,Not Hispanic or Latino,11.0,904.0,Unreliable,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,Asian,Not Hispanic or Latino,11.0,2561.0,Unreliable,Unreliable
+2021 (provisional),Rhode Island,44,"Washington County, RI",44009,White,Not Hispanic or Latino,1323.0,113996.0,1160.6,716.9
+2022 (provisional and partial),Rhode Island,44,"Bristol County, RI",44001,White,Not Hispanic or Latino,83.0,43905.0,189.0,111.0
+2022 (provisional and partial),Rhode Island,44,"Kent County, RI",44003,Black or African American,Not Hispanic or Latino,10.0,3351.0,Unreliable,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Kent County, RI",44003,White,Not Hispanic or Latino,274.0,142823.0,191.8,121.8
+2022 (provisional and partial),Rhode Island,44,"Newport County, RI",44005,White,Not Hispanic or Latino,133.0,69913.0,190.2,99.2
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Asian,Not Hispanic or Latino,16.0,27206.0,Unreliable,Unreliable
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,Black or African American,Not Hispanic or Latino,67.0,56305.0,119.0,133.3
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,White,Hispanic or Latino,61.0,114276.0,53.4,87.1
+2022 (provisional and partial),Rhode Island,44,"Providence County, RI",44007,White,Not Hispanic or Latino,833.0,379456.0,219.5,128.9
+2022 (provisional and partial),Rhode Island,44,"Washington County, RI",44009,White,Not Hispanic or Latino,170.0,113996.0,149.1,91.8

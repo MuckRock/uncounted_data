@@ -1,0 +1,440 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Oregon,41,"Baker County, OR",41001,White,Not Hispanic or Latino,214.0,14466.0,1479.3,832.3
+2018,Oregon,41,"Benton County, OR",41003,White,Not Hispanic or Latino,543.0,73601.0,737.8,556.1
+2018,Oregon,41,"Clackamas County, OR",41005,Asian,Not Hispanic or Latino,76.0,19303.0,393.7,424.9
+2018,Oregon,41,"Clackamas County, OR",41005,Black or African American,Not Hispanic or Latino,20.0,4136.0,483.6,887.4
+2018,Oregon,41,"Clackamas County, OR",41005,White,Hispanic or Latino,70.0,31719.0,220.7,487.2
+2018,Oregon,41,"Clackamas County, OR",41005,White,Not Hispanic or Latino,3209.0,339341.0,945.7,657.0
+2018,Oregon,41,"Clackamas County, OR",41005,More than one race,Not Hispanic or Latino,22.0,12701.0,173.2,351.4
+2018,Oregon,41,"Clatsop County, OR",41007,White,Not Hispanic or Latino,370.0,33839.0,1093.4,730.4
+2018,Oregon,41,"Columbia County, OR",41009,White,Not Hispanic or Latino,466.0,46140.0,1010.0,730.7
+2018,Oregon,41,"Coos County, OR",41011,White,Not Hispanic or Latino,917.0,54754.0,1674.8,925.8
+2018,Oregon,41,"Crook County, OR",41013,White,Not Hispanic or Latino,276.0,21005.0,1314.0,794.7
+2018,Oregon,41,"Curry County, OR",41015,White,Not Hispanic or Latino,326.0,19603.0,1663.0,698.8
+2018,Oregon,41,"Deschutes County, OR",41017,White,Hispanic or Latino,36.0,13661.0,263.5,558.2
+2018,Oregon,41,"Deschutes County, OR",41017,White,Not Hispanic or Latino,1466.0,167270.0,876.4,626.3
+2018,Oregon,41,"Douglas County, OR",41019,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1908.0,Unreliable,Unreliable
+2018,Oregon,41,"Douglas County, OR",41019,White,Hispanic or Latino,23.0,5570.0,412.9,488.0
+2018,Oregon,41,"Douglas County, OR",41019,White,Not Hispanic or Latino,1463.0,96545.0,1515.4,840.1
+2018,Oregon,41,"Gilliam County, OR",41021,White,Not Hispanic or Latino,24.0,1667.0,1439.7,628.6
+2018,Oregon,41,"Grant County, OR",41023,White,Not Hispanic or Latino,94.0,6538.0,1437.7,754.3
+2018,Oregon,41,"Harney County, OR",41025,White,Not Hispanic or Latino,77.0,6367.0,1209.4,712.7
+2018,Oregon,41,"Hood River County, OR",41027,White,Not Hispanic or Latino,175.0,14748.0,1186.6,768.9
+2018,Oregon,41,"Jackson County, OR",41029,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2071.0,Unreliable,Unreliable
+2018,Oregon,41,"Jackson County, OR",41029,Asian,Not Hispanic or Latino,11.0,3172.0,Unreliable,Unreliable
+2018,Oregon,41,"Jackson County, OR",41029,Black or African American,Not Hispanic or Latino,12.0,1672.0,Unreliable,Unreliable
+2018,Oregon,41,"Jackson County, OR",41029,White,Hispanic or Latino,77.0,25240.0,305.1,561.3
+2018,Oregon,41,"Jackson County, OR",41029,White,Not Hispanic or Latino,2213.0,176620.0,1253.0,740.1
+2018,Oregon,41,"Jackson County, OR",41029,More than one race,Not Hispanic or Latino,17.0,6344.0,Unreliable,Unreliable
+2018,Oregon,41,"Jefferson County, OR",41031,American Indian or Alaska Native,Not Hispanic or Latino,30.0,3717.0,807.1,1053.6
+2018,Oregon,41,"Jefferson County, OR",41031,White,Hispanic or Latino,12.0,3671.0,Unreliable,Unreliable
+2018,Oregon,41,"Jefferson County, OR",41031,White,Not Hispanic or Latino,168.0,14558.0,1154.0,682.0
+2018,Oregon,41,"Josephine County, OR",41033,White,Hispanic or Latino,30.0,5520.0,543.5,617.2
+2018,Oregon,41,"Josephine County, OR",41033,White,Not Hispanic or Latino,1173.0,75770.0,1548.1,874.8
+2018,Oregon,41,"Josephine County, OR",41033,More than one race,Not Hispanic or Latino,12.0,2458.0,Unreliable,Unreliable
+2018,Oregon,41,"Klamath County, OR",41035,American Indian or Alaska Native,Not Hispanic or Latino,23.0,2507.0,917.4,947.6
+2018,Oregon,41,"Klamath County, OR",41035,White,Hispanic or Latino,28.0,7515.0,372.6,581.6
+2018,Oregon,41,"Klamath County, OR",41035,White,Not Hispanic or Latino,769.0,52359.0,1468.7,914.1
+2018,Oregon,41,"Lake County, OR",41037,White,Not Hispanic or Latino,101.0,6646.0,1519.7,810.4
+2018,Oregon,41,"Lane County, OR",41039,American Indian or Alaska Native,Not Hispanic or Latino,24.0,4003.0,599.6,640.1
+2018,Oregon,41,"Lane County, OR",41039,Asian,Not Hispanic or Latino,32.0,11865.0,269.7,431.9
+2018,Oregon,41,"Lane County, OR",41039,Black or African American,Not Hispanic or Latino,24.0,4015.0,597.8,788.9
+2018,Oregon,41,"Lane County, OR",41039,White,Hispanic or Latino,77.0,28905.0,266.4,575.5
+2018,Oregon,41,"Lane County, OR",41039,White,Not Hispanic or Latino,3443.0,309396.0,1112.8,734.5
+2018,Oregon,41,"Lane County, OR",41039,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2018,Oregon,41,"Lane County, OR",41039,More than one race,Not Hispanic or Latino,17.0,14722.0,Unreliable,Unreliable
+2018,Oregon,41,"Lincoln County, OR",41041,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1552.0,Unreliable,Unreliable
+2018,Oregon,41,"Lincoln County, OR",41041,White,Hispanic or Latino,10.0,3826.0,Unreliable,Unreliable
+2018,Oregon,41,"Lincoln County, OR",41041,White,Not Hispanic or Latino,562.0,40485.0,1388.2,734.4
+2018,Oregon,41,"Linn County, OR",41043,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1495.0,Unreliable,Unreliable
+2018,Oregon,41,"Linn County, OR",41043,Asian,Not Hispanic or Latino,13.0,1392.0,Unreliable,Unreliable
+2018,Oregon,41,"Linn County, OR",41043,White,Hispanic or Latino,21.0,10013.0,209.7,451.2
+2018,Oregon,41,"Linn County, OR",41043,White,Not Hispanic or Latino,1247.0,107915.0,1155.5,820.2
+2018,Oregon,41,"Malheur County, OR",41045,White,Hispanic or Latino,32.0,9707.0,329.7,596.7
+2018,Oregon,41,"Malheur County, OR",41045,White,Not Hispanic or Latino,248.0,18568.0,1335.6,799.1
+2018,Oregon,41,"Marion County, OR",41047,American Indian or Alaska Native,Not Hispanic or Latino,16.0,3577.0,Unreliable,Unreliable
+2018,Oregon,41,"Marion County, OR",41047,Asian,Not Hispanic or Latino,32.0,7858.0,407.2,424.3
+2018,Oregon,41,"Marion County, OR",41047,Black or African American,Not Hispanic or Latino,15.0,3866.0,Unreliable,Unreliable
+2018,Oregon,41,"Marion County, OR",41047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,15.0,3294.0,Unreliable,Unreliable
+2018,Oregon,41,"Marion County, OR",41047,White,Hispanic or Latino,151.0,82457.0,183.1,494.4
+2018,Oregon,41,"Marion County, OR",41047,White,Not Hispanic or Latino,2527.0,225307.0,1121.6,738.6
+2018,Oregon,41,"Marion County, OR",41047,More than one race,Not Hispanic or Latino,22.0,9235.0,238.2,449.9
+2018,Oregon,41,"Morrow County, OR",41049,White,Not Hispanic or Latino,76.0,6625.0,1147.2,800.5
+2018,Oregon,41,"Multnomah County, OR",41051,American Indian or Alaska Native,Not Hispanic or Latino,50.0,5892.0,848.6,924.5
+2018,Oregon,41,"Multnomah County, OR",41051,Asian,Not Hispanic or Latino,270.0,64695.0,417.3,450.8
+2018,Oregon,41,"Multnomah County, OR",41051,Black or African American,Not Hispanic or Latino,416.0,46078.0,902.8,1078.4
+2018,Oregon,41,"Multnomah County, OR",41051,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,25.0,5197.0,481.0,807.9
+2018,Oregon,41,"Multnomah County, OR",41051,White,Hispanic or Latino,144.0,78991.0,182.3,459.5
+2018,Oregon,41,"Multnomah County, OR",41051,White,Not Hispanic or Latino,4751.0,562536.0,844.6,713.0
+2018,Oregon,41,"Multnomah County, OR",41051,White,Not Stated,32.0,Not Applicable,Not Applicable,Not Applicable
+2018,Oregon,41,"Multnomah County, OR",41051,More than one race,Not Hispanic or Latino,64.0,32097.0,199.4,570.6
+2018,Oregon,41,"Polk County, OR",41053,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1465.0,Unreliable,Unreliable
+2018,Oregon,41,"Polk County, OR",41053,White,Hispanic or Latino,16.0,10396.0,Unreliable,Unreliable
+2018,Oregon,41,"Polk County, OR",41053,White,Not Hispanic or Latino,662.0,66042.0,1002.4,670.3
+2018,Oregon,41,"Sherman County, OR",41055,White,Not Hispanic or Latino,16.0,1490.0,Unreliable,Unreliable
+2018,Oregon,41,"Tillamook County, OR",41057,White,Not Hispanic or Latino,292.0,22445.0,1301.0,708.6
+2018,Oregon,41,"Umatilla County, OR",41059,American Indian or Alaska Native,Not Hispanic or Latino,32.0,2476.0,1292.4,1525.1
+2018,Oregon,41,"Umatilla County, OR",41059,White,Hispanic or Latino,47.0,19309.0,243.4,554.6
+2018,Oregon,41,"Umatilla County, OR",41059,White,Not Hispanic or Latino,582.0,50787.0,1146.0,782.7
+2018,Oregon,41,"Union County, OR",41061,White,Not Hispanic or Latino,279.0,23423.0,1191.1,772.7
+2018,Oregon,41,"Wallowa County, OR",41063,White,Not Hispanic or Latino,92.0,6572.0,1399.9,618.1
+2018,Oregon,41,"Wasco County, OR",41065,White,Not Hispanic or Latino,315.0,19632.0,1604.5,910.0
+2018,Oregon,41,"Washington County, OR",41067,American Indian or Alaska Native,Not Hispanic or Latino,12.0,2867.0,Unreliable,Unreliable
+2018,Oregon,41,"Washington County, OR",41067,Asian,Not Hispanic or Latino,159.0,66959.0,237.5,353.5
+2018,Oregon,41,"Washington County, OR",41067,Black or African American,Not Hispanic or Latino,41.0,12706.0,322.7,593.8
+2018,Oregon,41,"Washington County, OR",41067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,21.0,2739.0,766.7,1667.0
+2018,Oregon,41,"Washington County, OR",41067,White,Hispanic or Latino,154.0,89423.0,172.2,489.6
+2018,Oregon,41,"Washington County, OR",41067,White,Not Hispanic or Latino,3018.0,388880.0,776.1,591.5
+2018,Oregon,41,"Washington County, OR",41067,More than one race,Not Hispanic or Latino,25.0,21962.0,113.8,261.0
+2018,Oregon,41,"Wheeler County, OR",41069,White,Not Hispanic or Latino,25.0,1180.0,2118.6,703.2
+2018,Oregon,41,"Yamhill County, OR",41071,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1377.0,Unreliable,Unreliable
+2018,Oregon,41,"Yamhill County, OR",41071,White,Hispanic or Latino,27.0,15553.0,173.6,436.4
+2018,Oregon,41,"Yamhill County, OR",41071,White,Not Hispanic or Latino,899.0,82156.0,1094.3,735.0
+2019,Oregon,41,"Baker County, OR",41001,White,Not Hispanic or Latino,230.0,14466.0,1589.9,898.8
+2019,Oregon,41,"Benton County, OR",41003,Asian,Not Hispanic or Latino,10.0,6455.0,Unreliable,Unreliable
+2019,Oregon,41,"Benton County, OR",41003,White,Not Hispanic or Latino,590.0,74272.0,794.4,602.3
+2019,Oregon,41,"Clackamas County, OR",41005,Asian,Not Hispanic or Latino,75.0,19899.0,376.9,411.2
+2019,Oregon,41,"Clackamas County, OR",41005,Black or African American,Not Hispanic or Latino,25.0,4264.0,586.3,851.9
+2019,Oregon,41,"Clackamas County, OR",41005,White,Hispanic or Latino,73.0,32372.0,225.5,458.2
+2019,Oregon,41,"Clackamas County, OR",41005,White,Not Hispanic or Latino,3295.0,339296.0,971.1,662.0
+2019,Oregon,41,"Clackamas County, OR",41005,More than one race,Not Hispanic or Latino,20.0,13236.0,151.1,313.4
+2019,Oregon,41,"Clatsop County, OR",41007,White,Not Hispanic or Latino,385.0,34232.0,1124.7,722.5
+2019,Oregon,41,"Columbia County, OR",41009,White,Not Hispanic or Latino,453.0,45990.0,985.0,689.7
+2019,Oregon,41,"Coos County, OR",41011,White,Hispanic or Latino,20.0,3559.0,562.0,712.9
+2019,Oregon,41,"Coos County, OR",41011,White,Not Hispanic or Latino,899.0,54764.0,1641.6,889.2
+2019,Oregon,41,"Crook County, OR",41013,White,Not Hispanic or Latino,250.0,21475.0,1164.1,719.3
+2019,Oregon,41,"Curry County, OR",41015,White,Not Hispanic or Latino,395.0,19651.0,2010.1,899.4
+2019,Oregon,41,"Deschutes County, OR",41017,White,Hispanic or Latino,28.0,14354.0,195.1,383.6
+2019,Oregon,41,"Deschutes County, OR",41017,White,Not Hispanic or Latino,1487.0,171681.0,866.1,610.9
+2019,Oregon,41,"Douglas County, OR",41019,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1952.0,Unreliable,Unreliable
+2019,Oregon,41,"Douglas County, OR",41019,White,Hispanic or Latino,12.0,5663.0,Unreliable,Unreliable
+2019,Oregon,41,"Douglas County, OR",41019,White,Not Hispanic or Latino,1506.0,97083.0,1551.2,859.6
+2019,Oregon,41,"Douglas County, OR",41019,More than one race,Not Hispanic or Latino,14.0,3393.0,Unreliable,Unreliable
+2019,Oregon,41,"Gilliam County, OR",41021,White,Not Hispanic or Latino,13.0,1672.0,Unreliable,Unreliable
+2019,Oregon,41,"Grant County, OR",41023,White,Not Hispanic or Latino,96.0,6570.0,1461.2,701.7
+2019,Oregon,41,"Harney County, OR",41025,White,Not Hispanic or Latino,95.0,6389.0,1486.9,918.9
+2019,Oregon,41,"Hood River County, OR",41027,White,Hispanic or Latino,10.0,7095.0,Unreliable,Unreliable
+2019,Oregon,41,"Hood River County, OR",41027,White,Not Hispanic or Latino,170.0,14724.0,1154.6,696.1
+2019,Oregon,41,"Jackson County, OR",41029,American Indian or Alaska Native,Not Hispanic or Latino,12.0,2100.0,Unreliable,Unreliable
+2019,Oregon,41,"Jackson County, OR",41029,Asian,Not Hispanic or Latino,23.0,3246.0,708.6,512.0
+2019,Oregon,41,"Jackson County, OR",41029,White,Hispanic or Latino,62.0,25900.0,239.4,466.5
+2019,Oregon,41,"Jackson County, OR",41029,White,Not Hispanic or Latino,2295.0,177023.0,1296.4,746.7
+2019,Oregon,41,"Jackson County, OR",41029,More than one race,Not Hispanic or Latino,20.0,6456.0,309.8,449.9
+2019,Oregon,41,"Jefferson County, OR",41031,American Indian or Alaska Native,Not Hispanic or Latino,35.0,3727.0,939.1,1172.8
+2019,Oregon,41,"Jefferson County, OR",41031,White,Not Hispanic or Latino,178.0,14963.0,1189.6,742.2
+2019,Oregon,41,"Josephine County, OR",41033,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1102.0,Unreliable,Unreliable
+2019,Oregon,41,"Josephine County, OR",41033,White,Hispanic or Latino,28.0,5533.0,506.1,666.3
+2019,Oregon,41,"Josephine County, OR",41033,White,Not Hispanic or Latino,1215.0,75721.0,1604.6,882.1
+2019,Oregon,41,"Josephine County, OR",41033,More than one race,Not Hispanic or Latino,10.0,2486.0,Unreliable,Unreliable
+2019,Oregon,41,"Klamath County, OR",41035,American Indian or Alaska Native,Not Hispanic or Latino,27.0,2532.0,1066.4,1156.8
+2019,Oregon,41,"Klamath County, OR",41035,White,Hispanic or Latino,26.0,7721.0,336.7,507.5
+2019,Oregon,41,"Klamath County, OR",41035,White,Not Hispanic or Latino,780.0,52626.0,1482.2,959.6
+2019,Oregon,41,"Lake County, OR",41037,White,Not Hispanic or Latino,100.0,6613.0,1512.2,848.6
+2019,Oregon,41,"Lane County, OR",41039,American Indian or Alaska Native,Not Hispanic or Latino,21.0,4159.0,504.9,639.5
+2019,Oregon,41,"Lane County, OR",41039,Asian,Not Hispanic or Latino,39.0,11715.0,332.9,486.2
+2019,Oregon,41,"Lane County, OR",41039,Black or African American,Not Hispanic or Latino,30.0,4151.0,722.7,940.1
+2019,Oregon,41,"Lane County, OR",41039,White,Hispanic or Latino,76.0,29605.0,256.7,470.6
+2019,Oregon,41,"Lane County, OR",41039,White,Not Hispanic or Latino,3675.0,310592.0,1183.2,775.6
+2019,Oregon,41,"Lane County, OR",41039,White,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2019,Oregon,41,"Lane County, OR",41039,More than one race,Not Hispanic or Latino,27.0,14939.0,180.7,290.9
+2019,Oregon,41,"Lincoln County, OR",41041,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1582.0,Unreliable,Unreliable
+2019,Oregon,41,"Lincoln County, OR",41041,White,Not Hispanic or Latino,614.0,40958.0,1499.1,781.4
+2019,Oregon,41,"Lincoln County, OR",41041,More than one race,Not Hispanic or Latino,14.0,1617.0,Unreliable,Unreliable
+2019,Oregon,41,"Linn County, OR",41043,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1537.0,Unreliable,Unreliable
+2019,Oregon,41,"Linn County, OR",41043,White,Hispanic or Latino,28.0,10538.0,265.7,476.7
+2019,Oregon,41,"Linn County, OR",41043,White,Not Hispanic or Latino,1333.0,109436.0,1218.1,835.2
+2019,Oregon,41,"Linn County, OR",41043,More than one race,Not Hispanic or Latino,16.0,3907.0,Unreliable,Unreliable
+2019,Oregon,41,"Malheur County, OR",41045,White,Hispanic or Latino,27.0,9727.0,277.6,513.1
+2019,Oregon,41,"Malheur County, OR",41045,White,Not Hispanic or Latino,254.0,18382.0,1381.8,862.3
+2019,Oregon,41,"Marion County, OR",41047,American Indian or Alaska Native,Not Hispanic or Latino,20.0,3606.0,554.6,591.6
+2019,Oregon,41,"Marion County, OR",41047,Asian,Not Hispanic or Latino,31.0,7797.0,397.6,406.6
+2019,Oregon,41,"Marion County, OR",41047,Black or African American,Not Hispanic or Latino,14.0,3983.0,Unreliable,Unreliable
+2019,Oregon,41,"Marion County, OR",41047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,23.0,3318.0,693.2,1079.5
+2019,Oregon,41,"Marion County, OR",41047,White,Hispanic or Latino,164.0,83217.0,197.1,475.9
+2019,Oregon,41,"Marion County, OR",41047,White,Not Hispanic or Latino,2644.0,225059.0,1174.8,753.7
+2019,Oregon,41,"Marion County, OR",41047,More than one race,Not Hispanic or Latino,18.0,9349.0,Unreliable,Unreliable
+2019,Oregon,41,"Morrow County, OR",41049,White,Hispanic or Latino,12.0,4055.0,Unreliable,Unreliable
+2019,Oregon,41,"Morrow County, OR",41049,White,Not Hispanic or Latino,77.0,6724.0,1145.2,713.5
+2019,Oregon,41,"Multnomah County, OR",41051,American Indian or Alaska Native,Not Hispanic or Latino,52.0,5850.0,888.9,896.1
+2019,Oregon,41,"Multnomah County, OR",41051,Asian,Not Hispanic or Latino,299.0,64464.0,463.8,479.6
+2019,Oregon,41,"Multnomah County, OR",41051,Black or African American,Not Hispanic or Latino,372.0,45517.0,817.3,947.7
+2019,Oregon,41,"Multnomah County, OR",41051,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,38.0,5188.0,732.5,1164.8
+2019,Oregon,41,"Multnomah County, OR",41051,White,Hispanic or Latino,182.0,80883.0,225.0,509.6
+2019,Oregon,41,"Multnomah County, OR",41051,White,Not Hispanic or Latino,4838.0,561636.0,861.4,717.4
+2019,Oregon,41,"Multnomah County, OR",41051,White,Not Stated,47.0,Not Applicable,Not Applicable,Not Applicable
+2019,Oregon,41,"Multnomah County, OR",41051,More than one race,Not Hispanic or Latino,75.0,32533.0,230.5,591.0
+2019,Oregon,41,"Polk County, OR",41053,White,Hispanic or Latino,27.0,10778.0,250.5,603.9
+2019,Oregon,41,"Polk County, OR",41053,White,Not Hispanic or Latino,695.0,66573.0,1044.0,685.3
+2019,Oregon,41,"Sherman County, OR",41055,White,Not Hispanic or Latino,20.0,1561.0,1281.2,715.6
+2019,Oregon,41,"Tillamook County, OR",41057,White,Not Hispanic or Latino,297.0,22703.0,1308.2,746.8
+2019,Oregon,41,"Umatilla County, OR",41059,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2453.0,815.3,858.9
+2019,Oregon,41,"Umatilla County, OR",41059,White,Hispanic or Latino,53.0,19679.0,269.3,575.5
+2019,Oregon,41,"Umatilla County, OR",41059,White,Not Hispanic or Latino,583.0,50769.0,1148.3,762.8
+2019,Oregon,41,"Union County, OR",41061,White,Not Hispanic or Latino,317.0,23673.0,1339.1,810.5
+2019,Oregon,41,"Wallowa County, OR",41063,White,Not Hispanic or Latino,89.0,6675.0,1333.3,676.0
+2019,Oregon,41,"Wasco County, OR",41065,White,Not Hispanic or Latino,286.0,19635.0,1456.6,823.1
+2019,Oregon,41,"Washington County, OR",41067,Asian,Not Hispanic or Latino,173.0,68970.0,250.8,358.8
+2019,Oregon,41,"Washington County, OR",41067,Black or African American,Not Hispanic or Latino,38.0,13217.0,287.5,523.3
+2019,Oregon,41,"Washington County, OR",41067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,14.0,2764.0,Unreliable,Unreliable
+2019,Oregon,41,"Washington County, OR",41067,White,Hispanic or Latino,154.0,90552.0,170.1,382.7
+2019,Oregon,41,"Washington County, OR",41067,White,Not Hispanic or Latino,3089.0,388497.0,795.1,596.7
+2019,Oregon,41,"Washington County, OR",41067,More than one race,Not Hispanic or Latino,34.0,22458.0,151.4,321.5
+2019,Oregon,41,"Wheeler County, OR",41069,White,Not Hispanic or Latino,14.0,1159.0,Unreliable,Unreliable
+2019,Oregon,41,"Yamhill County, OR",41071,White,Hispanic or Latino,24.0,15607.0,153.8,289.2
+2019,Oregon,41,"Yamhill County, OR",41071,White,Not Hispanic or Latino,878.0,82241.0,1067.6,705.6
+2020,Oregon,41,"Baker County, OR",41001,White,Not Hispanic or Latino,242.0,14569.0,1661.1,927.2
+2020,Oregon,41,"Benton County, OR",41003,Asian,Not Hispanic or Latino,14.0,6252.0,Unreliable,Unreliable
+2020,Oregon,41,"Benton County, OR",41003,White,Not Hispanic or Latino,588.0,74294.0,791.5,590.6
+2020,Oregon,41,"Clackamas County, OR",41005,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2722.0,Unreliable,Unreliable
+2020,Oregon,41,"Clackamas County, OR",41005,Asian,Not Hispanic or Latino,90.0,20748.0,433.8,459.7
+2020,Oregon,41,"Clackamas County, OR",41005,Black or African American,Not Hispanic or Latino,21.0,4448.0,472.1,575.2
+2020,Oregon,41,"Clackamas County, OR",41005,White,Hispanic or Latino,82.0,33606.0,244.0,467.7
+2020,Oregon,41,"Clackamas County, OR",41005,White,Not Hispanic or Latino,3530.0,339249.0,1040.5,700.9
+2020,Oregon,41,"Clackamas County, OR",41005,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2020,Oregon,41,"Clackamas County, OR",41005,More than one race,Not Hispanic or Latino,35.0,13948.0,250.9,558.1
+2020,Oregon,41,"Clatsop County, OR",41007,White,Not Hispanic or Latino,391.0,34276.0,1140.7,719.2
+2020,Oregon,41,"Columbia County, OR",41009,White,Not Hispanic or Latino,509.0,46245.0,1100.7,763.2
+2020,Oregon,41,"Coos County, OR",41011,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1545.0,Unreliable,Unreliable
+2020,Oregon,41,"Coos County, OR",41011,White,Not Hispanic or Latino,892.0,54801.0,1627.7,874.5
+2020,Oregon,41,"Coos County, OR",41011,More than one race,Not Hispanic or Latino,13.0,2593.0,Unreliable,Unreliable
+2020,Oregon,41,"Crook County, OR",41013,White,Not Hispanic or Latino,249.0,22031.0,1130.2,670.2
+2020,Oregon,41,"Curry County, OR",41015,White,Hispanic or Latino,11.0,1454.0,Unreliable,Unreliable
+2020,Oregon,41,"Curry County, OR",41015,White,Not Hispanic or Latino,445.0,19880.0,2238.4,1046.3
+2020,Oregon,41,"Deschutes County, OR",41017,White,Hispanic or Latino,45.0,14710.0,305.9,608.1
+2020,Oregon,41,"Deschutes County, OR",41017,White,Not Hispanic or Latino,1515.0,174753.0,866.9,617.9
+2020,Oregon,41,"Douglas County, OR",41019,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1915.0,Unreliable,Unreliable
+2020,Oregon,41,"Douglas County, OR",41019,White,Hispanic or Latino,19.0,5769.0,Unreliable,Unreliable
+2020,Oregon,41,"Douglas County, OR",41019,White,Not Hispanic or Latino,1612.0,97166.0,1659.0,896.8
+2020,Oregon,41,"Douglas County, OR",41019,More than one race,Not Hispanic or Latino,20.0,3567.0,560.7,642.5
+2020,Oregon,41,"Gilliam County, OR",41021,White,Not Hispanic or Latino,15.0,1719.0,Unreliable,Unreliable
+2020,Oregon,41,"Grant County, OR",41023,White,Not Hispanic or Latino,102.0,6494.0,1570.7,660.1
+2020,Oregon,41,"Harney County, OR",41025,White,Not Hispanic or Latino,88.0,6329.0,1390.4,790.5
+2020,Oregon,41,"Hood River County, OR",41027,White,Not Hispanic or Latino,169.0,14715.0,1148.5,711.7
+2020,Oregon,41,"Jackson County, OR",41029,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2036.0,Unreliable,Unreliable
+2020,Oregon,41,"Jackson County, OR",41029,Asian,Not Hispanic or Latino,11.0,3277.0,Unreliable,Unreliable
+2020,Oregon,41,"Jackson County, OR",41029,Black or African American,Not Hispanic or Latino,11.0,1710.0,Unreliable,Unreliable
+2020,Oregon,41,"Jackson County, OR",41029,White,Hispanic or Latino,81.0,26541.0,305.2,598.3
+2020,Oregon,41,"Jackson County, OR",41029,White,Not Hispanic or Latino,2498.0,176860.0,1412.4,808.2
+2020,Oregon,41,"Jackson County, OR",41029,More than one race,Not Hispanic or Latino,19.0,6683.0,Unreliable,Unreliable
+2020,Oregon,41,"Jefferson County, OR",41031,American Indian or Alaska Native,Not Hispanic or Latino,67.0,3631.0,1845.2,2352.1
+2020,Oregon,41,"Jefferson County, OR",41031,White,Hispanic or Latino,15.0,3718.0,Unreliable,Unreliable
+2020,Oregon,41,"Jefferson County, OR",41031,White,Not Hispanic or Latino,219.0,15077.0,1452.5,866.9
+2020,Oregon,41,"Josephine County, OR",41033,White,Hispanic or Latino,35.0,5751.0,608.6,752.8
+2020,Oregon,41,"Josephine County, OR",41033,White,Not Hispanic or Latino,1262.0,75791.0,1665.1,894.3
+2020,Oregon,41,"Josephine County, OR",41033,More than one race,Not Hispanic or Latino,11.0,2621.0,Unreliable,Unreliable
+2020,Oregon,41,"Klamath County, OR",41035,American Indian or Alaska Native,Not Hispanic or Latino,34.0,2476.0,1373.2,1350.2
+2020,Oregon,41,"Klamath County, OR",41035,White,Hispanic or Latino,27.0,7839.0,344.4,557.6
+2020,Oregon,41,"Klamath County, OR",41035,White,Not Hispanic or Latino,842.0,52801.0,1594.7,1007.8
+2020,Oregon,41,"Klamath County, OR",41035,More than one race,Not Hispanic or Latino,10.0,2504.0,Unreliable,Unreliable
+2020,Oregon,41,"Lake County, OR",41037,White,Not Hispanic or Latino,105.0,6627.0,1584.4,833.5
+2020,Oregon,41,"Lane County, OR",41039,American Indian or Alaska Native,Not Hispanic or Latino,32.0,4063.0,787.6,841.9
+2020,Oregon,41,"Lane County, OR",41039,Asian,Not Hispanic or Latino,34.0,11599.0,293.1,422.9
+2020,Oregon,41,"Lane County, OR",41039,Black or African American,Not Hispanic or Latino,23.0,4185.0,549.6,669.2
+2020,Oregon,41,"Lane County, OR",41039,White,Hispanic or Latino,70.0,30179.0,231.9,456.8
+2020,Oregon,41,"Lane County, OR",41039,White,Not Hispanic or Latino,3838.0,310586.0,1235.7,809.4
+2020,Oregon,41,"Lane County, OR",41039,White,Not Stated,22.0,Not Applicable,Not Applicable,Not Applicable
+2020,Oregon,41,"Lane County, OR",41039,More than one race,Not Hispanic or Latino,33.0,15379.0,214.6,399.6
+2020,Oregon,41,"Lincoln County, OR",41041,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1537.0,Unreliable,Unreliable
+2020,Oregon,41,"Lincoln County, OR",41041,White,Hispanic or Latino,15.0,3845.0,Unreliable,Unreliable
+2020,Oregon,41,"Lincoln County, OR",41041,White,Not Hispanic or Latino,638.0,41344.0,1543.2,831.9
+2020,Oregon,41,"Linn County, OR",41043,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1636.0,Unreliable,Unreliable
+2020,Oregon,41,"Linn County, OR",41043,White,Hispanic or Latino,29.0,10902.0,266.0,531.9
+2020,Oregon,41,"Linn County, OR",41043,White,Not Hispanic or Latino,1413.0,109969.0,1284.9,890.5
+2020,Oregon,41,"Linn County, OR",41043,More than one race,Not Hispanic or Latino,13.0,4005.0,Unreliable,Unreliable
+2020,Oregon,41,"Malheur County, OR",41045,Asian,Not Hispanic or Latino,12.0,417.0,Unreliable,Unreliable
+2020,Oregon,41,"Malheur County, OR",41045,White,Hispanic or Latino,60.0,9881.0,607.2,1199.9
+2020,Oregon,41,"Malheur County, OR",41045,White,Not Hispanic or Latino,303.0,18545.0,1633.9,1000.8
+2020,Oregon,41,"Marion County, OR",41047,American Indian or Alaska Native,Not Hispanic or Latino,31.0,3478.0,891.3,892.1
+2020,Oregon,41,"Marion County, OR",41047,Asian,Not Hispanic or Latino,41.0,8046.0,509.6,514.6
+2020,Oregon,41,"Marion County, OR",41047,Black or African American,Not Hispanic or Latino,27.0,3991.0,676.5,1126.8
+2020,Oregon,41,"Marion County, OR",41047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,32.0,3576.0,894.9,1735.1
+2020,Oregon,41,"Marion County, OR",41047,White,Hispanic or Latino,237.0,84154.0,281.6,627.4
+2020,Oregon,41,"Marion County, OR",41047,White,Not Hispanic or Latino,2760.0,223976.0,1232.3,798.4
+2020,Oregon,41,"Marion County, OR",41047,More than one race,Not Hispanic or Latino,26.0,9710.0,267.8,478.1
+2020,Oregon,41,"Morrow County, OR",41049,White,Hispanic or Latino,13.0,4117.0,Unreliable,Unreliable
+2020,Oregon,41,"Morrow County, OR",41049,White,Not Hispanic or Latino,92.0,6694.0,1374.4,898.2
+2020,Oregon,41,"Multnomah County, OR",41051,American Indian or Alaska Native,Hispanic or Latino,11.0,6140.0,Unreliable,Unreliable
+2020,Oregon,41,"Multnomah County, OR",41051,American Indian or Alaska Native,Not Hispanic or Latino,60.0,5685.0,1055.4,1149.9
+2020,Oregon,41,"Multnomah County, OR",41051,Asian,Not Hispanic or Latino,293.0,64879.0,451.6,457.6
+2020,Oregon,41,"Multnomah County, OR",41051,Black or African American,Not Hispanic or Latino,426.0,45287.0,940.7,1086.0
+2020,Oregon,41,"Multnomah County, OR",41051,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,36.0,5247.0,686.1,1344.0
+2020,Oregon,41,"Multnomah County, OR",41051,White,Hispanic or Latino,247.0,82005.0,301.2,623.0
+2020,Oregon,41,"Multnomah County, OR",41051,White,Not Hispanic or Latino,5216.0,561087.0,929.6,766.1
+2020,Oregon,41,"Multnomah County, OR",41051,White,Not Stated,30.0,Not Applicable,Not Applicable,Not Applicable
+2020,Oregon,41,"Multnomah County, OR",41051,More than one race,Not Hispanic or Latino,93.0,33889.0,274.4,694.3
+2020,Oregon,41,"Polk County, OR",41053,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1437.0,Unreliable,Unreliable
+2020,Oregon,41,"Polk County, OR",41053,White,Hispanic or Latino,36.0,11126.0,323.6,724.1
+2020,Oregon,41,"Polk County, OR",41053,White,Not Hispanic or Latino,724.0,67311.0,1075.6,712.3
+2020,Oregon,41,"Polk County, OR",41053,More than one race,Not Hispanic or Latino,13.0,3006.0,Unreliable,Unreliable
+2020,Oregon,41,"Sherman County, OR",41055,White,Not Hispanic or Latino,20.0,1605.0,1246.1,600.8
+2020,Oregon,41,"Tillamook County, OR",41057,White,Not Hispanic or Latino,334.0,23001.0,1452.1,832.8
+2020,Oregon,41,"Umatilla County, OR",41059,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2318.0,1121.7,1196.2
+2020,Oregon,41,"Umatilla County, OR",41059,White,Hispanic or Latino,63.0,19702.0,319.8,613.3
+2020,Oregon,41,"Umatilla County, OR",41059,White,Not Hispanic or Latino,734.0,50501.0,1453.4,960.8
+2020,Oregon,41,"Union County, OR",41061,White,Not Hispanic or Latino,281.0,23423.0,1199.7,739.8
+2020,Oregon,41,"Wallowa County, OR",41063,White,Not Hispanic or Latino,79.0,6623.0,1192.8,570.2
+2020,Oregon,41,"Wasco County, OR",41065,White,Hispanic or Latino,10.0,4768.0,Unreliable,Unreliable
+2020,Oregon,41,"Wasco County, OR",41065,White,Not Hispanic or Latino,312.0,19228.0,1622.6,883.3
+2020,Oregon,41,"Washington County, OR",41067,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2825.0,Unreliable,Unreliable
+2020,Oregon,41,"Washington County, OR",41067,Asian,Not Hispanic or Latino,193.0,70801.0,272.6,388.5
+2020,Oregon,41,"Washington County, OR",41067,Black or African American,Not Hispanic or Latino,51.0,13692.0,372.5,662.8
+2020,Oregon,41,"Washington County, OR",41067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,25.0,2953.0,846.6,1472.9
+2020,Oregon,41,"Washington County, OR",41067,White,Hispanic or Latino,231.0,91237.0,253.2,577.7
+2020,Oregon,41,"Washington County, OR",41067,White,Not Hispanic or Latino,3274.0,385599.0,849.1,623.9
+2020,Oregon,41,"Washington County, OR",41067,More than one race,Not Hispanic or Latino,25.0,23243.0,107.6,219.9
+2020,Oregon,41,"Wheeler County, OR",41069,White,Not Hispanic or Latino,18.0,1205.0,Unreliable,Unreliable
+2020,Oregon,41,"Yamhill County, OR",41071,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1382.0,Unreliable,Unreliable
+2020,Oregon,41,"Yamhill County, OR",41071,Asian,Not Hispanic or Latino,10.0,1863.0,Unreliable,Unreliable
+2020,Oregon,41,"Yamhill County, OR",41071,Black or African American,Not Hispanic or Latino,11.0,1019.0,Unreliable,Unreliable
+2020,Oregon,41,"Yamhill County, OR",41071,White,Hispanic or Latino,35.0,15676.0,223.3,449.4
+2020,Oregon,41,"Yamhill County, OR",41071,White,Not Hispanic or Latino,971.0,82618.0,1175.3,756.3
+2021 (provisional),Oregon,41,"Baker County, OR",41001,White,Not Hispanic or Latino,268.0,14569.0,1839.5,997.2
+2021 (provisional),Oregon,41,"Benton County, OR",41003,White,Hispanic or Latino,23.0,6323.0,363.8,668.6
+2021 (provisional),Oregon,41,"Benton County, OR",41003,White,Not Hispanic or Latino,693.0,74294.0,932.8,678.1
+2021 (provisional),Oregon,41,"Clackamas County, OR",41005,American Indian or Alaska Native,Not Hispanic or Latino,24.0,2722.0,881.7,881.8
+2021 (provisional),Oregon,41,"Clackamas County, OR",41005,Asian,Not Hispanic or Latino,78.0,20748.0,375.9,417.0
+2021 (provisional),Oregon,41,"Clackamas County, OR",41005,Black or African American,Not Hispanic or Latino,24.0,4448.0,539.6,776.4
+2021 (provisional),Oregon,41,"Clackamas County, OR",41005,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,10.0,1141.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Clackamas County, OR",41005,White,Hispanic or Latino,103.0,33606.0,306.5,540.5
+2021 (provisional),Oregon,41,"Clackamas County, OR",41005,White,Not Hispanic or Latino,3713.0,339249.0,1094.5,736.1
+2021 (provisional),Oregon,41,"Clackamas County, OR",41005,More than one race,Not Hispanic or Latino,41.0,13948.0,293.9,623.2
+2021 (provisional),Oregon,41,"Clatsop County, OR",41007,White,Hispanic or Latino,10.0,3097.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Clatsop County, OR",41007,White,Not Hispanic or Latino,514.0,34276.0,1499.6,945.0
+2021 (provisional),Oregon,41,"Columbia County, OR",41009,White,Not Hispanic or Latino,591.0,46245.0,1278.0,882.1
+2021 (provisional),Oregon,41,"Coos County, OR",41011,American Indian or Alaska Native,Not Hispanic or Latino,23.0,1545.0,1488.7,1203.7
+2021 (provisional),Oregon,41,"Coos County, OR",41011,White,Hispanic or Latino,29.0,3646.0,795.4,893.3
+2021 (provisional),Oregon,41,"Coos County, OR",41011,White,Not Hispanic or Latino,1061.0,54801.0,1936.1,1055.0
+2021 (provisional),Oregon,41,"Coos County, OR",41011,More than one race,Not Hispanic or Latino,12.0,2593.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Crook County, OR",41013,White,Not Hispanic or Latino,312.0,22031.0,1416.2,900.6
+2021 (provisional),Oregon,41,"Curry County, OR",41015,White,Not Hispanic or Latino,487.0,19880.0,2449.7,1163.4
+2021 (provisional),Oregon,41,"Deschutes County, OR",41017,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1498.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Deschutes County, OR",41017,Asian,Not Hispanic or Latino,11.0,2475.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Deschutes County, OR",41017,White,Hispanic or Latino,40.0,14710.0,271.9,604.7
+2021 (provisional),Oregon,41,"Deschutes County, OR",41017,White,Not Hispanic or Latino,1739.0,174753.0,995.1,699.8
+2021 (provisional),Oregon,41,"Douglas County, OR",41019,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1915.0,1096.6,838.6
+2021 (provisional),Oregon,41,"Douglas County, OR",41019,White,Hispanic or Latino,29.0,5769.0,502.7,591.9
+2021 (provisional),Oregon,41,"Douglas County, OR",41019,White,Not Hispanic or Latino,1966.0,97166.0,2023.3,1125.9
+2021 (provisional),Oregon,41,"Douglas County, OR",41019,More than one race,Not Hispanic or Latino,13.0,3567.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Gilliam County, OR",41021,White,Not Hispanic or Latino,36.0,1719.0,2094.2,1122.0
+2021 (provisional),Oregon,41,"Grant County, OR",41023,White,Not Hispanic or Latino,107.0,6494.0,1647.7,782.7
+2021 (provisional),Oregon,41,"Harney County, OR",41025,White,Not Hispanic or Latino,114.0,6329.0,1801.2,1097.5
+2021 (provisional),Oregon,41,"Hood River County, OR",41027,White,Hispanic or Latino,16.0,7003.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Hood River County, OR",41027,White,Not Hispanic or Latino,173.0,14715.0,1175.7,702.9
+2021 (provisional),Oregon,41,"Jackson County, OR",41029,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2036.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Jackson County, OR",41029,Asian,Not Hispanic or Latino,22.0,3277.0,671.3,589.6
+2021 (provisional),Oregon,41,"Jackson County, OR",41029,Black or African American,Not Hispanic or Latino,19.0,1710.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Jackson County, OR",41029,White,Hispanic or Latino,104.0,26541.0,391.8,625.5
+2021 (provisional),Oregon,41,"Jackson County, OR",41029,White,Not Hispanic or Latino,2730.0,176860.0,1543.6,900.4
+2021 (provisional),Oregon,41,"Jackson County, OR",41029,More than one race,Not Hispanic or Latino,20.0,6683.0,299.3,451.8
+2021 (provisional),Oregon,41,"Jefferson County, OR",41031,American Indian or Alaska Native,Not Hispanic or Latino,55.0,3631.0,1514.7,1977.3
+2021 (provisional),Oregon,41,"Jefferson County, OR",41031,White,Hispanic or Latino,16.0,3718.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Jefferson County, OR",41031,White,Not Hispanic or Latino,249.0,15077.0,1651.5,998.2
+2021 (provisional),Oregon,41,"Josephine County, OR",41033,White,Hispanic or Latino,53.0,5751.0,921.6,1036.0
+2021 (provisional),Oregon,41,"Josephine County, OR",41033,White,Not Hispanic or Latino,1476.0,75791.0,1947.5,1063.0
+2021 (provisional),Oregon,41,"Josephine County, OR",41033,More than one race,Not Hispanic or Latino,21.0,2621.0,801.2,1095.3
+2021 (provisional),Oregon,41,"Klamath County, OR",41035,American Indian or Alaska Native,Not Hispanic or Latino,61.0,2476.0,2463.7,2606.8
+2021 (provisional),Oregon,41,"Klamath County, OR",41035,Black or African American,Not Hispanic or Latino,11.0,476.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Klamath County, OR",41035,White,Hispanic or Latino,34.0,7839.0,433.7,677.2
+2021 (provisional),Oregon,41,"Klamath County, OR",41035,White,Not Hispanic or Latino,920.0,52801.0,1742.4,1110.7
+2021 (provisional),Oregon,41,"Klamath County, OR",41035,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Oregon,41,"Klamath County, OR",41035,More than one race,Not Hispanic or Latino,10.0,2504.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Lake County, OR",41037,White,Not Hispanic or Latino,135.0,6627.0,2037.1,1080.9
+2021 (provisional),Oregon,41,"Lane County, OR",41039,American Indian or Alaska Native,Not Hispanic or Latino,32.0,4063.0,787.6,834.7
+2021 (provisional),Oregon,41,"Lane County, OR",41039,Asian,Not Hispanic or Latino,51.0,11599.0,439.7,621.0
+2021 (provisional),Oregon,41,"Lane County, OR",41039,Black or African American,Not Hispanic or Latino,39.0,4185.0,931.9,1201.3
+2021 (provisional),Oregon,41,"Lane County, OR",41039,White,Hispanic or Latino,104.0,30179.0,344.6,597.8
+2021 (provisional),Oregon,41,"Lane County, OR",41039,White,Not Hispanic or Latino,4217.0,310586.0,1357.8,888.9
+2021 (provisional),Oregon,41,"Lane County, OR",41039,White,Not Stated,30.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Oregon,41,"Lane County, OR",41039,More than one race,Not Hispanic or Latino,37.0,15379.0,240.6,384.4
+2021 (provisional),Oregon,41,"Lincoln County, OR",41041,American Indian or Alaska Native,Not Hispanic or Latino,24.0,1537.0,1561.5,1522.2
+2021 (provisional),Oregon,41,"Lincoln County, OR",41041,White,Hispanic or Latino,20.0,3845.0,520.2,819.4
+2021 (provisional),Oregon,41,"Lincoln County, OR",41041,White,Not Hispanic or Latino,661.0,41344.0,1598.8,830.3
+2021 (provisional),Oregon,41,"Linn County, OR",41043,American Indian or Alaska Native,Not Hispanic or Latino,23.0,1636.0,1405.9,1288.9
+2021 (provisional),Oregon,41,"Linn County, OR",41043,White,Hispanic or Latino,31.0,10902.0,284.4,537.3
+2021 (provisional),Oregon,41,"Linn County, OR",41043,White,Not Hispanic or Latino,1637.0,109969.0,1488.6,1035.0
+2021 (provisional),Oregon,41,"Malheur County, OR",41045,White,Hispanic or Latino,48.0,9881.0,485.8,980.4
+2021 (provisional),Oregon,41,"Malheur County, OR",41045,White,Not Hispanic or Latino,327.0,18545.0,1763.3,1097.1
+2021 (provisional),Oregon,41,"Marion County, OR",41047,American Indian or Alaska Native,Not Hispanic or Latino,34.0,3478.0,977.6,991.0
+2021 (provisional),Oregon,41,"Marion County, OR",41047,Asian,Not Hispanic or Latino,37.0,8046.0,459.9,445.4
+2021 (provisional),Oregon,41,"Marion County, OR",41047,Black or African American,Not Hispanic or Latino,27.0,3991.0,676.5,839.5
+2021 (provisional),Oregon,41,"Marion County, OR",41047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,24.0,3576.0,671.1,1276.9
+2021 (provisional),Oregon,41,"Marion County, OR",41047,White,Hispanic or Latino,277.0,84154.0,329.2,724.1
+2021 (provisional),Oregon,41,"Marion County, OR",41047,White,Not Hispanic or Latino,3004.0,223976.0,1341.2,863.5
+2021 (provisional),Oregon,41,"Marion County, OR",41047,More than one race,Not Hispanic or Latino,31.0,9710.0,319.3,505.0
+2021 (provisional),Oregon,41,"Morrow County, OR",41049,White,Hispanic or Latino,18.0,4117.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Morrow County, OR",41049,White,Not Hispanic or Latino,103.0,6694.0,1538.7,1040.8
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,American Indian or Alaska Native,Not Hispanic or Latino,71.0,5685.0,1248.9,1204.9
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,Asian,Not Hispanic or Latino,329.0,64879.0,507.1,512.1
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,Black or African American,Not Hispanic or Latino,523.0,45287.0,1154.9,1293.9
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,43.0,5247.0,819.5,1238.7
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,White,Hispanic or Latino,235.0,82005.0,286.6,579.9
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,White,Not Hispanic or Latino,5504.0,561087.0,981.0,809.1
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,White,Not Stated,53.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Oregon,41,"Multnomah County, OR",41051,More than one race,Not Hispanic or Latino,100.0,33889.0,295.1,715.2
+2021 (provisional),Oregon,41,"Polk County, OR",41053,White,Hispanic or Latino,31.0,11126.0,278.6,562.2
+2021 (provisional),Oregon,41,"Polk County, OR",41053,White,Not Hispanic or Latino,777.0,67311.0,1154.3,764.9
+2021 (provisional),Oregon,41,"Sherman County, OR",41055,White,Not Hispanic or Latino,26.0,1605.0,1619.9,921.6
+2021 (provisional),Oregon,41,"Tillamook County, OR",41057,White,Hispanic or Latino,11.0,2554.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Tillamook County, OR",41057,White,Not Hispanic or Latino,386.0,23001.0,1678.2,976.2
+2021 (provisional),Oregon,41,"Umatilla County, OR",41059,American Indian or Alaska Native,Not Hispanic or Latino,33.0,2318.0,1423.6,1368.2
+2021 (provisional),Oregon,41,"Umatilla County, OR",41059,White,Hispanic or Latino,74.0,19702.0,375.6,826.2
+2021 (provisional),Oregon,41,"Umatilla County, OR",41059,White,Not Hispanic or Latino,759.0,50501.0,1502.9,989.4
+2021 (provisional),Oregon,41,"Union County, OR",41061,White,Not Hispanic or Latino,362.0,23423.0,1545.5,960.3
+2021 (provisional),Oregon,41,"Wallowa County, OR",41063,White,Not Hispanic or Latino,102.0,6623.0,1540.1,857.6
+2021 (provisional),Oregon,41,"Wasco County, OR",41065,White,Hispanic or Latino,11.0,4768.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Wasco County, OR",41065,White,Not Hispanic or Latino,342.0,19228.0,1778.7,1078.8
+2021 (provisional),Oregon,41,"Washington County, OR",41067,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2825.0,708.0,868.7
+2021 (provisional),Oregon,41,"Washington County, OR",41067,Asian,Not Hispanic or Latino,185.0,70801.0,261.3,354.9
+2021 (provisional),Oregon,41,"Washington County, OR",41067,Black or African American,Not Hispanic or Latino,60.0,13692.0,438.2,646.1
+2021 (provisional),Oregon,41,"Washington County, OR",41067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,17.0,2953.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Washington County, OR",41067,White,Hispanic or Latino,243.0,91237.0,266.3,565.4
+2021 (provisional),Oregon,41,"Washington County, OR",41067,White,Not Hispanic or Latino,3568.0,385599.0,925.3,679.4
+2021 (provisional),Oregon,41,"Washington County, OR",41067,More than one race,Not Hispanic or Latino,37.0,23243.0,159.2,361.3
+2021 (provisional),Oregon,41,"Wheeler County, OR",41069,White,Not Hispanic or Latino,21.0,1205.0,1742.7,803.9
+2021 (provisional),Oregon,41,"Yamhill County, OR",41071,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1382.0,Unreliable,Unreliable
+2021 (provisional),Oregon,41,"Yamhill County, OR",41071,Black or African American,Not Hispanic or Latino,22.0,1019.0,2159.0,3814.9
+2021 (provisional),Oregon,41,"Yamhill County, OR",41071,White,Hispanic or Latino,39.0,15676.0,248.8,498.3
+2021 (provisional),Oregon,41,"Yamhill County, OR",41071,White,Not Hispanic or Latino,1157.0,82618.0,1400.4,905.0
+2022 (provisional and partial),Oregon,41,"Baker County, OR",41001,White,Not Hispanic or Latino,38.0,14569.0,260.8,135.0
+2022 (provisional and partial),Oregon,41,"Benton County, OR",41003,White,Not Hispanic or Latino,78.0,74294.0,105.0,81.8
+2022 (provisional and partial),Oregon,41,"Clackamas County, OR",41005,Asian,Not Hispanic or Latino,12.0,20748.0,Unreliable,Unreliable
+2022 (provisional and partial),Oregon,41,"Clackamas County, OR",41005,White,Not Hispanic or Latino,488.0,339249.0,143.8,98.2
+2022 (provisional and partial),Oregon,41,"Clatsop County, OR",41007,White,Not Hispanic or Latino,60.0,34276.0,175.0,108.2
+2022 (provisional and partial),Oregon,41,"Columbia County, OR",41009,White,Not Hispanic or Latino,53.0,46245.0,114.6,80.3
+2022 (provisional and partial),Oregon,41,"Coos County, OR",41011,White,Not Hispanic or Latino,144.0,54801.0,262.8,134.0
+2022 (provisional and partial),Oregon,41,"Crook County, OR",41013,White,Not Hispanic or Latino,47.0,22031.0,213.3,128.0
+2022 (provisional and partial),Oregon,41,"Curry County, OR",41015,White,Not Hispanic or Latino,50.0,19880.0,251.5,96.5
+2022 (provisional and partial),Oregon,41,"Deschutes County, OR",41017,White,Not Hispanic or Latino,192.0,174753.0,109.9,78.9
+2022 (provisional and partial),Oregon,41,"Douglas County, OR",41019,White,Not Hispanic or Latino,224.0,97166.0,230.5,124.4
+2022 (provisional and partial),Oregon,41,"Grant County, OR",41023,White,Not Hispanic or Latino,12.0,6494.0,Unreliable,Unreliable
+2022 (provisional and partial),Oregon,41,"Harney County, OR",41025,White,Not Hispanic or Latino,12.0,6329.0,Unreliable,Unreliable
+2022 (provisional and partial),Oregon,41,"Hood River County, OR",41027,White,Not Hispanic or Latino,21.0,14715.0,142.7,90.2
+2022 (provisional and partial),Oregon,41,"Jackson County, OR",41029,White,Hispanic or Latino,13.0,26541.0,Unreliable,Unreliable
+2022 (provisional and partial),Oregon,41,"Jackson County, OR",41029,White,Not Hispanic or Latino,321.0,176860.0,181.5,102.1
+2022 (provisional and partial),Oregon,41,"Jefferson County, OR",41031,White,Not Hispanic or Latino,23.0,15077.0,152.6,92.2
+2022 (provisional and partial),Oregon,41,"Josephine County, OR",41033,White,Not Hispanic or Latino,172.0,75791.0,226.9,117.7
+2022 (provisional and partial),Oregon,41,"Klamath County, OR",41035,White,Not Hispanic or Latino,112.0,52801.0,212.1,131.3
+2022 (provisional and partial),Oregon,41,"Lake County, OR",41037,White,Not Hispanic or Latino,20.0,6627.0,301.8,168.4
+2022 (provisional and partial),Oregon,41,"Lane County, OR",41039,White,Hispanic or Latino,15.0,30179.0,Unreliable,Unreliable
+2022 (provisional and partial),Oregon,41,"Lane County, OR",41039,White,Not Hispanic or Latino,559.0,310586.0,180.0,117.9
+2022 (provisional and partial),Oregon,41,"Lincoln County, OR",41041,White,Not Hispanic or Latino,96.0,41344.0,232.2,124.7
+2022 (provisional and partial),Oregon,41,"Linn County, OR",41043,White,Not Hispanic or Latino,203.0,109969.0,184.6,133.2
+2022 (provisional and partial),Oregon,41,"Malheur County, OR",41045,White,Not Hispanic or Latino,35.0,18545.0,188.7,111.4
+2022 (provisional and partial),Oregon,41,"Marion County, OR",41047,White,Hispanic or Latino,24.0,84154.0,28.5,75.3
+2022 (provisional and partial),Oregon,41,"Marion County, OR",41047,White,Not Hispanic or Latino,407.0,223976.0,181.7,117.7
+2022 (provisional and partial),Oregon,41,"Morrow County, OR",41049,White,Not Hispanic or Latino,24.0,6694.0,358.5,231.7
+2022 (provisional and partial),Oregon,41,"Multnomah County, OR",41051,Asian,Not Hispanic or Latino,51.0,64879.0,78.6,79.1
+2022 (provisional and partial),Oregon,41,"Multnomah County, OR",41051,Black or African American,Not Hispanic or Latino,62.0,45287.0,136.9,159.5
+2022 (provisional and partial),Oregon,41,"Multnomah County, OR",41051,White,Hispanic or Latino,22.0,82005.0,26.8,59.5
+2022 (provisional and partial),Oregon,41,"Multnomah County, OR",41051,White,Not Hispanic or Latino,678.0,561087.0,120.8,100.5
+2022 (provisional and partial),Oregon,41,"Multnomah County, OR",41051,More than one race,Not Hispanic or Latino,10.0,33889.0,Unreliable,Unreliable
+2022 (provisional and partial),Oregon,41,"Polk County, OR",41053,White,Not Hispanic or Latino,102.0,67311.0,151.5,102.1
+2022 (provisional and partial),Oregon,41,"Tillamook County, OR",41057,White,Not Hispanic or Latino,59.0,23001.0,256.5,126.5
+2022 (provisional and partial),Oregon,41,"Umatilla County, OR",41059,White,Not Hispanic or Latino,91.0,50501.0,180.2,117.0
+2022 (provisional and partial),Oregon,41,"Union County, OR",41061,White,Not Hispanic or Latino,53.0,23423.0,226.3,124.9
+2022 (provisional and partial),Oregon,41,"Wallowa County, OR",41063,White,Not Hispanic or Latino,17.0,6623.0,Unreliable,Unreliable
+2022 (provisional and partial),Oregon,41,"Wasco County, OR",41065,White,Not Hispanic or Latino,43.0,19228.0,223.6,122.6
+2022 (provisional and partial),Oregon,41,"Washington County, OR",41067,Asian,Not Hispanic or Latino,22.0,70801.0,31.1,43.9
+2022 (provisional and partial),Oregon,41,"Washington County, OR",41067,White,Hispanic or Latino,30.0,91237.0,32.9,76.2
+2022 (provisional and partial),Oregon,41,"Washington County, OR",41067,White,Not Hispanic or Latino,426.0,385599.0,110.5,81.2
+2022 (provisional and partial),Oregon,41,"Yamhill County, OR",41071,White,Not Hispanic or Latino,141.0,82618.0,170.7,112.4

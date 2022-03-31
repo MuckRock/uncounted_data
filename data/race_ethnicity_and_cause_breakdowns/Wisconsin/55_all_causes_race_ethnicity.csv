@@ -1,0 +1,596 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Wisconsin,55,"Adams County, WI",55001,White,Not Hispanic or Latino,264.0,18365.0,1437.5,816.5
+2018,Wisconsin,55,"Ashland County, WI",55003,American Indian or Alaska Native,Not Hispanic or Latino,26.0,1646.0,1579.6,2484.3
+2018,Wisconsin,55,"Ashland County, WI",55003,White,Not Hispanic or Latino,177.0,12830.0,1379.6,883.5
+2018,Wisconsin,55,"Barron County, WI",55005,White,Not Hispanic or Latino,545.0,42037.0,1296.5,788.1
+2018,Wisconsin,55,"Bayfield County, WI",55007,American Indian or Alaska Native,Not Hispanic or Latino,27.0,1452.0,1859.5,2181.1
+2018,Wisconsin,55,"Bayfield County, WI",55007,White,Not Hispanic or Latino,151.0,12685.0,1190.4,601.3
+2018,Wisconsin,55,"Brown County, WI",55009,American Indian or Alaska Native,Not Hispanic or Latino,53.0,6642.0,798.0,1379.2
+2018,Wisconsin,55,"Brown County, WI",55009,Asian,Not Hispanic or Latino,26.0,8721.0,298.1,605.0
+2018,Wisconsin,55,"Brown County, WI",55009,Black or African American,Not Hispanic or Latino,32.0,7202.0,444.3,734.7
+2018,Wisconsin,55,"Brown County, WI",55009,White,Hispanic or Latino,27.0,19169.0,140.9,319.2
+2018,Wisconsin,55,"Brown County, WI",55009,White,Not Hispanic or Latino,1912.0,212389.0,900.2,692.7
+2018,Wisconsin,55,"Buffalo County, WI",55011,White,Not Hispanic or Latino,129.0,12544.0,1028.4,653.7
+2018,Wisconsin,55,"Burnett County, WI",55013,American Indian or Alaska Native,Not Hispanic or Latino,12.0,643.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Burnett County, WI",55013,White,Not Hispanic or Latino,183.0,13887.0,1317.8,685.9
+2018,Wisconsin,55,"Calumet County, WI",55015,White,Not Hispanic or Latino,370.0,45520.0,812.8,690.5
+2018,Wisconsin,55,"Chippewa County, WI",55017,White,Not Hispanic or Latino,603.0,59952.0,1005.8,736.5
+2018,Wisconsin,55,"Clark County, WI",55019,White,Not Hispanic or Latino,359.0,32204.0,1114.8,814.7
+2018,Wisconsin,55,"Columbia County, WI",55021,White,Not Hispanic or Latino,549.0,53033.0,1035.2,757.3
+2018,Wisconsin,55,"Crawford County, WI",55023,White,Not Hispanic or Latino,175.0,15326.0,1141.9,692.7
+2018,Wisconsin,55,"Dane County, WI",55025,Asian,Not Hispanic or Latino,46.0,34444.0,133.6,343.2
+2018,Wisconsin,55,"Dane County, WI",55025,Black or African American,Not Hispanic or Latino,145.0,28283.0,512.7,1080.5
+2018,Wisconsin,55,"Dane County, WI",55025,White,Hispanic or Latino,45.0,30226.0,148.9,477.3
+2018,Wisconsin,55,"Dane County, WI",55025,White,Not Hispanic or Latino,3197.0,430240.0,743.1,614.6
+2018,Wisconsin,55,"Dodge County, WI",55027,Black or African American,Not Hispanic or Latino,11.0,2847.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Dodge County, WI",55027,White,Hispanic or Latino,15.0,3974.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Dodge County, WI",55027,White,Not Hispanic or Latino,956.0,78783.0,1213.5,810.3
+2018,Wisconsin,55,"Door County, WI",55029,White,Not Hispanic or Latino,336.0,25881.0,1298.2,634.8
+2018,Wisconsin,55,"Douglas County, WI",55031,American Indian or Alaska Native,Not Hispanic or Latino,11.0,795.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Douglas County, WI",55031,White,Not Hispanic or Latino,437.0,39534.0,1105.4,784.1
+2018,Wisconsin,55,"Dunn County, WI",55033,White,Not Hispanic or Latino,380.0,41831.0,908.4,716.1
+2018,Wisconsin,55,"Eau Claire County, WI",55035,Asian,Not Hispanic or Latino,15.0,4551.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Eau Claire County, WI",55035,White,Not Hispanic or Latino,873.0,93741.0,931.3,744.3
+2018,Wisconsin,55,"Florence County, WI",55037,White,Not Hispanic or Latino,59.0,4140.0,1425.1,846.4
+2018,Wisconsin,55,"Fond du Lac County, WI",55039,Black or African American,Not Hispanic or Latino,11.0,1973.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Fond du Lac County, WI",55039,White,Not Hispanic or Latino,957.0,92012.0,1040.1,675.5
+2018,Wisconsin,55,"Forest County, WI",55041,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1276.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Forest County, WI",55041,White,Not Hispanic or Latino,100.0,7079.0,1412.6,846.6
+2018,Wisconsin,55,"Grant County, WI",55043,White,Not Hispanic or Latino,469.0,48909.0,958.9,685.2
+2018,Wisconsin,55,"Green County, WI",55045,White,Not Hispanic or Latino,386.0,34783.0,1109.7,730.4
+2018,Wisconsin,55,"Green Lake County, WI",55047,White,Not Hispanic or Latino,229.0,17364.0,1318.8,795.5
+2018,Wisconsin,55,"Iowa County, WI",55049,White,Not Hispanic or Latino,184.0,22629.0,813.1,601.5
+2018,Wisconsin,55,"Iron County, WI",55051,White,Not Hispanic or Latino,81.0,5405.0,1498.6,685.9
+2018,Wisconsin,55,"Jackson County, WI",55053,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1267.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Jackson County, WI",55053,White,Not Hispanic or Latino,183.0,17639.0,1037.5,698.7
+2018,Wisconsin,55,"Jefferson County, WI",55055,White,Hispanic or Latino,11.0,5606.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Jefferson County, WI",55055,White,Not Hispanic or Latino,702.0,76157.0,921.8,703.3
+2018,Wisconsin,55,"Juneau County, WI",55057,White,Not Hispanic or Latino,278.0,24418.0,1138.5,757.6
+2018,Wisconsin,55,"Kenosha County, WI",55059,Asian,Not Hispanic or Latino,12.0,2736.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Kenosha County, WI",55059,Black or African American,Not Hispanic or Latino,72.0,11621.0,619.6,1153.4
+2018,Wisconsin,55,"Kenosha County, WI",55059,White,Hispanic or Latino,38.0,19835.0,191.6,453.8
+2018,Wisconsin,55,"Kenosha County, WI",55059,White,Not Hispanic or Latino,1381.0,127952.0,1079.3,826.2
+2018,Wisconsin,55,"Kewaunee County, WI",55061,White,Not Hispanic or Latino,187.0,19207.0,973.6,615.2
+2018,Wisconsin,55,"La Crosse County, WI",55063,Black or African American,Not Hispanic or Latino,13.0,1789.0,Unreliable,Unreliable
+2018,Wisconsin,55,"La Crosse County, WI",55063,White,Not Hispanic or Latino,1016.0,106041.0,958.1,702.4
+2018,Wisconsin,55,"Lafayette County, WI",55065,White,Not Hispanic or Latino,144.0,15642.0,920.6,624.2
+2018,Wisconsin,55,"Langlade County, WI",55067,White,Not Hispanic or Latino,197.0,18072.0,1090.1,582.2
+2018,Wisconsin,55,"Lincoln County, WI",55069,White,Not Hispanic or Latino,337.0,26382.0,1277.4,740.8
+2018,Wisconsin,55,"Manitowoc County, WI",55071,Asian,Not Hispanic or Latino,11.0,2186.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Manitowoc County, WI",55071,White,Not Hispanic or Latino,847.0,71375.0,1186.7,718.2
+2018,Wisconsin,55,"Marathon County, WI",55073,Asian,Not Hispanic or Latino,22.0,8063.0,272.9,581.1
+2018,Wisconsin,55,"Marathon County, WI",55073,White,Not Hispanic or Latino,1227.0,119876.0,1023.6,691.8
+2018,Wisconsin,55,"Marinette County, WI",55075,White,Not Hispanic or Latino,544.0,38438.0,1415.3,775.6
+2018,Wisconsin,55,"Marquette County, WI",55077,White,Not Hispanic or Latino,208.0,14372.0,1447.3,813.6
+2018,Wisconsin,55,"Menominee County, WI",55078,American Indian or Alaska Native,Not Hispanic or Latino,36.0,3549.0,1014.4,1227.9
+2018,Wisconsin,55,"Milwaukee County, WI",55079,American Indian or Alaska Native,Not Hispanic or Latino,38.0,5442.0,698.3,986.9
+2018,Wisconsin,55,"Milwaukee County, WI",55079,Asian,Not Hispanic or Latino,143.0,43415.0,329.4,600.6
+2018,Wisconsin,55,"Milwaukee County, WI",55079,Black or African American,Hispanic or Latino,12.0,9342.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Milwaukee County, WI",55079,Black or African American,Not Hispanic or Latino,2172.0,248655.0,873.5,1085.7
+2018,Wisconsin,55,"Milwaukee County, WI",55079,White,Hispanic or Latino,375.0,126505.0,296.4,610.9
+2018,Wisconsin,55,"Milwaukee County, WI",55079,White,Not Hispanic or Latino,5919.0,483290.0,1224.7,791.9
+2018,Wisconsin,55,"Milwaukee County, WI",55079,More than one race,Not Hispanic or Latino,22.0,21643.0,101.6,266.5
+2018,Wisconsin,55,"Monroe County, WI",55081,White,Not Hispanic or Latino,425.0,41504.0,1024.0,767.3
+2018,Wisconsin,55,"Oconto County, WI",55083,White,Not Hispanic or Latino,356.0,35874.0,992.4,701.8
+2018,Wisconsin,55,"Oneida County, WI",55085,White,Not Hispanic or Latino,467.0,33581.0,1390.7,758.6
+2018,Wisconsin,55,"Outagamie County, WI",55087,American Indian or Alaska Native,Not Hispanic or Latino,34.0,2948.0,1153.3,1503.1
+2018,Wisconsin,55,"Outagamie County, WI",55087,Asian,Not Hispanic or Latino,24.0,6879.0,348.9,728.6
+2018,Wisconsin,55,"Outagamie County, WI",55087,White,Hispanic or Latino,16.0,7137.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Outagamie County, WI",55087,White,Not Hispanic or Latino,1433.0,163572.0,876.1,714.1
+2018,Wisconsin,55,"Ozaukee County, WI",55089,Black or African American,Not Hispanic or Latino,15.0,1411.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Ozaukee County, WI",55089,White,Not Hispanic or Latino,799.0,81203.0,984.0,604.6
+2018,Wisconsin,55,"Pepin County, WI",55091,White,Not Hispanic or Latino,70.0,7023.0,996.7,591.9
+2018,Wisconsin,55,"Pierce County, WI",55093,White,Not Hispanic or Latino,282.0,40011.0,704.8,645.4
+2018,Wisconsin,55,"Polk County, WI",55095,White,Not Hispanic or Latino,460.0,41345.0,1112.6,753.0
+2018,Wisconsin,55,"Portage County, WI",55097,White,Not Hispanic or Latino,519.0,64540.0,804.2,620.9
+2018,Wisconsin,55,"Price County, WI",55099,White,Not Hispanic or Latino,173.0,12561.0,1377.3,758.7
+2018,Wisconsin,55,"Racine County, WI",55101,Black or African American,Not Hispanic or Latino,180.0,22161.0,812.2,1027.9
+2018,Wisconsin,55,"Racine County, WI",55101,White,Hispanic or Latino,79.0,23066.0,342.5,667.0
+2018,Wisconsin,55,"Racine County, WI",55101,White,Not Hispanic or Latino,1592.0,140895.0,1129.9,736.5
+2018,Wisconsin,55,"Richland County, WI",55103,White,Not Hispanic or Latino,205.0,16448.0,1246.4,687.9
+2018,Wisconsin,55,"Rock County, WI",55105,Black or African American,Not Hispanic or Latino,70.0,8019.0,872.9,1081.2
+2018,Wisconsin,55,"Rock County, WI",55105,White,Hispanic or Latino,24.0,12744.0,188.3,397.9
+2018,Wisconsin,55,"Rock County, WI",55105,White,Not Hispanic or Latino,1488.0,134509.0,1106.2,799.3
+2018,Wisconsin,55,"Rusk County, WI",55107,White,Not Hispanic or Latino,197.0,13348.0,1475.9,811.4
+2018,Wisconsin,55,"St. Croix County, WI",55109,White,Not Hispanic or Latino,609.0,84109.0,724.1,675.7
+2018,Wisconsin,55,"Sauk County, WI",55111,White,Not Hispanic or Latino,626.0,58334.0,1073.1,721.1
+2018,Wisconsin,55,"Sawyer County, WI",55113,American Indian or Alaska Native,Not Hispanic or Latino,27.0,2755.0,980.0,1097.7
+2018,Wisconsin,55,"Sawyer County, WI",55113,White,Not Hispanic or Latino,171.0,12619.0,1355.1,720.1
+2018,Wisconsin,55,"Shawano County, WI",55115,American Indian or Alaska Native,Not Hispanic or Latino,50.0,3123.0,1601.0,1795.2
+2018,Wisconsin,55,"Shawano County, WI",55115,White,Not Hispanic or Latino,440.0,35263.0,1247.8,751.0
+2018,Wisconsin,55,"Sheboygan County, WI",55117,Asian,Not Hispanic or Latino,23.0,6584.0,349.3,775.0
+2018,Wisconsin,55,"Sheboygan County, WI",55117,Black or African American,Not Hispanic or Latino,11.0,2365.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Sheboygan County, WI",55117,White,Hispanic or Latino,15.0,6791.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Sheboygan County, WI",55117,White,Not Hispanic or Latino,1096.0,96775.0,1132.5,732.8
+2018,Wisconsin,55,"Taylor County, WI",55119,White,Not Hispanic or Latino,189.0,19483.0,970.1,633.0
+2018,Wisconsin,55,"Trempealeau County, WI",55121,White,Not Hispanic or Latino,294.0,26222.0,1121.2,788.2
+2018,Wisconsin,55,"Vernon County, WI",55123,White,Not Hispanic or Latino,294.0,29627.0,992.3,664.8
+2018,Wisconsin,55,"Vilas County, WI",55125,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2204.0,1406.5,1627.3
+2018,Wisconsin,55,"Vilas County, WI",55125,White,Not Hispanic or Latino,273.0,18601.0,1467.7,693.0
+2018,Wisconsin,55,"Walworth County, WI",55127,White,Hispanic or Latino,30.0,10850.0,276.5,722.9
+2018,Wisconsin,55,"Walworth County, WI",55127,White,Not Hispanic or Latino,941.0,88498.0,1063.3,744.4
+2018,Wisconsin,55,"Washburn County, WI",55129,White,Not Hispanic or Latino,193.0,14936.0,1292.2,687.0
+2018,Wisconsin,55,"Washington County, WI",55131,Black or African American,Not Hispanic or Latino,12.0,1688.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Washington County, WI",55131,White,Not Hispanic or Latino,1148.0,125755.0,912.9,638.4
+2018,Wisconsin,55,"Waukesha County, WI",55133,Asian,Not Hispanic or Latino,24.0,15542.0,154.4,290.9
+2018,Wisconsin,55,"Waukesha County, WI",55133,Black or African American,Not Hispanic or Latino,41.0,6410.0,639.6,987.6
+2018,Wisconsin,55,"Waukesha County, WI",55133,White,Hispanic or Latino,46.0,17662.0,260.4,436.8
+2018,Wisconsin,55,"Waukesha County, WI",55133,White,Not Hispanic or Latino,3539.0,355454.0,995.6,644.4
+2018,Wisconsin,55,"Waupaca County, WI",55135,White,Not Hispanic or Latino,706.0,48107.0,1467.6,854.0
+2018,Wisconsin,55,"Waushara County, WI",55137,White,Not Hispanic or Latino,285.0,21728.0,1311.7,731.8
+2018,Wisconsin,55,"Winnebago County, WI",55139,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1018.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Winnebago County, WI",55139,Asian,Not Hispanic or Latino,10.0,5129.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Winnebago County, WI",55139,Black or African American,Not Hispanic or Latino,11.0,3712.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Winnebago County, WI",55139,White,Hispanic or Latino,19.0,6259.0,Unreliable,Unreliable
+2018,Wisconsin,55,"Winnebago County, WI",55139,White,Not Hispanic or Latino,1543.0,151151.0,1020.8,730.5
+2018,Wisconsin,55,"Wood County, WI",55141,White,Not Hispanic or Latino,838.0,67335.0,1244.5,756.0
+2019,Wisconsin,55,"Adams County, WI",55001,White,Not Hispanic or Latino,269.0,18267.0,1472.6,782.5
+2019,Wisconsin,55,"Ashland County, WI",55003,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1638.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Ashland County, WI",55003,White,Not Hispanic or Latino,178.0,12790.0,1391.7,910.8
+2019,Wisconsin,55,"Barron County, WI",55005,White,Not Hispanic or Latino,556.0,42086.0,1321.1,787.8
+2019,Wisconsin,55,"Bayfield County, WI",55007,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1448.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Bayfield County, WI",55007,White,Not Hispanic or Latino,140.0,12661.0,1105.8,593.7
+2019,Wisconsin,55,"Brown County, WI",55009,American Indian or Alaska Native,Not Hispanic or Latino,61.0,6771.0,900.9,1279.1
+2019,Wisconsin,55,"Brown County, WI",55009,Asian,Not Hispanic or Latino,24.0,8855.0,271.0,595.9
+2019,Wisconsin,55,"Brown County, WI",55009,Black or African American,Not Hispanic or Latino,39.0,7135.0,546.6,1329.7
+2019,Wisconsin,55,"Brown County, WI",55009,White,Hispanic or Latino,37.0,19808.0,186.8,450.5
+2019,Wisconsin,55,"Brown County, WI",55009,White,Not Hispanic or Latino,1973.0,212441.0,928.7,697.3
+2019,Wisconsin,55,"Buffalo County, WI",55011,White,Not Hispanic or Latino,139.0,12426.0,1118.6,686.8
+2019,Wisconsin,55,"Burnett County, WI",55013,White,Not Hispanic or Latino,193.0,13897.0,1388.8,745.1
+2019,Wisconsin,55,"Calumet County, WI",55015,White,Not Hispanic or Latino,348.0,45386.0,766.8,646.1
+2019,Wisconsin,55,"Chippewa County, WI",55017,White,Not Hispanic or Latino,642.0,60314.0,1064.4,750.2
+2019,Wisconsin,55,"Clark County, WI",55019,White,Not Hispanic or Latino,323.0,32144.0,1004.9,701.6
+2019,Wisconsin,55,"Columbia County, WI",55021,White,Not Hispanic or Latino,581.0,53087.0,1094.4,793.1
+2019,Wisconsin,55,"Crawford County, WI",55023,White,Not Hispanic or Latino,195.0,15161.0,1286.2,739.1
+2019,Wisconsin,55,"Dane County, WI",55025,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1604.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Dane County, WI",55025,Asian,Not Hispanic or Latino,42.0,34086.0,123.2,317.1
+2019,Wisconsin,55,"Dane County, WI",55025,Black or African American,Not Hispanic or Latino,163.0,28737.0,567.2,1097.9
+2019,Wisconsin,55,"Dane County, WI",55025,White,Hispanic or Latino,62.0,31079.0,199.5,572.5
+2019,Wisconsin,55,"Dane County, WI",55025,White,Not Hispanic or Latino,3133.0,433169.0,723.3,591.5
+2019,Wisconsin,55,"Dane County, WI",55025,More than one race,Not Hispanic or Latino,12.0,13150.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Dodge County, WI",55027,White,Not Hispanic or Latino,976.0,78673.0,1240.6,822.7
+2019,Wisconsin,55,"Door County, WI",55029,White,Not Hispanic or Latino,319.0,25825.0,1235.2,604.1
+2019,Wisconsin,55,"Douglas County, WI",55031,White,Not Hispanic or Latino,414.0,39424.0,1050.1,753.6
+2019,Wisconsin,55,"Dunn County, WI",55033,White,Not Hispanic or Latino,336.0,41923.0,801.5,644.4
+2019,Wisconsin,55,"Eau Claire County, WI",55035,Asian,Not Hispanic or Latino,11.0,4435.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Eau Claire County, WI",55035,White,Not Hispanic or Latino,850.0,93725.0,906.9,712.9
+2019,Wisconsin,55,"Florence County, WI",55037,White,Not Hispanic or Latino,68.0,4104.0,1656.9,919.2
+2019,Wisconsin,55,"Fond du Lac County, WI",55039,White,Hispanic or Latino,14.0,4954.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Fond du Lac County, WI",55039,White,Not Hispanic or Latino,998.0,92058.0,1084.1,705.4
+2019,Wisconsin,55,"Forest County, WI",55041,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1270.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Forest County, WI",55041,White,Not Hispanic or Latino,125.0,7060.0,1770.5,952.4
+2019,Wisconsin,55,"Grant County, WI",55043,White,Not Hispanic or Latino,544.0,48803.0,1114.7,772.7
+2019,Wisconsin,55,"Green County, WI",55045,White,Not Hispanic or Latino,354.0,34773.0,1018.0,695.1
+2019,Wisconsin,55,"Green Lake County, WI",55047,White,Not Hispanic or Latino,234.0,17349.0,1348.8,815.4
+2019,Wisconsin,55,"Iowa County, WI",55049,White,Not Hispanic or Latino,201.0,22513.0,892.8,639.5
+2019,Wisconsin,55,"Iron County, WI",55051,White,Not Hispanic or Latino,88.0,5405.0,1628.1,739.6
+2019,Wisconsin,55,"Jackson County, WI",55053,White,Not Hispanic or Latino,195.0,17727.0,1100.0,750.9
+2019,Wisconsin,55,"Jefferson County, WI",55055,White,Not Hispanic or Latino,724.0,75659.0,956.9,705.2
+2019,Wisconsin,55,"Juneau County, WI",55057,White,Not Hispanic or Latino,306.0,24385.0,1254.9,822.1
+2019,Wisconsin,55,"Kenosha County, WI",55059,Asian,Not Hispanic or Latino,11.0,2814.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Kenosha County, WI",55059,Black or African American,Not Hispanic or Latino,94.0,11633.0,808.0,1282.1
+2019,Wisconsin,55,"Kenosha County, WI",55059,White,Hispanic or Latino,64.0,20025.0,319.6,726.5
+2019,Wisconsin,55,"Kenosha County, WI",55059,White,Not Hispanic or Latino,1358.0,127834.0,1062.3,796.5
+2019,Wisconsin,55,"Kewaunee County, WI",55061,White,Not Hispanic or Latino,186.0,19238.0,966.8,586.2
+2019,Wisconsin,55,"La Crosse County, WI",55063,Asian,Not Hispanic or Latino,12.0,5509.0,Unreliable,Unreliable
+2019,Wisconsin,55,"La Crosse County, WI",55063,Black or African American,Not Hispanic or Latino,15.0,1789.0,Unreliable,Unreliable
+2019,Wisconsin,55,"La Crosse County, WI",55063,White,Not Hispanic or Latino,1031.0,105678.0,975.6,711.7
+2019,Wisconsin,55,"Lafayette County, WI",55065,White,Not Hispanic or Latino,154.0,15623.0,985.7,627.4
+2019,Wisconsin,55,"Langlade County, WI",55067,White,Not Hispanic or Latino,275.0,17955.0,1531.6,875.4
+2019,Wisconsin,55,"Lincoln County, WI",55069,White,Not Hispanic or Latino,330.0,26262.0,1256.6,740.7
+2019,Wisconsin,55,"Manitowoc County, WI",55071,White,Not Hispanic or Latino,872.0,70914.0,1229.7,754.8
+2019,Wisconsin,55,"Marathon County, WI",55073,Asian,Not Hispanic or Latino,28.0,8128.0,344.5,790.6
+2019,Wisconsin,55,"Marathon County, WI",55073,White,Not Hispanic or Latino,1201.0,119738.0,1003.0,674.5
+2019,Wisconsin,55,"Marinette County, WI",55075,White,Not Hispanic or Latino,581.0,38321.0,1516.1,851.9
+2019,Wisconsin,55,"Marquette County, WI",55077,White,Not Hispanic or Latino,176.0,14494.0,1214.3,687.3
+2019,Wisconsin,55,"Menominee County, WI",55078,American Indian or Alaska Native,Not Hispanic or Latino,46.0,3477.0,1323.0,1466.2
+2019,Wisconsin,55,"Milwaukee County, WI",55079,American Indian or Alaska Native,Not Hispanic or Latino,40.0,5415.0,738.7,1112.9
+2019,Wisconsin,55,"Milwaukee County, WI",55079,Asian,Not Hispanic or Latino,127.0,43292.0,293.4,536.1
+2019,Wisconsin,55,"Milwaukee County, WI",55079,Black or African American,Not Hispanic or Latino,2208.0,248335.0,889.1,1088.9
+2019,Wisconsin,55,"Milwaukee County, WI",55079,White,Hispanic or Latino,416.0,128594.0,323.5,584.3
+2019,Wisconsin,55,"Milwaukee County, WI",55079,White,Not Hispanic or Latino,5667.0,478761.0,1183.7,762.0
+2019,Wisconsin,55,"Milwaukee County, WI",55079,More than one race,Not Hispanic or Latino,41.0,22088.0,185.6,653.9
+2019,Wisconsin,55,"Monroe County, WI",55081,White,Not Hispanic or Latino,412.0,41595.0,990.5,734.1
+2019,Wisconsin,55,"Oconto County, WI",55083,White,Not Hispanic or Latino,370.0,35876.0,1031.3,719.2
+2019,Wisconsin,55,"Oneida County, WI",55085,White,Not Hispanic or Latino,459.0,33653.0,1363.9,751.0
+2019,Wisconsin,55,"Outagamie County, WI",55087,American Indian or Alaska Native,Not Hispanic or Latino,22.0,3032.0,725.6,932.3
+2019,Wisconsin,55,"Outagamie County, WI",55087,Asian,Not Hispanic or Latino,26.0,6808.0,381.9,629.7
+2019,Wisconsin,55,"Outagamie County, WI",55087,White,Hispanic or Latino,13.0,7313.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Outagamie County, WI",55087,White,Not Hispanic or Latino,1492.0,163644.0,911.7,728.3
+2019,Wisconsin,55,"Ozaukee County, WI",55089,Black or African American,Not Hispanic or Latino,13.0,1470.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Ozaukee County, WI",55089,White,Not Hispanic or Latino,815.0,81203.0,1003.7,615.1
+2019,Wisconsin,55,"Pepin County, WI",55091,White,Not Hispanic or Latino,72.0,6991.0,1029.9,660.9
+2019,Wisconsin,55,"Pierce County, WI",55093,White,Not Hispanic or Latino,278.0,40088.0,693.5,617.4
+2019,Wisconsin,55,"Polk County, WI",55095,White,Not Hispanic or Latino,468.0,41551.0,1126.3,740.5
+2019,Wisconsin,55,"Portage County, WI",55097,White,Not Hispanic or Latino,546.0,64314.0,849.0,657.4
+2019,Wisconsin,55,"Price County, WI",55099,White,Not Hispanic or Latino,189.0,12505.0,1511.4,791.4
+2019,Wisconsin,55,"Racine County, WI",55101,Black or African American,Not Hispanic or Latino,189.0,22103.0,855.1,1043.7
+2019,Wisconsin,55,"Racine County, WI",55101,White,Hispanic or Latino,92.0,23498.0,391.5,696.9
+2019,Wisconsin,55,"Racine County, WI",55101,White,Not Hispanic or Latino,1684.0,140102.0,1202.0,780.2
+2019,Wisconsin,55,"Richland County, WI",55103,White,Not Hispanic or Latino,183.0,16287.0,1123.6,634.1
+2019,Wisconsin,55,"Rock County, WI",55105,Black or African American,Not Hispanic or Latino,71.0,7991.0,888.5,1117.1
+2019,Wisconsin,55,"Rock County, WI",55105,White,Hispanic or Latino,26.0,13093.0,198.6,388.8
+2019,Wisconsin,55,"Rock County, WI",55105,White,Not Hispanic or Latino,1467.0,134440.0,1091.2,774.2
+2019,Wisconsin,55,"Rusk County, WI",55107,White,Not Hispanic or Latino,191.0,13380.0,1427.5,786.2
+2019,Wisconsin,55,"St. Croix County, WI",55109,White,Not Hispanic or Latino,618.0,84879.0,728.1,668.0
+2019,Wisconsin,55,"Sauk County, WI",55111,White,Not Hispanic or Latino,634.0,58278.0,1087.9,729.3
+2019,Wisconsin,55,"Sawyer County, WI",55113,American Indian or Alaska Native,Not Hispanic or Latino,30.0,2719.0,1103.3,1529.6
+2019,Wisconsin,55,"Sawyer County, WI",55113,White,Not Hispanic or Latino,191.0,12706.0,1503.2,728.1
+2019,Wisconsin,55,"Shawano County, WI",55115,American Indian or Alaska Native,Not Hispanic or Latino,34.0,3205.0,1060.8,1209.8
+2019,Wisconsin,55,"Shawano County, WI",55115,White,Not Hispanic or Latino,448.0,35249.0,1271.0,771.6
+2019,Wisconsin,55,"Sheboygan County, WI",55117,Asian,Not Hispanic or Latino,23.0,6571.0,350.0,795.2
+2019,Wisconsin,55,"Sheboygan County, WI",55117,White,Hispanic or Latino,28.0,6970.0,401.7,771.4
+2019,Wisconsin,55,"Sheboygan County, WI",55117,White,Not Hispanic or Latino,1103.0,96321.0,1145.1,738.9
+2019,Wisconsin,55,"Taylor County, WI",55119,White,Not Hispanic or Latino,195.0,19387.0,1005.8,632.2
+2019,Wisconsin,55,"Trempealeau County, WI",55121,White,Not Hispanic or Latino,281.0,26346.0,1066.6,704.9
+2019,Wisconsin,55,"Vernon County, WI",55123,White,Not Hispanic or Latino,291.0,29685.0,980.3,668.0
+2019,Wisconsin,55,"Vilas County, WI",55125,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2189.0,959.3,1193.6
+2019,Wisconsin,55,"Vilas County, WI",55125,White,Not Hispanic or Latino,335.0,18842.0,1777.9,809.0
+2019,Wisconsin,55,"Walworth County, WI",55127,White,Hispanic or Latino,19.0,10844.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Walworth County, WI",55127,White,Not Hispanic or Latino,968.0,88643.0,1092.0,757.8
+2019,Wisconsin,55,"Washburn County, WI",55129,White,Not Hispanic or Latino,217.0,14761.0,1470.1,798.9
+2019,Wisconsin,55,"Washington County, WI",55131,Black or African American,Not Hispanic or Latino,11.0,1717.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Washington County, WI",55131,White,Not Hispanic or Latino,1230.0,125871.0,977.2,684.5
+2019,Wisconsin,55,"Waukesha County, WI",55133,Asian,Not Hispanic or Latino,41.0,15401.0,266.2,445.0
+2019,Wisconsin,55,"Waukesha County, WI",55133,Black or African American,Not Hispanic or Latino,35.0,6622.0,528.5,738.2
+2019,Wisconsin,55,"Waukesha County, WI",55133,White,Hispanic or Latino,45.0,18133.0,248.2,429.8
+2019,Wisconsin,55,"Waukesha County, WI",55133,White,Not Hispanic or Latino,3456.0,355637.0,971.8,618.1
+2019,Wisconsin,55,"Waupaca County, WI",55135,White,Not Hispanic or Latino,707.0,47944.0,1474.6,869.1
+2019,Wisconsin,55,"Waushara County, WI",55137,White,Not Hispanic or Latino,301.0,21865.0,1376.6,736.9
+2019,Wisconsin,55,"Winnebago County, WI",55139,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1038.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Winnebago County, WI",55139,Asian,Not Hispanic or Latino,16.0,5175.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Winnebago County, WI",55139,Black or African American,Not Hispanic or Latino,11.0,4044.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Winnebago County, WI",55139,White,Hispanic or Latino,15.0,6540.0,Unreliable,Unreliable
+2019,Wisconsin,55,"Winnebago County, WI",55139,White,Not Hispanic or Latino,1520.0,151256.0,1004.9,710.7
+2019,Wisconsin,55,"Wood County, WI",55141,White,Not Hispanic or Latino,850.0,67183.0,1265.2,763.9
+2020,Wisconsin,55,"Adams County, WI",55001,White,Not Hispanic or Latino,289.0,18421.0,1568.9,836.1
+2020,Wisconsin,55,"Ashland County, WI",55003,American Indian or Alaska Native,Not Hispanic or Latino,25.0,1607.0,1555.7,1865.2
+2020,Wisconsin,55,"Ashland County, WI",55003,White,Not Hispanic or Latino,174.0,12665.0,1373.9,945.6
+2020,Wisconsin,55,"Barron County, WI",55005,White,Not Hispanic or Latino,574.0,41770.0,1374.2,817.4
+2020,Wisconsin,55,"Bayfield County, WI",55007,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1427.0,1471.6,1539.8
+2020,Wisconsin,55,"Bayfield County, WI",55007,White,Not Hispanic or Latino,178.0,12827.0,1387.7,708.0
+2020,Wisconsin,55,"Brown County, WI",55009,American Indian or Alaska Native,Not Hispanic or Latino,73.0,6682.0,1092.5,1464.6
+2020,Wisconsin,55,"Brown County, WI",55009,Asian,Not Hispanic or Latino,36.0,9113.0,395.0,1103.9
+2020,Wisconsin,55,"Brown County, WI",55009,Black or African American,Not Hispanic or Latino,49.0,7309.0,670.4,1655.6
+2020,Wisconsin,55,"Brown County, WI",55009,White,Hispanic or Latino,76.0,20019.0,379.6,804.1
+2020,Wisconsin,55,"Brown County, WI",55009,White,Not Hispanic or Latino,2212.0,210985.0,1048.4,779.0
+2020,Wisconsin,55,"Buffalo County, WI",55011,White,Not Hispanic or Latino,132.0,12405.0,1064.1,634.8
+2020,Wisconsin,55,"Burnett County, WI",55013,White,Not Hispanic or Latino,194.0,14032.0,1382.6,723.0
+2020,Wisconsin,55,"Calumet County, WI",55015,White,Not Hispanic or Latino,400.0,45354.0,882.0,701.0
+2020,Wisconsin,55,"Chippewa County, WI",55017,White,Not Hispanic or Latino,686.0,60270.0,1138.2,807.1
+2020,Wisconsin,55,"Clark County, WI",55019,White,Not Hispanic or Latino,384.0,31953.0,1201.8,861.6
+2020,Wisconsin,55,"Columbia County, WI",55021,White,Not Hispanic or Latino,623.0,52954.0,1176.5,847.6
+2020,Wisconsin,55,"Crawford County, WI",55023,White,Not Hispanic or Latino,205.0,15060.0,1361.2,803.3
+2020,Wisconsin,55,"Dane County, WI",55025,Asian,Not Hispanic or Latino,66.0,35258.0,187.2,443.0
+2020,Wisconsin,55,"Dane County, WI",55025,Black or African American,Not Hispanic or Latino,205.0,29274.0,700.3,1263.1
+2020,Wisconsin,55,"Dane County, WI",55025,White,Hispanic or Latino,63.0,31841.0,197.9,433.1
+2020,Wisconsin,55,"Dane County, WI",55025,White,Not Hispanic or Latino,3622.0,435172.0,832.3,673.5
+2020,Wisconsin,55,"Dane County, WI",55025,More than one race,Not Hispanic or Latino,15.0,14207.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Dodge County, WI",55027,White,Hispanic or Latino,16.0,4324.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Dodge County, WI",55027,White,Not Hispanic or Latino,1184.0,77958.0,1518.8,999.3
+2020,Wisconsin,55,"Door County, WI",55029,White,Not Hispanic or Latino,385.0,25993.0,1481.2,730.3
+2020,Wisconsin,55,"Douglas County, WI",55031,White,Not Hispanic or Latino,531.0,39817.0,1333.6,925.8
+2020,Wisconsin,55,"Dunn County, WI",55033,White,Not Hispanic or Latino,355.0,41962.0,846.0,662.4
+2020,Wisconsin,55,"Eau Claire County, WI",55035,Asian,Not Hispanic or Latino,17.0,4562.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Eau Claire County, WI",55035,Black or African American,Not Hispanic or Latino,11.0,1207.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Eau Claire County, WI",55035,White,Not Hispanic or Latino,983.0,93909.0,1046.8,826.7
+2020,Wisconsin,55,"Florence County, WI",55037,White,Not Hispanic or Latino,78.0,4086.0,1909.0,1041.9
+2020,Wisconsin,55,"Fond du Lac County, WI",55039,White,Hispanic or Latino,17.0,5015.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Fond du Lac County, WI",55039,White,Not Hispanic or Latino,1127.0,91226.0,1235.4,792.8
+2020,Wisconsin,55,"Forest County, WI",55041,American Indian or Alaska Native,Not Hispanic or Latino,24.0,1237.0,1940.2,2723.2
+2020,Wisconsin,55,"Forest County, WI",55041,White,Not Hispanic or Latino,102.0,7058.0,1445.2,776.2
+2020,Wisconsin,55,"Grant County, WI",55043,White,Not Hispanic or Latino,588.0,48312.0,1217.1,883.6
+2020,Wisconsin,55,"Green County, WI",55045,White,Not Hispanic or Latino,418.0,34385.0,1215.6,805.9
+2020,Wisconsin,55,"Green Lake County, WI",55047,White,Not Hispanic or Latino,257.0,17301.0,1485.5,875.2
+2020,Wisconsin,55,"Iowa County, WI",55049,White,Not Hispanic or Latino,236.0,22399.0,1053.6,733.6
+2020,Wisconsin,55,"Iron County, WI",55051,White,Not Hispanic or Latino,109.0,5418.0,2011.8,823.4
+2020,Wisconsin,55,"Jackson County, WI",55053,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1224.0,1797.4,2365.6
+2020,Wisconsin,55,"Jackson County, WI",55053,White,Not Hispanic or Latino,244.0,17753.0,1374.4,904.4
+2020,Wisconsin,55,"Jefferson County, WI",55055,White,Hispanic or Latino,20.0,5767.0,346.8,692.9
+2020,Wisconsin,55,"Jefferson County, WI",55055,White,Not Hispanic or Latino,836.0,75788.0,1103.1,790.5
+2020,Wisconsin,55,"Juneau County, WI",55057,White,Not Hispanic or Latino,293.0,24594.0,1191.3,775.9
+2020,Wisconsin,55,"Kenosha County, WI",55059,Asian,Not Hispanic or Latino,12.0,2939.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Kenosha County, WI",55059,Black or African American,Not Hispanic or Latino,90.0,11698.0,769.4,1198.1
+2020,Wisconsin,55,"Kenosha County, WI",55059,White,Hispanic or Latino,71.0,20639.0,344.0,745.5
+2020,Wisconsin,55,"Kenosha County, WI",55059,White,Not Hispanic or Latino,1563.0,126837.0,1232.3,913.2
+2020,Wisconsin,55,"Kewaunee County, WI",55061,White,Not Hispanic or Latino,223.0,19169.0,1163.3,710.9
+2020,Wisconsin,55,"La Crosse County, WI",55063,Asian,Not Hispanic or Latino,19.0,5657.0,Unreliable,Unreliable
+2020,Wisconsin,55,"La Crosse County, WI",55063,Black or African American,Not Hispanic or Latino,13.0,1848.0,Unreliable,Unreliable
+2020,Wisconsin,55,"La Crosse County, WI",55063,White,Not Hispanic or Latino,1145.0,105685.0,1083.4,783.8
+2020,Wisconsin,55,"Lafayette County, WI",55065,White,Not Hispanic or Latino,164.0,15594.0,1051.7,689.2
+2020,Wisconsin,55,"Langlade County, WI",55067,White,Not Hispanic or Latino,285.0,17805.0,1600.7,852.4
+2020,Wisconsin,55,"Lincoln County, WI",55069,White,Not Hispanic or Latino,427.0,26095.0,1636.3,978.8
+2020,Wisconsin,55,"Manitowoc County, WI",55071,White,Not Hispanic or Latino,985.0,70446.0,1398.2,823.7
+2020,Wisconsin,55,"Marathon County, WI",55073,Asian,Not Hispanic or Latino,37.0,8462.0,437.2,896.0
+2020,Wisconsin,55,"Marathon County, WI",55073,White,Not Hispanic or Latino,1379.0,119253.0,1156.4,762.5
+2020,Wisconsin,55,"Marinette County, WI",55075,White,Not Hispanic or Latino,635.0,38118.0,1665.9,951.7
+2020,Wisconsin,55,"Marquette County, WI",55077,White,Not Hispanic or Latino,240.0,14533.0,1651.4,954.6
+2020,Wisconsin,55,"Menominee County, WI",55078,American Indian or Alaska Native,Not Hispanic or Latino,57.0,3476.0,1639.8,1980.6
+2020,Wisconsin,55,"Menominee County, WI",55078,White,Not Hispanic or Latino,11.0,510.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Milwaukee County, WI",55079,American Indian or Alaska Native,Not Hispanic or Latino,42.0,5115.0,821.1,1390.6
+2020,Wisconsin,55,"Milwaukee County, WI",55079,Asian,Not Hispanic or Latino,195.0,46124.0,422.8,770.6
+2020,Wisconsin,55,"Milwaukee County, WI",55079,Black or African American,Hispanic or Latino,10.0,10004.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Milwaukee County, WI",55079,Black or African American,Not Hispanic or Latino,2909.0,247607.0,1174.8,1411.8
+2020,Wisconsin,55,"Milwaukee County, WI",55079,White,Hispanic or Latino,600.0,129598.0,463.0,847.9
+2020,Wisconsin,55,"Milwaukee County, WI",55079,White,Not Hispanic or Latino,6568.0,471963.0,1391.6,893.9
+2020,Wisconsin,55,"Milwaukee County, WI",55079,More than one race,Hispanic or Latino,10.0,5554.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Milwaukee County, WI",55079,More than one race,Not Hispanic or Latino,28.0,23248.0,120.4,424.6
+2020,Wisconsin,55,"Monroe County, WI",55081,American Indian or Alaska Native,Not Hispanic or Latino,12.0,483.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Monroe County, WI",55081,White,Not Hispanic or Latino,474.0,41718.0,1136.2,811.5
+2020,Wisconsin,55,"Oconto County, WI",55083,White,Not Hispanic or Latino,454.0,36272.0,1251.7,843.6
+2020,Wisconsin,55,"Oneida County, WI",55085,White,Not Hispanic or Latino,566.0,33831.0,1673.0,857.0
+2020,Wisconsin,55,"Outagamie County, WI",55087,American Indian or Alaska Native,Not Hispanic or Latino,37.0,2951.0,1253.8,1772.8
+2020,Wisconsin,55,"Outagamie County, WI",55087,Asian,Not Hispanic or Latino,29.0,7184.0,403.7,891.5
+2020,Wisconsin,55,"Outagamie County, WI",55087,Black or African American,Not Hispanic or Latino,20.0,2741.0,729.7,1819.0
+2020,Wisconsin,55,"Outagamie County, WI",55087,White,Hispanic or Latino,18.0,7429.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Outagamie County, WI",55087,White,Not Hispanic or Latino,1649.0,163796.0,1006.7,793.4
+2020,Wisconsin,55,"Ozaukee County, WI",55089,Asian,Not Hispanic or Latino,14.0,2321.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Ozaukee County, WI",55089,Black or African American,Not Hispanic or Latino,21.0,1578.0,1330.8,1875.1
+2020,Wisconsin,55,"Ozaukee County, WI",55089,White,Not Hispanic or Latino,893.0,81641.0,1093.8,663.5
+2020,Wisconsin,55,"Pepin County, WI",55091,White,Not Hispanic or Latino,75.0,6955.0,1078.4,655.7
+2020,Wisconsin,55,"Pierce County, WI",55093,White,Not Hispanic or Latino,343.0,39908.0,859.5,746.6
+2020,Wisconsin,55,"Polk County, WI",55095,White,Not Hispanic or Latino,486.0,41557.0,1169.5,773.7
+2020,Wisconsin,55,"Portage County, WI",55097,White,Not Hispanic or Latino,611.0,64362.0,949.3,716.0
+2020,Wisconsin,55,"Price County, WI",55099,White,Not Hispanic or Latino,205.0,12391.0,1654.4,834.4
+2020,Wisconsin,55,"Racine County, WI",55101,Black or African American,Not Hispanic or Latino,234.0,21770.0,1074.9,1343.7
+2020,Wisconsin,55,"Racine County, WI",55101,White,Hispanic or Latino,126.0,24213.0,520.4,890.2
+2020,Wisconsin,55,"Racine County, WI",55101,White,Not Hispanic or Latino,1909.0,138224.0,1381.1,899.3
+2020,Wisconsin,55,"Racine County, WI",55101,More than one race,Not Hispanic or Latino,11.0,4577.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Richland County, WI",55103,White,Not Hispanic or Latino,220.0,16260.0,1353.0,750.2
+2020,Wisconsin,55,"Rock County, WI",55105,Asian,Not Hispanic or Latino,10.0,2065.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Rock County, WI",55105,Black or African American,Not Hispanic or Latino,100.0,7983.0,1252.7,1511.0
+2020,Wisconsin,55,"Rock County, WI",55105,White,Hispanic or Latino,37.0,13368.0,276.8,562.6
+2020,Wisconsin,55,"Rock County, WI",55105,White,Not Hispanic or Latino,1703.0,133421.0,1276.4,879.4
+2020,Wisconsin,55,"Rusk County, WI",55107,White,Not Hispanic or Latino,192.0,13268.0,1447.1,855.6
+2020,Wisconsin,55,"St. Croix County, WI",55109,White,Not Hispanic or Latino,735.0,85867.0,856.0,762.7
+2020,Wisconsin,55,"Sauk County, WI",55111,White,Not Hispanic or Latino,730.0,58059.0,1257.3,825.9
+2020,Wisconsin,55,"Sawyer County, WI",55113,American Indian or Alaska Native,Not Hispanic or Latino,46.0,2723.0,1689.3,2113.0
+2020,Wisconsin,55,"Sawyer County, WI",55113,White,Not Hispanic or Latino,216.0,12876.0,1677.5,896.2
+2020,Wisconsin,55,"Shawano County, WI",55115,American Indian or Alaska Native,Not Hispanic or Latino,40.0,3185.0,1255.9,1406.1
+2020,Wisconsin,55,"Shawano County, WI",55115,White,Not Hispanic or Latino,517.0,35091.0,1473.3,836.1
+2020,Wisconsin,55,"Sheboygan County, WI",55117,Asian,Not Hispanic or Latino,26.0,6853.0,379.4,794.9
+2020,Wisconsin,55,"Sheboygan County, WI",55117,Black or African American,Not Hispanic or Latino,11.0,2523.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Sheboygan County, WI",55117,White,Hispanic or Latino,28.0,7113.0,393.6,846.2
+2020,Wisconsin,55,"Sheboygan County, WI",55117,White,Not Hispanic or Latino,1268.0,95565.0,1326.8,839.3
+2020,Wisconsin,55,"Taylor County, WI",55119,White,Not Hispanic or Latino,202.0,19380.0,1042.3,662.6
+2020,Wisconsin,55,"Trempealeau County, WI",55121,White,Not Hispanic or Latino,317.0,26230.0,1208.5,818.0
+2020,Wisconsin,55,"Vernon County, WI",55123,White,Not Hispanic or Latino,369.0,29675.0,1243.5,850.2
+2020,Wisconsin,55,"Vilas County, WI",55125,American Indian or Alaska Native,Not Hispanic or Latino,33.0,2166.0,1523.5,1747.0
+2020,Wisconsin,55,"Vilas County, WI",55125,White,Not Hispanic or Latino,296.0,19084.0,1551.0,744.3
+2020,Wisconsin,55,"Walworth County, WI",55127,Black or African American,Not Hispanic or Latino,11.0,1049.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Walworth County, WI",55127,White,Hispanic or Latino,34.0,10854.0,313.2,713.2
+2020,Wisconsin,55,"Walworth County, WI",55127,White,Not Hispanic or Latino,1140.0,88682.0,1285.5,879.6
+2020,Wisconsin,55,"Washburn County, WI",55129,White,Not Hispanic or Latino,244.0,14763.0,1652.8,871.4
+2020,Wisconsin,55,"Washington County, WI",55131,Black or African American,Not Hispanic or Latino,12.0,1875.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Washington County, WI",55131,White,Hispanic or Latino,11.0,4014.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Washington County, WI",55131,White,Not Hispanic or Latino,1360.0,125761.0,1081.4,739.4
+2020,Wisconsin,55,"Waukesha County, WI",55133,American Indian or Alaska Native,Not Hispanic or Latino,11.0,951.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Waukesha County, WI",55133,Asian,Not Hispanic or Latino,48.0,16311.0,294.3,498.8
+2020,Wisconsin,55,"Waukesha County, WI",55133,Black or African American,Not Hispanic or Latino,49.0,6945.0,705.5,1056.8
+2020,Wisconsin,55,"Waukesha County, WI",55133,White,Hispanic or Latino,82.0,18669.0,439.2,794.0
+2020,Wisconsin,55,"Waukesha County, WI",55133,White,Not Hispanic or Latino,4078.0,355211.0,1148.1,721.3
+2020,Wisconsin,55,"Waupaca County, WI",55135,White,Not Hispanic or Latino,808.0,47569.0,1698.6,1005.5
+2020,Wisconsin,55,"Waushara County, WI",55137,White,Not Hispanic or Latino,327.0,21743.0,1503.9,814.4
+2020,Wisconsin,55,"Winnebago County, WI",55139,Asian,Not Hispanic or Latino,16.0,5461.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Winnebago County, WI",55139,Black or African American,Not Hispanic or Latino,28.0,4260.0,657.3,1621.7
+2020,Wisconsin,55,"Winnebago County, WI",55139,White,Hispanic or Latino,21.0,6695.0,313.7,723.8
+2020,Wisconsin,55,"Winnebago County, WI",55139,White,Not Hispanic or Latino,1737.0,150044.0,1157.7,818.9
+2020,Wisconsin,55,"Wood County, WI",55141,White,Hispanic or Latino,15.0,2055.0,Unreliable,Unreliable
+2020,Wisconsin,55,"Wood County, WI",55141,White,Not Hispanic or Latino,956.0,66591.0,1435.6,857.4
+2021 (provisional),Wisconsin,55,"Adams County, WI",55001,White,Not Hispanic or Latino,314.0,18421.0,1704.6,937.4
+2021 (provisional),Wisconsin,55,"Ashland County, WI",55003,American Indian or Alaska Native,Not Hispanic or Latino,27.0,1607.0,1680.1,2286.6
+2021 (provisional),Wisconsin,55,"Ashland County, WI",55003,White,Not Hispanic or Latino,178.0,12665.0,1405.4,976.1
+2021 (provisional),Wisconsin,55,"Barron County, WI",55005,White,Not Hispanic or Latino,607.0,41770.0,1453.2,894.3
+2021 (provisional),Wisconsin,55,"Bayfield County, WI",55007,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1427.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Bayfield County, WI",55007,White,Not Hispanic or Latino,168.0,12827.0,1309.7,687.1
+2021 (provisional),Wisconsin,55,"Brown County, WI",55009,American Indian or Alaska Native,Not Hispanic or Latino,68.0,6682.0,1017.7,1407.7
+2021 (provisional),Wisconsin,55,"Brown County, WI",55009,Asian,Not Hispanic or Latino,41.0,9113.0,449.9,1132.5
+2021 (provisional),Wisconsin,55,"Brown County, WI",55009,Black or African American,Not Hispanic or Latino,38.0,7309.0,519.9,1153.9
+2021 (provisional),Wisconsin,55,"Brown County, WI",55009,White,Hispanic or Latino,56.0,20019.0,279.7,625.7
+2021 (provisional),Wisconsin,55,"Brown County, WI",55009,White,Not Hispanic or Latino,2164.0,210985.0,1025.7,763.9
+2021 (provisional),Wisconsin,55,"Buffalo County, WI",55011,White,Not Hispanic or Latino,141.0,12405.0,1136.6,663.7
+2021 (provisional),Wisconsin,55,"Burnett County, WI",55013,American Indian or Alaska Native,Not Hispanic or Latino,12.0,628.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Burnett County, WI",55013,White,Not Hispanic or Latino,213.0,14032.0,1518.0,752.5
+2021 (provisional),Wisconsin,55,"Calumet County, WI",55015,White,Not Hispanic or Latino,388.0,45354.0,855.5,671.8
+2021 (provisional),Wisconsin,55,"Chippewa County, WI",55017,White,Not Hispanic or Latino,667.0,60270.0,1106.7,792.2
+2021 (provisional),Wisconsin,55,"Clark County, WI",55019,White,Not Hispanic or Latino,383.0,31953.0,1198.6,863.4
+2021 (provisional),Wisconsin,55,"Columbia County, WI",55021,White,Not Hispanic or Latino,614.0,52954.0,1159.5,828.2
+2021 (provisional),Wisconsin,55,"Crawford County, WI",55023,White,Not Hispanic or Latino,194.0,15060.0,1288.2,757.7
+2021 (provisional),Wisconsin,55,"Dane County, WI",55025,Asian,Not Hispanic or Latino,74.0,35258.0,209.9,441.5
+2021 (provisional),Wisconsin,55,"Dane County, WI",55025,Black or African American,Not Hispanic or Latino,213.0,29274.0,727.6,1194.5
+2021 (provisional),Wisconsin,55,"Dane County, WI",55025,White,Hispanic or Latino,79.0,31841.0,248.1,615.5
+2021 (provisional),Wisconsin,55,"Dane County, WI",55025,White,Not Hispanic or Latino,3379.0,435172.0,776.5,628.5
+2021 (provisional),Wisconsin,55,"Dane County, WI",55025,More than one race,Not Hispanic or Latino,10.0,14207.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Dodge County, WI",55027,White,Hispanic or Latino,10.0,4324.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Dodge County, WI",55027,White,Not Hispanic or Latino,1094.0,77958.0,1403.3,939.7
+2021 (provisional),Wisconsin,55,"Door County, WI",55029,White,Not Hispanic or Latino,375.0,25993.0,1442.7,703.1
+2021 (provisional),Wisconsin,55,"Douglas County, WI",55031,American Indian or Alaska Native,Not Hispanic or Latino,18.0,783.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Douglas County, WI",55031,White,Not Hispanic or Latino,472.0,39817.0,1185.4,828.0
+2021 (provisional),Wisconsin,55,"Dunn County, WI",55033,White,Not Hispanic or Latino,403.0,41962.0,960.4,758.7
+2021 (provisional),Wisconsin,55,"Eau Claire County, WI",55035,Asian,Not Hispanic or Latino,14.0,4562.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Eau Claire County, WI",55035,Black or African American,Not Hispanic or Latino,10.0,1207.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Eau Claire County, WI",55035,White,Not Hispanic or Latino,956.0,93909.0,1018.0,816.0
+2021 (provisional),Wisconsin,55,"Florence County, WI",55037,White,Not Hispanic or Latino,64.0,4086.0,1566.3,856.3
+2021 (provisional),Wisconsin,55,"Fond du Lac County, WI",55039,Black or African American,Not Hispanic or Latino,11.0,2150.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Fond du Lac County, WI",55039,White,Hispanic or Latino,16.0,5015.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Fond du Lac County, WI",55039,White,Not Hispanic or Latino,1148.0,91226.0,1258.4,823.4
+2021 (provisional),Wisconsin,55,"Forest County, WI",55041,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1237.0,1778.5,1918.6
+2021 (provisional),Wisconsin,55,"Forest County, WI",55041,White,Not Hispanic or Latino,130.0,7058.0,1841.9,1059.4
+2021 (provisional),Wisconsin,55,"Grant County, WI",55043,White,Not Hispanic or Latino,570.0,48312.0,1179.8,847.6
+2021 (provisional),Wisconsin,55,"Green County, WI",55045,White,Not Hispanic or Latino,391.0,34385.0,1137.1,761.5
+2021 (provisional),Wisconsin,55,"Green Lake County, WI",55047,White,Not Hispanic or Latino,278.0,17301.0,1606.8,944.2
+2021 (provisional),Wisconsin,55,"Iowa County, WI",55049,White,Not Hispanic or Latino,211.0,22399.0,942.0,678.4
+2021 (provisional),Wisconsin,55,"Iron County, WI",55051,White,Not Hispanic or Latino,107.0,5418.0,1974.9,810.5
+2021 (provisional),Wisconsin,55,"Jackson County, WI",55053,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1224.0,1715.7,2417.6
+2021 (provisional),Wisconsin,55,"Jackson County, WI",55053,White,Not Hispanic or Latino,212.0,17753.0,1194.2,800.2
+2021 (provisional),Wisconsin,55,"Jefferson County, WI",55055,White,Hispanic or Latino,18.0,5767.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Jefferson County, WI",55055,White,Not Hispanic or Latino,858.0,75788.0,1132.1,813.6
+2021 (provisional),Wisconsin,55,"Juneau County, WI",55057,American Indian or Alaska Native,Not Hispanic or Latino,11.0,346.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Juneau County, WI",55057,White,Not Hispanic or Latino,366.0,24594.0,1488.2,975.9
+2021 (provisional),Wisconsin,55,"Kenosha County, WI",55059,Asian,Not Hispanic or Latino,13.0,2939.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Kenosha County, WI",55059,Black or African American,Not Hispanic or Latino,99.0,11698.0,846.3,1381.6
+2021 (provisional),Wisconsin,55,"Kenosha County, WI",55059,White,Hispanic or Latino,95.0,20639.0,460.3,888.9
+2021 (provisional),Wisconsin,55,"Kenosha County, WI",55059,White,Not Hispanic or Latino,1485.0,126837.0,1170.8,870.2
+2021 (provisional),Wisconsin,55,"Kewaunee County, WI",55061,White,Not Hispanic or Latino,202.0,19169.0,1053.8,646.1
+2021 (provisional),Wisconsin,55,"La Crosse County, WI",55063,Asian,Not Hispanic or Latino,23.0,5657.0,406.6,721.9
+2021 (provisional),Wisconsin,55,"La Crosse County, WI",55063,White,Not Hispanic or Latino,1097.0,105685.0,1038.0,759.5
+2021 (provisional),Wisconsin,55,"Lafayette County, WI",55065,White,Not Hispanic or Latino,164.0,15594.0,1051.7,714.3
+2021 (provisional),Wisconsin,55,"Langlade County, WI",55067,White,Not Hispanic or Latino,302.0,17805.0,1696.2,946.6
+2021 (provisional),Wisconsin,55,"Lincoln County, WI",55069,White,Not Hispanic or Latino,433.0,26095.0,1659.3,1009.2
+2021 (provisional),Wisconsin,55,"Manitowoc County, WI",55071,White,Hispanic or Latino,10.0,3160.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Manitowoc County, WI",55071,White,Not Hispanic or Latino,917.0,70446.0,1301.7,778.8
+2021 (provisional),Wisconsin,55,"Marathon County, WI",55073,Asian,Not Hispanic or Latino,33.0,8462.0,390.0,714.4
+2021 (provisional),Wisconsin,55,"Marathon County, WI",55073,White,Not Hispanic or Latino,1387.0,119253.0,1163.1,778.6
+2021 (provisional),Wisconsin,55,"Marinette County, WI",55075,White,Not Hispanic or Latino,605.0,38118.0,1587.2,912.0
+2021 (provisional),Wisconsin,55,"Marquette County, WI",55077,White,Not Hispanic or Latino,248.0,14533.0,1706.5,1035.1
+2021 (provisional),Wisconsin,55,"Menominee County, WI",55078,American Indian or Alaska Native,Not Hispanic or Latino,54.0,3476.0,1553.5,1917.0
+2021 (provisional),Wisconsin,55,"Milwaukee County, WI",55079,American Indian or Alaska Native,Not Hispanic or Latino,35.0,5115.0,684.3,682.7
+2021 (provisional),Wisconsin,55,"Milwaukee County, WI",55079,Asian,Not Hispanic or Latino,178.0,46124.0,385.9,676.2
+2021 (provisional),Wisconsin,55,"Milwaukee County, WI",55079,Black or African American,Not Hispanic or Latino,2840.0,247607.0,1147.0,1356.3
+2021 (provisional),Wisconsin,55,"Milwaukee County, WI",55079,White,Hispanic or Latino,537.0,129598.0,414.4,725.0
+2021 (provisional),Wisconsin,55,"Milwaukee County, WI",55079,White,Not Hispanic or Latino,5835.0,471963.0,1236.3,809.6
+2021 (provisional),Wisconsin,55,"Milwaukee County, WI",55079,More than one race,Not Hispanic or Latino,39.0,23248.0,167.8,628.2
+2021 (provisional),Wisconsin,55,"Monroe County, WI",55081,American Indian or Alaska Native,Not Hispanic or Latino,11.0,483.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Monroe County, WI",55081,White,Not Hispanic or Latino,523.0,41718.0,1253.7,910.3
+2021 (provisional),Wisconsin,55,"Oconto County, WI",55083,White,Not Hispanic or Latino,411.0,36272.0,1133.1,786.2
+2021 (provisional),Wisconsin,55,"Oneida County, WI",55085,White,Not Hispanic or Latino,525.0,33831.0,1551.8,860.2
+2021 (provisional),Wisconsin,55,"Outagamie County, WI",55087,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2951.0,1050.5,1306.7
+2021 (provisional),Wisconsin,55,"Outagamie County, WI",55087,Asian,Not Hispanic or Latino,24.0,7184.0,334.1,767.5
+2021 (provisional),Wisconsin,55,"Outagamie County, WI",55087,Black or African American,Not Hispanic or Latino,11.0,2741.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Outagamie County, WI",55087,White,Hispanic or Latino,13.0,7429.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Outagamie County, WI",55087,White,Not Hispanic or Latino,1589.0,163796.0,970.1,768.3
+2021 (provisional),Wisconsin,55,"Ozaukee County, WI",55089,Black or African American,Not Hispanic or Latino,15.0,1578.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Ozaukee County, WI",55089,White,Not Hispanic or Latino,874.0,81641.0,1070.5,659.2
+2021 (provisional),Wisconsin,55,"Pepin County, WI",55091,White,Not Hispanic or Latino,79.0,6955.0,1135.9,672.5
+2021 (provisional),Wisconsin,55,"Pierce County, WI",55093,White,Not Hispanic or Latino,362.0,39908.0,907.1,770.3
+2021 (provisional),Wisconsin,55,"Polk County, WI",55095,White,Not Hispanic or Latino,571.0,41557.0,1374.0,903.7
+2021 (provisional),Wisconsin,55,"Portage County, WI",55097,Asian,Not Hispanic or Latino,14.0,2336.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Portage County, WI",55097,White,Not Hispanic or Latino,691.0,64362.0,1073.6,816.9
+2021 (provisional),Wisconsin,55,"Price County, WI",55099,White,Not Hispanic or Latino,211.0,12391.0,1702.8,867.0
+2021 (provisional),Wisconsin,55,"Racine County, WI",55101,Black or African American,Not Hispanic or Latino,267.0,21770.0,1226.5,1473.6
+2021 (provisional),Wisconsin,55,"Racine County, WI",55101,White,Hispanic or Latino,107.0,24213.0,441.9,760.8
+2021 (provisional),Wisconsin,55,"Racine County, WI",55101,White,Not Hispanic or Latino,1840.0,138224.0,1331.2,872.1
+2021 (provisional),Wisconsin,55,"Richland County, WI",55103,White,Not Hispanic or Latino,222.0,16260.0,1365.3,791.5
+2021 (provisional),Wisconsin,55,"Rock County, WI",55105,Black or African American,Not Hispanic or Latino,101.0,7983.0,1265.2,1515.0
+2021 (provisional),Wisconsin,55,"Rock County, WI",55105,White,Hispanic or Latino,42.0,13368.0,314.2,780.5
+2021 (provisional),Wisconsin,55,"Rock County, WI",55105,White,Not Hispanic or Latino,1610.0,133421.0,1206.7,848.5
+2021 (provisional),Wisconsin,55,"Rusk County, WI",55107,White,Not Hispanic or Latino,230.0,13268.0,1733.5,986.5
+2021 (provisional),Wisconsin,55,"St. Croix County, WI",55109,White,Not Hispanic or Latino,796.0,85867.0,927.0,827.8
+2021 (provisional),Wisconsin,55,"Sauk County, WI",55111,American Indian or Alaska Native,Not Hispanic or Latino,19.0,739.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Sauk County, WI",55111,White,Not Hispanic or Latino,720.0,58059.0,1240.1,837.2
+2021 (provisional),Wisconsin,55,"Sawyer County, WI",55113,American Indian or Alaska Native,Not Hispanic or Latino,50.0,2723.0,1836.2,2118.7
+2021 (provisional),Wisconsin,55,"Sawyer County, WI",55113,White,Not Hispanic or Latino,226.0,12876.0,1755.2,927.4
+2021 (provisional),Wisconsin,55,"Shawano County, WI",55115,American Indian or Alaska Native,Not Hispanic or Latino,47.0,3185.0,1475.7,1765.7
+2021 (provisional),Wisconsin,55,"Shawano County, WI",55115,White,Not Hispanic or Latino,454.0,35091.0,1293.8,761.0
+2021 (provisional),Wisconsin,55,"Sheboygan County, WI",55117,Asian,Not Hispanic or Latino,30.0,6853.0,437.8,1001.7
+2021 (provisional),Wisconsin,55,"Sheboygan County, WI",55117,Black or African American,Not Hispanic or Latino,20.0,2523.0,792.7,1898.8
+2021 (provisional),Wisconsin,55,"Sheboygan County, WI",55117,White,Hispanic or Latino,25.0,7113.0,351.5,713.1
+2021 (provisional),Wisconsin,55,"Sheboygan County, WI",55117,White,Not Hispanic or Latino,1173.0,95565.0,1227.4,781.2
+2021 (provisional),Wisconsin,55,"Taylor County, WI",55119,White,Not Hispanic or Latino,220.0,19380.0,1135.2,725.2
+2021 (provisional),Wisconsin,55,"Trempealeau County, WI",55121,White,Not Hispanic or Latino,297.0,26230.0,1132.3,752.4
+2021 (provisional),Wisconsin,55,"Vernon County, WI",55123,White,Not Hispanic or Latino,352.0,29675.0,1186.2,820.7
+2021 (provisional),Wisconsin,55,"Vilas County, WI",55125,American Indian or Alaska Native,Not Hispanic or Latino,34.0,2166.0,1569.7,1729.3
+2021 (provisional),Wisconsin,55,"Vilas County, WI",55125,White,Not Hispanic or Latino,329.0,19084.0,1724.0,801.5
+2021 (provisional),Wisconsin,55,"Walworth County, WI",55127,White,Hispanic or Latino,38.0,10854.0,350.1,666.6
+2021 (provisional),Wisconsin,55,"Walworth County, WI",55127,White,Not Hispanic or Latino,1047.0,88682.0,1180.6,821.3
+2021 (provisional),Wisconsin,55,"Washburn County, WI",55129,White,Not Hispanic or Latino,272.0,14763.0,1842.4,984.3
+2021 (provisional),Wisconsin,55,"Washington County, WI",55131,Black or African American,Not Hispanic or Latino,10.0,1875.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Washington County, WI",55131,White,Hispanic or Latino,13.0,4014.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Washington County, WI",55131,White,Not Hispanic or Latino,1358.0,125761.0,1079.8,738.5
+2021 (provisional),Wisconsin,55,"Waukesha County, WI",55133,Asian,Not Hispanic or Latino,45.0,16311.0,275.9,450.4
+2021 (provisional),Wisconsin,55,"Waukesha County, WI",55133,Black or African American,Not Hispanic or Latino,53.0,6945.0,763.1,1124.4
+2021 (provisional),Wisconsin,55,"Waukesha County, WI",55133,White,Hispanic or Latino,78.0,18669.0,417.8,709.1
+2021 (provisional),Wisconsin,55,"Waukesha County, WI",55133,White,Not Hispanic or Latino,3958.0,355211.0,1114.3,699.6
+2021 (provisional),Wisconsin,55,"Waupaca County, WI",55135,White,Not Hispanic or Latino,743.0,47569.0,1561.9,938.0
+2021 (provisional),Wisconsin,55,"Waushara County, WI",55137,White,Hispanic or Latino,10.0,1395.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Waushara County, WI",55137,White,Not Hispanic or Latino,321.0,21743.0,1476.3,838.8
+2021 (provisional),Wisconsin,55,"Winnebago County, WI",55139,Asian,Not Hispanic or Latino,31.0,5461.0,567.7,1193.9
+2021 (provisional),Wisconsin,55,"Winnebago County, WI",55139,Black or African American,Not Hispanic or Latino,25.0,4260.0,586.9,860.5
+2021 (provisional),Wisconsin,55,"Winnebago County, WI",55139,White,Hispanic or Latino,26.0,6695.0,388.3,952.3
+2021 (provisional),Wisconsin,55,"Winnebago County, WI",55139,White,Not Hispanic or Latino,1638.0,150044.0,1091.7,777.6
+2021 (provisional),Wisconsin,55,"Wood County, WI",55141,American Indian or Alaska Native,Not Hispanic or Latino,12.0,547.0,Unreliable,Unreliable
+2021 (provisional),Wisconsin,55,"Wood County, WI",55141,White,Not Hispanic or Latino,1014.0,66591.0,1522.7,907.2
+2022 (provisional and partial),Wisconsin,55,"Adams County, WI",55001,White,Not Hispanic or Latino,59.0,18421.0,320.3,169.0
+2022 (provisional and partial),Wisconsin,55,"Ashland County, WI",55003,White,Not Hispanic or Latino,27.0,12665.0,213.2,167.4
+2022 (provisional and partial),Wisconsin,55,"Barron County, WI",55005,White,Not Hispanic or Latino,84.0,41770.0,201.1,112.7
+2022 (provisional and partial),Wisconsin,55,"Bayfield County, WI",55007,White,Not Hispanic or Latino,26.0,12827.0,202.7,118.5
+2022 (provisional and partial),Wisconsin,55,"Brown County, WI",55009,American Indian or Alaska Native,Not Hispanic or Latino,14.0,6682.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Brown County, WI",55009,Black or African American,Not Hispanic or Latino,10.0,7309.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Brown County, WI",55009,White,Not Hispanic or Latino,324.0,210985.0,153.6,114.0
+2022 (provisional and partial),Wisconsin,55,"Buffalo County, WI",55011,White,Not Hispanic or Latino,24.0,12405.0,193.5,115.8
+2022 (provisional and partial),Wisconsin,55,"Burnett County, WI",55013,White,Not Hispanic or Latino,46.0,14032.0,327.8,148.7
+2022 (provisional and partial),Wisconsin,55,"Calumet County, WI",55015,White,Not Hispanic or Latino,56.0,45354.0,123.5,100.6
+2022 (provisional and partial),Wisconsin,55,"Chippewa County, WI",55017,White,Not Hispanic or Latino,95.0,60270.0,157.6,111.4
+2022 (provisional and partial),Wisconsin,55,"Clark County, WI",55019,White,Not Hispanic or Latino,45.0,31953.0,140.8,103.2
+2022 (provisional and partial),Wisconsin,55,"Columbia County, WI",55021,White,Not Hispanic or Latino,75.0,52954.0,141.6,100.7
+2022 (provisional and partial),Wisconsin,55,"Crawford County, WI",55023,White,Not Hispanic or Latino,24.0,15060.0,159.4,95.2
+2022 (provisional and partial),Wisconsin,55,"Dane County, WI",55025,Asian,Not Hispanic or Latino,14.0,35258.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Dane County, WI",55025,Black or African American,Not Hispanic or Latino,36.0,29274.0,123.0,218.4
+2022 (provisional and partial),Wisconsin,55,"Dane County, WI",55025,White,Hispanic or Latino,22.0,31841.0,69.1,131.3
+2022 (provisional and partial),Wisconsin,55,"Dane County, WI",55025,White,Not Hispanic or Latino,453.0,435172.0,104.1,82.0
+2022 (provisional and partial),Wisconsin,55,"Dodge County, WI",55027,White,Not Hispanic or Latino,144.0,77958.0,184.7,121.1
+2022 (provisional and partial),Wisconsin,55,"Door County, WI",55029,White,Not Hispanic or Latino,65.0,25993.0,250.1,125.9
+2022 (provisional and partial),Wisconsin,55,"Douglas County, WI",55031,White,Not Hispanic or Latino,77.0,39817.0,193.4,134.2
+2022 (provisional and partial),Wisconsin,55,"Dunn County, WI",55033,White,Not Hispanic or Latino,50.0,41962.0,119.2,90.4
+2022 (provisional and partial),Wisconsin,55,"Eau Claire County, WI",55035,White,Not Hispanic or Latino,116.0,93909.0,123.5,94.8
+2022 (provisional and partial),Wisconsin,55,"Fond du Lac County, WI",55039,White,Not Hispanic or Latino,170.0,91226.0,186.4,124.0
+2022 (provisional and partial),Wisconsin,55,"Forest County, WI",55041,White,Not Hispanic or Latino,16.0,7058.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Grant County, WI",55043,White,Not Hispanic or Latino,76.0,48312.0,157.3,114.3
+2022 (provisional and partial),Wisconsin,55,"Green County, WI",55045,White,Not Hispanic or Latino,62.0,34385.0,180.3,118.9
+2022 (provisional and partial),Wisconsin,55,"Green Lake County, WI",55047,White,Not Hispanic or Latino,38.0,17301.0,219.6,130.5
+2022 (provisional and partial),Wisconsin,55,"Iowa County, WI",55049,White,Not Hispanic or Latino,48.0,22399.0,214.3,149.4
+2022 (provisional and partial),Wisconsin,55,"Iron County, WI",55051,White,Not Hispanic or Latino,12.0,5418.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Jackson County, WI",55053,White,Not Hispanic or Latino,28.0,17753.0,157.7,102.0
+2022 (provisional and partial),Wisconsin,55,"Jefferson County, WI",55055,White,Not Hispanic or Latino,130.0,75788.0,171.5,122.0
+2022 (provisional and partial),Wisconsin,55,"Juneau County, WI",55057,White,Not Hispanic or Latino,54.0,24594.0,219.6,145.7
+2022 (provisional and partial),Wisconsin,55,"Kenosha County, WI",55059,Black or African American,Not Hispanic or Latino,26.0,11698.0,222.3,360.1
+2022 (provisional and partial),Wisconsin,55,"Kenosha County, WI",55059,White,Hispanic or Latino,19.0,20639.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Kenosha County, WI",55059,White,Not Hispanic or Latino,275.0,126837.0,216.8,156.1
+2022 (provisional and partial),Wisconsin,55,"Kewaunee County, WI",55061,White,Not Hispanic or Latino,38.0,19169.0,198.2,115.2
+2022 (provisional and partial),Wisconsin,55,"La Crosse County, WI",55063,White,Not Hispanic or Latino,167.0,105685.0,158.0,111.8
+2022 (provisional and partial),Wisconsin,55,"Lafayette County, WI",55065,White,Not Hispanic or Latino,23.0,15594.0,147.5,96.6
+2022 (provisional and partial),Wisconsin,55,"Langlade County, WI",55067,White,Not Hispanic or Latino,49.0,17805.0,275.2,144.9
+2022 (provisional and partial),Wisconsin,55,"Lincoln County, WI",55069,White,Not Hispanic or Latino,75.0,26095.0,287.4,175.2
+2022 (provisional and partial),Wisconsin,55,"Manitowoc County, WI",55071,White,Not Hispanic or Latino,172.0,70446.0,244.2,147.5
+2022 (provisional and partial),Wisconsin,55,"Marathon County, WI",55073,White,Not Hispanic or Latino,208.0,119253.0,174.4,112.1
+2022 (provisional and partial),Wisconsin,55,"Marinette County, WI",55075,White,Not Hispanic or Latino,72.0,38118.0,188.9,98.2
+2022 (provisional and partial),Wisconsin,55,"Marquette County, WI",55077,White,Not Hispanic or Latino,33.0,14533.0,227.1,133.8
+2022 (provisional and partial),Wisconsin,55,"Menominee County, WI",55078,American Indian or Alaska Native,Not Hispanic or Latino,15.0,3476.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Milwaukee County, WI",55079,Asian,Not Hispanic or Latino,24.0,46124.0,52.0,95.8
+2022 (provisional and partial),Wisconsin,55,"Milwaukee County, WI",55079,Black or African American,Not Hispanic or Latino,405.0,247607.0,163.6,195.6
+2022 (provisional and partial),Wisconsin,55,"Milwaukee County, WI",55079,White,Hispanic or Latino,88.0,129598.0,67.9,128.7
+2022 (provisional and partial),Wisconsin,55,"Milwaukee County, WI",55079,White,Not Hispanic or Latino,914.0,471963.0,193.7,125.6
+2022 (provisional and partial),Wisconsin,55,"Monroe County, WI",55081,White,Not Hispanic or Latino,86.0,41718.0,206.1,146.1
+2022 (provisional and partial),Wisconsin,55,"Oconto County, WI",55083,White,Not Hispanic or Latino,69.0,36272.0,190.2,126.4
+2022 (provisional and partial),Wisconsin,55,"Oneida County, WI",55085,White,Not Hispanic or Latino,82.0,33831.0,242.4,121.7
+2022 (provisional and partial),Wisconsin,55,"Outagamie County, WI",55087,White,Not Hispanic or Latino,249.0,163796.0,152.0,118.3
+2022 (provisional and partial),Wisconsin,55,"Ozaukee County, WI",55089,White,Not Hispanic or Latino,159.0,81641.0,194.8,119.1
+2022 (provisional and partial),Wisconsin,55,"Pierce County, WI",55093,White,Not Hispanic or Latino,34.0,39908.0,85.2,73.5
+2022 (provisional and partial),Wisconsin,55,"Polk County, WI",55095,White,Not Hispanic or Latino,57.0,41557.0,137.2,88.1
+2022 (provisional and partial),Wisconsin,55,"Portage County, WI",55097,White,Not Hispanic or Latino,94.0,64362.0,146.0,111.5
+2022 (provisional and partial),Wisconsin,55,"Price County, WI",55099,White,Not Hispanic or Latino,38.0,12391.0,306.7,147.5
+2022 (provisional and partial),Wisconsin,55,"Racine County, WI",55101,Black or African American,Not Hispanic or Latino,33.0,21770.0,151.6,186.8
+2022 (provisional and partial),Wisconsin,55,"Racine County, WI",55101,White,Hispanic or Latino,42.0,24213.0,173.5,328.6
+2022 (provisional and partial),Wisconsin,55,"Racine County, WI",55101,White,Not Hispanic or Latino,300.0,138224.0,217.0,141.1
+2022 (provisional and partial),Wisconsin,55,"Richland County, WI",55103,White,Not Hispanic or Latino,21.0,16260.0,129.2,83.6
+2022 (provisional and partial),Wisconsin,55,"Rock County, WI",55105,Black or African American,Not Hispanic or Latino,10.0,7983.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Rock County, WI",55105,White,Not Hispanic or Latino,288.0,133421.0,215.9,151.2
+2022 (provisional and partial),Wisconsin,55,"Rusk County, WI",55107,White,Not Hispanic or Latino,27.0,13268.0,203.5,102.8
+2022 (provisional and partial),Wisconsin,55,"St. Croix County, WI",55109,White,Not Hispanic or Latino,111.0,85867.0,129.3,118.6
+2022 (provisional and partial),Wisconsin,55,"Sauk County, WI",55111,White,Not Hispanic or Latino,99.0,58059.0,170.5,109.4
+2022 (provisional and partial),Wisconsin,55,"Sawyer County, WI",55113,White,Not Hispanic or Latino,23.0,12876.0,178.6,98.7
+2022 (provisional and partial),Wisconsin,55,"Shawano County, WI",55115,White,Not Hispanic or Latino,78.0,35091.0,222.3,133.5
+2022 (provisional and partial),Wisconsin,55,"Sheboygan County, WI",55117,White,Not Hispanic or Latino,202.0,95565.0,211.4,129.8
+2022 (provisional and partial),Wisconsin,55,"Taylor County, WI",55119,White,Not Hispanic or Latino,38.0,19380.0,196.1,129.9
+2022 (provisional and partial),Wisconsin,55,"Trempealeau County, WI",55121,White,Not Hispanic or Latino,49.0,26230.0,186.8,126.2
+2022 (provisional and partial),Wisconsin,55,"Vernon County, WI",55123,White,Not Hispanic or Latino,35.0,29675.0,117.9,81.7
+2022 (provisional and partial),Wisconsin,55,"Vilas County, WI",55125,White,Not Hispanic or Latino,49.0,19084.0,256.8,131.5
+2022 (provisional and partial),Wisconsin,55,"Walworth County, WI",55127,White,Not Hispanic or Latino,164.0,88682.0,184.9,124.4
+2022 (provisional and partial),Wisconsin,55,"Washburn County, WI",55129,White,Not Hispanic or Latino,42.0,14763.0,284.5,153.9
+2022 (provisional and partial),Wisconsin,55,"Washington County, WI",55131,White,Not Hispanic or Latino,211.0,125761.0,167.8,114.3
+2022 (provisional and partial),Wisconsin,55,"Waukesha County, WI",55133,Black or African American,Not Hispanic or Latino,10.0,6945.0,Unreliable,Unreliable
+2022 (provisional and partial),Wisconsin,55,"Waukesha County, WI",55133,White,Not Hispanic or Latino,660.0,355211.0,185.8,115.3
+2022 (provisional and partial),Wisconsin,55,"Waupaca County, WI",55135,White,Not Hispanic or Latino,102.0,47569.0,214.4,128.1
+2022 (provisional and partial),Wisconsin,55,"Waushara County, WI",55137,White,Not Hispanic or Latino,46.0,21743.0,211.6,115.5
+2022 (provisional and partial),Wisconsin,55,"Winnebago County, WI",55139,White,Not Hispanic or Latino,251.0,150044.0,167.3,114.6
+2022 (provisional and partial),Wisconsin,55,"Wood County, WI",55141,White,Not Hispanic or Latino,126.0,66591.0,189.2,114.1

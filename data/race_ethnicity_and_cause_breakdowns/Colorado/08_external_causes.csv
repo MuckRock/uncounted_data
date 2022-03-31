@@ -1,0 +1,97 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Colorado,08,"Adams County, CO",08001,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,511868.0,Unreliable
+2018,Colorado,08,"Adams County, CO",08001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,23.0,511868.0,4.5
+2018,Colorado,08,"Adams County, CO",08001,Nontransport accidents,Unspecified fall,W19,67.0,511868.0,13.1
+2018,Colorado,08,"Adams County, CO",08001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,16.0,511868.0,Unreliable
+2018,Colorado,08,"Adams County, CO",08001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,41.0,511868.0,8.0
+2018,Colorado,08,"Adams County, CO",08001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,32.0,511868.0,6.3
+2018,Colorado,08,"Adams County, CO",08001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,36.0,511868.0,7.0
+2018,Colorado,08,"Adams County, CO",08001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,43.0,511868.0,8.4
+2018,Colorado,08,"Adams County, CO",08001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,23.0,511868.0,4.5
+2018,Colorado,08,"Arapahoe County, CO",08005,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,25.0,651215.0,3.8
+2018,Colorado,08,"Arapahoe County, CO",08005,Nontransport accidents,Other fall on same level,W18,14.0,651215.0,Unreliable
+2018,Colorado,08,"Arapahoe County, CO",08005,Nontransport accidents,Unspecified fall,W19,61.0,651215.0,9.4
+2018,Colorado,08,"Arapahoe County, CO",08005,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,651215.0,Unreliable
+2018,Colorado,08,"Arapahoe County, CO",08005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37.0,651215.0,5.7
+2018,Colorado,08,"Arapahoe County, CO",08005,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,45.0,651215.0,6.9
+2018,Colorado,08,"Arapahoe County, CO",08005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,34.0,651215.0,5.2
+2018,Colorado,08,"Arapahoe County, CO",08005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,45.0,651215.0,6.9
+2018,Colorado,08,"Arapahoe County, CO",08005,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,651215.0,Unreliable
+2018,Colorado,08,"Boulder County, CO",08013,Nontransport accidents,Other fall on same level,W18,49.0,326078.0,15.0
+2018,Colorado,08,"Boulder County, CO",08013,Nontransport accidents,Unspecified fall,W19,17.0,326078.0,Unreliable
+2018,Colorado,08,"Boulder County, CO",08013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,326078.0,Unreliable
+2018,Colorado,08,"Boulder County, CO",08013,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,326078.0,Unreliable
+2018,Colorado,08,"Boulder County, CO",08013,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,20.0,326078.0,6.1
+2018,Colorado,08,"Boulder County, CO",08013,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,326078.0,Unreliable
+2018,Colorado,08,"Broomfield County, CO",08014,Nontransport accidents,Unspecified fall,W19,10.0,69267.0,Unreliable
+2018,Colorado,08,"Denver County, CO",08031,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,716492.0,Unreliable
+2018,Colorado,08,"Denver County, CO",08031,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,716492.0,Unreliable
+2018,Colorado,08,"Denver County, CO",08031,Nontransport accidents,Other fall on same level,W18,19.0,716492.0,Unreliable
+2018,Colorado,08,"Denver County, CO",08031,Nontransport accidents,Unspecified fall,W19,57.0,716492.0,8.0
+2018,Colorado,08,"Denver County, CO",08031,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,24.0,716492.0,3.3
+2018,Colorado,08,"Denver County, CO",08031,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,52.0,716492.0,7.3
+2018,Colorado,08,"Denver County, CO",08031,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,53.0,716492.0,7.4
+2018,Colorado,08,"Denver County, CO",08031,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12.0,716492.0,Unreliable
+2018,Colorado,08,"Denver County, CO",08031,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,57.0,716492.0,8.0
+2018,Colorado,08,"Denver County, CO",08031,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,63.0,716492.0,8.8
+2018,Colorado,08,"Denver County, CO",08031,Assault (homicide),Assault by other and unspecified firearm discharge,X95,40.0,716492.0,5.6
+2018,Colorado,08,"Douglas County, CO",08035,Nontransport accidents,Other fall on same level,W18,21.0,342776.0,6.1
+2018,Colorado,08,"Douglas County, CO",08035,Nontransport accidents,Unspecified fall,W19,12.0,342776.0,Unreliable
+2018,Colorado,08,"Douglas County, CO",08035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,342776.0,Unreliable
+2018,Colorado,08,"Douglas County, CO",08035,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,342776.0,Unreliable
+2018,Colorado,08,"Douglas County, CO",08035,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,342776.0,6.4
+2018,Colorado,08,"El Paso County, CO",08041,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,26.0,713856.0,3.6
+2018,Colorado,08,"El Paso County, CO",08041,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,56.0,713856.0,7.8
+2018,Colorado,08,"El Paso County, CO",08041,Nontransport accidents,Unspecified fall,W19,71.0,713856.0,9.9
+2018,Colorado,08,"El Paso County, CO",08041,Nontransport accidents,Exposure to excessive natural cold,X31,10.0,713856.0,Unreliable
+2018,Colorado,08,"El Paso County, CO",08041,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,43.0,713856.0,6.0
+2018,Colorado,08,"El Paso County, CO",08041,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,52.0,713856.0,7.3
+2018,Colorado,08,"El Paso County, CO",08041,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,72.0,713856.0,10.1
+2018,Colorado,08,"El Paso County, CO",08041,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,12.0,713856.0,Unreliable
+2018,Colorado,08,"El Paso County, CO",08041,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12.0,713856.0,Unreliable
+2018,Colorado,08,"El Paso County, CO",08041,Intentional self-harm (suicide),Intentional self-poisoning by and exposure to other gases and vapours,X67,10.0,713856.0,Unreliable
+2018,Colorado,08,"El Paso County, CO",08041,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,52.0,713856.0,7.3
+2018,Colorado,08,"El Paso County, CO",08041,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,713856.0,Unreliable
+2018,Colorado,08,"El Paso County, CO",08041,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,76.0,713856.0,10.6
+2018,Colorado,08,"El Paso County, CO",08041,Assault (homicide),Assault by other and unspecified firearm discharge,X95,45.0,713856.0,6.3
+2018,Colorado,08,"Garfield County, CO",08045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,59770.0,Unreliable
+2018,Colorado,08,"Jefferson County, CO",08059,Nontransport accidents,Fall on and from stairs and steps,W10,10.0,580233.0,Unreliable
+2018,Colorado,08,"Jefferson County, CO",08059,Nontransport accidents,Other fall on same level,W18,38.0,580233.0,6.5
+2018,Colorado,08,"Jefferson County, CO",08059,Nontransport accidents,Unspecified fall,W19,63.0,580233.0,10.9
+2018,Colorado,08,"Jefferson County, CO",08059,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,580233.0,Unreliable
+2018,Colorado,08,"Jefferson County, CO",08059,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,580233.0,3.6
+2018,Colorado,08,"Jefferson County, CO",08059,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,42.0,580233.0,7.2
+2018,Colorado,08,"Jefferson County, CO",08059,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,31.0,580233.0,5.3
+2018,Colorado,08,"Jefferson County, CO",08059,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,49.0,580233.0,8.4
+2018,Colorado,08,"Jefferson County, CO",08059,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,580233.0,Unreliable
+2018,Colorado,08,"Jefferson County, CO",08059,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,580233.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,13.0,350518.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,350518.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Nontransport accidents,Other fall on same level,W18,11.0,350518.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Nontransport accidents,Unspecified fall,W19,28.0,350518.0,8.0
+2018,Colorado,08,"Larimer County, CO",08069,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,350518.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,350518.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,350518.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,350518.0,Unreliable
+2018,Colorado,08,"Larimer County, CO",08069,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,20.0,350518.0,5.7
+2018,Colorado,08,"Larimer County, CO",08069,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,350518.0,Unreliable
+2018,Colorado,08,"Mesa County, CO",08077,Nontransport accidents,Other fall on same level,W18,21.0,153207.0,13.7
+2018,Colorado,08,"Mesa County, CO",08077,Nontransport accidents,Unspecified fall,W19,16.0,153207.0,Unreliable
+2018,Colorado,08,"Mesa County, CO",08077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,153207.0,Unreliable
+2018,Colorado,08,"Mesa County, CO",08077,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,153207.0,Unreliable
+2018,Colorado,08,"Mesa County, CO",08077,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,33.0,153207.0,21.5
+2018,Colorado,08,"Pueblo County, CO",08101,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,167529.0,Unreliable
+2018,Colorado,08,"Pueblo County, CO",08101,Nontransport accidents,Unspecified fall,W19,10.0,167529.0,Unreliable
+2018,Colorado,08,"Pueblo County, CO",08101,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,167529.0,Unreliable
+2018,Colorado,08,"Pueblo County, CO",08101,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,167529.0,Unreliable
+2018,Colorado,08,"Pueblo County, CO",08101,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,167529.0,Unreliable
+2018,Colorado,08,"Pueblo County, CO",08101,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,167529.0,Unreliable
+2018,Colorado,08,"Pueblo County, CO",08101,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,19.0,167529.0,Unreliable
+2018,Colorado,08,"Weld County, CO",08123,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,314305.0,Unreliable
+2018,Colorado,08,"Weld County, CO",08123,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,314305.0,Unreliable
+2018,Colorado,08,"Weld County, CO",08123,Nontransport accidents,Other fall on same level,W18,24.0,314305.0,7.6
+2018,Colorado,08,"Weld County, CO",08123,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,314305.0,Unreliable
+2018,Colorado,08,"Weld County, CO",08123,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,314305.0,Unreliable
+2018,Colorado,08,"Weld County, CO",08123,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,15.0,314305.0,Unreliable
+2018,Colorado,08,"Weld County, CO",08123,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,314305.0,Unreliable
+2018,Colorado,08,"Weld County, CO",08123,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,25.0,314305.0,8.0

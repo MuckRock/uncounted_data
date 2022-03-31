@@ -1,0 +1,95 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Maryland,"Allegany County, MD",Nontransport accidents,Unspecified fall,W19,10.0,70975.0,Unreliable
+2018,Maryland,"Allegany County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,19.0,70975.0,Unreliable
+2018,Maryland,"Anne Arundel County, MD",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,576031.0,Unreliable
+2018,Maryland,"Anne Arundel County, MD",Nontransport accidents,Other fall on same level,W18,12.0,576031.0,Unreliable
+2018,Maryland,"Anne Arundel County, MD",Nontransport accidents,Unspecified fall,W19,30.0,576031.0,5.2
+2018,Maryland,"Anne Arundel County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,47.0,576031.0,8.2
+2018,Maryland,"Anne Arundel County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,576031.0,3.8
+2018,Maryland,"Anne Arundel County, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,31.0,576031.0,5.4
+2018,Maryland,"Anne Arundel County, MD",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,576031.0,Unreliable
+2018,Maryland,"Anne Arundel County, MD",Assault (homicide),Assault by other and unspecified firearm discharge,X95,23.0,576031.0,4.0
+2018,Maryland,"Anne Arundel County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,141.0,576031.0,24.5
+2018,Maryland,"Anne Arundel County, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,28.0,576031.0,4.9
+2018,Maryland,"Baltimore County, MD",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,828431.0,Unreliable
+2018,Maryland,"Baltimore County, MD",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19.0,828431.0,Unreliable
+2018,Maryland,"Baltimore County, MD",Nontransport accidents,Other fall on same level,W18,23.0,828431.0,2.8
+2018,Maryland,"Baltimore County, MD",Nontransport accidents,Unspecified fall,W19,147.0,828431.0,17.7
+2018,Maryland,"Baltimore County, MD",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,10.0,828431.0,Unreliable
+2018,Maryland,"Baltimore County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,71.0,828431.0,8.6
+2018,Maryland,"Baltimore County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,32.0,828431.0,3.9
+2018,Maryland,"Baltimore County, MD",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,828431.0,Unreliable
+2018,Maryland,"Baltimore County, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,26.0,828431.0,3.1
+2018,Maryland,"Baltimore County, MD",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,33.0,828431.0,4.0
+2018,Maryland,"Baltimore County, MD",Assault (homicide),Assault by other and unspecified firearm discharge,X95,56.0,828431.0,6.8
+2018,Maryland,"Baltimore County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,270.0,828431.0,32.6
+2018,Maryland,"Baltimore County, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,53.0,828431.0,6.4
+2018,Maryland,"Calvert County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,22.0,92003.0,23.9
+2018,Maryland,"Carroll County, MD",Nontransport accidents,Unspecified fall,W19,19.0,168429.0,Unreliable
+2018,Maryland,"Carroll County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,168429.0,Unreliable
+2018,Maryland,"Carroll County, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,168429.0,Unreliable
+2018,Maryland,"Carroll County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,46.0,168429.0,27.3
+2018,Maryland,"Cecil County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,102826.0,Unreliable
+2018,Maryland,"Cecil County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,34.0,102826.0,33.1
+2018,Maryland,"Cecil County, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,11.0,102826.0,Unreliable
+2018,Maryland,"Charles County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,20.0,161503.0,12.4
+2018,Maryland,"Frederick County, MD",Nontransport accidents,Unspecified fall,W19,13.0,255648.0,Unreliable
+2018,Maryland,"Frederick County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,255648.0,Unreliable
+2018,Maryland,"Frederick County, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,255648.0,Unreliable
+2018,Maryland,"Frederick County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,40.0,255648.0,15.6
+2018,Maryland,"Frederick County, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,14.0,255648.0,Unreliable
+2018,Maryland,"Harford County, MD",Nontransport accidents,Unspecified fall,W19,24.0,253956.0,9.5
+2018,Maryland,"Harford County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,253956.0,Unreliable
+2018,Maryland,"Harford County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,253956.0,Unreliable
+2018,Maryland,"Harford County, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,253956.0,Unreliable
+2018,Maryland,"Harford County, MD",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,253956.0,Unreliable
+2018,Maryland,"Harford County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,63.0,253956.0,24.8
+2018,Maryland,"Harford County, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,13.0,253956.0,Unreliable
+2018,Maryland,"Howard County, MD",Nontransport accidents,Unspecified fall,W19,23.0,323196.0,7.1
+2018,Maryland,"Howard County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,323196.0,Unreliable
+2018,Maryland,"Howard County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,27.0,323196.0,8.4
+2018,Maryland,"Montgomery County, MD",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,14.0,1052567.0,Unreliable
+2018,Maryland,"Montgomery County, MD",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,1052567.0,Unreliable
+2018,Maryland,"Montgomery County, MD",Nontransport accidents,Fall on and from stairs and steps,W10,12.0,1052567.0,Unreliable
+2018,Maryland,"Montgomery County, MD",Nontransport accidents,Unspecified fall,W19,49.0,1052567.0,4.7
+2018,Maryland,"Montgomery County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,1052567.0,1.9
+2018,Maryland,"Montgomery County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,1052567.0,Unreliable
+2018,Maryland,"Montgomery County, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,39.0,1052567.0,3.7
+2018,Maryland,"Montgomery County, MD",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,25.0,1052567.0,2.4
+2018,Maryland,"Montgomery County, MD",Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,1052567.0,Unreliable
+2018,Maryland,"Montgomery County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,35.0,1052567.0,3.3
+2018,Maryland,"Montgomery County, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,15.0,1052567.0,Unreliable
+2018,Maryland,"Prince George's County, MD",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,18.0,909308.0,Unreliable
+2018,Maryland,"Prince George's County, MD",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,30.0,909308.0,3.3
+2018,Maryland,"Prince George's County, MD",Nontransport accidents,Unspecified fall,W19,39.0,909308.0,4.3
+2018,Maryland,"Prince George's County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,909308.0,3.2
+2018,Maryland,"Prince George's County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,909308.0,Unreliable
+2018,Maryland,"Prince George's County, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,20.0,909308.0,2.2
+2018,Maryland,"Prince George's County, MD",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,909308.0,2.2
+2018,Maryland,"Prince George's County, MD",Assault (homicide),Assault by other and unspecified firearm discharge,X95,62.0,909308.0,6.8
+2018,Maryland,"Prince George's County, MD",Assault (homicide),Assault by sharp object,X99,10.0,909308.0,Unreliable
+2018,Maryland,"Prince George's County, MD",Assault (homicide),Assault by unspecified means,Y09,14.0,909308.0,Unreliable
+2018,Maryland,"Prince George's County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,65.0,909308.0,7.1
+2018,Maryland,"Prince George's County, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,14.0,909308.0,Unreliable
+2018,Maryland,"Queen Anne's County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,16.0,50251.0,Unreliable
+2018,Maryland,"St. Mary's County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,17.0,112664.0,Unreliable
+2018,Maryland,"Washington County, MD",Nontransport accidents,Unspecified fall,W19,16.0,150926.0,Unreliable
+2018,Maryland,"Washington County, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,150926.0,Unreliable
+2018,Maryland,"Washington County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,55.0,150926.0,36.4
+2018,Maryland,"Wicomico County, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,18.0,103195.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Nontransport accidents,Fall on and from stairs and steps,W10,14.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Nontransport accidents,Other fall on same level,W18,12.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Nontransport accidents,Unspecified fall,W19,58.0,602495.0,9.6
+2018,Maryland,"Baltimore city, MD",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,14.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,123.0,602495.0,20.4
+2018,Maryland,"Baltimore city, MD",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,51.0,602495.0,8.5
+2018,Maryland,"Baltimore city, MD",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,602495.0,3.7
+2018,Maryland,"Baltimore city, MD",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Assault (homicide),Assault by other and unspecified firearm discharge,X95,222.0,602495.0,36.8
+2018,Maryland,"Baltimore city, MD",Assault (homicide),Assault by sharp object,X99,12.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",Assault (homicide),Assault by unspecified means,Y09,19.0,602495.0,Unreliable
+2018,Maryland,"Baltimore city, MD",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,397.0,602495.0,65.9
+2018,Maryland,"Baltimore city, MD",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,81.0,602495.0,13.4

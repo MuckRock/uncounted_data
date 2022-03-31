@@ -1,0 +1,80 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Massachusetts,"Barnstable County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,213413.0,Unreliable
+2018,Massachusetts,"Barnstable County, MA",Nontransport accidents,Unspecified fall,W19,39.0,213413.0,18.3
+2018,Massachusetts,"Barnstable County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,59.0,213413.0,27.6
+2018,Massachusetts,"Barnstable County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,213413.0,Unreliable
+2018,Massachusetts,"Barnstable County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,213413.0,10.8
+2018,Massachusetts,"Berkshire County, MA",Nontransport accidents,Unspecified fall,W19,14.0,126348.0,Unreliable
+2018,Massachusetts,"Berkshire County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,28.0,126348.0,22.2
+2018,Massachusetts,"Berkshire County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,126348.0,Unreliable
+2018,Massachusetts,"Bristol County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,564022.0,Unreliable
+2018,Massachusetts,"Bristol County, MA",Nontransport accidents,Fall on and from stairs and steps,W10,13.0,564022.0,Unreliable
+2018,Massachusetts,"Bristol County, MA",Nontransport accidents,Unspecified fall,W19,58.0,564022.0,10.3
+2018,Massachusetts,"Bristol County, MA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,16.0,564022.0,Unreliable
+2018,Massachusetts,"Bristol County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,159.0,564022.0,28.2
+2018,Massachusetts,"Bristol County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,69.0,564022.0,12.2
+2018,Massachusetts,"Bristol County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,43.0,564022.0,7.6
+2018,Massachusetts,"Bristol County, MA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,564022.0,Unreliable
+2018,Massachusetts,"Essex County, MA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,790638.0,Unreliable
+2018,Massachusetts,"Essex County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,790638.0,Unreliable
+2018,Massachusetts,"Essex County, MA",Nontransport accidents,Other fall on same level,W18,15.0,790638.0,Unreliable
+2018,Massachusetts,"Essex County, MA",Nontransport accidents,Unspecified fall,W19,87.0,790638.0,11.0
+2018,Massachusetts,"Essex County, MA",Nontransport accidents,Drowning and submersion while in natural water,W69,10.0,790638.0,Unreliable
+2018,Massachusetts,"Essex County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,164.0,790638.0,20.7
+2018,Massachusetts,"Essex County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,111.0,790638.0,14.0
+2018,Massachusetts,"Essex County, MA",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,11.0,790638.0,Unreliable
+2018,Massachusetts,"Essex County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,38.0,790638.0,4.8
+2018,Massachusetts,"Essex County, MA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,790638.0,Unreliable
+2018,Massachusetts,"Franklin County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,70963.0,Unreliable
+2018,Massachusetts,"Hampden County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,470406.0,Unreliable
+2018,Massachusetts,"Hampden County, MA",Nontransport accidents,Unspecified fall,W19,52.0,470406.0,11.1
+2018,Massachusetts,"Hampden County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,157.0,470406.0,33.4
+2018,Massachusetts,"Hampden County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,64.0,470406.0,13.6
+2018,Massachusetts,"Hampden County, MA",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,10.0,470406.0,Unreliable
+2018,Massachusetts,"Hampden County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,28.0,470406.0,6.0
+2018,Massachusetts,"Hampden County, MA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,470406.0,Unreliable
+2018,Massachusetts,"Hampden County, MA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,470406.0,Unreliable
+2018,Massachusetts,"Hampshire County, MA",Nontransport accidents,Unspecified fall,W19,16.0,161355.0,Unreliable
+2018,Massachusetts,"Hampshire County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,161355.0,15.5
+2018,Massachusetts,"Hampshire County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,161355.0,Unreliable
+2018,Massachusetts,"Middlesex County, MA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,1614714.0,Unreliable
+2018,Massachusetts,"Middlesex County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24.0,1614714.0,1.5
+2018,Massachusetts,"Middlesex County, MA",Nontransport accidents,Fall on and from stairs and steps,W10,19.0,1614714.0,Unreliable
+2018,Massachusetts,"Middlesex County, MA",Nontransport accidents,Other fall on same level,W18,59.0,1614714.0,3.7
+2018,Massachusetts,"Middlesex County, MA",Nontransport accidents,Unspecified fall,W19,138.0,1614714.0,8.5
+2018,Massachusetts,"Middlesex County, MA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,17.0,1614714.0,Unreliable
+2018,Massachusetts,"Middlesex County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,190.0,1614714.0,11.8
+2018,Massachusetts,"Middlesex County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,140.0,1614714.0,8.7
+2018,Massachusetts,"Middlesex County, MA",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,14.0,1614714.0,Unreliable
+2018,Massachusetts,"Middlesex County, MA",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18.0,1614714.0,Unreliable
+2018,Massachusetts,"Middlesex County, MA",Intentional self-harm (suicide),Intentional self-poisoning by and exposure to other gases and vapours,X67,11.0,1614714.0,Unreliable
+2018,Massachusetts,"Middlesex County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,65.0,1614714.0,4.0
+2018,Massachusetts,"Middlesex County, MA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,1614714.0,1.3
+2018,Massachusetts,"Norfolk County, MA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,705388.0,Unreliable
+2018,Massachusetts,"Norfolk County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,21.0,705388.0,3.0
+2018,Massachusetts,"Norfolk County, MA",Nontransport accidents,Unspecified fall,W19,78.0,705388.0,11.1
+2018,Massachusetts,"Norfolk County, MA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,14.0,705388.0,Unreliable
+2018,Massachusetts,"Norfolk County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,104.0,705388.0,14.7
+2018,Massachusetts,"Norfolk County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,71.0,705388.0,10.1
+2018,Massachusetts,"Norfolk County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,43.0,705388.0,6.1
+2018,Massachusetts,"Plymouth County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,518132.0,Unreliable
+2018,Massachusetts,"Plymouth County, MA",Nontransport accidents,Fall on and from stairs and steps,W10,11.0,518132.0,Unreliable
+2018,Massachusetts,"Plymouth County, MA",Nontransport accidents,Unspecified fall,W19,53.0,518132.0,10.2
+2018,Massachusetts,"Plymouth County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,92.0,518132.0,17.8
+2018,Massachusetts,"Plymouth County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,70.0,518132.0,13.5
+2018,Massachusetts,"Plymouth County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,28.0,518132.0,5.4
+2018,Massachusetts,"Plymouth County, MA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,518132.0,Unreliable
+2018,Massachusetts,"Plymouth County, MA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,518132.0,Unreliable
+2018,Massachusetts,"Suffolk County, MA",Nontransport accidents,Unspecified fall,W19,43.0,807252.0,5.3
+2018,Massachusetts,"Suffolk County, MA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,13.0,807252.0,Unreliable
+2018,Massachusetts,"Suffolk County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,130.0,807252.0,16.1
+2018,Massachusetts,"Suffolk County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,89.0,807252.0,11.0
+2018,Massachusetts,"Suffolk County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,35.0,807252.0,4.3
+2018,Massachusetts,"Suffolk County, MA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,46.0,807252.0,5.7
+2018,Massachusetts,"Worcester County, MA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,37.0,830839.0,4.5
+2018,Massachusetts,"Worcester County, MA",Nontransport accidents,Unspecified fall,W19,78.0,830839.0,9.4
+2018,Massachusetts,"Worcester County, MA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,830839.0,Unreliable
+2018,Massachusetts,"Worcester County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,243.0,830839.0,29.2
+2018,Massachusetts,"Worcester County, MA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,47.0,830839.0,5.7
+2018,Massachusetts,"Worcester County, MA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,40.0,830839.0,4.8
+2018,Massachusetts,"Worcester County, MA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,830839.0,Unreliable

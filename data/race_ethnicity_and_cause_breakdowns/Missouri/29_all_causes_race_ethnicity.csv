@@ -1,0 +1,836 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Missouri,29,"Adair County, MO",29001,White,Not Hispanic or Latino,209.0,22840.0,915.1,772.2
+2018,Missouri,29,"Andrew County, MO",29003,White,Not Hispanic or Latino,156.0,16576.0,941.1,673.6
+2018,Missouri,29,"Atchison County, MO",29005,White,Not Hispanic or Latino,71.0,4990.0,1422.8,783.2
+2018,Missouri,29,"Audrain County, MO",29007,Black or African American,Not Hispanic or Latino,20.0,1747.0,1144.8,1251.2
+2018,Missouri,29,"Audrain County, MO",29007,White,Not Hispanic or Latino,287.0,22252.0,1289.8,930.1
+2018,Missouri,29,"Barry County, MO",29009,White,Not Hispanic or Latino,439.0,30470.0,1440.8,938.9
+2018,Missouri,29,"Barton County, MO",29011,White,Not Hispanic or Latino,122.0,10914.0,1117.8,691.1
+2018,Missouri,29,"Bates County, MO",29013,White,Not Hispanic or Latino,182.0,15361.0,1184.8,840.6
+2018,Missouri,29,"Benton County, MO",29015,White,Not Hispanic or Latino,325.0,18241.0,1781.7,925.9
+2018,Missouri,29,"Bollinger County, MO",29017,White,Not Hispanic or Latino,143.0,11673.0,1225.0,828.5
+2018,Missouri,29,"Boone County, MO",29019,Asian,Not Hispanic or Latino,20.0,9514.0,210.2,770.9
+2018,Missouri,29,"Boone County, MO",29019,Black or African American,Not Hispanic or Latino,114.0,17125.0,665.7,1024.7
+2018,Missouri,29,"Boone County, MO",29019,White,Not Hispanic or Latino,1075.0,140978.0,762.5,723.3
+2018,Missouri,29,"Boone County, MO",29019,More than one race,Not Hispanic or Latino,12.0,5298.0,Unreliable,Unreliable
+2018,Missouri,29,"Buchanan County, MO",29021,Black or African American,Not Hispanic or Latino,38.0,5019.0,757.1,1072.7
+2018,Missouri,29,"Buchanan County, MO",29021,White,Hispanic or Latino,17.0,5194.0,Unreliable,Unreliable
+2018,Missouri,29,"Buchanan County, MO",29021,White,Not Hispanic or Latino,894.0,73169.0,1221.8,897.2
+2018,Missouri,29,"Butler County, MO",29023,Black or African American,Not Hispanic or Latino,28.0,2322.0,1205.9,1267.0
+2018,Missouri,29,"Butler County, MO",29023,White,Not Hispanic or Latino,573.0,37748.0,1518.0,1077.1
+2018,Missouri,29,"Caldwell County, MO",29025,White,Not Hispanic or Latino,116.0,8598.0,1349.2,915.1
+2018,Missouri,29,"Callaway County, MO",29027,Black or African American,Not Hispanic or Latino,18.0,1962.0,Unreliable,Unreliable
+2018,Missouri,29,"Callaway County, MO",29027,White,Not Hispanic or Latino,438.0,40436.0,1083.2,880.1
+2018,Missouri,29,"Camden County, MO",29029,White,Not Hispanic or Latino,528.0,43052.0,1226.4,714.7
+2018,Missouri,29,"Cape Girardeau County, MO",29031,Black or African American,Not Hispanic or Latino,29.0,5997.0,483.6,821.7
+2018,Missouri,29,"Cape Girardeau County, MO",29031,White,Not Hispanic or Latino,782.0,67597.0,1156.9,821.6
+2018,Missouri,29,"Carroll County, MO",29033,White,Not Hispanic or Latino,117.0,8276.0,1413.7,949.8
+2018,Missouri,29,"Carter County, MO",29035,White,Not Hispanic or Latino,91.0,5682.0,1601.5,1109.3
+2018,Missouri,29,"Cass County, MO",29037,Black or African American,Not Hispanic or Latino,29.0,4325.0,670.5,878.3
+2018,Missouri,29,"Cass County, MO",29037,White,Hispanic or Latino,11.0,4089.0,Unreliable,Unreliable
+2018,Missouri,29,"Cass County, MO",29037,White,Not Hispanic or Latino,972.0,91900.0,1057.7,778.5
+2018,Missouri,29,"Cedar County, MO",29039,White,Not Hispanic or Latino,220.0,13383.0,1643.9,993.1
+2018,Missouri,29,"Chariton County, MO",29041,White,Not Hispanic or Latino,91.0,7060.0,1289.0,692.7
+2018,Missouri,29,"Christian County, MO",29043,White,Not Hispanic or Latino,675.0,80954.0,833.8,724.2
+2018,Missouri,29,"Clark County, MO",29045,White,Not Hispanic or Latino,82.0,6613.0,1240.0,783.0
+2018,Missouri,29,"Clay County, MO",29047,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1181.0,Unreliable,Unreliable
+2018,Missouri,29,"Clay County, MO",29047,Asian,Not Hispanic or Latino,16.0,5927.0,Unreliable,Unreliable
+2018,Missouri,29,"Clay County, MO",29047,Black or African American,Not Hispanic or Latino,72.0,16389.0,439.3,859.2
+2018,Missouri,29,"Clay County, MO",29047,White,Hispanic or Latino,40.0,14784.0,270.6,447.6
+2018,Missouri,29,"Clay County, MO",29047,White,Not Hispanic or Latino,1686.0,198750.0,848.3,711.6
+2018,Missouri,29,"Clay County, MO",29047,More than one race,Not Hispanic or Latino,10.0,6160.0,Unreliable,Unreliable
+2018,Missouri,29,"Clinton County, MO",29049,White,Not Hispanic or Latino,255.0,19154.0,1331.3,924.2
+2018,Missouri,29,"Cole County, MO",29051,Black or African American,Not Hispanic or Latino,53.0,9331.0,568.0,987.3
+2018,Missouri,29,"Cole County, MO",29051,White,Not Hispanic or Latino,643.0,62477.0,1029.2,741.0
+2018,Missouri,29,"Cooper County, MO",29053,Black or African American,Not Hispanic or Latino,11.0,1230.0,Unreliable,Unreliable
+2018,Missouri,29,"Cooper County, MO",29053,White,Not Hispanic or Latino,188.0,15453.0,1216.6,810.5
+2018,Missouri,29,"Crawford County, MO",29055,White,Not Hispanic or Latino,314.0,22777.0,1378.6,969.6
+2018,Missouri,29,"Dade County, MO",29057,White,Not Hispanic or Latino,115.0,7079.0,1624.5,988.5
+2018,Missouri,29,"Dallas County, MO",29059,White,Not Hispanic or Latino,210.0,15843.0,1325.5,912.2
+2018,Missouri,29,"Daviess County, MO",29061,White,Not Hispanic or Latino,85.0,7953.0,1068.8,751.9
+2018,Missouri,29,"DeKalb County, MO",29063,White,Not Hispanic or Latino,158.0,10570.0,1494.8,1035.5
+2018,Missouri,29,"Dent County, MO",29065,White,Not Hispanic or Latino,173.0,14533.0,1190.4,767.9
+2018,Missouri,29,"Douglas County, MO",29067,White,Not Hispanic or Latino,203.0,12664.0,1603.0,972.3
+2018,Missouri,29,"Dunklin County, MO",29069,Black or African American,Not Hispanic or Latino,26.0,2994.0,868.4,1112.9
+2018,Missouri,29,"Dunklin County, MO",29069,White,Not Hispanic or Latino,437.0,23579.0,1853.3,1225.7
+2018,Missouri,29,"Franklin County, MO",29071,Black or African American,Not Hispanic or Latino,19.0,986.0,Unreliable,Unreliable
+2018,Missouri,29,"Franklin County, MO",29071,White,Not Hispanic or Latino,1048.0,98489.0,1064.1,838.1
+2018,Missouri,29,"Gasconade County, MO",29073,White,Not Hispanic or Latino,212.0,14109.0,1502.6,889.5
+2018,Missouri,29,"Gentry County, MO",29075,White,Not Hispanic or Latino,95.0,6342.0,1498.0,936.2
+2018,Missouri,29,"Greene County, MO",29077,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1765.0,Unreliable,Unreliable
+2018,Missouri,29,"Greene County, MO",29077,Asian,Not Hispanic or Latino,21.0,6451.0,325.5,497.9
+2018,Missouri,29,"Greene County, MO",29077,Black or African American,Not Hispanic or Latino,75.0,9564.0,784.2,1207.6
+2018,Missouri,29,"Greene County, MO",29077,White,Hispanic or Latino,20.0,9346.0,214.0,440.8
+2018,Missouri,29,"Greene County, MO",29077,White,Not Hispanic or Latino,2799.0,254726.0,1098.8,823.4
+2018,Missouri,29,"Greene County, MO",29077,More than one race,Not Hispanic or Latino,11.0,7854.0,Unreliable,Unreliable
+2018,Missouri,29,"Grundy County, MO",29079,White,Not Hispanic or Latino,124.0,9296.0,1333.9,821.8
+2018,Missouri,29,"Harrison County, MO",29081,White,Not Hispanic or Latino,107.0,7988.0,1339.5,801.4
+2018,Missouri,29,"Henry County, MO",29083,White,Not Hispanic or Latino,295.0,20333.0,1450.8,915.0
+2018,Missouri,29,"Hickory County, MO",29085,White,Not Hispanic or Latino,152.0,8980.0,1692.7,927.1
+2018,Missouri,29,"Holt County, MO",29087,White,Not Hispanic or Latino,53.0,4212.0,1258.3,641.8
+2018,Missouri,29,"Howard County, MO",29089,White,Not Hispanic or Latino,110.0,9160.0,1200.9,797.6
+2018,Missouri,29,"Howell County, MO",29091,White,Not Hispanic or Latino,525.0,37694.0,1392.8,950.2
+2018,Missouri,29,"Iron County, MO",29093,White,Not Hispanic or Latino,140.0,9594.0,1459.2,941.3
+2018,Missouri,29,"Jackson County, MO",29095,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2715.0,Unreliable,Unreliable
+2018,Missouri,29,"Jackson County, MO",29095,Asian,Not Hispanic or Latino,41.0,13242.0,309.6,413.1
+2018,Missouri,29,"Jackson County, MO",29095,Black or African American,Hispanic or Latino,11.0,4041.0,Unreliable,Unreliable
+2018,Missouri,29,"Jackson County, MO",29095,Black or African American,Not Hispanic or Latino,1558.0,162934.0,956.2,969.7
+2018,Missouri,29,"Jackson County, MO",29095,White,Hispanic or Latino,187.0,54945.0,340.3,563.1
+2018,Missouri,29,"Jackson County, MO",29095,White,Not Hispanic or Latino,4499.0,436277.0,1031.2,762.2
+2018,Missouri,29,"Jackson County, MO",29095,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2018,Missouri,29,"Jackson County, MO",29095,More than one race,Not Hispanic or Latino,36.0,19547.0,184.2,501.2
+2018,Missouri,29,"Jasper County, MO",29097,Black or African American,Not Hispanic or Latino,26.0,2465.0,1054.8,1243.9
+2018,Missouri,29,"Jasper County, MO",29097,White,Hispanic or Latino,18.0,8380.0,Unreliable,Unreliable
+2018,Missouri,29,"Jasper County, MO",29097,White,Not Hispanic or Latino,1200.0,101103.0,1186.9,910.3
+2018,Missouri,29,"Jefferson County, MO",29099,Black or African American,Not Hispanic or Latino,11.0,2497.0,Unreliable,Unreliable
+2018,Missouri,29,"Jefferson County, MO",29099,White,Not Hispanic or Latino,2147.0,211462.0,1015.3,920.2
+2018,Missouri,29,"Johnson County, MO",29101,Black or African American,Not Hispanic or Latino,10.0,2528.0,Unreliable,Unreliable
+2018,Missouri,29,"Johnson County, MO",29101,White,Not Hispanic or Latino,386.0,45955.0,840.0,802.2
+2018,Missouri,29,"Knox County, MO",29103,White,Not Hispanic or Latino,55.0,3802.0,1446.6,888.5
+2018,Missouri,29,"Laclede County, MO",29105,White,Not Hispanic or Latino,455.0,33347.0,1364.4,1028.4
+2018,Missouri,29,"Lafayette County, MO",29107,Black or African American,Not Hispanic or Latino,13.0,670.0,Unreliable,Unreliable
+2018,Missouri,29,"Lafayette County, MO",29107,White,Not Hispanic or Latino,398.0,29978.0,1327.6,880.9
+2018,Missouri,29,"Lawrence County, MO",29109,White,Not Hispanic or Latino,504.0,34075.0,1479.1,1001.7
+2018,Missouri,29,"Lewis County, MO",29111,White,Not Hispanic or Latino,119.0,9114.0,1305.7,953.0
+2018,Missouri,29,"Lincoln County, MO",29113,Black or African American,Not Hispanic or Latino,10.0,1106.0,Unreliable,Unreliable
+2018,Missouri,29,"Lincoln County, MO",29113,White,Not Hispanic or Latino,486.0,53630.0,906.2,872.7
+2018,Missouri,29,"Linn County, MO",29115,White,Not Hispanic or Latino,180.0,11401.0,1578.8,1047.7
+2018,Missouri,29,"Livingston County, MO",29117,White,Not Hispanic or Latino,161.0,13924.0,1156.3,728.8
+2018,Missouri,29,"McDonald County, MO",29119,White,Not Hispanic or Latino,231.0,17768.0,1300.1,995.4
+2018,Missouri,29,"Macon County, MO",29121,White,Not Hispanic or Latino,206.0,14172.0,1453.6,852.7
+2018,Missouri,29,"Madison County, MO",29123,White,Not Hispanic or Latino,174.0,11525.0,1509.8,1048.9
+2018,Missouri,29,"Maries County, MO",29125,White,Not Hispanic or Latino,93.0,8356.0,1113.0,733.2
+2018,Missouri,29,"Marion County, MO",29127,Black or African American,Not Hispanic or Latino,18.0,1335.0,Unreliable,Unreliable
+2018,Missouri,29,"Marion County, MO",29127,White,Not Hispanic or Latino,323.0,25792.0,1252.3,874.7
+2018,Missouri,29,"Mercer County, MO",29129,White,Not Hispanic or Latino,52.0,3439.0,1512.1,915.5
+2018,Missouri,29,"Miller County, MO",29131,White,Not Hispanic or Latino,288.0,23993.0,1200.4,865.4
+2018,Missouri,29,"Mississippi County, MO",29133,Black or African American,Not Hispanic or Latino,23.0,3263.0,704.9,911.7
+2018,Missouri,29,"Mississippi County, MO",29133,White,Not Hispanic or Latino,173.0,9522.0,1816.8,1256.9
+2018,Missouri,29,"Moniteau County, MO",29135,White,Not Hispanic or Latino,172.0,14381.0,1196.0,937.9
+2018,Missouri,29,"Monroe County, MO",29137,White,Not Hispanic or Latino,102.0,8034.0,1269.6,762.3
+2018,Missouri,29,"Montgomery County, MO",29139,White,Not Hispanic or Latino,145.0,10826.0,1339.4,849.3
+2018,Missouri,29,"Morgan County, MO",29141,White,Not Hispanic or Latino,309.0,19140.0,1614.4,1053.9
+2018,Missouri,29,"New Madrid County, MO",29143,Black or African American,Not Hispanic or Latino,36.0,2700.0,1333.3,1300.2
+2018,Missouri,29,"New Madrid County, MO",29143,White,Not Hispanic or Latino,232.0,13813.0,1679.6,1135.2
+2018,Missouri,29,"Newton County, MO",29145,White,Not Hispanic or Latino,681.0,49919.0,1364.2,970.4
+2018,Missouri,29,"Nodaway County, MO",29147,White,Not Hispanic or Latino,207.0,20627.0,1003.5,785.4
+2018,Missouri,29,"Oregon County, MO",29149,White,Not Hispanic or Latino,158.0,9904.0,1595.3,1009.6
+2018,Missouri,29,"Osage County, MO",29151,White,Not Hispanic or Latino,145.0,13340.0,1087.0,815.4
+2018,Missouri,29,"Ozark County, MO",29153,White,Not Hispanic or Latino,137.0,8584.0,1596.0,912.3
+2018,Missouri,29,"Pemiscot County, MO",29155,Black or African American,Not Hispanic or Latino,50.0,4187.0,1194.2,1271.6
+2018,Missouri,29,"Pemiscot County, MO",29155,White,Not Hispanic or Latino,190.0,11198.0,1696.7,1151.9
+2018,Missouri,29,"Perry County, MO",29157,White,Not Hispanic or Latino,215.0,18205.0,1181.0,845.8
+2018,Missouri,29,"Pettis County, MO",29159,Black or African American,Not Hispanic or Latino,18.0,1289.0,Unreliable,Unreliable
+2018,Missouri,29,"Pettis County, MO",29159,White,Not Hispanic or Latino,454.0,35948.0,1262.9,871.0
+2018,Missouri,29,"Phelps County, MO",29161,White,Not Hispanic or Latino,417.0,39641.0,1051.9,822.7
+2018,Missouri,29,"Pike County, MO",29163,Black or African American,Not Hispanic or Latino,12.0,1439.0,Unreliable,Unreliable
+2018,Missouri,29,"Pike County, MO",29163,White,Not Hispanic or Latino,200.0,16262.0,1229.9,908.7
+2018,Missouri,29,"Platte County, MO",29165,Black or African American,Not Hispanic or Latino,27.0,7334.0,368.1,631.9
+2018,Missouri,29,"Platte County, MO",29165,White,Hispanic or Latino,11.0,5519.0,Unreliable,Unreliable
+2018,Missouri,29,"Platte County, MO",29165,White,Not Hispanic or Latino,687.0,83099.0,826.7,688.7
+2018,Missouri,29,"Polk County, MO",29167,White,Not Hispanic or Latino,370.0,30095.0,1229.4,899.7
+2018,Missouri,29,"Pulaski County, MO",29169,Black or African American,Not Hispanic or Latino,25.0,5795.0,431.4,1766.9
+2018,Missouri,29,"Pulaski County, MO",29169,White,Not Hispanic or Latino,293.0,36013.0,813.6,933.6
+2018,Missouri,29,"Putnam County, MO",29171,White,Not Hispanic or Latino,61.0,4556.0,1338.9,763.5
+2018,Missouri,29,"Ralls County, MO",29173,White,Not Hispanic or Latino,79.0,9747.0,810.5,565.3
+2018,Missouri,29,"Randolph County, MO",29175,White,Not Hispanic or Latino,268.0,22002.0,1218.1,931.7
+2018,Missouri,29,"Ray County, MO",29177,White,Not Hispanic or Latino,270.0,21458.0,1258.3,916.2
+2018,Missouri,29,"Reynolds County, MO",29179,White,Not Hispanic or Latino,98.0,5840.0,1678.1,1017.3
+2018,Missouri,29,"Ripley County, MO",29181,White,Not Hispanic or Latino,189.0,12739.0,1483.6,1013.1
+2018,Missouri,29,"St. Charles County, MO",29183,Asian,Not Hispanic or Latino,15.0,10598.0,Unreliable,Unreliable
+2018,Missouri,29,"St. Charles County, MO",29183,Black or African American,Not Hispanic or Latino,119.0,19932.0,597.0,871.2
+2018,Missouri,29,"St. Charles County, MO",29183,White,Hispanic or Latino,31.0,11867.0,261.2,514.6
+2018,Missouri,29,"St. Charles County, MO",29183,White,Not Hispanic or Latino,2961.0,346927.0,853.5,699.0
+2018,Missouri,29,"St. Charles County, MO",29183,More than one race,Not Hispanic or Latino,11.0,7499.0,Unreliable,Unreliable
+2018,Missouri,29,"St. Clair County, MO",29185,White,Not Hispanic or Latino,115.0,8866.0,1297.1,652.6
+2018,Missouri,29,"Ste. Genevieve County, MO",29186,White,Not Hispanic or Latino,212.0,17082.0,1241.1,839.9
+2018,Missouri,29,"St. Francois County, MO",29187,Black or African American,Not Hispanic or Latino,11.0,3029.0,Unreliable,Unreliable
+2018,Missouri,29,"St. Francois County, MO",29187,White,Not Hispanic or Latino,797.0,61186.0,1302.6,1029.0
+2018,Missouri,29,"St. Louis County, MO",29189,Asian,Not Hispanic or Latino,104.0,45053.0,230.8,339.5
+2018,Missouri,29,"St. Louis County, MO",29189,Black or African American,Not Hispanic or Latino,2583.0,245850.0,1050.6,1114.5
+2018,Missouri,29,"St. Louis County, MO",29189,White,Hispanic or Latino,71.0,25427.0,279.2,414.6
+2018,Missouri,29,"St. Louis County, MO",29189,White,Not Hispanic or Latino,8068.0,654067.0,1233.5,725.9
+2018,Missouri,29,"St. Louis County, MO",29189,More than one race,Not Hispanic or Latino,27.0,20628.0,130.9,314.3
+2018,Missouri,29,"Saline County, MO",29195,Black or African American,Not Hispanic or Latino,12.0,1176.0,Unreliable,Unreliable
+2018,Missouri,29,"Saline County, MO",29195,White,Not Hispanic or Latino,244.0,18306.0,1332.9,838.7
+2018,Missouri,29,"Schuyler County, MO",29197,White,Not Hispanic or Latino,58.0,4448.0,1304.0,847.8
+2018,Missouri,29,"Scotland County, MO",29199,White,Not Hispanic or Latino,41.0,4825.0,849.7,599.0
+2018,Missouri,29,"Scott County, MO",29201,Black or African American,Not Hispanic or Latino,29.0,4581.0,633.0,778.7
+2018,Missouri,29,"Scott County, MO",29201,White,Not Hispanic or Latino,435.0,31956.0,1361.2,970.9
+2018,Missouri,29,"Shannon County, MO",29203,White,Not Hispanic or Latino,88.0,7663.0,1148.4,802.0
+2018,Missouri,29,"Shelby County, MO",29205,White,Not Hispanic or Latino,65.0,5736.0,1133.2,719.7
+2018,Missouri,29,"Stoddard County, MO",29207,White,Not Hispanic or Latino,402.0,27829.0,1444.5,974.6
+2018,Missouri,29,"Stone County, MO",29209,White,Not Hispanic or Latino,441.0,30060.0,1467.1,817.0
+2018,Missouri,29,"Sullivan County, MO",29211,White,Not Hispanic or Latino,80.0,4784.0,1672.2,1022.1
+2018,Missouri,29,"Taney County, MO",29213,White,Hispanic or Latino,11.0,2984.0,Unreliable,Unreliable
+2018,Missouri,29,"Taney County, MO",29213,White,Not Hispanic or Latino,574.0,49433.0,1161.2,767.7
+2018,Missouri,29,"Texas County, MO",29215,White,Not Hispanic or Latino,329.0,23283.0,1413.0,920.8
+2018,Missouri,29,"Vernon County, MO",29217,White,Not Hispanic or Latino,233.0,19250.0,1210.4,819.9
+2018,Missouri,29,"Warren County, MO",29219,White,Not Hispanic or Latino,314.0,31857.0,985.7,757.9
+2018,Missouri,29,"Washington County, MO",29221,White,Not Hispanic or Latino,271.0,23455.0,1155.4,941.7
+2018,Missouri,29,"Wayne County, MO",29223,White,Not Hispanic or Latino,212.0,12419.0,1707.1,1118.1
+2018,Missouri,29,"Webster County, MO",29225,White,Not Hispanic or Latino,390.0,36841.0,1058.6,916.9
+2018,Missouri,29,"Worth County, MO",29227,White,Not Hispanic or Latino,26.0,1964.0,1323.8,694.8
+2018,Missouri,29,"Wright County, MO",29229,White,Not Hispanic or Latino,270.0,17462.0,1546.2,1078.6
+2018,Missouri,29,"St. Louis city, MO",29510,Asian,Not Hispanic or Latino,34.0,10431.0,326.0,451.9
+2018,Missouri,29,"St. Louis city, MO",29510,Black or African American,Not Hispanic or Latino,1726.0,137971.0,1251.0,1150.2
+2018,Missouri,29,"St. Louis city, MO",29510,White,Hispanic or Latino,26.0,10222.0,254.4,427.9
+2018,Missouri,29,"St. Louis city, MO",29510,White,Not Hispanic or Latino,1225.0,134079.0,913.6,789.7
+2018,Missouri,29,"St. Louis city, MO",29510,More than one race,Not Hispanic or Latino,10.0,7129.0,Unreliable,Unreliable
+2019,Missouri,29,"Adair County, MO",29001,White,Not Hispanic or Latino,242.0,22648.0,1068.5,876.8
+2019,Missouri,29,"Andrew County, MO",29003,White,Not Hispanic or Latino,172.0,16632.0,1034.2,714.7
+2019,Missouri,29,"Atchison County, MO",29005,White,Not Hispanic or Latino,90.0,4944.0,1820.4,930.1
+2019,Missouri,29,"Audrain County, MO",29007,Black or African American,Not Hispanic or Latino,20.0,1707.0,1171.6,1181.9
+2019,Missouri,29,"Audrain County, MO",29007,White,Not Hispanic or Latino,291.0,22132.0,1314.8,909.5
+2019,Missouri,29,"Barry County, MO",29009,White,Hispanic or Latino,13.0,3184.0,Unreliable,Unreliable
+2019,Missouri,29,"Barry County, MO",29009,White,Not Hispanic or Latino,400.0,30255.0,1322.1,827.3
+2019,Missouri,29,"Barton County, MO",29011,White,Not Hispanic or Latino,154.0,10866.0,1417.3,870.6
+2019,Missouri,29,"Bates County, MO",29013,White,Not Hispanic or Latino,214.0,15167.0,1411.0,954.8
+2019,Missouri,29,"Benton County, MO",29015,White,Not Hispanic or Latino,313.0,18369.0,1704.0,919.4
+2019,Missouri,29,"Bollinger County, MO",29017,White,Not Hispanic or Latino,119.0,11631.0,1023.1,674.0
+2019,Missouri,29,"Boone County, MO",29019,Asian,Not Hispanic or Latino,12.0,8982.0,Unreliable,Unreliable
+2019,Missouri,29,"Boone County, MO",29019,Black or African American,Not Hispanic or Latino,117.0,17407.0,672.1,971.9
+2019,Missouri,29,"Boone County, MO",29019,White,Not Hispanic or Latino,1060.0,141515.0,749.0,696.1
+2019,Missouri,29,"Boone County, MO",29019,More than one race,Not Hispanic or Latino,11.0,5407.0,Unreliable,Unreliable
+2019,Missouri,29,"Buchanan County, MO",29021,Black or African American,Not Hispanic or Latino,24.0,4961.0,483.8,684.3
+2019,Missouri,29,"Buchanan County, MO",29021,White,Hispanic or Latino,21.0,5082.0,413.2,555.4
+2019,Missouri,29,"Buchanan County, MO",29021,White,Not Hispanic or Latino,877.0,72226.0,1214.2,866.0
+2019,Missouri,29,"Butler County, MO",29023,Black or African American,Not Hispanic or Latino,25.0,2313.0,1080.8,1065.4
+2019,Missouri,29,"Butler County, MO",29023,White,Not Hispanic or Latino,539.0,37535.0,1436.0,1002.4
+2019,Missouri,29,"Caldwell County, MO",29025,White,Not Hispanic or Latino,104.0,8469.0,1228.0,863.9
+2019,Missouri,29,"Callaway County, MO",29027,Black or African American,Not Hispanic or Latino,21.0,2029.0,1035.0,1378.8
+2019,Missouri,29,"Callaway County, MO",29027,White,Not Hispanic or Latino,395.0,40266.0,981.0,796.9
+2019,Missouri,29,"Camden County, MO",29029,White,Not Hispanic or Latino,514.0,43509.0,1181.4,636.8
+2019,Missouri,29,"Cape Girardeau County, MO",29031,Black or African American,Not Hispanic or Latino,46.0,6103.0,753.7,1087.7
+2019,Missouri,29,"Cape Girardeau County, MO",29031,White,Not Hispanic or Latino,783.0,67441.0,1161.0,824.8
+2019,Missouri,29,"Carroll County, MO",29033,White,Not Hispanic or Latino,106.0,8199.0,1292.8,783.9
+2019,Missouri,29,"Carter County, MO",29035,White,Not Hispanic or Latino,86.0,5588.0,1539.0,1069.6
+2019,Missouri,29,"Cass County, MO",29037,Black or African American,Not Hispanic or Latino,24.0,4605.0,521.2,637.3
+2019,Missouri,29,"Cass County, MO",29037,White,Hispanic or Latino,12.0,4118.0,Unreliable,Unreliable
+2019,Missouri,29,"Cass County, MO",29037,White,Not Hispanic or Latino,976.0,92317.0,1057.2,767.7
+2019,Missouri,29,"Cedar County, MO",29039,White,Not Hispanic or Latino,219.0,13512.0,1620.8,1003.4
+2019,Missouri,29,"Chariton County, MO",29041,White,Not Hispanic or Latino,91.0,7037.0,1293.2,651.4
+2019,Missouri,29,"Christian County, MO",29043,White,Not Hispanic or Latino,723.0,82314.0,878.3,757.8
+2019,Missouri,29,"Clark County, MO",29045,White,Not Hispanic or Latino,82.0,6580.0,1246.2,749.8
+2019,Missouri,29,"Clay County, MO",29047,Asian,Not Hispanic or Latino,13.0,6110.0,Unreliable,Unreliable
+2019,Missouri,29,"Clay County, MO",29047,Black or African American,Not Hispanic or Latino,71.0,17388.0,408.3,844.5
+2019,Missouri,29,"Clay County, MO",29047,White,Hispanic or Latino,43.0,15199.0,282.9,475.5
+2019,Missouri,29,"Clay County, MO",29047,White,Not Hispanic or Latino,1752.0,200315.0,874.6,720.9
+2019,Missouri,29,"Clinton County, MO",29049,White,Not Hispanic or Latino,227.0,19030.0,1192.9,830.6
+2019,Missouri,29,"Cole County, MO",29051,Black or African American,Not Hispanic or Latino,43.0,9184.0,468.2,724.0
+2019,Missouri,29,"Cole County, MO",29051,White,Not Hispanic or Latino,660.0,62442.0,1057.0,735.6
+2019,Missouri,29,"Cooper County, MO",29053,White,Not Hispanic or Latino,181.0,15524.0,1165.9,785.1
+2019,Missouri,29,"Crawford County, MO",29055,White,Not Hispanic or Latino,318.0,22722.0,1399.5,989.8
+2019,Missouri,29,"Dade County, MO",29057,White,Not Hispanic or Latino,114.0,7045.0,1618.2,1078.3
+2019,Missouri,29,"Dallas County, MO",29059,White,Not Hispanic or Latino,213.0,15903.0,1339.4,891.8
+2019,Missouri,29,"Daviess County, MO",29061,White,Not Hispanic or Latino,84.0,7945.0,1057.3,727.6
+2019,Missouri,29,"DeKalb County, MO",29063,White,Not Hispanic or Latino,101.0,10467.0,964.9,661.4
+2019,Missouri,29,"Dent County, MO",29065,White,Not Hispanic or Latino,224.0,14614.0,1532.8,958.7
+2019,Missouri,29,"Douglas County, MO",29067,White,Not Hispanic or Latino,177.0,12473.0,1419.1,850.9
+2019,Missouri,29,"Dunklin County, MO",29069,Black or African American,Not Hispanic or Latino,40.0,3032.0,1319.3,1730.4
+2019,Missouri,29,"Dunklin County, MO",29069,White,Not Hispanic or Latino,391.0,23160.0,1688.3,1120.0
+2019,Missouri,29,"Franklin County, MO",29071,White,Not Hispanic or Latino,1136.0,98700.0,1151.0,874.2
+2019,Missouri,29,"Gasconade County, MO",29073,White,Not Hispanic or Latino,225.0,14081.0,1597.9,935.6
+2019,Missouri,29,"Gentry County, MO",29075,White,Not Hispanic or Latino,87.0,6276.0,1386.2,837.4
+2019,Missouri,29,"Greene County, MO",29077,Asian,Not Hispanic or Latino,20.0,6563.0,304.7,419.5
+2019,Missouri,29,"Greene County, MO",29077,Black or African American,Not Hispanic or Latino,58.0,9696.0,598.2,886.3
+2019,Missouri,29,"Greene County, MO",29077,White,Hispanic or Latino,26.0,9634.0,269.9,552.1
+2019,Missouri,29,"Greene County, MO",29077,White,Not Hispanic or Latino,2875.0,255087.0,1127.1,836.1
+2019,Missouri,29,"Greene County, MO",29077,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,Missouri,29,"Grundy County, MO",29079,White,Not Hispanic or Latino,123.0,9240.0,1331.2,719.0
+2019,Missouri,29,"Harrison County, MO",29081,White,Not Hispanic or Latino,111.0,7902.0,1404.7,747.5
+2019,Missouri,29,"Henry County, MO",29083,White,Not Hispanic or Latino,306.0,20372.0,1502.1,953.4
+2019,Missouri,29,"Hickory County, MO",29085,White,Not Hispanic or Latino,146.0,8992.0,1623.7,814.9
+2019,Missouri,29,"Holt County, MO",29087,White,Not Hispanic or Latino,58.0,4189.0,1384.6,619.8
+2019,Missouri,29,"Howard County, MO",29089,White,Not Hispanic or Latino,101.0,9016.0,1120.2,761.7
+2019,Missouri,29,"Howell County, MO",29091,White,Not Hispanic or Latino,539.0,37741.0,1428.2,998.6
+2019,Missouri,29,"Iron County, MO",29093,White,Not Hispanic or Latino,155.0,9527.0,1627.0,1069.9
+2019,Missouri,29,"Jackson County, MO",29095,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2730.0,Unreliable,Unreliable
+2019,Missouri,29,"Jackson County, MO",29095,Asian,Not Hispanic or Latino,42.0,13466.0,311.9,373.5
+2019,Missouri,29,"Jackson County, MO",29095,Black or African American,Not Hispanic or Latino,1611.0,162714.0,990.1,995.5
+2019,Missouri,29,"Jackson County, MO",29095,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,Missouri,29,"Jackson County, MO",29095,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,13.0,1851.0,Unreliable,Unreliable
+2019,Missouri,29,"Jackson County, MO",29095,White,Hispanic or Latino,177.0,55860.0,316.9,544.1
+2019,Missouri,29,"Jackson County, MO",29095,White,Not Hispanic or Latino,4563.0,437382.0,1043.3,759.0
+2019,Missouri,29,"Jackson County, MO",29095,White,Not Stated,34.0,Not Applicable,Not Applicable,Not Applicable
+2019,Missouri,29,"Jackson County, MO",29095,More than one race,Not Hispanic or Latino,28.0,19882.0,140.8,298.2
+2019,Missouri,29,"Jasper County, MO",29097,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1841.0,Unreliable,Unreliable
+2019,Missouri,29,"Jasper County, MO",29097,Black or African American,Not Hispanic or Latino,23.0,2431.0,946.1,1242.9
+2019,Missouri,29,"Jasper County, MO",29097,White,Hispanic or Latino,17.0,8638.0,Unreliable,Unreliable
+2019,Missouri,29,"Jasper County, MO",29097,White,Not Hispanic or Latino,1173.0,101371.0,1157.1,875.5
+2019,Missouri,29,"Jefferson County, MO",29099,Black or African American,Not Hispanic or Latino,22.0,2560.0,859.4,1104.1
+2019,Missouri,29,"Jefferson County, MO",29099,White,Not Hispanic or Latino,2136.0,211838.0,1008.3,899.9
+2019,Missouri,29,"Johnson County, MO",29101,Black or African American,Not Hispanic or Latino,11.0,2551.0,Unreliable,Unreliable
+2019,Missouri,29,"Johnson County, MO",29101,White,Not Hispanic or Latino,397.0,46151.0,860.2,782.1
+2019,Missouri,29,"Knox County, MO",29103,White,Not Hispanic or Latino,40.0,3782.0,1057.6,690.1
+2019,Missouri,29,"Laclede County, MO",29105,White,Not Hispanic or Latino,455.0,33321.0,1365.5,1031.7
+2019,Missouri,29,"Lafayette County, MO",29107,Black or African American,Not Hispanic or Latino,11.0,662.0,Unreliable,Unreliable
+2019,Missouri,29,"Lafayette County, MO",29107,White,Not Hispanic or Latino,366.0,29986.0,1220.6,819.6
+2019,Missouri,29,"Lawrence County, MO",29109,White,Not Hispanic or Latino,492.0,33902.0,1451.2,972.9
+2019,Missouri,29,"Lewis County, MO",29111,White,Not Hispanic or Latino,110.0,9042.0,1216.5,812.6
+2019,Missouri,29,"Lincoln County, MO",29113,Black or African American,Not Hispanic or Latino,12.0,1133.0,Unreliable,Unreliable
+2019,Missouri,29,"Lincoln County, MO",29113,White,Not Hispanic or Latino,498.0,54800.0,908.8,867.3
+2019,Missouri,29,"Linn County, MO",29115,White,Not Hispanic or Latino,146.0,11230.0,1300.1,806.2
+2019,Missouri,29,"Livingston County, MO",29117,White,Not Hispanic or Latino,176.0,13971.0,1259.8,792.3
+2019,Missouri,29,"McDonald County, MO",29119,White,Not Hispanic or Latino,236.0,17540.0,1345.5,1042.6
+2019,Missouri,29,"Macon County, MO",29121,White,Not Hispanic or Latino,212.0,14081.0,1505.6,891.5
+2019,Missouri,29,"Madison County, MO",29123,White,Not Hispanic or Latino,147.0,11437.0,1285.3,867.4
+2019,Missouri,29,"Maries County, MO",29125,White,Not Hispanic or Latino,113.0,8261.0,1367.9,832.3
+2019,Missouri,29,"Marion County, MO",29127,Black or African American,Not Hispanic or Latino,18.0,1370.0,Unreliable,Unreliable
+2019,Missouri,29,"Marion County, MO",29127,White,Not Hispanic or Latino,333.0,25686.0,1296.4,880.6
+2019,Missouri,29,"Mercer County, MO",29129,White,Not Hispanic or Latino,39.0,3410.0,1143.7,622.3
+2019,Missouri,29,"Miller County, MO",29131,White,Not Hispanic or Latino,292.0,24205.0,1206.4,868.4
+2019,Missouri,29,"Mississippi County, MO",29133,Black or African American,Not Hispanic or Latino,22.0,3242.0,678.6,772.1
+2019,Missouri,29,"Mississippi County, MO",29133,White,Not Hispanic or Latino,151.0,9363.0,1612.7,1072.7
+2019,Missouri,29,"Moniteau County, MO",29135,White,Not Hispanic or Latino,141.0,14273.0,987.9,733.4
+2019,Missouri,29,"Monroe County, MO",29137,White,Not Hispanic or Latino,113.0,7994.0,1413.6,814.5
+2019,Missouri,29,"Montgomery County, MO",29139,White,Not Hispanic or Latino,190.0,10814.0,1757.0,1090.1
+2019,Missouri,29,"Morgan County, MO",29141,White,Not Hispanic or Latino,283.0,19358.0,1461.9,876.9
+2019,Missouri,29,"New Madrid County, MO",29143,Black or African American,Not Hispanic or Latino,31.0,2676.0,1158.4,1032.7
+2019,Missouri,29,"New Madrid County, MO",29143,White,Not Hispanic or Latino,221.0,13597.0,1625.4,1118.7
+2019,Missouri,29,"Newton County, MO",29145,White,Not Hispanic or Latino,641.0,49907.0,1284.4,920.0
+2019,Missouri,29,"Nodaway County, MO",29147,White,Not Hispanic or Latino,179.0,20422.0,876.5,670.8
+2019,Missouri,29,"Oregon County, MO",29149,White,Not Hispanic or Latino,131.0,9872.0,1327.0,784.5
+2019,Missouri,29,"Osage County, MO",29151,White,Not Hispanic or Latino,134.0,13264.0,1010.3,770.6
+2019,Missouri,29,"Ozark County, MO",29153,White,Not Hispanic or Latino,117.0,8704.0,1344.2,756.2
+2019,Missouri,29,"Pemiscot County, MO",29155,Black or African American,Not Hispanic or Latino,53.0,4071.0,1301.9,1433.8
+2019,Missouri,29,"Pemiscot County, MO",29155,White,Not Hispanic or Latino,170.0,10822.0,1570.9,1088.0
+2019,Missouri,29,"Perry County, MO",29157,White,Not Hispanic or Latino,192.0,18103.0,1060.6,755.6
+2019,Missouri,29,"Pettis County, MO",29159,White,Not Hispanic or Latino,432.0,35788.0,1207.1,836.0
+2019,Missouri,29,"Phelps County, MO",29161,White,Not Hispanic or Latino,474.0,39483.0,1200.5,925.0
+2019,Missouri,29,"Pike County, MO",29163,White,Not Hispanic or Latino,187.0,16088.0,1162.4,838.6
+2019,Missouri,29,"Platte County, MO",29165,Black or African American,Not Hispanic or Latino,38.0,7656.0,496.3,814.6
+2019,Missouri,29,"Platte County, MO",29165,White,Hispanic or Latino,11.0,5734.0,Unreliable,Unreliable
+2019,Missouri,29,"Platte County, MO",29165,White,Not Hispanic or Latino,682.0,83770.0,814.1,661.1
+2019,Missouri,29,"Polk County, MO",29167,White,Not Hispanic or Latino,376.0,30030.0,1252.1,918.6
+2019,Missouri,29,"Pulaski County, MO",29169,Asian,Not Hispanic or Latino,12.0,1481.0,Unreliable,Unreliable
+2019,Missouri,29,"Pulaski County, MO",29169,Black or African American,Not Hispanic or Latino,23.0,5908.0,389.3,961.4
+2019,Missouri,29,"Pulaski County, MO",29169,White,Not Hispanic or Latino,297.0,36365.0,816.7,923.6
+2019,Missouri,29,"Putnam County, MO",29171,White,Not Hispanic or Latino,89.0,4473.0,1989.7,1056.1
+2019,Missouri,29,"Ralls County, MO",29173,White,Not Hispanic or Latino,105.0,9814.0,1069.9,746.2
+2019,Missouri,29,"Randolph County, MO",29175,Black or African American,Not Hispanic or Latino,16.0,1366.0,Unreliable,Unreliable
+2019,Missouri,29,"Randolph County, MO",29175,White,Not Hispanic or Latino,284.0,21971.0,1292.6,965.7
+2019,Missouri,29,"Ray County, MO",29177,White,Not Hispanic or Latino,245.0,21497.0,1139.7,811.0
+2019,Missouri,29,"Reynolds County, MO",29179,White,Not Hispanic or Latino,97.0,5843.0,1660.1,1013.5
+2019,Missouri,29,"Ripley County, MO",29181,White,Not Hispanic or Latino,193.0,12612.0,1530.3,1081.4
+2019,Missouri,29,"St. Charles County, MO",29183,Asian,Not Hispanic or Latino,25.0,10899.0,229.4,391.6
+2019,Missouri,29,"St. Charles County, MO",29183,Black or African American,Not Hispanic or Latino,116.0,20804.0,557.6,858.5
+2019,Missouri,29,"St. Charles County, MO",29183,White,Hispanic or Latino,22.0,12236.0,179.8,348.6
+2019,Missouri,29,"St. Charles County, MO",29183,White,Not Hispanic or Latino,2953.0,348030.0,848.5,670.9
+2019,Missouri,29,"St. Clair County, MO",29185,White,Not Hispanic or Latino,140.0,8870.0,1578.4,814.0
+2019,Missouri,29,"Ste. Genevieve County, MO",29186,White,Not Hispanic or Latino,180.0,17100.0,1052.6,717.3
+2019,Missouri,29,"St. Francois County, MO",29187,White,Not Hispanic or Latino,767.0,61558.0,1246.0,967.9
+2019,Missouri,29,"St. Louis County, MO",29189,Asian,Not Hispanic or Latino,128.0,46172.0,277.2,391.3
+2019,Missouri,29,"St. Louis County, MO",29189,Black or African American,Not Hispanic or Latino,2505.0,246568.0,1015.9,1062.3
+2019,Missouri,29,"St. Louis County, MO",29189,White,Hispanic or Latino,76.0,25861.0,293.9,418.8
+2019,Missouri,29,"St. Louis County, MO",29189,White,Not Hispanic or Latino,7602.0,648909.0,1171.5,682.2
+2019,Missouri,29,"St. Louis County, MO",29189,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,Missouri,29,"St. Louis County, MO",29189,More than one race,Not Hispanic or Latino,19.0,20818.0,Unreliable,Unreliable
+2019,Missouri,29,"Saline County, MO",29195,Black or African American,Not Hispanic or Latino,10.0,1152.0,Unreliable,Unreliable
+2019,Missouri,29,"Saline County, MO",29195,White,Not Hispanic or Latino,235.0,18096.0,1298.6,834.6
+2019,Missouri,29,"Schuyler County, MO",29197,White,Not Hispanic or Latino,50.0,4491.0,1113.3,714.1
+2019,Missouri,29,"Scotland County, MO",29199,White,Not Hispanic or Latino,49.0,4758.0,1029.8,718.8
+2019,Missouri,29,"Scott County, MO",29201,Black or African American,Not Hispanic or Latino,45.0,4543.0,990.5,1125.3
+2019,Missouri,29,"Scott County, MO",29201,White,Not Hispanic or Latino,414.0,31803.0,1301.8,917.8
+2019,Missouri,29,"Shannon County, MO",29203,White,Not Hispanic or Latino,121.0,7635.0,1584.8,1082.0
+2019,Missouri,29,"Shelby County, MO",29205,White,Not Hispanic or Latino,74.0,5637.0,1312.8,747.2
+2019,Missouri,29,"Stoddard County, MO",29207,White,Not Hispanic or Latino,379.0,27621.0,1372.1,895.7
+2019,Missouri,29,"Stone County, MO",29209,White,Not Hispanic or Latino,416.0,30215.0,1376.8,794.6
+2019,Missouri,29,"Sullivan County, MO",29211,White,Not Hispanic or Latino,65.0,4669.0,1392.2,875.1
+2019,Missouri,29,"Taney County, MO",29213,White,Not Hispanic or Latino,586.0,49308.0,1188.4,779.8
+2019,Missouri,29,"Texas County, MO",29215,White,Not Hispanic or Latino,329.0,23068.0,1426.2,900.7
+2019,Missouri,29,"Vernon County, MO",29217,White,Not Hispanic or Latino,239.0,19255.0,1241.2,823.6
+2019,Missouri,29,"Warren County, MO",29219,White,Not Hispanic or Latino,286.0,32680.0,875.2,673.6
+2019,Missouri,29,"Washington County, MO",29221,White,Not Hispanic or Latino,305.0,23243.0,1312.2,1021.5
+2019,Missouri,29,"Wayne County, MO",29223,White,Not Hispanic or Latino,158.0,12169.0,1298.4,794.6
+2019,Missouri,29,"Webster County, MO",29225,White,Not Hispanic or Latino,366.0,37236.0,982.9,823.1
+2019,Missouri,29,"Worth County, MO",29227,White,Not Hispanic or Latino,28.0,1931.0,1450.0,606.6
+2019,Missouri,29,"Wright County, MO",29229,White,Not Hispanic or Latino,243.0,17304.0,1404.3,989.7
+2019,Missouri,29,"St. Louis city, MO",29510,Asian,Not Hispanic or Latino,24.0,10672.0,224.9,289.7
+2019,Missouri,29,"St. Louis city, MO",29510,Black or African American,Not Hispanic or Latino,1680.0,135044.0,1244.0,1123.0
+2019,Missouri,29,"St. Louis city, MO",29510,White,Hispanic or Latino,21.0,10261.0,204.7,244.8
+2019,Missouri,29,"St. Louis city, MO",29510,White,Not Hispanic or Latino,1272.0,134388.0,946.5,810.5
+2019,Missouri,29,"St. Louis city, MO",29510,More than one race,Not Hispanic or Latino,14.0,7256.0,Unreliable,Unreliable
+2020,Missouri,29,"Adair County, MO",29001,White,Not Hispanic or Latino,239.0,22551.0,1059.8,867.2
+2020,Missouri,29,"Andrew County, MO",29003,White,Not Hispanic or Latino,213.0,16478.0,1292.6,869.2
+2020,Missouri,29,"Atchison County, MO",29005,White,Not Hispanic or Latino,94.0,4887.0,1923.5,1013.0
+2020,Missouri,29,"Audrain County, MO",29007,Black or African American,Not Hispanic or Latino,24.0,1534.0,1564.5,1531.5
+2020,Missouri,29,"Audrain County, MO",29007,White,Not Hispanic or Latino,355.0,21705.0,1635.6,1111.1
+2020,Missouri,29,"Barry County, MO",29009,White,Hispanic or Latino,10.0,3091.0,Unreliable,Unreliable
+2020,Missouri,29,"Barry County, MO",29009,White,Not Hispanic or Latino,508.0,30374.0,1672.5,1017.5
+2020,Missouri,29,"Barton County, MO",29011,White,Not Hispanic or Latino,153.0,10696.0,1430.4,899.2
+2020,Missouri,29,"Bates County, MO",29013,White,Not Hispanic or Latino,221.0,15165.0,1457.3,967.8
+2020,Missouri,29,"Benton County, MO",29015,White,Not Hispanic or Latino,361.0,18478.0,1953.7,983.3
+2020,Missouri,29,"Bollinger County, MO",29017,White,Not Hispanic or Latino,185.0,11594.0,1595.7,1104.4
+2020,Missouri,29,"Boone County, MO",29019,Asian,Not Hispanic or Latino,19.0,9061.0,Unreliable,Unreliable
+2020,Missouri,29,"Boone County, MO",29019,Black or African American,Not Hispanic or Latino,132.0,17810.0,741.2,1057.8
+2020,Missouri,29,"Boone County, MO",29019,White,Not Hispanic or Latino,1231.0,142989.0,860.9,780.6
+2020,Missouri,29,"Buchanan County, MO",29021,Black or African American,Not Hispanic or Latino,43.0,4813.0,893.4,1104.3
+2020,Missouri,29,"Buchanan County, MO",29021,White,Hispanic or Latino,15.0,4944.0,Unreliable,Unreliable
+2020,Missouri,29,"Buchanan County, MO",29021,White,Not Hispanic or Latino,1062.0,71470.0,1485.9,1058.6
+2020,Missouri,29,"Butler County, MO",29023,Black or African American,Not Hispanic or Latino,39.0,2374.0,1642.8,1808.5
+2020,Missouri,29,"Butler County, MO",29023,White,Not Hispanic or Latino,639.0,37084.0,1723.1,1189.2
+2020,Missouri,29,"Caldwell County, MO",29025,White,Not Hispanic or Latino,119.0,8466.0,1405.6,947.0
+2020,Missouri,29,"Callaway County, MO",29027,Black or African American,Not Hispanic or Latino,20.0,2100.0,952.4,1218.5
+2020,Missouri,29,"Callaway County, MO",29027,White,Not Hispanic or Latino,494.0,40265.0,1226.9,959.3
+2020,Missouri,29,"Camden County, MO",29029,White,Not Hispanic or Latino,628.0,43541.0,1442.3,809.9
+2020,Missouri,29,"Cape Girardeau County, MO",29031,Black or African American,Not Hispanic or Latino,55.0,6092.0,902.8,1317.9
+2020,Missouri,29,"Cape Girardeau County, MO",29031,White,Not Hispanic or Latino,1011.0,67890.0,1489.2,1030.6
+2020,Missouri,29,"Carroll County, MO",29033,White,Not Hispanic or Latino,138.0,8093.0,1705.2,1058.8
+2020,Missouri,29,"Carter County, MO",29035,White,Not Hispanic or Latino,92.0,5633.0,1633.2,1136.6
+2020,Missouri,29,"Cass County, MO",29037,Black or African American,Not Hispanic or Latino,40.0,4905.0,815.5,1087.5
+2020,Missouri,29,"Cass County, MO",29037,White,Hispanic or Latino,13.0,4265.0,Unreliable,Unreliable
+2020,Missouri,29,"Cass County, MO",29037,White,Not Hispanic or Latino,1046.0,92716.0,1128.2,796.3
+2020,Missouri,29,"Cedar County, MO",29039,White,Not Hispanic or Latino,187.0,13500.0,1385.2,908.5
+2020,Missouri,29,"Chariton County, MO",29041,White,Not Hispanic or Latino,129.0,6955.0,1854.8,983.4
+2020,Missouri,29,"Christian County, MO",29043,White,Not Hispanic or Latino,846.0,83963.0,1007.6,841.4
+2020,Missouri,29,"Clark County, MO",29045,White,Not Hispanic or Latino,99.0,6613.0,1497.1,903.3
+2020,Missouri,29,"Clay County, MO",29047,Asian,Not Hispanic or Latino,16.0,6238.0,Unreliable,Unreliable
+2020,Missouri,29,"Clay County, MO",29047,Black or African American,Not Hispanic or Latino,92.0,18203.0,505.4,1070.7
+2020,Missouri,29,"Clay County, MO",29047,White,Hispanic or Latino,54.0,15751.0,342.8,520.6
+2020,Missouri,29,"Clay County, MO",29047,White,Not Hispanic or Latino,2018.0,201834.0,999.8,809.2
+2020,Missouri,29,"Clay County, MO",29047,More than one race,Not Hispanic or Latino,16.0,6825.0,Unreliable,Unreliable
+2020,Missouri,29,"Clinton County, MO",29049,White,Not Hispanic or Latino,299.0,19149.0,1561.4,1099.3
+2020,Missouri,29,"Cole County, MO",29051,Black or African American,Not Hispanic or Latino,59.0,8912.0,662.0,1294.5
+2020,Missouri,29,"Cole County, MO",29051,White,Hispanic or Latino,13.0,1781.0,Unreliable,Unreliable
+2020,Missouri,29,"Cole County, MO",29051,White,Not Hispanic or Latino,805.0,62111.0,1296.1,890.6
+2020,Missouri,29,"Cooper County, MO",29053,Black or African American,Not Hispanic or Latino,11.0,1000.0,Unreliable,Unreliable
+2020,Missouri,29,"Cooper County, MO",29053,White,Not Hispanic or Latino,190.0,15178.0,1251.8,803.9
+2020,Missouri,29,"Crawford County, MO",29055,White,Not Hispanic or Latino,354.0,22516.0,1572.2,1110.4
+2020,Missouri,29,"Dade County, MO",29057,White,Not Hispanic or Latino,134.0,7042.0,1902.9,1147.9
+2020,Missouri,29,"Dallas County, MO",29059,White,Not Hispanic or Latino,297.0,16201.0,1833.2,1210.0
+2020,Missouri,29,"Daviess County, MO",29061,White,Not Hispanic or Latino,112.0,7918.0,1414.5,956.1
+2020,Missouri,29,"DeKalb County, MO",29063,White,Not Hispanic or Latino,152.0,9622.0,1579.7,1028.6
+2020,Missouri,29,"Dent County, MO",29065,White,Not Hispanic or Latino,266.0,14565.0,1826.3,1170.5
+2020,Missouri,29,"Douglas County, MO",29067,White,Not Hispanic or Latino,202.0,12597.0,1603.6,937.9
+2020,Missouri,29,"Dunklin County, MO",29069,Black or African American,Not Hispanic or Latino,60.0,3090.0,1941.7,2532.1
+2020,Missouri,29,"Dunklin County, MO",29069,White,Not Hispanic or Latino,491.0,22831.0,2150.6,1414.0
+2020,Missouri,29,"Franklin County, MO",29071,Black or African American,Not Hispanic or Latino,19.0,973.0,Unreliable,Unreliable
+2020,Missouri,29,"Franklin County, MO",29071,White,Not Hispanic or Latino,1245.0,99119.0,1256.1,953.3
+2020,Missouri,29,"Gasconade County, MO",29073,White,Not Hispanic or Latino,269.0,13924.0,1931.9,1159.0
+2020,Missouri,29,"Gentry County, MO",29075,White,Not Hispanic or Latino,108.0,6187.0,1745.6,1164.0
+2020,Missouri,29,"Greene County, MO",29077,Asian,Not Hispanic or Latino,14.0,6744.0,Unreliable,Unreliable
+2020,Missouri,29,"Greene County, MO",29077,Black or African American,Not Hispanic or Latino,102.0,9775.0,1043.5,1556.9
+2020,Missouri,29,"Greene County, MO",29077,White,Hispanic or Latino,34.0,9901.0,343.4,634.4
+2020,Missouri,29,"Greene County, MO",29077,White,Not Hispanic or Latino,3237.0,256208.0,1263.4,934.2
+2020,Missouri,29,"Greene County, MO",29077,More than one race,Not Hispanic or Latino,14.0,8288.0,Unreliable,Unreliable
+2020,Missouri,29,"Grundy County, MO",29079,White,Not Hispanic or Latino,150.0,8979.0,1670.6,933.5
+2020,Missouri,29,"Harrison County, MO",29081,White,Not Hispanic or Latino,122.0,7866.0,1551.0,904.5
+2020,Missouri,29,"Henry County, MO",29083,White,Not Hispanic or Latino,355.0,20599.0,1723.4,1067.2
+2020,Missouri,29,"Hickory County, MO",29085,White,Not Hispanic or Latino,157.0,9047.0,1735.4,777.4
+2020,Missouri,29,"Holt County, MO",29087,White,Not Hispanic or Latino,70.0,4028.0,1737.8,798.6
+2020,Missouri,29,"Howard County, MO",29089,White,Not Hispanic or Latino,100.0,9005.0,1110.5,783.3
+2020,Missouri,29,"Howell County, MO",29091,White,Not Hispanic or Latino,625.0,37830.0,1652.1,1146.4
+2020,Missouri,29,"Iron County, MO",29093,White,Not Hispanic or Latino,184.0,9510.0,1934.8,1285.7
+2020,Missouri,29,"Jackson County, MO",29095,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2612.0,804.0,787.8
+2020,Missouri,29,"Jackson County, MO",29095,Asian,Not Hispanic or Latino,64.0,13859.0,461.8,509.5
+2020,Missouri,29,"Jackson County, MO",29095,Black or African American,Not Hispanic or Latino,1993.0,162933.0,1223.2,1208.7
+2020,Missouri,29,"Jackson County, MO",29095,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,16.0,1879.0,Unreliable,Unreliable
+2020,Missouri,29,"Jackson County, MO",29095,White,Hispanic or Latino,268.0,56635.0,473.2,755.2
+2020,Missouri,29,"Jackson County, MO",29095,White,Not Hispanic or Latino,5123.0,437091.0,1172.1,842.6
+2020,Missouri,29,"Jackson County, MO",29095,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2020,Missouri,29,"Jackson County, MO",29095,More than one race,Not Hispanic or Latino,30.0,20930.0,143.3,445.4
+2020,Missouri,29,"Jasper County, MO",29097,Black or African American,Not Hispanic or Latino,21.0,2453.0,856.1,1202.6
+2020,Missouri,29,"Jasper County, MO",29097,White,Hispanic or Latino,29.0,8676.0,334.3,562.1
+2020,Missouri,29,"Jasper County, MO",29097,White,Not Hispanic or Latino,1434.0,101383.0,1414.4,1064.1
+2020,Missouri,29,"Jefferson County, MO",29099,Black or African American,Not Hispanic or Latino,22.0,2598.0,846.8,1247.3
+2020,Missouri,29,"Jefferson County, MO",29099,White,Hispanic or Latino,10.0,4325.0,Unreliable,Unreliable
+2020,Missouri,29,"Jefferson County, MO",29099,White,Not Hispanic or Latino,2423.0,212887.0,1138.2,993.5
+2020,Missouri,29,"Johnson County, MO",29101,Black or African American,Not Hispanic or Latino,15.0,2516.0,Unreliable,Unreliable
+2020,Missouri,29,"Johnson County, MO",29101,White,Not Hispanic or Latino,463.0,46140.0,1003.5,910.5
+2020,Missouri,29,"Knox County, MO",29103,White,Not Hispanic or Latino,49.0,3776.0,1297.7,827.2
+2020,Missouri,29,"Laclede County, MO",29105,White,Not Hispanic or Latino,486.0,33325.0,1458.4,1117.4
+2020,Missouri,29,"Lafayette County, MO",29107,White,Not Hispanic or Latino,445.0,30114.0,1477.7,1002.0
+2020,Missouri,29,"Lawrence County, MO",29109,White,Not Hispanic or Latino,541.0,33653.0,1607.6,1106.0
+2020,Missouri,29,"Lewis County, MO",29111,White,Not Hispanic or Latino,120.0,9074.0,1322.5,869.2
+2020,Missouri,29,"Lincoln County, MO",29113,Black or African American,Not Hispanic or Latino,26.0,1177.0,2209.0,2261.2
+2020,Missouri,29,"Lincoln County, MO",29113,White,Not Hispanic or Latino,529.0,55799.0,948.0,876.1
+2020,Missouri,29,"Linn County, MO",29115,White,Not Hispanic or Latino,190.0,11182.0,1699.2,1062.5
+2020,Missouri,29,"Livingston County, MO",29117,White,Not Hispanic or Latino,198.0,13325.0,1485.9,854.4
+2020,Missouri,29,"McDonald County, MO",29119,White,Not Hispanic or Latino,286.0,17500.0,1634.3,1199.7
+2020,Missouri,29,"Macon County, MO",29121,White,Not Hispanic or Latino,261.0,14050.0,1857.7,1058.3
+2020,Missouri,29,"Madison County, MO",29123,White,Not Hispanic or Latino,205.0,11436.0,1792.6,1224.1
+2020,Missouri,29,"Maries County, MO",29125,White,Not Hispanic or Latino,149.0,8337.0,1787.2,1142.0
+2020,Missouri,29,"Marion County, MO",29127,Black or African American,Not Hispanic or Latino,24.0,1313.0,1827.9,2001.5
+2020,Missouri,29,"Marion County, MO",29127,White,Not Hispanic or Latino,351.0,25559.0,1373.3,962.2
+2020,Missouri,29,"Mercer County, MO",29129,White,Not Hispanic or Latino,70.0,3351.0,2088.9,1201.9
+2020,Missouri,29,"Miller County, MO",29131,White,Not Hispanic or Latino,340.0,24400.0,1393.4,973.0
+2020,Missouri,29,"Mississippi County, MO",29133,Black or African American,Not Hispanic or Latino,26.0,3049.0,852.7,997.0
+2020,Missouri,29,"Mississippi County, MO",29133,White,Not Hispanic or Latino,192.0,9073.0,2116.2,1331.1
+2020,Missouri,29,"Moniteau County, MO",29135,White,Not Hispanic or Latino,194.0,13943.0,1391.4,1045.4
+2020,Missouri,29,"Monroe County, MO",29137,White,Not Hispanic or Latino,120.0,8033.0,1493.8,902.1
+2020,Missouri,29,"Montgomery County, MO",29139,White,Not Hispanic or Latino,194.0,10535.0,1841.5,1106.2
+2020,Missouri,29,"Morgan County, MO",29141,White,Not Hispanic or Latino,327.0,19457.0,1680.6,1043.5
+2020,Missouri,29,"New Madrid County, MO",29143,Black or African American,Not Hispanic or Latino,43.0,2651.0,1622.0,1542.2
+2020,Missouri,29,"New Madrid County, MO",29143,White,Not Hispanic or Latino,292.0,13261.0,2201.9,1453.3
+2020,Missouri,29,"Newton County, MO",29145,White,Not Hispanic or Latino,715.0,49854.0,1434.2,987.1
+2020,Missouri,29,"Nodaway County, MO",29147,White,Not Hispanic or Latino,198.0,20129.0,983.7,761.5
+2020,Missouri,29,"Oregon County, MO",29149,White,Not Hispanic or Latino,164.0,9777.0,1677.4,1052.6
+2020,Missouri,29,"Osage County, MO",29151,White,Not Hispanic or Latino,145.0,13165.0,1101.4,764.5
+2020,Missouri,29,"Ozark County, MO",29153,White,Not Hispanic or Latino,160.0,8643.0,1851.2,944.4
+2020,Missouri,29,"Pemiscot County, MO",29155,Black or African American,Not Hispanic or Latino,80.0,4052.0,1974.3,2052.9
+2020,Missouri,29,"Pemiscot County, MO",29155,White,Not Hispanic or Latino,217.0,10611.0,2045.0,1478.5
+2020,Missouri,29,"Perry County, MO",29157,White,Not Hispanic or Latino,255.0,18185.0,1402.3,952.3
+2020,Missouri,29,"Pettis County, MO",29159,Black or African American,Not Hispanic or Latino,14.0,1354.0,Unreliable,Unreliable
+2020,Missouri,29,"Pettis County, MO",29159,White,Not Hispanic or Latino,563.0,35581.0,1582.3,1106.5
+2020,Missouri,29,"Phelps County, MO",29161,White,Not Hispanic or Latino,574.0,39369.0,1458.0,1099.1
+2020,Missouri,29,"Pike County, MO",29163,White,Not Hispanic or Latino,218.0,15724.0,1386.4,949.0
+2020,Missouri,29,"Platte County, MO",29165,Asian,Not Hispanic or Latino,12.0,3037.0,Unreliable,Unreliable
+2020,Missouri,29,"Platte County, MO",29165,Black or African American,Not Hispanic or Latino,20.0,8155.0,245.2,452.2
+2020,Missouri,29,"Platte County, MO",29165,White,Hispanic or Latino,22.0,5986.0,367.5,754.9
+2020,Missouri,29,"Platte County, MO",29165,White,Not Hispanic or Latino,804.0,84783.0,948.3,749.5
+2020,Missouri,29,"Polk County, MO",29167,White,Not Hispanic or Latino,413.0,30280.0,1363.9,1010.9
+2020,Missouri,29,"Pulaski County, MO",29169,Black or African American,Not Hispanic or Latino,23.0,5897.0,390.0,1036.0
+2020,Missouri,29,"Pulaski County, MO",29169,White,Hispanic or Latino,10.0,4764.0,Unreliable,Unreliable
+2020,Missouri,29,"Pulaski County, MO",29169,White,Not Hispanic or Latino,360.0,36334.0,990.8,1101.7
+2020,Missouri,29,"Putnam County, MO",29171,White,Not Hispanic or Latino,69.0,4447.0,1551.6,943.8
+2020,Missouri,29,"Ralls County, MO",29173,White,Not Hispanic or Latino,143.0,9790.0,1460.7,968.1
+2020,Missouri,29,"Randolph County, MO",29175,Black or African American,Not Hispanic or Latino,20.0,1379.0,1450.3,1394.6
+2020,Missouri,29,"Randolph County, MO",29175,White,Not Hispanic or Latino,320.0,21640.0,1478.7,1097.1
+2020,Missouri,29,"Ray County, MO",29177,White,Not Hispanic or Latino,331.0,21375.0,1548.5,1086.4
+2020,Missouri,29,"Reynolds County, MO",29179,White,Not Hispanic or Latino,94.0,5774.0,1628.0,966.4
+2020,Missouri,29,"Ripley County, MO",29181,White,Not Hispanic or Latino,219.0,12611.0,1736.6,1180.6
+2020,Missouri,29,"St. Charles County, MO",29183,Asian,Not Hispanic or Latino,39.0,11400.0,342.1,521.5
+2020,Missouri,29,"St. Charles County, MO",29183,Black or African American,Not Hispanic or Latino,148.0,21414.0,691.1,960.6
+2020,Missouri,29,"St. Charles County, MO",29183,White,Hispanic or Latino,35.0,12676.0,276.1,538.4
+2020,Missouri,29,"St. Charles County, MO",29183,White,Not Hispanic or Latino,3539.0,350063.0,1011.0,787.0
+2020,Missouri,29,"St. Charles County, MO",29183,More than one race,Not Hispanic or Latino,19.0,8148.0,Unreliable,Unreliable
+2020,Missouri,29,"St. Clair County, MO",29185,White,Not Hispanic or Latino,162.0,9141.0,1772.2,971.6
+2020,Missouri,29,"Ste. Genevieve County, MO",29186,White,Not Hispanic or Latino,203.0,17131.0,1185.0,785.2
+2020,Missouri,29,"St. Francois County, MO",29187,Black or African American,Not Hispanic or Latino,12.0,2732.0,Unreliable,Unreliable
+2020,Missouri,29,"St. Francois County, MO",29187,White,Not Hispanic or Latino,953.0,61200.0,1557.2,1195.3
+2020,Missouri,29,"St. Louis County, MO",29189,Asian,Not Hispanic or Latino,159.0,48067.0,330.8,450.8
+2020,Missouri,29,"St. Louis County, MO",29189,Black or African American,Not Hispanic or Latino,3322.0,247310.0,1343.3,1379.1
+2020,Missouri,29,"St. Louis County, MO",29189,White,Hispanic or Latino,102.0,26408.0,386.2,615.5
+2020,Missouri,29,"St. Louis County, MO",29189,White,Not Hispanic or Latino,8891.0,644544.0,1379.4,796.0
+2020,Missouri,29,"St. Louis County, MO",29189,More than one race,Not Hispanic or Latino,27.0,21669.0,124.6,518.7
+2020,Missouri,29,"Saline County, MO",29195,Black or African American,Not Hispanic or Latino,26.0,1168.0,2226.0,2225.5
+2020,Missouri,29,"Saline County, MO",29195,White,Not Hispanic or Latino,275.0,17963.0,1530.9,981.6
+2020,Missouri,29,"Schuyler County, MO",29197,White,Not Hispanic or Latino,60.0,4379.0,1370.2,925.4
+2020,Missouri,29,"Scotland County, MO",29199,White,Not Hispanic or Latino,61.0,4726.0,1290.7,880.5
+2020,Missouri,29,"Scott County, MO",29201,Black or African American,Not Hispanic or Latino,51.0,4569.0,1116.2,1380.9
+2020,Missouri,29,"Scott County, MO",29201,White,Not Hispanic or Latino,508.0,31671.0,1604.0,1106.5
+2020,Missouri,29,"Shannon County, MO",29203,White,Not Hispanic or Latino,138.0,7684.0,1795.9,1152.6
+2020,Missouri,29,"Shelby County, MO",29205,White,Not Hispanic or Latino,96.0,5582.0,1719.8,996.7
+2020,Missouri,29,"Stoddard County, MO",29207,White,Not Hispanic or Latino,449.0,27529.0,1631.0,1060.6
+2020,Missouri,29,"Stone County, MO",29209,White,Not Hispanic or Latino,448.0,30643.0,1462.0,859.2
+2020,Missouri,29,"Sullivan County, MO",29211,White,Not Hispanic or Latino,83.0,4622.0,1795.8,1168.1
+2020,Missouri,29,"Taney County, MO",29213,White,Not Hispanic or Latino,698.0,49326.0,1415.1,900.2
+2020,Missouri,29,"Texas County, MO",29215,White,Not Hispanic or Latino,387.0,22907.0,1689.4,1080.7
+2020,Missouri,29,"Vernon County, MO",29217,White,Not Hispanic or Latino,279.0,19068.0,1463.2,941.3
+2020,Missouri,29,"Warren County, MO",29219,White,Not Hispanic or Latino,356.0,33530.0,1061.7,792.6
+2020,Missouri,29,"Washington County, MO",29221,White,Not Hispanic or Latino,365.0,23096.0,1580.4,1281.3
+2020,Missouri,29,"Wayne County, MO",29223,White,Not Hispanic or Latino,223.0,12047.0,1851.1,1061.8
+2020,Missouri,29,"Webster County, MO",29225,White,Not Hispanic or Latino,429.0,37432.0,1146.1,973.8
+2020,Missouri,29,"Worth County, MO",29227,White,Not Hispanic or Latino,29.0,1866.0,1554.1,767.4
+2020,Missouri,29,"Wright County, MO",29229,White,Not Hispanic or Latino,228.0,17292.0,1318.5,929.9
+2020,Missouri,29,"St. Louis city, MO",29510,Asian,Not Hispanic or Latino,30.0,10368.0,289.4,373.8
+2020,Missouri,29,"St. Louis city, MO",29510,Black or African American,Not Hispanic or Latino,2179.0,132439.0,1645.3,1483.2
+2020,Missouri,29,"St. Louis city, MO",29510,White,Hispanic or Latino,38.0,10472.0,362.9,641.2
+2020,Missouri,29,"St. Louis city, MO",29510,White,Not Hispanic or Latino,1379.0,133902.0,1029.9,873.6
+2021 (provisional),Missouri,29,"Adair County, MO",29001,White,Not Hispanic or Latino,285.0,22551.0,1263.8,1036.0
+2021 (provisional),Missouri,29,"Andrew County, MO",29003,White,Not Hispanic or Latino,187.0,16478.0,1134.8,775.5
+2021 (provisional),Missouri,29,"Atchison County, MO",29005,White,Not Hispanic or Latino,95.0,4887.0,1943.9,1100.5
+2021 (provisional),Missouri,29,"Audrain County, MO",29007,Black or African American,Not Hispanic or Latino,15.0,1534.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Audrain County, MO",29007,White,Not Hispanic or Latino,314.0,21705.0,1446.7,1007.4
+2021 (provisional),Missouri,29,"Barry County, MO",29009,White,Not Hispanic or Latino,485.0,30374.0,1596.8,999.8
+2021 (provisional),Missouri,29,"Barton County, MO",29011,White,Not Hispanic or Latino,163.0,10696.0,1523.9,945.1
+2021 (provisional),Missouri,29,"Bates County, MO",29013,White,Not Hispanic or Latino,238.0,15165.0,1569.4,1066.8
+2021 (provisional),Missouri,29,"Benton County, MO",29015,White,Not Hispanic or Latino,354.0,18478.0,1915.8,987.2
+2021 (provisional),Missouri,29,"Bollinger County, MO",29017,White,Not Hispanic or Latino,160.0,11594.0,1380.0,938.4
+2021 (provisional),Missouri,29,"Boone County, MO",29019,Asian,Not Hispanic or Latino,13.0,9061.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Boone County, MO",29019,Black or African American,Not Hispanic or Latino,149.0,17810.0,836.6,1315.2
+2021 (provisional),Missouri,29,"Boone County, MO",29019,White,Hispanic or Latino,21.0,5460.0,384.6,828.8
+2021 (provisional),Missouri,29,"Boone County, MO",29019,White,Not Hispanic or Latino,1162.0,142989.0,812.6,736.8
+2021 (provisional),Missouri,29,"Boone County, MO",29019,More than one race,Not Hispanic or Latino,12.0,5787.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Buchanan County, MO",29021,Black or African American,Not Hispanic or Latino,39.0,4813.0,810.3,1054.7
+2021 (provisional),Missouri,29,"Buchanan County, MO",29021,White,Hispanic or Latino,11.0,4944.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Buchanan County, MO",29021,White,Not Hispanic or Latino,1053.0,71470.0,1473.3,1057.2
+2021 (provisional),Missouri,29,"Butler County, MO",29023,Black or African American,Not Hispanic or Latino,41.0,2374.0,1727.0,1767.2
+2021 (provisional),Missouri,29,"Butler County, MO",29023,White,Not Hispanic or Latino,660.0,37084.0,1779.7,1252.5
+2021 (provisional),Missouri,29,"Caldwell County, MO",29025,White,Not Hispanic or Latino,133.0,8466.0,1571.0,1052.3
+2021 (provisional),Missouri,29,"Callaway County, MO",29027,Black or African American,Not Hispanic or Latino,23.0,2100.0,1095.2,1788.4
+2021 (provisional),Missouri,29,"Callaway County, MO",29027,White,Not Hispanic or Latino,474.0,40265.0,1177.2,926.8
+2021 (provisional),Missouri,29,"Camden County, MO",29029,White,Not Hispanic or Latino,650.0,43541.0,1492.8,829.9
+2021 (provisional),Missouri,29,"Cape Girardeau County, MO",29031,Black or African American,Not Hispanic or Latino,55.0,6092.0,902.8,1280.8
+2021 (provisional),Missouri,29,"Cape Girardeau County, MO",29031,White,Not Hispanic or Latino,849.0,67890.0,1250.6,875.5
+2021 (provisional),Missouri,29,"Carroll County, MO",29033,White,Not Hispanic or Latino,107.0,8093.0,1322.1,832.0
+2021 (provisional),Missouri,29,"Carter County, MO",29035,White,Not Hispanic or Latino,102.0,5633.0,1810.8,1267.0
+2021 (provisional),Missouri,29,"Cass County, MO",29037,Black or African American,Not Hispanic or Latino,40.0,4905.0,815.5,1049.6
+2021 (provisional),Missouri,29,"Cass County, MO",29037,White,Hispanic or Latino,16.0,4265.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Cass County, MO",29037,White,Not Hispanic or Latino,1173.0,92716.0,1265.2,899.4
+2021 (provisional),Missouri,29,"Cedar County, MO",29039,White,Not Hispanic or Latino,234.0,13500.0,1733.3,1071.4
+2021 (provisional),Missouri,29,"Chariton County, MO",29041,White,Not Hispanic or Latino,114.0,6955.0,1639.1,899.2
+2021 (provisional),Missouri,29,"Christian County, MO",29043,White,Hispanic or Latino,10.0,2410.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Christian County, MO",29043,White,Not Hispanic or Latino,921.0,83963.0,1096.9,898.8
+2021 (provisional),Missouri,29,"Clark County, MO",29045,White,Not Hispanic or Latino,101.0,6613.0,1527.3,956.6
+2021 (provisional),Missouri,29,"Clay County, MO",29047,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1159.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Clay County, MO",29047,Asian,Not Hispanic or Latino,17.0,6238.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Clay County, MO",29047,Black or African American,Not Hispanic or Latino,103.0,18203.0,565.8,961.7
+2021 (provisional),Missouri,29,"Clay County, MO",29047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,14.0,833.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Clay County, MO",29047,White,Hispanic or Latino,81.0,15751.0,514.3,784.3
+2021 (provisional),Missouri,29,"Clay County, MO",29047,White,Not Hispanic or Latino,1958.0,201834.0,970.1,780.6
+2021 (provisional),Missouri,29,"Clinton County, MO",29049,White,Not Hispanic or Latino,235.0,19149.0,1227.2,882.3
+2021 (provisional),Missouri,29,"Cole County, MO",29051,Black or African American,Not Hispanic or Latino,58.0,8912.0,650.8,1075.2
+2021 (provisional),Missouri,29,"Cole County, MO",29051,White,Not Hispanic or Latino,696.0,62111.0,1120.6,779.4
+2021 (provisional),Missouri,29,"Cooper County, MO",29053,Black or African American,Not Hispanic or Latino,16.0,1000.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Cooper County, MO",29053,White,Not Hispanic or Latino,210.0,15178.0,1383.6,913.9
+2021 (provisional),Missouri,29,"Crawford County, MO",29055,White,Not Hispanic or Latino,370.0,22516.0,1643.3,1207.9
+2021 (provisional),Missouri,29,"Dade County, MO",29057,White,Not Hispanic or Latino,117.0,7042.0,1661.5,932.7
+2021 (provisional),Missouri,29,"Dallas County, MO",29059,White,Not Hispanic or Latino,294.0,16201.0,1814.7,1211.7
+2021 (provisional),Missouri,29,"Daviess County, MO",29061,White,Not Hispanic or Latino,106.0,7918.0,1338.7,901.1
+2021 (provisional),Missouri,29,"DeKalb County, MO",29063,White,Not Hispanic or Latino,124.0,9622.0,1288.7,809.6
+2021 (provisional),Missouri,29,"Dent County, MO",29065,White,Not Hispanic or Latino,259.0,14565.0,1778.2,1121.9
+2021 (provisional),Missouri,29,"Douglas County, MO",29067,White,Not Hispanic or Latino,223.0,12597.0,1770.3,1055.6
+2021 (provisional),Missouri,29,"Dunklin County, MO",29069,Black or African American,Not Hispanic or Latino,36.0,3090.0,1165.0,1503.5
+2021 (provisional),Missouri,29,"Dunklin County, MO",29069,White,Not Hispanic or Latino,476.0,22831.0,2084.9,1381.0
+2021 (provisional),Missouri,29,"Franklin County, MO",29071,Black or African American,Not Hispanic or Latino,15.0,973.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Franklin County, MO",29071,White,Not Hispanic or Latino,1298.0,99119.0,1309.5,979.7
+2021 (provisional),Missouri,29,"Gasconade County, MO",29073,White,Not Hispanic or Latino,245.0,13924.0,1759.6,1060.2
+2021 (provisional),Missouri,29,"Gentry County, MO",29075,White,Not Hispanic or Latino,105.0,6187.0,1697.1,1000.6
+2021 (provisional),Missouri,29,"Greene County, MO",29077,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1730.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Greene County, MO",29077,Asian,Not Hispanic or Latino,24.0,6744.0,355.9,502.9
+2021 (provisional),Missouri,29,"Greene County, MO",29077,Black or African American,Not Hispanic or Latino,104.0,9775.0,1063.9,1498.7
+2021 (provisional),Missouri,29,"Greene County, MO",29077,White,Hispanic or Latino,42.0,9901.0,424.2,781.6
+2021 (provisional),Missouri,29,"Greene County, MO",29077,White,Not Hispanic or Latino,3340.0,256208.0,1303.6,969.3
+2021 (provisional),Missouri,29,"Greene County, MO",29077,More than one race,Not Hispanic or Latino,14.0,8288.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Grundy County, MO",29079,White,Not Hispanic or Latino,149.0,8979.0,1659.4,1033.9
+2021 (provisional),Missouri,29,"Harrison County, MO",29081,White,Not Hispanic or Latino,110.0,7866.0,1398.4,790.1
+2021 (provisional),Missouri,29,"Henry County, MO",29083,White,Not Hispanic or Latino,337.0,20599.0,1636.0,1054.9
+2021 (provisional),Missouri,29,"Hickory County, MO",29085,White,Not Hispanic or Latino,196.0,9047.0,2166.5,1143.9
+2021 (provisional),Missouri,29,"Holt County, MO",29087,White,Not Hispanic or Latino,81.0,4028.0,2010.9,879.6
+2021 (provisional),Missouri,29,"Howard County, MO",29089,White,Not Hispanic or Latino,137.0,9005.0,1521.4,1033.7
+2021 (provisional),Missouri,29,"Howell County, MO",29091,White,Not Hispanic or Latino,627.0,37830.0,1657.4,1145.9
+2021 (provisional),Missouri,29,"Iron County, MO",29093,White,Not Hispanic or Latino,184.0,9510.0,1934.8,1238.6
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2612.0,804.0,813.3
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,Asian,Not Hispanic or Latino,60.0,13859.0,432.9,504.8
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,Black or African American,Not Hispanic or Latino,2009.0,162933.0,1233.0,1211.0
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,20.0,1879.0,1064.4,1670.1
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,White,Hispanic or Latino,302.0,56635.0,533.2,797.8
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,White,Not Hispanic or Latino,5301.0,437091.0,1212.8,883.4
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,White,Not Stated,18.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Missouri,29,"Jackson County, MO",29095,More than one race,Not Hispanic or Latino,39.0,20930.0,186.3,421.8
+2021 (provisional),Missouri,29,"Jasper County, MO",29097,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1870.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Jasper County, MO",29097,Black or African American,Not Hispanic or Latino,22.0,2453.0,896.9,943.2
+2021 (provisional),Missouri,29,"Jasper County, MO",29097,White,Hispanic or Latino,23.0,8676.0,265.1,574.2
+2021 (provisional),Missouri,29,"Jasper County, MO",29097,White,Not Hispanic or Latino,1460.0,101383.0,1440.1,1100.7
+2021 (provisional),Missouri,29,"Jefferson County, MO",29099,Asian,Not Hispanic or Latino,10.0,1848.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Jefferson County, MO",29099,Black or African American,Not Hispanic or Latino,18.0,2598.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Jefferson County, MO",29099,White,Hispanic or Latino,10.0,4325.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Jefferson County, MO",29099,White,Not Hispanic or Latino,2438.0,212887.0,1145.2,994.0
+2021 (provisional),Missouri,29,"Johnson County, MO",29101,Black or African American,Not Hispanic or Latino,15.0,2516.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Johnson County, MO",29101,White,Not Hispanic or Latino,540.0,46140.0,1170.4,1086.2
+2021 (provisional),Missouri,29,"Knox County, MO",29103,White,Not Hispanic or Latino,67.0,3776.0,1774.4,1098.6
+2021 (provisional),Missouri,29,"Laclede County, MO",29105,White,Not Hispanic or Latino,557.0,33325.0,1671.4,1251.4
+2021 (provisional),Missouri,29,"Lafayette County, MO",29107,White,Not Hispanic or Latino,453.0,30114.0,1504.3,1000.1
+2021 (provisional),Missouri,29,"Lawrence County, MO",29109,White,Not Hispanic or Latino,564.0,33653.0,1675.9,1130.2
+2021 (provisional),Missouri,29,"Lewis County, MO",29111,White,Not Hispanic or Latino,150.0,9074.0,1653.1,1151.6
+2021 (provisional),Missouri,29,"Lincoln County, MO",29113,Black or African American,Not Hispanic or Latino,16.0,1177.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Lincoln County, MO",29113,White,Not Hispanic or Latino,580.0,55799.0,1039.4,968.3
+2021 (provisional),Missouri,29,"Linn County, MO",29115,White,Not Hispanic or Latino,184.0,11182.0,1645.5,1029.8
+2021 (provisional),Missouri,29,"Livingston County, MO",29117,White,Not Hispanic or Latino,210.0,13325.0,1576.0,972.4
+2021 (provisional),Missouri,29,"McDonald County, MO",29119,White,Not Hispanic or Latino,281.0,17500.0,1605.7,1199.3
+2021 (provisional),Missouri,29,"Macon County, MO",29121,White,Not Hispanic or Latino,220.0,14050.0,1565.8,908.0
+2021 (provisional),Missouri,29,"Madison County, MO",29123,White,Not Hispanic or Latino,213.0,11436.0,1862.5,1305.5
+2021 (provisional),Missouri,29,"Maries County, MO",29125,White,Not Hispanic or Latino,132.0,8337.0,1583.3,946.0
+2021 (provisional),Missouri,29,"Marion County, MO",29127,Black or African American,Not Hispanic or Latino,15.0,1313.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Marion County, MO",29127,White,Not Hispanic or Latino,377.0,25559.0,1475.0,1043.2
+2021 (provisional),Missouri,29,"Mercer County, MO",29129,White,Not Hispanic or Latino,52.0,3351.0,1551.8,848.3
+2021 (provisional),Missouri,29,"Miller County, MO",29131,White,Not Hispanic or Latino,357.0,24400.0,1463.1,1044.4
+2021 (provisional),Missouri,29,"Mississippi County, MO",29133,Black or African American,Not Hispanic or Latino,43.0,3049.0,1410.3,1584.1
+2021 (provisional),Missouri,29,"Mississippi County, MO",29133,White,Not Hispanic or Latino,178.0,9073.0,1961.9,1268.6
+2021 (provisional),Missouri,29,"Moniteau County, MO",29135,White,Not Hispanic or Latino,165.0,13943.0,1183.4,882.0
+2021 (provisional),Missouri,29,"Monroe County, MO",29137,White,Not Hispanic or Latino,116.0,8033.0,1444.0,846.6
+2021 (provisional),Missouri,29,"Montgomery County, MO",29139,White,Not Hispanic or Latino,180.0,10535.0,1708.6,1098.8
+2021 (provisional),Missouri,29,"Morgan County, MO",29141,White,Not Hispanic or Latino,318.0,19457.0,1634.4,987.9
+2021 (provisional),Missouri,29,"New Madrid County, MO",29143,Black or African American,Not Hispanic or Latino,35.0,2651.0,1320.3,1184.7
+2021 (provisional),Missouri,29,"New Madrid County, MO",29143,White,Not Hispanic or Latino,257.0,13261.0,1938.0,1268.1
+2021 (provisional),Missouri,29,"Newton County, MO",29145,White,Hispanic or Latino,12.0,2742.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Newton County, MO",29145,White,Not Hispanic or Latino,776.0,49854.0,1556.5,1083.9
+2021 (provisional),Missouri,29,"Nodaway County, MO",29147,White,Not Hispanic or Latino,168.0,20129.0,834.6,623.8
+2021 (provisional),Missouri,29,"Oregon County, MO",29149,White,Not Hispanic or Latino,177.0,9777.0,1810.4,1115.8
+2021 (provisional),Missouri,29,"Osage County, MO",29151,White,Not Hispanic or Latino,164.0,13165.0,1245.7,887.1
+2021 (provisional),Missouri,29,"Ozark County, MO",29153,White,Not Hispanic or Latino,186.0,8643.0,2152.0,1126.7
+2021 (provisional),Missouri,29,"Pemiscot County, MO",29155,Black or African American,Not Hispanic or Latino,63.0,4052.0,1554.8,1569.9
+2021 (provisional),Missouri,29,"Pemiscot County, MO",29155,White,Not Hispanic or Latino,228.0,10611.0,2148.7,1504.4
+2021 (provisional),Missouri,29,"Perry County, MO",29157,White,Not Hispanic or Latino,219.0,18185.0,1204.3,829.9
+2021 (provisional),Missouri,29,"Pettis County, MO",29159,Black or African American,Not Hispanic or Latino,12.0,1354.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Pettis County, MO",29159,White,Not Hispanic or Latino,489.0,35581.0,1374.3,977.5
+2021 (provisional),Missouri,29,"Phelps County, MO",29161,White,Hispanic or Latino,10.0,938.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Phelps County, MO",29161,White,Not Hispanic or Latino,572.0,39369.0,1452.9,1105.1
+2021 (provisional),Missouri,29,"Pike County, MO",29163,Black or African American,Not Hispanic or Latino,17.0,1030.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Pike County, MO",29163,White,Not Hispanic or Latino,191.0,15724.0,1214.7,838.5
+2021 (provisional),Missouri,29,"Platte County, MO",29165,Asian,Not Hispanic or Latino,11.0,3037.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Platte County, MO",29165,Black or African American,Not Hispanic or Latino,32.0,8155.0,392.4,611.7
+2021 (provisional),Missouri,29,"Platte County, MO",29165,White,Hispanic or Latino,15.0,5986.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Platte County, MO",29165,White,Not Hispanic or Latino,825.0,84783.0,973.1,773.7
+2021 (provisional),Missouri,29,"Polk County, MO",29167,White,Not Hispanic or Latino,420.0,30280.0,1387.1,1038.2
+2021 (provisional),Missouri,29,"Pulaski County, MO",29169,Black or African American,Not Hispanic or Latino,30.0,5897.0,508.7,1291.0
+2021 (provisional),Missouri,29,"Pulaski County, MO",29169,White,Not Hispanic or Latino,400.0,36334.0,1100.9,1215.8
+2021 (provisional),Missouri,29,"Putnam County, MO",29171,White,Not Hispanic or Latino,88.0,4447.0,1978.9,1144.4
+2021 (provisional),Missouri,29,"Ralls County, MO",29173,White,Not Hispanic or Latino,134.0,9790.0,1368.7,954.1
+2021 (provisional),Missouri,29,"Randolph County, MO",29175,Black or African American,Not Hispanic or Latino,17.0,1379.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Randolph County, MO",29175,White,Not Hispanic or Latino,330.0,21640.0,1525.0,1159.2
+2021 (provisional),Missouri,29,"Ray County, MO",29177,White,Not Hispanic or Latino,342.0,21375.0,1600.0,1133.6
+2021 (provisional),Missouri,29,"Reynolds County, MO",29179,White,Not Hispanic or Latino,109.0,5774.0,1887.8,1129.0
+2021 (provisional),Missouri,29,"Ripley County, MO",29181,White,Not Hispanic or Latino,233.0,12611.0,1847.6,1301.0
+2021 (provisional),Missouri,29,"St. Charles County, MO",29183,Asian,Not Hispanic or Latino,22.0,11400.0,193.0,327.4
+2021 (provisional),Missouri,29,"St. Charles County, MO",29183,Black or African American,Not Hispanic or Latino,163.0,21414.0,761.2,1010.4
+2021 (provisional),Missouri,29,"St. Charles County, MO",29183,White,Hispanic or Latino,28.0,12676.0,220.9,444.2
+2021 (provisional),Missouri,29,"St. Charles County, MO",29183,White,Not Hispanic or Latino,3403.0,350063.0,972.1,755.8
+2021 (provisional),Missouri,29,"St. Charles County, MO",29183,More than one race,Not Hispanic or Latino,12.0,8148.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"St. Clair County, MO",29185,White,Not Hispanic or Latino,151.0,9141.0,1651.9,859.6
+2021 (provisional),Missouri,29,"Ste. Genevieve County, MO",29186,White,Not Hispanic or Latino,237.0,17131.0,1383.5,914.6
+2021 (provisional),Missouri,29,"St. Francois County, MO",29187,Black or African American,Not Hispanic or Latino,12.0,2732.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"St. Francois County, MO",29187,White,Not Hispanic or Latino,1002.0,61200.0,1637.3,1263.4
+2021 (provisional),Missouri,29,"St. Louis County, MO",29189,Asian,Not Hispanic or Latino,126.0,48067.0,262.1,365.3
+2021 (provisional),Missouri,29,"St. Louis County, MO",29189,Black or African American,Not Hispanic or Latino,3034.0,247310.0,1226.8,1254.2
+2021 (provisional),Missouri,29,"St. Louis County, MO",29189,White,Hispanic or Latino,116.0,26408.0,439.3,670.9
+2021 (provisional),Missouri,29,"St. Louis County, MO",29189,White,Not Hispanic or Latino,8002.0,644544.0,1241.5,728.1
+2021 (provisional),Missouri,29,"St. Louis County, MO",29189,More than one race,Not Hispanic or Latino,45.0,21669.0,207.7,653.1
+2021 (provisional),Missouri,29,"Saline County, MO",29195,White,Hispanic or Latino,10.0,2209.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Saline County, MO",29195,White,Not Hispanic or Latino,302.0,17963.0,1681.2,1070.5
+2021 (provisional),Missouri,29,"Schuyler County, MO",29197,White,Not Hispanic or Latino,63.0,4379.0,1438.7,942.0
+2021 (provisional),Missouri,29,"Scotland County, MO",29199,White,Not Hispanic or Latino,69.0,4726.0,1460.0,934.6
+2021 (provisional),Missouri,29,"Scott County, MO",29201,Black or African American,Not Hispanic or Latino,51.0,4569.0,1116.2,1276.6
+2021 (provisional),Missouri,29,"Scott County, MO",29201,White,Not Hispanic or Latino,529.0,31671.0,1670.3,1148.3
+2021 (provisional),Missouri,29,"Shannon County, MO",29203,White,Not Hispanic or Latino,118.0,7684.0,1535.7,1057.5
+2021 (provisional),Missouri,29,"Shelby County, MO",29205,White,Not Hispanic or Latino,87.0,5582.0,1558.6,946.2
+2021 (provisional),Missouri,29,"Stoddard County, MO",29207,White,Not Hispanic or Latino,440.0,27529.0,1598.3,1064.6
+2021 (provisional),Missouri,29,"Stone County, MO",29209,White,Not Hispanic or Latino,488.0,30643.0,1592.5,886.3
+2021 (provisional),Missouri,29,"Sullivan County, MO",29211,White,Not Hispanic or Latino,80.0,4622.0,1730.9,1058.6
+2021 (provisional),Missouri,29,"Taney County, MO",29213,White,Hispanic or Latino,10.0,3007.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Taney County, MO",29213,White,Not Hispanic or Latino,769.0,49326.0,1559.0,1038.6
+2021 (provisional),Missouri,29,"Texas County, MO",29215,White,Not Hispanic or Latino,433.0,22907.0,1890.3,1213.5
+2021 (provisional),Missouri,29,"Vernon County, MO",29217,White,Not Hispanic or Latino,337.0,19068.0,1767.4,1197.4
+2021 (provisional),Missouri,29,"Warren County, MO",29219,Black or African American,Not Hispanic or Latino,15.0,810.0,Unreliable,Unreliable
+2021 (provisional),Missouri,29,"Warren County, MO",29219,White,Not Hispanic or Latino,439.0,33530.0,1309.3,986.1
+2021 (provisional),Missouri,29,"Washington County, MO",29221,White,Not Hispanic or Latino,393.0,23096.0,1701.6,1343.8
+2021 (provisional),Missouri,29,"Wayne County, MO",29223,White,Not Hispanic or Latino,239.0,12047.0,1983.9,1200.6
+2021 (provisional),Missouri,29,"Webster County, MO",29225,White,Not Hispanic or Latino,503.0,37432.0,1343.8,1142.7
+2021 (provisional),Missouri,29,"Worth County, MO",29227,White,Not Hispanic or Latino,32.0,1866.0,1714.9,804.6
+2021 (provisional),Missouri,29,"Wright County, MO",29229,White,Not Hispanic or Latino,286.0,17292.0,1653.9,1184.8
+2021 (provisional),Missouri,29,"St. Louis city, MO",29510,Asian,Not Hispanic or Latino,36.0,10368.0,347.2,437.2
+2021 (provisional),Missouri,29,"St. Louis city, MO",29510,Black or African American,Not Hispanic or Latino,2022.0,132439.0,1526.7,1360.8
+2021 (provisional),Missouri,29,"St. Louis city, MO",29510,White,Hispanic or Latino,30.0,10472.0,286.5,497.0
+2021 (provisional),Missouri,29,"St. Louis city, MO",29510,White,Not Hispanic or Latino,1239.0,133902.0,925.3,785.1
+2021 (provisional),Missouri,29,"St. Louis city, MO",29510,More than one race,Not Hispanic or Latino,11.0,7378.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Adair County, MO",29001,White,Not Hispanic or Latino,33.0,22551.0,146.3,115.1
+2022 (provisional and partial),Missouri,29,"Andrew County, MO",29003,White,Not Hispanic or Latino,30.0,16478.0,182.1,118.5
+2022 (provisional and partial),Missouri,29,"Audrain County, MO",29007,White,Not Hispanic or Latino,45.0,21705.0,207.3,144.9
+2022 (provisional and partial),Missouri,29,"Barry County, MO",29009,White,Not Hispanic or Latino,78.0,30374.0,256.8,157.0
+2022 (provisional and partial),Missouri,29,"Barton County, MO",29011,White,Not Hispanic or Latino,27.0,10696.0,252.4,165.1
+2022 (provisional and partial),Missouri,29,"Bates County, MO",29013,White,Not Hispanic or Latino,57.0,15165.0,375.9,247.1
+2022 (provisional and partial),Missouri,29,"Benton County, MO",29015,White,Not Hispanic or Latino,48.0,18478.0,259.8,142.6
+2022 (provisional and partial),Missouri,29,"Bollinger County, MO",29017,White,Not Hispanic or Latino,24.0,11594.0,207.0,136.8
+2022 (provisional and partial),Missouri,29,"Boone County, MO",29019,Black or African American,Not Hispanic or Latino,11.0,17810.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Boone County, MO",29019,White,Not Hispanic or Latino,161.0,142989.0,112.6,102.4
+2022 (provisional and partial),Missouri,29,"Buchanan County, MO",29021,White,Not Hispanic or Latino,128.0,71470.0,179.1,122.9
+2022 (provisional and partial),Missouri,29,"Butler County, MO",29023,White,Not Hispanic or Latino,80.0,37084.0,215.7,146.8
+2022 (provisional and partial),Missouri,29,"Caldwell County, MO",29025,White,Not Hispanic or Latino,19.0,8466.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Callaway County, MO",29027,White,Not Hispanic or Latino,57.0,40265.0,141.6,109.3
+2022 (provisional and partial),Missouri,29,"Camden County, MO",29029,White,Not Hispanic or Latino,84.0,43541.0,192.9,102.7
+2022 (provisional and partial),Missouri,29,"Cape Girardeau County, MO",29031,White,Not Hispanic or Latino,135.0,67890.0,198.9,137.3
+2022 (provisional and partial),Missouri,29,"Carroll County, MO",29033,White,Not Hispanic or Latino,16.0,8093.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Carter County, MO",29035,White,Not Hispanic or Latino,10.0,5633.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Cass County, MO",29037,White,Not Hispanic or Latino,138.0,92716.0,148.8,105.5
+2022 (provisional and partial),Missouri,29,"Cedar County, MO",29039,White,Not Hispanic or Latino,31.0,13500.0,229.6,149.8
+2022 (provisional and partial),Missouri,29,"Chariton County, MO",29041,White,Not Hispanic or Latino,16.0,6955.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Christian County, MO",29043,White,Not Hispanic or Latino,126.0,83963.0,150.1,120.4
+2022 (provisional and partial),Missouri,29,"Clark County, MO",29045,White,Not Hispanic or Latino,18.0,6613.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Clay County, MO",29047,Black or African American,Not Hispanic or Latino,10.0,18203.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Clay County, MO",29047,White,Not Hispanic or Latino,291.0,201834.0,144.2,116.1
+2022 (provisional and partial),Missouri,29,"Clinton County, MO",29049,White,Not Hispanic or Latino,32.0,19149.0,167.1,112.4
+2022 (provisional and partial),Missouri,29,"Cole County, MO",29051,White,Not Hispanic or Latino,110.0,62111.0,177.1,118.8
+2022 (provisional and partial),Missouri,29,"Cooper County, MO",29053,White,Not Hispanic or Latino,27.0,15178.0,177.9,116.5
+2022 (provisional and partial),Missouri,29,"Crawford County, MO",29055,White,Not Hispanic or Latino,59.0,22516.0,262.0,178.0
+2022 (provisional and partial),Missouri,29,"Dade County, MO",29057,White,Not Hispanic or Latino,20.0,7042.0,284.0,149.8
+2022 (provisional and partial),Missouri,29,"Dallas County, MO",29059,White,Not Hispanic or Latino,26.0,16201.0,160.5,101.0
+2022 (provisional and partial),Missouri,29,"Daviess County, MO",29061,White,Not Hispanic or Latino,17.0,7918.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"DeKalb County, MO",29063,White,Not Hispanic or Latino,25.0,9622.0,259.8,172.4
+2022 (provisional and partial),Missouri,29,"Dent County, MO",29065,White,Not Hispanic or Latino,29.0,14565.0,199.1,113.3
+2022 (provisional and partial),Missouri,29,"Douglas County, MO",29067,White,Not Hispanic or Latino,36.0,12597.0,285.8,167.3
+2022 (provisional and partial),Missouri,29,"Dunklin County, MO",29069,White,Not Hispanic or Latino,54.0,22831.0,236.5,140.9
+2022 (provisional and partial),Missouri,29,"Franklin County, MO",29071,White,Not Hispanic or Latino,171.0,99119.0,172.5,127.3
+2022 (provisional and partial),Missouri,29,"Gasconade County, MO",29073,White,Not Hispanic or Latino,29.0,13924.0,208.3,124.6
+2022 (provisional and partial),Missouri,29,"Gentry County, MO",29075,White,Not Hispanic or Latino,10.0,6187.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Greene County, MO",29077,White,Not Hispanic or Latino,422.0,256208.0,164.7,121.5
+2022 (provisional and partial),Missouri,29,"Grundy County, MO",29079,White,Not Hispanic or Latino,28.0,8979.0,311.8,175.7
+2022 (provisional and partial),Missouri,29,"Harrison County, MO",29081,White,Not Hispanic or Latino,19.0,7866.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Henry County, MO",29083,White,Not Hispanic or Latino,68.0,20599.0,330.1,202.0
+2022 (provisional and partial),Missouri,29,"Hickory County, MO",29085,White,Not Hispanic or Latino,36.0,9047.0,397.9,192.5
+2022 (provisional and partial),Missouri,29,"Howard County, MO",29089,White,Not Hispanic or Latino,16.0,9005.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Howell County, MO",29091,White,Not Hispanic or Latino,82.0,37830.0,216.8,148.1
+2022 (provisional and partial),Missouri,29,"Iron County, MO",29093,White,Not Hispanic or Latino,22.0,9510.0,231.3,131.7
+2022 (provisional and partial),Missouri,29,"Jackson County, MO",29095,Asian,Not Hispanic or Latino,10.0,13859.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Jackson County, MO",29095,Black or African American,Not Hispanic or Latino,229.0,162933.0,140.5,135.7
+2022 (provisional and partial),Missouri,29,"Jackson County, MO",29095,White,Hispanic or Latino,28.0,56635.0,49.4,89.1
+2022 (provisional and partial),Missouri,29,"Jackson County, MO",29095,White,Not Hispanic or Latino,757.0,437091.0,173.2,124.5
+2022 (provisional and partial),Missouri,29,"Jasper County, MO",29097,White,Not Hispanic or Latino,221.0,101383.0,218.0,160.4
+2022 (provisional and partial),Missouri,29,"Jefferson County, MO",29099,White,Not Hispanic or Latino,317.0,212887.0,148.9,126.5
+2022 (provisional and partial),Missouri,29,"Johnson County, MO",29101,White,Not Hispanic or Latino,65.0,46140.0,140.9,131.2
+2022 (provisional and partial),Missouri,29,"Laclede County, MO",29105,White,Not Hispanic or Latino,60.0,33325.0,180.0,127.9
+2022 (provisional and partial),Missouri,29,"Lafayette County, MO",29107,White,Not Hispanic or Latino,67.0,30114.0,222.5,140.7
+2022 (provisional and partial),Missouri,29,"Lawrence County, MO",29109,White,Not Hispanic or Latino,74.0,33653.0,219.9,146.7
+2022 (provisional and partial),Missouri,29,"Lewis County, MO",29111,White,Not Hispanic or Latino,21.0,9074.0,231.4,143.9
+2022 (provisional and partial),Missouri,29,"Lincoln County, MO",29113,White,Not Hispanic or Latino,76.0,55799.0,136.2,123.7
+2022 (provisional and partial),Missouri,29,"Linn County, MO",29115,White,Not Hispanic or Latino,24.0,11182.0,214.6,134.4
+2022 (provisional and partial),Missouri,29,"Livingston County, MO",29117,White,Not Hispanic or Latino,30.0,13325.0,225.1,119.9
+2022 (provisional and partial),Missouri,29,"McDonald County, MO",29119,White,Not Hispanic or Latino,32.0,17500.0,182.9,131.9
+2022 (provisional and partial),Missouri,29,"Macon County, MO",29121,White,Not Hispanic or Latino,23.0,14050.0,163.7,87.9
+2022 (provisional and partial),Missouri,29,"Madison County, MO",29123,White,Not Hispanic or Latino,28.0,11436.0,244.8,159.3
+2022 (provisional and partial),Missouri,29,"Maries County, MO",29125,White,Not Hispanic or Latino,19.0,8337.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Marion County, MO",29127,White,Not Hispanic or Latino,43.0,25559.0,168.2,112.0
+2022 (provisional and partial),Missouri,29,"Miller County, MO",29131,White,Not Hispanic or Latino,50.0,24400.0,204.9,146.1
+2022 (provisional and partial),Missouri,29,"Mississippi County, MO",29133,White,Not Hispanic or Latino,17.0,9073.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Moniteau County, MO",29135,White,Not Hispanic or Latino,31.0,13943.0,222.3,178.1
+2022 (provisional and partial),Missouri,29,"Monroe County, MO",29137,White,Not Hispanic or Latino,12.0,8033.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Montgomery County, MO",29139,White,Not Hispanic or Latino,31.0,10535.0,294.3,164.9
+2022 (provisional and partial),Missouri,29,"Morgan County, MO",29141,White,Not Hispanic or Latino,56.0,19457.0,287.8,171.3
+2022 (provisional and partial),Missouri,29,"New Madrid County, MO",29143,White,Not Hispanic or Latino,47.0,13261.0,354.4,239.8
+2022 (provisional and partial),Missouri,29,"Newton County, MO",29145,White,Not Hispanic or Latino,112.0,49854.0,224.7,151.8
+2022 (provisional and partial),Missouri,29,"Nodaway County, MO",29147,White,Not Hispanic or Latino,22.0,20129.0,109.3,75.9
+2022 (provisional and partial),Missouri,29,"Oregon County, MO",29149,White,Not Hispanic or Latino,28.0,9777.0,286.4,171.2
+2022 (provisional and partial),Missouri,29,"Osage County, MO",29151,White,Not Hispanic or Latino,20.0,13165.0,151.9,106.2
+2022 (provisional and partial),Missouri,29,"Ozark County, MO",29153,White,Not Hispanic or Latino,20.0,8643.0,231.4,107.1
+2022 (provisional and partial),Missouri,29,"Pemiscot County, MO",29155,Black or African American,Not Hispanic or Latino,13.0,4052.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Pemiscot County, MO",29155,White,Not Hispanic or Latino,33.0,10611.0,311.0,228.6
+2022 (provisional and partial),Missouri,29,"Perry County, MO",29157,White,Not Hispanic or Latino,20.0,18185.0,110.0,71.2
+2022 (provisional and partial),Missouri,29,"Pettis County, MO",29159,White,Not Hispanic or Latino,71.0,35581.0,199.5,140.3
+2022 (provisional and partial),Missouri,29,"Phelps County, MO",29161,White,Not Hispanic or Latino,61.0,39369.0,154.9,116.8
+2022 (provisional and partial),Missouri,29,"Pike County, MO",29163,White,Not Hispanic or Latino,18.0,15724.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Platte County, MO",29165,White,Not Hispanic or Latino,124.0,84783.0,146.3,112.6
+2022 (provisional and partial),Missouri,29,"Polk County, MO",29167,White,Not Hispanic or Latino,52.0,30280.0,171.7,125.4
+2022 (provisional and partial),Missouri,29,"Pulaski County, MO",29169,White,Not Hispanic or Latino,26.0,36334.0,71.6,78.7
+2022 (provisional and partial),Missouri,29,"Putnam County, MO",29171,White,Not Hispanic or Latino,22.0,4447.0,494.7,246.4
+2022 (provisional and partial),Missouri,29,"Ralls County, MO",29173,White,Not Hispanic or Latino,21.0,9790.0,214.5,140.0
+2022 (provisional and partial),Missouri,29,"Randolph County, MO",29175,White,Not Hispanic or Latino,46.0,21640.0,212.6,156.6
+2022 (provisional and partial),Missouri,29,"Ray County, MO",29177,White,Not Hispanic or Latino,40.0,21375.0,187.1,130.2
+2022 (provisional and partial),Missouri,29,"Reynolds County, MO",29179,White,Not Hispanic or Latino,13.0,5774.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Ripley County, MO",29181,White,Not Hispanic or Latino,18.0,12611.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"St. Charles County, MO",29183,Black or African American,Not Hispanic or Latino,11.0,21414.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"St. Charles County, MO",29183,White,Not Hispanic or Latino,426.0,350063.0,121.7,93.3
+2022 (provisional and partial),Missouri,29,"St. Clair County, MO",29185,White,Not Hispanic or Latino,18.0,9141.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Ste. Genevieve County, MO",29186,White,Not Hispanic or Latino,35.0,17131.0,204.3,141.0
+2022 (provisional and partial),Missouri,29,"St. Francois County, MO",29187,White,Not Hispanic or Latino,120.0,61200.0,196.1,150.6
+2022 (provisional and partial),Missouri,29,"St. Louis County, MO",29189,Asian,Not Hispanic or Latino,21.0,48067.0,43.7,63.0
+2022 (provisional and partial),Missouri,29,"St. Louis County, MO",29189,Black or African American,Not Hispanic or Latino,345.0,247310.0,139.5,142.5
+2022 (provisional and partial),Missouri,29,"St. Louis County, MO",29189,White,Hispanic or Latino,14.0,26408.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"St. Louis County, MO",29189,White,Not Hispanic or Latino,1072.0,644544.0,166.3,93.9
+2022 (provisional and partial),Missouri,29,"Saline County, MO",29195,White,Not Hispanic or Latino,47.0,17963.0,261.6,160.0
+2022 (provisional and partial),Missouri,29,"Scott County, MO",29201,White,Not Hispanic or Latino,68.0,31671.0,214.7,148.1
+2022 (provisional and partial),Missouri,29,"Shannon County, MO",29203,White,Not Hispanic or Latino,15.0,7684.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Shelby County, MO",29205,White,Not Hispanic or Latino,10.0,5582.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Stoddard County, MO",29207,White,Not Hispanic or Latino,45.0,27529.0,163.5,101.8
+2022 (provisional and partial),Missouri,29,"Stone County, MO",29209,White,Not Hispanic or Latino,61.0,30643.0,199.1,106.5
+2022 (provisional and partial),Missouri,29,"Sullivan County, MO",29211,White,Not Hispanic or Latino,12.0,4622.0,Unreliable,Unreliable
+2022 (provisional and partial),Missouri,29,"Taney County, MO",29213,White,Not Hispanic or Latino,107.0,49326.0,216.9,142.4
+2022 (provisional and partial),Missouri,29,"Texas County, MO",29215,White,Not Hispanic or Latino,56.0,22907.0,244.5,166.6
+2022 (provisional and partial),Missouri,29,"Vernon County, MO",29217,White,Not Hispanic or Latino,29.0,19068.0,152.1,106.2
+2022 (provisional and partial),Missouri,29,"Warren County, MO",29219,White,Not Hispanic or Latino,65.0,33530.0,193.9,140.1
+2022 (provisional and partial),Missouri,29,"Washington County, MO",29221,White,Not Hispanic or Latino,49.0,23096.0,212.2,168.2
+2022 (provisional and partial),Missouri,29,"Wayne County, MO",29223,White,Not Hispanic or Latino,32.0,12047.0,265.6,179.9
+2022 (provisional and partial),Missouri,29,"Webster County, MO",29225,White,Not Hispanic or Latino,66.0,37432.0,176.3,151.8
+2022 (provisional and partial),Missouri,29,"Wright County, MO",29229,White,Not Hispanic or Latino,50.0,17292.0,289.2,218.6
+2022 (provisional and partial),Missouri,29,"St. Louis city, MO",29510,Black or African American,Not Hispanic or Latino,177.0,132439.0,133.6,115.3
+2022 (provisional and partial),Missouri,29,"St. Louis city, MO",29510,White,Not Hispanic or Latino,128.0,133902.0,95.6,82.8

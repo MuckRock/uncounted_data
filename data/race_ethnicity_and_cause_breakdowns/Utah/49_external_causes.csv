@@ -1,0 +1,38 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Utah,"Davis County, UT",Nontransport accidents,Other fall on same level,W18,11.0,351713.0,Unreliable
+2018,Utah,"Davis County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,351713.0,6.8
+2018,Utah,"Davis County, UT",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,351713.0,Unreliable
+2018,Utah,"Davis County, UT",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,351713.0,Unreliable
+2018,Utah,"Davis County, UT",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,13.0,351713.0,Unreliable
+2018,Utah,"Davis County, UT",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,351713.0,Unreliable
+2018,Utah,"Salt Lake County, UT",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,42.0,1152633.0,3.6
+2018,Utah,"Salt Lake County, UT",Nontransport accidents,Fall on and from stairs and steps,W10,12.0,1152633.0,Unreliable
+2018,Utah,"Salt Lake County, UT",Nontransport accidents,Other fall on same level,W18,77.0,1152633.0,6.7
+2018,Utah,"Salt Lake County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,40.0,1152633.0,3.5
+2018,Utah,"Salt Lake County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,1152633.0,4.3
+2018,Utah,"Salt Lake County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,135.0,1152633.0,11.7
+2018,Utah,"Salt Lake County, UT",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,10.0,1152633.0,Unreliable
+2018,Utah,"Salt Lake County, UT",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,17.0,1152633.0,Unreliable
+2018,Utah,"Salt Lake County, UT",Intentional self-harm (suicide),Intentional self-poisoning by and exposure to other gases and vapours,X67,14.0,1152633.0,Unreliable
+2018,Utah,"Salt Lake County, UT",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,69.0,1152633.0,6.0
+2018,Utah,"Salt Lake County, UT",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,67.0,1152633.0,5.8
+2018,Utah,"Salt Lake County, UT",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,13.0,1152633.0,Unreliable
+2018,Utah,"Salt Lake County, UT",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,42.0,1152633.0,3.6
+2018,Utah,"Salt Lake County, UT",Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,1152633.0,Unreliable
+2018,Utah,"Salt Lake County, UT",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,10.0,1152633.0,Unreliable
+2018,Utah,"Salt Lake County, UT",,Legal intervention involving firearm discharge,Y35.0,11.0,1152633.0,Unreliable
+2018,Utah,"Utah County, UT",Nontransport accidents,Other fall on same level,W18,22.0,622213.0,3.5
+2018,Utah,"Utah County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,622213.0,Unreliable
+2018,Utah,"Utah County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,58.0,622213.0,9.3
+2018,Utah,"Utah County, UT",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,24.0,622213.0,3.9
+2018,Utah,"Utah County, UT",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,24.0,622213.0,3.9
+2018,Utah,"Utah County, UT",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10.0,622213.0,Unreliable
+2018,Utah,"Utah County, UT",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,622213.0,Unreliable
+2018,Utah,"Washington County, UT",Nontransport accidents,Other fall on same level,W18,10.0,171700.0,Unreliable
+2018,Utah,"Washington County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,171700.0,12.2
+2018,Utah,"Weber County, UT",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,256359.0,Unreliable
+2018,Utah,"Weber County, UT",Nontransport accidents,Other fall on same level,W18,14.0,256359.0,Unreliable
+2018,Utah,"Weber County, UT",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31.0,256359.0,12.1
+2018,Utah,"Weber County, UT",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,256359.0,Unreliable
+2018,Utah,"Weber County, UT",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,19.0,256359.0,Unreliable
+2018,Utah,"Weber County, UT",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,256359.0,Unreliable

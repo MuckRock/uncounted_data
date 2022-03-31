@@ -1,0 +1,11 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,District of Columbia,11,"District of Columbia, DC",11001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Nontransport accidents,Unspecified fall,W19,37.0,702455.0,5.3
+2018,District of Columbia,11,"District of Columbia, DC",11001,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,158.0,702455.0,22.5
+2018,District of Columbia,11,"District of Columbia, DC",11001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,57.0,702455.0,8.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,10.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,24.0,702455.0,3.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,109.0,702455.0,15.5
+2018,District of Columbia,11,"District of Columbia, DC",11001,Assault (homicide),Assault by sharp object,X99,14.0,702455.0,Unreliable

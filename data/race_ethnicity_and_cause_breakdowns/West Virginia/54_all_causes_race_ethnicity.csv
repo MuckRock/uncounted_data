@@ -1,0 +1,339 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,West Virginia,54,"Barbour County, WV",54001,White,Not Hispanic or Latino,197.0,15827.0,1244.7,898.3
+2018,West Virginia,54,"Berkeley County, WV",54003,Black or African American,Not Hispanic or Latino,77.0,8673.0,887.8,1170.8
+2018,West Virginia,54,"Berkeley County, WV",54003,White,Not Hispanic or Latino,1007.0,98325.0,1024.2,918.9
+2018,West Virginia,54,"Boone County, WV",54005,White,Not Hispanic or Latino,324.0,21435.0,1511.5,1177.3
+2018,West Virginia,54,"Braxton County, WV",54007,White,Not Hispanic or Latino,193.0,13642.0,1414.7,937.9
+2018,West Virginia,54,"Brooke County, WV",54009,White,Not Hispanic or Latino,307.0,21243.0,1445.2,838.4
+2018,West Virginia,54,"Cabell County, WV",54011,Black or African American,Not Hispanic or Latino,53.0,4473.0,1184.9,1207.7
+2018,West Virginia,54,"Cabell County, WV",54011,White,Not Hispanic or Latino,1275.0,83984.0,1518.1,1153.7
+2018,West Virginia,54,"Calhoun County, WV",54013,White,Not Hispanic or Latino,109.0,7029.0,1550.7,905.6
+2018,West Virginia,54,"Clay County, WV",54015,White,Not Hispanic or Latino,136.0,8408.0,1617.5,1175.3
+2018,West Virginia,54,"Doddridge County, WV",54017,White,Not Hispanic or Latino,80.0,7990.0,1001.3,681.5
+2018,West Virginia,54,"Fayette County, WV",54019,Black or African American,Not Hispanic or Latino,38.0,1889.0,2011.6,1417.1
+2018,West Virginia,54,"Fayette County, WV",54019,White,Not Hispanic or Latino,580.0,39757.0,1458.9,1012.1
+2018,West Virginia,54,"Gilmer County, WV",54021,White,Not Hispanic or Latino,94.0,6505.0,1445.0,985.8
+2018,West Virginia,54,"Grant County, WV",54023,White,Not Hispanic or Latino,144.0,11221.0,1283.3,805.9
+2018,West Virginia,54,"Greenbrier County, WV",54025,Black or African American,Not Hispanic or Latino,15.0,958.0,Unreliable,Unreliable
+2018,West Virginia,54,"Greenbrier County, WV",54025,White,Not Hispanic or Latino,481.0,32157.0,1495.8,935.4
+2018,West Virginia,54,"Hampshire County, WV",54027,White,Not Hispanic or Latino,252.0,22324.0,1128.8,799.0
+2018,West Virginia,54,"Hancock County, WV",54029,White,Not Hispanic or Latino,436.0,27207.0,1602.5,936.5
+2018,West Virginia,54,"Hardy County, WV",54031,White,Not Hispanic or Latino,164.0,12371.0,1325.7,921.7
+2018,West Virginia,54,"Harrison County, WV",54033,Black or African American,Not Hispanic or Latino,15.0,1191.0,Unreliable,Unreliable
+2018,West Virginia,54,"Harrison County, WV",54033,White,Not Hispanic or Latino,848.0,63555.0,1334.3,935.8
+2018,West Virginia,54,"Jackson County, WV",54035,White,Not Hispanic or Latino,380.0,27767.0,1368.5,932.5
+2018,West Virginia,54,"Jefferson County, WV",54037,Black or African American,Not Hispanic or Latino,50.0,3467.0,1442.2,1475.4
+2018,West Virginia,54,"Jefferson County, WV",54037,White,Not Hispanic or Latino,439.0,47559.0,923.1,775.2
+2018,West Virginia,54,"Kanawha County, WV",54039,Black or African American,Not Hispanic or Latino,159.0,13636.0,1166.0,1185.5
+2018,West Virginia,54,"Kanawha County, WV",54039,White,Not Hispanic or Latino,2510.0,158171.0,1586.9,1067.0
+2018,West Virginia,54,"Lewis County, WV",54041,White,Not Hispanic or Latino,247.0,15447.0,1599.0,1162.8
+2018,West Virginia,54,"Lincoln County, WV",54043,White,Not Hispanic or Latino,307.0,20117.0,1526.1,1182.6
+2018,West Virginia,54,"Logan County, WV",54045,White,Not Hispanic or Latino,546.0,31216.0,1749.1,1326.3
+2018,West Virginia,54,"McDowell County, WV",54047,Black or African American,Not Hispanic or Latino,37.0,1501.0,2465.0,1522.9
+2018,West Virginia,54,"McDowell County, WV",54047,White,Not Hispanic or Latino,329.0,16163.0,2035.5,1445.9
+2018,West Virginia,54,"Marion County, WV",54049,Black or African American,Not Hispanic or Latino,30.0,1806.0,1661.1,1424.5
+2018,West Virginia,54,"Marion County, WV",54049,White,Not Hispanic or Latino,706.0,52177.0,1353.1,945.9
+2018,West Virginia,54,"Marshall County, WV",54051,White,Not Hispanic or Latino,395.0,29749.0,1327.8,880.7
+2018,West Virginia,54,"Mason County, WV",54053,White,Not Hispanic or Latino,366.0,25820.0,1417.5,995.7
+2018,West Virginia,54,"Mercer County, WV",54055,Black or African American,Not Hispanic or Latino,44.0,3500.0,1257.1,1223.4
+2018,West Virginia,54,"Mercer County, WV",54055,White,Not Hispanic or Latino,854.0,53440.0,1598.1,1070.0
+2018,West Virginia,54,"Mineral County, WV",54057,Black or African American,Not Hispanic or Latino,10.0,777.0,Unreliable,Unreliable
+2018,West Virginia,54,"Mineral County, WV",54057,White,Not Hispanic or Latino,332.0,25255.0,1314.6,920.0
+2018,West Virginia,54,"Mingo County, WV",54059,White,Not Hispanic or Latino,339.0,22766.0,1489.1,1202.9
+2018,West Virginia,54,"Monongalia County, WV",54061,Black or African American,Not Hispanic or Latino,21.0,4107.0,511.3,868.2
+2018,West Virginia,54,"Monongalia County, WV",54061,White,Not Hispanic or Latino,698.0,93730.0,744.7,740.3
+2018,West Virginia,54,"Monroe County, WV",54063,White,Not Hispanic or Latino,189.0,12786.0,1478.2,872.5
+2018,West Virginia,54,"Morgan County, WV",54065,White,Not Hispanic or Latino,224.0,16943.0,1322.1,872.5
+2018,West Virginia,54,"Nicholas County, WV",54067,White,Not Hispanic or Latino,314.0,24042.0,1306.0,898.1
+2018,West Virginia,54,"Ohio County, WV",54069,Black or African American,Not Hispanic or Latino,18.0,1472.0,Unreliable,Unreliable
+2018,West Virginia,54,"Ohio County, WV",54069,White,Not Hispanic or Latino,549.0,38489.0,1426.4,883.3
+2018,West Virginia,54,"Pendleton County, WV",54071,White,Not Hispanic or Latino,100.0,6657.0,1502.2,792.9
+2018,West Virginia,54,"Pleasants County, WV",54073,White,Not Hispanic or Latino,97.0,7189.0,1349.3,1006.5
+2018,West Virginia,54,"Pocahontas County, WV",54075,White,Not Hispanic or Latino,107.0,8034.0,1331.8,882.4
+2018,West Virginia,54,"Preston County, WV",54077,White,Not Hispanic or Latino,383.0,32374.0,1183.0,854.5
+2018,West Virginia,54,"Putnam County, WV",54079,White,Not Hispanic or Latino,598.0,54019.0,1107.0,869.2
+2018,West Virginia,54,"Raleigh County, WV",54081,Black or African American,Not Hispanic or Latino,73.0,5868.0,1244.0,1163.2
+2018,West Virginia,54,"Raleigh County, WV",54081,White,Not Hispanic or Latino,1017.0,64867.0,1567.8,1103.8
+2018,West Virginia,54,"Randolph County, WV",54083,White,Not Hispanic or Latino,353.0,27499.0,1283.7,852.4
+2018,West Virginia,54,"Ritchie County, WV",54085,White,Not Hispanic or Latino,132.0,9448.0,1397.1,884.9
+2018,West Virginia,54,"Roane County, WV",54087,White,Not Hispanic or Latino,235.0,13487.0,1742.4,1193.5
+2018,West Virginia,54,"Summers County, WV",54089,White,Not Hispanic or Latino,177.0,11704.0,1512.3,894.3
+2018,West Virginia,54,"Taylor County, WV",54091,White,Not Hispanic or Latino,204.0,16170.0,1261.6,846.5
+2018,West Virginia,54,"Tucker County, WV",54093,White,Not Hispanic or Latino,98.0,6763.0,1449.1,847.5
+2018,West Virginia,54,"Tyler County, WV",54095,White,Not Hispanic or Latino,115.0,8533.0,1347.7,825.8
+2018,West Virginia,54,"Upshur County, WV",54097,White,Not Hispanic or Latino,252.0,23388.0,1077.5,759.2
+2018,West Virginia,54,"Wayne County, WV",54099,White,Not Hispanic or Latino,527.0,38773.0,1359.2,943.2
+2018,West Virginia,54,"Webster County, WV",54101,White,Not Hispanic or Latino,128.0,8042.0,1591.6,1050.1
+2018,West Virginia,54,"Wetzel County, WV",54103,White,Not Hispanic or Latino,234.0,14823.0,1578.6,983.5
+2018,West Virginia,54,"Wirt County, WV",54105,White,Not Hispanic or Latino,63.0,5661.0,1112.9,849.7
+2018,West Virginia,54,"Wood County, WV",54107,Black or African American,Not Hispanic or Latino,10.0,1038.0,Unreliable,Unreliable
+2018,West Virginia,54,"Wood County, WV",54107,White,Not Hispanic or Latino,1126.0,80062.0,1406.4,961.5
+2018,West Virginia,54,"Wyoming County, WV",54109,White,Not Hispanic or Latino,317.0,20183.0,1570.6,1123.1
+2019,West Virginia,54,"Barbour County, WV",54001,White,Not Hispanic or Latino,199.0,15703.0,1267.3,879.0
+2019,West Virginia,54,"Berkeley County, WV",54003,Black or African American,Not Hispanic or Latino,68.0,8952.0,759.6,832.8
+2019,West Virginia,54,"Berkeley County, WV",54003,White,Hispanic or Latino,11.0,4883.0,Unreliable,Unreliable
+2019,West Virginia,54,"Berkeley County, WV",54003,White,Not Hispanic or Latino,1021.0,99605.0,1025.0,893.9
+2019,West Virginia,54,"Boone County, WV",54005,White,Not Hispanic or Latino,326.0,20937.0,1557.1,1128.2
+2019,West Virginia,54,"Braxton County, WV",54007,White,Not Hispanic or Latino,179.0,13488.0,1327.1,868.8
+2019,West Virginia,54,"Brooke County, WV",54009,White,Not Hispanic or Latino,331.0,20980.0,1577.7,925.1
+2019,West Virginia,54,"Cabell County, WV",54011,Black or African American,Not Hispanic or Latino,69.0,4353.0,1585.1,1511.6
+2019,West Virginia,54,"Cabell County, WV",54011,White,Not Hispanic or Latino,1232.0,82840.0,1487.2,1084.6
+2019,West Virginia,54,"Calhoun County, WV",54013,White,Not Hispanic or Latino,95.0,6892.0,1378.4,867.4
+2019,West Virginia,54,"Clay County, WV",54015,White,Not Hispanic or Latino,122.0,8276.0,1474.1,1037.0
+2019,West Virginia,54,"Doddridge County, WV",54017,White,Not Hispanic or Latino,68.0,8021.0,847.8,597.0
+2019,West Virginia,54,"Fayette County, WV",54019,Black or African American,Not Hispanic or Latino,27.0,1843.0,1465.0,854.8
+2019,West Virginia,54,"Fayette County, WV",54019,White,Not Hispanic or Latino,625.0,39152.0,1596.3,1094.7
+2019,West Virginia,54,"Gilmer County, WV",54021,White,Not Hispanic or Latino,88.0,6380.0,1379.3,931.4
+2019,West Virginia,54,"Grant County, WV",54023,White,Not Hispanic or Latino,168.0,11130.0,1509.4,864.0
+2019,West Virginia,54,"Greenbrier County, WV",54025,Black or African American,Not Hispanic or Latino,19.0,928.0,Unreliable,Unreliable
+2019,West Virginia,54,"Greenbrier County, WV",54025,White,Not Hispanic or Latino,543.0,32070.0,1693.2,1061.9
+2019,West Virginia,54,"Hampshire County, WV",54027,White,Not Hispanic or Latino,300.0,22145.0,1354.7,926.9
+2019,West Virginia,54,"Hancock County, WV",54029,Black or African American,Not Hispanic or Latino,11.0,759.0,Unreliable,Unreliable
+2019,West Virginia,54,"Hancock County, WV",54029,White,Not Hispanic or Latino,412.0,26955.0,1528.5,909.5
+2019,West Virginia,54,"Hardy County, WV",54031,White,Not Hispanic or Latino,145.0,12388.0,1170.5,825.9
+2019,West Virginia,54,"Harrison County, WV",54033,Black or African American,Not Hispanic or Latino,10.0,1216.0,Unreliable,Unreliable
+2019,West Virginia,54,"Harrison County, WV",54033,White,Not Hispanic or Latino,911.0,63195.0,1441.6,1003.2
+2019,West Virginia,54,"Jackson County, WV",54035,White,Not Hispanic or Latino,345.0,27662.0,1247.2,824.4
+2019,West Virginia,54,"Jefferson County, WV",54037,Black or African American,Not Hispanic or Latino,32.0,3491.0,916.6,942.1
+2019,West Virginia,54,"Jefferson County, WV",54037,White,Not Hispanic or Latino,459.0,47557.0,965.2,780.3
+2019,West Virginia,54,"Kanawha County, WV",54039,Black or African American,Not Hispanic or Latino,165.0,13350.0,1236.0,1220.6
+2019,West Virginia,54,"Kanawha County, WV",54039,White,Not Hispanic or Latino,2331.0,156218.0,1492.1,997.2
+2019,West Virginia,54,"Lewis County, WV",54041,White,Not Hispanic or Latino,229.0,15286.0,1498.1,1017.7
+2019,West Virginia,54,"Lincoln County, WV",54043,White,Not Hispanic or Latino,315.0,19902.0,1582.8,1228.7
+2019,West Virginia,54,"Logan County, WV",54045,Black or African American,Not Hispanic or Latino,13.0,574.0,Unreliable,Unreliable
+2019,West Virginia,54,"Logan County, WV",54045,White,Not Hispanic or Latino,531.0,30710.0,1729.1,1285.9
+2019,West Virginia,54,"McDowell County, WV",54047,Black or African American,Not Hispanic or Latino,23.0,1432.0,1606.1,818.4
+2019,West Virginia,54,"McDowell County, WV",54047,White,Not Hispanic or Latino,299.0,15637.0,1912.1,1329.8
+2019,West Virginia,54,"Marion County, WV",54049,Black or African American,Not Hispanic or Latino,18.0,1796.0,Unreliable,Unreliable
+2019,West Virginia,54,"Marion County, WV",54049,White,Not Hispanic or Latino,692.0,52095.0,1328.3,948.0
+2019,West Virginia,54,"Marshall County, WV",54051,White,Not Hispanic or Latino,409.0,29486.0,1387.1,919.5
+2019,West Virginia,54,"Mason County, WV",54053,White,Not Hispanic or Latino,387.0,25602.0,1511.6,1029.8
+2019,West Virginia,54,"Mercer County, WV",54055,Black or African American,Not Hispanic or Latino,51.0,3465.0,1471.9,1292.9
+2019,West Virginia,54,"Mercer County, WV",54055,White,Not Hispanic or Latino,836.0,53073.0,1575.2,1045.1
+2019,West Virginia,54,"Mineral County, WV",54057,White,Not Hispanic or Latino,331.0,25171.0,1315.0,925.6
+2019,West Virginia,54,"Mingo County, WV",54059,White,Not Hispanic or Latino,375.0,22394.0,1674.6,1327.7
+2019,West Virginia,54,"Monongalia County, WV",54061,Black or African American,Not Hispanic or Latino,14.0,3981.0,Unreliable,Unreliable
+2019,West Virginia,54,"Monongalia County, WV",54061,White,Not Hispanic or Latino,683.0,93256.0,732.4,711.4
+2019,West Virginia,54,"Monroe County, WV",54063,White,Not Hispanic or Latino,186.0,12773.0,1456.2,864.3
+2019,West Virginia,54,"Morgan County, WV",54065,White,Not Hispanic or Latino,225.0,17010.0,1322.8,870.8
+2019,West Virginia,54,"Nicholas County, WV",54067,White,Not Hispanic or Latino,351.0,23698.0,1481.1,1035.0
+2019,West Virginia,54,"Ohio County, WV",54069,Black or African American,Not Hispanic or Latino,10.0,1470.0,Unreliable,Unreliable
+2019,West Virginia,54,"Ohio County, WV",54069,White,Not Hispanic or Latino,599.0,38078.0,1573.1,957.2
+2019,West Virginia,54,"Pendleton County, WV",54071,White,Not Hispanic or Latino,101.0,6604.0,1529.4,732.1
+2019,West Virginia,54,"Pleasants County, WV",54073,White,Not Hispanic or Latino,102.0,7134.0,1429.8,1039.0
+2019,West Virginia,54,"Pocahontas County, WV",54075,White,Not Hispanic or Latino,115.0,7842.0,1466.5,900.5
+2019,West Virginia,54,"Preston County, WV",54077,White,Not Hispanic or Latino,353.0,32076.0,1100.5,784.7
+2019,West Virginia,54,"Putnam County, WV",54079,White,Not Hispanic or Latino,647.0,53744.0,1203.9,927.3
+2019,West Virginia,54,"Raleigh County, WV",54081,Black or African American,Not Hispanic or Latino,66.0,5741.0,1149.6,1075.5
+2019,West Virginia,54,"Raleigh County, WV",54081,White,Not Hispanic or Latino,1067.0,64165.0,1662.9,1178.0
+2019,West Virginia,54,"Randolph County, WV",54083,White,Not Hispanic or Latino,379.0,27399.0,1383.3,877.0
+2019,West Virginia,54,"Ritchie County, WV",54085,White,Not Hispanic or Latino,112.0,9298.0,1204.6,784.7
+2019,West Virginia,54,"Roane County, WV",54087,White,Not Hispanic or Latino,193.0,13232.0,1458.6,980.6
+2019,West Virginia,54,"Summers County, WV",54089,White,Not Hispanic or Latino,175.0,11535.0,1517.1,867.2
+2019,West Virginia,54,"Taylor County, WV",54091,White,Not Hispanic or Latino,189.0,16025.0,1179.4,796.0
+2019,West Virginia,54,"Tucker County, WV",54093,White,Not Hispanic or Latino,111.0,6646.0,1670.2,957.6
+2019,West Virginia,54,"Tyler County, WV",54095,White,Not Hispanic or Latino,113.0,8345.0,1354.1,897.7
+2019,West Virginia,54,"Upshur County, WV",54097,White,Not Hispanic or Latino,257.0,23124.0,1111.4,773.1
+2019,West Virginia,54,"Wayne County, WV",54099,White,Not Hispanic or Latino,523.0,38250.0,1367.3,938.2
+2019,West Virginia,54,"Webster County, WV",54101,White,Not Hispanic or Latino,124.0,7879.0,1573.8,1025.1
+2019,West Virginia,54,"Wetzel County, WV",54103,White,Not Hispanic or Latino,219.0,14592.0,1500.8,912.5
+2019,West Virginia,54,"Wirt County, WV",54105,White,Not Hispanic or Latino,56.0,5642.0,992.6,765.4
+2019,West Virginia,54,"Wood County, WV",54107,Black or African American,Not Hispanic or Latino,12.0,1000.0,Unreliable,Unreliable
+2019,West Virginia,54,"Wood County, WV",54107,White,Not Hispanic or Latino,1103.0,79435.0,1388.6,956.0
+2019,West Virginia,54,"Wyoming County, WV",54109,White,Not Hispanic or Latino,290.0,19780.0,1466.1,1065.1
+2020,West Virginia,54,"Barbour County, WV",54001,White,Not Hispanic or Latino,251.0,15684.0,1600.4,1101.4
+2020,West Virginia,54,"Berkeley County, WV",54003,Black or African American,Not Hispanic or Latino,106.0,9336.0,1135.4,1597.3
+2020,West Virginia,54,"Berkeley County, WV",54003,White,Hispanic or Latino,13.0,5180.0,Unreliable,Unreliable
+2020,West Virginia,54,"Berkeley County, WV",54003,White,Not Hispanic or Latino,1234.0,101207.0,1219.3,1080.1
+2020,West Virginia,54,"Boone County, WV",54005,White,Not Hispanic or Latino,352.0,20508.0,1716.4,1288.9
+2020,West Virginia,54,"Braxton County, WV",54007,White,Not Hispanic or Latino,172.0,13239.0,1299.2,793.3
+2020,West Virginia,54,"Brooke County, WV",54009,White,Not Hispanic or Latino,393.0,20689.0,1899.6,1116.0
+2020,West Virginia,54,"Cabell County, WV",54011,Black or African American,Not Hispanic or Latino,68.0,4311.0,1577.4,1530.2
+2020,West Virginia,54,"Cabell County, WV",54011,White,Not Hispanic or Latino,1302.0,82315.0,1581.7,1178.1
+2020,West Virginia,54,"Calhoun County, WV",54013,White,Not Hispanic or Latino,105.0,6738.0,1558.3,922.1
+2020,West Virginia,54,"Clay County, WV",54015,White,Not Hispanic or Latino,142.0,8102.0,1752.7,1236.5
+2020,West Virginia,54,"Doddridge County, WV",54017,White,Not Hispanic or Latino,90.0,7943.0,1133.1,730.4
+2020,West Virginia,54,"Fayette County, WV",54019,Black or African American,Not Hispanic or Latino,26.0,1759.0,1478.1,975.6
+2020,West Virginia,54,"Fayette County, WV",54019,White,Not Hispanic or Latino,666.0,38836.0,1714.9,1177.6
+2020,West Virginia,54,"Gilmer County, WV",54021,White,Not Hispanic or Latino,97.0,6371.0,1522.5,1002.3
+2020,West Virginia,54,"Grant County, WV",54023,White,Not Hispanic or Latino,172.0,11082.0,1552.1,913.1
+2020,West Virginia,54,"Greenbrier County, WV",54025,Black or African American,Not Hispanic or Latino,17.0,901.0,Unreliable,Unreliable
+2020,West Virginia,54,"Greenbrier County, WV",54025,White,Not Hispanic or Latino,537.0,31844.0,1686.3,1085.9
+2020,West Virginia,54,"Hampshire County, WV",54027,White,Not Hispanic or Latino,307.0,22140.0,1386.6,918.0
+2020,West Virginia,54,"Hancock County, WV",54029,Black or African American,Not Hispanic or Latino,11.0,747.0,Unreliable,Unreliable
+2020,West Virginia,54,"Hancock County, WV",54029,White,Not Hispanic or Latino,527.0,26722.0,1972.2,1189.9
+2020,West Virginia,54,"Hardy County, WV",54031,White,Not Hispanic or Latino,199.0,12232.0,1626.9,1145.0
+2020,West Virginia,54,"Harrison County, WV",54033,Black or African American,Not Hispanic or Latino,10.0,1210.0,Unreliable,Unreliable
+2020,West Virginia,54,"Harrison County, WV",54033,White,Not Hispanic or Latino,855.0,62819.0,1361.1,947.6
+2020,West Virginia,54,"Jackson County, WV",54035,White,Not Hispanic or Latino,393.0,27543.0,1426.9,954.5
+2020,West Virginia,54,"Jefferson County, WV",54037,Black or African American,Not Hispanic or Latino,48.0,3571.0,1344.2,1368.2
+2020,West Virginia,54,"Jefferson County, WV",54037,White,Not Hispanic or Latino,553.0,47621.0,1161.3,919.0
+2020,West Virginia,54,"Kanawha County, WV",54039,Black or African American,Not Hispanic or Latino,183.0,13313.0,1374.6,1354.5
+2020,West Virginia,54,"Kanawha County, WV",54039,White,Not Hispanic or Latino,2750.0,154173.0,1783.7,1186.0
+2020,West Virginia,54,"Lewis County, WV",54041,White,Not Hispanic or Latino,265.0,15205.0,1742.8,1199.8
+2020,West Virginia,54,"Lincoln County, WV",54043,White,Not Hispanic or Latino,322.0,19512.0,1650.3,1219.0
+2020,West Virginia,54,"Logan County, WV",54045,Black or African American,Not Hispanic or Latino,15.0,565.0,Unreliable,Unreliable
+2020,West Virginia,54,"Logan County, WV",54045,White,Not Hispanic or Latino,583.0,30374.0,1919.4,1417.8
+2020,West Virginia,54,"McDowell County, WV",54047,Black or African American,Not Hispanic or Latino,43.0,1318.0,3262.5,1825.2
+2020,West Virginia,54,"McDowell County, WV",54047,White,Not Hispanic or Latino,321.0,14995.0,2140.7,1420.9
+2020,West Virginia,54,"Marion County, WV",54049,Black or African American,Not Hispanic or Latino,22.0,1847.0,1191.1,1017.8
+2020,West Virginia,54,"Marion County, WV",54049,White,Not Hispanic or Latino,714.0,51810.0,1378.1,994.5
+2020,West Virginia,54,"Marshall County, WV",54051,White,Not Hispanic or Latino,457.0,29004.0,1575.6,1009.8
+2020,West Virginia,54,"Mason County, WV",54053,White,Not Hispanic or Latino,393.0,25437.0,1545.0,1017.0
+2020,West Virginia,54,"Mercer County, WV",54055,Black or African American,Not Hispanic or Latino,58.0,3531.0,1642.6,1443.5
+2020,West Virginia,54,"Mercer County, WV",54055,White,Not Hispanic or Latino,979.0,52464.0,1866.0,1251.5
+2020,West Virginia,54,"Mineral County, WV",54057,Black or African American,Not Hispanic or Latino,17.0,778.0,Unreliable,Unreliable
+2020,West Virginia,54,"Mineral County, WV",54057,White,Not Hispanic or Latino,386.0,24990.0,1544.6,1037.6
+2020,West Virginia,54,"Mingo County, WV",54059,White,Not Hispanic or Latino,404.0,21976.0,1838.4,1428.4
+2020,West Virginia,54,"Monongalia County, WV",54061,Black or African American,Not Hispanic or Latino,18.0,4053.0,Unreliable,Unreliable
+2020,West Virginia,54,"Monongalia County, WV",54061,White,Not Hispanic or Latino,787.0,93985.0,837.4,818.2
+2020,West Virginia,54,"Monroe County, WV",54063,White,Not Hispanic or Latino,216.0,12682.0,1703.2,1049.7
+2020,West Virginia,54,"Morgan County, WV",54065,White,Not Hispanic or Latino,242.0,16938.0,1428.7,946.5
+2020,West Virginia,54,"Nicholas County, WV",54067,White,Not Hispanic or Latino,353.0,23506.0,1501.7,974.0
+2020,West Virginia,54,"Ohio County, WV",54069,Black or African American,Not Hispanic or Latino,31.0,1434.0,2161.8,1984.9
+2020,West Virginia,54,"Ohio County, WV",54069,White,Not Hispanic or Latino,661.0,37861.0,1745.9,1089.8
+2020,West Virginia,54,"Pendleton County, WV",54071,White,Not Hispanic or Latino,123.0,6570.0,1872.1,955.6
+2020,West Virginia,54,"Pleasants County, WV",54073,White,Not Hispanic or Latino,101.0,7094.0,1423.7,1025.9
+2020,West Virginia,54,"Pocahontas County, WV",54075,White,Not Hispanic or Latino,120.0,7766.0,1545.2,943.0
+2020,West Virginia,54,"Preston County, WV",54077,White,Not Hispanic or Latino,432.0,32026.0,1348.9,963.9
+2020,West Virginia,54,"Putnam County, WV",54079,White,Not Hispanic or Latino,686.0,53652.0,1278.6,971.8
+2020,West Virginia,54,"Raleigh County, WV",54081,Black or African American,Not Hispanic or Latino,63.0,5755.0,1094.7,933.1
+2020,West Virginia,54,"Raleigh County, WV",54081,White,Not Hispanic or Latino,1145.0,63658.0,1798.7,1243.2
+2020,West Virginia,54,"Randolph County, WV",54083,White,Not Hispanic or Latino,391.0,27099.0,1442.9,910.4
+2020,West Virginia,54,"Ritchie County, WV",54085,White,Not Hispanic or Latino,135.0,9228.0,1462.9,966.1
+2020,West Virginia,54,"Roane County, WV",54087,White,Not Hispanic or Latino,205.0,13006.0,1576.2,1058.6
+2020,West Virginia,54,"Summers County, WV",54089,White,Not Hispanic or Latino,216.0,11436.0,1888.8,1138.3
+2020,West Virginia,54,"Taylor County, WV",54091,White,Not Hispanic or Latino,252.0,16007.0,1574.3,1101.1
+2020,West Virginia,54,"Tucker County, WV",54093,White,Not Hispanic or Latino,125.0,6634.0,1884.2,1013.4
+2020,West Virginia,54,"Tyler County, WV",54095,White,Not Hispanic or Latino,98.0,8256.0,1187.0,723.3
+2020,West Virginia,54,"Upshur County, WV",54097,White,Not Hispanic or Latino,303.0,23135.0,1309.7,905.0
+2020,West Virginia,54,"Wayne County, WV",54099,White,Not Hispanic or Latino,627.0,37879.0,1655.3,1164.1
+2020,West Virginia,54,"Webster County, WV",54101,White,Not Hispanic or Latino,119.0,7828.0,1520.2,1029.4
+2020,West Virginia,54,"Wetzel County, WV",54103,White,Not Hispanic or Latino,234.0,14437.0,1620.8,1015.4
+2020,West Virginia,54,"Wirt County, WV",54105,White,Not Hispanic or Latino,69.0,5519.0,1250.2,921.5
+2020,West Virginia,54,"Wood County, WV",54107,White,Not Hispanic or Latino,1187.0,78825.0,1505.9,1022.1
+2020,West Virginia,54,"Wyoming County, WV",54109,White,Not Hispanic or Latino,375.0,19509.0,1922.2,1400.1
+2021 (provisional),West Virginia,54,"Barbour County, WV",54001,White,Not Hispanic or Latino,250.0,15684.0,1594.0,1139.9
+2021 (provisional),West Virginia,54,"Berkeley County, WV",54003,Black or African American,Not Hispanic or Latino,89.0,9336.0,953.3,1425.1
+2021 (provisional),West Virginia,54,"Berkeley County, WV",54003,White,Hispanic or Latino,18.0,5180.0,Unreliable,Unreliable
+2021 (provisional),West Virginia,54,"Berkeley County, WV",54003,White,Not Hispanic or Latino,1325.0,101207.0,1309.2,1139.5
+2021 (provisional),West Virginia,54,"Boone County, WV",54005,White,Not Hispanic or Latino,375.0,20508.0,1828.6,1358.9
+2021 (provisional),West Virginia,54,"Braxton County, WV",54007,White,Not Hispanic or Latino,197.0,13239.0,1488.0,988.8
+2021 (provisional),West Virginia,54,"Brooke County, WV",54009,White,Not Hispanic or Latino,411.0,20689.0,1986.6,1211.4
+2021 (provisional),West Virginia,54,"Cabell County, WV",54011,Black or African American,Not Hispanic or Latino,71.0,4311.0,1646.9,1565.6
+2021 (provisional),West Virginia,54,"Cabell County, WV",54011,White,Not Hispanic or Latino,1403.0,82315.0,1704.4,1263.9
+2021 (provisional),West Virginia,54,"Calhoun County, WV",54013,White,Not Hispanic or Latino,115.0,6738.0,1706.7,1088.6
+2021 (provisional),West Virginia,54,"Clay County, WV",54015,White,Not Hispanic or Latino,142.0,8102.0,1752.7,1183.2
+2021 (provisional),West Virginia,54,"Doddridge County, WV",54017,White,Not Hispanic or Latino,92.0,7943.0,1158.3,768.6
+2021 (provisional),West Virginia,54,"Fayette County, WV",54019,Black or African American,Not Hispanic or Latino,41.0,1759.0,2330.9,1379.9
+2021 (provisional),West Virginia,54,"Fayette County, WV",54019,White,Not Hispanic or Latino,708.0,38836.0,1823.1,1218.6
+2021 (provisional),West Virginia,54,"Gilmer County, WV",54021,White,Not Hispanic or Latino,84.0,6371.0,1318.5,857.1
+2021 (provisional),West Virginia,54,"Grant County, WV",54023,White,Not Hispanic or Latino,167.0,11082.0,1506.9,868.1
+2021 (provisional),West Virginia,54,"Greenbrier County, WV",54025,Black or African American,Not Hispanic or Latino,10.0,901.0,Unreliable,Unreliable
+2021 (provisional),West Virginia,54,"Greenbrier County, WV",54025,White,Not Hispanic or Latino,591.0,31844.0,1855.9,1156.0
+2021 (provisional),West Virginia,54,"Hampshire County, WV",54027,White,Not Hispanic or Latino,334.0,22140.0,1508.6,930.5
+2021 (provisional),West Virginia,54,"Hancock County, WV",54029,White,Not Hispanic or Latino,492.0,26722.0,1841.2,1104.9
+2021 (provisional),West Virginia,54,"Hardy County, WV",54031,White,Not Hispanic or Latino,196.0,12232.0,1602.4,1125.7
+2021 (provisional),West Virginia,54,"Harrison County, WV",54033,Black or African American,Not Hispanic or Latino,14.0,1210.0,Unreliable,Unreliable
+2021 (provisional),West Virginia,54,"Harrison County, WV",54033,White,Not Hispanic or Latino,1024.0,62819.0,1630.1,1134.4
+2021 (provisional),West Virginia,54,"Jackson County, WV",54035,White,Not Hispanic or Latino,435.0,27543.0,1579.3,1066.3
+2021 (provisional),West Virginia,54,"Jefferson County, WV",54037,Black or African American,Not Hispanic or Latino,38.0,3571.0,1064.1,1077.2
+2021 (provisional),West Virginia,54,"Jefferson County, WV",54037,White,Not Hispanic or Latino,525.0,47621.0,1102.5,870.0
+2021 (provisional),West Virginia,54,"Kanawha County, WV",54039,Asian,Not Hispanic or Latino,10.0,1876.0,Unreliable,Unreliable
+2021 (provisional),West Virginia,54,"Kanawha County, WV",54039,Black or African American,Not Hispanic or Latino,209.0,13313.0,1569.9,1498.9
+2021 (provisional),West Virginia,54,"Kanawha County, WV",54039,White,Not Hispanic or Latino,2733.0,154173.0,1772.7,1176.2
+2021 (provisional),West Virginia,54,"Lewis County, WV",54041,White,Not Hispanic or Latino,330.0,15205.0,2170.3,1567.0
+2021 (provisional),West Virginia,54,"Lincoln County, WV",54043,White,Not Hispanic or Latino,362.0,19512.0,1855.3,1359.2
+2021 (provisional),West Virginia,54,"Logan County, WV",54045,Black or African American,Not Hispanic or Latino,14.0,565.0,Unreliable,Unreliable
+2021 (provisional),West Virginia,54,"Logan County, WV",54045,White,Not Hispanic or Latino,653.0,30374.0,2149.9,1604.1
+2021 (provisional),West Virginia,54,"McDowell County, WV",54047,Black or African American,Not Hispanic or Latino,35.0,1318.0,2655.5,1704.9
+2021 (provisional),West Virginia,54,"McDowell County, WV",54047,White,Not Hispanic or Latino,349.0,14995.0,2327.4,1599.1
+2021 (provisional),West Virginia,54,"Marion County, WV",54049,Black or African American,Not Hispanic or Latino,28.0,1847.0,1516.0,1582.4
+2021 (provisional),West Virginia,54,"Marion County, WV",54049,White,Not Hispanic or Latino,811.0,51810.0,1565.3,1115.0
+2021 (provisional),West Virginia,54,"Marshall County, WV",54051,White,Not Hispanic or Latino,479.0,29004.0,1651.5,1065.7
+2021 (provisional),West Virginia,54,"Mason County, WV",54053,White,Not Hispanic or Latino,462.0,25437.0,1816.3,1247.2
+2021 (provisional),West Virginia,54,"Mercer County, WV",54055,Black or African American,Not Hispanic or Latino,65.0,3531.0,1840.8,1679.3
+2021 (provisional),West Virginia,54,"Mercer County, WV",54055,White,Not Hispanic or Latino,1033.0,52464.0,1969.0,1331.4
+2021 (provisional),West Virginia,54,"Mineral County, WV",54057,Black or African American,Not Hispanic or Latino,13.0,778.0,Unreliable,Unreliable
+2021 (provisional),West Virginia,54,"Mineral County, WV",54057,White,Not Hispanic or Latino,386.0,24990.0,1544.6,1010.4
+2021 (provisional),West Virginia,54,"Mingo County, WV",54059,White,Not Hispanic or Latino,464.0,21976.0,2111.4,1644.9
+2021 (provisional),West Virginia,54,"Monongalia County, WV",54061,Black or African American,Not Hispanic or Latino,20.0,4053.0,493.5,765.3
+2021 (provisional),West Virginia,54,"Monongalia County, WV",54061,White,Not Hispanic or Latino,765.0,93985.0,814.0,785.9
+2021 (provisional),West Virginia,54,"Monroe County, WV",54063,White,Not Hispanic or Latino,218.0,12682.0,1719.0,1116.4
+2021 (provisional),West Virginia,54,"Morgan County, WV",54065,White,Not Hispanic or Latino,263.0,16938.0,1552.7,1004.4
+2021 (provisional),West Virginia,54,"Nicholas County, WV",54067,White,Not Hispanic or Latino,413.0,23506.0,1757.0,1170.1
+2021 (provisional),West Virginia,54,"Ohio County, WV",54069,Black or African American,Not Hispanic or Latino,16.0,1434.0,Unreliable,Unreliable
+2021 (provisional),West Virginia,54,"Ohio County, WV",54069,White,Not Hispanic or Latino,668.0,37861.0,1764.3,1078.7
+2021 (provisional),West Virginia,54,"Pendleton County, WV",54071,White,Not Hispanic or Latino,106.0,6570.0,1613.4,856.8
+2021 (provisional),West Virginia,54,"Pleasants County, WV",54073,White,Not Hispanic or Latino,118.0,7094.0,1663.4,1198.0
+2021 (provisional),West Virginia,54,"Pocahontas County, WV",54075,White,Not Hispanic or Latino,131.0,7766.0,1686.8,1021.1
+2021 (provisional),West Virginia,54,"Preston County, WV",54077,White,Not Hispanic or Latino,453.0,32026.0,1414.5,999.1
+2021 (provisional),West Virginia,54,"Putnam County, WV",54079,White,Not Hispanic or Latino,695.0,53652.0,1295.4,960.8
+2021 (provisional),West Virginia,54,"Raleigh County, WV",54081,Black or African American,Not Hispanic or Latino,94.0,5755.0,1633.4,1537.9
+2021 (provisional),West Virginia,54,"Raleigh County, WV",54081,White,Not Hispanic or Latino,1190.0,63658.0,1869.4,1289.3
+2021 (provisional),West Virginia,54,"Randolph County, WV",54083,White,Not Hispanic or Latino,444.0,27099.0,1638.4,1032.4
+2021 (provisional),West Virginia,54,"Ritchie County, WV",54085,White,Not Hispanic or Latino,135.0,9228.0,1462.9,919.6
+2021 (provisional),West Virginia,54,"Roane County, WV",54087,White,Not Hispanic or Latino,221.0,13006.0,1699.2,1109.1
+2021 (provisional),West Virginia,54,"Summers County, WV",54089,White,Not Hispanic or Latino,244.0,11436.0,2133.6,1296.6
+2021 (provisional),West Virginia,54,"Taylor County, WV",54091,White,Not Hispanic or Latino,248.0,16007.0,1549.3,1040.9
+2021 (provisional),West Virginia,54,"Tucker County, WV",54093,White,Not Hispanic or Latino,111.0,6634.0,1673.2,889.1
+2021 (provisional),West Virginia,54,"Tyler County, WV",54095,White,Not Hispanic or Latino,137.0,8256.0,1659.4,1056.5
+2021 (provisional),West Virginia,54,"Upshur County, WV",54097,White,Not Hispanic or Latino,330.0,23135.0,1426.4,995.1
+2021 (provisional),West Virginia,54,"Wayne County, WV",54099,White,Not Hispanic or Latino,671.0,37879.0,1771.4,1236.0
+2021 (provisional),West Virginia,54,"Webster County, WV",54101,White,Not Hispanic or Latino,144.0,7828.0,1839.6,1196.8
+2021 (provisional),West Virginia,54,"Wetzel County, WV",54103,White,Not Hispanic or Latino,299.0,14437.0,2071.1,1353.9
+2021 (provisional),West Virginia,54,"Wirt County, WV",54105,White,Not Hispanic or Latino,83.0,5519.0,1503.9,990.3
+2021 (provisional),West Virginia,54,"Wood County, WV",54107,Black or African American,Not Hispanic or Latino,21.0,982.0,2138.5,2020.1
+2021 (provisional),West Virginia,54,"Wood County, WV",54107,White,Not Hispanic or Latino,1264.0,78825.0,1603.6,1094.9
+2021 (provisional),West Virginia,54,"Wyoming County, WV",54109,White,Not Hispanic or Latino,383.0,19509.0,1963.2,1401.8
+2022 (provisional and partial),West Virginia,54,"Barbour County, WV",54001,White,Not Hispanic or Latino,21.0,15684.0,133.9,87.0
+2022 (provisional and partial),West Virginia,54,"Berkeley County, WV",54003,White,Not Hispanic or Latino,140.0,101207.0,138.3,117.9
+2022 (provisional and partial),West Virginia,54,"Boone County, WV",54005,White,Not Hispanic or Latino,45.0,20508.0,219.4,152.4
+2022 (provisional and partial),West Virginia,54,"Braxton County, WV",54007,White,Not Hispanic or Latino,13.0,13239.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Brooke County, WV",54009,White,Not Hispanic or Latino,49.0,20689.0,236.8,141.9
+2022 (provisional and partial),West Virginia,54,"Cabell County, WV",54011,White,Not Hispanic or Latino,110.0,82315.0,133.6,100.4
+2022 (provisional and partial),West Virginia,54,"Clay County, WV",54015,White,Not Hispanic or Latino,15.0,8102.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Fayette County, WV",54019,White,Not Hispanic or Latino,55.0,38836.0,141.6,100.1
+2022 (provisional and partial),West Virginia,54,"Gilmer County, WV",54021,White,Not Hispanic or Latino,10.0,6371.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Grant County, WV",54023,White,Not Hispanic or Latino,14.0,11082.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Greenbrier County, WV",54025,White,Not Hispanic or Latino,81.0,31844.0,254.4,157.2
+2022 (provisional and partial),West Virginia,54,"Hampshire County, WV",54027,White,Not Hispanic or Latino,37.0,22140.0,167.1,114.1
+2022 (provisional and partial),West Virginia,54,"Hancock County, WV",54029,White,Not Hispanic or Latino,49.0,26722.0,183.4,112.3
+2022 (provisional and partial),West Virginia,54,"Hardy County, WV",54031,White,Not Hispanic or Latino,21.0,12232.0,171.7,116.3
+2022 (provisional and partial),West Virginia,54,"Harrison County, WV",54033,White,Not Hispanic or Latino,61.0,62819.0,97.1,73.7
+2022 (provisional and partial),West Virginia,54,"Jackson County, WV",54035,White,Not Hispanic or Latino,54.0,27543.0,196.1,131.1
+2022 (provisional and partial),West Virginia,54,"Jefferson County, WV",54037,White,Not Hispanic or Latino,56.0,47621.0,117.6,93.3
+2022 (provisional and partial),West Virginia,54,"Kanawha County, WV",54039,Black or African American,Not Hispanic or Latino,12.0,13313.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Kanawha County, WV",54039,White,Not Hispanic or Latino,262.0,154173.0,169.9,117.6
+2022 (provisional and partial),West Virginia,54,"Lewis County, WV",54041,White,Not Hispanic or Latino,26.0,15205.0,171.0,117.6
+2022 (provisional and partial),West Virginia,54,"Lincoln County, WV",54043,White,Not Hispanic or Latino,23.0,19512.0,117.9,76.0
+2022 (provisional and partial),West Virginia,54,"Logan County, WV",54045,White,Not Hispanic or Latino,57.0,30374.0,187.7,130.6
+2022 (provisional and partial),West Virginia,54,"McDowell County, WV",54047,White,Not Hispanic or Latino,22.0,14995.0,146.7,96.5
+2022 (provisional and partial),West Virginia,54,"Marion County, WV",54049,White,Not Hispanic or Latino,38.0,51810.0,73.3,50.7
+2022 (provisional and partial),West Virginia,54,"Marshall County, WV",54051,White,Not Hispanic or Latino,31.0,29004.0,106.9,74.4
+2022 (provisional and partial),West Virginia,54,"Mason County, WV",54053,White,Not Hispanic or Latino,31.0,25437.0,121.9,80.9
+2022 (provisional and partial),West Virginia,54,"Mercer County, WV",54055,White,Not Hispanic or Latino,98.0,52464.0,186.8,127.5
+2022 (provisional and partial),West Virginia,54,"Mineral County, WV",54057,White,Not Hispanic or Latino,60.0,24990.0,240.1,150.9
+2022 (provisional and partial),West Virginia,54,"Mingo County, WV",54059,White,Not Hispanic or Latino,52.0,21976.0,236.6,180.8
+2022 (provisional and partial),West Virginia,54,"Monongalia County, WV",54061,White,Not Hispanic or Latino,72.0,93985.0,76.6,74.3
+2022 (provisional and partial),West Virginia,54,"Monroe County, WV",54063,White,Not Hispanic or Latino,20.0,12682.0,157.7,112.0
+2022 (provisional and partial),West Virginia,54,"Morgan County, WV",54065,White,Not Hispanic or Latino,40.0,16938.0,236.2,140.4
+2022 (provisional and partial),West Virginia,54,"Nicholas County, WV",54067,White,Not Hispanic or Latino,35.0,23506.0,148.9,94.8
+2022 (provisional and partial),West Virginia,54,"Ohio County, WV",54069,White,Not Hispanic or Latino,54.0,37861.0,142.6,96.0
+2022 (provisional and partial),West Virginia,54,"Pleasants County, WV",54073,White,Not Hispanic or Latino,16.0,7094.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Pocahontas County, WV",54075,White,Not Hispanic or Latino,15.0,7766.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Preston County, WV",54077,White,Not Hispanic or Latino,31.0,32026.0,96.8,72.0
+2022 (provisional and partial),West Virginia,54,"Putnam County, WV",54079,White,Not Hispanic or Latino,67.0,53652.0,124.9,92.1
+2022 (provisional and partial),West Virginia,54,"Raleigh County, WV",54081,White,Not Hispanic or Latino,99.0,63658.0,155.5,106.2
+2022 (provisional and partial),West Virginia,54,"Randolph County, WV",54083,White,Not Hispanic or Latino,22.0,27099.0,81.2,51.4
+2022 (provisional and partial),West Virginia,54,"Ritchie County, WV",54085,White,Not Hispanic or Latino,12.0,9228.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Roane County, WV",54087,White,Not Hispanic or Latino,26.0,13006.0,199.9,122.3
+2022 (provisional and partial),West Virginia,54,"Summers County, WV",54089,White,Not Hispanic or Latino,26.0,11436.0,227.4,139.7
+2022 (provisional and partial),West Virginia,54,"Taylor County, WV",54091,White,Not Hispanic or Latino,12.0,16007.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Tyler County, WV",54095,White,Not Hispanic or Latino,19.0,8256.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Upshur County, WV",54097,White,Not Hispanic or Latino,24.0,23135.0,103.7,67.8
+2022 (provisional and partial),West Virginia,54,"Wayne County, WV",54099,White,Not Hispanic or Latino,50.0,37879.0,132.0,90.6
+2022 (provisional and partial),West Virginia,54,"Wetzel County, WV",54103,White,Not Hispanic or Latino,29.0,14437.0,200.9,125.2
+2022 (provisional and partial),West Virginia,54,"Wirt County, WV",54105,White,Not Hispanic or Latino,10.0,5519.0,Unreliable,Unreliable
+2022 (provisional and partial),West Virginia,54,"Wood County, WV",54107,White,Not Hispanic or Latino,130.0,78825.0,164.9,112.6
+2022 (provisional and partial),West Virginia,54,"Wyoming County, WV",54109,White,Not Hispanic or Latino,29.0,19509.0,148.6,91.6

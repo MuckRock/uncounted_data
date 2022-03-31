@@ -1,0 +1,110 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,New Jersey,"Atlantic County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,265429.0,Unreliable
+2018,New Jersey,"Atlantic County, NJ",Nontransport accidents,Unspecified fall,W19,21.0,265429.0,7.9
+2018,New Jersey,"Atlantic County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,108.0,265429.0,40.7
+2018,New Jersey,"Atlantic County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,265429.0,12.4
+2018,New Jersey,"Bergen County, NJ",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,936692.0,Unreliable
+2018,New Jersey,"Bergen County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,936692.0,Unreliable
+2018,New Jersey,"Bergen County, NJ",Nontransport accidents,Other fall on same level,W18,17.0,936692.0,Unreliable
+2018,New Jersey,"Bergen County, NJ",Nontransport accidents,Unspecified fall,W19,23.0,936692.0,2.5
+2018,New Jersey,"Bergen County, NJ",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,15.0,936692.0,Unreliable
+2018,New Jersey,"Bergen County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,69.0,936692.0,7.4
+2018,New Jersey,"Bergen County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,68.0,936692.0,7.3
+2018,New Jersey,"Bergen County, NJ",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,18.0,936692.0,Unreliable
+2018,New Jersey,"Bergen County, NJ",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,16.0,936692.0,Unreliable
+2018,New Jersey,"Bergen County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,36.0,936692.0,3.8
+2018,New Jersey,"Bergen County, NJ",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,936692.0,Unreliable
+2018,New Jersey,"Burlington County, NJ",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,445384.0,Unreliable
+2018,New Jersey,"Burlington County, NJ",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,445384.0,Unreliable
+2018,New Jersey,"Burlington County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,128.0,445384.0,28.7
+2018,New Jersey,"Burlington County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,44.0,445384.0,9.9
+2018,New Jersey,"Burlington County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,445384.0,Unreliable
+2018,New Jersey,"Burlington County, NJ",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,445384.0,Unreliable
+2018,New Jersey,"Camden County, NJ",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,15.0,507078.0,Unreliable
+2018,New Jersey,"Camden County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,507078.0,Unreliable
+2018,New Jersey,"Camden County, NJ",Nontransport accidents,Unspecified fall,W19,17.0,507078.0,Unreliable
+2018,New Jersey,"Camden County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,207.0,507078.0,40.8
+2018,New Jersey,"Camden County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,74.0,507078.0,14.6
+2018,New Jersey,"Camden County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,29.0,507078.0,5.7
+2018,New Jersey,"Camden County, NJ",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,507078.0,Unreliable
+2018,New Jersey,"Camden County, NJ",Assault (homicide),Assault by other and unspecified firearm discharge,X95,27.0,507078.0,5.3
+2018,New Jersey,"Cape May County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,36.0,92560.0,38.9
+2018,New Jersey,"Cape May County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,92560.0,Unreliable
+2018,New Jersey,"Cumberland County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,79.0,150972.0,52.3
+2018,New Jersey,"Cumberland County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,150972.0,13.2
+2018,New Jersey,"Cumberland County, NJ",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,150972.0,Unreliable
+2018,New Jersey,"Essex County, NJ",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,16.0,799767.0,Unreliable
+2018,New Jersey,"Essex County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,799767.0,Unreliable
+2018,New Jersey,"Essex County, NJ",Nontransport accidents,Unspecified fall,W19,21.0,799767.0,2.6
+2018,New Jersey,"Essex County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,219.0,799767.0,27.4
+2018,New Jersey,"Essex County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,46.0,799767.0,5.8
+2018,New Jersey,"Essex County, NJ",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,12.0,799767.0,Unreliable
+2018,New Jersey,"Essex County, NJ",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,13.0,799767.0,Unreliable
+2018,New Jersey,"Essex County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,799767.0,2.8
+2018,New Jersey,"Essex County, NJ",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,799767.0,Unreliable
+2018,New Jersey,"Essex County, NJ",Assault (homicide),Assault by other and unspecified firearm discharge,X95,75.0,799767.0,9.4
+2018,New Jersey,"Gloucester County, NJ",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,291408.0,Unreliable
+2018,New Jersey,"Gloucester County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,104.0,291408.0,35.7
+2018,New Jersey,"Gloucester County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,47.0,291408.0,16.1
+2018,New Jersey,"Gloucester County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,291408.0,Unreliable
+2018,New Jersey,"Hudson County, NJ",Nontransport accidents,Unspecified fall,W19,15.0,676061.0,Unreliable
+2018,New Jersey,"Hudson County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,103.0,676061.0,15.2
+2018,New Jersey,"Hudson County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,41.0,676061.0,6.1
+2018,New Jersey,"Hudson County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,30.0,676061.0,4.4
+2018,New Jersey,"Hudson County, NJ",Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,676061.0,Unreliable
+2018,New Jersey,"Mercer County, NJ",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,369811.0,Unreliable
+2018,New Jersey,"Mercer County, NJ",Nontransport accidents,Unspecified fall,W19,18.0,369811.0,Unreliable
+2018,New Jersey,"Mercer County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,79.0,369811.0,21.4
+2018,New Jersey,"Mercer County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,44.0,369811.0,11.9
+2018,New Jersey,"Mercer County, NJ",Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,369811.0,Unreliable
+2018,New Jersey,"Middlesex County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,829685.0,Unreliable
+2018,New Jersey,"Middlesex County, NJ",Nontransport accidents,Unspecified fall,W19,32.0,829685.0,3.9
+2018,New Jersey,"Middlesex County, NJ",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,13.0,829685.0,Unreliable
+2018,New Jersey,"Middlesex County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,125.0,829685.0,15.1
+2018,New Jersey,"Middlesex County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,56.0,829685.0,6.7
+2018,New Jersey,"Middlesex County, NJ",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,11.0,829685.0,Unreliable
+2018,New Jersey,"Middlesex County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,33.0,829685.0,4.0
+2018,New Jersey,"Middlesex County, NJ",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,829685.0,Unreliable
+2018,New Jersey,"Middlesex County, NJ",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,829685.0,Unreliable
+2018,New Jersey,"Monmouth County, NJ",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,621354.0,Unreliable
+2018,New Jersey,"Monmouth County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,621354.0,Unreliable
+2018,New Jersey,"Monmouth County, NJ",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,621354.0,Unreliable
+2018,New Jersey,"Monmouth County, NJ",Nontransport accidents,Unspecified fall,W19,20.0,621354.0,3.2
+2018,New Jersey,"Monmouth County, NJ",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,621354.0,Unreliable
+2018,New Jersey,"Monmouth County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,138.0,621354.0,22.2
+2018,New Jersey,"Monmouth County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,72.0,621354.0,11.6
+2018,New Jersey,"Monmouth County, NJ",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,12.0,621354.0,Unreliable
+2018,New Jersey,"Monmouth County, NJ",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,12.0,621354.0,Unreliable
+2018,New Jersey,"Monmouth County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,29.0,621354.0,4.7
+2018,New Jersey,"Morris County, NJ",Nontransport accidents,Other fall on same level,W18,10.0,494228.0,Unreliable
+2018,New Jersey,"Morris County, NJ",Nontransport accidents,Unspecified fall,W19,15.0,494228.0,Unreliable
+2018,New Jersey,"Morris County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,56.0,494228.0,11.3
+2018,New Jersey,"Morris County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30.0,494228.0,6.1
+2018,New Jersey,"Morris County, NJ",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,12.0,494228.0,Unreliable
+2018,New Jersey,"Morris County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,20.0,494228.0,4.0
+2018,New Jersey,"Ocean County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,601651.0,Unreliable
+2018,New Jersey,"Ocean County, NJ",Nontransport accidents,Other fall on same level,W18,11.0,601651.0,Unreliable
+2018,New Jersey,"Ocean County, NJ",Nontransport accidents,Unspecified fall,W19,41.0,601651.0,6.8
+2018,New Jersey,"Ocean County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,156.0,601651.0,25.9
+2018,New Jersey,"Ocean County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,72.0,601651.0,12.0
+2018,New Jersey,"Ocean County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,26.0,601651.0,4.3
+2018,New Jersey,"Ocean County, NJ",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,601651.0,Unreliable
+2018,New Jersey,"Passaic County, NJ",Nontransport accidents,Unspecified fall,W19,17.0,503310.0,Unreliable
+2018,New Jersey,"Passaic County, NJ",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,12.0,503310.0,Unreliable
+2018,New Jersey,"Passaic County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,113.0,503310.0,22.5
+2018,New Jersey,"Passaic County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,503310.0,5.2
+2018,New Jersey,"Passaic County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,503310.0,Unreliable
+2018,New Jersey,"Salem County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33.0,62607.0,52.7
+2018,New Jersey,"Salem County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,62607.0,Unreliable
+2018,New Jersey,"Somerset County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,40.0,331164.0,12.1
+2018,New Jersey,"Somerset County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,331164.0,Unreliable
+2018,New Jersey,"Sussex County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,140799.0,Unreliable
+2018,New Jersey,"Sussex County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,140799.0,16.3
+2018,New Jersey,"Union County, NJ",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,558067.0,Unreliable
+2018,New Jersey,"Union County, NJ",Nontransport accidents,Unspecified fall,W19,18.0,558067.0,Unreliable
+2018,New Jersey,"Union County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,97.0,558067.0,17.4
+2018,New Jersey,"Union County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,39.0,558067.0,7.0
+2018,New Jersey,"Union County, NJ",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,11.0,558067.0,Unreliable
+2018,New Jersey,"Union County, NJ",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,558067.0,Unreliable
+2018,New Jersey,"Warren County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,105779.0,19.9
+2018,New Jersey,"Warren County, NJ",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,105779.0,Unreliable

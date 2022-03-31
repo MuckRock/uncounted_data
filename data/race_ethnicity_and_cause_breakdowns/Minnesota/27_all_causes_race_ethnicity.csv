@@ -1,0 +1,633 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Minnesota,27,"Aitkin County, MN",27001,White,Not Hispanic or Latino,195.0,14922.0,1306.8,659.2
+2018,Minnesota,27,"Anoka County, MN",27003,American Indian or Alaska Native,Not Hispanic or Latino,19.0,2222.0,Unreliable,Unreliable
+2018,Minnesota,27,"Anoka County, MN",27003,Asian,Not Hispanic or Latino,41.0,16778.0,244.4,408.3
+2018,Minnesota,27,"Anoka County, MN",27003,Black or African American,Not Hispanic or Latino,55.0,23619.0,232.9,636.2
+2018,Minnesota,27,"Anoka County, MN",27003,White,Hispanic or Latino,24.0,13977.0,171.7,362.9
+2018,Minnesota,27,"Anoka County, MN",27003,White,Not Hispanic or Latino,2084.0,285107.0,731.0,616.8
+2018,Minnesota,27,"Anoka County, MN",27003,More than one race,Not Hispanic or Latino,16.0,9157.0,Unreliable,Unreliable
+2018,Minnesota,27,"Becker County, MN",27005,American Indian or Alaska Native,Not Hispanic or Latino,30.0,2552.0,1175.5,1592.6
+2018,Minnesota,27,"Becker County, MN",27005,White,Not Hispanic or Latino,320.0,29596.0,1081.2,694.6
+2018,Minnesota,27,"Beltrami County, MN",27007,American Indian or Alaska Native,Not Hispanic or Latino,84.0,9851.0,852.7,1216.1
+2018,Minnesota,27,"Beltrami County, MN",27007,White,Not Hispanic or Latino,332.0,33721.0,984.5,657.3
+2018,Minnesota,27,"Benton County, MN",27009,White,Not Hispanic or Latino,379.0,36266.0,1045.1,828.9
+2018,Minnesota,27,"Big Stone County, MN",27011,White,Not Hispanic or Latino,76.0,4767.0,1594.3,686.0
+2018,Minnesota,27,"Blue Earth County, MN",27013,White,Not Hispanic or Latino,501.0,58993.0,849.3,684.7
+2018,Minnesota,27,"Brown County, MN",27015,White,Not Hispanic or Latino,291.0,23394.0,1243.9,682.8
+2018,Minnesota,27,"Carlton County, MN",27017,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2004.0,Unreliable,Unreliable
+2018,Minnesota,27,"Carlton County, MN",27017,White,Not Hispanic or Latino,368.0,31555.0,1166.2,811.5
+2018,Minnesota,27,"Carver County, MN",27019,White,Not Hispanic or Latino,526.0,91765.0,573.2,551.6
+2018,Minnesota,27,"Cass County, MN",27021,American Indian or Alaska Native,Not Hispanic or Latino,48.0,3453.0,1390.1,1798.0
+2018,Minnesota,27,"Cass County, MN",27021,White,Not Hispanic or Latino,287.0,24449.0,1173.9,617.9
+2018,Minnesota,27,"Chippewa County, MN",27023,White,Not Hispanic or Latino,163.0,10330.0,1577.9,803.1
+2018,Minnesota,27,"Chisago County, MN",27025,White,Not Hispanic or Latino,434.0,52039.0,834.0,697.5
+2018,Minnesota,27,"Clay County, MN",27027,White,Not Hispanic or Latino,456.0,55365.0,823.6,656.8
+2018,Minnesota,27,"Clearwater County, MN",27029,White,Not Hispanic or Latino,76.0,7428.0,1023.2,618.7
+2018,Minnesota,27,"Cook County, MN",27031,White,Not Hispanic or Latino,42.0,4583.0,916.4,465.7
+2018,Minnesota,27,"Cottonwood County, MN",27033,White,Not Hispanic or Latino,133.0,9618.0,1382.8,680.8
+2018,Minnesota,27,"Crow Wing County, MN",27035,White,Not Hispanic or Latino,712.0,61547.0,1156.8,718.7
+2018,Minnesota,27,"Dakota County, MN",27037,Asian,Not Hispanic or Latino,52.0,21738.0,239.2,471.9
+2018,Minnesota,27,"Dakota County, MN",27037,Black or African American,Not Hispanic or Latino,79.0,28761.0,274.7,644.2
+2018,Minnesota,27,"Dakota County, MN",27037,White,Hispanic or Latino,49.0,27084.0,180.9,422.0
+2018,Minnesota,27,"Dakota County, MN",27037,White,Not Hispanic or Latino,2484.0,330693.0,751.1,588.7
+2018,Minnesota,27,"Dodge County, MN",27039,White,Not Hispanic or Latino,163.0,19136.0,851.8,698.0
+2018,Minnesota,27,"Douglas County, MN",27041,White,Not Hispanic or Latino,438.0,36405.0,1203.1,669.0
+2018,Minnesota,27,"Faribault County, MN",27043,White,Not Hispanic or Latino,179.0,12435.0,1439.5,746.2
+2018,Minnesota,27,"Fillmore County, MN",27045,White,Not Hispanic or Latino,254.0,20242.0,1254.8,713.3
+2018,Minnesota,27,"Freeborn County, MN",27047,White,Not Hispanic or Latino,362.0,25759.0,1405.3,723.4
+2018,Minnesota,27,"Goodhue County, MN",27049,White,Not Hispanic or Latino,475.0,42584.0,1115.4,695.7
+2018,Minnesota,27,"Grant County, MN",27051,White,Not Hispanic or Latino,68.0,5712.0,1190.5,641.6
+2018,Minnesota,27,"Hennepin County, MN",27053,American Indian or Alaska Native,Not Hispanic or Latino,101.0,8622.0,1171.4,1940.3
+2018,Minnesota,27,"Hennepin County, MN",27053,Asian,Not Hispanic or Latino,227.0,94088.0,241.3,433.9
+2018,Minnesota,27,"Hennepin County, MN",27053,Black or African American,Not Hispanic or Latino,858.0,167695.0,511.6,816.7
+2018,Minnesota,27,"Hennepin County, MN",27053,White,Hispanic or Latino,105.0,72485.0,144.9,421.8
+2018,Minnesota,27,"Hennepin County, MN",27053,White,Not Hispanic or Latino,7426.0,864551.0,858.9,603.3
+2018,Minnesota,27,"Hennepin County, MN",27053,More than one race,Not Hispanic or Latino,57.0,36187.0,157.5,745.5
+2018,Minnesota,27,"Houston County, MN",27055,White,Not Hispanic or Latino,201.0,17832.0,1127.2,636.2
+2018,Minnesota,27,"Hubbard County, MN",27057,White,Not Hispanic or Latino,226.0,19762.0,1143.6,702.5
+2018,Minnesota,27,"Isanti County, MN",27059,White,Not Hispanic or Latino,337.0,37448.0,899.9,728.2
+2018,Minnesota,27,"Itasca County, MN",27061,American Indian or Alaska Native,Not Hispanic or Latino,28.0,1623.0,1725.2,2002.7
+2018,Minnesota,27,"Itasca County, MN",27061,White,Not Hispanic or Latino,517.0,41303.0,1251.7,704.2
+2018,Minnesota,27,"Jackson County, MN",27063,White,Not Hispanic or Latino,113.0,9093.0,1242.7,587.8
+2018,Minnesota,27,"Kanabec County, MN",27065,White,Not Hispanic or Latino,117.0,15350.0,762.2,525.0
+2018,Minnesota,27,"Kandiyohi County, MN",27067,White,Hispanic or Latino,11.0,4829.0,Unreliable,Unreliable
+2018,Minnesota,27,"Kandiyohi County, MN",27067,White,Not Hispanic or Latino,418.0,34119.0,1225.1,701.4
+2018,Minnesota,27,"Kittson County, MN",27069,White,Not Hispanic or Latino,57.0,4054.0,1406.0,704.1
+2018,Minnesota,27,"Koochiching County, MN",27071,White,Not Hispanic or Latino,160.0,11584.0,1381.2,782.7
+2018,Minnesota,27,"Lac qui Parle County, MN",27073,White,Not Hispanic or Latino,94.0,6283.0,1496.1,597.5
+2018,Minnesota,27,"Lake County, MN",27075,White,Not Hispanic or Latino,156.0,10123.0,1541.0,781.0
+2018,Minnesota,27,"Lake of the Woods County, MN",27077,White,Not Hispanic or Latino,38.0,3474.0,1093.8,726.8
+2018,Minnesota,27,"Le Sueur County, MN",27079,White,Not Hispanic or Latino,220.0,25966.0,847.3,602.1
+2018,Minnesota,27,"Lincoln County, MN",27081,White,Not Hispanic or Latino,82.0,5436.0,1508.5,746.2
+2018,Minnesota,27,"Lyon County, MN",27083,White,Not Hispanic or Latino,209.0,21347.0,979.1,591.6
+2018,Minnesota,27,"McLeod County, MN",27085,White,Not Hispanic or Latino,321.0,32562.0,985.8,619.8
+2018,Minnesota,27,"Mahnomen County, MN",27087,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2291.0,1353.1,1927.4
+2018,Minnesota,27,"Mahnomen County, MN",27087,White,Not Hispanic or Latino,36.0,2486.0,1448.1,715.6
+2018,Minnesota,27,"Marshall County, MN",27089,White,Not Hispanic or Latino,80.0,8730.0,916.4,560.0
+2018,Minnesota,27,"Martin County, MN",27091,White,Not Hispanic or Latino,240.0,18361.0,1307.1,660.4
+2018,Minnesota,27,"Meeker County, MN",27093,White,Not Hispanic or Latino,235.0,21726.0,1081.7,666.7
+2018,Minnesota,27,"Mille Lacs County, MN",27095,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1509.0,Unreliable,Unreliable
+2018,Minnesota,27,"Mille Lacs County, MN",27095,White,Not Hispanic or Latino,273.0,23215.0,1176.0,826.6
+2018,Minnesota,27,"Morrison County, MN",27097,White,Not Hispanic or Latino,357.0,31751.0,1124.4,729.6
+2018,Minnesota,27,"Mower County, MN",27099,White,Not Hispanic or Latino,380.0,31050.0,1223.8,648.1
+2018,Minnesota,27,"Murray County, MN",27101,White,Not Hispanic or Latino,89.0,7670.0,1160.4,619.7
+2018,Minnesota,27,"Nicollet County, MN",27103,White,Not Hispanic or Latino,263.0,30180.0,871.4,635.0
+2018,Minnesota,27,"Nobles County, MN",27105,White,Not Hispanic or Latino,189.0,12761.0,1481.1,706.7
+2018,Minnesota,27,"Norman County, MN",27107,White,Not Hispanic or Latino,101.0,5802.0,1740.8,910.8
+2018,Minnesota,27,"Olmsted County, MN",27109,Asian,Not Hispanic or Latino,34.0,10029.0,339.0,516.3
+2018,Minnesota,27,"Olmsted County, MN",27109,Black or African American,Not Hispanic or Latino,31.0,9800.0,316.3,631.0
+2018,Minnesota,27,"Olmsted County, MN",27109,White,Not Hispanic or Latino,1110.0,124675.0,890.3,615.3
+2018,Minnesota,27,"Otter Tail County, MN",27111,White,Not Hispanic or Latino,676.0,54289.0,1245.2,669.7
+2018,Minnesota,27,"Pennington County, MN",27113,White,Not Hispanic or Latino,135.0,12820.0,1053.0,674.8
+2018,Minnesota,27,"Pine County, MN",27115,White,Not Hispanic or Latino,276.0,26270.0,1050.6,669.1
+2018,Minnesota,27,"Pipestone County, MN",27117,White,Not Hispanic or Latino,117.0,7871.0,1486.5,748.6
+2018,Minnesota,27,"Polk County, MN",27119,White,Not Hispanic or Latino,351.0,27256.0,1287.8,780.4
+2018,Minnesota,27,"Pope County, MN",27121,White,Not Hispanic or Latino,137.0,10647.0,1286.7,711.3
+2018,Minnesota,27,"Ramsey County, MN",27123,American Indian or Alaska Native,Not Hispanic or Latino,27.0,3028.0,891.7,1218.0
+2018,Minnesota,27,"Ramsey County, MN",27123,Asian,Not Hispanic or Latino,271.0,83399.0,324.9,668.1
+2018,Minnesota,27,"Ramsey County, MN",27123,Black or African American,Not Hispanic or Latino,345.0,66724.0,517.1,916.1
+2018,Minnesota,27,"Ramsey County, MN",27123,White,Hispanic or Latino,76.0,33163.0,229.2,505.7
+2018,Minnesota,27,"Ramsey County, MN",27123,White,Not Hispanic or Latino,3617.0,337681.0,1071.1,684.2
+2018,Minnesota,27,"Ramsey County, MN",27123,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,Minnesota,27,"Ramsey County, MN",27123,More than one race,Not Hispanic or Latino,37.0,17286.0,214.0,659.6
+2018,Minnesota,27,"Red Lake County, MN",27125,White,Not Hispanic or Latino,37.0,3674.0,1007.1,666.6
+2018,Minnesota,27,"Redwood County, MN",27127,White,Not Hispanic or Latino,158.0,13208.0,1196.2,649.5
+2018,Minnesota,27,"Renville County, MN",27129,White,Not Hispanic or Latino,161.0,12751.0,1262.6,646.2
+2018,Minnesota,27,"Rice County, MN",27131,White,Not Hispanic or Latino,499.0,54563.0,914.5,661.2
+2018,Minnesota,27,"Rock County, MN",27133,White,Not Hispanic or Latino,103.0,8762.0,1175.5,658.4
+2018,Minnesota,27,"Roseau County, MN",27135,White,Not Hispanic or Latino,125.0,13885.0,900.3,653.3
+2018,Minnesota,27,"St. Louis County, MN",27137,American Indian or Alaska Native,Not Hispanic or Latino,36.0,4355.0,826.6,981.0
+2018,Minnesota,27,"St. Louis County, MN",27137,Black or African American,Not Hispanic or Latino,18.0,3165.0,Unreliable,Unreliable
+2018,Minnesota,27,"St. Louis County, MN",27137,White,Not Hispanic or Latino,2063.0,181683.0,1135.5,748.8
+2018,Minnesota,27,"St. Louis County, MN",27137,More than one race,Not Hispanic or Latino,12.0,4653.0,Unreliable,Unreliable
+2018,Minnesota,27,"Scott County, MN",27139,Asian,Not Hispanic or Latino,18.0,9157.0,Unreliable,Unreliable
+2018,Minnesota,27,"Scott County, MN",27139,Black or African American,Not Hispanic or Latino,11.0,6845.0,Unreliable,Unreliable
+2018,Minnesota,27,"Scott County, MN",27139,White,Not Hispanic or Latino,641.0,119068.0,538.3,560.0
+2018,Minnesota,27,"Sherburne County, MN",27141,White,Not Hispanic or Latino,526.0,87297.0,602.5,668.4
+2018,Minnesota,27,"Sibley County, MN",27143,White,Not Hispanic or Latino,141.0,13212.0,1067.2,658.1
+2018,Minnesota,27,"Stearns County, MN",27145,Black or African American,Not Hispanic or Latino,23.0,10885.0,211.3,537.1
+2018,Minnesota,27,"Stearns County, MN",27145,White,Not Hispanic or Latino,1080.0,136154.0,793.2,607.1
+2018,Minnesota,27,"Steele County, MN",27147,White,Not Hispanic or Latino,308.0,31670.0,972.5,623.2
+2018,Minnesota,27,"Stevens County, MN",27149,White,Not Hispanic or Latino,83.0,8456.0,981.6,524.6
+2018,Minnesota,27,"Swift County, MN",27151,White,Not Hispanic or Latino,112.0,8440.0,1327.0,723.7
+2018,Minnesota,27,"Todd County, MN",27153,White,Not Hispanic or Latino,211.0,22354.0,943.9,554.0
+2018,Minnesota,27,"Traverse County, MN",27155,White,Not Hispanic or Latino,63.0,2921.0,2156.8,921.2
+2018,Minnesota,27,"Wabasha County, MN",27157,White,Not Hispanic or Latino,197.0,20474.0,962.2,555.7
+2018,Minnesota,27,"Wadena County, MN",27159,White,Not Hispanic or Latino,213.0,12907.0,1650.3,951.5
+2018,Minnesota,27,"Waseca County, MN",27161,White,Not Hispanic or Latino,179.0,16621.0,1077.0,687.0
+2018,Minnesota,27,"Washington County, MN",27163,Asian,Not Hispanic or Latino,30.0,15904.0,188.6,488.3
+2018,Minnesota,27,"Washington County, MN",27163,Black or African American,Not Hispanic or Latino,33.0,12162.0,271.3,690.4
+2018,Minnesota,27,"Washington County, MN",27163,White,Hispanic or Latino,26.0,9492.0,273.9,648.8
+2018,Minnesota,27,"Washington County, MN",27163,White,Not Hispanic or Latino,1602.0,213117.0,751.7,590.8
+2018,Minnesota,27,"Watonwan County, MN",27165,White,Not Hispanic or Latino,123.0,7800.0,1576.9,743.8
+2018,Minnesota,27,"Wilkin County, MN",27167,White,Not Hispanic or Latino,87.0,5810.0,1497.4,878.5
+2018,Minnesota,27,"Winona County, MN",27169,White,Not Hispanic or Latino,424.0,46229.0,917.2,668.8
+2018,Minnesota,27,"Wright County, MN",27171,White,Not Hispanic or Latino,795.0,125573.0,633.1,622.7
+2018,Minnesota,27,"Yellow Medicine County, MN",27173,White,Not Hispanic or Latino,90.0,8700.0,1034.5,537.8
+2019,Minnesota,27,"Aitkin County, MN",27001,White,Not Hispanic or Latino,247.0,14907.0,1656.9,767.6
+2019,Minnesota,27,"Anoka County, MN",27003,American Indian or Alaska Native,Not Hispanic or Latino,25.0,2285.0,1094.1,1397.5
+2019,Minnesota,27,"Anoka County, MN",27003,Asian,Not Hispanic or Latino,54.0,17543.0,307.8,522.2
+2019,Minnesota,27,"Anoka County, MN",27003,Black or African American,Not Hispanic or Latino,67.0,25629.0,261.4,676.5
+2019,Minnesota,27,"Anoka County, MN",27003,White,Hispanic or Latino,15.0,14482.0,Unreliable,Unreliable
+2019,Minnesota,27,"Anoka County, MN",27003,White,Not Hispanic or Latino,2139.0,284497.0,751.9,613.1
+2019,Minnesota,27,"Anoka County, MN",27003,More than one race,Not Hispanic or Latino,13.0,9437.0,Unreliable,Unreliable
+2019,Minnesota,27,"Becker County, MN",27005,American Indian or Alaska Native,Not Hispanic or Latino,40.0,2532.0,1579.8,1988.9
+2019,Minnesota,27,"Becker County, MN",27005,White,Not Hispanic or Latino,358.0,29624.0,1208.5,777.2
+2019,Minnesota,27,"Beltrami County, MN",27007,American Indian or Alaska Native,Not Hispanic or Latino,91.0,9975.0,912.3,1263.2
+2019,Minnesota,27,"Beltrami County, MN",27007,White,Not Hispanic or Latino,296.0,33822.0,875.2,591.8
+2019,Minnesota,27,"Benton County, MN",27009,White,Not Hispanic or Latino,384.0,36214.0,1060.4,788.5
+2019,Minnesota,27,"Big Stone County, MN",27011,White,Not Hispanic or Latino,88.0,4766.0,1846.4,765.5
+2019,Minnesota,27,"Blue Earth County, MN",27013,White,Not Hispanic or Latino,476.0,58972.0,807.2,664.9
+2019,Minnesota,27,"Brown County, MN",27015,White,Not Hispanic or Latino,304.0,23279.0,1305.9,715.9
+2019,Minnesota,27,"Carlton County, MN",27017,American Indian or Alaska Native,Not Hispanic or Latino,28.0,2018.0,1387.5,2070.3
+2019,Minnesota,27,"Carlton County, MN",27017,White,Not Hispanic or Latino,339.0,31533.0,1075.1,731.2
+2019,Minnesota,27,"Carver County, MN",27019,White,Not Hispanic or Latino,551.0,92808.0,593.7,560.7
+2019,Minnesota,27,"Cass County, MN",27021,American Indian or Alaska Native,Not Hispanic or Latino,59.0,3454.0,1708.2,2148.8
+2019,Minnesota,27,"Cass County, MN",27021,White,Not Hispanic or Latino,275.0,24724.0,1112.3,602.0
+2019,Minnesota,27,"Chippewa County, MN",27023,White,Not Hispanic or Latino,158.0,10148.0,1557.0,818.1
+2019,Minnesota,27,"Chisago County, MN",27025,White,Not Hispanic or Latino,471.0,52500.0,897.1,738.6
+2019,Minnesota,27,"Clay County, MN",27027,White,Not Hispanic or Latino,459.0,55209.0,831.4,668.0
+2019,Minnesota,27,"Clearwater County, MN",27029,American Indian or Alaska Native,Not Hispanic or Latino,13.0,774.0,Unreliable,Unreliable
+2019,Minnesota,27,"Clearwater County, MN",27029,White,Not Hispanic or Latino,93.0,7420.0,1253.4,773.7
+2019,Minnesota,27,"Cook County, MN",27031,White,Not Hispanic or Latino,52.0,4619.0,1125.8,548.3
+2019,Minnesota,27,"Cottonwood County, MN",27033,White,Not Hispanic or Latino,155.0,9481.0,1634.8,791.7
+2019,Minnesota,27,"Crow Wing County, MN",27035,White,Not Hispanic or Latino,712.0,61633.0,1155.2,697.0
+2019,Minnesota,27,"Dakota County, MN",27037,Asian,Not Hispanic or Latino,58.0,22011.0,263.5,457.0
+2019,Minnesota,27,"Dakota County, MN",27037,Black or African American,Not Hispanic or Latino,79.0,30807.0,256.4,549.5
+2019,Minnesota,27,"Dakota County, MN",27037,White,Hispanic or Latino,55.0,27887.0,197.2,381.0
+2019,Minnesota,27,"Dakota County, MN",27037,White,Not Hispanic or Latino,2592.0,330869.0,783.4,605.4
+2019,Minnesota,27,"Dakota County, MN",27037,More than one race,Not Hispanic or Latino,14.0,11042.0,Unreliable,Unreliable
+2019,Minnesota,27,"Dodge County, MN",27039,White,Not Hispanic or Latino,160.0,19240.0,831.6,680.4
+2019,Minnesota,27,"Douglas County, MN",27041,White,Not Hispanic or Latino,470.0,36525.0,1286.8,734.3
+2019,Minnesota,27,"Faribault County, MN",27043,White,Not Hispanic or Latino,171.0,12289.0,1391.5,729.5
+2019,Minnesota,27,"Fillmore County, MN",27045,White,Not Hispanic or Latino,224.0,20221.0,1107.8,624.9
+2019,Minnesota,27,"Freeborn County, MN",27047,White,Not Hispanic or Latino,336.0,25371.0,1324.3,638.2
+2019,Minnesota,27,"Goodhue County, MN",27049,American Indian or Alaska Native,Not Hispanic or Latino,10.0,548.0,Unreliable,Unreliable
+2019,Minnesota,27,"Goodhue County, MN",27049,White,Not Hispanic or Latino,518.0,42502.0,1218.8,739.3
+2019,Minnesota,27,"Grant County, MN",27051,White,Not Hispanic or Latino,64.0,5660.0,1130.7,588.7
+2019,Minnesota,27,"Hennepin County, MN",27053,American Indian or Alaska Native,Not Hispanic or Latino,94.0,8586.0,1094.8,1563.0
+2019,Minnesota,27,"Hennepin County, MN",27053,Asian,Not Hispanic or Latino,274.0,94351.0,290.4,491.3
+2019,Minnesota,27,"Hennepin County, MN",27053,Black or African American,Not Hispanic or Latino,860.0,170972.0,503.0,783.1
+2019,Minnesota,27,"Hennepin County, MN",27053,White,Hispanic or Latino,139.0,73115.0,190.1,477.6
+2019,Minnesota,27,"Hennepin County, MN",27053,White,Not Hispanic or Latino,7574.0,866385.0,874.2,610.9
+2019,Minnesota,27,"Hennepin County, MN",27053,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2019,Minnesota,27,"Hennepin County, MN",27053,More than one race,Not Hispanic or Latino,48.0,36584.0,131.2,365.4
+2019,Minnesota,27,"Houston County, MN",27055,White,Not Hispanic or Latino,190.0,17800.0,1067.4,584.9
+2019,Minnesota,27,"Hubbard County, MN",27057,White,Not Hispanic or Latino,224.0,19828.0,1129.7,666.5
+2019,Minnesota,27,"Isanti County, MN",27059,White,Not Hispanic or Latino,343.0,37876.0,905.6,709.1
+2019,Minnesota,27,"Itasca County, MN",27061,American Indian or Alaska Native,Not Hispanic or Latino,30.0,1632.0,1838.2,2018.1
+2019,Minnesota,27,"Itasca County, MN",27061,White,Not Hispanic or Latino,475.0,41284.0,1150.6,669.7
+2019,Minnesota,27,"Jackson County, MN",27063,White,Not Hispanic or Latino,112.0,9025.0,1241.0,640.2
+2019,Minnesota,27,"Kanabec County, MN",27065,White,Not Hispanic or Latino,173.0,15426.0,1121.5,753.8
+2019,Minnesota,27,"Kandiyohi County, MN",27067,White,Hispanic or Latino,13.0,5024.0,Unreliable,Unreliable
+2019,Minnesota,27,"Kandiyohi County, MN",27067,White,Not Hispanic or Latino,371.0,33910.0,1094.1,601.4
+2019,Minnesota,27,"Kittson County, MN",27069,White,Not Hispanic or Latino,60.0,4073.0,1473.1,777.7
+2019,Minnesota,27,"Koochiching County, MN",27071,White,Not Hispanic or Latino,163.0,11395.0,1430.5,734.5
+2019,Minnesota,27,"Lac qui Parle County, MN",27073,White,Not Hispanic or Latino,78.0,6243.0,1249.4,590.9
+2019,Minnesota,27,"Lake County, MN",27075,White,Not Hispanic or Latino,115.0,10140.0,1134.1,565.6
+2019,Minnesota,27,"Lake of the Woods County, MN",27077,White,Not Hispanic or Latino,49.0,3458.0,1417.0,724.7
+2019,Minnesota,27,"Le Sueur County, MN",27079,White,Not Hispanic or Latino,262.0,26097.0,1003.9,728.5
+2019,Minnesota,27,"Lincoln County, MN",27081,White,Not Hispanic or Latino,90.0,5385.0,1671.3,729.2
+2019,Minnesota,27,"Lyon County, MN",27083,White,Not Hispanic or Latino,222.0,21232.0,1045.6,657.9
+2019,Minnesota,27,"McLeod County, MN",27085,White,Not Hispanic or Latino,347.0,32478.0,1068.4,656.8
+2019,Minnesota,27,"Mahnomen County, MN",27087,American Indian or Alaska Native,Not Hispanic or Latino,32.0,2291.0,1396.8,2099.9
+2019,Minnesota,27,"Mahnomen County, MN",27087,White,Not Hispanic or Latino,31.0,2479.0,1250.5,594.9
+2019,Minnesota,27,"Marshall County, MN",27089,White,Not Hispanic or Latino,97.0,8683.0,1117.1,637.8
+2019,Minnesota,27,"Martin County, MN",27091,White,Not Hispanic or Latino,240.0,18167.0,1321.1,633.7
+2019,Minnesota,27,"Meeker County, MN",27093,White,Not Hispanic or Latino,223.0,21712.0,1027.1,642.2
+2019,Minnesota,27,"Mille Lacs County, MN",27095,American Indian or Alaska Native,Not Hispanic or Latino,20.0,1510.0,1324.5,1662.0
+2019,Minnesota,27,"Mille Lacs County, MN",27095,White,Not Hispanic or Latino,296.0,23282.0,1271.4,857.3
+2019,Minnesota,27,"Morrison County, MN",27097,White,Not Hispanic or Latino,333.0,31911.0,1043.5,691.7
+2019,Minnesota,27,"Mower County, MN",27099,White,Not Hispanic or Latino,411.0,30747.0,1336.7,702.6
+2019,Minnesota,27,"Murray County, MN",27101,White,Not Hispanic or Latino,91.0,7556.0,1204.3,581.5
+2019,Minnesota,27,"Nicollet County, MN",27103,White,Not Hispanic or Latino,285.0,30113.0,946.4,678.5
+2019,Minnesota,27,"Nobles County, MN",27105,White,Hispanic or Latino,10.0,5902.0,Unreliable,Unreliable
+2019,Minnesota,27,"Nobles County, MN",27105,White,Not Hispanic or Latino,162.0,12474.0,1298.7,687.2
+2019,Minnesota,27,"Norman County, MN",27107,White,Not Hispanic or Latino,85.0,5686.0,1494.9,816.3
+2019,Minnesota,27,"Olmsted County, MN",27109,Asian,Not Hispanic or Latino,24.0,10263.0,233.8,332.4
+2019,Minnesota,27,"Olmsted County, MN",27109,Black or African American,Not Hispanic or Latino,33.0,10583.0,311.8,522.3
+2019,Minnesota,27,"Olmsted County, MN",27109,White,Not Hispanic or Latino,1014.0,125134.0,810.3,557.9
+2019,Minnesota,27,"Otter Tail County, MN",27111,White,Not Hispanic or Latino,659.0,54137.0,1217.3,648.2
+2019,Minnesota,27,"Pennington County, MN",27113,White,Not Hispanic or Latino,142.0,12738.0,1114.8,688.6
+2019,Minnesota,27,"Pine County, MN",27115,White,Not Hispanic or Latino,310.0,26330.0,1177.4,714.2
+2019,Minnesota,27,"Pipestone County, MN",27117,White,Not Hispanic or Latino,109.0,7914.0,1377.3,650.0
+2019,Minnesota,27,"Polk County, MN",27119,White,Not Hispanic or Latino,361.0,27004.0,1336.8,823.9
+2019,Minnesota,27,"Pope County, MN",27121,White,Not Hispanic or Latino,139.0,10739.0,1294.3,672.5
+2019,Minnesota,27,"Ramsey County, MN",27123,American Indian or Alaska Native,Not Hispanic or Latino,33.0,3074.0,1073.5,1622.4
+2019,Minnesota,27,"Ramsey County, MN",27123,Asian,Not Hispanic or Latino,276.0,83518.0,330.5,646.6
+2019,Minnesota,27,"Ramsey County, MN",27123,Black or African American,Not Hispanic or Latino,349.0,68255.0,511.3,839.9
+2019,Minnesota,27,"Ramsey County, MN",27123,White,Hispanic or Latino,99.0,32870.0,301.2,625.4
+2019,Minnesota,27,"Ramsey County, MN",27123,White,Not Hispanic or Latino,3527.0,336200.0,1049.1,664.7
+2019,Minnesota,27,"Ramsey County, MN",27123,More than one race,Not Hispanic or Latino,33.0,17674.0,186.7,588.0
+2019,Minnesota,27,"Red Lake County, MN",27125,White,Not Hispanic or Latino,34.0,3711.0,916.2,463.1
+2019,Minnesota,27,"Redwood County, MN",27127,White,Not Hispanic or Latino,170.0,13103.0,1297.4,680.0
+2019,Minnesota,27,"Renville County, MN",27129,White,Not Hispanic or Latino,180.0,12706.0,1416.7,731.4
+2019,Minnesota,27,"Rice County, MN",27131,White,Hispanic or Latino,10.0,5179.0,Unreliable,Unreliable
+2019,Minnesota,27,"Rice County, MN",27131,White,Not Hispanic or Latino,512.0,54417.0,940.9,675.8
+2019,Minnesota,27,"Rock County, MN",27133,White,Not Hispanic or Latino,135.0,8665.0,1558.0,881.9
+2019,Minnesota,27,"Roseau County, MN",27135,White,Not Hispanic or Latino,146.0,13874.0,1052.3,723.4
+2019,Minnesota,27,"St. Louis County, MN",27137,American Indian or Alaska Native,Not Hispanic or Latino,41.0,4346.0,943.4,1256.0
+2019,Minnesota,27,"St. Louis County, MN",27137,Black or African American,Not Hispanic or Latino,18.0,3190.0,Unreliable,Unreliable
+2019,Minnesota,27,"St. Louis County, MN",27137,White,Not Hispanic or Latino,1985.0,180896.0,1097.3,711.4
+2019,Minnesota,27,"St. Louis County, MN",27137,More than one race,Not Hispanic or Latino,12.0,4707.0,Unreliable,Unreliable
+2019,Minnesota,27,"Scott County, MN",27139,Asian,Not Hispanic or Latino,23.0,9397.0,244.8,401.0
+2019,Minnesota,27,"Scott County, MN",27139,Black or African American,Not Hispanic or Latino,13.0,7740.0,Unreliable,Unreliable
+2019,Minnesota,27,"Scott County, MN",27139,White,Not Hispanic or Latino,695.0,119397.0,582.1,592.2
+2019,Minnesota,27,"Sherburne County, MN",27141,White,Not Hispanic or Latino,574.0,88007.0,652.2,682.3
+2019,Minnesota,27,"Sibley County, MN",27143,White,Not Hispanic or Latino,132.0,13075.0,1009.6,603.1
+2019,Minnesota,27,"Stearns County, MN",27145,Black or African American,Not Hispanic or Latino,30.0,12234.0,245.2,536.5
+2019,Minnesota,27,"Stearns County, MN",27145,White,Not Hispanic or Latino,1073.0,136209.0,787.8,591.7
+2019,Minnesota,27,"Steele County, MN",27147,White,Not Hispanic or Latino,308.0,31461.0,979.0,592.9
+2019,Minnesota,27,"Stevens County, MN",27149,White,Not Hispanic or Latino,94.0,8408.0,1118.0,696.7
+2019,Minnesota,27,"Swift County, MN",27151,White,Not Hispanic or Latino,109.0,8349.0,1305.5,730.5
+2019,Minnesota,27,"Todd County, MN",27153,White,Not Hispanic or Latino,208.0,22305.0,932.5,577.8
+2019,Minnesota,27,"Traverse County, MN",27155,White,Not Hispanic or Latino,59.0,2833.0,2082.6,877.4
+2019,Minnesota,27,"Wabasha County, MN",27157,White,Not Hispanic or Latino,193.0,20467.0,943.0,551.3
+2019,Minnesota,27,"Wadena County, MN",27159,White,Not Hispanic or Latino,194.0,12814.0,1514.0,863.2
+2019,Minnesota,27,"Waseca County, MN",27161,White,Not Hispanic or Latino,185.0,16515.0,1120.2,717.8
+2019,Minnesota,27,"Washington County, MN",27163,Asian,Not Hispanic or Latino,28.0,16719.0,167.5,352.8
+2019,Minnesota,27,"Washington County, MN",27163,Black or African American,Not Hispanic or Latino,26.0,12701.0,204.7,533.2
+2019,Minnesota,27,"Washington County, MN",27163,White,Hispanic or Latino,10.0,9940.0,Unreliable,Unreliable
+2019,Minnesota,27,"Washington County, MN",27163,White,Not Hispanic or Latino,1668.0,214192.0,778.7,597.8
+2019,Minnesota,27,"Watonwan County, MN",27165,White,Not Hispanic or Latino,109.0,7670.0,1421.1,684.6
+2019,Minnesota,27,"Wilkin County, MN",27167,White,Not Hispanic or Latino,81.0,5760.0,1406.2,852.6
+2019,Minnesota,27,"Winona County, MN",27169,White,Not Hispanic or Latino,420.0,45919.0,914.7,657.3
+2019,Minnesota,27,"Wright County, MN",27171,White,Not Hispanic or Latino,899.0,126911.0,708.4,681.9
+2019,Minnesota,27,"Yellow Medicine County, MN",27173,White,Not Hispanic or Latino,103.0,8611.0,1196.1,611.0
+2020,Minnesota,27,"Aitkin County, MN",27001,White,Not Hispanic or Latino,263.0,14866.0,1769.1,797.8
+2020,Minnesota,27,"Anoka County, MN",27003,American Indian or Alaska Native,Not Hispanic or Latino,22.0,2190.0,1004.6,1060.5
+2020,Minnesota,27,"Anoka County, MN",27003,Asian,Not Hispanic or Latino,70.0,19126.0,366.0,604.9
+2020,Minnesota,27,"Anoka County, MN",27003,Black or African American,Not Hispanic or Latino,110.0,28072.0,391.8,1002.1
+2020,Minnesota,27,"Anoka County, MN",27003,White,Hispanic or Latino,35.0,15160.0,230.9,531.2
+2020,Minnesota,27,"Anoka County, MN",27003,White,Not Hispanic or Latino,2493.0,282145.0,883.6,706.9
+2020,Minnesota,27,"Anoka County, MN",27003,More than one race,Not Hispanic or Latino,22.0,10046.0,219.0,705.5
+2020,Minnesota,27,"Becker County, MN",27005,American Indian or Alaska Native,Not Hispanic or Latino,34.0,2455.0,1384.9,1722.8
+2020,Minnesota,27,"Becker County, MN",27005,White,Not Hispanic or Latino,401.0,29662.0,1351.9,814.7
+2020,Minnesota,27,"Beltrami County, MN",27007,American Indian or Alaska Native,Not Hispanic or Latino,103.0,9965.0,1033.6,1530.4
+2020,Minnesota,27,"Beltrami County, MN",27007,White,Not Hispanic or Latino,430.0,34090.0,1261.4,870.2
+2020,Minnesota,27,"Benton County, MN",27009,White,Not Hispanic or Latino,470.0,36053.0,1303.6,998.8
+2020,Minnesota,27,"Big Stone County, MN",27011,White,Not Hispanic or Latino,78.0,4683.0,1665.6,686.3
+2020,Minnesota,27,"Blue Earth County, MN",27013,White,Not Hispanic or Latino,520.0,59031.0,880.9,718.1
+2020,Minnesota,27,"Brown County, MN",27015,White,Not Hispanic or Latino,322.0,23102.0,1393.8,725.0
+2020,Minnesota,27,"Carlton County, MN",27017,American Indian or Alaska Native,Not Hispanic or Latino,27.0,1965.0,1374.0,1609.8
+2020,Minnesota,27,"Carlton County, MN",27017,White,Not Hispanic or Latino,398.0,31495.0,1263.7,865.0
+2020,Minnesota,27,"Carver County, MN",27019,White,Not Hispanic or Latino,597.0,93769.0,636.7,587.8
+2020,Minnesota,27,"Cass County, MN",27021,American Indian or Alaska Native,Not Hispanic or Latino,52.0,3427.0,1517.4,1999.5
+2020,Minnesota,27,"Cass County, MN",27021,White,Not Hispanic or Latino,320.0,24793.0,1290.7,724.4
+2020,Minnesota,27,"Chippewa County, MN",27023,White,Not Hispanic or Latino,174.0,10076.0,1726.9,960.7
+2020,Minnesota,27,"Chisago County, MN",27025,White,Not Hispanic or Latino,494.0,52594.0,939.3,752.0
+2020,Minnesota,27,"Clay County, MN",27027,American Indian or Alaska Native,Not Hispanic or Latino,10.0,852.0,Unreliable,Unreliable
+2020,Minnesota,27,"Clay County, MN",27027,Black or African American,Not Hispanic or Latino,12.0,2981.0,Unreliable,Unreliable
+2020,Minnesota,27,"Clay County, MN",27027,White,Hispanic or Latino,17.0,2477.0,Unreliable,Unreliable
+2020,Minnesota,27,"Clay County, MN",27027,White,Not Hispanic or Latino,523.0,55254.0,946.5,748.0
+2020,Minnesota,27,"Clearwater County, MN",27029,American Indian or Alaska Native,Not Hispanic or Latino,11.0,779.0,Unreliable,Unreliable
+2020,Minnesota,27,"Clearwater County, MN",27029,White,Not Hispanic or Latino,103.0,7614.0,1352.8,821.0
+2020,Minnesota,27,"Cook County, MN",27031,White,Not Hispanic or Latino,48.0,4558.0,1053.1,508.1
+2020,Minnesota,27,"Cottonwood County, MN",27033,White,Not Hispanic or Latino,174.0,9454.0,1840.5,903.1
+2020,Minnesota,27,"Crow Wing County, MN",27035,White,Not Hispanic or Latino,744.0,62102.0,1198.0,736.2
+2020,Minnesota,27,"Dakota County, MN",27037,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1540.0,Unreliable,Unreliable
+2020,Minnesota,27,"Dakota County, MN",27037,Asian,Not Hispanic or Latino,64.0,23132.0,276.7,445.9
+2020,Minnesota,27,"Dakota County, MN",27037,Black or African American,Not Hispanic or Latino,110.0,32944.0,333.9,797.5
+2020,Minnesota,27,"Dakota County, MN",27037,White,Hispanic or Latino,92.0,28123.0,327.1,652.1
+2020,Minnesota,27,"Dakota County, MN",27037,White,Not Hispanic or Latino,2904.0,329532.0,881.2,660.5
+2020,Minnesota,27,"Dakota County, MN",27037,More than one race,Not Hispanic or Latino,23.0,11533.0,199.4,542.5
+2020,Minnesota,27,"Dodge County, MN",27039,White,Not Hispanic or Latino,156.0,19243.0,810.7,646.9
+2020,Minnesota,27,"Douglas County, MN",27041,White,Not Hispanic or Latino,514.0,36587.0,1404.9,798.0
+2020,Minnesota,27,"Faribault County, MN",27043,White,Not Hispanic or Latino,193.0,12202.0,1581.7,831.5
+2020,Minnesota,27,"Fillmore County, MN",27045,White,Not Hispanic or Latino,251.0,20265.0,1238.6,710.3
+2020,Minnesota,27,"Freeborn County, MN",27047,White,Hispanic or Latino,14.0,2912.0,Unreliable,Unreliable
+2020,Minnesota,27,"Freeborn County, MN",27047,White,Not Hispanic or Latino,384.0,25198.0,1523.9,753.6
+2020,Minnesota,27,"Goodhue County, MN",27049,White,Not Hispanic or Latino,569.0,42377.0,1342.7,832.0
+2020,Minnesota,27,"Grant County, MN",27051,White,Not Hispanic or Latino,79.0,5705.0,1384.8,819.2
+2020,Minnesota,27,"Hennepin County, MN",27053,American Indian or Alaska Native,Not Hispanic or Latino,154.0,8208.0,1876.2,2586.1
+2020,Minnesota,27,"Hennepin County, MN",27053,Asian,Not Hispanic or Latino,299.0,95801.0,312.1,529.4
+2020,Minnesota,27,"Hennepin County, MN",27053,Black or African American,Not Hispanic or Latino,1182.0,173411.0,681.6,1028.9
+2020,Minnesota,27,"Hennepin County, MN",27053,White,Hispanic or Latino,179.0,73051.0,245.0,614.9
+2020,Minnesota,27,"Hennepin County, MN",27053,White,Not Hispanic or Latino,8769.0,863396.0,1015.6,700.0
+2020,Minnesota,27,"Hennepin County, MN",27053,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2020,Minnesota,27,"Hennepin County, MN",27053,More than one race,Not Hispanic or Latino,76.0,38090.0,199.5,741.8
+2020,Minnesota,27,"Houston County, MN",27055,White,Not Hispanic or Latino,221.0,17756.0,1244.6,692.2
+2020,Minnesota,27,"Hubbard County, MN",27057,White,Not Hispanic or Latino,251.0,20119.0,1247.6,685.3
+2020,Minnesota,27,"Isanti County, MN",27059,White,Not Hispanic or Latino,364.0,38443.0,946.9,732.6
+2020,Minnesota,27,"Itasca County, MN",27061,American Indian or Alaska Native,Not Hispanic or Latino,35.0,1615.0,2167.2,2701.4
+2020,Minnesota,27,"Itasca County, MN",27061,White,Not Hispanic or Latino,514.0,41405.0,1241.4,719.6
+2020,Minnesota,27,"Jackson County, MN",27063,White,Not Hispanic or Latino,112.0,8915.0,1256.3,620.2
+2020,Minnesota,27,"Kanabec County, MN",27065,White,Not Hispanic or Latino,203.0,15513.0,1308.6,879.3
+2020,Minnesota,27,"Kandiyohi County, MN",27067,White,Not Hispanic or Latino,457.0,33709.0,1355.7,747.3
+2020,Minnesota,27,"Kittson County, MN",27069,White,Not Hispanic or Latino,86.0,3990.0,2155.4,1011.9
+2020,Minnesota,27,"Koochiching County, MN",27071,White,Not Hispanic or Latino,171.0,11221.0,1523.9,791.7
+2020,Minnesota,27,"Lac qui Parle County, MN",27073,White,Not Hispanic or Latino,107.0,6153.0,1739.0,693.3
+2020,Minnesota,27,"Lake County, MN",27075,White,Not Hispanic or Latino,155.0,10121.0,1531.5,719.0
+2020,Minnesota,27,"Lake of the Woods County, MN",27077,White,Not Hispanic or Latino,51.0,3467.0,1471.0,859.8
+2020,Minnesota,27,"Le Sueur County, MN",27079,White,Not Hispanic or Latino,246.0,25986.0,946.7,685.9
+2020,Minnesota,27,"Lincoln County, MN",27081,White,Not Hispanic or Latino,80.0,5318.0,1504.3,681.9
+2020,Minnesota,27,"Lyon County, MN",27083,White,Not Hispanic or Latino,264.0,20867.0,1265.2,825.0
+2020,Minnesota,27,"McLeod County, MN",27085,White,Not Hispanic or Latino,429.0,32121.0,1335.6,818.3
+2020,Minnesota,27,"Mahnomen County, MN",27087,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2251.0,1377.2,2184.7
+2020,Minnesota,27,"Mahnomen County, MN",27087,White,Not Hispanic or Latino,45.0,2445.0,1840.5,886.5
+2020,Minnesota,27,"Marshall County, MN",27089,White,Not Hispanic or Latino,106.0,8666.0,1223.2,680.4
+2020,Minnesota,27,"Martin County, MN",27091,White,Not Hispanic or Latino,247.0,17891.0,1380.6,661.2
+2020,Minnesota,27,"Meeker County, MN",27093,White,Not Hispanic or Latino,266.0,21855.0,1217.1,735.7
+2020,Minnesota,27,"Mille Lacs County, MN",27095,American Indian or Alaska Native,Not Hispanic or Latino,32.0,1491.0,2146.2,2550.9
+2020,Minnesota,27,"Mille Lacs County, MN",27095,White,Not Hispanic or Latino,335.0,23103.0,1450.0,969.4
+2020,Minnesota,27,"Morrison County, MN",27097,White,Not Hispanic or Latino,390.0,31711.0,1229.9,775.4
+2020,Minnesota,27,"Mower County, MN",27099,White,Not Hispanic or Latino,398.0,30541.0,1303.2,714.5
+2020,Minnesota,27,"Murray County, MN",27101,White,Not Hispanic or Latino,69.0,7472.0,923.4,415.3
+2020,Minnesota,27,"Nicollet County, MN",27103,White,Not Hispanic or Latino,255.0,30107.0,847.0,618.6
+2020,Minnesota,27,"Nobles County, MN",27105,Asian,Not Hispanic or Latino,10.0,1504.0,Unreliable,Unreliable
+2020,Minnesota,27,"Nobles County, MN",27105,White,Hispanic or Latino,11.0,5919.0,Unreliable,Unreliable
+2020,Minnesota,27,"Nobles County, MN",27105,White,Not Hispanic or Latino,213.0,12119.0,1757.6,842.4
+2020,Minnesota,27,"Norman County, MN",27107,White,Not Hispanic or Latino,74.0,5600.0,1321.4,762.8
+2020,Minnesota,27,"Olmsted County, MN",27109,Asian,Not Hispanic or Latino,31.0,10367.0,299.0,399.6
+2020,Minnesota,27,"Olmsted County, MN",27109,Black or African American,Not Hispanic or Latino,56.0,11153.0,502.1,897.8
+2020,Minnesota,27,"Olmsted County, MN",27109,White,Hispanic or Latino,14.0,7375.0,Unreliable,Unreliable
+2020,Minnesota,27,"Olmsted County, MN",27109,White,Not Hispanic or Latino,1161.0,124844.0,930.0,627.0
+2020,Minnesota,27,"Otter Tail County, MN",27111,White,Not Hispanic or Latino,781.0,54094.0,1443.8,763.0
+2020,Minnesota,27,"Pennington County, MN",27113,White,Not Hispanic or Latino,134.0,12496.0,1072.3,669.2
+2020,Minnesota,27,"Pine County, MN",27115,American Indian or Alaska Native,Not Hispanic or Latino,11.0,872.0,Unreliable,Unreliable
+2020,Minnesota,27,"Pine County, MN",27115,White,Not Hispanic or Latino,340.0,26138.0,1300.8,803.4
+2020,Minnesota,27,"Pipestone County, MN",27117,White,Not Hispanic or Latino,120.0,7930.0,1513.2,668.2
+2020,Minnesota,27,"Polk County, MN",27119,White,Hispanic or Latino,14.0,1724.0,Unreliable,Unreliable
+2020,Minnesota,27,"Polk County, MN",27119,White,Not Hispanic or Latino,398.0,26590.0,1496.8,905.7
+2020,Minnesota,27,"Pope County, MN",27121,White,Not Hispanic or Latino,131.0,10777.0,1215.6,712.6
+2020,Minnesota,27,"Ramsey County, MN",27123,American Indian or Alaska Native,Not Hispanic or Latino,62.0,3121.0,1986.5,2600.4
+2020,Minnesota,27,"Ramsey County, MN",27123,Asian,Not Hispanic or Latino,434.0,84847.0,511.5,1020.6
+2020,Minnesota,27,"Ramsey County, MN",27123,Black or African American,Not Hispanic or Latino,428.0,69600.0,614.9,1003.3
+2020,Minnesota,27,"Ramsey County, MN",27123,White,Hispanic or Latino,134.0,32865.0,407.7,784.2
+2020,Minnesota,27,"Ramsey County, MN",27123,White,Not Hispanic or Latino,4028.0,330689.0,1218.1,767.0
+2020,Minnesota,27,"Ramsey County, MN",27123,More than one race,Not Hispanic or Latino,37.0,17753.0,208.4,831.8
+2020,Minnesota,27,"Red Lake County, MN",27125,White,Not Hispanic or Latino,29.0,3694.0,785.1,524.0
+2020,Minnesota,27,"Redwood County, MN",27127,White,Not Hispanic or Latino,201.0,13027.0,1542.9,788.6
+2020,Minnesota,27,"Renville County, MN",27129,White,Not Hispanic or Latino,185.0,12530.0,1476.5,773.8
+2020,Minnesota,27,"Rice County, MN",27131,White,Hispanic or Latino,11.0,5236.0,Unreliable,Unreliable
+2020,Minnesota,27,"Rice County, MN",27131,White,Not Hispanic or Latino,567.0,54205.0,1046.0,735.0
+2020,Minnesota,27,"Rock County, MN",27133,White,Not Hispanic or Latino,147.0,8641.0,1701.2,910.2
+2020,Minnesota,27,"Roseau County, MN",27135,White,Not Hispanic or Latino,194.0,13755.0,1410.4,944.0
+2020,Minnesota,27,"St. Louis County, MN",27137,American Indian or Alaska Native,Not Hispanic or Latino,39.0,4248.0,918.1,1084.5
+2020,Minnesota,27,"St. Louis County, MN",27137,Black or African American,Not Hispanic or Latino,18.0,3082.0,Unreliable,Unreliable
+2020,Minnesota,27,"St. Louis County, MN",27137,White,Not Hispanic or Latino,2396.0,180294.0,1328.9,861.6
+2020,Minnesota,27,"Scott County, MN",27139,Asian,Not Hispanic or Latino,27.0,9824.0,274.8,464.2
+2020,Minnesota,27,"Scott County, MN",27139,Black or African American,Not Hispanic or Latino,20.0,8487.0,235.7,467.4
+2020,Minnesota,27,"Scott County, MN",27139,White,Hispanic or Latino,17.0,6922.0,Unreliable,Unreliable
+2020,Minnesota,27,"Scott County, MN",27139,White,Not Hispanic or Latino,799.0,119151.0,670.6,654.3
+2020,Minnesota,27,"Sherburne County, MN",27141,White,Not Hispanic or Latino,691.0,88769.0,778.4,797.8
+2020,Minnesota,27,"Sibley County, MN",27143,White,Not Hispanic or Latino,119.0,12916.0,921.3,577.8
+2020,Minnesota,27,"Stearns County, MN",27145,American Indian or Alaska Native,Not Hispanic or Latino,10.0,443.0,Unreliable,Unreliable
+2020,Minnesota,27,"Stearns County, MN",27145,Asian,Not Hispanic or Latino,10.0,3695.0,Unreliable,Unreliable
+2020,Minnesota,27,"Stearns County, MN",27145,Black or African American,Not Hispanic or Latino,46.0,13551.0,339.5,782.1
+2020,Minnesota,27,"Stearns County, MN",27145,White,Hispanic or Latino,13.0,5050.0,Unreliable,Unreliable
+2020,Minnesota,27,"Stearns County, MN",27145,White,Not Hispanic or Latino,1290.0,135193.0,954.2,695.2
+2020,Minnesota,27,"Steele County, MN",27147,White,Not Hispanic or Latino,353.0,31315.0,1127.3,698.6
+2020,Minnesota,27,"Stevens County, MN",27149,White,Not Hispanic or Latino,88.0,8320.0,1057.7,666.0
+2020,Minnesota,27,"Swift County, MN",27151,White,Not Hispanic or Latino,135.0,8199.0,1646.5,838.9
+2020,Minnesota,27,"Todd County, MN",27153,White,Not Hispanic or Latino,232.0,22213.0,1044.4,627.6
+2020,Minnesota,27,"Traverse County, MN",27155,White,Not Hispanic or Latino,58.0,2762.0,2099.9,902.5
+2020,Minnesota,27,"Wabasha County, MN",27157,White,Not Hispanic or Latino,223.0,20386.0,1093.9,665.4
+2020,Minnesota,27,"Wadena County, MN",27159,White,Not Hispanic or Latino,188.0,12920.0,1455.1,811.2
+2020,Minnesota,27,"Waseca County, MN",27161,White,Not Hispanic or Latino,193.0,16399.0,1176.9,743.7
+2020,Minnesota,27,"Washington County, MN",27163,Asian,Not Hispanic or Latino,50.0,17995.0,277.9,640.1
+2020,Minnesota,27,"Washington County, MN",27163,Black or African American,Not Hispanic or Latino,47.0,13474.0,348.8,862.6
+2020,Minnesota,27,"Washington County, MN",27163,White,Hispanic or Latino,25.0,10313.0,242.4,392.6
+2020,Minnesota,27,"Washington County, MN",27163,White,Not Hispanic or Latino,1888.0,214072.0,881.9,660.8
+2020,Minnesota,27,"Washington County, MN",27163,More than one race,Not Hispanic or Latino,11.0,6456.0,Unreliable,Unreliable
+2020,Minnesota,27,"Watonwan County, MN",27165,White,Not Hispanic or Latino,151.0,7591.0,1989.2,868.7
+2020,Minnesota,27,"Wilkin County, MN",27167,White,Not Hispanic or Latino,88.0,5701.0,1543.6,932.1
+2020,Minnesota,27,"Winona County, MN",27169,White,Not Hispanic or Latino,460.0,45836.0,1003.6,698.7
+2020,Minnesota,27,"Wright County, MN",27171,White,Not Hispanic or Latino,969.0,127958.0,757.3,719.0
+2020,Minnesota,27,"Yellow Medicine County, MN",27173,White,Not Hispanic or Latino,102.0,8526.0,1196.3,654.8
+2021 (provisional),Minnesota,27,"Aitkin County, MN",27001,White,Not Hispanic or Latino,239.0,14866.0,1607.7,780.4
+2021 (provisional),Minnesota,27,"Anoka County, MN",27003,American Indian or Alaska Native,Not Hispanic or Latino,24.0,2190.0,1095.9,1308.4
+2021 (provisional),Minnesota,27,"Anoka County, MN",27003,Asian,Not Hispanic or Latino,73.0,19126.0,381.7,585.8
+2021 (provisional),Minnesota,27,"Anoka County, MN",27003,Black or African American,Not Hispanic or Latino,109.0,28072.0,388.3,804.9
+2021 (provisional),Minnesota,27,"Anoka County, MN",27003,White,Hispanic or Latino,38.0,15160.0,250.7,632.0
+2021 (provisional),Minnesota,27,"Anoka County, MN",27003,White,Not Hispanic or Latino,2492.0,282145.0,883.2,700.9
+2021 (provisional),Minnesota,27,"Anoka County, MN",27003,More than one race,Not Hispanic or Latino,22.0,10046.0,219.0,629.5
+2021 (provisional),Minnesota,27,"Becker County, MN",27005,American Indian or Alaska Native,Not Hispanic or Latino,57.0,2455.0,2321.8,2790.2
+2021 (provisional),Minnesota,27,"Becker County, MN",27005,White,Not Hispanic or Latino,345.0,29662.0,1163.1,717.2
+2021 (provisional),Minnesota,27,"Beltrami County, MN",27007,American Indian or Alaska Native,Not Hispanic or Latino,128.0,9965.0,1284.5,1766.5
+2021 (provisional),Minnesota,27,"Beltrami County, MN",27007,White,Not Hispanic or Latino,365.0,34090.0,1070.7,730.1
+2021 (provisional),Minnesota,27,"Benton County, MN",27009,Black or African American,Not Hispanic or Latino,11.0,2131.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Benton County, MN",27009,White,Not Hispanic or Latino,390.0,36053.0,1081.7,839.5
+2021 (provisional),Minnesota,27,"Big Stone County, MN",27011,White,Not Hispanic or Latino,76.0,4683.0,1622.9,889.0
+2021 (provisional),Minnesota,27,"Blue Earth County, MN",27013,White,Hispanic or Latino,10.0,2397.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Blue Earth County, MN",27013,White,Not Hispanic or Latino,569.0,59031.0,963.9,786.5
+2021 (provisional),Minnesota,27,"Brown County, MN",27015,White,Not Hispanic or Latino,336.0,23102.0,1454.4,820.3
+2021 (provisional),Minnesota,27,"Carlton County, MN",27017,American Indian or Alaska Native,Not Hispanic or Latino,35.0,1965.0,1781.2,2400.1
+2021 (provisional),Minnesota,27,"Carlton County, MN",27017,White,Not Hispanic or Latino,434.0,31495.0,1378.0,943.7
+2021 (provisional),Minnesota,27,"Carver County, MN",27019,White,Not Hispanic or Latino,649.0,93769.0,692.1,637.4
+2021 (provisional),Minnesota,27,"Cass County, MN",27021,American Indian or Alaska Native,Not Hispanic or Latino,77.0,3427.0,2246.9,2701.2
+2021 (provisional),Minnesota,27,"Cass County, MN",27021,White,Not Hispanic or Latino,346.0,24793.0,1395.6,756.5
+2021 (provisional),Minnesota,27,"Chippewa County, MN",27023,White,Not Hispanic or Latino,164.0,10076.0,1627.6,842.5
+2021 (provisional),Minnesota,27,"Chisago County, MN",27025,White,Not Hispanic or Latino,532.0,52594.0,1011.5,806.7
+2021 (provisional),Minnesota,27,"Clay County, MN",27027,American Indian or Alaska Native,Not Hispanic or Latino,15.0,852.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Clay County, MN",27027,White,Hispanic or Latino,14.0,2477.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Clay County, MN",27027,White,Not Hispanic or Latino,495.0,55254.0,895.9,729.2
+2021 (provisional),Minnesota,27,"Clearwater County, MN",27029,White,Not Hispanic or Latino,114.0,7614.0,1497.2,977.6
+2021 (provisional),Minnesota,27,"Cook County, MN",27031,White,Not Hispanic or Latino,42.0,4558.0,921.5,457.7
+2021 (provisional),Minnesota,27,"Cottonwood County, MN",27033,White,Not Hispanic or Latino,156.0,9454.0,1650.1,793.4
+2021 (provisional),Minnesota,27,"Crow Wing County, MN",27035,White,Not Hispanic or Latino,796.0,62102.0,1281.8,782.3
+2021 (provisional),Minnesota,27,"Dakota County, MN",27037,Asian,Not Hispanic or Latino,75.0,23132.0,324.2,570.2
+2021 (provisional),Minnesota,27,"Dakota County, MN",27037,Black or African American,Not Hispanic or Latino,114.0,32944.0,346.0,747.2
+2021 (provisional),Minnesota,27,"Dakota County, MN",27037,White,Hispanic or Latino,92.0,28123.0,327.1,633.9
+2021 (provisional),Minnesota,27,"Dakota County, MN",27037,White,Not Hispanic or Latino,2922.0,329532.0,886.7,672.3
+2021 (provisional),Minnesota,27,"Dakota County, MN",27037,More than one race,Not Hispanic or Latino,19.0,11533.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Dodge County, MN",27039,White,Not Hispanic or Latino,158.0,19243.0,821.1,626.7
+2021 (provisional),Minnesota,27,"Douglas County, MN",27041,White,Not Hispanic or Latino,441.0,36587.0,1205.3,706.9
+2021 (provisional),Minnesota,27,"Faribault County, MN",27043,White,Not Hispanic or Latino,177.0,12202.0,1450.6,742.6
+2021 (provisional),Minnesota,27,"Fillmore County, MN",27045,White,Not Hispanic or Latino,247.0,20265.0,1218.9,698.5
+2021 (provisional),Minnesota,27,"Freeborn County, MN",27047,White,Hispanic or Latino,13.0,2912.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Freeborn County, MN",27047,White,Not Hispanic or Latino,363.0,25198.0,1440.6,743.9
+2021 (provisional),Minnesota,27,"Goodhue County, MN",27049,American Indian or Alaska Native,Not Hispanic or Latino,11.0,551.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Goodhue County, MN",27049,White,Not Hispanic or Latino,544.0,42377.0,1283.7,774.3
+2021 (provisional),Minnesota,27,"Grant County, MN",27051,White,Not Hispanic or Latino,76.0,5705.0,1332.2,726.9
+2021 (provisional),Minnesota,27,"Hennepin County, MN",27053,American Indian or Alaska Native,Not Hispanic or Latino,155.0,8208.0,1888.4,2583.6
+2021 (provisional),Minnesota,27,"Hennepin County, MN",27053,Asian,Not Hispanic or Latino,348.0,95801.0,363.3,603.6
+2021 (provisional),Minnesota,27,"Hennepin County, MN",27053,Black or African American,Not Hispanic or Latino,1182.0,173411.0,681.6,981.7
+2021 (provisional),Minnesota,27,"Hennepin County, MN",27053,White,Hispanic or Latino,206.0,73051.0,282.0,596.6
+2021 (provisional),Minnesota,27,"Hennepin County, MN",27053,White,Not Hispanic or Latino,7886.0,863396.0,913.4,637.6
+2021 (provisional),Minnesota,27,"Hennepin County, MN",27053,More than one race,Not Hispanic or Latino,90.0,38090.0,236.3,676.3
+2021 (provisional),Minnesota,27,"Houston County, MN",27055,White,Not Hispanic or Latino,199.0,17756.0,1120.7,605.3
+2021 (provisional),Minnesota,27,"Hubbard County, MN",27057,White,Not Hispanic or Latino,232.0,20119.0,1153.1,631.4
+2021 (provisional),Minnesota,27,"Isanti County, MN",27059,White,Not Hispanic or Latino,420.0,38443.0,1092.5,856.1
+2021 (provisional),Minnesota,27,"Itasca County, MN",27061,American Indian or Alaska Native,Not Hispanic or Latino,25.0,1615.0,1548.0,1912.1
+2021 (provisional),Minnesota,27,"Itasca County, MN",27061,White,Not Hispanic or Latino,645.0,41405.0,1557.8,918.4
+2021 (provisional),Minnesota,27,"Jackson County, MN",27063,White,Not Hispanic or Latino,100.0,8915.0,1121.7,608.2
+2021 (provisional),Minnesota,27,"Kanabec County, MN",27065,White,Not Hispanic or Latino,207.0,15513.0,1334.4,890.4
+2021 (provisional),Minnesota,27,"Kandiyohi County, MN",27067,White,Hispanic or Latino,17.0,5137.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Kandiyohi County, MN",27067,White,Not Hispanic or Latino,411.0,33709.0,1219.3,703.1
+2021 (provisional),Minnesota,27,"Kittson County, MN",27069,White,Not Hispanic or Latino,61.0,3990.0,1528.8,784.9
+2021 (provisional),Minnesota,27,"Koochiching County, MN",27071,White,Not Hispanic or Latino,183.0,11221.0,1630.9,859.7
+2021 (provisional),Minnesota,27,"Lac qui Parle County, MN",27073,White,Not Hispanic or Latino,100.0,6153.0,1625.2,703.1
+2021 (provisional),Minnesota,27,"Lake County, MN",27075,White,Not Hispanic or Latino,165.0,10121.0,1630.3,785.1
+2021 (provisional),Minnesota,27,"Lake of the Woods County, MN",27077,White,Not Hispanic or Latino,49.0,3467.0,1413.3,816.6
+2021 (provisional),Minnesota,27,"Le Sueur County, MN",27079,White,Not Hispanic or Latino,275.0,25986.0,1058.3,745.2
+2021 (provisional),Minnesota,27,"Lincoln County, MN",27081,White,Not Hispanic or Latino,100.0,5318.0,1880.4,811.6
+2021 (provisional),Minnesota,27,"Lyon County, MN",27083,White,Not Hispanic or Latino,231.0,20867.0,1107.0,686.7
+2021 (provisional),Minnesota,27,"McLeod County, MN",27085,White,Not Hispanic or Latino,406.0,32121.0,1264.0,791.3
+2021 (provisional),Minnesota,27,"Mahnomen County, MN",27087,American Indian or Alaska Native,Not Hispanic or Latino,46.0,2251.0,2043.5,3842.7
+2021 (provisional),Minnesota,27,"Mahnomen County, MN",27087,White,Not Hispanic or Latino,40.0,2445.0,1636.0,762.2
+2021 (provisional),Minnesota,27,"Marshall County, MN",27089,White,Not Hispanic or Latino,96.0,8666.0,1107.8,623.1
+2021 (provisional),Minnesota,27,"Martin County, MN",27091,White,Not Hispanic or Latino,297.0,17891.0,1660.1,816.7
+2021 (provisional),Minnesota,27,"Meeker County, MN",27093,White,Not Hispanic or Latino,237.0,21855.0,1084.4,677.8
+2021 (provisional),Minnesota,27,"Mille Lacs County, MN",27095,American Indian or Alaska Native,Not Hispanic or Latino,39.0,1491.0,2615.7,3043.6
+2021 (provisional),Minnesota,27,"Mille Lacs County, MN",27095,White,Not Hispanic or Latino,333.0,23103.0,1441.4,982.9
+2021 (provisional),Minnesota,27,"Morrison County, MN",27097,White,Not Hispanic or Latino,411.0,31711.0,1296.1,840.1
+2021 (provisional),Minnesota,27,"Mower County, MN",27099,White,Not Hispanic or Latino,421.0,30541.0,1378.5,778.3
+2021 (provisional),Minnesota,27,"Murray County, MN",27101,White,Not Hispanic or Latino,109.0,7472.0,1458.8,741.5
+2021 (provisional),Minnesota,27,"Nicollet County, MN",27103,White,Not Hispanic or Latino,287.0,30107.0,953.3,697.3
+2021 (provisional),Minnesota,27,"Nobles County, MN",27105,White,Hispanic or Latino,12.0,5919.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Nobles County, MN",27105,White,Not Hispanic or Latino,160.0,12119.0,1320.2,671.5
+2021 (provisional),Minnesota,27,"Norman County, MN",27107,White,Not Hispanic or Latino,81.0,5600.0,1446.4,767.2
+2021 (provisional),Minnesota,27,"Olmsted County, MN",27109,Asian,Not Hispanic or Latino,38.0,10367.0,366.5,469.3
+2021 (provisional),Minnesota,27,"Olmsted County, MN",27109,Black or African American,Not Hispanic or Latino,44.0,11153.0,394.5,792.2
+2021 (provisional),Minnesota,27,"Olmsted County, MN",27109,White,Hispanic or Latino,23.0,7375.0,311.9,607.7
+2021 (provisional),Minnesota,27,"Olmsted County, MN",27109,White,Not Hispanic or Latino,1137.0,124844.0,910.7,614.2
+2021 (provisional),Minnesota,27,"Otter Tail County, MN",27111,White,Not Hispanic or Latino,763.0,54094.0,1410.5,748.3
+2021 (provisional),Minnesota,27,"Pennington County, MN",27113,White,Not Hispanic or Latino,149.0,12496.0,1192.4,737.5
+2021 (provisional),Minnesota,27,"Pine County, MN",27115,American Indian or Alaska Native,Not Hispanic or Latino,12.0,872.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Pine County, MN",27115,White,Not Hispanic or Latino,370.0,26138.0,1415.6,871.3
+2021 (provisional),Minnesota,27,"Pipestone County, MN",27117,White,Not Hispanic or Latino,126.0,7930.0,1588.9,831.4
+2021 (provisional),Minnesota,27,"Polk County, MN",27119,White,Not Hispanic or Latino,358.0,26590.0,1346.4,836.3
+2021 (provisional),Minnesota,27,"Pope County, MN",27121,White,Not Hispanic or Latino,146.0,10777.0,1354.7,808.9
+2021 (provisional),Minnesota,27,"Ramsey County, MN",27123,American Indian or Alaska Native,Not Hispanic or Latino,44.0,3121.0,1409.8,1817.7
+2021 (provisional),Minnesota,27,"Ramsey County, MN",27123,Asian,Not Hispanic or Latino,402.0,84847.0,473.8,903.5
+2021 (provisional),Minnesota,27,"Ramsey County, MN",27123,Black or African American,Not Hispanic or Latino,506.0,69600.0,727.0,1148.1
+2021 (provisional),Minnesota,27,"Ramsey County, MN",27123,White,Hispanic or Latino,144.0,32865.0,438.2,815.4
+2021 (provisional),Minnesota,27,"Ramsey County, MN",27123,White,Not Hispanic or Latino,3805.0,330689.0,1150.6,731.9
+2021 (provisional),Minnesota,27,"Ramsey County, MN",27123,More than one race,Not Hispanic or Latino,42.0,17753.0,236.6,576.8
+2021 (provisional),Minnesota,27,"Red Lake County, MN",27125,White,Not Hispanic or Latino,42.0,3694.0,1137.0,721.3
+2021 (provisional),Minnesota,27,"Redwood County, MN",27127,White,Not Hispanic or Latino,176.0,13027.0,1351.0,768.1
+2021 (provisional),Minnesota,27,"Renville County, MN",27129,White,Not Hispanic or Latino,199.0,12530.0,1588.2,849.9
+2021 (provisional),Minnesota,27,"Rice County, MN",27131,White,Hispanic or Latino,11.0,5236.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Rice County, MN",27131,White,Not Hispanic or Latino,587.0,54205.0,1082.9,765.7
+2021 (provisional),Minnesota,27,"Rock County, MN",27133,White,Not Hispanic or Latino,120.0,8641.0,1388.7,775.9
+2021 (provisional),Minnesota,27,"Roseau County, MN",27135,White,Not Hispanic or Latino,161.0,13755.0,1170.5,795.6
+2021 (provisional),Minnesota,27,"St. Louis County, MN",27137,American Indian or Alaska Native,Not Hispanic or Latino,71.0,4248.0,1671.4,1926.7
+2021 (provisional),Minnesota,27,"St. Louis County, MN",27137,Black or African American,Not Hispanic or Latino,26.0,3082.0,843.6,1424.4
+2021 (provisional),Minnesota,27,"St. Louis County, MN",27137,White,Not Hispanic or Latino,2237.0,180294.0,1240.8,814.7
+2021 (provisional),Minnesota,27,"St. Louis County, MN",27137,More than one race,Not Hispanic or Latino,15.0,4873.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Scott County, MN",27139,Asian,Not Hispanic or Latino,46.0,9824.0,468.2,823.2
+2021 (provisional),Minnesota,27,"Scott County, MN",27139,Black or African American,Not Hispanic or Latino,16.0,8487.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Scott County, MN",27139,White,Hispanic or Latino,18.0,6922.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Scott County, MN",27139,White,Not Hispanic or Latino,817.0,119151.0,685.7,657.9
+2021 (provisional),Minnesota,27,"Sherburne County, MN",27141,White,Not Hispanic or Latino,697.0,88769.0,785.2,801.9
+2021 (provisional),Minnesota,27,"Sibley County, MN",27143,White,Not Hispanic or Latino,164.0,12916.0,1269.7,783.4
+2021 (provisional),Minnesota,27,"Stearns County, MN",27145,Asian,Not Hispanic or Latino,13.0,3695.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Stearns County, MN",27145,Black or African American,Not Hispanic or Latino,48.0,13551.0,354.2,895.4
+2021 (provisional),Minnesota,27,"Stearns County, MN",27145,White,Not Hispanic or Latino,1196.0,135193.0,884.7,651.3
+2021 (provisional),Minnesota,27,"Steele County, MN",27147,White,Hispanic or Latino,10.0,2761.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Steele County, MN",27147,White,Not Hispanic or Latino,364.0,31315.0,1162.4,721.6
+2021 (provisional),Minnesota,27,"Stevens County, MN",27149,White,Not Hispanic or Latino,74.0,8320.0,889.4,515.4
+2021 (provisional),Minnesota,27,"Swift County, MN",27151,White,Not Hispanic or Latino,91.0,8199.0,1109.9,656.0
+2021 (provisional),Minnesota,27,"Todd County, MN",27153,White,Not Hispanic or Latino,247.0,22213.0,1112.0,688.7
+2021 (provisional),Minnesota,27,"Traverse County, MN",27155,White,Not Hispanic or Latino,58.0,2762.0,2099.9,1017.0
+2021 (provisional),Minnesota,27,"Wabasha County, MN",27157,White,Not Hispanic or Latino,218.0,20386.0,1069.4,645.8
+2021 (provisional),Minnesota,27,"Wadena County, MN",27159,White,Not Hispanic or Latino,211.0,12920.0,1633.1,964.8
+2021 (provisional),Minnesota,27,"Waseca County, MN",27161,White,Not Hispanic or Latino,184.0,16399.0,1122.0,756.7
+2021 (provisional),Minnesota,27,"Washington County, MN",27163,Asian,Not Hispanic or Latino,52.0,17995.0,289.0,654.6
+2021 (provisional),Minnesota,27,"Washington County, MN",27163,Black or African American,Not Hispanic or Latino,55.0,13474.0,408.2,962.9
+2021 (provisional),Minnesota,27,"Washington County, MN",27163,White,Hispanic or Latino,36.0,10313.0,349.1,594.3
+2021 (provisional),Minnesota,27,"Washington County, MN",27163,White,Not Hispanic or Latino,1852.0,214072.0,865.1,648.1
+2021 (provisional),Minnesota,27,"Washington County, MN",27163,More than one race,Not Hispanic or Latino,18.0,6456.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Watonwan County, MN",27165,White,Not Hispanic or Latino,118.0,7591.0,1554.5,755.9
+2021 (provisional),Minnesota,27,"Wilkin County, MN",27167,White,Not Hispanic or Latino,83.0,5701.0,1455.9,944.4
+2021 (provisional),Minnesota,27,"Winona County, MN",27169,White,Not Hispanic or Latino,419.0,45836.0,914.1,652.9
+2021 (provisional),Minnesota,27,"Wright County, MN",27171,White,Hispanic or Latino,12.0,3943.0,Unreliable,Unreliable
+2021 (provisional),Minnesota,27,"Wright County, MN",27171,White,Not Hispanic or Latino,1065.0,127958.0,832.3,786.2
+2021 (provisional),Minnesota,27,"Yellow Medicine County, MN",27173,White,Not Hispanic or Latino,99.0,8526.0,1161.2,637.8
+2022 (provisional and partial),Minnesota,27,"Aitkin County, MN",27001,White,Not Hispanic or Latino,37.0,14866.0,248.9,123.8
+2022 (provisional and partial),Minnesota,27,"Anoka County, MN",27003,Asian,Not Hispanic or Latino,11.0,19126.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Anoka County, MN",27003,Black or African American,Not Hispanic or Latino,13.0,28072.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Anoka County, MN",27003,White,Not Hispanic or Latino,376.0,282145.0,133.3,104.2
+2022 (provisional and partial),Minnesota,27,"Becker County, MN",27005,White,Not Hispanic or Latino,40.0,29662.0,134.9,75.9
+2022 (provisional and partial),Minnesota,27,"Beltrami County, MN",27007,American Indian or Alaska Native,Not Hispanic or Latino,17.0,9965.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Beltrami County, MN",27007,White,Not Hispanic or Latino,50.0,34090.0,146.7,97.4
+2022 (provisional and partial),Minnesota,27,"Benton County, MN",27009,White,Not Hispanic or Latino,68.0,36053.0,188.6,148.2
+2022 (provisional and partial),Minnesota,27,"Blue Earth County, MN",27013,White,Not Hispanic or Latino,57.0,59031.0,96.6,72.3
+2022 (provisional and partial),Minnesota,27,"Brown County, MN",27015,White,Not Hispanic or Latino,53.0,23102.0,229.4,117.6
+2022 (provisional and partial),Minnesota,27,"Carlton County, MN",27017,White,Not Hispanic or Latino,52.0,31495.0,165.1,114.3
+2022 (provisional and partial),Minnesota,27,"Carver County, MN",27019,White,Not Hispanic or Latino,90.0,93769.0,96.0,89.9
+2022 (provisional and partial),Minnesota,27,"Cass County, MN",27021,White,Not Hispanic or Latino,49.0,24793.0,197.6,112.0
+2022 (provisional and partial),Minnesota,27,"Chippewa County, MN",27023,White,Not Hispanic or Latino,30.0,10076.0,297.7,165.0
+2022 (provisional and partial),Minnesota,27,"Chisago County, MN",27025,White,Not Hispanic or Latino,70.0,52594.0,133.1,102.8
+2022 (provisional and partial),Minnesota,27,"Clay County, MN",27027,White,Not Hispanic or Latino,80.0,55254.0,144.8,117.1
+2022 (provisional and partial),Minnesota,27,"Clearwater County, MN",27029,White,Not Hispanic or Latino,11.0,7614.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Cook County, MN",27031,White,Not Hispanic or Latino,10.0,4558.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Cottonwood County, MN",27033,White,Not Hispanic or Latino,24.0,9454.0,253.9,108.9
+2022 (provisional and partial),Minnesota,27,"Crow Wing County, MN",27035,White,Not Hispanic or Latino,121.0,62102.0,194.8,119.0
+2022 (provisional and partial),Minnesota,27,"Dakota County, MN",27037,Asian,Not Hispanic or Latino,10.0,23132.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Dakota County, MN",27037,Black or African American,Not Hispanic or Latino,19.0,32944.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Dakota County, MN",27037,White,Hispanic or Latino,14.0,28123.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Dakota County, MN",27037,White,Not Hispanic or Latino,416.0,329532.0,126.2,95.1
+2022 (provisional and partial),Minnesota,27,"Dodge County, MN",27039,White,Not Hispanic or Latino,28.0,19243.0,145.5,111.8
+2022 (provisional and partial),Minnesota,27,"Douglas County, MN",27041,White,Not Hispanic or Latino,57.0,36587.0,155.8,88.3
+2022 (provisional and partial),Minnesota,27,"Faribault County, MN",27043,White,Not Hispanic or Latino,32.0,12202.0,262.3,139.5
+2022 (provisional and partial),Minnesota,27,"Fillmore County, MN",27045,White,Not Hispanic or Latino,36.0,20265.0,177.6,99.4
+2022 (provisional and partial),Minnesota,27,"Freeborn County, MN",27047,White,Not Hispanic or Latino,59.0,25198.0,234.1,111.9
+2022 (provisional and partial),Minnesota,27,"Goodhue County, MN",27049,White,Not Hispanic or Latino,77.0,42377.0,181.7,106.6
+2022 (provisional and partial),Minnesota,27,"Hennepin County, MN",27053,American Indian or Alaska Native,Not Hispanic or Latino,28.0,8208.0,341.1,557.4
+2022 (provisional and partial),Minnesota,27,"Hennepin County, MN",27053,Asian,Not Hispanic or Latino,47.0,95801.0,49.1,89.3
+2022 (provisional and partial),Minnesota,27,"Hennepin County, MN",27053,Black or African American,Not Hispanic or Latino,124.0,173411.0,71.5,110.5
+2022 (provisional and partial),Minnesota,27,"Hennepin County, MN",27053,White,Hispanic or Latino,20.0,73051.0,27.4,73.4
+2022 (provisional and partial),Minnesota,27,"Hennepin County, MN",27053,White,Not Hispanic or Latino,1092.0,863396.0,126.5,84.9
+2022 (provisional and partial),Minnesota,27,"Hennepin County, MN",27053,More than one race,Not Hispanic or Latino,11.0,38090.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Houston County, MN",27055,White,Not Hispanic or Latino,29.0,17756.0,163.3,91.9
+2022 (provisional and partial),Minnesota,27,"Hubbard County, MN",27057,White,Not Hispanic or Latino,27.0,20119.0,134.2,71.1
+2022 (provisional and partial),Minnesota,27,"Isanti County, MN",27059,White,Not Hispanic or Latino,62.0,38443.0,161.3,123.8
+2022 (provisional and partial),Minnesota,27,"Itasca County, MN",27061,White,Not Hispanic or Latino,89.0,41405.0,214.9,124.4
+2022 (provisional and partial),Minnesota,27,"Jackson County, MN",27063,White,Not Hispanic or Latino,17.0,8915.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Kanabec County, MN",27065,White,Not Hispanic or Latino,28.0,15513.0,180.5,117.8
+2022 (provisional and partial),Minnesota,27,"Kandiyohi County, MN",27067,White,Not Hispanic or Latino,56.0,33709.0,166.1,86.8
+2022 (provisional and partial),Minnesota,27,"Kittson County, MN",27069,White,Not Hispanic or Latino,14.0,3990.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Koochiching County, MN",27071,White,Not Hispanic or Latino,22.0,11221.0,196.1,92.2
+2022 (provisional and partial),Minnesota,27,"Lac qui Parle County, MN",27073,White,Not Hispanic or Latino,10.0,6153.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Lake County, MN",27075,White,Not Hispanic or Latino,16.0,10121.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Le Sueur County, MN",27079,White,Not Hispanic or Latino,34.0,25986.0,130.8,85.6
+2022 (provisional and partial),Minnesota,27,"Lyon County, MN",27083,White,Not Hispanic or Latino,25.0,20867.0,119.8,72.1
+2022 (provisional and partial),Minnesota,27,"McLeod County, MN",27085,White,Not Hispanic or Latino,54.0,32121.0,168.1,103.4
+2022 (provisional and partial),Minnesota,27,"Mahnomen County, MN",27087,White,Not Hispanic or Latino,10.0,2445.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Marshall County, MN",27089,White,Not Hispanic or Latino,12.0,8666.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Martin County, MN",27091,White,Not Hispanic or Latino,31.0,17891.0,173.3,78.6
+2022 (provisional and partial),Minnesota,27,"Meeker County, MN",27093,White,Not Hispanic or Latino,40.0,21855.0,183.0,105.7
+2022 (provisional and partial),Minnesota,27,"Mille Lacs County, MN",27095,White,Not Hispanic or Latino,47.0,23103.0,203.4,132.6
+2022 (provisional and partial),Minnesota,27,"Morrison County, MN",27097,White,Not Hispanic or Latino,49.0,31711.0,154.5,100.3
+2022 (provisional and partial),Minnesota,27,"Mower County, MN",27099,White,Not Hispanic or Latino,62.0,30541.0,203.0,103.4
+2022 (provisional and partial),Minnesota,27,"Murray County, MN",27101,White,Not Hispanic or Latino,14.0,7472.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Nicollet County, MN",27103,White,Not Hispanic or Latino,36.0,30107.0,119.6,86.5
+2022 (provisional and partial),Minnesota,27,"Nobles County, MN",27105,White,Not Hispanic or Latino,21.0,12119.0,173.3,79.5
+2022 (provisional and partial),Minnesota,27,"Norman County, MN",27107,White,Not Hispanic or Latino,20.0,5600.0,357.1,188.1
+2022 (provisional and partial),Minnesota,27,"Olmsted County, MN",27109,White,Not Hispanic or Latino,174.0,124844.0,139.4,96.2
+2022 (provisional and partial),Minnesota,27,"Otter Tail County, MN",27111,White,Not Hispanic or Latino,124.0,54094.0,229.2,118.5
+2022 (provisional and partial),Minnesota,27,"Pennington County, MN",27113,White,Not Hispanic or Latino,20.0,12496.0,160.1,109.0
+2022 (provisional and partial),Minnesota,27,"Pine County, MN",27115,White,Not Hispanic or Latino,68.0,26138.0,260.2,147.1
+2022 (provisional and partial),Minnesota,27,"Pipestone County, MN",27117,White,Not Hispanic or Latino,14.0,7930.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Polk County, MN",27119,White,Not Hispanic or Latino,58.0,26590.0,218.1,118.0
+2022 (provisional and partial),Minnesota,27,"Pope County, MN",27121,White,Not Hispanic or Latino,16.0,10777.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Ramsey County, MN",27123,Asian,Not Hispanic or Latino,51.0,84847.0,60.1,119.9
+2022 (provisional and partial),Minnesota,27,"Ramsey County, MN",27123,Black or African American,Not Hispanic or Latino,39.0,69600.0,56.0,89.6
+2022 (provisional and partial),Minnesota,27,"Ramsey County, MN",27123,White,Hispanic or Latino,17.0,32865.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Ramsey County, MN",27123,White,Not Hispanic or Latino,577.0,330689.0,174.5,108.7
+2022 (provisional and partial),Minnesota,27,"Redwood County, MN",27127,White,Not Hispanic or Latino,27.0,13027.0,207.3,111.6
+2022 (provisional and partial),Minnesota,27,"Renville County, MN",27129,White,Not Hispanic or Latino,27.0,12530.0,215.5,123.5
+2022 (provisional and partial),Minnesota,27,"Rice County, MN",27131,White,Not Hispanic or Latino,87.0,54205.0,160.5,108.5
+2022 (provisional and partial),Minnesota,27,"Rock County, MN",27133,White,Not Hispanic or Latino,13.0,8641.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Roseau County, MN",27135,White,Not Hispanic or Latino,18.0,13755.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"St. Louis County, MN",27137,White,Not Hispanic or Latino,301.0,180294.0,166.9,107.0
+2022 (provisional and partial),Minnesota,27,"Scott County, MN",27139,White,Not Hispanic or Latino,102.0,119151.0,85.6,83.1
+2022 (provisional and partial),Minnesota,27,"Sherburne County, MN",27141,White,Not Hispanic or Latino,96.0,88769.0,108.1,110.4
+2022 (provisional and partial),Minnesota,27,"Sibley County, MN",27143,White,Not Hispanic or Latino,21.0,12916.0,162.6,97.2
+2022 (provisional and partial),Minnesota,27,"Stearns County, MN",27145,White,Not Hispanic or Latino,190.0,135193.0,140.5,99.4
+2022 (provisional and partial),Minnesota,27,"Steele County, MN",27147,White,Not Hispanic or Latino,48.0,31315.0,153.3,96.8
+2022 (provisional and partial),Minnesota,27,"Stevens County, MN",27149,White,Not Hispanic or Latino,14.0,8320.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Swift County, MN",27151,White,Not Hispanic or Latino,15.0,8199.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Todd County, MN",27153,White,Not Hispanic or Latino,33.0,22213.0,148.6,96.9
+2022 (provisional and partial),Minnesota,27,"Wabasha County, MN",27157,White,Not Hispanic or Latino,27.0,20386.0,132.4,75.6
+2022 (provisional and partial),Minnesota,27,"Wadena County, MN",27159,White,Not Hispanic or Latino,28.0,12920.0,216.7,115.7
+2022 (provisional and partial),Minnesota,27,"Waseca County, MN",27161,White,Not Hispanic or Latino,25.0,16399.0,152.4,94.7
+2022 (provisional and partial),Minnesota,27,"Washington County, MN",27163,Asian,Not Hispanic or Latino,15.0,17995.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Washington County, MN",27163,White,Not Hispanic or Latino,288.0,214072.0,134.5,99.1
+2022 (provisional and partial),Minnesota,27,"Watonwan County, MN",27165,White,Not Hispanic or Latino,26.0,7591.0,342.5,155.0
+2022 (provisional and partial),Minnesota,27,"Wilkin County, MN",27167,White,Not Hispanic or Latino,10.0,5701.0,Unreliable,Unreliable
+2022 (provisional and partial),Minnesota,27,"Winona County, MN",27169,White,Not Hispanic or Latino,61.0,45836.0,133.1,93.7
+2022 (provisional and partial),Minnesota,27,"Wright County, MN",27171,White,Not Hispanic or Latino,135.0,127958.0,105.5,98.5
+2022 (provisional and partial),Minnesota,27,"Yellow Medicine County, MN",27173,White,Not Hispanic or Latino,20.0,8526.0,234.6,134.4

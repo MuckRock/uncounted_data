@@ -1,0 +1,68 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Delaware,10,"Kent County, DE",10001,Asian,Not Hispanic or Latino,23.0,4161.0,552.8,473.8
+2018,Delaware,10,"Kent County, DE",10001,Black or African American,Not Hispanic or Latino,372.0,45470.0,818.1,863.3
+2018,Delaware,10,"Kent County, DE",10001,White,Hispanic or Latino,29.0,9440.0,307.2,492.2
+2018,Delaware,10,"Kent County, DE",10001,White,Not Hispanic or Latino,1311.0,108796.0,1205.0,853.7
+2018,Delaware,10,"Kent County, DE",10001,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,Delaware,10,"New Castle County, DE",10003,Asian,Not Hispanic or Latino,70.0,31809.0,220.1,319.5
+2018,Delaware,10,"New Castle County, DE",10003,Black or African American,Not Hispanic or Latino,1090.0,138999.0,784.2,848.6
+2018,Delaware,10,"New Castle County, DE",10003,White,Hispanic or Latino,118.0,46089.0,256.0,507.7
+2018,Delaware,10,"New Castle County, DE",10003,White,Not Hispanic or Latino,3638.0,317639.0,1145.3,771.5
+2018,Delaware,10,"New Castle County, DE",10003,White,Not Stated,20.0,Not Applicable,Not Applicable,Not Applicable
+2018,Delaware,10,"Sussex County, DE",10005,Asian,Not Hispanic or Latino,12.0,2951.0,Unreliable,Unreliable
+2018,Delaware,10,"Sussex County, DE",10005,Black or African American,Not Hispanic or Latino,224.0,27035.0,828.6,825.0
+2018,Delaware,10,"Sussex County, DE",10005,White,Hispanic or Latino,30.0,17429.0,172.1,323.2
+2018,Delaware,10,"Sussex County, DE",10005,White,Not Hispanic or Latino,2418.0,172626.0,1400.7,745.7
+2019,Delaware,10,"Kent County, DE",10001,Asian,Not Hispanic or Latino,16.0,4200.0,Unreliable,Unreliable
+2019,Delaware,10,"Kent County, DE",10001,Black or African American,Not Hispanic or Latino,372.0,46964.0,792.1,795.4
+2019,Delaware,10,"Kent County, DE",10001,White,Hispanic or Latino,33.0,9504.0,347.2,458.9
+2019,Delaware,10,"Kent County, DE",10001,White,Not Hispanic or Latino,1221.0,109170.0,1118.4,787.4
+2019,Delaware,10,"Kent County, DE",10001,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,Delaware,10,"New Castle County, DE",10003,Asian,Not Hispanic or Latino,72.0,31898.0,225.7,291.0
+2019,Delaware,10,"New Castle County, DE",10003,Black or African American,Not Hispanic or Latino,1066.0,140346.0,759.6,803.8
+2019,Delaware,10,"New Castle County, DE",10003,White,Hispanic or Latino,121.0,46349.0,261.1,462.0
+2019,Delaware,10,"New Castle County, DE",10003,White,Not Hispanic or Latino,3607.0,314663.0,1146.3,756.7
+2019,Delaware,10,"New Castle County, DE",10003,White,Not Stated,17.0,Not Applicable,Not Applicable,Not Applicable
+2019,Delaware,10,"New Castle County, DE",10003,More than one race,Not Hispanic or Latino,10.0,12461.0,Unreliable,Unreliable
+2019,Delaware,10,"Sussex County, DE",10005,American Indian or Alaska Native,Not Hispanic or Latino,11.0,990.0,Unreliable,Unreliable
+2019,Delaware,10,"Sussex County, DE",10005,Black or African American,Not Hispanic or Latino,231.0,27348.0,844.7,808.2
+2019,Delaware,10,"Sussex County, DE",10005,White,Hispanic or Latino,45.0,17873.0,251.8,383.4
+2019,Delaware,10,"Sussex County, DE",10005,White,Not Hispanic or Latino,2414.0,176516.0,1367.6,727.7
+2020,Delaware,10,"Kent County, DE",10001,Asian,Not Hispanic or Latino,17.0,4243.0,Unreliable,Unreliable
+2020,Delaware,10,"Kent County, DE",10001,Black or African American,Not Hispanic or Latino,507.0,48446.0,1046.5,1033.4
+2020,Delaware,10,"Kent County, DE",10001,White,Hispanic or Latino,44.0,9895.0,444.7,673.4
+2020,Delaware,10,"Kent County, DE",10001,White,Not Hispanic or Latino,1444.0,109450.0,1319.3,896.7
+2020,Delaware,10,"New Castle County, DE",10003,Asian,Not Hispanic or Latino,87.0,33349.0,260.9,333.7
+2020,Delaware,10,"New Castle County, DE",10003,Black or African American,Hispanic or Latino,11.0,8121.0,Unreliable,Unreliable
+2020,Delaware,10,"New Castle County, DE",10003,Black or African American,Not Hispanic or Latino,1366.0,142457.0,958.9,975.2
+2020,Delaware,10,"New Castle County, DE",10003,White,Hispanic or Latino,170.0,47015.0,361.6,673.4
+2020,Delaware,10,"New Castle County, DE",10003,White,Not Hispanic or Latino,4108.0,311094.0,1320.5,854.6
+2020,Delaware,10,"New Castle County, DE",10003,More than one race,Not Hispanic or Latino,10.0,13279.0,Unreliable,Unreliable
+2020,Delaware,10,"Sussex County, DE",10005,American Indian or Alaska Native,Not Hispanic or Latino,12.0,978.0,Unreliable,Unreliable
+2020,Delaware,10,"Sussex County, DE",10005,Asian,Not Hispanic or Latino,22.0,3181.0,691.6,520.6
+2020,Delaware,10,"Sussex County, DE",10005,Black or African American,Not Hispanic or Latino,327.0,27689.0,1181.0,1088.3
+2020,Delaware,10,"Sussex County, DE",10005,White,Hispanic or Latino,52.0,18459.0,281.7,458.1
+2020,Delaware,10,"Sussex County, DE",10005,White,Not Hispanic or Latino,2861.0,181985.0,1572.1,801.0
+2021 (provisional),Delaware,10,"Kent County, DE",10001,Asian,Not Hispanic or Latino,19.0,4243.0,Unreliable,Unreliable
+2021 (provisional),Delaware,10,"Kent County, DE",10001,Black or African American,Not Hispanic or Latino,472.0,48446.0,974.3,959.0
+2021 (provisional),Delaware,10,"Kent County, DE",10001,White,Hispanic or Latino,39.0,9895.0,394.1,531.4
+2021 (provisional),Delaware,10,"Kent County, DE",10001,White,Not Hispanic or Latino,1675.0,109450.0,1530.4,1052.5
+2021 (provisional),Delaware,10,"Kent County, DE",10001,More than one race,Not Hispanic or Latino,10.0,6338.0,Unreliable,Unreliable
+2021 (provisional),Delaware,10,"New Castle County, DE",10003,Asian,Not Hispanic or Latino,93.0,33349.0,278.9,346.1
+2021 (provisional),Delaware,10,"New Castle County, DE",10003,Black or African American,Not Hispanic or Latino,1324.0,142457.0,929.4,931.1
+2021 (provisional),Delaware,10,"New Castle County, DE",10003,White,Hispanic or Latino,180.0,47015.0,382.9,637.6
+2021 (provisional),Delaware,10,"New Castle County, DE",10003,White,Not Hispanic or Latino,4074.0,311094.0,1309.6,849.5
+2021 (provisional),Delaware,10,"New Castle County, DE",10003,More than one race,Not Hispanic or Latino,14.0,13279.0,Unreliable,Unreliable
+2021 (provisional),Delaware,10,"Sussex County, DE",10005,Asian,Not Hispanic or Latino,15.0,3181.0,Unreliable,Unreliable
+2021 (provisional),Delaware,10,"Sussex County, DE",10005,Black or African American,Not Hispanic or Latino,319.0,27689.0,1152.1,1080.2
+2021 (provisional),Delaware,10,"Sussex County, DE",10005,White,Hispanic or Latino,50.0,18459.0,270.9,466.7
+2021 (provisional),Delaware,10,"Sussex County, DE",10005,White,Not Hispanic or Latino,2904.0,181985.0,1595.7,827.6
+2022 (provisional and partial),Delaware,10,"Kent County, DE",10001,Black or African American,Not Hispanic or Latino,80.0,48446.0,165.1,160.5
+2022 (provisional and partial),Delaware,10,"Kent County, DE",10001,White,Not Hispanic or Latino,273.0,109450.0,249.4,166.4
+2022 (provisional and partial),Delaware,10,"New Castle County, DE",10003,Asian,Not Hispanic or Latino,14.0,33349.0,Unreliable,Unreliable
+2022 (provisional and partial),Delaware,10,"New Castle County, DE",10003,Black or African American,Not Hispanic or Latino,208.0,142457.0,146.0,149.0
+2022 (provisional and partial),Delaware,10,"New Castle County, DE",10003,White,Hispanic or Latino,31.0,47015.0,65.9,113.7
+2022 (provisional and partial),Delaware,10,"New Castle County, DE",10003,White,Not Hispanic or Latino,619.0,311094.0,199.0,125.8
+2022 (provisional and partial),Delaware,10,"Sussex County, DE",10005,Black or African American,Not Hispanic or Latino,50.0,27689.0,180.6,173.7
+2022 (provisional and partial),Delaware,10,"Sussex County, DE",10005,White,Hispanic or Latino,13.0,18459.0,Unreliable,Unreliable
+2022 (provisional and partial),Delaware,10,"Sussex County, DE",10005,White,Not Hispanic or Latino,493.0,181985.0,270.9,138.9

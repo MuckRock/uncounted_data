@@ -1,0 +1,198 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Alaska,02,"Anchorage Borough, AK",02020,American Indian or Alaska Native,Not Hispanic or Latino,251.0,23553.0,1065.7,1399.2
+2018,Alaska,02,"Anchorage Borough, AK",02020,Asian,Not Hispanic or Latino,88.0,28757.0,306.0,364.3
+2018,Alaska,02,"Anchorage Borough, AK",02020,Black or African American,Not Hispanic or Latino,104.0,15883.0,654.8,948.1
+2018,Alaska,02,"Anchorage Borough, AK",02020,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,34.0,7488.0,454.1,887.1
+2018,Alaska,02,"Anchorage Borough, AK",02020,White,Hispanic or Latino,59.0,19217.0,307.0,597.5
+2018,Alaska,02,"Anchorage Borough, AK",02020,White,Not Hispanic or Latino,1084.0,167099.0,648.7,628.1
+2018,Alaska,02,"Anchorage Borough, AK",02020,More than one race,Not Hispanic or Latino,52.0,21651.0,240.2,757.0
+2018,Alaska,02,"Bethel Census Area, AK",02050,American Indian or Alaska Native,Not Hispanic or Latino,110.0,14998.0,733.4,1213.9
+2018,Alaska,02,"Dillingham Census Area, AK",02070,American Indian or Alaska Native,Not Hispanic or Latino,28.0,3524.0,794.6,1117.6
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,American Indian or Alaska Native,Not Hispanic or Latino,61.0,7321.0,833.2,1065.2
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Asian,Not Hispanic or Latino,12.0,3328.0,Unreliable,Unreliable
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Black or African American,Not Hispanic or Latino,11.0,4850.0,Unreliable,Unreliable
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Hispanic or Latino,10.0,6392.0,Unreliable,Unreliable
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Not Hispanic or Latino,340.0,68542.0,496.0,606.5
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,More than one race,Not Hispanic or Latino,25.0,6157.0,406.0,993.8
+2018,Alaska,02,"Haines Borough, AK",02100,White,Not Hispanic or Latino,10.0,1915.0,Unreliable,Unreliable
+2018,Alaska,02,"Juneau Borough, AK",02110,American Indian or Alaska Native,Not Hispanic or Latino,31.0,3492.0,887.7,1091.2
+2018,Alaska,02,"Juneau Borough, AK",02110,White,Not Hispanic or Latino,117.0,20637.0,566.9,521.0
+2018,Alaska,02,"Juneau Borough, AK",02110,More than one race,Not Hispanic or Latino,22.0,2810.0,782.9,1612.6
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,American Indian or Alaska Native,Not Hispanic or Latino,36.0,4423.0,813.9,1227.2
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,White,Not Hispanic or Latino,441.0,46873.0,940.8,768.7
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,More than one race,Not Hispanic or Latino,18.0,3192.0,Unreliable,Unreliable
+2018,Alaska,02,"Ketchikan Gateway Borough, AK",02130,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1814.0,1157.7,1109.1
+2018,Alaska,02,"Ketchikan Gateway Borough, AK",02130,White,Not Hispanic or Latino,71.0,8793.0,807.5,669.3
+2018,Alaska,02,"Kodiak Island Borough, AK",02150,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1586.0,Unreliable,Unreliable
+2018,Alaska,02,"Kodiak Island Borough, AK",02150,White,Not Hispanic or Latino,40.0,6554.0,610.3,806.7
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,American Indian or Alaska Native,Not Hispanic or Latino,34.0,6877.0,494.4,842.4
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Asian,Not Hispanic or Latino,11.0,1812.0,Unreliable,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Hispanic or Latino,15.0,4087.0,Unreliable,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Not Hispanic or Latino,533.0,84961.0,627.3,678.9
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,More than one race,Not Hispanic or Latino,13.0,6888.0,Unreliable,Unreliable
+2018,Alaska,02,"Nome Census Area, AK",02180,American Indian or Alaska Native,Not Hispanic or Latino,60.0,7417.0,809.0,1463.4
+2018,Alaska,02,"North Slope Borough, AK",02185,American Indian or Alaska Native,Not Hispanic or Latino,39.0,5007.0,778.9,1002.4
+2018,Alaska,02,"Northwest Arctic Borough, AK",02188,American Indian or Alaska Native,Not Hispanic or Latino,58.0,5950.0,974.8,1296.3
+2018,Alaska,02,"Petersburg Borough/Census Area, AK",02195,White,Not Hispanic or Latino,21.0,2294.0,915.4,604.3
+2018,Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2643.0,983.7,1019.7
+2018,Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,White,Not Hispanic or Latino,21.0,2921.0,718.9,512.0
+2018,Alaska,02,"Sitka Borough, AK",02220,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1255.0,Unreliable,Unreliable
+2018,Alaska,02,"Sitka Borough, AK",02220,White,Not Hispanic or Latino,48.0,5282.0,908.7,688.3
+2018,Alaska,02,"Southeast Fairbanks Census Area, AK",02240,White,Not Hispanic or Latino,33.0,5042.0,654.5,679.7
+2018,Alaska,02,"Valdez-Cordova Census Area, AK",02261,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1216.0,Unreliable,Unreliable
+2018,Alaska,02,"Valdez-Cordova Census Area, AK",02261,White,Not Hispanic or Latino,46.0,6333.0,726.4,779.5
+2018,Alaska,02,"Wade Hampton Census Area, AK",02270,American Indian or Alaska Native,Not Hispanic or Latino,53.0,7515.0,705.3,1219.8
+2018,Alaska,02,"Wrangell City and Borough, AK",02275,White,Not Hispanic or Latino,17.0,1675.0,Unreliable,Unreliable
+2018,Alaska,02,"Yukon-Koyukuk Census Area, AK",02290,American Indian or Alaska Native,Not Hispanic or Latino,46.0,3642.0,1263.0,1297.4
+2019,Alaska,02,"Anchorage Borough, AK",02020,American Indian or Alaska Native,Not Hispanic or Latino,268.0,23808.0,1125.7,1385.8
+2019,Alaska,02,"Anchorage Borough, AK",02020,Asian,Not Hispanic or Latino,118.0,28106.0,419.8,453.9
+2019,Alaska,02,"Anchorage Borough, AK",02020,Black or African American,Not Hispanic or Latino,93.0,15359.0,605.5,783.4
+2019,Alaska,02,"Anchorage Borough, AK",02020,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,49.0,7740.0,633.1,1240.9
+2019,Alaska,02,"Anchorage Borough, AK",02020,White,Hispanic or Latino,53.0,19206.0,276.0,526.2
+2019,Alaska,02,"Anchorage Borough, AK",02020,White,Not Hispanic or Latino,1163.0,164464.0,707.1,661.3
+2019,Alaska,02,"Anchorage Borough, AK",02020,More than one race,Not Hispanic or Latino,75.0,21531.0,348.3,1132.6
+2019,Alaska,02,"Bethel Census Area, AK",02050,American Indian or Alaska Native,Not Hispanic or Latino,113.0,15117.0,747.5,1250.5
+2019,Alaska,02,"Dillingham Census Area, AK",02070,American Indian or Alaska Native,Not Hispanic or Latino,41.0,3492.0,1174.1,1449.5
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,American Indian or Alaska Native,Not Hispanic or Latino,58.0,7423.0,781.4,1004.1
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Black or African American,Not Hispanic or Latino,13.0,4638.0,Unreliable,Unreliable
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Hispanic or Latino,12.0,6166.0,Unreliable,Unreliable
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Not Hispanic or Latino,362.0,67064.0,539.8,586.6
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,More than one race,Not Hispanic or Latino,13.0,6103.0,Unreliable,Unreliable
+2019,Alaska,02,"Juneau Borough, AK",02110,American Indian or Alaska Native,Not Hispanic or Latino,36.0,3504.0,1027.4,1174.9
+2019,Alaska,02,"Juneau Borough, AK",02110,White,Not Hispanic or Latino,116.0,20481.0,566.4,529.9
+2019,Alaska,02,"Juneau Borough, AK",02110,More than one race,Not Hispanic or Latino,21.0,2822.0,744.2,1565.0
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,American Indian or Alaska Native,Not Hispanic or Latino,28.0,4464.0,627.2,782.5
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,White,Not Hispanic or Latino,383.0,46980.0,815.2,658.1
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,More than one race,Not Hispanic or Latino,17.0,3140.0,Unreliable,Unreliable
+2019,Alaska,02,"Ketchikan Gateway Borough, AK",02130,American Indian or Alaska Native,Not Hispanic or Latino,23.0,1801.0,1277.1,1267.2
+2019,Alaska,02,"Ketchikan Gateway Borough, AK",02130,White,Not Hispanic or Latino,78.0,8877.0,878.7,712.5
+2019,Alaska,02,"Kodiak Island Borough, AK",02150,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1564.0,Unreliable,Unreliable
+2019,Alaska,02,"Kodiak Island Borough, AK",02150,White,Not Hispanic or Latino,42.0,6383.0,658.0,742.8
+2019,Alaska,02,"Lake and Peninsula Borough, AK",02164,American Indian or Alaska Native,Not Hispanic or Latino,11.0,951.0,Unreliable,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,American Indian or Alaska Native,Not Hispanic or Latino,42.0,7018.0,598.5,848.7
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Hispanic or Latino,18.0,4215.0,Unreliable,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Not Hispanic or Latino,556.0,85160.0,652.9,683.9
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,More than one race,Not Hispanic or Latino,19.0,6991.0,Unreliable,Unreliable
+2019,Alaska,02,"Nome Census Area, AK",02180,American Indian or Alaska Native,Not Hispanic or Latino,74.0,7370.0,1004.1,1542.2
+2019,Alaska,02,"North Slope Borough, AK",02185,American Indian or Alaska Native,Not Hispanic or Latino,49.0,5020.0,976.1,1295.8
+2019,Alaska,02,"Northwest Arctic Borough, AK",02188,American Indian or Alaska Native,Not Hispanic or Latino,50.0,5924.0,844.0,1100.3
+2019,Alaska,02,"Petersburg Borough/Census Area, AK",02195,White,Not Hispanic or Latino,23.0,2317.0,992.7,716.8
+2019,Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,American Indian or Alaska Native,Not Hispanic or Latino,32.0,2523.0,1268.3,1232.7
+2019,Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,White,Not Hispanic or Latino,20.0,2788.0,717.4,449.0
+2019,Alaska,02,"Sitka Borough, AK",02220,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1183.0,Unreliable,Unreliable
+2019,Alaska,02,"Sitka Borough, AK",02220,White,Not Hispanic or Latino,39.0,5236.0,744.8,552.3
+2019,Alaska,02,"Southeast Fairbanks Census Area, AK",02240,White,Not Hispanic or Latino,44.0,4992.0,881.4,835.4
+2019,Alaska,02,"Valdez-Cordova Census Area, AK",02261,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1215.0,Unreliable,Unreliable
+2019,Alaska,02,"Valdez-Cordova Census Area, AK",02261,White,Not Hispanic or Latino,47.0,6327.0,742.8,750.8
+2019,Alaska,02,"Wade Hampton Census Area, AK",02270,American Indian or Alaska Native,Not Hispanic or Latino,64.0,7517.0,851.4,1466.7
+2019,Alaska,02,"Wrangell City and Borough, AK",02275,White,Not Hispanic or Latino,15.0,1666.0,Unreliable,Unreliable
+2019,Alaska,02,"Yukon-Koyukuk Census Area, AK",02290,American Indian or Alaska Native,Not Hispanic or Latino,35.0,3518.0,994.9,1101.7
+2020,Alaska,02,"Anchorage Borough, AK",02020,American Indian or Alaska Native,Not Hispanic or Latino,360.0,23699.0,1519.1,1895.2
+2020,Alaska,02,"Anchorage Borough, AK",02020,Asian,Not Hispanic or Latino,129.0,28106.0,459.0,479.3
+2020,Alaska,02,"Anchorage Borough, AK",02020,Black or African American,Not Hispanic or Latino,113.0,15004.0,753.1,975.9
+2020,Alaska,02,"Anchorage Borough, AK",02020,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,69.0,8845.0,780.1,1482.5
+2020,Alaska,02,"Anchorage Borough, AK",02020,White,Hispanic or Latino,62.0,19182.0,323.2,560.0
+2020,Alaska,02,"Anchorage Borough, AK",02020,White,Not Hispanic or Latino,1227.0,161820.0,758.2,692.2
+2020,Alaska,02,"Anchorage Borough, AK",02020,More than one race,Not Hispanic or Latino,89.0,22241.0,400.2,1137.4
+2020,Alaska,02,"Bethel Census Area, AK",02050,American Indian or Alaska Native,Not Hispanic or Latino,134.0,15307.0,875.4,1471.6
+2020,Alaska,02,"Dillingham Census Area, AK",02070,American Indian or Alaska Native,Not Hispanic or Latino,41.0,3473.0,1180.5,1495.7
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,American Indian or Alaska Native,Not Hispanic or Latino,86.0,7383.0,1164.8,1410.0
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Asian,Not Hispanic or Latino,11.0,3155.0,Unreliable,Unreliable
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Black or African American,Not Hispanic or Latino,24.0,4479.0,535.8,953.9
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Not Hispanic or Latino,393.0,66113.0,594.4,647.0
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,More than one race,Not Hispanic or Latino,17.0,6271.0,Unreliable,Unreliable
+2020,Alaska,02,"Haines Borough, AK",02100,White,Not Hispanic or Latino,20.0,2030.0,985.2,645.2
+2020,Alaska,02,"Hoonah-Angoon Census Area, AK",02105,American Indian or Alaska Native,Not Hispanic or Latino,10.0,739.0,Unreliable,Unreliable
+2020,Alaska,02,"Hoonah-Angoon Census Area, AK",02105,White,Not Hispanic or Latino,10.0,992.0,Unreliable,Unreliable
+2020,Alaska,02,"Juneau Borough, AK",02110,American Indian or Alaska Native,Not Hispanic or Latino,31.0,3445.0,899.9,961.1
+2020,Alaska,02,"Juneau Borough, AK",02110,White,Not Hispanic or Latino,132.0,20302.0,650.2,596.9
+2020,Alaska,02,"Juneau Borough, AK",02110,More than one race,Not Hispanic or Latino,27.0,2894.0,933.0,1595.7
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,American Indian or Alaska Native,Not Hispanic or Latino,34.0,4589.0,740.9,1012.5
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,White,Not Hispanic or Latino,408.0,47243.0,863.6,658.5
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,More than one race,Not Hispanic or Latino,12.0,3306.0,Unreliable,Unreliable
+2020,Alaska,02,"Ketchikan Gateway Borough, AK",02130,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1796.0,1169.3,1116.7
+2020,Alaska,02,"Ketchikan Gateway Borough, AK",02130,White,Not Hispanic or Latino,75.0,8686.0,863.5,695.4
+2020,Alaska,02,"Kodiak Island Borough, AK",02150,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1514.0,1453.1,1658.9
+2020,Alaska,02,"Kodiak Island Borough, AK",02150,Asian,Not Hispanic or Latino,11.0,2988.0,Unreliable,Unreliable
+2020,Alaska,02,"Kodiak Island Borough, AK",02150,White,Not Hispanic or Latino,37.0,6216.0,595.2,688.4
+2020,Alaska,02,"Lake and Peninsula Borough, AK",02164,American Indian or Alaska Native,Not Hispanic or Latino,17.0,895.0,Unreliable,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,American Indian or Alaska Native,Not Hispanic or Latino,61.0,7093.0,860.0,1437.6
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Asian,Not Hispanic or Latino,11.0,1775.0,Unreliable,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Black or African American,Not Hispanic or Latino,10.0,1293.0,Unreliable,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Hispanic or Latino,11.0,4500.0,Unreliable,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Not Hispanic or Latino,636.0,85984.0,739.7,770.6
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,More than one race,Not Hispanic or Latino,20.0,7542.0,265.2,506.8
+2020,Alaska,02,"Nome Census Area, AK",02180,American Indian or Alaska Native,Not Hispanic or Latino,71.0,7438.0,954.6,1304.2
+2020,Alaska,02,"North Slope Borough, AK",02185,American Indian or Alaska Native,Not Hispanic or Latino,48.0,4916.0,976.4,1392.2
+2020,Alaska,02,"Northwest Arctic Borough, AK",02188,American Indian or Alaska Native,Not Hispanic or Latino,53.0,6028.0,879.2,1269.1
+2020,Alaska,02,"Petersburg Borough/Census Area, AK",02195,White,Not Hispanic or Latino,24.0,2263.0,1060.5,679.7
+2020,Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,American Indian or Alaska Native,Not Hispanic or Latino,29.0,2497.0,1161.4,1136.0
+2020,Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,White,Not Hispanic or Latino,26.0,2734.0,951.0,611.1
+2020,Alaska,02,"Sitka Borough, AK",02220,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1196.0,Unreliable,Unreliable
+2020,Alaska,02,"Sitka Borough, AK",02220,White,Not Hispanic or Latino,46.0,5162.0,891.1,693.9
+2020,Alaska,02,"Southeast Fairbanks Census Area, AK",02240,White,Not Hispanic or Latino,53.0,4998.0,1060.4,970.8
+2020,Alaska,02,"Wade Hampton Census Area, AK",02270,American Indian or Alaska Native,Not Hispanic or Latino,61.0,7661.0,796.2,1368.2
+2020,Alaska,02,"Wrangell City and Borough, AK",02275,White,Not Hispanic or Latino,16.0,1647.0,Unreliable,Unreliable
+2020,Alaska,02,"Yukon-Koyukuk Census Area, AK",02290,American Indian or Alaska Native,Not Hispanic or Latino,45.0,3454.0,1302.8,1401.4
+2021 (provisional),Alaska,02,"Aleutians West Census Area, AK",02016,American Indian or Alaska Native,Not Hispanic or Latino,13.0,633.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,American Indian or Alaska Native,Not Hispanic or Latino,377.0,23699.0,1590.8,1881.9
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Asian,Not Hispanic or Latino,161.0,28106.0,572.8,608.8
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Black or African American,Not Hispanic or Latino,101.0,15004.0,673.2,954.0
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,114.0,8845.0,1288.9,2422.5
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,White,Hispanic or Latino,66.0,19182.0,344.1,603.5
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,White,Not Hispanic or Latino,1397.0,161820.0,863.3,782.0
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,More than one race,Not Hispanic or Latino,95.0,22241.0,427.1,1268.3
+2021 (provisional),Alaska,02,"Bethel Census Area, AK",02050,American Indian or Alaska Native,Not Hispanic or Latino,131.0,15307.0,855.8,1690.9
+2021 (provisional),Alaska,02,"Dillingham Census Area, AK",02070,American Indian or Alaska Native,Not Hispanic or Latino,40.0,3473.0,1151.7,1364.4
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,American Indian or Alaska Native,Not Hispanic or Latino,116.0,7383.0,1571.2,2001.8
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Asian,Not Hispanic or Latino,13.0,3155.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Black or African American,Not Hispanic or Latino,12.0,4479.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Hispanic or Latino,14.0,5945.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Not Hispanic or Latino,484.0,66113.0,732.1,782.3
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,More than one race,Not Hispanic or Latino,34.0,6271.0,542.2,1535.2
+2021 (provisional),Alaska,02,"Haines Borough, AK",02100,White,Not Hispanic or Latino,18.0,2030.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Hoonah-Angoon Census Area, AK",02105,American Indian or Alaska Native,Not Hispanic or Latino,23.0,739.0,3112.3,2466.8
+2021 (provisional),Alaska,02,"Juneau Borough, AK",02110,American Indian or Alaska Native,Not Hispanic or Latino,50.0,3445.0,1451.4,1548.6
+2021 (provisional),Alaska,02,"Juneau Borough, AK",02110,White,Not Hispanic or Latino,122.0,20302.0,600.9,528.4
+2021 (provisional),Alaska,02,"Juneau Borough, AK",02110,More than one race,Not Hispanic or Latino,24.0,2894.0,829.3,1429.1
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,American Indian or Alaska Native,Not Hispanic or Latino,60.0,4589.0,1307.5,1733.2
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,White,Not Hispanic or Latino,486.0,47243.0,1028.7,772.1
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,More than one race,Not Hispanic or Latino,24.0,3306.0,726.0,1038.1
+2021 (provisional),Alaska,02,"Ketchikan Gateway Borough, AK",02130,American Indian or Alaska Native,Not Hispanic or Latino,31.0,1796.0,1726.1,1565.8
+2021 (provisional),Alaska,02,"Ketchikan Gateway Borough, AK",02130,White,Not Hispanic or Latino,89.0,8686.0,1024.6,805.9
+2021 (provisional),Alaska,02,"Kodiak Island Borough, AK",02150,American Indian or Alaska Native,Not Hispanic or Latino,34.0,1514.0,2245.7,2816.3
+2021 (provisional),Alaska,02,"Kodiak Island Borough, AK",02150,Asian,Not Hispanic or Latino,12.0,2988.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Kodiak Island Borough, AK",02150,White,Not Hispanic or Latino,50.0,6216.0,804.4,1053.7
+2021 (provisional),Alaska,02,"Lake and Peninsula Borough, AK",02164,American Indian or Alaska Native,Not Hispanic or Latino,10.0,895.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,American Indian or Alaska Native,Not Hispanic or Latino,76.0,7093.0,1071.5,1765.5
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Asian,Not Hispanic or Latino,11.0,1775.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Black or African American,Not Hispanic or Latino,10.0,1293.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Hispanic or Latino,15.0,4500.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Not Hispanic or Latino,848.0,85984.0,986.2,997.7
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,More than one race,Not Hispanic or Latino,20.0,7542.0,265.2,625.1
+2021 (provisional),Alaska,02,"Nome Census Area, AK",02180,American Indian or Alaska Native,Not Hispanic or Latino,76.0,7438.0,1021.8,1607.4
+2021 (provisional),Alaska,02,"Nome Census Area, AK",02180,White,Not Hispanic or Latino,12.0,1382.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"North Slope Borough, AK",02185,American Indian or Alaska Native,Not Hispanic or Latino,53.0,4916.0,1078.1,1468.5
+2021 (provisional),Alaska,02,"Northwest Arctic Borough, AK",02188,American Indian or Alaska Native,Not Hispanic or Latino,65.0,6028.0,1078.3,1576.2
+2021 (provisional),Alaska,02,"Petersburg Borough/Census Area, AK",02195,White,Not Hispanic or Latino,19.0,2263.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,American Indian or Alaska Native,Not Hispanic or Latino,50.0,2497.0,2002.4,1834.4
+2021 (provisional),Alaska,02,"Prince of Wales-Hyder Census Area, AK",02198,White,Not Hispanic or Latino,40.0,2734.0,1463.1,1169.1
+2021 (provisional),Alaska,02,"Sitka Borough, AK",02220,American Indian or Alaska Native,Not Hispanic or Latino,28.0,1196.0,2341.1,1975.7
+2021 (provisional),Alaska,02,"Sitka Borough, AK",02220,White,Not Hispanic or Latino,44.0,5162.0,852.4,654.8
+2021 (provisional),Alaska,02,"Southeast Fairbanks Census Area, AK",02240,American Indian or Alaska Native,Not Hispanic or Latino,11.0,795.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Southeast Fairbanks Census Area, AK",02240,White,Not Hispanic or Latino,54.0,4998.0,1080.4,1007.4
+2021 (provisional),Alaska,02,"Wade Hampton Census Area, AK",02270,American Indian or Alaska Native,Not Hispanic or Latino,80.0,7661.0,1044.3,1858.6
+2021 (provisional),Alaska,02,"Wrangell City and Borough, AK",02275,White,Not Hispanic or Latino,16.0,1647.0,Unreliable,Unreliable
+2021 (provisional),Alaska,02,"Yukon-Koyukuk Census Area, AK",02290,American Indian or Alaska Native,Not Hispanic or Latino,54.0,3454.0,1563.4,1525.0
+2021 (provisional),Alaska,02,"Yukon-Koyukuk Census Area, AK",02290,White,Not Hispanic or Latino,13.0,1087.0,Unreliable,Unreliable
+2022 (provisional and partial),Alaska,02,"Anchorage Borough, AK",02020,American Indian or Alaska Native,Not Hispanic or Latino,39.0,23699.0,164.6,205.8
+2022 (provisional and partial),Alaska,02,"Anchorage Borough, AK",02020,Asian,Not Hispanic or Latino,17.0,28106.0,Unreliable,Unreliable
+2022 (provisional and partial),Alaska,02,"Anchorage Borough, AK",02020,Black or African American,Not Hispanic or Latino,19.0,15004.0,Unreliable,Unreliable
+2022 (provisional and partial),Alaska,02,"Anchorage Borough, AK",02020,White,Not Hispanic or Latino,127.0,161820.0,78.5,70.7
+2022 (provisional and partial),Alaska,02,"Bethel Census Area, AK",02050,American Indian or Alaska Native,Not Hispanic or Latino,12.0,15307.0,Unreliable,Unreliable
+2022 (provisional and partial),Alaska,02,"Fairbanks North Star Borough, AK",02090,White,Not Hispanic or Latino,50.0,66113.0,75.6,78.6
+2022 (provisional and partial),Alaska,02,"Juneau Borough, AK",02110,White,Not Hispanic or Latino,13.0,20302.0,Unreliable,Unreliable
+2022 (provisional and partial),Alaska,02,"Kenai Peninsula Borough, AK",02122,White,Not Hispanic or Latino,50.0,47243.0,105.8,74.6
+2022 (provisional and partial),Alaska,02,"Matanuska-Susitna Borough, AK",02170,White,Not Hispanic or Latino,68.0,85984.0,79.1,79.8
+2022 (provisional and partial),Alaska,02,"Northwest Arctic Borough, AK",02188,American Indian or Alaska Native,Not Hispanic or Latino,11.0,6028.0,Unreliable,Unreliable

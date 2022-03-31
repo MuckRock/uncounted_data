@@ -1,0 +1,15 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Delaware,10,"Kent County, DE",10001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,178550.0,27.4
+2018,Delaware,10,"Kent County, DE",10001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,178550.0,Unreliable
+2018,Delaware,10,"Kent County, DE",10001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,178550.0,Unreliable
+2018,Delaware,10,"New Castle County, DE",10003,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24.0,559335.0,4.3
+2018,Delaware,10,"New Castle County, DE",10003,Nontransport accidents,Unspecified fall,W19,31.0,559335.0,5.5
+2018,Delaware,10,"New Castle County, DE",10003,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,172.0,559335.0,30.8
+2018,Delaware,10,"New Castle County, DE",10003,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,61.0,559335.0,10.9
+2018,Delaware,10,"New Castle County, DE",10003,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,26.0,559335.0,4.6
+2018,Delaware,10,"New Castle County, DE",10003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,27.0,559335.0,4.8
+2018,Delaware,10,"New Castle County, DE",10003,Assault (homicide),Assault by other and unspecified firearm discharge,X95,30.0,559335.0,5.4
+2018,Delaware,10,"Sussex County, DE",10005,Nontransport accidents,Unspecified fall,W19,10.0,229286.0,Unreliable
+2018,Delaware,10,"Sussex County, DE",10005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,57.0,229286.0,24.9
+2018,Delaware,10,"Sussex County, DE",10005,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,229286.0,Unreliable
+2018,Delaware,10,"Sussex County, DE",10005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,229286.0,Unreliable

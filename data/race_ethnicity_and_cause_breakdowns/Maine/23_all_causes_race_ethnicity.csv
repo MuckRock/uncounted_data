@@ -1,0 +1,126 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Maine,23,"Androscoggin County, ME",23001,Black or African American,Not Hispanic or Latino,10.0,4506.0,Unreliable,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,White,Not Hispanic or Latino,1173.0,97327.0,1205.2,863.4
+2018,Maine,23,"Aroostook County, ME",23003,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1226.0,Unreliable,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,White,Not Hispanic or Latino,835.0,63050.0,1324.3,744.1
+2018,Maine,23,"Cumberland County, ME",23005,Asian,Not Hispanic or Latino,24.0,6584.0,364.5,447.0
+2018,Maine,23,"Cumberland County, ME",23005,Black or African American,Not Hispanic or Latino,32.0,8874.0,360.6,809.7
+2018,Maine,23,"Cumberland County, ME",23005,White,Hispanic or Latino,13.0,5402.0,Unreliable,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,White,Not Hispanic or Latino,2684.0,265239.0,1011.9,694.1
+2018,Maine,23,"Franklin County, ME",23007,White,Not Hispanic or Latino,370.0,28612.0,1293.2,838.3
+2018,Maine,23,"Hancock County, ME",23009,White,Not Hispanic or Latino,596.0,51877.0,1148.9,676.2
+2018,Maine,23,"Kennebec County, ME",23011,White,Not Hispanic or Latino,1339.0,115440.0,1159.9,794.4
+2018,Maine,23,"Knox County, ME",23013,White,Not Hispanic or Latino,499.0,37832.0,1319.0,732.1
+2018,Maine,23,"Lincoln County, ME",23015,White,Not Hispanic or Latino,418.0,32897.0,1270.6,694.0
+2018,Maine,23,"Oxford County, ME",23017,White,Not Hispanic or Latino,699.0,54833.0,1274.8,839.0
+2018,Maine,23,"Penobscot County, ME",23019,American Indian or Alaska Native,Not Hispanic or Latino,25.0,1855.0,1347.7,1576.3
+2018,Maine,23,"Penobscot County, ME",23019,White,Not Hispanic or Latino,1682.0,141518.0,1188.5,842.2
+2018,Maine,23,"Piscataquis County, ME",23021,White,Not Hispanic or Latino,244.0,15981.0,1526.8,866.0
+2018,Maine,23,"Sagadahoc County, ME",23023,White,Not Hispanic or Latino,361.0,33661.0,1072.5,711.6
+2018,Maine,23,"Somerset County, ME",23025,White,Not Hispanic or Latino,584.0,48344.0,1208.0,847.5
+2018,Maine,23,"Waldo County, ME",23027,White,Not Hispanic or Latino,401.0,37847.0,1059.5,708.7
+2018,Maine,23,"Washington County, ME",23029,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1644.0,Unreliable,Unreliable
+2018,Maine,23,"Washington County, ME",23029,White,Not Hispanic or Latino,430.0,28166.0,1526.7,881.5
+2018,Maine,23,"York County, ME",23031,Black or African American,Not Hispanic or Latino,12.0,1874.0,Unreliable,Unreliable
+2018,Maine,23,"York County, ME",23031,White,Not Hispanic or Latino,2085.0,194065.0,1074.4,715.5
+2019,Maine,23,"Androscoggin County, ME",23001,Black or African American,Not Hispanic or Latino,19.0,4705.0,Unreliable,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,White,Not Hispanic or Latino,1270.0,97658.0,1300.5,919.0
+2019,Maine,23,"Aroostook County, ME",23003,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1226.0,Unreliable,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,White,Not Hispanic or Latino,853.0,62855.0,1357.1,743.5
+2019,Maine,23,"Cumberland County, ME",23005,American Indian or Alaska Native,Not Hispanic or Latino,11.0,885.0,Unreliable,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Asian,Not Hispanic or Latino,16.0,6948.0,Unreliable,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Black or African American,Not Hispanic or Latino,23.0,9152.0,251.3,548.5
+2019,Maine,23,"Cumberland County, ME",23005,White,Not Hispanic or Latino,2742.0,265930.0,1031.1,699.3
+2019,Maine,23,"Cumberland County, ME",23005,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2019,Maine,23,"Franklin County, ME",23007,White,Not Hispanic or Latino,351.0,28863.0,1216.1,791.6
+2019,Maine,23,"Hancock County, ME",23009,White,Not Hispanic or Latino,654.0,51961.0,1258.6,750.2
+2019,Maine,23,"Kennebec County, ME",23011,White,Not Hispanic or Latino,1316.0,115398.0,1140.4,768.7
+2019,Maine,23,"Kennebec County, ME",23011,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,Maine,23,"Knox County, ME",23013,White,Not Hispanic or Latino,494.0,37765.0,1308.1,758.6
+2019,Maine,23,"Lincoln County, ME",23015,White,Not Hispanic or Latino,390.0,33143.0,1176.7,627.0
+2019,Maine,23,"Oxford County, ME",23017,White,Not Hispanic or Latino,692.0,55074.0,1256.5,818.1
+2019,Maine,23,"Penobscot County, ME",23019,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1923.0,1092.0,1274.0
+2019,Maine,23,"Penobscot County, ME",23019,White,Not Hispanic or Latino,1667.0,142160.0,1172.6,815.6
+2019,Maine,23,"Penobscot County, ME",23019,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2019,Maine,23,"Piscataquis County, ME",23021,White,Not Hispanic or Latino,248.0,15897.0,1560.0,835.8
+2019,Maine,23,"Sagadahoc County, ME",23023,White,Not Hispanic or Latino,358.0,33865.0,1057.1,675.6
+2019,Maine,23,"Somerset County, ME",23025,White,Not Hispanic or Latino,629.0,48179.0,1305.5,888.7
+2019,Maine,23,"Waldo County, ME",23027,White,Not Hispanic or Latino,440.0,37832.0,1163.0,781.0
+2019,Maine,23,"Washington County, ME",23029,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1623.0,Unreliable,Unreliable
+2019,Maine,23,"Washington County, ME",23029,White,Not Hispanic or Latino,393.0,28023.0,1402.4,832.7
+2019,Maine,23,"York County, ME",23031,Black or African American,Not Hispanic or Latino,13.0,2004.0,Unreliable,Unreliable
+2019,Maine,23,"York County, ME",23031,White,Not Hispanic or Latino,2213.0,194994.0,1134.9,744.8
+2020,Maine,23,"Androscoggin County, ME",23001,Black or African American,Not Hispanic or Latino,26.0,5047.0,515.2,1089.4
+2020,Maine,23,"Androscoggin County, ME",23001,White,Not Hispanic or Latino,1220.0,97449.0,1251.9,883.4
+2020,Maine,23,"Aroostook County, ME",23003,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1220.0,Unreliable,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,White,Not Hispanic or Latino,934.0,62512.0,1494.1,839.9
+2020,Maine,23,"Cumberland County, ME",23005,American Indian or Alaska Native,Not Hispanic or Latino,13.0,828.0,Unreliable,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Asian,Not Hispanic or Latino,18.0,7366.0,Unreliable,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Black or African American,Not Hispanic or Latino,33.0,9637.0,342.4,625.4
+2020,Maine,23,"Cumberland County, ME",23005,White,Not Hispanic or Latino,2869.0,267697.0,1071.7,722.9
+2020,Maine,23,"Cumberland County, ME",23005,White,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2020,Maine,23,"Franklin County, ME",23007,White,Not Hispanic or Latino,337.0,28656.0,1176.0,764.3
+2020,Maine,23,"Hancock County, ME",23009,White,Not Hispanic or Latino,672.0,51980.0,1292.8,747.3
+2020,Maine,23,"Kennebec County, ME",23011,White,Not Hispanic or Latino,1433.0,115810.0,1237.4,836.9
+2020,Maine,23,"Knox County, ME",23013,White,Not Hispanic or Latino,475.0,37987.0,1250.4,713.1
+2020,Maine,23,"Lincoln County, ME",23015,White,Not Hispanic or Latino,459.0,33227.0,1381.4,721.7
+2020,Maine,23,"Oxford County, ME",23017,White,Not Hispanic or Latino,714.0,55139.0,1294.9,828.7
+2020,Maine,23,"Penobscot County, ME",23019,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1850.0,Unreliable,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Black or African American,Not Hispanic or Latino,12.0,1453.0,Unreliable,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,White,Not Hispanic or Latino,1783.0,141572.0,1259.4,894.1
+2020,Maine,23,"Penobscot County, ME",23019,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2020,Maine,23,"Piscataquis County, ME",23021,White,Not Hispanic or Latino,242.0,15863.0,1525.6,832.5
+2020,Maine,23,"Sagadahoc County, ME",23023,White,Not Hispanic or Latino,368.0,33990.0,1082.7,651.4
+2020,Maine,23,"Somerset County, ME",23025,White,Not Hispanic or Latino,659.0,48375.0,1362.3,908.9
+2020,Maine,23,"Waldo County, ME",23027,White,Not Hispanic or Latino,441.0,38010.0,1160.2,770.9
+2020,Maine,23,"Waldo County, ME",23027,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2020,Maine,23,"Washington County, ME",23029,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1603.0,Unreliable,Unreliable
+2020,Maine,23,"Washington County, ME",23029,White,Not Hispanic or Latino,503.0,28041.0,1793.8,1089.8
+2020,Maine,23,"York County, ME",23031,Asian,Not Hispanic or Latino,12.0,2892.0,Unreliable,Unreliable
+2020,Maine,23,"York County, ME",23031,White,Not Hispanic or Latino,2241.0,195861.0,1144.2,743.7
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Black or African American,Not Hispanic or Latino,26.0,5047.0,515.2,958.0
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,White,Not Hispanic or Latino,1421.0,97449.0,1458.2,1044.9
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,White,Not Hispanic or Latino,1080.0,62512.0,1727.7,982.7
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,American Indian or Alaska Native,Not Hispanic or Latino,13.0,828.0,Unreliable,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Asian,Not Hispanic or Latino,30.0,7366.0,407.3,532.3
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Black or African American,Not Hispanic or Latino,32.0,9637.0,332.1,719.0
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,White,Hispanic or Latino,16.0,5740.0,Unreliable,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,White,Not Hispanic or Latino,2985.0,267697.0,1115.1,746.6
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,White,Not Stated,18.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Maine,23,"Franklin County, ME",23007,White,Not Hispanic or Latino,405.0,28656.0,1413.3,938.2
+2021 (provisional),Maine,23,"Hancock County, ME",23009,White,Not Hispanic or Latino,738.0,51980.0,1419.8,826.3
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,White,Not Hispanic or Latino,1589.0,115810.0,1372.1,939.1
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Maine,23,"Knox County, ME",23013,White,Not Hispanic or Latino,525.0,37987.0,1382.1,797.4
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,White,Not Hispanic or Latino,448.0,33227.0,1348.3,712.7
+2021 (provisional),Maine,23,"Oxford County, ME",23017,White,Not Hispanic or Latino,834.0,55139.0,1512.5,966.2
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1850.0,1189.2,1163.5
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Black or African American,Not Hispanic or Latino,11.0,1453.0,Unreliable,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,White,Not Hispanic or Latino,1937.0,141572.0,1368.2,982.4
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Maine,23,"Piscataquis County, ME",23021,White,Not Hispanic or Latino,299.0,15863.0,1884.9,1054.7
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,White,Not Hispanic or Latino,426.0,33990.0,1253.3,745.8
+2021 (provisional),Maine,23,"Somerset County, ME",23025,White,Not Hispanic or Latino,759.0,48375.0,1569.0,1049.3
+2021 (provisional),Maine,23,"Waldo County, ME",23027,White,Not Hispanic or Latino,514.0,38010.0,1352.3,884.9
+2021 (provisional),Maine,23,"Washington County, ME",23029,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1603.0,Unreliable,Unreliable
+2021 (provisional),Maine,23,"Washington County, ME",23029,White,Not Hispanic or Latino,505.0,28041.0,1800.9,1090.6
+2021 (provisional),Maine,23,"York County, ME",23031,Asian,Not Hispanic or Latino,10.0,2892.0,Unreliable,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,White,Hispanic or Latino,12.0,3369.0,Unreliable,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,White,Not Hispanic or Latino,2323.0,195861.0,1186.0,768.9
+2022 (provisional and partial),Maine,23,"Androscoggin County, ME",23001,White,Not Hispanic or Latino,241.0,97449.0,247.3,174.5
+2022 (provisional and partial),Maine,23,"Aroostook County, ME",23003,White,Not Hispanic or Latino,168.0,62512.0,268.7,141.1
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,White,Not Hispanic or Latino,469.0,267697.0,175.2,117.3
+2022 (provisional and partial),Maine,23,"Franklin County, ME",23007,White,Not Hispanic or Latino,54.0,28656.0,188.4,128.6
+2022 (provisional and partial),Maine,23,"Hancock County, ME",23009,White,Not Hispanic or Latino,101.0,51980.0,194.3,105.1
+2022 (provisional and partial),Maine,23,"Kennebec County, ME",23011,White,Not Hispanic or Latino,270.0,115810.0,233.1,156.6
+2022 (provisional and partial),Maine,23,"Knox County, ME",23013,White,Not Hispanic or Latino,74.0,37987.0,194.8,104.3
+2022 (provisional and partial),Maine,23,"Lincoln County, ME",23015,White,Not Hispanic or Latino,79.0,33227.0,237.8,121.6
+2022 (provisional and partial),Maine,23,"Oxford County, ME",23017,White,Not Hispanic or Latino,120.0,55139.0,217.6,135.9
+2022 (provisional and partial),Maine,23,"Penobscot County, ME",23019,White,Not Hispanic or Latino,310.0,141572.0,219.0,157.4
+2022 (provisional and partial),Maine,23,"Piscataquis County, ME",23021,White,Not Hispanic or Latino,34.0,15863.0,214.3,111.1
+2022 (provisional and partial),Maine,23,"Sagadahoc County, ME",23023,White,Not Hispanic or Latino,53.0,33990.0,155.9,89.3
+2022 (provisional and partial),Maine,23,"Somerset County, ME",23025,White,Not Hispanic or Latino,124.0,48375.0,256.3,172.0
+2022 (provisional and partial),Maine,23,"Waldo County, ME",23027,White,Not Hispanic or Latino,64.0,38010.0,168.4,109.9
+2022 (provisional and partial),Maine,23,"Washington County, ME",23029,White,Not Hispanic or Latino,88.0,28041.0,313.8,186.2
+2022 (provisional and partial),Maine,23,"York County, ME",23031,White,Not Hispanic or Latino,349.0,195861.0,178.2,114.6

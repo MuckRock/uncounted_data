@@ -1,0 +1,17 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Iowa,"Black Hawk County, IA",Nontransport accidents,Unspecified fall,W19,12.0,132408.0,Unreliable
+2018,Iowa,"Johnson County, IA",Nontransport accidents,Other fall on same level,W18,18.0,151260.0,Unreliable
+2018,Iowa,"Linn County, IA",Nontransport accidents,Unspecified fall,W19,23.0,225909.0,10.2
+2018,Iowa,"Linn County, IA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,225909.0,Unreliable
+2018,Iowa,"Linn County, IA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,225909.0,Unreliable
+2018,Iowa,"Linn County, IA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,225909.0,Unreliable
+2018,Iowa,"Polk County, IA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,487204.0,Unreliable
+2018,Iowa,"Polk County, IA",Nontransport accidents,Other fall on same level,W18,74.0,487204.0,15.2
+2018,Iowa,"Polk County, IA",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,20.0,487204.0,4.1
+2018,Iowa,"Polk County, IA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,487204.0,4.1
+2018,Iowa,"Polk County, IA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28.0,487204.0,5.7
+2018,Iowa,"Polk County, IA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,487204.0,Unreliable
+2018,Iowa,"Polk County, IA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,13.0,487204.0,Unreliable
+2018,Iowa,"Scott County, IA",Nontransport accidents,Other fall on same level,W18,11.0,173283.0,Unreliable
+2018,Iowa,"Scott County, IA",Nontransport accidents,Unspecified fall,W19,12.0,173283.0,Unreliable
+2018,Iowa,"Scott County, IA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,173283.0,Unreliable

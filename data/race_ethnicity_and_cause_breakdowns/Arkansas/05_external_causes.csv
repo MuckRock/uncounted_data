@@ -1,0 +1,24 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Arkansas,05,"Benton County, AR",05007,Nontransport accidents,Unspecified fall,W19,11.0,272608.0,Unreliable
+2018,Arkansas,05,"Benton County, AR",05007,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,272608.0,8.1
+2018,Arkansas,05,"Benton County, AR",05007,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,272608.0,Unreliable
+2018,Arkansas,05,"Crawford County, AR",05033,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,63406.0,Unreliable
+2018,Arkansas,05,"Crittenden County, AR",05035,Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,48342.0,Unreliable
+2018,Arkansas,05,"Faulkner County, AR",05045,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,124806.0,Unreliable
+2018,Arkansas,05,"Faulkner County, AR",05045,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,124806.0,Unreliable
+2018,Arkansas,05,"Garland County, AR",05051,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,99154.0,Unreliable
+2018,Arkansas,05,"Garland County, AR",05051,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,99154.0,Unreliable
+2018,Arkansas,05,"Jefferson County, AR",05069,Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,68114.0,29.4
+2018,Arkansas,05,"Pulaski County, AR",05119,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,392680.0,Unreliable
+2018,Arkansas,05,"Pulaski County, AR",05119,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,22.0,392680.0,5.6
+2018,Arkansas,05,"Pulaski County, AR",05119,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,392680.0,Unreliable
+2018,Arkansas,05,"Pulaski County, AR",05119,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,30.0,392680.0,7.6
+2018,Arkansas,05,"Pulaski County, AR",05119,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,392680.0,5.9
+2018,Arkansas,05,"Pulaski County, AR",05119,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,42.0,392680.0,10.7
+2018,Arkansas,05,"Pulaski County, AR",05119,Assault (homicide),Assault by other and unspecified firearm discharge,X95,51.0,392680.0,13.0
+2018,Arkansas,05,"Saline County, AR",05125,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,121421.0,Unreliable
+2018,Arkansas,05,"Saline County, AR",05125,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,121421.0,Unreliable
+2018,Arkansas,05,"Sebastian County, AR",05131,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,127753.0,Unreliable
+2018,Arkansas,05,"Washington County, AR",05143,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,236961.0,Unreliable
+2018,Arkansas,05,"Washington County, AR",05143,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,236961.0,Unreliable
+2018,Arkansas,05,"Washington County, AR",05143,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,236961.0,Unreliable

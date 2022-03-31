@@ -1,0 +1,1186 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,New Mexico,35,"Bernalillo County, NM",35001,Sepsis,"Septicaemia, unspecified",A41.9,60.0,678701.0,8.8
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,23.0,678701.0,3.4
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,28.0,678701.0,4.1
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,53.0,678701.0,7.8
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of rectum,C20,14.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,44.0,678701.0,6.5
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,13.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,25.0,678701.0,3.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,74.0,678701.0,10.9
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,168.0,678701.0,24.8
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,18.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,93.0,678701.0,13.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,19.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,10.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of ovary,C56,40.0,678701.0,5.9
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of prostate,C61,62.0,678701.0,9.1
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,19.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,36.0,678701.0,5.3
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,34.0,678701.0,5.0
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of thyroid gland,C73,10.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,64.0,678701.0,9.4
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,10.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,15.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,42.0,678701.0,6.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,17.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,15.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,35.0,678701.0,5.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,25.0,678701.0,3.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,52.0,678701.0,7.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,51.0,678701.0,7.5
+2018,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Unspecified dementia,F03,141.0,678701.0,20.8
+2018,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,188.0,678701.0,27.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,20.0,678701.0,2.9
+2018,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,17.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Essential (primary) hypertension,I10,19.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,21.0,678701.0,3.1
+2018,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,33.0,678701.0,4.9
+2018,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,21.0,678701.0,3.1
+2018,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,16.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,266.0,678701.0,39.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,341.0,678701.0,50.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,220.0,678701.0,32.4
+2018,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,16.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,10.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,16.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,18.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,17.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,10.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,40.0,678701.0,5.9
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Congestive heart failure,I50.0,93.0,678701.0,13.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,66.0,678701.0,9.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,15.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,25.0,678701.0,3.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,33.0,678701.0,4.9
+2018,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,62.0,678701.0,9.1
+2018,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,42.0,678701.0,6.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,32.0,678701.0,4.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,22.0,678701.0,3.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,32.0,678701.0,4.7
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,14.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,11.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,69.0,678701.0,10.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,23.0,678701.0,3.4
+2018,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,42.0,678701.0,6.2
+2018,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,224.0,678701.0,33.0
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,38.0,678701.0,5.6
+2018,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Acute respiratory failure,J96.0,10.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Acute renal failure, unspecified",N17.9,13.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Chronic kidney disease, stage 5",N18.5,34.0,678701.0,5.0
+2018,New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Chronic renal failure, unspecified",N18.9,14.0,678701.0,Unreliable
+2018,New Mexico,35,"Catron County, NM",35003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,3578.0,Unreliable
+2018,New Mexico,35,"Chaves County, NM",35005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,64689.0,Unreliable
+2018,New Mexico,35,"Chaves County, NM",35005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,64689.0,44.8
+2018,New Mexico,35,"Chaves County, NM",35005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,64689.0,Unreliable
+2018,New Mexico,35,"Chaves County, NM",35005,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,15.0,64689.0,Unreliable
+2018,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,64689.0,Unreliable
+2018,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,64689.0,30.9
+2018,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,103.0,64689.0,159.2
+2018,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,10.0,64689.0,Unreliable
+2018,New Mexico,35,"Chaves County, NM",35005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,22.0,64689.0,34.0
+2018,New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,26746.0,Unreliable
+2018,New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,26746.0,Unreliable
+2018,New Mexico,35,"Colfax County, NM",35007,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,12110.0,Unreliable
+2018,New Mexico,35,"Curry County, NM",35009,Sepsis,"Septicaemia, unspecified",A41.9,10.0,49437.0,Unreliable
+2018,New Mexico,35,"Curry County, NM",35009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,49437.0,Unreliable
+2018,New Mexico,35,"Curry County, NM",35009,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,13.0,49437.0,Unreliable
+2018,New Mexico,35,"Curry County, NM",35009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,49437.0,44.5
+2018,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,49437.0,Unreliable
+2018,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,29.0,49437.0,58.7
+2018,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,49437.0,46.5
+2018,New Mexico,35,"Curry County, NM",35009,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,49437.0,Unreliable
+2018,New Mexico,35,"Curry County, NM",35009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,27.0,49437.0,54.6
+2018,New Mexico,35,"Dona Ana County, NM",35013,Sepsis,"Septicaemia, unspecified",A41.9,15.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,26.0,217522.0,12.0
+2018,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,23.0,217522.0,10.6
+2018,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,58.0,217522.0,26.7
+2018,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,33.0,217522.0,15.2
+2018,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm of prostate,C61,19.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm without specification of site,C80,19.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,13.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,18.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,10.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,Unspecified dementia,F03,70.0,217522.0,32.2
+2018,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,44.0,217522.0,20.2
+2018,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,47.0,217522.0,21.6
+2018,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,58.0,217522.0,26.7
+2018,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,72.0,217522.0,33.1
+2018,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,18.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,11.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,13.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,21.0,217522.0,9.7
+2018,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,19.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,13.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,14.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,37.0,217522.0,17.0
+2018,New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,69.0,217522.0,31.7
+2018,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,13.0,217522.0,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Renal failure,"Chronic kidney disease, stage 5",N18.5,24.0,217522.0,11.0
+2018,New Mexico,35,"Eddy County, NM",35015,Sepsis,"Septicaemia, unspecified",A41.9,14.0,57900.0,Unreliable
+2018,New Mexico,35,"Eddy County, NM",35015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,57900.0,34.5
+2018,New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,57900.0,Unreliable
+2018,New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,57900.0,Unreliable
+2018,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,57900.0,Unreliable
+2018,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,26.0,57900.0,44.9
+2018,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,49.0,57900.0,84.6
+2018,New Mexico,35,"Eddy County, NM",35015,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,57900.0,Unreliable
+2018,New Mexico,35,"Eddy County, NM",35015,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,57900.0,Unreliable
+2018,New Mexico,35,"Eddy County, NM",35015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,31.0,57900.0,53.5
+2018,New Mexico,35,"Grant County, NM",35017,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,27346.0,91.4
+2018,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,27346.0,Unreliable
+2018,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,27346.0,91.4
+2018,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,27346.0,Unreliable
+2018,New Mexico,35,"Grant County, NM",35017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,27346.0,Unreliable
+2018,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,69611.0,35.9
+2018,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,69611.0,Unreliable
+2018,New Mexico,35,"Lea County, NM",35025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,46.0,69611.0,66.1
+2018,New Mexico,35,"Lea County, NM",35025,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,69611.0,Unreliable
+2018,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,69611.0,Unreliable
+2018,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,69611.0,Unreliable
+2018,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,69611.0,37.4
+2018,New Mexico,35,"Lea County, NM",35025,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,69611.0,Unreliable
+2018,New Mexico,35,"Lea County, NM",35025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,32.0,69611.0,46.0
+2018,New Mexico,35,"Lincoln County, NM",35027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,19556.0,Unreliable
+2018,New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,19556.0,Unreliable
+2018,New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,19556.0,Unreliable
+2018,New Mexico,35,"Lincoln County, NM",35027,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,19556.0,Unreliable
+2018,New Mexico,35,"Lincoln County, NM",35027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,19556.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,23963.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,23963.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,14.0,23963.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,23963.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,23963.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,23963.0,91.8
+2018,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,23963.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,23963.0,Unreliable
+2018,New Mexico,35,"Luna County, NM",35029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,23963.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Sepsis,"Septicaemia, unspecified",A41.9,10.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,10.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,72290.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,72290.0,33.2
+2018,New Mexico,35,"McKinley County, NM",35031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,72290.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Sepsis,"Septicaemia, unspecified",A41.9,10.0,66781.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,66781.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,35.0,66781.0,52.4
+2018,New Mexico,35,"Otero County, NM",35035,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,66781.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,66781.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,66781.0,31.4
+2018,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,66781.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,37.0,66781.0,55.4
+2018,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,66781.0,40.4
+2018,New Mexico,35,"Otero County, NM",35035,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,66781.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,66781.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,38.0,66781.0,56.9
+2018,New Mexico,35,"Rio Arriba County, NM",35039,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,39006.0,Unreliable
+2018,New Mexico,35,"Rio Arriba County, NM",35039,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,11.0,39006.0,Unreliable
+2018,New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,39006.0,51.3
+2018,New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,39006.0,Unreliable
+2018,New Mexico,35,"Rio Arriba County, NM",35039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,39006.0,Unreliable
+2018,New Mexico,35,"Roosevelt County, NM",35041,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,18743.0,Unreliable
+2018,New Mexico,35,"Roosevelt County, NM",35041,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,18743.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Sepsis,"Septicaemia, unspecified",A41.9,17.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,37.0,145179.0,25.5
+2018,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,31.0,145179.0,21.4
+2018,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm without specification of site,C80,19.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,15.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,Unspecified dementia,F03,31.0,145179.0,21.4
+2018,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,40.0,145179.0,27.6
+2018,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,11.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,48.0,145179.0,33.1
+2018,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,59.0,145179.0,40.6
+2018,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,42.0,145179.0,28.9
+2018,New Mexico,35,"Sandoval County, NM",35043,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,145179.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,56.0,145179.0,38.6
+2018,New Mexico,35,"Sandoval County, NM",35043,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,145179.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Sepsis,"Septicaemia, unspecified",A41.9,18.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,15.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,32.0,125043.0,25.6
+2018,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,14.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,18.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,Unspecified dementia,F03,50.0,125043.0,40.0
+2018,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,27.0,125043.0,21.6
+2018,New Mexico,35,"San Juan County, NM",35045,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,125043.0,16.8
+2018,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,40.0,125043.0,32.0
+2018,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,39.0,125043.0,31.2
+2018,New Mexico,35,"San Juan County, NM",35045,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,16.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,10.0,125043.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,66.0,125043.0,52.8
+2018,New Mexico,35,"San Juan County, NM",35045,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,14.0,125043.0,Unreliable
+2018,New Mexico,35,"San Miguel County, NM",35047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,27591.0,Unreliable
+2018,New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,27591.0,Unreliable
+2018,New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,27591.0,Unreliable
+2018,New Mexico,35,"San Miguel County, NM",35047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,27591.0,87.0
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,23.0,150056.0,15.3
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,17.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,40.0,150056.0,26.7
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,31.0,150056.0,20.7
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm of ovary,C56,14.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm of prostate,C61,25.0,150056.0,16.7
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,Unspecified dementia,F03,38.0,150056.0,25.3
+2018,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,43.0,150056.0,28.7
+2018,New Mexico,35,"Santa Fe County, NM",35049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,150056.0,27.3
+2018,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,50.0,150056.0,33.3
+2018,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,48.0,150056.0,32.0
+2018,New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,150056.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,21.0,150056.0,14.0
+2018,New Mexico,35,"Santa Fe County, NM",35049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,67.0,150056.0,44.6
+2018,New Mexico,35,"Sierra County, NM",35051,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,10968.0,Unreliable
+2018,New Mexico,35,"Sierra County, NM",35051,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,10968.0,Unreliable
+2018,New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,10968.0,Unreliable
+2018,New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,10968.0,237.1
+2018,New Mexico,35,"Sierra County, NM",35051,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,39.0,10968.0,355.6
+2018,New Mexico,35,"Socorro County, NM",35053,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,16735.0,Unreliable
+2018,New Mexico,35,"Taos County, NM",35055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,32835.0,Unreliable
+2018,New Mexico,35,"Taos County, NM",35055,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,32835.0,Unreliable
+2018,New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,32835.0,Unreliable
+2018,New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,32835.0,Unreliable
+2018,New Mexico,35,"Taos County, NM",35055,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,32835.0,Unreliable
+2018,New Mexico,35,"Taos County, NM",35055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,32835.0,Unreliable
+2018,New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,33.0,76456.0,43.2
+2018,New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,76456.0,Unreliable
+2018,New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,76456.0,Unreliable
+2018,New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,13.0,76456.0,Unreliable
+2018,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,29.0,76456.0,37.9
+2018,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,39.0,76456.0,51.0
+2018,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,76456.0,34.0
+2018,New Mexico,35,"Valencia County, NM",35061,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,76456.0,Unreliable
+2018,New Mexico,35,"Valencia County, NM",35061,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,53.0,76456.0,69.3
+2018,New Mexico,35,"Valencia County, NM",35061,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,76456.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Sepsis,"Septicaemia, unspecified",A41.9,50.0,679121.0,7.4
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,25.0,679121.0,3.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,21.0,679121.0,3.1
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,49.0,679121.0,7.2
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,13.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of rectum,C20,14.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,45.0,679121.0,6.6
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,26.0,679121.0,3.8
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,20.0,679121.0,2.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,91.0,679121.0,13.4
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,171.0,679121.0,25.2
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,20.0,679121.0,2.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,97.0,679121.0,14.3
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,10.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of ovary,C56,20.0,679121.0,2.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of prostate,C61,69.0,679121.0,10.2
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,33.0,679121.0,4.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,29.0,679121.0,4.3
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,32.0,679121.0,4.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,51.0,679121.0,7.5
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,12.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,23.0,679121.0,3.4
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,10.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,14.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,11.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,20.0,679121.0,2.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,28.0,679121.0,4.1
+2019,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, with ketoacidosis",E14.1,16.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,26.0,679121.0,3.8
+2019,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,35.0,679121.0,5.2
+2019,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,74.0,679121.0,10.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Unspecified dementia,F03,150.0,679121.0,22.1
+2019,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,208.0,679121.0,30.6
+2019,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,23.0,679121.0,3.4
+2019,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,15.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Essential (primary) hypertension,I10,14.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,31.0,679121.0,4.6
+2019,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,35.0,679121.0,5.2
+2019,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,20.0,679121.0,2.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,11.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,11.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,304.0,679121.0,44.8
+2019,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,393.0,679121.0,57.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,248.0,679121.0,36.5
+2019,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,17.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,11.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,15.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,17.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,20.0,679121.0,2.9
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,12.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,10.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,34.0,679121.0,5.0
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Congestive heart failure,I50.0,86.0,679121.0,12.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,68.0,679121.0,10.0
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,10.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,44.0,679121.0,6.5
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,29.0,679121.0,4.3
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,78.0,679121.0,11.5
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,54.0,679121.0,8.0
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,18.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,25.0,679121.0,3.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,I80.2,10.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,52.0,679121.0,7.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,19.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,34.0,679121.0,5.0
+2019,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,13.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,265.0,679121.0,39.0
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,16.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,41.0,679121.0,6.0
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,11.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Chronic respiratory failure,J96.1,11.0,679121.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Chronic kidney disease, stage 5",N18.5,41.0,679121.0,6.0
+2019,New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Chronic renal failure, unspecified",N18.9,19.0,679121.0,Unreliable
+2019,New Mexico,35,"Chaves County, NM",35005,Sepsis,"Septicaemia, unspecified",A41.9,10.0,64615.0,Unreliable
+2019,New Mexico,35,"Chaves County, NM",35005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,64615.0,32.5
+2019,New Mexico,35,"Chaves County, NM",35005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,64615.0,Unreliable
+2019,New Mexico,35,"Chaves County, NM",35005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,64615.0,Unreliable
+2019,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,64615.0,40.2
+2019,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,21.0,64615.0,32.5
+2019,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,91.0,64615.0,140.8
+2019,New Mexico,35,"Chaves County, NM",35005,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,64615.0,Unreliable
+2019,New Mexico,35,"Chaves County, NM",35005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,64615.0,Unreliable
+2019,New Mexico,35,"Chaves County, NM",35005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,28.0,64615.0,43.3
+2019,New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,26675.0,Unreliable
+2019,New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,26675.0,Unreliable
+2019,New Mexico,35,"Cibola County, NM",35006,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,26675.0,Unreliable
+2019,New Mexico,35,"Colfax County, NM",35007,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,11941.0,Unreliable
+2019,New Mexico,35,"Colfax County, NM",35007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,11941.0,Unreliable
+2019,New Mexico,35,"Curry County, NM",35009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,48954.0,40.9
+2019,New Mexico,35,"Curry County, NM",35009,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,15.0,48954.0,Unreliable
+2019,New Mexico,35,"Curry County, NM",35009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,48954.0,40.9
+2019,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,48954.0,Unreliable
+2019,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,33.0,48954.0,67.4
+2019,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,48954.0,Unreliable
+2019,New Mexico,35,"Curry County, NM",35009,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,48954.0,Unreliable
+2019,New Mexico,35,"Curry County, NM",35009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,48954.0,Unreliable
+2019,New Mexico,35,"Curry County, NM",35009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,48954.0,49.0
+2019,New Mexico,35,"Dona Ana County, NM",35013,Sepsis,"Septicaemia, unspecified",A41.9,29.0,218195.0,13.3
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,21.0,218195.0,9.6
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,16.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,43.0,218195.0,19.7
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,28.0,218195.0,12.8
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm of prostate,C61,19.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,13.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm without specification of site,C80,30.0,218195.0,13.7
+2019,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,15.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,17.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,218195.0,9.2
+2019,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,21.0,218195.0,9.6
+2019,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,Unspecified dementia,F03,62.0,218195.0,28.4
+2019,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,218195.0,20.6
+2019,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,12.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Hypertensive diseases,Essential (primary) hypertension,I10,11.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,61.0,218195.0,28.0
+2019,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,76.0,218195.0,34.8
+2019,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,74.0,218195.0,33.9
+2019,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,Congestive heart failure,I50.0,22.0,218195.0,10.1
+2019,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,23.0,218195.0,10.5
+2019,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,11.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,21.0,218195.0,9.6
+2019,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,11.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,20.0,218195.0,9.2
+2019,New Mexico,35,"Dona Ana County, NM",35013,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,34.0,218195.0,15.6
+2019,New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,67.0,218195.0,30.7
+2019,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,218195.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Renal failure,"Chronic kidney disease, stage 5",N18.5,35.0,218195.0,16.0
+2019,New Mexico,35,"Eddy County, NM",35015,Sepsis,"Septicaemia, unspecified",A41.9,14.0,58460.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,58460.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,58460.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,58460.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,12.0,58460.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,22.0,58460.0,37.6
+2019,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,27.0,58460.0,46.2
+2019,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,47.0,58460.0,80.4
+2019,New Mexico,35,"Eddy County, NM",35015,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,58460.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,58460.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,34.0,58460.0,58.2
+2019,New Mexico,35,"Grant County, NM",35017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,26998.0,92.6
+2019,New Mexico,35,"Grant County, NM",35017,Alzheimer disease and dementia,Unspecified dementia,F03,26.0,26998.0,96.3
+2019,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,26998.0,Unreliable
+2019,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,23.0,26998.0,85.2
+2019,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,26998.0,Unreliable
+2019,New Mexico,35,"Grant County, NM",35017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,26998.0,Unreliable
+2019,New Mexico,35,"Grant County, NM",35017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,26998.0,Unreliable
+2019,New Mexico,35,"Grant County, NM",35017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,26998.0,77.8
+2019,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,71070.0,Unreliable
+2019,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,71070.0,28.1
+2019,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,71070.0,Unreliable
+2019,New Mexico,35,"Lea County, NM",35025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,46.0,71070.0,64.7
+2019,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,23.0,71070.0,32.4
+2019,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,31.0,71070.0,43.6
+2019,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,71070.0,38.0
+2019,New Mexico,35,"Lea County, NM",35025,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,71070.0,Unreliable
+2019,New Mexico,35,"Lea County, NM",35025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,71070.0,Unreliable
+2019,New Mexico,35,"Lea County, NM",35025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,35.0,71070.0,49.2
+2019,New Mexico,35,"Lincoln County, NM",35027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,19572.0,Unreliable
+2019,New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,16.0,19572.0,Unreliable
+2019,New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,19572.0,Unreliable
+2019,New Mexico,35,"Lincoln County, NM",35027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,19572.0,Unreliable
+2019,New Mexico,35,"Luna County, NM",35029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,23709.0,Unreliable
+2019,New Mexico,35,"Luna County, NM",35029,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,23709.0,Unreliable
+2019,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,23709.0,Unreliable
+2019,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,23709.0,Unreliable
+2019,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,23709.0,Unreliable
+2019,New Mexico,35,"Luna County, NM",35029,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,23709.0,Unreliable
+2019,New Mexico,35,"Luna County, NM",35029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,23709.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,19.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,71367.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Renal failure,"Chronic kidney disease, stage 5",N18.5,13.0,71367.0,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,67490.0,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,30.0,67490.0,44.5
+2019,New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,67490.0,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,67490.0,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,67490.0,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,11.0,67490.0,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,67490.0,31.1
+2019,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,47.0,67490.0,69.6
+2019,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,67490.0,34.1
+2019,New Mexico,35,"Otero County, NM",35035,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,67490.0,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,31.0,67490.0,45.9
+2019,New Mexico,35,"Rio Arriba County, NM",35039,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,38921.0,Unreliable
+2019,New Mexico,35,"Rio Arriba County, NM",35039,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,38921.0,Unreliable
+2019,New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,38921.0,Unreliable
+2019,New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,30.0,38921.0,77.1
+2019,New Mexico,35,"Rio Arriba County, NM",35039,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,11.0,38921.0,Unreliable
+2019,New Mexico,35,"Rio Arriba County, NM",35039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,38921.0,Unreliable
+2019,New Mexico,35,"Roosevelt County, NM",35041,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,18500.0,Unreliable
+2019,New Mexico,35,"Roosevelt County, NM",35041,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,18500.0,Unreliable
+2019,New Mexico,35,"Roosevelt County, NM",35041,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,18500.0,Unreliable
+2019,New Mexico,35,"Roosevelt County, NM",35041,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,18500.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Sepsis,"Septicaemia, unspecified",A41.9,14.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,22.0,146748.0,15.0
+2019,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,41.0,146748.0,27.9
+2019,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,20.0,146748.0,13.6
+2019,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm without specification of site,C80,22.0,146748.0,15.0
+2019,New Mexico,35,"Sandoval County, NM",35043,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,12.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,Unspecified dementia,F03,32.0,146748.0,21.8
+2019,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,49.0,146748.0,33.4
+2019,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,62.0,146748.0,42.2
+2019,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,73.0,146748.0,49.7
+2019,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,47.0,146748.0,32.0
+2019,New Mexico,35,"Sandoval County, NM",35043,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,15.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,13.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,146748.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,43.0,146748.0,29.3
+2019,New Mexico,35,"San Juan County, NM",35045,Sepsis,"Septicaemia, unspecified",A41.9,13.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,30.0,123958.0,24.2
+2019,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,16.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,Malignant neoplasm of prostate,C61,20.0,123958.0,16.1
+2019,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,25.0,123958.0,20.2
+2019,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,Unspecified dementia,F03,46.0,123958.0,37.1
+2019,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,123958.0,16.9
+2019,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,30.0,123958.0,24.2
+2019,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,45.0,123958.0,36.3
+2019,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,38.0,123958.0,30.7
+2019,New Mexico,35,"San Juan County, NM",35045,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,46.0,123958.0,37.1
+2019,New Mexico,35,"San Juan County, NM",35045,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,123958.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,123958.0,Unreliable
+2019,New Mexico,35,"San Miguel County, NM",35047,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,27277.0,Unreliable
+2019,New Mexico,35,"San Miguel County, NM",35047,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,27277.0,Unreliable
+2019,New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,27277.0,Unreliable
+2019,New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,27277.0,77.0
+2019,New Mexico,35,"San Miguel County, NM",35047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,27277.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,19.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,28.0,150358.0,18.6
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,40.0,150358.0,26.6
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,150358.0,18.0
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm of ovary,C56,12.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,19.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,11.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,Unspecified dementia,F03,38.0,150358.0,25.3
+2019,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,40.0,150358.0,26.6
+2019,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,12.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Hypertensive diseases,Essential (primary) hypertension,I10,13.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,16.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,150358.0,27.3
+2019,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,53.0,150358.0,35.2
+2019,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,52.0,150358.0,34.6
+2019,New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,12.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,12.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,34.0,150358.0,22.6
+2019,New Mexico,35,"Santa Fe County, NM",35049,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,150358.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,66.0,150358.0,43.9
+2019,New Mexico,35,"Sierra County, NM",35051,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,10791.0,Unreliable
+2019,New Mexico,35,"Sierra County, NM",35051,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,10791.0,Unreliable
+2019,New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,10791.0,Unreliable
+2019,New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,10791.0,Unreliable
+2019,New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,10791.0,Unreliable
+2019,New Mexico,35,"Sierra County, NM",35051,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,10791.0,Unreliable
+2019,New Mexico,35,"Socorro County, NM",35053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,16637.0,Unreliable
+2019,New Mexico,35,"Taos County, NM",35055,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,32723.0,Unreliable
+2019,New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,32723.0,Unreliable
+2019,New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,32723.0,Unreliable
+2019,New Mexico,35,"Taos County, NM",35055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,32723.0,Unreliable
+2019,New Mexico,35,"Torrance County, NM",35057,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,15461.0,Unreliable
+2019,New Mexico,35,"Torrance County, NM",35057,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,15461.0,Unreliable
+2019,New Mexico,35,"Torrance County, NM",35057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,15461.0,Unreliable
+2019,New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,27.0,76688.0,35.2
+2019,New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,15.0,76688.0,Unreliable
+2019,New Mexico,35,"Valencia County, NM",35061,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,76688.0,Unreliable
+2019,New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,19.0,76688.0,Unreliable
+2019,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,36.0,76688.0,46.9
+2019,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,41.0,76688.0,53.5
+2019,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,Atherosclerotic heart disease,I25.1,36.0,76688.0,46.9
+2019,New Mexico,35,"Valencia County, NM",35061,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,41.0,76688.0,53.5
+2020,New Mexico,35,"Bernalillo County, NM",35001,Sepsis,"Septicaemia, unspecified",A41.9,62.0,681666.0,9.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,21.0,681666.0,3.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,28.0,681666.0,4.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,71.0,681666.0,10.4
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,10.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of rectum,C20,11.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,41.0,681666.0,6.0
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,18.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,24.0,681666.0,3.5
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of gallbladder,C23,12.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,83.0,681666.0,12.2
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,172.0,681666.0,25.2
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,12.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,90.0,681666.0,13.2
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,14.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of ovary,C56,26.0,681666.0,3.8
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of prostate,C61,78.0,681666.0,11.4
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,23.0,681666.0,3.4
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,37.0,681666.0,5.4
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,22.0,681666.0,3.2
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,57.0,681666.0,8.4
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,16.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,20.0,681666.0,2.9
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,12.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,20.0,681666.0,2.9
+2020,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,35.0,681666.0,5.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,24.0,681666.0,3.5
+2020,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, with ketoacidosis",E14.1,25.0,681666.0,3.7
+2020,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,33.0,681666.0,4.8
+2020,New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,42.0,681666.0,6.2
+2020,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,77.0,681666.0,11.3
+2020,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Unspecified dementia,F03,158.0,681666.0,23.2
+2020,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,252.0,681666.0,37.0
+2020,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,29.0,681666.0,4.3
+2020,New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,16.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Essential (primary) hypertension,I10,25.0,681666.0,3.7
+2020,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,25.0,681666.0,3.7
+2020,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,28.0,681666.0,4.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,14.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,12.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,186.0,681666.0,27.3
+2020,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,445.0,681666.0,65.3
+2020,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,260.0,681666.0,38.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,18.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,12.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,14.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,26.0,681666.0,3.8
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,17.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,12.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,10.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,12.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,21.0,681666.0,3.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Congestive heart failure,I50.0,104.0,681666.0,15.3
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,32.0,681666.0,4.7
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,20.0,681666.0,2.9
+2020,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,32.0,681666.0,4.7
+2020,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,33.0,681666.0,4.8
+2020,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,76.0,681666.0,11.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,75.0,681666.0,11.0
+2020,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,21.0,681666.0,3.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,22.0,681666.0,3.2
+2020,New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,37.0,681666.0,5.4
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,19.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,13.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,71.0,681666.0,10.4
+2020,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,28.0,681666.0,4.1
+2020,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,36.0,681666.0,5.3
+2020,New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,250.0,681666.0,36.7
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,18.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,38.0,681666.0,5.6
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,10.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Other disorders of lung,J98.4,16.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Acute renal failure, unspecified",N17.9,15.0,681666.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Chronic kidney disease, stage 5",N18.5,55.0,681666.0,8.1
+2020,New Mexico,35,"Chaves County, NM",35005,Sepsis,"Septicaemia, unspecified",A41.9,11.0,64711.0,Unreliable
+2020,New Mexico,35,"Chaves County, NM",35005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,28.0,64711.0,43.3
+2020,New Mexico,35,"Chaves County, NM",35005,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,64711.0,Unreliable
+2020,New Mexico,35,"Chaves County, NM",35005,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,64711.0,Unreliable
+2020,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,64711.0,Unreliable
+2020,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,32.0,64711.0,49.5
+2020,New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,131.0,64711.0,202.4
+2020,New Mexico,35,"Chaves County, NM",35005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,33.0,64711.0,51.0
+2020,New Mexico,35,"Chaves County, NM",35005,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,64711.0,Unreliable
+2020,New Mexico,35,"Chaves County, NM",35005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,64711.0,35.5
+2020,New Mexico,35,"Chaves County, NM",35005,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,64711.0,Unreliable
+2020,New Mexico,35,"Cibola County, NM",35006,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,26354.0,Unreliable
+2020,New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,26354.0,Unreliable
+2020,New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,26354.0,Unreliable
+2020,New Mexico,35,"Colfax County, NM",35007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,11927.0,Unreliable
+2020,New Mexico,35,"Colfax County, NM",35007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,11927.0,Unreliable
+2020,New Mexico,35,"Curry County, NM",35009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,48793.0,Unreliable
+2020,New Mexico,35,"Curry County, NM",35009,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,48793.0,Unreliable
+2020,New Mexico,35,"Curry County, NM",35009,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,48793.0,Unreliable
+2020,New Mexico,35,"Curry County, NM",35009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,48793.0,Unreliable
+2020,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,48793.0,Unreliable
+2020,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,37.0,48793.0,75.8
+2020,New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,48793.0,47.1
+2020,New Mexico,35,"Curry County, NM",35009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,48793.0,Unreliable
+2020,New Mexico,35,"DeBaca County, NM",35011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,1673.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Sepsis,"Septicaemia, unspecified",A41.9,22.0,221262.0,9.9
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,11.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,24.0,221262.0,10.8
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,11.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,21.0,221262.0,9.5
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,67.0,221262.0,30.3
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,221262.0,12.2
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm of prostate,C61,28.0,221262.0,12.7
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm without specification of site,C80,20.0,221262.0,9.0
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,11.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,20.0,221262.0,9.0
+2020,New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,22.0,221262.0,9.9
+2020,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,39.0,221262.0,17.6
+2020,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,Unspecified dementia,F03,66.0,221262.0,29.8
+2020,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,79.0,221262.0,35.7
+2020,New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,24.0,221262.0,10.8
+2020,New Mexico,35,"Dona Ana County, NM",35013,Hypertensive diseases,Essential (primary) hypertension,I10,17.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,72.0,221262.0,32.5
+2020,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,88.0,221262.0,39.8
+2020,New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,89.0,221262.0,40.2
+2020,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,Congestive heart failure,I50.0,26.0,221262.0,11.8
+2020,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,15.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,18.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,29.0,221262.0,13.1
+2020,New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,17.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,28.0,221262.0,12.7
+2020,New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,62.0,221262.0,28.0
+2020,New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,221262.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Renal failure,"Chronic kidney disease, stage 5",N18.5,30.0,221262.0,13.6
+2020,New Mexico,35,"Dona Ana County, NM",35013,Renal failure,"Chronic renal failure, unspecified",N18.9,13.0,221262.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,58418.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,58418.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,58418.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,19.0,58418.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,16.0,58418.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,12.0,58418.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,58418.0,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,58418.0,42.8
+2020,New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,41.0,58418.0,70.2
+2020,New Mexico,35,"Eddy County, NM",35015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,32.0,58418.0,54.8
+2020,New Mexico,35,"Grant County, NM",35017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,27007.0,Unreliable
+2020,New Mexico,35,"Grant County, NM",35017,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,12.0,27007.0,Unreliable
+2020,New Mexico,35,"Grant County, NM",35017,Alzheimer disease and dementia,Unspecified dementia,F03,34.0,27007.0,125.9
+2020,New Mexico,35,"Grant County, NM",35017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,27007.0,Unreliable
+2020,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,27007.0,Unreliable
+2020,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,24.0,27007.0,88.9
+2020,New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,27007.0,Unreliable
+2020,New Mexico,35,"Grant County, NM",35017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,27007.0,85.2
+2020,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,71830.0,Unreliable
+2020,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,71830.0,Unreliable
+2020,New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,71830.0,Unreliable
+2020,New Mexico,35,"Lea County, NM",35025,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,12.0,71830.0,Unreliable
+2020,New Mexico,35,"Lea County, NM",35025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,34.0,71830.0,47.3
+2020,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,71830.0,Unreliable
+2020,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,24.0,71830.0,33.4
+2020,New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,34.0,71830.0,47.3
+2020,New Mexico,35,"Lea County, NM",35025,Other diseases of the circulatory system,Congestive heart failure,I50.0,21.0,71830.0,29.2
+2020,New Mexico,35,"Lea County, NM",35025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,71830.0,32.0
+2020,New Mexico,35,"Lincoln County, NM",35027,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,19939.0,Unreliable
+2020,New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,19939.0,Unreliable
+2020,New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,19939.0,Unreliable
+2020,New Mexico,35,"Lincoln County, NM",35027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,19939.0,Unreliable
+2020,New Mexico,35,"Los Alamos County, NM",35028,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,19462.0,Unreliable
+2020,New Mexico,35,"Luna County, NM",35029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,23905.0,Unreliable
+2020,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,23905.0,104.6
+2020,New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,23905.0,Unreliable
+2020,New Mexico,35,"Luna County, NM",35029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,23905.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Sepsis,"Septicaemia, unspecified",A41.9,16.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,70824.0,28.2
+2020,New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,70824.0,28.2
+2020,New Mexico,35,"McKinley County, NM",35031,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,10.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,70824.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Renal failure,"Chronic kidney disease, stage 5",N18.5,20.0,70824.0,28.2
+2020,New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,38.0,67967.0,55.9
+2020,New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,67967.0,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,67967.0,36.8
+2020,New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,67967.0,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,14.0,67967.0,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,67967.0,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,67967.0,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,49.0,67967.0,72.1
+2020,New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,67967.0,45.6
+2020,New Mexico,35,"Otero County, NM",35035,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,67967.0,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,67967.0,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,45.0,67967.0,66.2
+2020,New Mexico,35,"Quay County, NM",35037,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,8197.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,38521.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,14.0,38521.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,38521.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,23.0,38521.0,59.7
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,38521.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,21.0,38521.0,54.5
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,38521.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,38521.0,Unreliable
+2020,New Mexico,35,"Roosevelt County, NM",35041,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,18350.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Sepsis,"Septicaemia, unspecified",A41.9,10.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,18.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,22.0,148904.0,14.8
+2020,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,33.0,148904.0,22.2
+2020,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm of prostate,C61,18.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm without specification of site,C80,20.0,148904.0,13.4
+2020,New Mexico,35,"Sandoval County, NM",35043,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,148904.0,14.1
+2020,New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,57.0,148904.0,38.3
+2020,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,32.0,148904.0,21.5
+2020,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,70.0,148904.0,47.0
+2020,New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,66.0,148904.0,44.3
+2020,New Mexico,35,"Sandoval County, NM",35043,Other diseases of the circulatory system,Congestive heart failure,I50.0,20.0,148904.0,13.4
+2020,New Mexico,35,"Sandoval County, NM",35043,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,22.0,148904.0,14.8
+2020,New Mexico,35,"Sandoval County, NM",35043,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,10.0,148904.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,51.0,148904.0,34.3
+2020,New Mexico,35,"San Juan County, NM",35045,Sepsis,"Septicaemia, unspecified",A41.9,12.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,10.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,123312.0,23.5
+2020,New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,17.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,18.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,12.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,Unspecified dementia,F03,45.0,123312.0,36.5
+2020,New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,24.0,123312.0,19.5
+2020,New Mexico,35,"San Juan County, NM",35045,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,23.0,123312.0,18.7
+2020,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,52.0,123312.0,42.2
+2020,New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,37.0,123312.0,30.0
+2020,New Mexico,35,"San Juan County, NM",35045,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,123312.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,52.0,123312.0,42.2
+2020,New Mexico,35,"San Juan County, NM",35045,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,123312.0,Unreliable
+2020,New Mexico,35,"San Miguel County, NM",35047,Alzheimer disease and dementia,Unspecified dementia,F03,20.0,27144.0,73.7
+2020,New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,16.0,27144.0,Unreliable
+2020,New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,27144.0,Unreliable
+2020,New Mexico,35,"San Miguel County, NM",35047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,27144.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,13.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,17.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,29.0,151946.0,19.1
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,44.0,151946.0,29.0
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,151946.0,17.8
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm of prostate,C61,19.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,11.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,13.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,Unspecified dementia,F03,52.0,151946.0,34.2
+2020,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,55.0,151946.0,36.2
+2020,New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,11.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,20.0,151946.0,13.2
+2020,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,31.0,151946.0,20.4
+2020,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,73.0,151946.0,48.0
+2020,New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,55.0,151946.0,36.2
+2020,New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,12.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,151946.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,70.0,151946.0,46.1
+2020,New Mexico,35,"Santa Fe County, NM",35049,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,151946.0,Unreliable
+2020,New Mexico,35,"Sierra County, NM",35051,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,10867.0,Unreliable
+2020,New Mexico,35,"Sierra County, NM",35051,Alzheimer disease and dementia,Unspecified dementia,F03,33.0,10867.0,303.7
+2020,New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,10867.0,184.0
+2020,New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,10867.0,Unreliable
+2020,New Mexico,35,"Sierra County, NM",35051,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,10867.0,Unreliable
+2020,New Mexico,35,"Socorro County, NM",35053,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,16541.0,Unreliable
+2020,New Mexico,35,"Taos County, NM",35055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,32593.0,Unreliable
+2020,New Mexico,35,"Taos County, NM",35055,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,32593.0,Unreliable
+2020,New Mexico,35,"Taos County, NM",35055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,32593.0,Unreliable
+2020,New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,32593.0,61.4
+2020,New Mexico,35,"Taos County, NM",35055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,32593.0,Unreliable
+2020,New Mexico,35,"Torrance County, NM",35057,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,15486.0,Unreliable
+2020,New Mexico,35,"Torrance County, NM",35057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,15486.0,Unreliable
+2020,New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,77574.0,Unreliable
+2020,New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,77574.0,Unreliable
+2020,New Mexico,35,"Valencia County, NM",35061,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,77574.0,Unreliable
+2020,New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,77574.0,Unreliable
+2020,New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,17.0,77574.0,Unreliable
+2020,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,77574.0,25.8
+2020,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,32.0,77574.0,41.3
+2020,New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,Atherosclerotic heart disease,I25.1,36.0,77574.0,46.4
+2020,New Mexico,35,"Valencia County, NM",35061,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,41.0,77574.0,52.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Sepsis,"Septicaemia, unspecified",A41.9,66.0,681666.0,9.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,30.0,681666.0,4.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,25.0,681666.0,3.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,62.0,681666.0,9.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,19.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of rectum,C20,16.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,47.0,681666.0,6.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,18.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,15.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of gallbladder,C23,12.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,95.0,681666.0,13.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,172.0,681666.0,25.2
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,74.0,681666.0,10.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,13.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of ovary,C56,20.0,681666.0,2.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm of prostate,C61,71.0,681666.0,10.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,30.0,681666.0,4.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,29.0,681666.0,4.3
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,23.0,681666.0,3.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,59.0,681666.0,8.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,21.0,681666.0,3.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,28.0,681666.0,4.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,17.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,12.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,40.0,681666.0,5.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,33.0,681666.0,4.8
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, with ketoacidosis",E14.1,14.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,35.0,681666.0,5.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,54.0,681666.0,7.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,73.0,681666.0,10.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Unspecified dementia,F03,124.0,681666.0,18.2
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,252.0,681666.0,37.0
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,26.0,681666.0,3.8
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,23.0,681666.0,3.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Essential (primary) hypertension,I10,11.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,28.0,681666.0,4.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,31.0,681666.0,4.5
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,29.0,681666.0,4.3
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,12.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,10.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,103.0,681666.0,15.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,364.0,681666.0,53.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,255.0,681666.0,37.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,17.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,15.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,13.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Acute and subacute infective endocarditis,I33.0,11.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,13.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,20.0,681666.0,2.9
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Congestive heart failure,I50.0,82.0,681666.0,12.0
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,55.0,681666.0,8.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,23.0,681666.0,3.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,31.0,681666.0,4.5
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,25.0,681666.0,3.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,72.0,681666.0,10.6
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,66.0,681666.0,9.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,26.0,681666.0,3.8
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,14.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,45.0,681666.0,6.6
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,19.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,10.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,I80.2,13.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,65.0,681666.0,9.5
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,16.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,23.0,681666.0,3.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,230.0,681666.0,33.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,14.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,53.0,681666.0,7.8
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,18.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Chronic respiratory failure,J96.1,16.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the respiratory system,Other disorders of lung,J98.4,18.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Acute renal failure, unspecified",N17.9,13.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Chronic kidney disease, stage 5",N18.5,28.0,681666.0,4.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Renal failure,"Chronic renal failure, unspecified",N18.9,16.0,681666.0,Unreliable
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,64711.0,35.5
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,64711.0,Unreliable
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,64711.0,Unreliable
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,64711.0,Unreliable
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,64711.0,Unreliable
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,29.0,64711.0,44.8
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,113.0,64711.0,174.6
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,64711.0,Unreliable
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,64711.0,Unreliable
+2021 (provisional),New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,26354.0,Unreliable
+2021 (provisional),New Mexico,35,"Cibola County, NM",35006,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,26354.0,Unreliable
+2021 (provisional),New Mexico,35,"Colfax County, NM",35007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,11927.0,Unreliable
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,48793.0,Unreliable
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,48793.0,Unreliable
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,48793.0,Unreliable
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,21.0,48793.0,43.0
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,37.0,48793.0,75.8
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,48793.0,Unreliable
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,22.0,48793.0,45.1
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Sepsis,"Septicaemia, unspecified",A41.9,17.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,35.0,221262.0,15.8
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,54.0,221262.0,24.4
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,30.0,221262.0,13.6
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,221262.0,9.5
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Malignant neoplasms,Malignant neoplasm without specification of site,C80,25.0,221262.0,11.3
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,23.0,221262.0,10.4
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,221262.0,9.0
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,28.0,221262.0,12.7
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,Unspecified dementia,F03,74.0,221262.0,33.4
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,70.0,221262.0,31.6
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,22.0,221262.0,9.9
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Hypertensive diseases,Essential (primary) hypertension,I10,13.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,14.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,11.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,14.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,42.0,221262.0,19.0
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,86.0,221262.0,38.9
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,96.0,221262.0,43.4
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,Congestive heart failure,I50.0,20.0,221262.0,9.0
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,30.0,221262.0,13.6
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,18.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,23.0,221262.0,10.4
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,33.0,221262.0,14.9
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,13.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,37.0,221262.0,16.7
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,18.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,49.0,221262.0,22.1
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,14.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Renal failure,"Chronic kidney disease, stage 5",N18.5,27.0,221262.0,12.2
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Renal failure,"Chronic renal failure, unspecified",N18.9,10.0,221262.0,Unreliable
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Sepsis,"Septicaemia, unspecified",A41.9,10.0,58418.0,Unreliable
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,58418.0,Unreliable
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,58418.0,41.1
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,58418.0,Unreliable
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,58418.0,Unreliable
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,21.0,58418.0,35.9
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,16.0,58418.0,Unreliable
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,58418.0,42.8
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,58418.0,42.8
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,46.0,58418.0,78.7
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,27.0,58418.0,46.2
+2021 (provisional),New Mexico,35,"Grant County, NM",35017,Alzheimer disease and dementia,Unspecified dementia,F03,24.0,27007.0,88.9
+2021 (provisional),New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,29.0,27007.0,107.4
+2021 (provisional),New Mexico,35,"Grant County, NM",35017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,27007.0,77.8
+2021 (provisional),New Mexico,35,"Grant County, NM",35017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,27007.0,Unreliable
+2021 (provisional),New Mexico,35,"Grant County, NM",35017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,27007.0,Unreliable
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,71830.0,Unreliable
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,71830.0,Unreliable
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,71830.0,Unreliable
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,26.0,71830.0,36.2
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,71830.0,Unreliable
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,28.0,71830.0,39.0
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,33.0,71830.0,45.9
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Other diseases of the circulatory system,Congestive heart failure,I50.0,18.0,71830.0,Unreliable
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,28.0,71830.0,39.0
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,71830.0,Unreliable
+2021 (provisional),New Mexico,35,"Lincoln County, NM",35027,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,19939.0,Unreliable
+2021 (provisional),New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,19939.0,Unreliable
+2021 (provisional),New Mexico,35,"Lincoln County, NM",35027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,19939.0,Unreliable
+2021 (provisional),New Mexico,35,"Lincoln County, NM",35027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,19939.0,120.4
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,23905.0,Unreliable
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,23905.0,Unreliable
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,19.0,23905.0,Unreliable
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,23905.0,83.7
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,23905.0,Unreliable
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,23905.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,18.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,11.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,70824.0,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,67967.0,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,67967.0,35.3
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,67967.0,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Malignant neoplasms,Malignant neoplasm of prostate,C61,16.0,67967.0,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Alzheimer disease and dementia,Unspecified dementia,F03,20.0,67967.0,29.4
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Hypertensive diseases,Essential (primary) hypertension,I10,21.0,67967.0,30.9
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,67967.0,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,50.0,67967.0,73.6
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,67967.0,41.2
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,67967.0,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,67967.0,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,32.0,67967.0,47.1
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,12.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,17.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,19.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,18.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,38521.0,Unreliable
+2021 (provisional),New Mexico,35,"Roosevelt County, NM",35041,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,18350.0,Unreliable
+2021 (provisional),New Mexico,35,"Roosevelt County, NM",35041,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,18350.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Sepsis,"Septicaemia, unspecified",A41.9,13.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,17.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,26.0,148904.0,17.5
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,41.0,148904.0,27.5
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,148904.0,18.1
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,Unspecified dementia,F03,31.0,148904.0,20.8
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,60.0,148904.0,40.3
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,27.0,148904.0,18.1
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,64.0,148904.0,43.0
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,64.0,148904.0,43.0
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Other diseases of the circulatory system,Congestive heart failure,I50.0,21.0,148904.0,14.1
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,21.0,148904.0,14.1
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,49.0,148904.0,32.9
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Renal failure,"Chronic kidney disease, stage 5",N18.5,14.0,148904.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Sepsis,"Septicaemia, unspecified",A41.9,13.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,33.0,123312.0,26.8
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,13.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,12.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,Unspecified dementia,F03,57.0,123312.0,46.2
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,123312.0,21.1
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,50.0,123312.0,40.5
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,32.0,123312.0,26.0
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,13.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,20.0,123312.0,16.2
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,15.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,25.0,123312.0,20.3
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,47.0,123312.0,38.1
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,Other diseases of the respiratory system,Other disorders of lung,J98.4,18.0,123312.0,Unreliable
+2021 (provisional),New Mexico,35,"San Miguel County, NM",35047,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,27144.0,Unreliable
+2021 (provisional),New Mexico,35,"San Miguel County, NM",35047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,27144.0,Unreliable
+2021 (provisional),New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,27144.0,73.7
+2021 (provisional),New Mexico,35,"San Miguel County, NM",35047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,27144.0,Unreliable
+2021 (provisional),New Mexico,35,"San Miguel County, NM",35047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,27144.0,77.4
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,20.0,151946.0,13.2
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,50.0,151946.0,32.9
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,151946.0,17.8
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,151946.0,13.8
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,17.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,16.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,151946.0,13.2
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,Unspecified dementia,F03,63.0,151946.0,41.5
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,38.0,151946.0,25.0
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,13.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,20.0,151946.0,13.2
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,31.0,151946.0,20.4
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,71.0,151946.0,46.7
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,46.0,151946.0,30.3
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,151946.0,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,54.0,151946.0,35.5
+2021 (provisional),New Mexico,35,"Sierra County, NM",35051,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,10867.0,193.2
+2021 (provisional),New Mexico,35,"Sierra County, NM",35051,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,10867.0,Unreliable
+2021 (provisional),New Mexico,35,"Sierra County, NM",35051,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,10867.0,Unreliable
+2021 (provisional),New Mexico,35,"Socorro County, NM",35053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,16541.0,Unreliable
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,32593.0,Unreliable
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,32593.0,Unreliable
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,32593.0,Unreliable
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,24.0,32593.0,73.6
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,32593.0,Unreliable
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,32593.0,Unreliable
+2021 (provisional),New Mexico,35,"Torrance County, NM",35057,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,15486.0,Unreliable
+2021 (provisional),New Mexico,35,"Torrance County, NM",35057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,15486.0,Unreliable
+2021 (provisional),New Mexico,35,"Union County, NM",35059,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,4026.0,Unreliable
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,77574.0,Unreliable
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,77574.0,Unreliable
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,77574.0,37.4
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,77574.0,Unreliable
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,13.0,77574.0,Unreliable
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,77574.0,Unreliable
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,51.0,77574.0,65.7
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,77574.0,40.0
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,77574.0,Unreliable
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,36.0,77574.0,46.4
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Sepsis,"Septicaemia, unspecified",A41.9,11.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,681666.0,3.5
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,43.0,681666.0,6.3
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,35.0,681666.0,5.1
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,12.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,681666.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,37.0,681666.0,5.4
+2022 (provisional and partial),New Mexico,35,"Chaves County, NM",35005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,64711.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Dona Ana County, NM",35013,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,221262.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Dona Ana County, NM",35013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,221262.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Santa Fe County, NM",35049,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,151946.0,Unreliable
+2022 (provisional and partial),New Mexico,35,"Santa Fe County, NM",35049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,151946.0,Unreliable

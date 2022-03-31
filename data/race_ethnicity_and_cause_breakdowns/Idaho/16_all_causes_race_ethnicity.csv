@@ -1,0 +1,311 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Idaho,16,"Ada County, ID",16001,Asian,Not Hispanic or Latino,33.0,12878.0,256.3,370.6
+2018,Idaho,16,"Ada County, ID",16001,Black or African American,Not Hispanic or Latino,16.0,5829.0,Unreliable,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,White,Hispanic or Latino,90.0,34769.0,258.9,585.8
+2018,Idaho,16,"Ada County, ID",16001,White,Not Hispanic or Latino,2970.0,396964.0,748.2,654.6
+2018,Idaho,16,"Ada County, ID",16001,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,Idaho,16,"Ada County, ID",16001,More than one race,Not Hispanic or Latino,12.0,11864.0,Unreliable,Unreliable
+2018,Idaho,16,"Adams County, ID",16003,White,Not Hispanic or Latino,43.0,3873.0,1110.3,691.1
+2018,Idaho,16,"Bannock County, ID",16005,American Indian or Alaska Native,Not Hispanic or Latino,27.0,2470.0,1093.1,1330.0
+2018,Idaho,16,"Bannock County, ID",16005,White,Hispanic or Latino,26.0,6210.0,418.7,769.3
+2018,Idaho,16,"Bannock County, ID",16005,White,Not Hispanic or Latino,728.0,72788.0,1000.2,903.9
+2018,Idaho,16,"Bear Lake County, ID",16007,White,Not Hispanic or Latino,64.0,5650.0,1132.7,766.2
+2018,Idaho,16,"Benewah County, ID",16009,American Indian or Alaska Native,Not Hispanic or Latino,12.0,672.0,Unreliable,Unreliable
+2018,Idaho,16,"Benewah County, ID",16009,White,Not Hispanic or Latino,95.0,7812.0,1216.1,819.2
+2018,Idaho,16,"Bingham County, ID",16011,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2574.0,1204.4,1353.5
+2018,Idaho,16,"Bingham County, ID",16011,White,Hispanic or Latino,24.0,7069.0,339.5,599.9
+2018,Idaho,16,"Bingham County, ID",16011,White,Not Hispanic or Latino,356.0,34023.0,1046.4,873.5
+2018,Idaho,16,"Blaine County, ID",16013,White,Not Hispanic or Latino,94.0,16832.0,558.5,396.9
+2018,Idaho,16,"Boise County, ID",16015,White,Not Hispanic or Latino,57.0,6900.0,826.1,596.2
+2018,Idaho,16,"Bonner County, ID",16017,White,Not Hispanic or Latino,434.0,41545.0,1044.7,674.9
+2018,Idaho,16,"Bonneville County, ID",16019,White,Hispanic or Latino,46.0,13718.0,335.3,710.7
+2018,Idaho,16,"Bonneville County, ID",16019,White,Not Hispanic or Latino,872.0,96633.0,902.4,813.8
+2018,Idaho,16,"Boundary County, ID",16021,White,Not Hispanic or Latino,117.0,10757.0,1087.7,733.3
+2018,Idaho,16,"Butte County, ID",16023,White,Not Hispanic or Latino,38.0,2385.0,1593.3,986.4
+2018,Idaho,16,"Camas County, ID",16025,White,Not Hispanic or Latino,13.0,993.0,Unreliable,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Asian,Not Hispanic or Latino,12.0,1959.0,Unreliable,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,White,Hispanic or Latino,121.0,51775.0,233.7,467.7
+2018,Idaho,16,"Canyon County, ID",16027,White,Not Hispanic or Latino,1487.0,156681.0,949.1,793.5
+2018,Idaho,16,"Canyon County, ID",16027,More than one race,Not Hispanic or Latino,12.0,4470.0,Unreliable,Unreliable
+2018,Idaho,16,"Caribou County, ID",16029,White,Not Hispanic or Latino,59.0,6491.0,909.0,720.6
+2018,Idaho,16,"Cassia County, ID",16031,White,Hispanic or Latino,15.0,5994.0,Unreliable,Unreliable
+2018,Idaho,16,"Cassia County, ID",16031,White,Not Hispanic or Latino,194.0,16564.0,1171.2,889.1
+2018,Idaho,16,"Clearwater County, ID",16035,White,Not Hispanic or Latino,97.0,7865.0,1233.3,634.5
+2018,Idaho,16,"Custer County, ID",16037,White,Not Hispanic or Latino,55.0,3924.0,1401.6,734.3
+2018,Idaho,16,"Elmore County, ID",16039,White,Not Hispanic or Latino,197.0,19751.0,997.4,886.4
+2018,Idaho,16,"Franklin County, ID",16041,White,Not Hispanic or Latino,124.0,12498.0,992.2,862.4
+2018,Idaho,16,"Fremont County, ID",16043,White,Not Hispanic or Latino,97.0,11188.0,867.0,671.3
+2018,Idaho,16,"Gem County, ID",16045,White,Not Hispanic or Latino,227.0,15451.0,1469.2,955.7
+2018,Idaho,16,"Gooding County, ID",16047,White,Not Hispanic or Latino,124.0,10218.0,1213.5,751.0
+2018,Idaho,16,"Idaho County, ID",16049,White,Not Hispanic or Latino,197.0,14975.0,1315.5,704.2
+2018,Idaho,16,"Jefferson County, ID",16051,White,Not Hispanic or Latino,177.0,25474.0,694.8,770.3
+2018,Idaho,16,"Jerome County, ID",16053,White,Hispanic or Latino,11.0,8038.0,Unreliable,Unreliable
+2018,Idaho,16,"Jerome County, ID",16053,White,Not Hispanic or Latino,143.0,14680.0,974.1,758.2
+2018,Idaho,16,"Kootenai County, ID",16055,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1805.0,Unreliable,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,White,Hispanic or Latino,18.0,6583.0,Unreliable,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,White,Not Hispanic or Latino,1523.0,146077.0,1042.6,773.7
+2018,Idaho,16,"Latah County, ID",16057,White,Not Hispanic or Latino,215.0,35434.0,606.8,589.8
+2018,Idaho,16,"Lemhi County, ID",16059,White,Not Hispanic or Latino,113.0,7428.0,1521.3,766.7
+2018,Idaho,16,"Lewis County, ID",16061,White,Not Hispanic or Latino,48.0,3217.0,1492.1,802.8
+2018,Idaho,16,"Lincoln County, ID",16063,White,Not Hispanic or Latino,50.0,3550.0,1408.5,1082.4
+2018,Idaho,16,"Madison County, ID",16065,White,Not Hispanic or Latino,171.0,34642.0,493.6,870.4
+2018,Idaho,16,"Minidoka County, ID",16067,White,Hispanic or Latino,27.0,6851.0,394.1,704.9
+2018,Idaho,16,"Minidoka County, ID",16067,White,Not Hispanic or Latino,179.0,12809.0,1397.5,881.3
+2018,Idaho,16,"Nez Perce County, ID",16069,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2159.0,Unreliable,Unreliable
+2018,Idaho,16,"Nez Perce County, ID",16069,White,Not Hispanic or Latino,483.0,35107.0,1375.8,859.1
+2018,Idaho,16,"Oneida County, ID",16071,White,Not Hispanic or Latino,54.0,4183.0,1290.9,911.6
+2018,Idaho,16,"Owyhee County, ID",16073,White,Not Hispanic or Latino,94.0,8016.0,1172.7,790.4
+2018,Idaho,16,"Payette County, ID",16075,White,Hispanic or Latino,10.0,3717.0,Unreliable,Unreliable
+2018,Idaho,16,"Payette County, ID",16075,White,Not Hispanic or Latino,226.0,18450.0,1224.9,848.3
+2018,Idaho,16,"Power County, ID",16077,White,Not Hispanic or Latino,53.0,4688.0,1130.5,720.8
+2018,Idaho,16,"Shoshone County, ID",16079,White,Not Hispanic or Latino,164.0,11656.0,1407.0,927.8
+2018,Idaho,16,"Teton County, ID",16081,White,Not Hispanic or Latino,42.0,9447.0,444.6,473.6
+2018,Idaho,16,"Twin Falls County, ID",16083,White,Hispanic or Latino,33.0,13219.0,249.6,452.2
+2018,Idaho,16,"Twin Falls County, ID",16083,White,Not Hispanic or Latino,744.0,67648.0,1099.8,837.8
+2018,Idaho,16,"Valley County, ID",16085,White,Not Hispanic or Latino,62.0,10150.0,610.8,394.7
+2018,Idaho,16,"Washington County, ID",16087,White,Not Hispanic or Latino,104.0,8042.0,1293.2,694.5
+2019,Idaho,16,"Ada County, ID",16001,Asian,Not Hispanic or Latino,38.0,12793.0,297.0,432.9
+2019,Idaho,16,"Ada County, ID",16001,Black or African American,Not Hispanic or Latino,12.0,6144.0,Unreliable,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,White,Hispanic or Latino,83.0,36584.0,226.9,460.3
+2019,Idaho,16,"Ada County, ID",16001,White,Not Hispanic or Latino,3110.0,405966.0,766.1,660.8
+2019,Idaho,16,"Ada County, ID",16001,More than one race,Not Hispanic or Latino,14.0,12186.0,Unreliable,Unreliable
+2019,Idaho,16,"Adams County, ID",16003,White,Not Hispanic or Latino,38.0,3934.0,965.9,544.6
+2019,Idaho,16,"Bannock County, ID",16005,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2514.0,1233.1,1595.1
+2019,Idaho,16,"Bannock County, ID",16005,White,Hispanic or Latino,18.0,6363.0,Unreliable,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,White,Not Hispanic or Latino,665.0,73192.0,908.6,805.5
+2019,Idaho,16,"Bear Lake County, ID",16007,White,Not Hispanic or Latino,52.0,5704.0,911.6,610.9
+2019,Idaho,16,"Benewah County, ID",16009,White,Not Hispanic or Latino,124.0,7865.0,1576.6,1078.9
+2019,Idaho,16,"Bingham County, ID",16011,American Indian or Alaska Native,Not Hispanic or Latino,35.0,2599.0,1346.7,1549.8
+2019,Idaho,16,"Bingham County, ID",16011,White,Hispanic or Latino,21.0,7076.0,296.8,506.0
+2019,Idaho,16,"Bingham County, ID",16011,White,Not Hispanic or Latino,315.0,34574.0,911.1,773.2
+2019,Idaho,16,"Blaine County, ID",16013,White,Not Hispanic or Latino,125.0,16967.0,736.7,506.7
+2019,Idaho,16,"Boise County, ID",16015,White,Not Hispanic or Latino,62.0,7056.0,878.7,601.7
+2019,Idaho,16,"Bonner County, ID",16017,White,Not Hispanic or Latino,472.0,42356.0,1114.4,709.1
+2019,Idaho,16,"Bonneville County, ID",16019,White,Hispanic or Latino,25.0,14088.0,177.5,503.0
+2019,Idaho,16,"Bonneville County, ID",16019,White,Not Hispanic or Latino,909.0,98268.0,925.0,843.3
+2019,Idaho,16,"Boundary County, ID",16021,White,Not Hispanic or Latino,110.0,11018.0,998.4,669.0
+2019,Idaho,16,"Butte County, ID",16023,White,Not Hispanic or Latino,31.0,2360.0,1313.6,764.6
+2019,Idaho,16,"Camas County, ID",16025,White,Not Hispanic or Latino,13.0,981.0,Unreliable,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,White,Hispanic or Latino,147.0,53402.0,275.3,587.5
+2019,Idaho,16,"Canyon County, ID",16027,White,Not Hispanic or Latino,1446.0,160795.0,899.3,750.2
+2019,Idaho,16,"Caribou County, ID",16029,White,Not Hispanic or Latino,67.0,6525.0,1026.8,752.7
+2019,Idaho,16,"Cassia County, ID",16031,White,Hispanic or Latino,22.0,5996.0,366.9,774.3
+2019,Idaho,16,"Cassia County, ID",16031,White,Not Hispanic or Latino,192.0,16757.0,1145.8,873.4
+2019,Idaho,16,"Clearwater County, ID",16035,White,Not Hispanic or Latino,94.0,7874.0,1193.8,613.4
+2019,Idaho,16,"Custer County, ID",16037,White,Not Hispanic or Latino,45.0,3960.0,1136.4,731.0
+2019,Idaho,16,"Elmore County, ID",16039,White,Hispanic or Latino,14.0,4251.0,Unreliable,Unreliable
+2019,Idaho,16,"Elmore County, ID",16039,White,Not Hispanic or Latino,193.0,19915.0,969.1,825.9
+2019,Idaho,16,"Franklin County, ID",16041,White,Not Hispanic or Latino,97.0,12605.0,769.5,682.6
+2019,Idaho,16,"Fremont County, ID",16043,White,Not Hispanic or Latino,103.0,11121.0,926.2,700.5
+2019,Idaho,16,"Gem County, ID",16045,White,Not Hispanic or Latino,207.0,15819.0,1308.6,814.3
+2019,Idaho,16,"Gooding County, ID",16047,White,Hispanic or Latino,10.0,4041.0,Unreliable,Unreliable
+2019,Idaho,16,"Gooding County, ID",16047,White,Not Hispanic or Latino,119.0,10266.0,1159.2,683.0
+2019,Idaho,16,"Idaho County, ID",16049,White,Not Hispanic or Latino,184.0,15105.0,1218.1,605.2
+2019,Idaho,16,"Jefferson County, ID",16051,White,Not Hispanic or Latino,165.0,25837.0,638.6,724.3
+2019,Idaho,16,"Jerome County, ID",16053,White,Hispanic or Latino,14.0,8419.0,Unreliable,Unreliable
+2019,Idaho,16,"Jerome County, ID",16053,White,Not Hispanic or Latino,159.0,14693.0,1082.1,789.8
+2019,Idaho,16,"Kootenai County, ID",16055,White,Hispanic or Latino,21.0,6957.0,301.9,533.2
+2019,Idaho,16,"Kootenai County, ID",16055,White,Not Hispanic or Latino,1559.0,149676.0,1041.6,769.0
+2019,Idaho,16,"Latah County, ID",16057,White,Not Hispanic or Latino,197.0,35492.0,555.1,504.0
+2019,Idaho,16,"Lemhi County, ID",16059,White,Not Hispanic or Latino,106.0,7476.0,1417.9,739.7
+2019,Idaho,16,"Lewis County, ID",16061,White,Not Hispanic or Latino,51.0,3212.0,1587.8,862.9
+2019,Idaho,16,"Lincoln County, ID",16063,White,Not Hispanic or Latino,39.0,3485.0,1119.1,843.1
+2019,Idaho,16,"Madison County, ID",16065,White,Not Hispanic or Latino,166.0,35183.0,471.8,839.6
+2019,Idaho,16,"Minidoka County, ID",16067,White,Hispanic or Latino,22.0,6911.0,318.3,612.8
+2019,Idaho,16,"Minidoka County, ID",16067,White,Not Hispanic or Latino,196.0,12904.0,1518.9,972.3
+2019,Idaho,16,"Nez Perce County, ID",16069,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2176.0,919.1,998.3
+2019,Idaho,16,"Nez Perce County, ID",16069,White,Not Hispanic or Latino,480.0,35091.0,1367.9,825.5
+2019,Idaho,16,"Oneida County, ID",16071,White,Not Hispanic or Latino,45.0,4235.0,1062.6,711.4
+2019,Idaho,16,"Owyhee County, ID",16073,White,Hispanic or Latino,13.0,2680.0,Unreliable,Unreliable
+2019,Idaho,16,"Owyhee County, ID",16073,White,Not Hispanic or Latino,91.0,8151.0,1116.4,764.3
+2019,Idaho,16,"Payette County, ID",16075,White,Not Hispanic or Latino,242.0,18696.0,1294.4,910.6
+2019,Idaho,16,"Power County, ID",16077,White,Hispanic or Latino,10.0,2420.0,Unreliable,Unreliable
+2019,Idaho,16,"Power County, ID",16077,White,Not Hispanic or Latino,54.0,4659.0,1159.0,759.4
+2019,Idaho,16,"Shoshone County, ID",16079,White,Not Hispanic or Latino,186.0,11733.0,1585.3,1010.6
+2019,Idaho,16,"Teton County, ID",16081,White,Not Hispanic or Latino,59.0,9868.0,597.9,664.0
+2019,Idaho,16,"Twin Falls County, ID",16083,White,Hispanic or Latino,31.0,13456.0,230.4,603.5
+2019,Idaho,16,"Twin Falls County, ID",16083,White,Not Hispanic or Latino,756.0,67928.0,1112.9,843.8
+2019,Idaho,16,"Valley County, ID",16085,White,Not Hispanic or Latino,73.0,10482.0,696.4,468.8
+2019,Idaho,16,"Washington County, ID",16087,White,Not Hispanic or Latino,137.0,8060.0,1699.8,899.5
+2020,Idaho,16,"Ada County, ID",16001,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2469.0,Unreliable,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Asian,Not Hispanic or Latino,42.0,13438.0,312.5,458.7
+2020,Idaho,16,"Ada County, ID",16001,Black or African American,Not Hispanic or Latino,25.0,6012.0,415.8,1310.7
+2020,Idaho,16,"Ada County, ID",16001,White,Hispanic or Latino,82.0,38410.0,213.5,487.3
+2020,Idaho,16,"Ada County, ID",16001,White,Not Hispanic or Latino,3615.0,415528.0,870.0,733.7
+2020,Idaho,16,"Ada County, ID",16001,More than one race,Not Hispanic or Latino,14.0,12677.0,Unreliable,Unreliable
+2020,Idaho,16,"Adams County, ID",16003,White,Not Hispanic or Latino,44.0,4072.0,1080.6,618.6
+2020,Idaho,16,"Bannock County, ID",16005,American Indian or Alaska Native,Not Hispanic or Latino,39.0,2488.0,1567.5,1758.7
+2020,Idaho,16,"Bannock County, ID",16005,White,Hispanic or Latino,36.0,6558.0,548.9,989.2
+2020,Idaho,16,"Bannock County, ID",16005,White,Not Hispanic or Latino,756.0,73677.0,1026.1,916.3
+2020,Idaho,16,"Bear Lake County, ID",16007,White,Not Hispanic or Latino,77.0,5718.0,1346.6,924.7
+2020,Idaho,16,"Benewah County, ID",16009,White,Not Hispanic or Latino,108.0,7947.0,1359.0,886.8
+2020,Idaho,16,"Bingham County, ID",16011,American Indian or Alaska Native,Not Hispanic or Latino,34.0,2479.0,1371.5,1478.0
+2020,Idaho,16,"Bingham County, ID",16011,White,Hispanic or Latino,32.0,7088.0,451.5,753.3
+2020,Idaho,16,"Bingham County, ID",16011,White,Not Hispanic or Latino,395.0,34989.0,1128.9,958.2
+2020,Idaho,16,"Blaine County, ID",16013,White,Not Hispanic or Latino,132.0,17210.0,767.0,495.2
+2020,Idaho,16,"Boise County, ID",16015,White,Not Hispanic or Latino,73.0,7232.0,1009.4,673.1
+2020,Idaho,16,"Bonner County, ID",16017,White,Not Hispanic or Latino,468.0,43299.0,1080.9,716.5
+2020,Idaho,16,"Bonneville County, ID",16019,White,Hispanic or Latino,52.0,14693.0,353.9,844.3
+2020,Idaho,16,"Bonneville County, ID",16019,White,Not Hispanic or Latino,1022.0,100443.0,1017.5,924.5
+2020,Idaho,16,"Boundary County, ID",16021,White,Not Hispanic or Latino,134.0,11316.0,1184.2,737.5
+2020,Idaho,16,"Butte County, ID",16023,White,Not Hispanic or Latino,36.0,2415.0,1490.7,996.1
+2020,Idaho,16,"Camas County, ID",16025,White,Not Hispanic or Latino,13.0,1005.0,Unreliable,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Asian,Not Hispanic or Latino,15.0,2132.0,Unreliable,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,White,Hispanic or Latino,207.0,54556.0,379.4,850.5
+2020,Idaho,16,"Canyon County, ID",16027,White,Not Hispanic or Latino,1672.0,165958.0,1007.5,825.0
+2020,Idaho,16,"Caribou County, ID",16029,White,Not Hispanic or Latino,86.0,6460.0,1331.3,989.7
+2020,Idaho,16,"Cassia County, ID",16031,White,Hispanic or Latino,21.0,6104.0,344.0,658.3
+2020,Idaho,16,"Cassia County, ID",16031,White,Not Hispanic or Latino,202.0,16859.0,1198.2,899.4
+2020,Idaho,16,"Clearwater County, ID",16035,White,Not Hispanic or Latino,122.0,7955.0,1533.6,859.0
+2020,Idaho,16,"Custer County, ID",16037,White,Not Hispanic or Latino,51.0,3883.0,1313.4,666.8
+2020,Idaho,16,"Elmore County, ID",16039,White,Not Hispanic or Latino,221.0,19856.0,1113.0,917.8
+2020,Idaho,16,"Franklin County, ID",16041,White,Not Hispanic or Latino,100.0,12900.0,775.2,675.1
+2020,Idaho,16,"Fremont County, ID",16043,White,Not Hispanic or Latino,120.0,11279.0,1063.9,823.5
+2020,Idaho,16,"Gem County, ID",16045,White,Not Hispanic or Latino,251.0,16310.0,1538.9,963.8
+2020,Idaho,16,"Gooding County, ID",16047,White,Hispanic or Latino,17.0,4162.0,Unreliable,Unreliable
+2020,Idaho,16,"Gooding County, ID",16047,White,Not Hispanic or Latino,181.0,10515.0,1721.4,1028.3
+2020,Idaho,16,"Idaho County, ID",16049,White,Not Hispanic or Latino,198.0,15197.0,1302.9,687.7
+2020,Idaho,16,"Jefferson County, ID",16051,White,Hispanic or Latino,12.0,2778.0,Unreliable,Unreliable
+2020,Idaho,16,"Jefferson County, ID",16051,White,Not Hispanic or Latino,182.0,26451.0,688.1,766.4
+2020,Idaho,16,"Jerome County, ID",16053,White,Hispanic or Latino,15.0,8580.0,Unreliable,Unreliable
+2020,Idaho,16,"Jerome County, ID",16053,White,Not Hispanic or Latino,170.0,14713.0,1155.4,879.6
+2020,Idaho,16,"Kootenai County, ID",16055,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1846.0,Unreliable,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Asian,Not Hispanic or Latino,10.0,1537.0,Unreliable,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,White,Hispanic or Latino,30.0,7439.0,403.3,711.7
+2020,Idaho,16,"Kootenai County, ID",16055,White,Not Hispanic or Latino,1586.0,153646.0,1032.2,764.2
+2020,Idaho,16,"Kootenai County, ID",16055,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2020,Idaho,16,"Latah County, ID",16057,White,Not Hispanic or Latino,243.0,36113.0,672.9,604.6
+2020,Idaho,16,"Lemhi County, ID",16059,White,Not Hispanic or Latino,130.0,7515.0,1729.9,876.8
+2020,Idaho,16,"Lewis County, ID",16061,White,Not Hispanic or Latino,47.0,3199.0,1469.2,954.7
+2020,Idaho,16,"Lincoln County, ID",16063,White,Not Hispanic or Latino,48.0,3461.0,1386.9,1024.0
+2020,Idaho,16,"Madison County, ID",16065,White,Not Hispanic or Latino,184.0,35311.0,521.1,872.0
+2020,Idaho,16,"Minidoka County, ID",16067,White,Hispanic or Latino,43.0,6897.0,623.5,1114.3
+2020,Idaho,16,"Minidoka County, ID",16067,White,Not Hispanic or Latino,164.0,13057.0,1256.0,816.0
+2020,Idaho,16,"Nez Perce County, ID",16069,American Indian or Alaska Native,Not Hispanic or Latino,34.0,2097.0,1621.4,1931.9
+2020,Idaho,16,"Nez Perce County, ID",16069,White,Not Hispanic or Latino,501.0,35298.0,1419.3,870.6
+2020,Idaho,16,"Oneida County, ID",16071,White,Not Hispanic or Latino,44.0,4210.0,1045.1,697.4
+2020,Idaho,16,"Owyhee County, ID",16073,White,Hispanic or Latino,16.0,2703.0,Unreliable,Unreliable
+2020,Idaho,16,"Owyhee County, ID",16073,White,Not Hispanic or Latino,122.0,8417.0,1449.4,980.9
+2020,Idaho,16,"Payette County, ID",16075,White,Hispanic or Latino,10.0,3906.0,Unreliable,Unreliable
+2020,Idaho,16,"Payette County, ID",16075,White,Not Hispanic or Latino,251.0,19293.0,1301.0,858.9
+2020,Idaho,16,"Power County, ID",16077,White,Not Hispanic or Latino,66.0,4649.0,1419.7,944.1
+2020,Idaho,16,"Shoshone County, ID",16079,White,Not Hispanic or Latino,190.0,11770.0,1614.3,1021.5
+2020,Idaho,16,"Teton County, ID",16081,White,Not Hispanic or Latino,45.0,10156.0,443.1,497.3
+2020,Idaho,16,"Twin Falls County, ID",16083,Asian,Not Hispanic or Latino,11.0,1489.0,Unreliable,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,White,Hispanic or Latino,53.0,13814.0,383.7,782.5
+2020,Idaho,16,"Twin Falls County, ID",16083,White,Not Hispanic or Latino,911.0,68751.0,1325.1,985.1
+2020,Idaho,16,"Valley County, ID",16085,White,Not Hispanic or Latino,90.0,10849.0,829.6,576.0
+2020,Idaho,16,"Washington County, ID",16087,White,Hispanic or Latino,12.0,1515.0,Unreliable,Unreliable
+2020,Idaho,16,"Washington County, ID",16087,White,Not Hispanic or Latino,147.0,8220.0,1788.3,937.7
+2021 (provisional),Idaho,16,"Ada County, ID",16001,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2469.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Asian,Not Hispanic or Latino,53.0,13438.0,394.4,476.9
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Black or African American,Not Hispanic or Latino,34.0,6012.0,565.5,1370.7
+2021 (provisional),Idaho,16,"Ada County, ID",16001,White,Hispanic or Latino,110.0,38410.0,286.4,617.4
+2021 (provisional),Idaho,16,"Ada County, ID",16001,White,Not Hispanic or Latino,3905.0,415528.0,939.8,794.8
+2021 (provisional),Idaho,16,"Ada County, ID",16001,More than one race,Not Hispanic or Latino,19.0,12677.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Adams County, ID",16003,White,Not Hispanic or Latino,54.0,4072.0,1326.1,785.5
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,American Indian or Alaska Native,Not Hispanic or Latino,48.0,2488.0,1929.3,2187.3
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Black or African American,Not Hispanic or Latino,11.0,815.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,White,Hispanic or Latino,42.0,6558.0,640.4,1076.2
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,White,Not Hispanic or Latino,817.0,73677.0,1108.9,975.9
+2021 (provisional),Idaho,16,"Bear Lake County, ID",16007,White,Not Hispanic or Latino,78.0,5718.0,1364.1,935.3
+2021 (provisional),Idaho,16,"Benewah County, ID",16009,American Indian or Alaska Native,Not Hispanic or Latino,13.0,647.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Benewah County, ID",16009,White,Not Hispanic or Latino,143.0,7947.0,1799.4,1098.4
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,American Indian or Alaska Native,Not Hispanic or Latino,50.0,2479.0,2016.9,2108.5
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,White,Hispanic or Latino,48.0,7088.0,677.2,1148.6
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,White,Not Hispanic or Latino,403.0,34989.0,1151.8,977.1
+2021 (provisional),Idaho,16,"Blaine County, ID",16013,White,Not Hispanic or Latino,150.0,17210.0,871.6,541.3
+2021 (provisional),Idaho,16,"Boise County, ID",16015,White,Not Hispanic or Latino,89.0,7232.0,1230.6,889.0
+2021 (provisional),Idaho,16,"Bonner County, ID",16017,White,Not Hispanic or Latino,607.0,43299.0,1401.9,857.2
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,White,Hispanic or Latino,39.0,14693.0,265.4,650.0
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,White,Not Hispanic or Latino,1043.0,100443.0,1038.4,952.0
+2021 (provisional),Idaho,16,"Boundary County, ID",16021,White,Not Hispanic or Latino,174.0,11316.0,1537.6,942.5
+2021 (provisional),Idaho,16,"Butte County, ID",16023,White,Not Hispanic or Latino,44.0,2415.0,1821.9,1191.4
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1405.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Asian,Not Hispanic or Latino,15.0,2132.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,White,Hispanic or Latino,207.0,54556.0,379.4,777.6
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,White,Not Hispanic or Latino,1864.0,165958.0,1123.2,907.0
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,More than one race,Not Hispanic or Latino,14.0,5002.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Caribou County, ID",16029,White,Not Hispanic or Latino,76.0,6460.0,1176.5,929.3
+2021 (provisional),Idaho,16,"Cassia County, ID",16031,White,Hispanic or Latino,29.0,6104.0,475.1,910.7
+2021 (provisional),Idaho,16,"Cassia County, ID",16031,White,Not Hispanic or Latino,203.0,16859.0,1204.1,916.2
+2021 (provisional),Idaho,16,"Clearwater County, ID",16035,White,Not Hispanic or Latino,129.0,7955.0,1621.6,812.7
+2021 (provisional),Idaho,16,"Custer County, ID",16037,White,Not Hispanic or Latino,66.0,3883.0,1699.7,932.7
+2021 (provisional),Idaho,16,"Elmore County, ID",16039,White,Hispanic or Latino,15.0,4235.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Elmore County, ID",16039,White,Not Hispanic or Latino,213.0,19856.0,1072.7,911.1
+2021 (provisional),Idaho,16,"Franklin County, ID",16041,White,Not Hispanic or Latino,131.0,12900.0,1015.5,876.9
+2021 (provisional),Idaho,16,"Fremont County, ID",16043,White,Not Hispanic or Latino,151.0,11279.0,1338.8,993.6
+2021 (provisional),Idaho,16,"Gem County, ID",16045,White,Not Hispanic or Latino,296.0,16310.0,1814.8,1165.1
+2021 (provisional),Idaho,16,"Gooding County, ID",16047,White,Hispanic or Latino,12.0,4162.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Gooding County, ID",16047,White,Not Hispanic or Latino,158.0,10515.0,1502.6,899.8
+2021 (provisional),Idaho,16,"Idaho County, ID",16049,White,Not Hispanic or Latino,245.0,15197.0,1612.2,880.2
+2021 (provisional),Idaho,16,"Jefferson County, ID",16051,White,Not Hispanic or Latino,241.0,26451.0,911.1,1019.7
+2021 (provisional),Idaho,16,"Jerome County, ID",16053,White,Hispanic or Latino,35.0,8580.0,407.9,975.9
+2021 (provisional),Idaho,16,"Jerome County, ID",16053,White,Not Hispanic or Latino,204.0,14713.0,1386.5,1028.3
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1846.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Asian,Not Hispanic or Latino,11.0,1537.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,White,Hispanic or Latino,30.0,7439.0,403.3,835.0
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,White,Not Hispanic or Latino,1938.0,153646.0,1261.3,921.0
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,More than one race,Not Hispanic or Latino,12.0,3944.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Latah County, ID",16057,White,Not Hispanic or Latino,298.0,36113.0,825.2,743.8
+2021 (provisional),Idaho,16,"Lemhi County, ID",16059,White,Not Hispanic or Latino,144.0,7515.0,1916.2,1082.1
+2021 (provisional),Idaho,16,"Lewis County, ID",16061,White,Not Hispanic or Latino,59.0,3199.0,1844.3,964.3
+2021 (provisional),Idaho,16,"Lincoln County, ID",16063,White,Not Hispanic or Latino,35.0,3461.0,1011.3,799.5
+2021 (provisional),Idaho,16,"Madison County, ID",16065,White,Not Hispanic or Latino,221.0,35311.0,625.9,1039.9
+2021 (provisional),Idaho,16,"Minidoka County, ID",16067,White,Hispanic or Latino,39.0,6897.0,565.5,919.8
+2021 (provisional),Idaho,16,"Minidoka County, ID",16067,White,Not Hispanic or Latino,184.0,13057.0,1409.2,914.9
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2097.0,1478.3,1913.5
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,White,Not Hispanic or Latino,566.0,35298.0,1603.5,998.6
+2021 (provisional),Idaho,16,"Oneida County, ID",16071,White,Not Hispanic or Latino,62.0,4210.0,1472.7,965.7
+2021 (provisional),Idaho,16,"Owyhee County, ID",16073,White,Hispanic or Latino,13.0,2703.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Owyhee County, ID",16073,White,Not Hispanic or Latino,125.0,8417.0,1485.1,1084.7
+2021 (provisional),Idaho,16,"Payette County, ID",16075,White,Hispanic or Latino,15.0,3906.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Payette County, ID",16075,White,Not Hispanic or Latino,319.0,19293.0,1653.4,1118.7
+2021 (provisional),Idaho,16,"Power County, ID",16077,White,Hispanic or Latino,12.0,2335.0,Unreliable,Unreliable
+2021 (provisional),Idaho,16,"Power County, ID",16077,White,Not Hispanic or Latino,74.0,4649.0,1591.7,1000.9
+2021 (provisional),Idaho,16,"Shoshone County, ID",16079,White,Not Hispanic or Latino,237.0,11770.0,2013.6,1339.6
+2021 (provisional),Idaho,16,"Teton County, ID",16081,White,Not Hispanic or Latino,69.0,10156.0,679.4,719.1
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,White,Hispanic or Latino,62.0,13814.0,448.8,824.4
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,White,Not Hispanic or Latino,899.0,68751.0,1307.6,983.8
+2021 (provisional),Idaho,16,"Valley County, ID",16085,White,Not Hispanic or Latino,95.0,10849.0,875.7,562.6
+2021 (provisional),Idaho,16,"Washington County, ID",16087,White,Not Hispanic or Latino,154.0,8220.0,1873.5,1046.9
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Asian,Not Hispanic or Latino,10.0,13438.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,White,Hispanic or Latino,18.0,38410.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,White,Not Hispanic or Latino,523.0,415528.0,125.9,105.5
+2022 (provisional and partial),Idaho,16,"Bannock County, ID",16005,White,Not Hispanic or Latino,113.0,73677.0,153.4,130.2
+2022 (provisional and partial),Idaho,16,"Benewah County, ID",16009,White,Not Hispanic or Latino,27.0,7947.0,339.8,213.2
+2022 (provisional and partial),Idaho,16,"Bingham County, ID",16011,White,Not Hispanic or Latino,48.0,34989.0,137.2,113.5
+2022 (provisional and partial),Idaho,16,"Blaine County, ID",16013,White,Not Hispanic or Latino,22.0,17210.0,127.8,74.0
+2022 (provisional and partial),Idaho,16,"Boise County, ID",16015,White,Not Hispanic or Latino,17.0,7232.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Bonner County, ID",16017,White,Not Hispanic or Latino,75.0,43299.0,173.2,105.7
+2022 (provisional and partial),Idaho,16,"Bonneville County, ID",16019,White,Not Hispanic or Latino,122.0,100443.0,121.5,113.6
+2022 (provisional and partial),Idaho,16,"Boundary County, ID",16021,White,Not Hispanic or Latino,18.0,11316.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Canyon County, ID",16027,White,Hispanic or Latino,24.0,54556.0,44.0,103.7
+2022 (provisional and partial),Idaho,16,"Canyon County, ID",16027,White,Not Hispanic or Latino,288.0,165958.0,173.5,139.2
+2022 (provisional and partial),Idaho,16,"Caribou County, ID",16029,White,Not Hispanic or Latino,12.0,6460.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Cassia County, ID",16031,White,Not Hispanic or Latino,36.0,16859.0,213.5,155.9
+2022 (provisional and partial),Idaho,16,"Clearwater County, ID",16035,White,Not Hispanic or Latino,16.0,7955.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Custer County, ID",16037,White,Not Hispanic or Latino,11.0,3883.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Elmore County, ID",16039,White,Not Hispanic or Latino,29.0,19856.0,146.1,119.7
+2022 (provisional and partial),Idaho,16,"Franklin County, ID",16041,White,Not Hispanic or Latino,21.0,12900.0,162.8,141.2
+2022 (provisional and partial),Idaho,16,"Fremont County, ID",16043,White,Not Hispanic or Latino,16.0,11279.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Gem County, ID",16045,White,Not Hispanic or Latino,30.0,16310.0,183.9,105.7
+2022 (provisional and partial),Idaho,16,"Gooding County, ID",16047,White,Not Hispanic or Latino,26.0,10515.0,247.3,154.6
+2022 (provisional and partial),Idaho,16,"Idaho County, ID",16049,White,Not Hispanic or Latino,25.0,15197.0,164.5,70.7
+2022 (provisional and partial),Idaho,16,"Jefferson County, ID",16051,White,Not Hispanic or Latino,31.0,26451.0,117.2,125.2
+2022 (provisional and partial),Idaho,16,"Jerome County, ID",16053,White,Not Hispanic or Latino,28.0,14713.0,190.3,152.2
+2022 (provisional and partial),Idaho,16,"Kootenai County, ID",16055,White,Not Hispanic or Latino,270.0,153646.0,175.7,126.2
+2022 (provisional and partial),Idaho,16,"Latah County, ID",16057,White,Not Hispanic or Latino,43.0,36113.0,119.1,114.5
+2022 (provisional and partial),Idaho,16,"Lemhi County, ID",16059,White,Not Hispanic or Latino,18.0,7515.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Madison County, ID",16065,White,Not Hispanic or Latino,25.0,35311.0,70.8,113.0
+2022 (provisional and partial),Idaho,16,"Minidoka County, ID",16067,White,Not Hispanic or Latino,33.0,13057.0,252.7,170.0
+2022 (provisional and partial),Idaho,16,"Nez Perce County, ID",16069,White,Not Hispanic or Latino,78.0,35298.0,221.0,131.9
+2022 (provisional and partial),Idaho,16,"Oneida County, ID",16071,White,Not Hispanic or Latino,11.0,4210.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Owyhee County, ID",16073,White,Not Hispanic or Latino,25.0,8417.0,297.0,220.2
+2022 (provisional and partial),Idaho,16,"Payette County, ID",16075,White,Not Hispanic or Latino,43.0,19293.0,222.9,156.6
+2022 (provisional and partial),Idaho,16,"Power County, ID",16077,White,Not Hispanic or Latino,11.0,4649.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Shoshone County, ID",16079,White,Not Hispanic or Latino,26.0,11770.0,220.9,146.8
+2022 (provisional and partial),Idaho,16,"Teton County, ID",16081,White,Not Hispanic or Latino,13.0,10156.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Twin Falls County, ID",16083,White,Not Hispanic or Latino,140.0,68751.0,203.6,155.7
+2022 (provisional and partial),Idaho,16,"Valley County, ID",16085,White,Not Hispanic or Latino,19.0,10849.0,Unreliable,Unreliable
+2022 (provisional and partial),Idaho,16,"Washington County, ID",16087,White,Not Hispanic or Latino,18.0,8220.0,Unreliable,Unreliable

@@ -1,0 +1,22 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Hawaii,15,"Hawaii County, HI",15001,Nontransport accidents,Unspecified fall,W19,12.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,200983.0,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,200983.0,11.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,200983.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,27.0,980080.0,2.8
+2018,Hawaii,15,"Honolulu County, HI",15003,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Nontransport accidents,Other fall on same level,W18,40.0,980080.0,4.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Nontransport accidents,Unspecified fall,W19,75.0,980080.0,7.7
+2018,Hawaii,15,"Honolulu County, HI",15003,Nontransport accidents,Drowning and submersion while in natural water,W69,23.0,980080.0,2.3
+2018,Hawaii,15,"Honolulu County, HI",15003,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,20.0,980080.0,2.0
+2018,Hawaii,15,"Honolulu County, HI",15003,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,100.0,980080.0,10.2
+2018,Hawaii,15,"Honolulu County, HI",15003,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,980080.0,2.4
+2018,Hawaii,15,"Honolulu County, HI",15003,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,50.0,980080.0,5.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,15.0,980080.0,Unreliable
+2018,Hawaii,15,"Honolulu County, HI",15003,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,980080.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,72133.0,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,72133.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,167207.0,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,167207.0,Unreliable

@@ -1,0 +1,98 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Georgia,13,"Bartow County, GA",13015,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,106408.0,Unreliable
+2018,Georgia,13,"Bartow County, GA",13015,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,106408.0,Unreliable
+2018,Georgia,13,"Bartow County, GA",13015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,106408.0,Unreliable
+2018,Georgia,13,"Bibb County, GA",13021,Nontransport accidents,Unspecified fall,W19,12.0,153095.0,Unreliable
+2018,Georgia,13,"Bibb County, GA",13021,Assault (homicide),Assault by other and unspecified firearm discharge,X95,28.0,153095.0,18.3
+2018,Georgia,13,"Chatham County, GA",13051,Nontransport accidents,Unspecified fall,W19,15.0,289195.0,Unreliable
+2018,Georgia,13,"Chatham County, GA",13051,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,289195.0,Unreliable
+2018,Georgia,13,"Chatham County, GA",13051,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,289195.0,Unreliable
+2018,Georgia,13,"Chatham County, GA",13051,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,289195.0,Unreliable
+2018,Georgia,13,"Chatham County, GA",13051,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,24.0,289195.0,8.3
+2018,Georgia,13,"Chatham County, GA",13051,Assault (homicide),Assault by other and unspecified firearm discharge,X95,28.0,289195.0,9.7
+2018,Georgia,13,"Cherokee County, GA",13057,Nontransport accidents,Other fall on same level,W18,10.0,254149.0,Unreliable
+2018,Georgia,13,"Cherokee County, GA",13057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,254149.0,Unreliable
+2018,Georgia,13,"Cherokee County, GA",13057,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,254149.0,9.4
+2018,Georgia,13,"Cherokee County, GA",13057,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,27.0,254149.0,10.6
+2018,Georgia,13,"Clayton County, GA",13063,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,289615.0,Unreliable
+2018,Georgia,13,"Clayton County, GA",13063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,289615.0,Unreliable
+2018,Georgia,13,"Clayton County, GA",13063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,289615.0,Unreliable
+2018,Georgia,13,"Clayton County, GA",13063,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,289615.0,Unreliable
+2018,Georgia,13,"Clayton County, GA",13063,Assault (homicide),Assault by other and unspecified firearm discharge,X95,37.0,289615.0,12.8
+2018,Georgia,13,"Cobb County, GA",13067,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,756865.0,Unreliable
+2018,Georgia,13,"Cobb County, GA",13067,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,29.0,756865.0,3.8
+2018,Georgia,13,"Cobb County, GA",13067,Nontransport accidents,Other fall on same level,W18,22.0,756865.0,2.9
+2018,Georgia,13,"Cobb County, GA",13067,Nontransport accidents,Unspecified fall,W19,18.0,756865.0,Unreliable
+2018,Georgia,13,"Cobb County, GA",13067,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,14.0,756865.0,Unreliable
+2018,Georgia,13,"Cobb County, GA",13067,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,34.0,756865.0,4.5
+2018,Georgia,13,"Cobb County, GA",13067,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,48.0,756865.0,6.3
+2018,Georgia,13,"Cobb County, GA",13067,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,756865.0,Unreliable
+2018,Georgia,13,"Cobb County, GA",13067,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,756865.0,3.0
+2018,Georgia,13,"Cobb County, GA",13067,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,42.0,756865.0,5.5
+2018,Georgia,13,"Cobb County, GA",13067,Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,756865.0,2.6
+2018,Georgia,13,"Columbia County, GA",13073,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,154291.0,Unreliable
+2018,Georgia,13,"Columbia County, GA",13073,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,154291.0,Unreliable
+2018,Georgia,13,"Coweta County, GA",13077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,145864.0,Unreliable
+2018,Georgia,13,"Coweta County, GA",13077,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,145864.0,Unreliable
+2018,Georgia,13,"DeKalb County, GA",13089,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,23.0,756558.0,3.0
+2018,Georgia,13,"DeKalb County, GA",13089,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,756558.0,Unreliable
+2018,Georgia,13,"DeKalb County, GA",13089,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,26.0,756558.0,3.4
+2018,Georgia,13,"DeKalb County, GA",13089,Nontransport accidents,Other fall on same level,W18,23.0,756558.0,3.0
+2018,Georgia,13,"DeKalb County, GA",13089,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,43.0,756558.0,5.7
+2018,Georgia,13,"DeKalb County, GA",13089,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,756558.0,2.9
+2018,Georgia,13,"DeKalb County, GA",13089,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,756558.0,Unreliable
+2018,Georgia,13,"DeKalb County, GA",13089,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,756558.0,2.9
+2018,Georgia,13,"DeKalb County, GA",13089,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,756558.0,Unreliable
+2018,Georgia,13,"DeKalb County, GA",13089,Assault (homicide),Assault by other and unspecified firearm discharge,X95,80.0,756558.0,10.6
+2018,Georgia,13,"Douglas County, GA",13097,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,145331.0,Unreliable
+2018,Georgia,13,"Douglas County, GA",13097,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,145331.0,Unreliable
+2018,Georgia,13,"Floyd County, GA",13115,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,97927.0,Unreliable
+2018,Georgia,13,"Forsyth County, GA",13117,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,236612.0,Unreliable
+2018,Georgia,13,"Fulton County, GA",13121,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,17.0,1050114.0,Unreliable
+2018,Georgia,13,"Fulton County, GA",13121,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,1050114.0,Unreliable
+2018,Georgia,13,"Fulton County, GA",13121,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,20.0,1050114.0,1.9
+2018,Georgia,13,"Fulton County, GA",13121,Nontransport accidents,Other fall on same level,W18,41.0,1050114.0,3.9
+2018,Georgia,13,"Fulton County, GA",13121,Nontransport accidents,Unspecified fall,W19,17.0,1050114.0,Unreliable
+2018,Georgia,13,"Fulton County, GA",13121,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,1050114.0,Unreliable
+2018,Georgia,13,"Fulton County, GA",13121,Nontransport accidents,Exposure to excessive natural cold,X31,10.0,1050114.0,Unreliable
+2018,Georgia,13,"Fulton County, GA",13121,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,1050114.0,Unreliable
+2018,Georgia,13,"Fulton County, GA",13121,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,87.0,1050114.0,8.3
+2018,Georgia,13,"Fulton County, GA",13121,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,53.0,1050114.0,5.0
+2018,Georgia,13,"Fulton County, GA",13121,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,35.0,1050114.0,3.3
+2018,Georgia,13,"Fulton County, GA",13121,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,23.0,1050114.0,2.2
+2018,Georgia,13,"Fulton County, GA",13121,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,28.0,1050114.0,2.7
+2018,Georgia,13,"Fulton County, GA",13121,Assault (homicide),Assault by other and unspecified firearm discharge,X95,100.0,1050114.0,9.5
+2018,Georgia,13,"Gwinnett County, GA",13135,Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,11.0,927781.0,Unreliable
+2018,Georgia,13,"Gwinnett County, GA",13135,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,21.0,927781.0,2.3
+2018,Georgia,13,"Gwinnett County, GA",13135,Nontransport accidents,Other fall on same level,W18,18.0,927781.0,Unreliable
+2018,Georgia,13,"Gwinnett County, GA",13135,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33.0,927781.0,3.6
+2018,Georgia,13,"Gwinnett County, GA",13135,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,45.0,927781.0,4.9
+2018,Georgia,13,"Gwinnett County, GA",13135,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,927781.0,Unreliable
+2018,Georgia,13,"Gwinnett County, GA",13135,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,927781.0,2.5
+2018,Georgia,13,"Gwinnett County, GA",13135,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,54.0,927781.0,5.8
+2018,Georgia,13,"Gwinnett County, GA",13135,Assault (homicide),Assault by other and unspecified firearm discharge,X95,34.0,927781.0,3.7
+2018,Georgia,13,"Hall County, GA",13139,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,202148.0,Unreliable
+2018,Georgia,13,"Hall County, GA",13139,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,202148.0,Unreliable
+2018,Georgia,13,"Hall County, GA",13139,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,202148.0,Unreliable
+2018,Georgia,13,"Henry County, GA",13151,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,230220.0,Unreliable
+2018,Georgia,13,"Henry County, GA",13151,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,230220.0,Unreliable
+2018,Georgia,13,"Henry County, GA",13151,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,230220.0,Unreliable
+2018,Georgia,13,"Henry County, GA",13151,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,230220.0,9.6
+2018,Georgia,13,"Henry County, GA",13151,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,230220.0,Unreliable
+2018,Georgia,13,"Houston County, GA",13153,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,155469.0,Unreliable
+2018,Georgia,13,"Jackson County, GA",13157,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,70422.0,Unreliable
+2018,Georgia,13,"Lowndes County, GA",13185,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,116321.0,Unreliable
+2018,Georgia,13,"Muscogee County, GA",13215,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,194160.0,Unreliable
+2018,Georgia,13,"Muscogee County, GA",13215,Nontransport accidents,Other fall on same level,W18,15.0,194160.0,Unreliable
+2018,Georgia,13,"Muscogee County, GA",13215,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,194160.0,Unreliable
+2018,Georgia,13,"Muscogee County, GA",13215,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,194160.0,10.3
+2018,Georgia,13,"Muscogee County, GA",13215,Assault (homicide),Assault by other and unspecified firearm discharge,X95,30.0,194160.0,15.5
+2018,Georgia,13,"Richmond County, GA",13245,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,201554.0,Unreliable
+2018,Georgia,13,"Richmond County, GA",13245,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,201554.0,Unreliable
+2018,Georgia,13,"Richmond County, GA",13245,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,26.0,201554.0,12.9
+2018,Georgia,13,"Richmond County, GA",13245,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,201554.0,9.9
+2018,Georgia,13,"Richmond County, GA",13245,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,201554.0,Unreliable
+2018,Georgia,13,"Richmond County, GA",13245,Assault (homicide),Assault by other and unspecified firearm discharge,X95,19.0,201554.0,Unreliable
+2018,Georgia,13,"Spalding County, GA",13255,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,66100.0,Unreliable
+2018,Georgia,13,"Walton County, GA",13297,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,93503.0,Unreliable
+2018,Georgia,13,"Walton County, GA",13297,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,93503.0,Unreliable

@@ -1,0 +1,100 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Arizona,04,"Apache County, AZ",04001,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,71818.0,Unreliable
+2018,Arizona,04,"Apache County, AZ",04001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,71818.0,Unreliable
+2018,Arizona,04,"Apache County, AZ",04001,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,18.0,71818.0,Unreliable
+2018,Arizona,04,"Apache County, AZ",04001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,71818.0,Unreliable
+2018,Arizona,04,"Cochise County, AZ",04003,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,126770.0,Unreliable
+2018,Arizona,04,"Cochise County, AZ",04003,Nontransport accidents,Unspecified fall,W19,20.0,126770.0,15.8
+2018,Arizona,04,"Cochise County, AZ",04003,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,126770.0,Unreliable
+2018,Arizona,04,"Cochise County, AZ",04003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,126770.0,Unreliable
+2018,Arizona,04,"Coconino County, AZ",04005,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,142854.0,Unreliable
+2018,Arizona,04,"Coconino County, AZ",04005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,142854.0,Unreliable
+2018,Arizona,04,"Coconino County, AZ",04005,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,142854.0,Unreliable
+2018,Arizona,04,"Coconino County, AZ",04005,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,17.0,142854.0,Unreliable
+2018,Arizona,04,"Coconino County, AZ",04005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,142854.0,15.4
+2018,Arizona,04,"Gila County, AZ",04007,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,53889.0,Unreliable
+2018,Arizona,04,"Gila County, AZ",04007,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,53889.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,133.0,4410824.0,3.0
+2018,Arizona,04,"Maricopa County, AZ",04013,Transport accidents (unintentional injuries),Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,17.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,48.0,4410824.0,1.1
+2018,Arizona,04,"Maricopa County, AZ",04013,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,36.0,4410824.0,0.8
+2018,Arizona,04,"Maricopa County, AZ",04013,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,224.0,4410824.0,5.1
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Fall on and from stairs and steps,W10,10.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Other fall on same level,W18,332.0,4410824.0,7.5
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Unspecified fall,W19,291.0,4410824.0,6.6
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Drowning and submersion while in bath-tub,W65,10.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Drowning and submersion while in swimming-pool,W67,29.0,4410824.0,0.7
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Drowning and submersion while in natural water,W69,11.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,25.0,4410824.0,0.6
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Exposure to excessive natural heat,X30,61.0,4410824.0,1.4
+2018,Arizona,04,"Maricopa County, AZ",04013,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,173.0,4410824.0,3.9
+2018,Arizona,04,"Maricopa County, AZ",04013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,350.0,4410824.0,7.9
+2018,Arizona,04,"Maricopa County, AZ",04013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,431.0,4410824.0,9.8
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,41.0,4410824.0,0.9
+2018,Arizona,04,"Maricopa County, AZ",04013,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,39.0,4410824.0,0.9
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,17.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X62,10.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,63.0,4410824.0,1.4
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),Intentional self-poisoning by and exposure to other gases and vapours,X67,19.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,178.0,4410824.0,4.0
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,25.0,4410824.0,0.6
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,25.0,4410824.0,0.6
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,356.0,4410824.0,8.1
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),Intentional self-harm by sharp object,X78,13.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,10.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Assault (homicide),Assault by other and unspecified firearm discharge,X95,187.0,4410824.0,4.2
+2018,Arizona,04,"Maricopa County, AZ",04013,Assault (homicide),Assault by sharp object,X99,19.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Assault (homicide),Assault by unspecified means,Y09,16.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,16.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,,Legal intervention involving firearm discharge,Y35.0,15.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,,Surgical operation with transplant of whole organ,Y83.0,12.0,4410824.0,Unreliable
+2018,Arizona,04,"Maricopa County, AZ",04013,Transport accidents (unintentional injuries),Sequelae of motor-vehicle accident,Y85.0,25.0,4410824.0,0.6
+2018,Arizona,04,"Maricopa County, AZ",04013,Sequelae of other accidents,Sequelae of other accidents,Y86,14.0,4410824.0,Unreliable
+2018,Arizona,04,"Mohave County, AZ",04015,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,209550.0,Unreliable
+2018,Arizona,04,"Mohave County, AZ",04015,Nontransport accidents,Other fall on same level,W18,11.0,209550.0,Unreliable
+2018,Arizona,04,"Mohave County, AZ",04015,Nontransport accidents,Unspecified fall,W19,37.0,209550.0,17.7
+2018,Arizona,04,"Mohave County, AZ",04015,Nontransport accidents,Exposure to excessive natural heat,X30,14.0,209550.0,Unreliable
+2018,Arizona,04,"Mohave County, AZ",04015,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,209550.0,Unreliable
+2018,Arizona,04,"Mohave County, AZ",04015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,53.0,209550.0,25.3
+2018,Arizona,04,"Navajo County, AZ",04017,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,17.0,110445.0,Unreliable
+2018,Arizona,04,"Navajo County, AZ",04017,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19.0,110445.0,Unreliable
+2018,Arizona,04,"Navajo County, AZ",04017,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,15.0,110445.0,Unreliable
+2018,Arizona,04,"Navajo County, AZ",04017,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,26.0,110445.0,23.5
+2018,Arizona,04,"Navajo County, AZ",04017,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,110445.0,Unreliable
+2018,Arizona,04,"Pima County, AZ",04019,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,32.0,1039073.0,3.1
+2018,Arizona,04,"Pima County, AZ",04019,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,15.0,1039073.0,Unreliable
+2018,Arizona,04,"Pima County, AZ",04019,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,52.0,1039073.0,5.0
+2018,Arizona,04,"Pima County, AZ",04019,Nontransport accidents,Other fall on same level,W18,15.0,1039073.0,Unreliable
+2018,Arizona,04,"Pima County, AZ",04019,Nontransport accidents,Unspecified fall,W19,186.0,1039073.0,17.9
+2018,Arizona,04,"Pima County, AZ",04019,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,46.0,1039073.0,4.4
+2018,Arizona,04,"Pima County, AZ",04019,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,106.0,1039073.0,10.2
+2018,Arizona,04,"Pima County, AZ",04019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,76.0,1039073.0,7.3
+2018,Arizona,04,"Pima County, AZ",04019,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,16.0,1039073.0,Unreliable
+2018,Arizona,04,"Pima County, AZ",04019,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,47.0,1039073.0,4.5
+2018,Arizona,04,"Pima County, AZ",04019,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,40.0,1039073.0,3.8
+2018,Arizona,04,"Pima County, AZ",04019,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,18.0,1039073.0,Unreliable
+2018,Arizona,04,"Pima County, AZ",04019,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,66.0,1039073.0,6.4
+2018,Arizona,04,"Pima County, AZ",04019,Assault (homicide),Assault by other and unspecified firearm discharge,X95,45.0,1039073.0,4.3
+2018,Arizona,04,"Pima County, AZ",04019,Assault (homicide),Assault by sharp object,X99,11.0,1039073.0,Unreliable
+2018,Arizona,04,"Pinal County, AZ",04021,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,34.0,447138.0,7.6
+2018,Arizona,04,"Pinal County, AZ",04021,Nontransport accidents,Other fall on same level,W18,14.0,447138.0,Unreliable
+2018,Arizona,04,"Pinal County, AZ",04021,Nontransport accidents,Unspecified fall,W19,24.0,447138.0,5.4
+2018,Arizona,04,"Pinal County, AZ",04021,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,18.0,447138.0,Unreliable
+2018,Arizona,04,"Pinal County, AZ",04021,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,447138.0,Unreliable
+2018,Arizona,04,"Pinal County, AZ",04021,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,447138.0,4.9
+2018,Arizona,04,"Pinal County, AZ",04021,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,31.0,447138.0,6.9
+2018,Arizona,04,"Pinal County, AZ",04021,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,40.0,447138.0,8.9
+2018,Arizona,04,"Pinal County, AZ",04021,Assault (homicide),Assault by other and unspecified firearm discharge,X95,14.0,447138.0,Unreliable
+2018,Arizona,04,"Yavapai County, AZ",04025,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,231993.0,Unreliable
+2018,Arizona,04,"Yavapai County, AZ",04025,Nontransport accidents,Other fall on same level,W18,29.0,231993.0,12.5
+2018,Arizona,04,"Yavapai County, AZ",04025,Nontransport accidents,Unspecified fall,W19,24.0,231993.0,10.3
+2018,Arizona,04,"Yavapai County, AZ",04025,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,231993.0,Unreliable
+2018,Arizona,04,"Yavapai County, AZ",04025,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,231993.0,9.5
+2018,Arizona,04,"Yavapai County, AZ",04025,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,231993.0,Unreliable
+2018,Arizona,04,"Yavapai County, AZ",04025,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,34.0,231993.0,14.7
+2018,Arizona,04,"Yavapai County, AZ",04025,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,231993.0,Unreliable
+2018,Arizona,04,"Yuma County, AZ",04027,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,212128.0,Unreliable
+2018,Arizona,04,"Yuma County, AZ",04027,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,212128.0,12.3
+2018,Arizona,04,"Yuma County, AZ",04027,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,212128.0,Unreliable
+2018,Arizona,04,"Yuma County, AZ",04027,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,212128.0,Unreliable

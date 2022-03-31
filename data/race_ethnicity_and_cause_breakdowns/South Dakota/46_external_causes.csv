@@ -1,0 +1,7 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,South Dakota,"Minnehaha County, SD",Nontransport accidents,Other fall on same level,W18,10.0,192876.0,Unreliable
+2018,South Dakota,"Minnehaha County, SD",Nontransport accidents,Unspecified fall,W19,20.0,192876.0,10.4
+2018,South Dakota,"Minnehaha County, SD",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,192876.0,Unreliable
+2018,South Dakota,"Minnehaha County, SD",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,192876.0,Unreliable
+2018,South Dakota,"Pennington County, SD",Nontransport accidents,Other fall on same level,W18,13.0,111729.0,Unreliable
+2018,South Dakota,"Pennington County, SD",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,111729.0,Unreliable

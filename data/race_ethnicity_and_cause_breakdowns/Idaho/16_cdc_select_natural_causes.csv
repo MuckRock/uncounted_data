@@ -1,0 +1,903 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Idaho,16,"Ada County, ID",16001,Sepsis,"Septicaemia, unspecified",A41.9,16.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,26.0,469966.0,5.5
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,10.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,38.0,469966.0,8.1
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,16.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,12.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,41.0,469966.0,8.7
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,126.0,469966.0,26.8
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,59.0,469966.0,12.6
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of ovary,C56,16.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of prostate,C61,34.0,469966.0,7.2
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,13.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,23.0,469966.0,4.9
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,25.0,469966.0,5.3
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,29.0,469966.0,6.2
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,10.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,17.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,15.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,11.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,22.0,469966.0,4.7
+2018,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Unspecified dementia,F03,64.0,469966.0,13.6
+2018,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,29.0,469966.0,6.2
+2018,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,178.0,469966.0,37.9
+2018,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,14.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Essential (primary) hypertension,I10,13.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,27.0,469966.0,5.7
+2018,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,103.0,469966.0,21.9
+2018,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,42.0,469966.0,8.9
+2018,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,141.0,469966.0,30.0
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,10.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,26.0,469966.0,5.5
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,13.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,51.0,469966.0,10.9
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Congestive heart failure,I50.0,99.0,469966.0,21.1
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,18.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,16.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,21.0,469966.0,4.5
+2018,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,14.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,10.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,44.0,469966.0,9.4
+2018,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,26.0,469966.0,5.5
+2018,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,11.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,28.0,469966.0,6.0
+2018,Idaho,16,"Ada County, ID",16001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,19.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,141.0,469966.0,30.0
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,23.0,469966.0,4.9
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,18.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,12.0,469966.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Renal failure,"Chronic kidney disease, stage 5",N18.5,13.0,469966.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,87138.0,26.4
+2018,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,Malignant neoplasm of prostate,C61,12.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,41.0,87138.0,47.1
+2018,Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,87138.0,34.4
+2018,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,14.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Congestive heart failure,I50.0,26.0,87138.0,29.8
+2018,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Other ill-defined heart diseases,I51.8,30.0,87138.0,34.4
+2018,Idaho,16,"Bannock County, ID",16005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,87138.0,Unreliable
+2018,Idaho,16,"Bannock County, ID",16005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,34.0,87138.0,39.0
+2018,Idaho,16,"Benewah County, ID",16009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,9226.0,Unreliable
+2018,Idaho,16,"Bingham County, ID",16011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,46236.0,Unreliable
+2018,Idaho,16,"Bingham County, ID",16011,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,46236.0,Unreliable
+2018,Idaho,16,"Bingham County, ID",16011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,46236.0,Unreliable
+2018,Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,46236.0,Unreliable
+2018,Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,17.0,46236.0,Unreliable
+2018,Idaho,16,"Bingham County, ID",16011,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,46236.0,Unreliable
+2018,Idaho,16,"Bingham County, ID",16011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,46236.0,49.7
+2018,Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,44727.0,Unreliable
+2018,Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,26.0,44727.0,58.1
+2018,Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,44727.0,Unreliable
+2018,Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,44727.0,Unreliable
+2018,Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,44727.0,Unreliable
+2018,Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,44727.0,47.0
+2018,Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,44727.0,Unreliable
+2018,Idaho,16,"Bonner County, ID",16017,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,44727.0,Unreliable
+2018,Idaho,16,"Bonner County, ID",16017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,44727.0,44.7
+2018,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,30.0,116854.0,25.7
+2018,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,15.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,Unspecified dementia,F03,60.0,116854.0,51.3
+2018,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,116854.0,18.0
+2018,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,19.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,49.0,116854.0,41.9
+2018,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,23.0,116854.0,19.7
+2018,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,42.0,116854.0,35.9
+2018,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Congestive heart failure,I50.0,37.0,116854.0,31.7
+2018,Idaho,16,"Bonneville County, ID",16019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,116854.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,47.0,116854.0,40.2
+2018,Idaho,16,"Canyon County, ID",16027,Sepsis,"Septicaemia, unspecified",A41.9,15.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,13.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,22.0,223499.0,9.8
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,223499.0,12.1
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,61.0,223499.0,27.3
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,26.0,223499.0,11.6
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm of prostate,C61,29.0,223499.0,13.0
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,12.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,Unspecified dementia,F03,37.0,223499.0,16.6
+2018,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,100.0,223499.0,44.7
+2018,Idaho,16,"Canyon County, ID",16027,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,113.0,223499.0,50.6
+2018,Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,79.0,223499.0,35.3
+2018,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,12.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,27.0,223499.0,12.1
+2018,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Congestive heart failure,I50.0,36.0,223499.0,16.1
+2018,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,11.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,32.0,223499.0,14.3
+2018,Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,19.0,223499.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,95.0,223499.0,42.5
+2018,Idaho,16,"Canyon County, ID",16027,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,12.0,223499.0,Unreliable
+2018,Idaho,16,"Cassia County, ID",16031,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,23864.0,Unreliable
+2018,Idaho,16,"Cassia County, ID",16031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,23864.0,Unreliable
+2018,Idaho,16,"Cassia County, ID",16031,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,23864.0,Unreliable
+2018,Idaho,16,"Cassia County, ID",16031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,23864.0,Unreliable
+2018,Idaho,16,"Clearwater County, ID",16035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,8758.0,Unreliable
+2018,Idaho,16,"Elmore County, ID",16039,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,27259.0,Unreliable
+2018,Idaho,16,"Elmore County, ID",16039,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,27259.0,Unreliable
+2018,Idaho,16,"Elmore County, ID",16039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,27259.0,Unreliable
+2018,Idaho,16,"Elmore County, ID",16039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,27259.0,Unreliable
+2018,Idaho,16,"Gem County, ID",16045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,17634.0,Unreliable
+2018,Idaho,16,"Gem County, ID",16045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,17634.0,Unreliable
+2018,Idaho,16,"Gem County, ID",16045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,17634.0,Unreliable
+2018,Idaho,16,"Gem County, ID",16045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,17634.0,Unreliable
+2018,Idaho,16,"Gem County, ID",16045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,17634.0,113.4
+2018,Idaho,16,"Gooding County, ID",16047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,15196.0,Unreliable
+2018,Idaho,16,"Idaho County, ID",16049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,16513.0,Unreliable
+2018,Idaho,16,"Jefferson County, ID",16051,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,29439.0,Unreliable
+2018,Idaho,16,"Jefferson County, ID",16051,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,29439.0,Unreliable
+2018,Idaho,16,"Jefferson County, ID",16051,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,29439.0,Unreliable
+2018,Idaho,16,"Jefferson County, ID",16051,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,29439.0,Unreliable
+2018,Idaho,16,"Jerome County, ID",16053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,24015.0,Unreliable
+2018,Idaho,16,"Jerome County, ID",16053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,24015.0,Unreliable
+2018,Idaho,16,"Jerome County, ID",16053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,24015.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Sepsis,"Septicaemia, unspecified",A41.9,10.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,26.0,161505.0,16.1
+2018,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,95.0,161505.0,58.8
+2018,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,31.0,161505.0,19.2
+2018,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm of prostate,C61,27.0,161505.0,16.7
+2018,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,21.0,161505.0,13.0
+2018,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,11.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,13.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Unspecified dementia,F03,81.0,161505.0,50.2
+2018,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,35.0,161505.0,21.7
+2018,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,18.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Degenerative disease of nervous system, unspecified",G31.9,25.0,161505.0,15.5
+2018,Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,88.0,161505.0,54.5
+2018,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,77.0,161505.0,47.7
+2018,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,30.0,161505.0,18.6
+2018,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,10.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,20.0,161505.0,12.4
+2018,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Congestive heart failure,I50.0,25.0,161505.0,15.5
+2018,Idaho,16,"Kootenai County, ID",16055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,27.0,161505.0,16.7
+2018,Idaho,16,"Kootenai County, ID",16055,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,161505.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,71.0,161505.0,44.0
+2018,Idaho,16,"Kootenai County, ID",16055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,15.0,161505.0,Unreliable
+2018,Idaho,16,"Madison County, ID",16065,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,39304.0,Unreliable
+2018,Idaho,16,"Madison County, ID",16065,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,39304.0,Unreliable
+2018,Idaho,16,"Madison County, ID",16065,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,10.0,39304.0,Unreliable
+2018,Idaho,16,"Nez Perce County, ID",16069,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,40408.0,Unreliable
+2018,Idaho,16,"Nez Perce County, ID",16069,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,27.0,40408.0,66.8
+2018,Idaho,16,"Nez Perce County, ID",16069,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,40408.0,Unreliable
+2018,Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,Unspecified dementia,F03,37.0,40408.0,91.6
+2018,Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,29.0,40408.0,71.8
+2018,Idaho,16,"Nez Perce County, ID",16069,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,40408.0,Unreliable
+2018,Idaho,16,"Nez Perce County, ID",16069,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,40408.0,Unreliable
+2018,Idaho,16,"Nez Perce County, ID",16069,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,40408.0,Unreliable
+2018,Idaho,16,"Nez Perce County, ID",16069,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,40408.0,52.0
+2018,Idaho,16,"Payette County, ID",16075,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,23551.0,Unreliable
+2018,Idaho,16,"Payette County, ID",16075,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,23551.0,Unreliable
+2018,Idaho,16,"Payette County, ID",16075,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,23551.0,Unreliable
+2018,Idaho,16,"Payette County, ID",16075,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,23551.0,Unreliable
+2018,Idaho,16,"Payette County, ID",16075,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,23551.0,Unreliable
+2018,Idaho,16,"Shoshone County, ID",16079,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,12796.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,30.0,86081.0,34.9
+2018,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,86081.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,86081.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,86081.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,86081.0,29.0
+2018,Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,32.0,86081.0,37.2
+2018,Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,38.0,86081.0,44.1
+2018,Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,86081.0,29.0
+2018,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Congestive heart failure,I50.0,23.0,86081.0,26.7
+2018,Idaho,16,"Twin Falls County, ID",16083,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,86081.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,50.0,86081.0,58.1
+2018,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,86081.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Sepsis,"Septicaemia, unspecified",A41.9,21.0,481587.0,4.4
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,20.0,481587.0,4.2
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,34.0,481587.0,7.1
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,10.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,53.0,481587.0,11.0
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Upper lobe, bronchus or lung - Malignant neoplasms",C34.1,10.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,112.0,481587.0,23.3
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,13.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,53.0,481587.0,11.0
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,13.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of ovary,C56,21.0,481587.0,4.4
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of prostate,C61,33.0,481587.0,6.9
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,17.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,26.0,481587.0,5.4
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,14.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,36.0,481587.0,7.5
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,12.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,25.0,481587.0,5.2
+2019,Idaho,16,"Ada County, ID",16001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,18.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Unspecified dementia,F03,101.0,481587.0,21.0
+2019,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,22.0,481587.0,4.6
+2019,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,190.0,481587.0,39.5
+2019,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,16.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,17.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,34.0,481587.0,7.1
+2019,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,14.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,15.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,14.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,103.0,481587.0,21.4
+2019,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,65.0,481587.0,13.5
+2019,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,118.0,481587.0,24.5
+2019,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,12.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,29.0,481587.0,6.0
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,13.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,22.0,481587.0,4.6
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,58.0,481587.0,12.0
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Congestive heart failure,I50.0,89.0,481587.0,18.5
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,22.0,481587.0,4.6
+2019,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,14.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,52.0,481587.0,10.8
+2019,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,32.0,481587.0,6.6
+2019,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,15.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,15.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,16.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,17.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,14.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,171.0,481587.0,35.5
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,19.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,17.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,15.0,481587.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Renal failure,"Chronic kidney disease, stage 5",N18.5,19.0,481587.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,26.0,87808.0,29.6
+2019,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,39.0,87808.0,44.4
+2019,Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,29.0,87808.0,33.0
+2019,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,19.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Congestive heart failure,I50.0,19.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Other ill-defined heart diseases,I51.8,15.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,87808.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,45.0,87808.0,51.2
+2019,Idaho,16,"Bingham County, ID",16011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,46811.0,Unreliable
+2019,Idaho,16,"Bingham County, ID",16011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,46811.0,Unreliable
+2019,Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,46811.0,Unreliable
+2019,Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,"Acute ischaemic heart disease, unspecified",I24.9,12.0,46811.0,Unreliable
+2019,Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,46811.0,Unreliable
+2019,Idaho,16,"Bingham County, ID",16011,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,46811.0,Unreliable
+2019,Idaho,16,"Bingham County, ID",16011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,46811.0,51.3
+2019,Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,45739.0,Unreliable
+2019,Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,45739.0,Unreliable
+2019,Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,45739.0,Unreliable
+2019,Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,45739.0,43.7
+2019,Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,45739.0,74.3
+2019,Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,45739.0,Unreliable
+2019,Idaho,16,"Bonner County, ID",16017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,45739.0,Unreliable
+2019,Idaho,16,"Bonner County, ID",16017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,45739.0,50.3
+2019,Idaho,16,"Bonneville County, ID",16019,Sepsis,"Septicaemia, unspecified",A41.9,10.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,15.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,27.0,119062.0,22.7
+2019,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,119062.0,18.5
+2019,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,Unspecified dementia,F03,52.0,119062.0,43.7
+2019,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,119062.0,19.3
+2019,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,14.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,119062.0,34.4
+2019,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,17.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,119062.0,26.0
+2019,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,13.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Congestive heart failure,I50.0,33.0,119062.0,27.7
+2019,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,12.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,21.0,119062.0,17.6
+2019,Idaho,16,"Bonneville County, ID",16019,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,48.0,119062.0,40.3
+2019,Idaho,16,"Bonneville County, ID",16019,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,119062.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Renal failure,Unspecified renal failure,N19,10.0,119062.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Sepsis,"Septicaemia, unspecified",A41.9,11.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,23.0,229849.0,10.0
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,18.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,72.0,229849.0,31.3
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,24.0,229849.0,10.4
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,14.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,Unspecified dementia,F03,34.0,229849.0,14.8
+2019,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,71.0,229849.0,30.9
+2019,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,14.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,12.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,108.0,229849.0,47.0
+2019,Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,106.0,229849.0,46.1
+2019,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,12.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,12.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,22.0,229849.0,9.6
+2019,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Congestive heart failure,I50.0,34.0,229849.0,14.8
+2019,Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,22.0,229849.0,9.6
+2019,Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,11.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,94.0,229849.0,40.9
+2019,Idaho,16,"Canyon County, ID",16027,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,13.0,229849.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,229849.0,Unreliable
+2019,Idaho,16,"Cassia County, ID",16031,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,24030.0,Unreliable
+2019,Idaho,16,"Cassia County, ID",16031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,24030.0,Unreliable
+2019,Idaho,16,"Elmore County, ID",16039,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,27511.0,Unreliable
+2019,Idaho,16,"Elmore County, ID",16039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,27511.0,Unreliable
+2019,Idaho,16,"Fremont County, ID",16043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,13099.0,Unreliable
+2019,Idaho,16,"Gem County, ID",16045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,18112.0,Unreliable
+2019,Idaho,16,"Gem County, ID",16045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,18112.0,Unreliable
+2019,Idaho,16,"Gem County, ID",16045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,18112.0,Unreliable
+2019,Idaho,16,"Gem County, ID",16045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,18112.0,Unreliable
+2019,Idaho,16,"Gem County, ID",16045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,18112.0,Unreliable
+2019,Idaho,16,"Gooding County, ID",16047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,15179.0,Unreliable
+2019,Idaho,16,"Idaho County, ID",16049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,16667.0,Unreliable
+2019,Idaho,16,"Idaho County, ID",16049,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,16667.0,Unreliable
+2019,Idaho,16,"Jefferson County, ID",16051,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,29871.0,Unreliable
+2019,Idaho,16,"Jerome County, ID",16053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,23.0,24412.0,94.2
+2019,Idaho,16,"Jerome County, ID",16053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,24412.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Sepsis,"Septicaemia, unspecified",A41.9,13.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,14.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,21.0,165697.0,12.7
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,23.0,165697.0,13.9
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,81.0,165697.0,48.9
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,20.0,165697.0,12.1
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm of prostate,C61,24.0,165697.0,14.5
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,12.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,19.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,14.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Unspecified dementia,F03,83.0,165697.0,50.1
+2019,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,33.0,165697.0,19.9
+2019,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,54.0,165697.0,32.6
+2019,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,15.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,61.0,165697.0,36.8
+2019,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,69.0,165697.0,41.6
+2019,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,26.0,165697.0,15.7
+2019,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,11.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,32.0,165697.0,19.3
+2019,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,18.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,23.0,165697.0,13.9
+2019,Idaho,16,"Kootenai County, ID",16055,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,89.0,165697.0,53.7
+2019,Idaho,16,"Kootenai County, ID",16055,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,165697.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,13.0,165697.0,Unreliable
+2019,Idaho,16,"Latah County, ID",16057,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,40108.0,Unreliable
+2019,Idaho,16,"Latah County, ID",16057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,40108.0,Unreliable
+2019,Idaho,16,"Latah County, ID",16057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,40108.0,Unreliable
+2019,Idaho,16,"Lemhi County, ID",16059,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,8027.0,Unreliable
+2019,Idaho,16,"Madison County, ID",16065,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,39907.0,Unreliable
+2019,Idaho,16,"Madison County, ID",16065,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,39907.0,Unreliable
+2019,Idaho,16,"Minidoka County, ID",16067,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,21039.0,Unreliable
+2019,Idaho,16,"Nez Perce County, ID",16069,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,40408.0,Unreliable
+2019,Idaho,16,"Nez Perce County, ID",16069,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,40408.0,Unreliable
+2019,Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,Unspecified dementia,F03,27.0,40408.0,66.8
+2019,Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,26.0,40408.0,64.3
+2019,Idaho,16,"Nez Perce County, ID",16069,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,40408.0,Unreliable
+2019,Idaho,16,"Nez Perce County, ID",16069,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,40408.0,Unreliable
+2019,Idaho,16,"Nez Perce County, ID",16069,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,40408.0,Unreliable
+2019,Idaho,16,"Nez Perce County, ID",16069,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,25.0,40408.0,61.9
+2019,Idaho,16,"Payette County, ID",16075,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,23951.0,Unreliable
+2019,Idaho,16,"Payette County, ID",16075,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,23951.0,Unreliable
+2019,Idaho,16,"Payette County, ID",16075,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,23951.0,108.6
+2019,Idaho,16,"Payette County, ID",16075,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,23951.0,Unreliable
+2019,Idaho,16,"Payette County, ID",16075,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,23951.0,Unreliable
+2019,Idaho,16,"Shoshone County, ID",16079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,12882.0,Unreliable
+2019,Idaho,16,"Shoshone County, ID",16079,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,12882.0,Unreliable
+2019,Idaho,16,"Shoshone County, ID",16079,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,12882.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Sepsis,"Septicaemia, unspecified",A41.9,10.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,27.0,86878.0,31.1
+2019,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,Malignant neoplasm of prostate,C61,12.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,86878.0,32.2
+2019,Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,86878.0,51.8
+2019,Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,86878.0,28.8
+2019,Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,86878.0,34.5
+2019,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,16.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Congestive heart failure,I50.0,19.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,86878.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,50.0,86878.0,57.6
+2019,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,11.0,86878.0,Unreliable
+2019,Idaho,16,"Washington County, ID",16087,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,10194.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Sepsis,"Septicaemia, unspecified",A41.9,22.0,494399.0,4.4
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,18.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,33.0,494399.0,6.7
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of rectum,C20,10.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,15.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,65.0,494399.0,13.1
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Upper lobe, bronchus or lung - Malignant neoplasms",C34.1,14.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,123.0,494399.0,24.9
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,11.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,50.0,494399.0,10.1
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,14.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of ovary,C56,20.0,494399.0,4.0
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of prostate,C61,47.0,494399.0,9.5
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,20.0,494399.0,4.0
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,20.0,494399.0,4.0
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,18.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,38.0,494399.0,7.7
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,10.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,16.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,15.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,14.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,19.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,30.0,494399.0,6.1
+2020,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,34.0,494399.0,6.9
+2020,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Unspecified dementia,F03,101.0,494399.0,20.4
+2020,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,33.0,494399.0,6.7
+2020,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,209.0,494399.0,42.3
+2020,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,16.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,22.0,494399.0,4.4
+2020,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,29.0,494399.0,5.9
+2020,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,27.0,494399.0,5.5
+2020,Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,13.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,101.0,494399.0,20.4
+2020,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,72.0,494399.0,14.6
+2020,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,142.0,494399.0,28.7
+2020,Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,15.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,15.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,14.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,23.0,494399.0,4.7
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,73.0,494399.0,14.8
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Congestive heart failure,I50.0,77.0,494399.0,15.6
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,17.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,17.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,60.0,494399.0,12.1
+2020,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,11.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,13.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,13.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,42.0,494399.0,8.5
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,10.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,19.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,10.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,122.0,494399.0,24.7
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,23.0,494399.0,4.7
+2020,Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,16.0,494399.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Renal failure,"Chronic kidney disease, stage 5",N18.5,22.0,494399.0,4.4
+2020,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,88795.0,Unreliable
+2020,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,88795.0,32.7
+2020,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,88795.0,Unreliable
+2020,Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,88795.0,Unreliable
+2020,Idaho,16,"Bannock County, ID",16005,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,88795.0,Unreliable
+2020,Idaho,16,"Bannock County, ID",16005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,35.0,88795.0,39.4
+2020,Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,45.0,88795.0,50.7
+2020,Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,35.0,88795.0,39.4
+2020,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,88795.0,Unreliable
+2020,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,21.0,88795.0,23.6
+2020,Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Congestive heart failure,I50.0,27.0,88795.0,30.4
+2020,Idaho,16,"Bannock County, ID",16005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,88795.0,Unreliable
+2020,Idaho,16,"Bannock County, ID",16005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,47.0,88795.0,52.9
+2020,Idaho,16,"Bear Lake County, ID",16007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,6143.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,11.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,47202.0,Unreliable
+2020,Idaho,16,"Bingham County, ID",16011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,47202.0,Unreliable
+2020,Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,46817.0,Unreliable
+2020,Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,46817.0,44.9
+2020,Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,46817.0,Unreliable
+2020,Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,46817.0,Unreliable
+2020,Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,27.0,46817.0,57.7
+2020,Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,46817.0,Unreliable
+2020,Idaho,16,"Bonner County, ID",16017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,46817.0,42.7
+2020,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,122134.0,Unreliable
+2020,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,122134.0,Unreliable
+2020,Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,30.0,122134.0,24.6
+2020,Idaho,16,"Bonneville County, ID",16019,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,122134.0,Unreliable
+2020,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,Unspecified dementia,F03,51.0,122134.0,41.8
+2020,Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,31.0,122134.0,25.4
+2020,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,63.0,122134.0,51.6
+2020,Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,47.0,122134.0,38.5
+2020,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,14.0,122134.0,Unreliable
+2020,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Congestive heart failure,I50.0,32.0,122134.0,26.2
+2020,Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,10.0,122134.0,Unreliable
+2020,Idaho,16,"Bonneville County, ID",16019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,122134.0,Unreliable
+2020,Idaho,16,"Bonneville County, ID",16019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,55.0,122134.0,45.0
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,21.0,237053.0,8.9
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,237053.0,11.4
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,67.0,237053.0,28.3
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,20.0,237053.0,8.4
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,237053.0,8.9
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,12.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,16.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,Unspecified dementia,F03,43.0,237053.0,18.1
+2020,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,11.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,72.0,237053.0,30.4
+2020,Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,12.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,16.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Hypertensive diseases,Hypertensive heart and renal disease with (congestive) heart failure,I13.0,10.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,118.0,237053.0,49.8
+2020,Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,85.0,237053.0,35.9
+2020,Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,12.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,12.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,23.0,237053.0,9.7
+2020,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Congestive heart failure,I50.0,33.0,237053.0,13.9
+2020,Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,10.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,38.0,237053.0,16.0
+2020,Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,10.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,237053.0,Unreliable
+2020,Idaho,16,"Canyon County, ID",16027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,61.0,237053.0,25.7
+2020,Idaho,16,"Canyon County, ID",16027,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,237053.0,Unreliable
+2020,Idaho,16,"Cassia County, ID",16031,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,24277.0,Unreliable
+2020,Idaho,16,"Cassia County, ID",16031,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,24277.0,Unreliable
+2020,Idaho,16,"Cassia County, ID",16031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,24277.0,Unreliable
+2020,Idaho,16,"Cassia County, ID",16031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,24277.0,Unreliable
+2020,Idaho,16,"Elmore County, ID",16039,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,27448.0,Unreliable
+2020,Idaho,16,"Elmore County, ID",16039,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,27448.0,Unreliable
+2020,Idaho,16,"Elmore County, ID",16039,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,27448.0,Unreliable
+2020,Idaho,16,"Elmore County, ID",16039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,27448.0,Unreliable
+2020,Idaho,16,"Elmore County, ID",16039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,27448.0,Unreliable
+2020,Idaho,16,"Fremont County, ID",16043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,13218.0,Unreliable
+2020,Idaho,16,"Gem County, ID",16045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,18703.0,Unreliable
+2020,Idaho,16,"Gem County, ID",16045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,18703.0,Unreliable
+2020,Idaho,16,"Gem County, ID",16045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,18703.0,Unreliable
+2020,Idaho,16,"Gem County, ID",16045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,18703.0,Unreliable
+2020,Idaho,16,"Gem County, ID",16045,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,18703.0,Unreliable
+2020,Idaho,16,"Gem County, ID",16045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,18703.0,128.3
+2020,Idaho,16,"Gooding County, ID",16047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,15618.0,Unreliable
+2020,Idaho,16,"Gooding County, ID",16047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,29.0,15618.0,185.7
+2020,Idaho,16,"Gooding County, ID",16047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,15618.0,Unreliable
+2020,Idaho,16,"Idaho County, ID",16049,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,11.0,16823.0,Unreliable
+2020,Idaho,16,"Idaho County, ID",16049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,16823.0,Unreliable
+2020,Idaho,16,"Jefferson County, ID",16051,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,30581.0,Unreliable
+2020,Idaho,16,"Jerome County, ID",16053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,24578.0,Unreliable
+2020,Idaho,16,"Jerome County, ID",16053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,24578.0,Unreliable
+2020,Idaho,16,"Jerome County, ID",16053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,24578.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Sepsis,"Septicaemia, unspecified",A41.9,10.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,17.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,14.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,170628.0,15.8
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,53.0,170628.0,31.1
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,170628.0,12.9
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,12.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,16.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,13.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,26.0,170628.0,15.2
+2020,Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,15.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Unspecified dementia,F03,84.0,170628.0,49.2
+2020,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,33.0,170628.0,19.3
+2020,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,34.0,170628.0,19.9
+2020,Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,15.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,17.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,91.0,170628.0,53.3
+2020,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,56.0,170628.0,32.8
+2020,Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,25.0,170628.0,14.7
+2020,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,18.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,22.0,170628.0,12.9
+2020,Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,23.0,170628.0,13.5
+2020,Idaho,16,"Kootenai County, ID",16055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,22.0,170628.0,12.9
+2020,Idaho,16,"Kootenai County, ID",16055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,73.0,170628.0,42.8
+2020,Idaho,16,"Kootenai County, ID",16055,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,170628.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,170628.0,Unreliable
+2020,Idaho,16,"Latah County, ID",16057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,40830.0,53.9
+2020,Idaho,16,"Latah County, ID",16057,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,40830.0,Unreliable
+2020,Idaho,16,"Latah County, ID",16057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,40830.0,Unreliable
+2020,Idaho,16,"Madison County, ID",16065,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,40318.0,Unreliable
+2020,Idaho,16,"Madison County, ID",16065,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,40318.0,57.0
+2020,Idaho,16,"Nez Perce County, ID",16069,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,40755.0,61.3
+2020,Idaho,16,"Nez Perce County, ID",16069,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,40755.0,Unreliable
+2020,Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,Unspecified dementia,F03,30.0,40755.0,73.6
+2020,Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,29.0,40755.0,71.2
+2020,Idaho,16,"Nez Perce County, ID",16069,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,12.0,40755.0,Unreliable
+2020,Idaho,16,"Nez Perce County, ID",16069,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,40755.0,51.5
+2020,Idaho,16,"Nez Perce County, ID",16069,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,40755.0,Unreliable
+2020,Idaho,16,"Nez Perce County, ID",16069,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,22.0,40755.0,54.0
+2020,Idaho,16,"Nez Perce County, ID",16069,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,40755.0,Unreliable
+2020,Idaho,16,"Owyhee County, ID",16073,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,12133.0,Unreliable
+2020,Idaho,16,"Payette County, ID",16075,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,24771.0,Unreliable
+2020,Idaho,16,"Payette County, ID",16075,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,24771.0,Unreliable
+2020,Idaho,16,"Payette County, ID",16075,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,24771.0,Unreliable
+2020,Idaho,16,"Payette County, ID",16075,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,24771.0,Unreliable
+2020,Idaho,16,"Shoshone County, ID",16079,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,12911.0,Unreliable
+2020,Idaho,16,"Shoshone County, ID",16079,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,12911.0,Unreliable
+2020,Idaho,16,"Shoshone County, ID",16079,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,12911.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,37.0,88411.0,41.8
+2020,Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,Malignant neoplasm of prostate,C61,12.0,88411.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,88411.0,31.7
+2020,Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,63.0,88411.0,71.3
+2020,Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,88411.0,46.4
+2020,Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,88411.0,31.7
+2020,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,10.0,88411.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,88411.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,88411.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,88411.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,18.0,88411.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,42.0,88411.0,47.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Sepsis,"Septicaemia, unspecified",A41.9,29.0,494399.0,5.9
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,26.0,494399.0,5.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,42.0,494399.0,8.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of rectum,C20,13.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,16.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,75.0,494399.0,15.2
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,141.0,494399.0,28.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,75.0,494399.0,15.2
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,11.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of ovary,C56,20.0,494399.0,4.0
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm of prostate,C61,42.0,494399.0,8.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,23.0,494399.0,4.7
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,26.0,494399.0,5.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,15.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,39.0,494399.0,7.9
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,10.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,20.0,494399.0,4.0
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,11.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,22.0,494399.0,4.4
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,26.0,494399.0,5.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,31.0,494399.0,6.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,13.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,494399.0,4.0
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,22.0,494399.0,4.4
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Unspecified dementia,F03,112.0,494399.0,22.7
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,75.0,494399.0,15.2
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,150.0,494399.0,30.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,26.0,494399.0,5.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,16.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Essential (primary) hypertension,I10,13.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,40.0,494399.0,8.1
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,56.0,494399.0,11.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,11.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,84.0,494399.0,17.0
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,52.0,494399.0,10.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,169.0,494399.0,34.2
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,18.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,24.0,494399.0,4.9
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,14.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,57.0,494399.0,11.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Congestive heart failure,I50.0,56.0,494399.0,11.3
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,27.0,494399.0,5.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,15.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,16.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,55.0,494399.0,11.1
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,13.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,12.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,24.0,494399.0,4.9
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,11.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,143.0,494399.0,28.9
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,27.0,494399.0,5.5
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,21.0,494399.0,4.2
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,18.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Ada County, ID",16001,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,494399.0,Unreliable
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Sepsis,"Septicaemia, unspecified",A41.9,12.0,88795.0,Unreliable
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,88795.0,23.6
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,88795.0,Unreliable
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,88795.0,Unreliable
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,88795.0,Unreliable
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,88795.0,50.7
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,40.0,88795.0,45.0
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,32.0,88795.0,36.0
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,17.0,88795.0,Unreliable
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Other diseases of the circulatory system,Congestive heart failure,I50.0,21.0,88795.0,23.6
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,24.0,88795.0,27.0
+2021 (provisional),Idaho,16,"Bannock County, ID",16005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,43.0,88795.0,48.4
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,47202.0,Unreliable
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,47202.0,Unreliable
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,47202.0,Unreliable
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,47202.0,Unreliable
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,"Acute ischaemic heart disease, unspecified",I24.9,20.0,47202.0,42.4
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,47202.0,Unreliable
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,47202.0,Unreliable
+2021 (provisional),Idaho,16,"Bingham County, ID",16011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,47202.0,Unreliable
+2021 (provisional),Idaho,16,"Bonner County, ID",16017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,46817.0,Unreliable
+2021 (provisional),Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,46817.0,Unreliable
+2021 (provisional),Idaho,16,"Bonner County, ID",16017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,46817.0,Unreliable
+2021 (provisional),Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,28.0,46817.0,59.8
+2021 (provisional),Idaho,16,"Bonner County, ID",16017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,46817.0,42.7
+2021 (provisional),Idaho,16,"Bonner County, ID",16017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,25.0,46817.0,53.4
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,Unspecified dementia,F03,43.0,122134.0,35.2
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,36.0,122134.0,29.5
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,71.0,122134.0,58.1
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,37.0,122134.0,30.3
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,16.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,Congestive heart failure,I50.0,21.0,122134.0,17.2
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,15.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,10.0,122134.0,Unreliable
+2021 (provisional),Idaho,16,"Bonneville County, ID",16019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,52.0,122134.0,42.6
+2021 (provisional),Idaho,16,"Boundary County, ID",16021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,12656.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Sepsis,"Septicaemia, unspecified",A41.9,17.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,12.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,25.0,237053.0,10.5
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm of rectum,C20,10.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,30.0,237053.0,12.7
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,61.0,237053.0,25.7
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,33.0,237053.0,13.9
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,11.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,11.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,Unspecified dementia,F03,36.0,237053.0,15.2
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,21.0,237053.0,8.9
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,83.0,237053.0,35.0
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,15.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,22.0,237053.0,9.3
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,121.0,237053.0,51.0
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,86.0,237053.0,36.3
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,11.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,Congestive heart failure,I50.0,23.0,237053.0,9.7
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,12.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,11.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,30.0,237053.0,12.7
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,79.0,237053.0,33.3
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,16.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Canyon County, ID",16027,Renal failure,"Chronic kidney disease, stage 5",N18.5,14.0,237053.0,Unreliable
+2021 (provisional),Idaho,16,"Cassia County, ID",16031,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,24277.0,Unreliable
+2021 (provisional),Idaho,16,"Cassia County, ID",16031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,24277.0,Unreliable
+2021 (provisional),Idaho,16,"Cassia County, ID",16031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,24277.0,Unreliable
+2021 (provisional),Idaho,16,"Clearwater County, ID",16035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,8846.0,Unreliable
+2021 (provisional),Idaho,16,"Clearwater County, ID",16035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,8846.0,Unreliable
+2021 (provisional),Idaho,16,"Elmore County, ID",16039,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,27448.0,Unreliable
+2021 (provisional),Idaho,16,"Elmore County, ID",16039,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,27448.0,Unreliable
+2021 (provisional),Idaho,16,"Elmore County, ID",16039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,27448.0,Unreliable
+2021 (provisional),Idaho,16,"Elmore County, ID",16039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,27448.0,Unreliable
+2021 (provisional),Idaho,16,"Franklin County, ID",16041,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,14215.0,Unreliable
+2021 (provisional),Idaho,16,"Fremont County, ID",16043,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,13218.0,Unreliable
+2021 (provisional),Idaho,16,"Fremont County, ID",16043,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,13218.0,Unreliable
+2021 (provisional),Idaho,16,"Fremont County, ID",16043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,13218.0,Unreliable
+2021 (provisional),Idaho,16,"Gem County, ID",16045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,18703.0,Unreliable
+2021 (provisional),Idaho,16,"Gem County, ID",16045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,18703.0,106.9
+2021 (provisional),Idaho,16,"Gem County, ID",16045,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,18703.0,Unreliable
+2021 (provisional),Idaho,16,"Gem County, ID",16045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,18703.0,Unreliable
+2021 (provisional),Idaho,16,"Gooding County, ID",16047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,15618.0,134.5
+2021 (provisional),Idaho,16,"Idaho County, ID",16049,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,16.0,16823.0,Unreliable
+2021 (provisional),Idaho,16,"Jefferson County, ID",16051,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,30581.0,Unreliable
+2021 (provisional),Idaho,16,"Jefferson County, ID",16051,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,30581.0,Unreliable
+2021 (provisional),Idaho,16,"Jefferson County, ID",16051,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,30581.0,Unreliable
+2021 (provisional),Idaho,16,"Jerome County, ID",16053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,22.0,24578.0,89.5
+2021 (provisional),Idaho,16,"Jerome County, ID",16053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,24578.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,17.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,34.0,170628.0,19.9
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,73.0,170628.0,42.8
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,170628.0,12.9
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm of prostate,C61,34.0,170628.0,19.9
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,21.0,170628.0,12.3
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,15.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,13.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Unspecified dementia,F03,71.0,170628.0,41.6
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,54.0,170628.0,31.6
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,28.0,170628.0,16.4
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,13.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Essential (primary) hypertension,I10,11.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,27.0,170628.0,15.8
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,98.0,170628.0,57.4
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,73.0,170628.0,42.8
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,20.0,170628.0,11.7
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,24.0,170628.0,14.1
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,30.0,170628.0,17.6
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,20.0,170628.0,11.7
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,73.0,170628.0,42.8
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Kootenai County, ID",16055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,15.0,170628.0,Unreliable
+2021 (provisional),Idaho,16,"Latah County, ID",16057,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,40830.0,Unreliable
+2021 (provisional),Idaho,16,"Latah County, ID",16057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,40830.0,Unreliable
+2021 (provisional),Idaho,16,"Latah County, ID",16057,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,40830.0,Unreliable
+2021 (provisional),Idaho,16,"Latah County, ID",16057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,40830.0,56.3
+2021 (provisional),Idaho,16,"Latah County, ID",16057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,40830.0,Unreliable
+2021 (provisional),Idaho,16,"Lemhi County, ID",16059,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,8054.0,260.7
+2021 (provisional),Idaho,16,"Madison County, ID",16065,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,40318.0,Unreliable
+2021 (provisional),Idaho,16,"Madison County, ID",16065,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,40318.0,54.6
+2021 (provisional),Idaho,16,"Madison County, ID",16065,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,40318.0,Unreliable
+2021 (provisional),Idaho,16,"Minidoka County, ID",16067,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,21216.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,40755.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,40755.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,40755.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,11.0,40755.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,40755.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,Unspecified dementia,F03,26.0,40755.0,63.8
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,40755.0,54.0
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,40755.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,40755.0,49.1
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,40755.0,Unreliable
+2021 (provisional),Idaho,16,"Nez Perce County, ID",16069,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,40755.0,63.8
+2021 (provisional),Idaho,16,"Payette County, ID",16075,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,24771.0,Unreliable
+2021 (provisional),Idaho,16,"Payette County, ID",16075,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,24771.0,Unreliable
+2021 (provisional),Idaho,16,"Payette County, ID",16075,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,24771.0,Unreliable
+2021 (provisional),Idaho,16,"Payette County, ID",16075,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,24771.0,Unreliable
+2021 (provisional),Idaho,16,"Shoshone County, ID",16079,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,12911.0,Unreliable
+2021 (provisional),Idaho,16,"Shoshone County, ID",16079,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,12911.0,Unreliable
+2021 (provisional),Idaho,16,"Shoshone County, ID",16079,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,12911.0,Unreliable
+2021 (provisional),Idaho,16,"Shoshone County, ID",16079,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,12911.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,28.0,88411.0,31.7
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Malignant neoplasms,Malignant neoplasm of prostate,C61,16.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,65.0,88411.0,73.5
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,15.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,37.0,88411.0,41.8
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,88411.0,31.7
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,11.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,88411.0,Unreliable
+2021 (provisional),Idaho,16,"Twin Falls County, ID",16083,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,55.0,88411.0,62.2
+2021 (provisional),Idaho,16,"Valley County, ID",16085,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,11792.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,494399.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,494399.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,494399.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,32.0,494399.0,6.5
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,494399.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,494399.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,494399.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Ada County, ID",16001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,494399.0,4.2
+2022 (provisional and partial),Idaho,16,"Bonneville County, ID",16019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,122134.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Canyon County, ID",16027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,237053.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,237053.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Canyon County, ID",16027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,237053.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Canyon County, ID",16027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,237053.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Kootenai County, ID",16055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,170628.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,170628.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Kootenai County, ID",16055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,170628.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Kootenai County, ID",16055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,170628.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Kootenai County, ID",16055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,170628.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Nez Perce County, ID",16069,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,40755.0,Unreliable
+2022 (provisional and partial),Idaho,16,"Twin Falls County, ID",16083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,88411.0,Unreliable

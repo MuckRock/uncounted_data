@@ -1,0 +1,169 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,New York,"Albany County, NY",Nontransport accidents,Unspecified fall,W19,16.0,307117.0,Unreliable
+2018,New York,"Albany County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,307117.0,6.8
+2018,New York,"Albany County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,307117.0,Unreliable
+2018,New York,"Albany County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,307117.0,Unreliable
+2018,New York,"Albany County, NY",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,16.0,307117.0,Unreliable
+2018,New York,"Bronx County, NY",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,1432132.0,Unreliable
+2018,New York,"Bronx County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,1432132.0,Unreliable
+2018,New York,"Bronx County, NY",Nontransport accidents,Unspecified fall,W19,47.0,1432132.0,3.3
+2018,New York,"Bronx County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,275.0,1432132.0,19.2
+2018,New York,"Bronx County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,96.0,1432132.0,6.7
+2018,New York,"Bronx County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,29.0,1432132.0,2.0
+2018,New York,"Bronx County, NY",Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,18.0,1432132.0,Unreliable
+2018,New York,"Bronx County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,55.0,1432132.0,3.8
+2018,New York,"Bronx County, NY",Assault (homicide),Assault by sharp object,X99,29.0,1432132.0,2.0
+2018,New York,"Broome County, NY",Nontransport accidents,Unspecified fall,W19,15.0,191659.0,Unreliable
+2018,New York,"Broome County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,191659.0,10.4
+2018,New York,"Broome County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,191659.0,Unreliable
+2018,New York,"Broome County, NY",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,10.0,191659.0,Unreliable
+2018,New York,"Chautauqua County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,127939.0,Unreliable
+2018,New York,"Chemung County, NY",Nontransport accidents,Unspecified fall,W19,11.0,84254.0,Unreliable
+2018,New York,"Dutchess County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,293718.0,Unreliable
+2018,New York,"Dutchess County, NY",Nontransport accidents,Unspecified fall,W19,15.0,293718.0,Unreliable
+2018,New York,"Dutchess County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,293718.0,16.7
+2018,New York,"Dutchess County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,37.0,293718.0,12.6
+2018,New York,"Dutchess County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,293718.0,Unreliable
+2018,New York,"Dutchess County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,293718.0,Unreliable
+2018,New York,"Erie County, NY",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,919719.0,Unreliable
+2018,New York,"Erie County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,919719.0,Unreliable
+2018,New York,"Erie County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,19.0,919719.0,Unreliable
+2018,New York,"Erie County, NY",Nontransport accidents,Other fall on same level,W18,44.0,919719.0,4.8
+2018,New York,"Erie County, NY",Nontransport accidents,Unspecified fall,W19,21.0,919719.0,2.3
+2018,New York,"Erie County, NY",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,13.0,919719.0,Unreliable
+2018,New York,"Erie County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,86.0,919719.0,9.4
+2018,New York,"Erie County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,99.0,919719.0,10.8
+2018,New York,"Erie County, NY",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,13.0,919719.0,Unreliable
+2018,New York,"Erie County, NY",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,13.0,919719.0,Unreliable
+2018,New York,"Erie County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,42.0,919719.0,4.6
+2018,New York,"Erie County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,919719.0,Unreliable
+2018,New York,"Erie County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,49.0,919719.0,5.3
+2018,New York,"Genesee County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,57511.0,Unreliable
+2018,New York,"Kings County, NY",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,11.0,2582830.0,Unreliable
+2018,New York,"Kings County, NY",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,26.0,2582830.0,1.0
+2018,New York,"Kings County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,2582830.0,Unreliable
+2018,New York,"Kings County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,13.0,2582830.0,Unreliable
+2018,New York,"Kings County, NY",Nontransport accidents,Unspecified fall,W19,87.0,2582830.0,3.4
+2018,New York,"Kings County, NY",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,18.0,2582830.0,Unreliable
+2018,New York,"Kings County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,152.0,2582830.0,5.9
+2018,New York,"Kings County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,117.0,2582830.0,4.5
+2018,New York,"Kings County, NY",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,16.0,2582830.0,Unreliable
+2018,New York,"Kings County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,55.0,2582830.0,2.1
+2018,New York,"Kings County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,2582830.0,0.9
+2018,New York,"Kings County, NY",Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,26.0,2582830.0,1.0
+2018,New York,"Kings County, NY",Intentional self-harm (suicide),Intentional self-harm by jumping or lying before moving object,X81,11.0,2582830.0,Unreliable
+2018,New York,"Kings County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,74.0,2582830.0,2.9
+2018,New York,"Kings County, NY",Assault (homicide),Assault by sharp object,X99,18.0,2582830.0,Unreliable
+2018,New York,"Kings County, NY",,"Unspecified event, undetermined intent",Y34,13.0,2582830.0,Unreliable
+2018,New York,"Livingston County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,63227.0,Unreliable
+2018,New York,"Monroe County, NY",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,12.0,742474.0,Unreliable
+2018,New York,"Monroe County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17.0,742474.0,Unreliable
+2018,New York,"Monroe County, NY",Nontransport accidents,Other fall on same level,W18,46.0,742474.0,6.2
+2018,New York,"Monroe County, NY",Nontransport accidents,Unspecified fall,W19,91.0,742474.0,12.3
+2018,New York,"Monroe County, NY",Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,10.0,742474.0,Unreliable
+2018,New York,"Monroe County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,137.0,742474.0,18.5
+2018,New York,"Monroe County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,69.0,742474.0,9.3
+2018,New York,"Monroe County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,32.0,742474.0,4.3
+2018,New York,"Monroe County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,742474.0,Unreliable
+2018,New York,"Monroe County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,25.0,742474.0,3.4
+2018,New York,"Nassau County, NY",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,17.0,1358343.0,Unreliable
+2018,New York,"Nassau County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,23.0,1358343.0,1.7
+2018,New York,"Nassau County, NY",Nontransport accidents,Other fall on same level,W18,13.0,1358343.0,Unreliable
+2018,New York,"Nassau County, NY",Nontransport accidents,Unspecified fall,W19,67.0,1358343.0,4.9
+2018,New York,"Nassau County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,99.0,1358343.0,7.3
+2018,New York,"Nassau County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,70.0,1358343.0,5.2
+2018,New York,"Nassau County, NY",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,16.0,1358343.0,Unreliable
+2018,New York,"Nassau County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,40.0,1358343.0,2.9
+2018,New York,"Nassau County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,1358343.0,Unreliable
+2018,New York,"New York County, NY",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,1628701.0,Unreliable
+2018,New York,"New York County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,1628701.0,Unreliable
+2018,New York,"New York County, NY",Nontransport accidents,Unspecified fall,W19,101.0,1628701.0,6.2
+2018,New York,"New York County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,160.0,1628701.0,9.8
+2018,New York,"New York County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,88.0,1628701.0,5.4
+2018,New York,"New York County, NY",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,17.0,1628701.0,Unreliable
+2018,New York,"New York County, NY",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,13.0,1628701.0,Unreliable
+2018,New York,"New York County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,44.0,1628701.0,2.7
+2018,New York,"New York County, NY",Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,35.0,1628701.0,2.1
+2018,New York,"New York County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,1628701.0,Unreliable
+2018,New York,"New York County, NY",,"Unspecified event, undetermined intent",Y34,11.0,1628701.0,Unreliable
+2018,New York,"Niagara County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,24.0,210433.0,11.4
+2018,New York,"Niagara County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,210433.0,10.0
+2018,New York,"Niagara County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,210433.0,Unreliable
+2018,New York,"Oneida County, NY",Nontransport accidents,Other fall on same level,W18,17.0,229577.0,Unreliable
+2018,New York,"Oneida County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,24.0,229577.0,10.5
+2018,New York,"Oneida County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,229577.0,Unreliable
+2018,New York,"Onondaga County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,13.0,461809.0,Unreliable
+2018,New York,"Onondaga County, NY",Nontransport accidents,Other fall on same level,W18,25.0,461809.0,5.4
+2018,New York,"Onondaga County, NY",Nontransport accidents,Unspecified fall,W19,28.0,461809.0,6.1
+2018,New York,"Onondaga County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,50.0,461809.0,10.8
+2018,New York,"Onondaga County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,461809.0,8.7
+2018,New York,"Onondaga County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,461809.0,5.0
+2018,New York,"Onondaga County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,461809.0,Unreliable
+2018,New York,"Ontario County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,109864.0,Unreliable
+2018,New York,"Ontario County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,109864.0,Unreliable
+2018,New York,"Orange County, NY",Nontransport accidents,Other fall on same level,W18,12.0,381951.0,Unreliable
+2018,New York,"Orange County, NY",Nontransport accidents,Unspecified fall,W19,10.0,381951.0,Unreliable
+2018,New York,"Orange County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,46.0,381951.0,12.0
+2018,New York,"Orange County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,64.0,381951.0,16.8
+2018,New York,"Orange County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,381951.0,Unreliable
+2018,New York,"Oswego County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,117898.0,Unreliable
+2018,New York,"Putnam County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,98892.0,Unreliable
+2018,New York,"Queens County, NY",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,14.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,28.0,2278906.0,1.2
+2018,New York,"Queens County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,24.0,2278906.0,1.1
+2018,New York,"Queens County, NY",Nontransport accidents,Other fall on same level,W18,15.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Nontransport accidents,Unspecified fall,W19,88.0,2278906.0,3.9
+2018,New York,"Queens County, NY",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,24.0,2278906.0,1.1
+2018,New York,"Queens County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,135.0,2278906.0,5.9
+2018,New York,"Queens County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,84.0,2278906.0,3.7
+2018,New York,"Queens County, NY",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,16.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,59.0,2278906.0,2.6
+2018,New York,"Queens County, NY",Intentional self-harm (suicide),Intentional self-harm by drowning and submersion,X71,10.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,24.0,2278906.0,1.1
+2018,New York,"Queens County, NY",Intentional self-harm (suicide),Intentional self-harm by jumping or lying before moving object,X81,19.0,2278906.0,Unreliable
+2018,New York,"Queens County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,34.0,2278906.0,1.5
+2018,New York,"Queens County, NY",Assault (homicide),Assault by sharp object,X99,13.0,2278906.0,Unreliable
+2018,New York,"Rensselaer County, NY",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,17.0,159442.0,Unreliable
+2018,New York,"Richmond County, NY",Nontransport accidents,Unspecified fall,W19,20.0,476179.0,4.2
+2018,New York,"Richmond County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,62.0,476179.0,13.0
+2018,New York,"Richmond County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,50.0,476179.0,10.5
+2018,New York,"Richmond County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,476179.0,Unreliable
+2018,New York,"Rockland County, NY",Nontransport accidents,Other fall on same level,W18,15.0,325695.0,Unreliable
+2018,New York,"Rockland County, NY",Nontransport accidents,Unspecified fall,W19,19.0,325695.0,Unreliable
+2018,New York,"Rockland County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,325695.0,6.4
+2018,New York,"Saratoga County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,230163.0,Unreliable
+2018,New York,"Saratoga County, NY",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,18.0,230163.0,Unreliable
+2018,New York,"Schenectady County, NY",Nontransport accidents,Unspecified fall,W19,11.0,155350.0,Unreliable
+2018,New York,"Schenectady County, NY",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,23.0,155350.0,14.8
+2018,New York,"Suffolk County, NY",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,12.0,1481093.0,Unreliable
+2018,New York,"Suffolk County, NY",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,25.0,1481093.0,1.7
+2018,New York,"Suffolk County, NY",Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,11.0,1481093.0,Unreliable
+2018,New York,"Suffolk County, NY",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,15.0,1481093.0,Unreliable
+2018,New York,"Suffolk County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,28.0,1481093.0,1.9
+2018,New York,"Suffolk County, NY",Nontransport accidents,Fall on and from stairs and steps,W10,21.0,1481093.0,1.4
+2018,New York,"Suffolk County, NY",Nontransport accidents,Other fall on same level,W18,36.0,1481093.0,2.4
+2018,New York,"Suffolk County, NY",Nontransport accidents,Unspecified fall,W19,86.0,1481093.0,5.8
+2018,New York,"Suffolk County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,1481093.0,Unreliable
+2018,New York,"Suffolk County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,180.0,1481093.0,12.2
+2018,New York,"Suffolk County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,182.0,1481093.0,12.3
+2018,New York,"Suffolk County, NY",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,1481093.0,Unreliable
+2018,New York,"Suffolk County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,53.0,1481093.0,3.6
+2018,New York,"Suffolk County, NY",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,19.0,1481093.0,Unreliable
+2018,New York,"Suffolk County, NY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,1481093.0,Unreliable
+2018,New York,"Suffolk County, NY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,1481093.0,Unreliable
+2018,New York,"Sullivan County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,75498.0,26.5
+2018,New York,"Sullivan County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,75498.0,Unreliable
+2018,New York,"Ulster County, NY",Nontransport accidents,Unspecified fall,W19,10.0,178599.0,Unreliable
+2018,New York,"Ulster County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,32.0,178599.0,17.9
+2018,New York,"Ulster County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,178599.0,14.6
+2018,New York,"Wayne County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,90064.0,Unreliable
+2018,New York,"Wayne County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,90064.0,Unreliable
+2018,New York,"Westchester County, NY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,967612.0,Unreliable
+2018,New York,"Westchester County, NY",Nontransport accidents,Unspecified fall,W19,57.0,967612.0,5.9
+2018,New York,"Westchester County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,90.0,967612.0,9.3
+2018,New York,"Westchester County, NY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,53.0,967612.0,5.5
+2018,New York,"Westchester County, NY",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,12.0,967612.0,Unreliable
+2018,New York,"Westchester County, NY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,32.0,967612.0,3.3

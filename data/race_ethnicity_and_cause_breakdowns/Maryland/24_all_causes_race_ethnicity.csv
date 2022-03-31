@@ -1,0 +1,382 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Maryland,24,"Allegany County, MD",24001,Black or African American,Not Hispanic or Latino,29.0,5719.0,507.1,1202.4
+2018,Maryland,24,"Allegany County, MD",24001,White,Not Hispanic or Latino,836.0,61586.0,1357.5,856.1
+2018,Maryland,24,"Anne Arundel County, MD",24003,Asian,Not Hispanic or Latino,91.0,23617.0,385.3,516.9
+2018,Maryland,24,"Anne Arundel County, MD",24003,Black or African American,Not Hispanic or Latino,668.0,98694.0,676.8,843.9
+2018,Maryland,24,"Anne Arundel County, MD",24003,White,Hispanic or Latino,84.0,38124.0,220.3,516.3
+2018,Maryland,24,"Anne Arundel County, MD",24003,White,Not Hispanic or Latino,3739.0,389064.0,961.0,740.3
+2018,Maryland,24,"Anne Arundel County, MD",24003,More than one race,Not Hispanic or Latino,13.0,16192.0,Unreliable,Unreliable
+2018,Maryland,24,"Baltimore County, MD",24005,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2209.0,Unreliable,Unreliable
+2018,Maryland,24,"Baltimore County, MD",24005,Asian,Not Hispanic or Latino,148.0,51810.0,285.7,352.4
+2018,Maryland,24,"Baltimore County, MD",24005,Black or African American,Not Hispanic or Latino,1839.0,240203.0,765.6,845.1
+2018,Maryland,24,"Baltimore County, MD",24005,White,Hispanic or Latino,80.0,35276.0,226.8,380.7
+2018,Maryland,24,"Baltimore County, MD",24005,White,Not Hispanic or Latino,6405.0,468512.0,1367.1,793.1
+2018,Maryland,24,"Baltimore County, MD",24005,More than one race,Not Hispanic or Latino,14.0,18580.0,Unreliable,Unreliable
+2018,Maryland,24,"Calvert County, MD",24009,Black or African American,Not Hispanic or Latino,106.0,11726.0,904.0,778.7
+2018,Maryland,24,"Calvert County, MD",24009,White,Not Hispanic or Latino,554.0,71750.0,772.1,656.4
+2018,Maryland,24,"Caroline County, MD",24011,Black or African American,Not Hispanic or Latino,65.0,4585.0,1417.7,1234.2
+2018,Maryland,24,"Caroline County, MD",24011,White,Not Hispanic or Latino,283.0,25128.0,1126.2,867.7
+2018,Maryland,24,"Carroll County, MD",24013,Black or African American,Not Hispanic or Latino,37.0,6102.0,606.4,638.6
+2018,Maryland,24,"Carroll County, MD",24013,White,Not Hispanic or Latino,1625.0,149421.0,1087.5,819.0
+2018,Maryland,24,"Cecil County, MD",24015,Black or African American,Not Hispanic or Latino,57.0,6821.0,835.7,1109.6
+2018,Maryland,24,"Cecil County, MD",24015,White,Not Hispanic or Latino,936.0,87286.0,1072.3,889.1
+2018,Maryland,24,"Charles County, MD",24017,Asian,Not Hispanic or Latino,15.0,5279.0,Unreliable,Unreliable
+2018,Maryland,24,"Charles County, MD",24017,Black or African American,Not Hispanic or Latino,447.0,77309.0,578.2,817.0
+2018,Maryland,24,"Charles County, MD",24017,White,Hispanic or Latino,16.0,6716.0,Unreliable,Unreliable
+2018,Maryland,24,"Charles County, MD",24017,White,Not Hispanic or Latino,653.0,62340.0,1047.5,758.3
+2018,Maryland,24,"Dorchester County, MD",24019,Black or African American,Not Hispanic or Latino,117.0,8942.0,1308.4,1093.6
+2018,Maryland,24,"Dorchester County, MD",24019,White,Not Hispanic or Latino,289.0,20024.0,1443.3,813.2
+2018,Maryland,24,"Frederick County, MD",24021,Asian,Not Hispanic or Latino,36.0,11943.0,301.4,391.8
+2018,Maryland,24,"Frederick County, MD",24021,Black or African American,Not Hispanic or Latino,139.0,24579.0,565.5,741.9
+2018,Maryland,24,"Frederick County, MD",24021,White,Hispanic or Latino,36.0,21884.0,164.5,347.9
+2018,Maryland,24,"Frederick County, MD",24021,White,Not Hispanic or Latino,1650.0,185746.0,888.3,677.2
+2018,Maryland,24,"Garrett County, MD",24023,White,Not Hispanic or Latino,344.0,28095.0,1224.4,761.8
+2018,Maryland,24,"Harford County, MD",24025,Asian,Not Hispanic or Latino,30.0,7656.0,391.8,416.5
+2018,Maryland,24,"Harford County, MD",24025,Black or African American,Not Hispanic or Latino,215.0,35427.0,606.9,739.6
+2018,Maryland,24,"Harford County, MD",24025,White,Hispanic or Latino,22.0,9324.0,236.0,355.3
+2018,Maryland,24,"Harford County, MD",24025,White,Not Hispanic or Latino,1971.0,191835.0,1027.4,769.0
+2018,Maryland,24,"Howard County, MD",24027,Asian,Not Hispanic or Latino,168.0,61246.0,274.3,360.9
+2018,Maryland,24,"Howard County, MD",24027,Black or African American,Not Hispanic or Latino,349.0,62362.0,559.6,663.1
+2018,Maryland,24,"Howard County, MD",24027,White,Hispanic or Latino,39.0,17903.0,217.8,424.7
+2018,Maryland,24,"Howard County, MD",24027,White,Not Hispanic or Latino,1214.0,165027.0,735.6,573.4
+2018,Maryland,24,"Kent County, MD",24029,Black or African American,Not Hispanic or Latino,56.0,2814.0,1990.0,1193.9
+2018,Maryland,24,"Kent County, MD",24029,White,Not Hispanic or Latino,223.0,15116.0,1475.3,712.4
+2018,Maryland,24,"Montgomery County, MD",24031,Asian,Not Hispanic or Latino,625.0,161479.0,387.0,346.7
+2018,Maryland,24,"Montgomery County, MD",24031,Black or African American,Hispanic or Latino,12.0,15191.0,Unreliable,Unreliable
+2018,Maryland,24,"Montgomery County, MD",24031,Black or African American,Not Hispanic or Latino,1034.0,194272.0,532.2,591.1
+2018,Maryland,24,"Montgomery County, MD",24031,White,Hispanic or Latino,404.0,177304.0,227.9,334.8
+2018,Maryland,24,"Montgomery County, MD",24031,White,Not Hispanic or Latino,4321.0,456832.0,945.9,522.8
+2018,Maryland,24,"Montgomery County, MD",24031,More than one race,Not Hispanic or Latino,13.0,28710.0,Unreliable,Unreliable
+2018,Maryland,24,"Prince George's County, MD",24033,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2240.0,Unreliable,Unreliable
+2018,Maryland,24,"Prince George's County, MD",24033,Asian,Not Hispanic or Latino,144.0,39218.0,367.2,357.6
+2018,Maryland,24,"Prince George's County, MD",24033,Black or African American,Hispanic or Latino,20.0,23183.0,86.3,214.6
+2018,Maryland,24,"Prince George's County, MD",24033,Black or African American,Not Hispanic or Latino,4212.0,562614.0,748.6,723.5
+2018,Maryland,24,"Prince George's County, MD",24033,White,Hispanic or Latino,270.0,131816.0,204.8,478.6
+2018,Maryland,24,"Prince George's County, MD",24033,White,Not Hispanic or Latino,1440.0,113354.0,1270.4,742.6
+2018,Maryland,24,"Prince George's County, MD",24033,More than one race,Not Hispanic or Latino,21.0,18213.0,115.3,272.1
+2018,Maryland,24,"Queen Anne's County, MD",24035,Black or African American,Not Hispanic or Latino,42.0,3113.0,1349.2,985.3
+2018,Maryland,24,"Queen Anne's County, MD",24035,White,Not Hispanic or Latino,401.0,43383.0,924.3,691.8
+2018,Maryland,24,"St. Mary's County, MD",24037,Black or African American,Not Hispanic or Latino,156.0,16118.0,967.9,1016.1
+2018,Maryland,24,"St. Mary's County, MD",24037,White,Not Hispanic or Latino,702.0,83212.0,843.6,773.2
+2018,Maryland,24,"Somerset County, MD",24039,Black or African American,Not Hispanic or Latino,80.0,10622.0,753.2,989.5
+2018,Maryland,24,"Somerset County, MD",24039,White,Not Hispanic or Latino,197.0,13204.0,1492.0,923.6
+2018,Maryland,24,"Talbot County, MD",24041,Black or African American,Not Hispanic or Latino,61.0,4578.0,1332.5,850.6
+2018,Maryland,24,"Talbot County, MD",24041,White,Not Hispanic or Latino,398.0,28735.0,1385.1,625.3
+2018,Maryland,24,"Washington County, MD",24043,Black or African American,Not Hispanic or Latino,87.0,17503.0,497.1,874.8
+2018,Maryland,24,"Washington County, MD",24043,White,Hispanic or Latino,14.0,6576.0,Unreliable,Unreliable
+2018,Maryland,24,"Washington County, MD",24043,White,Not Hispanic or Latino,1587.0,118045.0,1344.4,891.2
+2018,Maryland,24,"Wicomico County, MD",24045,Black or African American,Not Hispanic or Latino,240.0,27313.0,878.7,982.9
+2018,Maryland,24,"Wicomico County, MD",24045,White,Hispanic or Latino,11.0,4270.0,Unreliable,Unreliable
+2018,Maryland,24,"Wicomico County, MD",24045,White,Not Hispanic or Latino,781.0,64333.0,1214.0,860.9
+2018,Maryland,24,"Worcester County, MD",24047,Black or African American,Not Hispanic or Latino,78.0,6656.0,1171.9,832.0
+2018,Maryland,24,"Worcester County, MD",24047,White,Not Hispanic or Latino,560.0,41536.0,1348.2,694.3
+2018,Maryland,24,"Baltimore city, MD",24510,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1679.0,Unreliable,Unreliable
+2018,Maryland,24,"Baltimore city, MD",24510,Asian,Not Hispanic or Latino,33.0,16249.0,203.1,307.6
+2018,Maryland,24,"Baltimore city, MD",24510,Black or African American,Not Hispanic or Latino,4817.0,372960.0,1291.6,1158.3
+2018,Maryland,24,"Baltimore city, MD",24510,White,Hispanic or Latino,63.0,24062.0,261.8,564.3
+2018,Maryland,24,"Baltimore city, MD",24510,White,Not Hispanic or Latino,1805.0,167248.0,1079.2,902.5
+2019,Maryland,24,"Allegany County, MD",24001,Black or African American,Not Hispanic or Latino,27.0,5707.0,473.1,971.5
+2019,Maryland,24,"Allegany County, MD",24001,White,Not Hispanic or Latino,880.0,61036.0,1441.8,875.2
+2019,Maryland,24,"Anne Arundel County, MD",24003,Asian,Not Hispanic or Latino,91.0,23841.0,381.7,458.5
+2019,Maryland,24,"Anne Arundel County, MD",24003,Black or African American,Not Hispanic or Latino,644.0,101478.0,634.6,774.5
+2019,Maryland,24,"Anne Arundel County, MD",24003,White,Hispanic or Latino,85.0,40027.0,212.4,455.5
+2019,Maryland,24,"Anne Arundel County, MD",24003,White,Not Hispanic or Latino,3671.0,386285.0,950.3,719.7
+2019,Maryland,24,"Anne Arundel County, MD",24003,More than one race,Not Hispanic or Latino,15.0,16925.0,Unreliable,Unreliable
+2019,Maryland,24,"Baltimore County, MD",24005,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2248.0,Unreliable,Unreliable
+2019,Maryland,24,"Baltimore County, MD",24005,Asian,Not Hispanic or Latino,149.0,51603.0,288.7,352.4
+2019,Maryland,24,"Baltimore County, MD",24005,Black or African American,Not Hispanic or Latino,1939.0,244532.0,792.9,853.4
+2019,Maryland,24,"Baltimore County, MD",24005,White,Hispanic or Latino,100.0,36354.0,275.1,413.7
+2019,Maryland,24,"Baltimore County, MD",24005,White,Not Hispanic or Latino,6273.0,461626.0,1358.9,771.9
+2019,Maryland,24,"Baltimore County, MD",24005,More than one race,Not Hispanic or Latino,22.0,18997.0,115.8,222.5
+2019,Maryland,24,"Calvert County, MD",24009,Black or African American,Not Hispanic or Latino,110.0,11907.0,923.8,829.9
+2019,Maryland,24,"Calvert County, MD",24009,White,Hispanic or Latino,12.0,3255.0,Unreliable,Unreliable
+2019,Maryland,24,"Calvert County, MD",24009,White,Not Hispanic or Latino,651.0,71709.0,907.8,749.0
+2019,Maryland,24,"Caroline County, MD",24011,Black or African American,Not Hispanic or Latino,51.0,4556.0,1119.4,985.9
+2019,Maryland,24,"Caroline County, MD",24011,White,Not Hispanic or Latino,257.0,25102.0,1023.8,764.4
+2019,Maryland,24,"Carroll County, MD",24013,Asian,Not Hispanic or Latino,13.0,3451.0,Unreliable,Unreliable
+2019,Maryland,24,"Carroll County, MD",24013,Black or African American,Not Hispanic or Latino,56.0,6289.0,890.4,892.5
+2019,Maryland,24,"Carroll County, MD",24013,White,Hispanic or Latino,15.0,5629.0,Unreliable,Unreliable
+2019,Maryland,24,"Carroll County, MD",24013,White,Not Hispanic or Latino,1560.0,148781.0,1048.5,776.7
+2019,Maryland,24,"Cecil County, MD",24015,Black or African American,Not Hispanic or Latino,74.0,6959.0,1063.4,1370.2
+2019,Maryland,24,"Cecil County, MD",24015,White,Hispanic or Latino,14.0,3818.0,Unreliable,Unreliable
+2019,Maryland,24,"Cecil County, MD",24015,White,Not Hispanic or Latino,1002.0,87009.0,1151.6,937.6
+2019,Maryland,24,"Charles County, MD",24017,Asian,Not Hispanic or Latino,16.0,5346.0,Unreliable,Unreliable
+2019,Maryland,24,"Charles County, MD",24017,Black or African American,Not Hispanic or Latino,506.0,79891.0,633.4,850.5
+2019,Maryland,24,"Charles County, MD",24017,White,Hispanic or Latino,15.0,7119.0,Unreliable,Unreliable
+2019,Maryland,24,"Charles County, MD",24017,White,Not Hispanic or Latino,679.0,60813.0,1116.5,788.4
+2019,Maryland,24,"Dorchester County, MD",24019,Black or African American,Not Hispanic or Latino,132.0,8906.0,1482.1,1272.4
+2019,Maryland,24,"Dorchester County, MD",24019,White,Not Hispanic or Latino,278.0,19902.0,1396.8,785.7
+2019,Maryland,24,"Frederick County, MD",24021,Asian,Not Hispanic or Latino,28.0,12525.0,223.6,326.9
+2019,Maryland,24,"Frederick County, MD",24021,Black or African American,Not Hispanic or Latino,140.0,25804.0,542.6,740.2
+2019,Maryland,24,"Frederick County, MD",24021,White,Hispanic or Latino,45.0,23221.0,193.8,415.6
+2019,Maryland,24,"Frederick County, MD",24021,White,Not Hispanic or Latino,1731.0,186170.0,929.8,686.9
+2019,Maryland,24,"Garrett County, MD",24023,White,Not Hispanic or Latino,357.0,27920.0,1278.7,814.1
+2019,Maryland,24,"Harford County, MD",24025,Asian,Not Hispanic or Latino,32.0,7711.0,415.0,460.4
+2019,Maryland,24,"Harford County, MD",24025,Black or African American,Not Hispanic or Latino,250.0,36457.0,685.7,874.9
+2019,Maryland,24,"Harford County, MD",24025,White,Hispanic or Latino,24.0,9499.0,252.7,495.6
+2019,Maryland,24,"Harford County, MD",24025,White,Not Hispanic or Latino,1889.0,191831.0,984.7,731.3
+2019,Maryland,24,"Howard County, MD",24027,Asian,Not Hispanic or Latino,178.0,62425.0,285.1,348.8
+2019,Maryland,24,"Howard County, MD",24027,Black or African American,Not Hispanic or Latino,354.0,63975.0,553.3,644.7
+2019,Maryland,24,"Howard County, MD",24027,White,Hispanic or Latino,31.0,18542.0,167.2,308.9
+2019,Maryland,24,"Howard County, MD",24027,White,Not Hispanic or Latino,1233.0,163681.0,753.3,578.6
+2019,Maryland,24,"Kent County, MD",24029,Black or African American,Not Hispanic or Latino,49.0,2803.0,1748.1,1075.2
+2019,Maryland,24,"Kent County, MD",24029,White,Not Hispanic or Latino,212.0,15109.0,1403.1,724.9
+2019,Maryland,24,"Montgomery County, MD",24031,Asian,Not Hispanic or Latino,618.0,161278.0,383.2,323.3
+2019,Maryland,24,"Montgomery County, MD",24031,Black or African American,Hispanic or Latino,19.0,15420.0,Unreliable,Unreliable
+2019,Maryland,24,"Montgomery County, MD",24031,Black or African American,Not Hispanic or Latino,1032.0,196127.0,526.2,569.8
+2019,Maryland,24,"Montgomery County, MD",24031,White,Hispanic or Latino,400.0,178836.0,223.7,309.8
+2019,Maryland,24,"Montgomery County, MD",24031,White,Not Hispanic or Latino,4102.0,451227.0,909.1,502.7
+2019,Maryland,24,"Montgomery County, MD",24031,More than one race,Not Hispanic or Latino,12.0,29021.0,Unreliable,Unreliable
+2019,Maryland,24,"Prince George's County, MD",24033,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2237.0,Unreliable,Unreliable
+2019,Maryland,24,"Prince George's County, MD",24033,Asian,Not Hispanic or Latino,165.0,38337.0,430.4,388.9
+2019,Maryland,24,"Prince George's County, MD",24033,Black or African American,Hispanic or Latino,37.0,24257.0,152.5,322.9
+2019,Maryland,24,"Prince George's County, MD",24033,Black or African American,Not Hispanic or Latino,4382.0,561056.0,781.0,725.9
+2019,Maryland,24,"Prince George's County, MD",24033,White,Hispanic or Latino,303.0,134705.0,224.9,489.0
+2019,Maryland,24,"Prince George's County, MD",24033,White,Not Hispanic or Latino,1512.0,111440.0,1356.8,745.6
+2019,Maryland,24,"Prince George's County, MD",24033,More than one race,Not Hispanic or Latino,14.0,18168.0,Unreliable,Unreliable
+2019,Maryland,24,"Queen Anne's County, MD",24035,Black or African American,Not Hispanic or Latino,42.0,3063.0,1371.2,874.7
+2019,Maryland,24,"Queen Anne's County, MD",24035,White,Not Hispanic or Latino,431.0,43486.0,991.1,715.9
+2019,Maryland,24,"St. Mary's County, MD",24037,Asian,Not Hispanic or Latino,10.0,3221.0,Unreliable,Unreliable
+2019,Maryland,24,"St. Mary's County, MD",24037,Black or African American,Not Hispanic or Latino,142.0,16390.0,866.4,880.2
+2019,Maryland,24,"St. Mary's County, MD",24037,White,Hispanic or Latino,10.0,5205.0,Unreliable,Unreliable
+2019,Maryland,24,"St. Mary's County, MD",24037,White,Not Hispanic or Latino,703.0,83390.0,843.0,756.6
+2019,Maryland,24,"Somerset County, MD",24039,Black or African American,Not Hispanic or Latino,72.0,10454.0,688.7,874.3
+2019,Maryland,24,"Somerset County, MD",24039,White,Not Hispanic or Latino,193.0,13165.0,1466.0,858.1
+2019,Maryland,24,"Talbot County, MD",24041,Black or African American,Not Hispanic or Latino,63.0,4559.0,1381.9,916.5
+2019,Maryland,24,"Talbot County, MD",24041,White,Not Hispanic or Latino,441.0,28794.0,1531.6,686.3
+2019,Maryland,24,"Washington County, MD",24043,Black or African American,Not Hispanic or Latino,116.0,18051.0,642.6,1027.6
+2019,Maryland,24,"Washington County, MD",24043,White,Hispanic or Latino,14.0,7007.0,Unreliable,Unreliable
+2019,Maryland,24,"Washington County, MD",24043,White,Not Hispanic or Latino,1547.0,116923.0,1323.1,858.1
+2019,Maryland,24,"Wicomico County, MD",24045,Asian,Not Hispanic or Latino,10.0,3071.0,Unreliable,Unreliable
+2019,Maryland,24,"Wicomico County, MD",24045,Black or African American,Not Hispanic or Latino,228.0,27668.0,824.1,898.2
+2019,Maryland,24,"Wicomico County, MD",24045,White,Hispanic or Latino,17.0,4357.0,Unreliable,Unreliable
+2019,Maryland,24,"Wicomico County, MD",24045,White,Not Hispanic or Latino,789.0,64282.0,1227.4,874.8
+2019,Maryland,24,"Worcester County, MD",24047,Black or African American,Not Hispanic or Latino,79.0,6643.0,1189.2,837.3
+2019,Maryland,24,"Worcester County, MD",24047,White,Not Hispanic or Latino,542.0,41836.0,1295.5,652.4
+2019,Maryland,24,"Baltimore city, MD",24510,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1626.0,Unreliable,Unreliable
+2019,Maryland,24,"Baltimore city, MD",24510,Asian,Not Hispanic or Latino,39.0,15796.0,246.9,333.6
+2019,Maryland,24,"Baltimore city, MD",24510,Black or African American,Not Hispanic or Latino,4682.0,366677.0,1276.9,1113.6
+2019,Maryland,24,"Baltimore city, MD",24510,White,Hispanic or Latino,60.0,24382.0,246.1,450.3
+2019,Maryland,24,"Baltimore city, MD",24510,White,Not Hispanic or Latino,1808.0,164264.0,1100.7,910.7
+2019,Maryland,24,"Baltimore city, MD",24510,White,Not Stated,17.0,Not Applicable,Not Applicable,Not Applicable
+2019,Maryland,24,"Baltimore city, MD",24510,More than one race,Not Hispanic or Latino,11.0,11277.0,Unreliable,Unreliable
+2020,Maryland,24,"Allegany County, MD",24001,Black or African American,Not Hispanic or Latino,37.0,5702.0,648.9,1379.8
+2020,Maryland,24,"Allegany County, MD",24001,White,Not Hispanic or Latino,1121.0,60532.0,1851.9,1139.2
+2020,Maryland,24,"Anne Arundel County, MD",24003,Asian,Not Hispanic or Latino,87.0,24814.0,350.6,399.7
+2020,Maryland,24,"Anne Arundel County, MD",24003,Black or African American,Not Hispanic or Latino,873.0,104719.0,833.7,1004.7
+2020,Maryland,24,"Anne Arundel County, MD",24003,White,Hispanic or Latino,106.0,40692.0,260.5,543.3
+2020,Maryland,24,"Anne Arundel County, MD",24003,White,Not Hispanic or Latino,3937.0,383476.0,1026.7,757.0
+2020,Maryland,24,"Baltimore County, MD",24005,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2197.0,Unreliable,Unreliable
+2020,Maryland,24,"Baltimore County, MD",24005,Asian,Not Hispanic or Latino,193.0,52492.0,367.7,424.0
+2020,Maryland,24,"Baltimore County, MD",24005,Black or African American,Hispanic or Latino,11.0,6814.0,Unreliable,Unreliable
+2020,Maryland,24,"Baltimore County, MD",24005,Black or African American,Not Hispanic or Latino,2434.0,248788.0,978.3,1043.9
+2020,Maryland,24,"Baltimore County, MD",24005,White,Hispanic or Latino,149.0,37093.0,401.7,620.4
+2020,Maryland,24,"Baltimore County, MD",24005,White,Not Hispanic or Latino,7067.0,452743.0,1560.9,868.9
+2020,Maryland,24,"Baltimore County, MD",24005,More than one race,Not Hispanic or Latino,24.0,19801.0,121.2,228.0
+2020,Maryland,24,"Calvert County, MD",24009,Black or African American,Not Hispanic or Latino,152.0,12241.0,1241.7,1063.4
+2020,Maryland,24,"Calvert County, MD",24009,White,Not Hispanic or Latino,664.0,71570.0,927.8,728.2
+2020,Maryland,24,"Caroline County, MD",24011,Black or African American,Not Hispanic or Latino,67.0,4551.0,1472.2,1274.0
+2020,Maryland,24,"Caroline County, MD",24011,White,Not Hispanic or Latino,335.0,25042.0,1337.8,998.6
+2020,Maryland,24,"Carroll County, MD",24013,Asian,Not Hispanic or Latino,10.0,3723.0,Unreliable,Unreliable
+2020,Maryland,24,"Carroll County, MD",24013,Black or African American,Not Hispanic or Latino,58.0,6424.0,902.9,902.0
+2020,Maryland,24,"Carroll County, MD",24013,White,Hispanic or Latino,15.0,5856.0,Unreliable,Unreliable
+2020,Maryland,24,"Carroll County, MD",24013,White,Not Hispanic or Latino,1756.0,148431.0,1183.0,850.8
+2020,Maryland,24,"Cecil County, MD",24015,Black or African American,Not Hispanic or Latino,68.0,7216.0,942.4,1063.9
+2020,Maryland,24,"Cecil County, MD",24015,White,Not Hispanic or Latino,1133.0,86960.0,1302.9,1051.3
+2020,Maryland,24,"Charles County, MD",24017,Asian,Not Hispanic or Latino,27.0,5399.0,500.1,484.9
+2020,Maryland,24,"Charles County, MD",24017,Black or African American,Not Hispanic or Latino,591.0,82289.0,718.2,904.3
+2020,Maryland,24,"Charles County, MD",24017,White,Hispanic or Latino,28.0,7495.0,373.6,873.9
+2020,Maryland,24,"Charles County, MD",24017,White,Not Hispanic or Latino,766.0,58763.0,1303.5,904.4
+2020,Maryland,24,"Charles County, MD",24017,More than one race,Not Hispanic or Latino,11.0,6011.0,Unreliable,Unreliable
+2020,Maryland,24,"Dorchester County, MD",24019,Black or African American,Not Hispanic or Latino,134.0,8963.0,1495.0,1293.1
+2020,Maryland,24,"Dorchester County, MD",24019,White,Not Hispanic or Latino,306.0,19757.0,1548.8,854.9
+2020,Maryland,24,"Frederick County, MD",24021,Asian,Not Hispanic or Latino,38.0,13573.0,280.0,379.4
+2020,Maryland,24,"Frederick County, MD",24021,Black or African American,Not Hispanic or Latino,186.0,27368.0,679.6,922.5
+2020,Maryland,24,"Frederick County, MD",24021,White,Hispanic or Latino,80.0,24422.0,327.6,594.2
+2020,Maryland,24,"Frederick County, MD",24021,White,Not Hispanic or Latino,1906.0,187190.0,1018.2,748.0
+2020,Maryland,24,"Garrett County, MD",24023,White,Not Hispanic or Latino,438.0,27754.0,1578.2,936.5
+2020,Maryland,24,"Harford County, MD",24025,Asian,Not Hispanic or Latino,27.0,7824.0,345.1,345.6
+2020,Maryland,24,"Harford County, MD",24025,Black or African American,Not Hispanic or Latino,311.0,37428.0,830.9,1000.5
+2020,Maryland,24,"Harford County, MD",24025,White,Hispanic or Latino,30.0,9741.0,308.0,525.7
+2020,Maryland,24,"Harford County, MD",24025,White,Not Hispanic or Latino,2200.0,191191.0,1150.7,829.4
+2020,Maryland,24,"Howard County, MD",24027,Asian,Not Hispanic or Latino,190.0,64702.0,293.7,351.9
+2020,Maryland,24,"Howard County, MD",24027,Black or African American,Not Hispanic or Latino,441.0,64983.0,678.6,786.4
+2020,Maryland,24,"Howard County, MD",24027,White,Hispanic or Latino,46.0,18978.0,242.4,429.5
+2020,Maryland,24,"Howard County, MD",24027,White,Not Hispanic or Latino,1383.0,161902.0,854.2,610.4
+2020,Maryland,24,"Kent County, MD",24029,Black or African American,Not Hispanic or Latino,57.0,2703.0,2108.8,1239.9
+2020,Maryland,24,"Kent County, MD",24029,White,Not Hispanic or Latino,264.0,14940.0,1767.1,873.1
+2020,Maryland,24,"Montgomery County, MD",24031,Asian,Not Hispanic or Latino,752.0,164167.0,458.1,375.2
+2020,Maryland,24,"Montgomery County, MD",24031,Black or African American,Hispanic or Latino,16.0,15730.0,Unreliable,Unreliable
+2020,Maryland,24,"Montgomery County, MD",24031,Black or African American,Not Hispanic or Latino,1353.0,198469.0,681.7,720.9
+2020,Maryland,24,"Montgomery County, MD",24031,White,Hispanic or Latino,731.0,177143.0,412.7,544.6
+2020,Maryland,24,"Montgomery County, MD",24031,White,Not Hispanic or Latino,4783.0,446595.0,1071.0,581.2
+2020,Maryland,24,"Montgomery County, MD",24031,More than one race,Not Hispanic or Latino,22.0,29905.0,73.6,109.0
+2020,Maryland,24,"Prince George's County, MD",24033,American Indian or Alaska Native,Not Hispanic or Latino,14.0,2167.0,Unreliable,Unreliable
+2020,Maryland,24,"Prince George's County, MD",24033,Asian,Not Hispanic or Latino,213.0,37852.0,562.7,473.3
+2020,Maryland,24,"Prince George's County, MD",24033,Black or African American,Hispanic or Latino,27.0,25221.0,107.1,179.8
+2020,Maryland,24,"Prince George's County, MD",24033,Black or African American,Not Hispanic or Latino,5823.0,561294.0,1037.4,931.7
+2020,Maryland,24,"Prince George's County, MD",24033,White,Hispanic or Latino,598.0,135423.0,441.6,893.7
+2020,Maryland,24,"Prince George's County, MD",24033,White,Not Hispanic or Latino,1664.0,108891.0,1528.1,882.1
+2020,Maryland,24,"Prince George's County, MD",24033,More than one race,Not Hispanic or Latino,19.0,18651.0,Unreliable,Unreliable
+2020,Maryland,24,"Queen Anne's County, MD",24035,Black or African American,Not Hispanic or Latino,41.0,3066.0,1337.2,912.9
+2020,Maryland,24,"Queen Anne's County, MD",24035,White,Not Hispanic or Latino,411.0,44029.0,933.5,649.6
+2020,Maryland,24,"St. Mary's County, MD",24037,Asian,Not Hispanic or Latino,16.0,3287.0,Unreliable,Unreliable
+2020,Maryland,24,"St. Mary's County, MD",24037,Black or African American,Not Hispanic or Latino,191.0,16658.0,1146.6,1189.6
+2020,Maryland,24,"St. Mary's County, MD",24037,White,Not Hispanic or Latino,784.0,83937.0,934.0,824.8
+2020,Maryland,24,"Somerset County, MD",24039,Black or African American,Not Hispanic or Latino,95.0,10328.0,919.8,1186.5
+2020,Maryland,24,"Somerset County, MD",24039,White,Not Hispanic or Latino,255.0,13135.0,1941.4,1158.3
+2020,Maryland,24,"Talbot County, MD",24041,Black or African American,Not Hispanic or Latino,70.0,4534.0,1543.9,1033.4
+2020,Maryland,24,"Talbot County, MD",24041,White,Not Hispanic or Latino,471.0,28577.0,1648.2,712.0
+2020,Maryland,24,"Washington County, MD",24043,Asian,Not Hispanic or Latino,13.0,2856.0,Unreliable,Unreliable
+2020,Maryland,24,"Washington County, MD",24043,Black or African American,Not Hispanic or Latino,119.0,18480.0,643.9,1099.1
+2020,Maryland,24,"Washington County, MD",24043,White,Hispanic or Latino,16.0,7157.0,Unreliable,Unreliable
+2020,Maryland,24,"Washington County, MD",24043,White,Not Hispanic or Latino,1804.0,115850.0,1557.2,1012.6
+2020,Maryland,24,"Wicomico County, MD",24045,Asian,Not Hispanic or Latino,14.0,3217.0,Unreliable,Unreliable
+2020,Maryland,24,"Wicomico County, MD",24045,Black or African American,Not Hispanic or Latino,291.0,27886.0,1043.5,1122.9
+2020,Maryland,24,"Wicomico County, MD",24045,White,Hispanic or Latino,21.0,4353.0,482.4,869.6
+2020,Maryland,24,"Wicomico County, MD",24045,White,Not Hispanic or Latino,873.0,63962.0,1364.9,976.9
+2020,Maryland,24,"Worcester County, MD",24047,Black or African American,Not Hispanic or Latino,100.0,6540.0,1529.1,1149.3
+2020,Maryland,24,"Worcester County, MD",24047,White,Not Hispanic or Latino,638.0,41863.0,1524.0,737.5
+2020,Maryland,24,"Baltimore city, MD",24510,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1571.0,Unreliable,Unreliable
+2020,Maryland,24,"Baltimore city, MD",24510,Asian,Not Hispanic or Latino,56.0,15709.0,356.5,464.1
+2020,Maryland,24,"Baltimore city, MD",24510,Black or African American,Not Hispanic or Latino,5592.0,361782.0,1545.7,1340.8
+2020,Maryland,24,"Baltimore city, MD",24510,Black or African American,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2020,Maryland,24,"Baltimore city, MD",24510,White,Hispanic or Latino,124.0,24164.0,513.2,964.4
+2020,Maryland,24,"Baltimore city, MD",24510,White,Not Hispanic or Latino,1966.0,161392.0,1218.2,1005.8
+2020,Maryland,24,"Baltimore city, MD",24510,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2020,Maryland,24,"Baltimore city, MD",24510,More than one race,Not Hispanic or Latino,11.0,11594.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Allegany County, MD",24001,Black or African American,Not Hispanic or Latino,26.0,5702.0,456.0,1012.5
+2021 (provisional),Maryland,24,"Allegany County, MD",24001,White,Not Hispanic or Latino,1018.0,60532.0,1681.8,1051.9
+2021 (provisional),Maryland,24,"Anne Arundel County, MD",24003,Asian,Not Hispanic or Latino,99.0,24814.0,399.0,435.1
+2021 (provisional),Maryland,24,"Anne Arundel County, MD",24003,Black or African American,Hispanic or Latino,10.0,4772.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Anne Arundel County, MD",24003,Black or African American,Not Hispanic or Latino,812.0,104719.0,775.4,917.6
+2021 (provisional),Maryland,24,"Anne Arundel County, MD",24003,White,Hispanic or Latino,125.0,40692.0,307.2,621.9
+2021 (provisional),Maryland,24,"Anne Arundel County, MD",24003,White,Not Hispanic or Latino,3915.0,383476.0,1020.9,751.3
+2021 (provisional),Maryland,24,"Anne Arundel County, MD",24003,More than one race,Not Hispanic or Latino,19.0,17673.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Baltimore County, MD",24005,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2197.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Baltimore County, MD",24005,Asian,Not Hispanic or Latino,200.0,52492.0,381.0,444.2
+2021 (provisional),Maryland,24,"Baltimore County, MD",24005,Black or African American,Not Hispanic or Latino,2410.0,248788.0,968.7,1025.8
+2021 (provisional),Maryland,24,"Baltimore County, MD",24005,White,Hispanic or Latino,144.0,37093.0,388.2,609.1
+2021 (provisional),Maryland,24,"Baltimore County, MD",24005,White,Not Hispanic or Latino,6651.0,452743.0,1469.0,839.9
+2021 (provisional),Maryland,24,"Baltimore County, MD",24005,More than one race,Not Hispanic or Latino,14.0,19801.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Calvert County, MD",24009,Black or African American,Not Hispanic or Latino,135.0,12241.0,1102.9,924.5
+2021 (provisional),Maryland,24,"Calvert County, MD",24009,White,Not Hispanic or Latino,715.0,71570.0,999.0,800.9
+2021 (provisional),Maryland,24,"Caroline County, MD",24011,Black or African American,Not Hispanic or Latino,58.0,4551.0,1274.4,1112.9
+2021 (provisional),Maryland,24,"Caroline County, MD",24011,White,Not Hispanic or Latino,373.0,25042.0,1489.5,1093.5
+2021 (provisional),Maryland,24,"Carroll County, MD",24013,Asian,Not Hispanic or Latino,21.0,3723.0,564.1,639.4
+2021 (provisional),Maryland,24,"Carroll County, MD",24013,Black or African American,Not Hispanic or Latino,59.0,6424.0,918.4,943.5
+2021 (provisional),Maryland,24,"Carroll County, MD",24013,White,Not Hispanic or Latino,1794.0,148431.0,1208.6,867.1
+2021 (provisional),Maryland,24,"Cecil County, MD",24015,Black or African American,Not Hispanic or Latino,79.0,7216.0,1094.8,1209.5
+2021 (provisional),Maryland,24,"Cecil County, MD",24015,White,Hispanic or Latino,16.0,3927.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Cecil County, MD",24015,White,Not Hispanic or Latino,1143.0,86960.0,1314.4,1050.5
+2021 (provisional),Maryland,24,"Charles County, MD",24017,Asian,Not Hispanic or Latino,32.0,5399.0,592.7,595.1
+2021 (provisional),Maryland,24,"Charles County, MD",24017,Black or African American,Not Hispanic or Latino,657.0,82289.0,798.4,1011.9
+2021 (provisional),Maryland,24,"Charles County, MD",24017,White,Hispanic or Latino,25.0,7495.0,333.6,826.0
+2021 (provisional),Maryland,24,"Charles County, MD",24017,White,Not Hispanic or Latino,743.0,58763.0,1264.4,854.3
+2021 (provisional),Maryland,24,"Dorchester County, MD",24019,Black or African American,Not Hispanic or Latino,127.0,8963.0,1416.9,1215.9
+2021 (provisional),Maryland,24,"Dorchester County, MD",24019,White,Not Hispanic or Latino,361.0,19757.0,1827.2,1027.8
+2021 (provisional),Maryland,24,"Frederick County, MD",24021,Asian,Not Hispanic or Latino,43.0,13573.0,316.8,454.9
+2021 (provisional),Maryland,24,"Frederick County, MD",24021,Black or African American,Not Hispanic or Latino,195.0,27368.0,712.5,967.6
+2021 (provisional),Maryland,24,"Frederick County, MD",24021,White,Hispanic or Latino,66.0,24422.0,270.2,594.7
+2021 (provisional),Maryland,24,"Frederick County, MD",24021,White,Not Hispanic or Latino,1886.0,187190.0,1007.5,727.3
+2021 (provisional),Maryland,24,"Garrett County, MD",24023,White,Not Hispanic or Latino,393.0,27754.0,1416.0,869.4
+2021 (provisional),Maryland,24,"Harford County, MD",24025,Asian,Not Hispanic or Latino,46.0,7824.0,587.9,581.5
+2021 (provisional),Maryland,24,"Harford County, MD",24025,Black or African American,Not Hispanic or Latino,330.0,37428.0,881.7,1059.2
+2021 (provisional),Maryland,24,"Harford County, MD",24025,White,Hispanic or Latino,43.0,9741.0,441.4,763.9
+2021 (provisional),Maryland,24,"Harford County, MD",24025,White,Not Hispanic or Latino,2163.0,191191.0,1131.3,812.1
+2021 (provisional),Maryland,24,"Howard County, MD",24027,Asian,Not Hispanic or Latino,221.0,64702.0,341.6,402.2
+2021 (provisional),Maryland,24,"Howard County, MD",24027,Black or African American,Not Hispanic or Latino,429.0,64983.0,660.2,761.1
+2021 (provisional),Maryland,24,"Howard County, MD",24027,White,Hispanic or Latino,45.0,18978.0,237.1,478.9
+2021 (provisional),Maryland,24,"Howard County, MD",24027,White,Not Hispanic or Latino,1285.0,161902.0,793.7,568.4
+2021 (provisional),Maryland,24,"Kent County, MD",24029,Black or African American,Not Hispanic or Latino,57.0,2703.0,2108.8,1301.4
+2021 (provisional),Maryland,24,"Kent County, MD",24029,White,Not Hispanic or Latino,251.0,14940.0,1680.1,853.6
+2021 (provisional),Maryland,24,"Montgomery County, MD",24031,Asian,Not Hispanic or Latino,766.0,164167.0,466.6,380.8
+2021 (provisional),Maryland,24,"Montgomery County, MD",24031,Black or African American,Hispanic or Latino,31.0,15730.0,197.1,566.9
+2021 (provisional),Maryland,24,"Montgomery County, MD",24031,Black or African American,Not Hispanic or Latino,1355.0,198469.0,682.7,725.9
+2021 (provisional),Maryland,24,"Montgomery County, MD",24031,White,Hispanic or Latino,623.0,177143.0,351.7,466.0
+2021 (provisional),Maryland,24,"Montgomery County, MD",24031,White,Not Hispanic or Latino,4164.0,446595.0,932.4,518.1
+2021 (provisional),Maryland,24,"Montgomery County, MD",24031,More than one race,Not Hispanic or Latino,33.0,29905.0,110.3,185.1
+2021 (provisional),Maryland,24,"Prince George's County, MD",24033,Asian,Not Hispanic or Latino,203.0,37852.0,536.3,460.0
+2021 (provisional),Maryland,24,"Prince George's County, MD",24033,Black or African American,Hispanic or Latino,38.0,25221.0,150.7,274.4
+2021 (provisional),Maryland,24,"Prince George's County, MD",24033,Black or African American,Not Hispanic or Latino,5338.0,561294.0,951.0,858.9
+2021 (provisional),Maryland,24,"Prince George's County, MD",24033,White,Hispanic or Latino,497.0,135423.0,367.0,691.7
+2021 (provisional),Maryland,24,"Prince George's County, MD",24033,White,Not Hispanic or Latino,1502.0,108891.0,1379.4,783.3
+2021 (provisional),Maryland,24,"Prince George's County, MD",24033,More than one race,Not Hispanic or Latino,17.0,18651.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Queen Anne's County, MD",24035,Black or African American,Not Hispanic or Latino,48.0,3066.0,1565.6,1110.2
+2021 (provisional),Maryland,24,"Queen Anne's County, MD",24035,White,Not Hispanic or Latino,463.0,44029.0,1051.6,729.6
+2021 (provisional),Maryland,24,"St. Mary's County, MD",24037,Asian,Not Hispanic or Latino,12.0,3287.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"St. Mary's County, MD",24037,Black or African American,Not Hispanic or Latino,184.0,16658.0,1104.6,1090.7
+2021 (provisional),Maryland,24,"St. Mary's County, MD",24037,White,Hispanic or Latino,21.0,5174.0,405.9,675.2
+2021 (provisional),Maryland,24,"St. Mary's County, MD",24037,White,Not Hispanic or Latino,826.0,83937.0,984.1,868.9
+2021 (provisional),Maryland,24,"Somerset County, MD",24039,Black or African American,Not Hispanic or Latino,75.0,10328.0,726.2,916.0
+2021 (provisional),Maryland,24,"Somerset County, MD",24039,White,Not Hispanic or Latino,230.0,13135.0,1751.0,1059.6
+2021 (provisional),Maryland,24,"Talbot County, MD",24041,Black or African American,Not Hispanic or Latino,88.0,4534.0,1940.9,1207.1
+2021 (provisional),Maryland,24,"Talbot County, MD",24041,White,Not Hispanic or Latino,459.0,28577.0,1606.2,697.2
+2021 (provisional),Maryland,24,"Washington County, MD",24043,Black or African American,Not Hispanic or Latino,126.0,18480.0,681.8,1059.5
+2021 (provisional),Maryland,24,"Washington County, MD",24043,White,Hispanic or Latino,24.0,7157.0,335.3,625.7
+2021 (provisional),Maryland,24,"Washington County, MD",24043,White,Not Hispanic or Latino,1850.0,115850.0,1596.9,1025.6
+2021 (provisional),Maryland,24,"Wicomico County, MD",24045,Asian,Not Hispanic or Latino,19.0,3217.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Wicomico County, MD",24045,Black or African American,Not Hispanic or Latino,344.0,27886.0,1233.6,1337.8
+2021 (provisional),Maryland,24,"Wicomico County, MD",24045,White,Hispanic or Latino,17.0,4353.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Wicomico County, MD",24045,White,Not Hispanic or Latino,866.0,63962.0,1353.9,964.6
+2021 (provisional),Maryland,24,"Worcester County, MD",24047,Black or African American,Not Hispanic or Latino,85.0,6540.0,1299.7,982.5
+2021 (provisional),Maryland,24,"Worcester County, MD",24047,White,Not Hispanic or Latino,650.0,41863.0,1552.7,788.4
+2021 (provisional),Maryland,24,"Baltimore city, MD",24510,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1571.0,Unreliable,Unreliable
+2021 (provisional),Maryland,24,"Baltimore city, MD",24510,Asian,Not Hispanic or Latino,46.0,15709.0,292.8,404.4
+2021 (provisional),Maryland,24,"Baltimore city, MD",24510,Black or African American,Not Hispanic or Latino,5494.0,361782.0,1518.6,1308.8
+2021 (provisional),Maryland,24,"Baltimore city, MD",24510,White,Hispanic or Latino,107.0,24164.0,442.8,655.0
+2021 (provisional),Maryland,24,"Baltimore city, MD",24510,White,Not Hispanic or Latino,1832.0,161392.0,1135.1,933.7
+2022 (provisional and partial),Maryland,24,"Allegany County, MD",24001,White,Not Hispanic or Latino,162.0,60532.0,267.6,165.5
+2022 (provisional and partial),Maryland,24,"Anne Arundel County, MD",24003,Asian,Not Hispanic or Latino,17.0,24814.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Anne Arundel County, MD",24003,Black or African American,Not Hispanic or Latino,118.0,104719.0,112.7,133.8
+2022 (provisional and partial),Maryland,24,"Anne Arundel County, MD",24003,White,Hispanic or Latino,15.0,40692.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Anne Arundel County, MD",24003,White,Not Hispanic or Latino,599.0,383476.0,156.2,114.0
+2022 (provisional and partial),Maryland,24,"Baltimore County, MD",24005,Asian,Not Hispanic or Latino,36.0,52492.0,68.6,84.1
+2022 (provisional and partial),Maryland,24,"Baltimore County, MD",24005,Black or African American,Not Hispanic or Latino,321.0,248788.0,129.0,138.1
+2022 (provisional and partial),Maryland,24,"Baltimore County, MD",24005,White,Hispanic or Latino,23.0,37093.0,62.0,109.9
+2022 (provisional and partial),Maryland,24,"Baltimore County, MD",24005,White,Not Hispanic or Latino,999.0,452743.0,220.7,124.6
+2022 (provisional and partial),Maryland,24,"Calvert County, MD",24009,Black or African American,Not Hispanic or Latino,16.0,12241.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Calvert County, MD",24009,White,Not Hispanic or Latino,112.0,71570.0,156.5,122.0
+2022 (provisional and partial),Maryland,24,"Caroline County, MD",24011,Black or African American,Not Hispanic or Latino,10.0,4551.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Caroline County, MD",24011,White,Not Hispanic or Latino,68.0,25042.0,271.5,202.1
+2022 (provisional and partial),Maryland,24,"Carroll County, MD",24013,White,Not Hispanic or Latino,274.0,148431.0,184.6,129.2
+2022 (provisional and partial),Maryland,24,"Cecil County, MD",24015,Black or African American,Not Hispanic or Latino,10.0,7216.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Cecil County, MD",24015,White,Not Hispanic or Latino,193.0,86960.0,221.9,173.1
+2022 (provisional and partial),Maryland,24,"Charles County, MD",24017,Black or African American,Not Hispanic or Latino,81.0,82289.0,98.4,136.3
+2022 (provisional and partial),Maryland,24,"Charles County, MD",24017,White,Not Hispanic or Latino,138.0,58763.0,234.8,157.2
+2022 (provisional and partial),Maryland,24,"Dorchester County, MD",24019,Black or African American,Not Hispanic or Latino,19.0,8963.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Dorchester County, MD",24019,White,Not Hispanic or Latino,49.0,19757.0,248.0,135.8
+2022 (provisional and partial),Maryland,24,"Frederick County, MD",24021,Black or African American,Not Hispanic or Latino,22.0,27368.0,80.4,109.4
+2022 (provisional and partial),Maryland,24,"Frederick County, MD",24021,White,Hispanic or Latino,10.0,24422.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Frederick County, MD",24021,White,Not Hispanic or Latino,278.0,187190.0,148.5,108.3
+2022 (provisional and partial),Maryland,24,"Garrett County, MD",24023,White,Not Hispanic or Latino,53.0,27754.0,191.0,109.3
+2022 (provisional and partial),Maryland,24,"Harford County, MD",24025,Black or African American,Not Hispanic or Latino,48.0,37428.0,128.2,161.2
+2022 (provisional and partial),Maryland,24,"Harford County, MD",24025,White,Not Hispanic or Latino,392.0,191191.0,205.0,145.3
+2022 (provisional and partial),Maryland,24,"Howard County, MD",24027,Asian,Not Hispanic or Latino,33.0,64702.0,51.0,63.1
+2022 (provisional and partial),Maryland,24,"Howard County, MD",24027,Black or African American,Not Hispanic or Latino,72.0,64983.0,110.8,135.5
+2022 (provisional and partial),Maryland,24,"Howard County, MD",24027,White,Hispanic or Latino,12.0,18978.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Howard County, MD",24027,White,Not Hispanic or Latino,208.0,161902.0,128.5,93.2
+2022 (provisional and partial),Maryland,24,"Kent County, MD",24029,White,Not Hispanic or Latino,34.0,14940.0,227.6,115.1
+2022 (provisional and partial),Maryland,24,"Montgomery County, MD",24031,Asian,Not Hispanic or Latino,108.0,164167.0,65.8,54.2
+2022 (provisional and partial),Maryland,24,"Montgomery County, MD",24031,Black or African American,Not Hispanic or Latino,164.0,198469.0,82.6,87.3
+2022 (provisional and partial),Maryland,24,"Montgomery County, MD",24031,White,Hispanic or Latino,85.0,177143.0,48.0,62.5
+2022 (provisional and partial),Maryland,24,"Montgomery County, MD",24031,White,Not Hispanic or Latino,624.0,446595.0,139.7,77.5
+2022 (provisional and partial),Maryland,24,"Prince George's County, MD",24033,Asian,Not Hispanic or Latino,36.0,37852.0,95.1,87.3
+2022 (provisional and partial),Maryland,24,"Prince George's County, MD",24033,Black or African American,Not Hispanic or Latino,697.0,561294.0,124.2,113.9
+2022 (provisional and partial),Maryland,24,"Prince George's County, MD",24033,White,Hispanic or Latino,50.0,135423.0,36.9,81.2
+2022 (provisional and partial),Maryland,24,"Prince George's County, MD",24033,White,Not Hispanic or Latino,235.0,108891.0,215.8,121.7
+2022 (provisional and partial),Maryland,24,"Queen Anne's County, MD",24035,White,Not Hispanic or Latino,68.0,44029.0,154.4,112.1
+2022 (provisional and partial),Maryland,24,"St. Mary's County, MD",24037,Black or African American,Not Hispanic or Latino,14.0,16658.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"St. Mary's County, MD",24037,White,Not Hispanic or Latino,110.0,83937.0,131.1,111.1
+2022 (provisional and partial),Maryland,24,"Somerset County, MD",24039,Black or African American,Not Hispanic or Latino,11.0,10328.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Somerset County, MD",24039,White,Not Hispanic or Latino,38.0,13135.0,289.3,151.7
+2022 (provisional and partial),Maryland,24,"Talbot County, MD",24041,White,Not Hispanic or Latino,59.0,28577.0,206.5,77.4
+2022 (provisional and partial),Maryland,24,"Washington County, MD",24043,Black or African American,Not Hispanic or Latino,22.0,18480.0,119.0,210.3
+2022 (provisional and partial),Maryland,24,"Washington County, MD",24043,White,Not Hispanic or Latino,250.0,115850.0,215.8,139.4
+2022 (provisional and partial),Maryland,24,"Wicomico County, MD",24045,Black or African American,Not Hispanic or Latino,39.0,27886.0,139.9,149.0
+2022 (provisional and partial),Maryland,24,"Wicomico County, MD",24045,White,Not Hispanic or Latino,130.0,63962.0,203.2,141.7
+2022 (provisional and partial),Maryland,24,"Worcester County, MD",24047,Black or African American,Not Hispanic or Latino,15.0,6540.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Worcester County, MD",24047,White,Not Hispanic or Latino,98.0,41863.0,234.1,123.8
+2022 (provisional and partial),Maryland,24,"Baltimore city, MD",24510,Black or African American,Not Hispanic or Latino,774.0,361782.0,213.9,183.1
+2022 (provisional and partial),Maryland,24,"Baltimore city, MD",24510,White,Hispanic or Latino,16.0,24164.0,Unreliable,Unreliable
+2022 (provisional and partial),Maryland,24,"Baltimore city, MD",24510,White,Not Hispanic or Latino,273.0,161392.0,169.2,131.6

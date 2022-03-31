@@ -1,0 +1,95 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Indiana,"Allen County, IN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,20.0,375351.0,5.3
+2018,Indiana,"Allen County, IN",Nontransport accidents,Other fall on same level,W18,17.0,375351.0,Unreliable
+2018,Indiana,"Allen County, IN",Nontransport accidents,Unspecified fall,W19,27.0,375351.0,7.2
+2018,Indiana,"Allen County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,44.0,375351.0,11.7
+2018,Indiana,"Allen County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,34.0,375351.0,9.1
+2018,Indiana,"Allen County, IN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,375351.0,Unreliable
+2018,Indiana,"Allen County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,375351.0,5.9
+2018,Indiana,"Allen County, IN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,32.0,375351.0,8.5
+2018,Indiana,"Bartholomew County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,82753.0,Unreliable
+2018,Indiana,"Boone County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,66999.0,Unreliable
+2018,Indiana,"Clark County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,117360.0,Unreliable
+2018,Indiana,"Clark County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28.0,117360.0,23.9
+2018,Indiana,"Clark County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,117360.0,Unreliable
+2018,Indiana,"Delaware County, IN",Nontransport accidents,Unspecified fall,W19,12.0,114772.0,Unreliable
+2018,Indiana,"Delaware County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,114772.0,Unreliable
+2018,Indiana,"Delaware County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,114772.0,20.0
+2018,Indiana,"Delaware County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,114772.0,Unreliable
+2018,Indiana,"Elkhart County, IN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,205560.0,Unreliable
+2018,Indiana,"Elkhart County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,205560.0,Unreliable
+2018,Indiana,"Elkhart County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,205560.0,Unreliable
+2018,Indiana,"Elkhart County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,205560.0,Unreliable
+2018,Indiana,"Fayette County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,23047.0,Unreliable
+2018,Indiana,"Floyd County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,77781.0,Unreliable
+2018,Indiana,"Grant County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,65936.0,Unreliable
+2018,Indiana,"Hamilton County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,330086.0,7.3
+2018,Indiana,"Hamilton County, IN",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,10.0,330086.0,Unreliable
+2018,Indiana,"Hamilton County, IN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,330086.0,Unreliable
+2018,Indiana,"Hamilton County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,330086.0,Unreliable
+2018,Indiana,"Hancock County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,76351.0,Unreliable
+2018,Indiana,"Hendricks County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,167009.0,Unreliable
+2018,Indiana,"Hendricks County, IN",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,11.0,167009.0,Unreliable
+2018,Indiana,"Howard County, IN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,82366.0,Unreliable
+2018,Indiana,"Howard County, IN",Nontransport accidents,Unspecified fall,W19,11.0,82366.0,Unreliable
+2018,Indiana,"Howard County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,82366.0,Unreliable
+2018,Indiana,"Johnson County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,156225.0,Unreliable
+2018,Indiana,"Johnson County, IN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,156225.0,Unreliable
+2018,Indiana,"Johnson County, IN",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,14.0,156225.0,Unreliable
+2018,Indiana,"Lake County, IN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,22.0,484411.0,4.5
+2018,Indiana,"Lake County, IN",Nontransport accidents,Unspecified fall,W19,13.0,484411.0,Unreliable
+2018,Indiana,"Lake County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,484411.0,10.1
+2018,Indiana,"Lake County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,74.0,484411.0,15.3
+2018,Indiana,"Lake County, IN",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,20.0,484411.0,4.1
+2018,Indiana,"Lake County, IN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,484411.0,Unreliable
+2018,Indiana,"Lake County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,36.0,484411.0,7.4
+2018,Indiana,"Lake County, IN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,63.0,484411.0,13.0
+2018,Indiana,"La Porte County, IN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,110007.0,Unreliable
+2018,Indiana,"La Porte County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,110007.0,Unreliable
+2018,Indiana,"Madison County, IN",Nontransport accidents,Unspecified fall,W19,14.0,129641.0,Unreliable
+2018,Indiana,"Madison County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,129641.0,Unreliable
+2018,Indiana,"Madison County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,129641.0,Unreliable
+2018,Indiana,"Madison County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,129641.0,Unreliable
+2018,Indiana,"Marion County, IN",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,17.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,14.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,16.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Nontransport accidents,Other fall on same level,W18,21.0,954670.0,2.2
+2018,Indiana,"Marion County, IN",Nontransport accidents,Unspecified fall,W19,19.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Nontransport accidents,Exposure to excessive natural cold,X31,11.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,19.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,128.0,954670.0,13.4
+2018,Indiana,"Marion County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,166.0,954670.0,17.4
+2018,Indiana,"Marion County, IN",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,15.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,16.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,13.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,41.0,954670.0,4.3
+2018,Indiana,"Marion County, IN",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,73.0,954670.0,7.6
+2018,Indiana,"Marion County, IN",Assault (homicide),Assault by handgun discharge,X93,18.0,954670.0,Unreliable
+2018,Indiana,"Marion County, IN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,124.0,954670.0,13.0
+2018,Indiana,"Marion County, IN",Assault (homicide),Assault by unspecified means,Y09,14.0,954670.0,Unreliable
+2018,Indiana,"Monroe County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,146917.0,Unreliable
+2018,Indiana,"Monroe County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,146917.0,Unreliable
+2018,Indiana,"Morgan County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,70116.0,Unreliable
+2018,Indiana,"Porter County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,169594.0,12.4
+2018,Indiana,"Porter County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,169594.0,Unreliable
+2018,Indiana,"St. Joseph County, IN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,270771.0,Unreliable
+2018,Indiana,"St. Joseph County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33.0,270771.0,12.2
+2018,Indiana,"St. Joseph County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,270771.0,8.1
+2018,Indiana,"St. Joseph County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,270771.0,Unreliable
+2018,Indiana,"St. Joseph County, IN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,270771.0,Unreliable
+2018,Indiana,"Tippecanoe County, IN",Nontransport accidents,Unspecified fall,W19,10.0,193048.0,Unreliable
+2018,Indiana,"Tippecanoe County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,193048.0,10.9
+2018,Indiana,"Tippecanoe County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,193048.0,Unreliable
+2018,Indiana,"Tippecanoe County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,193048.0,Unreliable
+2018,Indiana,"Vanderburgh County, IN",Nontransport accidents,Other fall on same level,W18,15.0,180974.0,Unreliable
+2018,Indiana,"Vanderburgh County, IN",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,180974.0,Unreliable
+2018,Indiana,"Vanderburgh County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,180974.0,13.3
+2018,Indiana,"Vanderburgh County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,23.0,180974.0,12.7
+2018,Indiana,"Vanderburgh County, IN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,14.0,180974.0,Unreliable
+2018,Indiana,"Vigo County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,107386.0,Unreliable
+2018,Indiana,"Wayne County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,65936.0,Unreliable
+2018,Indiana,"Wayne County, IN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29.0,65936.0,44.0
+2018,Indiana,"Wayne County, IN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,65936.0,Unreliable

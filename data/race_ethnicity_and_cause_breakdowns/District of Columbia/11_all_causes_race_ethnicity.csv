@@ -1,0 +1,26 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,District of Columbia,11,"District of Columbia, DC",11001,Asian,Not Hispanic or Latino,63.0,30064.0,209.6,380.3
+2018,District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Hispanic or Latino,16.0,10844.0,Unreliable,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Not Hispanic or Latino,3833.0,315337.0,1215.5,1022.6
+2018,District of Columbia,11,"District of Columbia, DC",11001,White,Hispanic or Latino,150.0,60106.0,249.6,434.2
+2018,District of Columbia,11,"District of Columbia, DC",11001,White,Not Hispanic or Latino,922.0,260268.0,354.3,390.0
+2018,District of Columbia,11,"District of Columbia, DC",11001,More than one race,Not Hispanic or Latino,17.0,15783.0,Unreliable,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Asian,Not Hispanic or Latino,61.0,30541.0,199.7,340.2
+2019,District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Hispanic or Latino,27.0,11194.0,241.2,479.5
+2019,District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Not Hispanic or Latino,3820.0,313290.0,1219.3,1030.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,White,Hispanic or Latino,137.0,60181.0,227.6,403.4
+2019,District of Columbia,11,"District of Columbia, DC",11001,White,Not Hispanic or Latino,874.0,264400.0,330.6,366.3
+2020,District of Columbia,11,"District of Columbia, DC",11001,Asian,Not Hispanic or Latino,62.0,31361.0,197.7,298.8
+2020,District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Hispanic or Latino,38.0,11730.0,324.0,533.5
+2020,District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Not Hispanic or Latino,4812.0,312456.0,1540.1,1278.9
+2020,District of Columbia,11,"District of Columbia, DC",11001,White,Hispanic or Latino,275.0,60695.0,453.1,692.8
+2020,District of Columbia,11,"District of Columbia, DC",11001,White,Not Hispanic or Latino,976.0,269011.0,362.8,389.9
+2020,District of Columbia,11,"District of Columbia, DC",11001,More than one race,Not Hispanic or Latino,20.0,17140.0,116.7,233.1
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Asian,Not Hispanic or Latino,76.0,31361.0,242.3,388.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Hispanic or Latino,28.0,11730.0,238.7,354.3
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Not Hispanic or Latino,4519.0,312456.0,1446.3,1207.6
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,White,Hispanic or Latino,191.0,60695.0,314.7,488.6
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,White,Not Hispanic or Latino,958.0,269011.0,356.1,388.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,More than one race,Not Hispanic or Latino,30.0,17140.0,175.0,331.5
+2022 (provisional and partial),District of Columbia,11,"District of Columbia, DC",11001,Black or African American,Not Hispanic or Latino,70.0,312456.0,22.4,18.9
+2022 (provisional and partial),District of Columbia,11,"District of Columbia, DC",11001,White,Not Hispanic or Latino,29.0,269011.0,10.8,11.9

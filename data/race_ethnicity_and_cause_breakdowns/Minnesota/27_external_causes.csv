@@ -1,0 +1,50 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Minnesota,"Anoka County, MN",Nontransport accidents,Other fall on same level,W18,32.0,353813.0,9.0
+2018,Minnesota,"Anoka County, MN",Nontransport accidents,Unspecified fall,W19,13.0,353813.0,Unreliable
+2018,Minnesota,"Anoka County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,353813.0,Unreliable
+2018,Minnesota,"Anoka County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,353813.0,Unreliable
+2018,Minnesota,"Anoka County, MN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,353813.0,Unreliable
+2018,Minnesota,"Anoka County, MN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,353813.0,Unreliable
+2018,Minnesota,"Crow Wing County, MN",Nontransport accidents,Unspecified fall,W19,12.0,64889.0,Unreliable
+2018,Minnesota,"Dakota County, MN",Nontransport accidents,Other fall on same level,W18,41.0,425423.0,9.6
+2018,Minnesota,"Dakota County, MN",Nontransport accidents,Unspecified fall,W19,34.0,425423.0,8.0
+2018,Minnesota,"Dakota County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,425423.0,Unreliable
+2018,Minnesota,"Dakota County, MN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,425423.0,Unreliable
+2018,Minnesota,"Dakota County, MN",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,425423.0,Unreliable
+2018,Minnesota,"Hennepin County, MN",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,15.0,1259428.0,Unreliable
+2018,Minnesota,"Hennepin County, MN",Nontransport accidents,"Fall on same level from slipping, tripping and stumbling",W01,10.0,1259428.0,Unreliable
+2018,Minnesota,"Hennepin County, MN",Nontransport accidents,Fall involving bed,W06,17.0,1259428.0,Unreliable
+2018,Minnesota,"Hennepin County, MN",Nontransport accidents,Fall involving chair,W07,11.0,1259428.0,Unreliable
+2018,Minnesota,"Hennepin County, MN",Nontransport accidents,Fall on and from stairs and steps,W10,17.0,1259428.0,Unreliable
+2018,Minnesota,"Hennepin County, MN",Nontransport accidents,Other fall on same level,W18,142.0,1259428.0,11.3
+2018,Minnesota,"Hennepin County, MN",Nontransport accidents,Unspecified fall,W19,126.0,1259428.0,10.0
+2018,Minnesota,"Hennepin County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,15.0,1259428.0,Unreliable
+2018,Minnesota,"Hennepin County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,90.0,1259428.0,7.1
+2018,Minnesota,"Hennepin County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,55.0,1259428.0,4.4
+2018,Minnesota,"Hennepin County, MN",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,30.0,1259428.0,2.4
+2018,Minnesota,"Hennepin County, MN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,56.0,1259428.0,4.4
+2018,Minnesota,"Hennepin County, MN",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,27.0,1259428.0,2.1
+2018,Minnesota,"Hennepin County, MN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,1259428.0,1.6
+2018,Minnesota,"Itasca County, MN",Nontransport accidents,Unspecified fall,W19,12.0,45108.0,Unreliable
+2018,Minnesota,"Olmsted County, MN",Nontransport accidents,Other fall on same level,W18,20.0,156277.0,12.8
+2018,Minnesota,"Ramsey County, MN",Nontransport accidents,Other fall on same level,W18,56.0,550210.0,10.2
+2018,Minnesota,"Ramsey County, MN",Nontransport accidents,Unspecified fall,W19,44.0,550210.0,8.0
+2018,Minnesota,"Ramsey County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,17.0,550210.0,Unreliable
+2018,Minnesota,"Ramsey County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,26.0,550210.0,4.7
+2018,Minnesota,"Ramsey County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,27.0,550210.0,4.9
+2018,Minnesota,"Ramsey County, MN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,550210.0,4.0
+2018,Minnesota,"Ramsey County, MN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,25.0,550210.0,4.5
+2018,Minnesota,"Ramsey County, MN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,550210.0,Unreliable
+2018,Minnesota,"St. Louis County, MN",Nontransport accidents,Other fall on same level,W18,27.0,199754.0,13.5
+2018,Minnesota,"St. Louis County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,199754.0,Unreliable
+2018,Minnesota,"St. Louis County, MN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,199754.0,Unreliable
+2018,Minnesota,"St. Louis County, MN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,199754.0,Unreliable
+2018,Minnesota,"Scott County, MN",Nontransport accidents,Other fall on same level,W18,11.0,147381.0,Unreliable
+2018,Minnesota,"Scott County, MN",Nontransport accidents,Unspecified fall,W19,10.0,147381.0,Unreliable
+2018,Minnesota,"Stearns County, MN",Nontransport accidents,Other fall on same level,W18,16.0,159256.0,Unreliable
+2018,Minnesota,"Stearns County, MN",Nontransport accidents,Unspecified fall,W19,10.0,159256.0,Unreliable
+2018,Minnesota,"Stearns County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,159256.0,Unreliable
+2018,Minnesota,"Washington County, MN",Nontransport accidents,Other fall on same level,W18,23.0,259201.0,8.9
+2018,Minnesota,"Washington County, MN",Nontransport accidents,Unspecified fall,W19,14.0,259201.0,Unreliable
+2018,Minnesota,"Washington County, MN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,259201.0,Unreliable
+2018,Minnesota,"Washington County, MN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,259201.0,Unreliable

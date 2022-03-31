@@ -1,0 +1,965 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Oklahoma,40,"Adair County, OK",40001,American Indian or Alaska Native,Not Hispanic or Latino,100.0,9292.0,1076.2,1248.0
+2018,Oklahoma,40,"Adair County, OK",40001,White,Not Hispanic or Latino,148.0,8739.0,1693.6,1025.8
+2018,Oklahoma,40,"Alfalfa County, OK",40003,White,Not Hispanic or Latino,63.0,4813.0,1309.0,799.1
+2018,Oklahoma,40,"Atoka County, OK",40005,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1861.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Atoka County, OK",40005,White,Not Hispanic or Latino,133.0,9818.0,1354.7,825.4
+2018,Oklahoma,40,"Atoka County, OK",40005,More than one race,Not Hispanic or Latino,11.0,1040.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Beaver County, OK",40007,White,Not Hispanic or Latino,51.0,3792.0,1344.9,705.9
+2018,Oklahoma,40,"Beckham County, OK",40009,White,Not Hispanic or Latino,224.0,16319.0,1372.6,1042.4
+2018,Oklahoma,40,"Blaine County, OK",40011,American Indian or Alaska Native,Not Hispanic or Latino,14.0,816.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Blaine County, OK",40011,White,Not Hispanic or Latino,106.0,6825.0,1553.1,995.1
+2018,Oklahoma,40,"Bryan County, OK",40013,American Indian or Alaska Native,Not Hispanic or Latino,51.0,6486.0,786.3,968.3
+2018,Oklahoma,40,"Bryan County, OK",40013,White,Not Hispanic or Latino,431.0,33368.0,1291.7,865.4
+2018,Oklahoma,40,"Caddo County, OK",40015,American Indian or Alaska Native,Not Hispanic or Latino,84.0,6225.0,1349.4,1463.1
+2018,Oklahoma,40,"Caddo County, OK",40015,White,Not Hispanic or Latino,300.0,16538.0,1814.0,1105.3
+2018,Oklahoma,40,"Canadian County, OK",40017,American Indian or Alaska Native,Not Hispanic or Latino,54.0,6414.0,841.9,1334.3
+2018,Oklahoma,40,"Canadian County, OK",40017,Asian,Not Hispanic or Latino,14.0,4540.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Canadian County, OK",40017,Black or African American,Not Hispanic or Latino,12.0,4523.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Canadian County, OK",40017,White,Hispanic or Latino,25.0,11178.0,223.7,555.7
+2018,Oklahoma,40,"Canadian County, OK",40017,White,Not Hispanic or Latino,996.0,109343.0,910.9,812.1
+2018,Oklahoma,40,"Canadian County, OK",40017,More than one race,Not Hispanic or Latino,17.0,6027.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Carter County, OK",40019,American Indian or Alaska Native,Not Hispanic or Latino,35.0,4294.0,815.1,1016.8
+2018,Oklahoma,40,"Carter County, OK",40019,Black or African American,Not Hispanic or Latino,26.0,3166.0,821.2,796.1
+2018,Oklahoma,40,"Carter County, OK",40019,White,Not Hispanic or Latino,500.0,33462.0,1494.2,1004.9
+2018,Oklahoma,40,"Carter County, OK",40019,More than one race,Not Hispanic or Latino,14.0,2971.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Cherokee County, OK",40021,American Indian or Alaska Native,Not Hispanic or Latino,156.0,16664.0,936.1,1111.6
+2018,Oklahoma,40,"Cherokee County, OK",40021,White,Not Hispanic or Latino,354.0,23040.0,1536.5,930.3
+2018,Oklahoma,40,"Cherokee County, OK",40021,More than one race,Not Hispanic or Latino,12.0,4406.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Choctaw County, OK",40023,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2532.0,1026.9,1157.5
+2018,Oklahoma,40,"Choctaw County, OK",40023,Black or African American,Not Hispanic or Latino,17.0,1516.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Choctaw County, OK",40023,White,Not Hispanic or Latino,157.0,8879.0,1768.2,1027.5
+2018,Oklahoma,40,"Cimarron County, OK",40025,White,Not Hispanic or Latino,18.0,1578.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Cleveland County, OK",40027,American Indian or Alaska Native,Not Hispanic or Latino,62.0,13099.0,473.3,651.4
+2018,Oklahoma,40,"Cleveland County, OK",40027,Asian,Not Hispanic or Latino,22.0,13101.0,167.9,313.5
+2018,Oklahoma,40,"Cleveland County, OK",40027,Black or African American,Not Hispanic or Latino,50.0,14301.0,349.6,858.2
+2018,Oklahoma,40,"Cleveland County, OK",40027,White,Hispanic or Latino,59.0,20590.0,286.5,658.7
+2018,Oklahoma,40,"Cleveland County, OK",40027,White,Not Hispanic or Latino,1835.0,200707.0,914.3,767.6
+2018,Oklahoma,40,"Cleveland County, OK",40027,More than one race,Not Hispanic or Latino,39.0,14991.0,260.2,596.8
+2018,Oklahoma,40,"Coal County, OK",40029,White,Not Hispanic or Latino,65.0,3768.0,1725.1,1060.1
+2018,Oklahoma,40,"Comanche County, OK",40031,American Indian or Alaska Native,Not Hispanic or Latino,70.0,6727.0,1040.6,1291.8
+2018,Oklahoma,40,"Comanche County, OK",40031,Asian,Not Hispanic or Latino,23.0,2985.0,770.5,690.6
+2018,Oklahoma,40,"Comanche County, OK",40031,Black or African American,Not Hispanic or Latino,143.0,19726.0,724.9,892.9
+2018,Oklahoma,40,"Comanche County, OK",40031,White,Hispanic or Latino,37.0,11641.0,317.8,543.6
+2018,Oklahoma,40,"Comanche County, OK",40031,White,Not Hispanic or Latino,786.0,67293.0,1168.0,917.6
+2018,Oklahoma,40,"Comanche County, OK",40031,More than one race,Not Hispanic or Latino,11.0,6903.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Cotton County, OK",40033,White,Not Hispanic or Latino,62.0,4387.0,1413.3,996.5
+2018,Oklahoma,40,"Craig County, OK",40035,American Indian or Alaska Native,Not Hispanic or Latino,28.0,2939.0,952.7,960.0
+2018,Oklahoma,40,"Craig County, OK",40035,White,Not Hispanic or Latino,148.0,9049.0,1635.5,962.2
+2018,Oklahoma,40,"Creek County, OK",40037,American Indian or Alaska Native,Not Hispanic or Latino,75.0,7379.0,1016.4,1255.0
+2018,Oklahoma,40,"Creek County, OK",40037,Black or African American,Not Hispanic or Latino,15.0,1548.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Creek County, OK",40037,White,Not Hispanic or Latino,726.0,54180.0,1340.0,929.8
+2018,Oklahoma,40,"Creek County, OK",40037,More than one race,Not Hispanic or Latino,18.0,4859.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Custer County, OK",40039,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1795.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Custer County, OK",40039,White,Hispanic or Latino,14.0,4582.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Custer County, OK",40039,White,Not Hispanic or Latino,268.0,19609.0,1366.7,1037.2
+2018,Oklahoma,40,"Delaware County, OK",40041,American Indian or Alaska Native,Not Hispanic or Latino,87.0,9856.0,882.7,1054.1
+2018,Oklahoma,40,"Delaware County, OK",40041,White,Not Hispanic or Latino,499.0,27265.0,1830.2,909.1
+2018,Oklahoma,40,"Delaware County, OK",40041,More than one race,Not Hispanic or Latino,15.0,3286.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Dewey County, OK",40043,White,Not Hispanic or Latino,56.0,3984.0,1405.6,928.7
+2018,Oklahoma,40,"Ellis County, OK",40045,White,Not Hispanic or Latino,61.0,3422.0,1782.6,1060.2
+2018,Oklahoma,40,"Garfield County, OK",40047,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1414.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Garfield County, OK",40047,Black or African American,Not Hispanic or Latino,18.0,1789.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Garfield County, OK",40047,White,Hispanic or Latino,15.0,6734.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Garfield County, OK",40047,White,Not Hispanic or Latino,599.0,45187.0,1325.6,863.6
+2018,Oklahoma,40,"Garvin County, OK",40049,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2241.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Garvin County, OK",40049,White,Not Hispanic or Latino,359.0,20857.0,1721.2,1164.2
+2018,Oklahoma,40,"Grady County, OK",40051,American Indian or Alaska Native,Not Hispanic or Latino,24.0,3083.0,778.5,904.4
+2018,Oklahoma,40,"Grady County, OK",40051,Black or African American,Not Hispanic or Latino,10.0,1236.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Grady County, OK",40051,White,Not Hispanic or Latino,523.0,45124.0,1159.0,906.1
+2018,Oklahoma,40,"Grant County, OK",40053,White,Not Hispanic or Latino,54.0,3798.0,1421.8,846.8
+2018,Oklahoma,40,"Greer County, OK",40055,White,Not Hispanic or Latino,57.0,4309.0,1322.8,859.3
+2018,Oklahoma,40,"Harmon County, OK",40057,White,Not Hispanic or Latino,35.0,1491.0,2347.4,1566.2
+2018,Oklahoma,40,"Harper County, OK",40059,White,Not Hispanic or Latino,46.0,2736.0,1681.3,1023.7
+2018,Oklahoma,40,"Haskell County, OK",40061,American Indian or Alaska Native,Not Hispanic or Latino,14.0,2127.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Haskell County, OK",40061,White,Not Hispanic or Latino,132.0,8868.0,1488.5,910.6
+2018,Oklahoma,40,"Hughes County, OK",40063,American Indian or Alaska Native,Not Hispanic or Latino,38.0,2519.0,1508.5,1606.4
+2018,Oklahoma,40,"Hughes County, OK",40063,White,Not Hispanic or Latino,132.0,8282.0,1593.8,964.2
+2018,Oklahoma,40,"Jackson County, OK",40065,Black or African American,Not Hispanic or Latino,24.0,1722.0,1393.7,1786.1
+2018,Oklahoma,40,"Jackson County, OK",40065,White,Hispanic or Latino,27.0,5256.0,513.7,951.2
+2018,Oklahoma,40,"Jackson County, OK",40065,White,Not Hispanic or Latino,212.0,15513.0,1366.6,975.8
+2018,Oklahoma,40,"Jefferson County, OK",40067,White,Not Hispanic or Latino,93.0,4738.0,1962.9,1182.0
+2018,Oklahoma,40,"Johnston County, OK",40069,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1587.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Johnston County, OK",40069,White,Not Hispanic or Latino,109.0,7595.0,1435.2,986.9
+2018,Oklahoma,40,"Johnston County, OK",40069,More than one race,Not Hispanic or Latino,11.0,811.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Kay County, OK",40071,American Indian or Alaska Native,Not Hispanic or Latino,39.0,4249.0,917.9,1334.7
+2018,Oklahoma,40,"Kay County, OK",40071,White,Not Hispanic or Latino,545.0,32758.0,1663.7,993.5
+2018,Oklahoma,40,"Kay County, OK",40071,More than one race,Not Hispanic or Latino,10.0,2201.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Kingfisher County, OK",40073,White,Not Hispanic or Latino,146.0,12035.0,1213.1,845.2
+2018,Oklahoma,40,"Kiowa County, OK",40075,American Indian or Alaska Native,Not Hispanic or Latino,10.0,536.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Kiowa County, OK",40075,White,Not Hispanic or Latino,109.0,6466.0,1685.7,1077.7
+2018,Oklahoma,40,"Latimer County, OK",40077,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2226.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Latimer County, OK",40077,White,Not Hispanic or Latino,127.0,6593.0,1926.3,962.9
+2018,Oklahoma,40,"Le Flore County, OK",40079,American Indian or Alaska Native,Not Hispanic or Latino,51.0,6561.0,777.3,913.3
+2018,Oklahoma,40,"Le Flore County, OK",40079,Black or African American,Not Hispanic or Latino,10.0,1009.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Le Flore County, OK",40079,White,Not Hispanic or Latino,571.0,35594.0,1604.2,1102.9
+2018,Oklahoma,40,"Lincoln County, OK",40081,American Indian or Alaska Native,Not Hispanic or Latino,19.0,2403.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Lincoln County, OK",40081,Black or African American,Not Hispanic or Latino,13.0,649.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Lincoln County, OK",40081,White,Not Hispanic or Latino,385.0,28643.0,1344.1,958.5
+2018,Oklahoma,40,"Logan County, OK",40083,Black or African American,Not Hispanic or Latino,24.0,3819.0,628.4,742.5
+2018,Oklahoma,40,"Logan County, OK",40083,White,Not Hispanic or Latino,357.0,36599.0,975.4,765.0
+2018,Oklahoma,40,"Love County, OK",40085,White,Not Hispanic or Latino,105.0,7185.0,1461.4,987.3
+2018,Oklahoma,40,"McClain County, OK",40087,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2562.0,Unreliable,Unreliable
+2018,Oklahoma,40,"McClain County, OK",40087,White,Not Hispanic or Latino,378.0,31508.0,1199.7,980.6
+2018,Oklahoma,40,"McClain County, OK",40087,More than one race,Not Hispanic or Latino,14.0,2054.0,Unreliable,Unreliable
+2018,Oklahoma,40,"McCurtain County, OK",40089,American Indian or Alaska Native,Not Hispanic or Latino,42.0,5060.0,830.0,999.5
+2018,Oklahoma,40,"McCurtain County, OK",40089,Black or African American,Not Hispanic or Latino,40.0,2591.0,1543.8,1540.1
+2018,Oklahoma,40,"McCurtain County, OK",40089,White,Not Hispanic or Latino,296.0,20328.0,1456.1,917.6
+2018,Oklahoma,40,"McIntosh County, OK",40091,American Indian or Alaska Native,Not Hispanic or Latino,35.0,3609.0,969.8,927.2
+2018,Oklahoma,40,"McIntosh County, OK",40091,Black or African American,Not Hispanic or Latino,22.0,577.0,3812.8,2108.2
+2018,Oklahoma,40,"McIntosh County, OK",40091,White,Not Hispanic or Latino,263.0,13412.0,1960.9,994.4
+2018,Oklahoma,40,"McIntosh County, OK",40091,More than one race,Not Hispanic or Latino,12.0,1536.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Major County, OK",40093,White,Not Hispanic or Latino,117.0,6478.0,1806.1,1095.1
+2018,Oklahoma,40,"Marshall County, OK",40095,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1612.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Marshall County, OK",40095,White,Not Hispanic or Latino,169.0,10884.0,1552.7,791.2
+2018,Oklahoma,40,"Mayes County, OK",40097,American Indian or Alaska Native,Not Hispanic or Latino,84.0,8792.0,955.4,1276.5
+2018,Oklahoma,40,"Mayes County, OK",40097,White,Not Hispanic or Latino,371.0,26585.0,1395.5,895.5
+2018,Oklahoma,40,"Mayes County, OK",40097,More than one race,Not Hispanic or Latino,10.0,3769.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Murray County, OK",40099,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1786.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Murray County, OK",40099,White,Not Hispanic or Latino,169.0,9936.0,1700.9,1003.9
+2018,Oklahoma,40,"Muskogee County, OK",40101,American Indian or Alaska Native,Not Hispanic or Latino,111.0,12561.0,883.7,1286.0
+2018,Oklahoma,40,"Muskogee County, OK",40101,Black or African American,Not Hispanic or Latino,110.0,7291.0,1508.7,1296.0
+2018,Oklahoma,40,"Muskogee County, OK",40101,White,Hispanic or Latino,14.0,2888.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Muskogee County, OK",40101,White,Not Hispanic or Latino,634.0,38124.0,1663.0,1059.8
+2018,Oklahoma,40,"Muskogee County, OK",40101,More than one race,Not Hispanic or Latino,24.0,5614.0,427.5,598.6
+2018,Oklahoma,40,"Noble County, OK",40103,American Indian or Alaska Native,Not Hispanic or Latino,11.0,944.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Noble County, OK",40103,White,Not Hispanic or Latino,135.0,9133.0,1478.2,962.7
+2018,Oklahoma,40,"Nowata County, OK",40105,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1907.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Nowata County, OK",40105,White,Not Hispanic or Latino,105.0,6819.0,1539.8,944.0
+2018,Oklahoma,40,"Okfuskee County, OK",40107,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2540.0,1220.5,1273.8
+2018,Oklahoma,40,"Okfuskee County, OK",40107,Black or African American,Not Hispanic or Latino,17.0,868.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Okfuskee County, OK",40107,White,Not Hispanic or Latino,141.0,7410.0,1902.8,1290.4
+2018,Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Hispanic or Latino,10.0,9833.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Not Hispanic or Latino,192.0,24237.0,792.2,891.7
+2018,Oklahoma,40,"Oklahoma County, OK",40109,Asian,Not Hispanic or Latino,100.0,28128.0,355.5,492.2
+2018,Oklahoma,40,"Oklahoma County, OK",40109,Black or African American,Not Hispanic or Latino,1057.0,120940.0,874.0,1037.0
+2018,Oklahoma,40,"Oklahoma County, OK",40109,White,Hispanic or Latino,299.0,118943.0,251.4,567.7
+2018,Oklahoma,40,"Oklahoma County, OK",40109,White,Not Hispanic or Latino,5523.0,441088.0,1252.1,903.5
+2018,Oklahoma,40,"Oklahoma County, OK",40109,More than one race,Not Hispanic or Latino,132.0,36532.0,361.3,755.4
+2018,Oklahoma,40,"Okmulgee County, OK",40111,American Indian or Alaska Native,Not Hispanic or Latino,59.0,6348.0,929.4,1109.6
+2018,Oklahoma,40,"Okmulgee County, OK",40111,Black or African American,Not Hispanic or Latino,58.0,3093.0,1875.2,1238.6
+2018,Oklahoma,40,"Okmulgee County, OK",40111,White,Not Hispanic or Latino,385.0,23818.0,1616.4,1005.0
+2018,Oklahoma,40,"Okmulgee County, OK",40111,More than one race,Not Hispanic or Latino,12.0,3227.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Osage County, OK",40113,American Indian or Alaska Native,Not Hispanic or Latino,54.0,6659.0,810.9,830.9
+2018,Oklahoma,40,"Osage County, OK",40113,Black or African American,Not Hispanic or Latino,24.0,5287.0,453.9,353.6
+2018,Oklahoma,40,"Osage County, OK",40113,White,Not Hispanic or Latino,382.0,29788.0,1282.4,822.2
+2018,Oklahoma,40,"Osage County, OK",40113,More than one race,Not Hispanic or Latino,19.0,3367.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Ottawa County, OK",40115,American Indian or Alaska Native,Not Hispanic or Latino,69.0,5999.0,1150.2,1363.5
+2018,Oklahoma,40,"Ottawa County, OK",40115,White,Not Hispanic or Latino,343.0,20205.0,1697.6,1043.0
+2018,Oklahoma,40,"Pawnee County, OK",40117,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2177.0,918.7,941.0
+2018,Oklahoma,40,"Pawnee County, OK",40117,White,Not Hispanic or Latino,189.0,12527.0,1508.7,1018.8
+2018,Oklahoma,40,"Payne County, OK",40119,American Indian or Alaska Native,Not Hispanic or Latino,21.0,3995.0,525.7,1072.1
+2018,Oklahoma,40,"Payne County, OK",40119,Black or African American,Not Hispanic or Latino,11.0,3057.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Payne County, OK",40119,White,Not Hispanic or Latino,578.0,62846.0,919.7,839.6
+2018,Oklahoma,40,"Payne County, OK",40119,More than one race,Not Hispanic or Latino,11.0,4329.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Pittsburg County, OK",40121,American Indian or Alaska Native,Not Hispanic or Latino,30.0,6292.0,476.8,494.8
+2018,Oklahoma,40,"Pittsburg County, OK",40121,Black or African American,Not Hispanic or Latino,13.0,1399.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Pittsburg County, OK",40121,White,Hispanic or Latino,11.0,1592.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Pittsburg County, OK",40121,White,Not Hispanic or Latino,516.0,30347.0,1700.3,1055.0
+2018,Oklahoma,40,"Pittsburg County, OK",40121,More than one race,Not Hispanic or Latino,53.0,3285.0,1613.4,1906.0
+2018,Oklahoma,40,"Pontotoc County, OK",40123,American Indian or Alaska Native,Not Hispanic or Latino,72.0,7011.0,1027.0,1393.7
+2018,Oklahoma,40,"Pontotoc County, OK",40123,White,Not Hispanic or Latino,386.0,24918.0,1549.1,1003.5
+2018,Oklahoma,40,"Pottawatomie County, OK",40125,American Indian or Alaska Native,Not Hispanic or Latino,87.0,9069.0,959.3,1378.3
+2018,Oklahoma,40,"Pottawatomie County, OK",40125,Black or African American,Not Hispanic or Latino,13.0,2128.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Pottawatomie County, OK",40125,White,Hispanic or Latino,10.0,2441.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Pottawatomie County, OK",40125,White,Not Hispanic or Latino,735.0,52500.0,1400.0,1003.3
+2018,Oklahoma,40,"Pottawatomie County, OK",40125,More than one race,Not Hispanic or Latino,20.0,4695.0,426.0,887.7
+2018,Oklahoma,40,"Pushmataha County, OK",40127,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2054.0,1022.4,836.7
+2018,Oklahoma,40,"Pushmataha County, OK",40127,White,Not Hispanic or Latino,117.0,7838.0,1492.7,853.7
+2018,Oklahoma,40,"Roger Mills County, OK",40129,White,Not Hispanic or Latino,32.0,3051.0,1048.8,644.9
+2018,Oklahoma,40,"Rogers County, OK",40131,American Indian or Alaska Native,Not Hispanic or Latino,60.0,11889.0,504.7,682.3
+2018,Oklahoma,40,"Rogers County, OK",40131,White,Hispanic or Latino,10.0,3403.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Rogers County, OK",40131,White,Not Hispanic or Latino,788.0,65813.0,1197.3,858.7
+2018,Oklahoma,40,"Rogers County, OK",40131,More than one race,Not Hispanic or Latino,69.0,7388.0,933.9,1536.0
+2018,Oklahoma,40,"Seminole County, OK",40133,American Indian or Alaska Native,Not Hispanic or Latino,60.0,4530.0,1324.5,1533.8
+2018,Oklahoma,40,"Seminole County, OK",40133,Black or African American,Not Hispanic or Latino,19.0,1049.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Seminole County, OK",40133,White,Not Hispanic or Latino,276.0,15811.0,1745.6,1109.8
+2018,Oklahoma,40,"Sequoyah County, OK",40135,American Indian or Alaska Native,Not Hispanic or Latino,32.0,8767.0,365.0,361.5
+2018,Oklahoma,40,"Sequoyah County, OK",40135,White,Not Hispanic or Latino,409.0,25767.0,1587.3,1014.4
+2018,Oklahoma,40,"Sequoyah County, OK",40135,More than one race,Not Hispanic or Latino,61.0,3897.0,1565.3,1976.2
+2018,Oklahoma,40,"Stephens County, OK",40137,American Indian or Alaska Native,Not Hispanic or Latino,25.0,2291.0,1091.2,1090.0
+2018,Oklahoma,40,"Stephens County, OK",40137,Black or African American,Not Hispanic or Latino,15.0,832.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Stephens County, OK",40137,White,Hispanic or Latino,13.0,2830.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Stephens County, OK",40137,White,Not Hispanic or Latino,553.0,34476.0,1604.0,1016.3
+2018,Oklahoma,40,"Texas County, OK",40139,Black or African American,Not Hispanic or Latino,13.0,908.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Texas County, OK",40139,White,Hispanic or Latino,28.0,8778.0,319.0,676.9
+2018,Oklahoma,40,"Texas County, OK",40139,White,Not Hispanic or Latino,138.0,9076.0,1520.5,984.2
+2018,Oklahoma,40,"Tillman County, OK",40141,White,Not Hispanic or Latino,81.0,4293.0,1886.8,1052.4
+2018,Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Not Hispanic or Latino,291.0,38732.0,751.3,1050.8
+2018,Oklahoma,40,"Tulsa County, OK",40143,Asian,Not Hispanic or Latino,74.0,21815.0,339.2,557.5
+2018,Oklahoma,40,"Tulsa County, OK",40143,Black or African American,Not Hispanic or Latino,590.0,67213.0,877.8,1125.7
+2018,Oklahoma,40,"Tulsa County, OK",40143,White,Hispanic or Latino,168.0,71227.0,235.9,579.2
+2018,Oklahoma,40,"Tulsa County, OK",40143,White,Not Hispanic or Latino,4817.0,399587.0,1205.5,843.3
+2018,Oklahoma,40,"Tulsa County, OK",40143,More than one race,Not Hispanic or Latino,179.0,35699.0,501.4,947.6
+2018,Oklahoma,40,"Wagoner County, OK",40145,American Indian or Alaska Native,Not Hispanic or Latino,43.0,7971.0,539.5,735.6
+2018,Oklahoma,40,"Wagoner County, OK",40145,Black or African American,Not Hispanic or Latino,16.0,2860.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Wagoner County, OK",40145,White,Not Hispanic or Latino,551.0,57022.0,966.3,722.7
+2018,Oklahoma,40,"Wagoner County, OK",40145,More than one race,Not Hispanic or Latino,26.0,5699.0,456.2,901.6
+2018,Oklahoma,40,"Washington County, OK",40147,American Indian or Alaska Native,Not Hispanic or Latino,38.0,5216.0,728.5,1041.5
+2018,Oklahoma,40,"Washington County, OK",40147,Black or African American,Not Hispanic or Latino,17.0,1275.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Washington County, OK",40147,White,Hispanic or Latino,12.0,2535.0,Unreliable,Unreliable
+2018,Oklahoma,40,"Washington County, OK",40147,White,Not Hispanic or Latino,604.0,37604.0,1606.2,894.7
+2018,Oklahoma,40,"Washington County, OK",40147,More than one race,Not Hispanic or Latino,30.0,3373.0,889.4,1486.7
+2018,Oklahoma,40,"Washita County, OK",40149,White,Not Hispanic or Latino,148.0,9199.0,1608.9,1088.7
+2018,Oklahoma,40,"Woods County, OK",40151,White,Not Hispanic or Latino,103.0,7369.0,1397.7,910.2
+2018,Oklahoma,40,"Woodward County, OK",40153,White,Not Hispanic or Latino,190.0,16068.0,1182.5,884.1
+2019,Oklahoma,40,"Adair County, OK",40001,American Indian or Alaska Native,Not Hispanic or Latino,95.0,9379.0,1012.9,1184.8
+2019,Oklahoma,40,"Adair County, OK",40001,White,Not Hispanic or Latino,134.0,8738.0,1533.5,933.7
+2019,Oklahoma,40,"Alfalfa County, OK",40003,White,Not Hispanic or Latino,58.0,4739.0,1223.9,746.3
+2019,Oklahoma,40,"Atoka County, OK",40005,White,Not Hispanic or Latino,122.0,9662.0,1262.7,787.3
+2019,Oklahoma,40,"Atoka County, OK",40005,More than one race,Not Hispanic or Latino,12.0,1056.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Beaver County, OK",40007,White,Not Hispanic or Latino,62.0,3691.0,1679.8,947.9
+2019,Oklahoma,40,"Beckham County, OK",40009,White,Not Hispanic or Latino,230.0,16393.0,1403.0,1036.6
+2019,Oklahoma,40,"Blaine County, OK",40011,American Indian or Alaska Native,Not Hispanic or Latino,16.0,772.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Blaine County, OK",40011,White,Not Hispanic or Latino,116.0,6730.0,1723.6,1009.5
+2019,Oklahoma,40,"Bryan County, OK",40013,American Indian or Alaska Native,Not Hispanic or Latino,52.0,6668.0,779.8,959.4
+2019,Oklahoma,40,"Bryan County, OK",40013,White,Not Hispanic or Latino,467.0,33694.0,1386.0,955.3
+2019,Oklahoma,40,"Caddo County, OK",40015,American Indian or Alaska Native,Not Hispanic or Latino,80.0,6156.0,1299.5,1367.0
+2019,Oklahoma,40,"Caddo County, OK",40015,Black or African American,Not Hispanic or Latino,15.0,781.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Caddo County, OK",40015,White,Not Hispanic or Latino,283.0,16323.0,1733.7,1070.8
+2019,Oklahoma,40,"Canadian County, OK",40017,American Indian or Alaska Native,Not Hispanic or Latino,47.0,6570.0,715.4,1162.1
+2019,Oklahoma,40,"Canadian County, OK",40017,Asian,Not Hispanic or Latino,21.0,4733.0,443.7,562.7
+2019,Oklahoma,40,"Canadian County, OK",40017,Black or African American,Not Hispanic or Latino,24.0,4863.0,493.5,971.7
+2019,Oklahoma,40,"Canadian County, OK",40017,White,Hispanic or Latino,26.0,12041.0,215.9,460.2
+2019,Oklahoma,40,"Canadian County, OK",40017,White,Not Hispanic or Latino,1011.0,111181.0,909.3,796.5
+2019,Oklahoma,40,"Carter County, OK",40019,American Indian or Alaska Native,Not Hispanic or Latino,52.0,4353.0,1194.6,1752.7
+2019,Oklahoma,40,"Carter County, OK",40019,Black or African American,Not Hispanic or Latino,35.0,3095.0,1130.9,972.6
+2019,Oklahoma,40,"Carter County, OK",40019,White,Not Hispanic or Latino,474.0,33415.0,1418.5,929.0
+2019,Oklahoma,40,"Carter County, OK",40019,More than one race,Not Hispanic or Latino,14.0,2932.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Cherokee County, OK",40021,American Indian or Alaska Native,Not Hispanic or Latino,153.0,16659.0,918.4,1162.1
+2019,Oklahoma,40,"Cherokee County, OK",40021,White,Not Hispanic or Latino,306.0,22941.0,1333.9,807.7
+2019,Oklahoma,40,"Cherokee County, OK",40021,More than one race,Not Hispanic or Latino,21.0,4402.0,477.1,600.0
+2019,Oklahoma,40,"Choctaw County, OK",40023,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2550.0,1019.6,1029.8
+2019,Oklahoma,40,"Choctaw County, OK",40023,Black or African American,Not Hispanic or Latino,31.0,1534.0,2020.9,1491.7
+2019,Oklahoma,40,"Choctaw County, OK",40023,White,Not Hispanic or Latino,138.0,8798.0,1568.5,899.6
+2019,Oklahoma,40,"Cimarron County, OK",40025,White,Not Hispanic or Latino,21.0,1546.0,1358.3,556.8
+2019,Oklahoma,40,"Cleveland County, OK",40027,American Indian or Alaska Native,Not Hispanic or Latino,60.0,13113.0,457.6,564.8
+2019,Oklahoma,40,"Cleveland County, OK",40027,Asian,Not Hispanic or Latino,19.0,13225.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Cleveland County, OK",40027,Black or African American,Not Hispanic or Latino,58.0,14698.0,394.6,818.9
+2019,Oklahoma,40,"Cleveland County, OK",40027,White,Hispanic or Latino,68.0,21387.0,318.0,710.7
+2019,Oklahoma,40,"Cleveland County, OK",40027,White,Not Hispanic or Latino,1927.0,201100.0,958.2,785.5
+2019,Oklahoma,40,"Cleveland County, OK",40027,More than one race,Not Hispanic or Latino,45.0,15395.0,292.3,781.8
+2019,Oklahoma,40,"Coal County, OK",40029,White,Not Hispanic or Latino,83.0,3722.0,2230.0,1200.8
+2019,Oklahoma,40,"Coal County, OK",40029,More than one race,Not Hispanic or Latino,14.0,469.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Comanche County, OK",40031,American Indian or Alaska Native,Not Hispanic or Latino,63.0,6743.0,934.3,1124.6
+2019,Oklahoma,40,"Comanche County, OK",40031,Asian,Not Hispanic or Latino,10.0,3090.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Comanche County, OK",40031,Black or African American,Not Hispanic or Latino,133.0,19400.0,685.6,809.6
+2019,Oklahoma,40,"Comanche County, OK",40031,White,Hispanic or Latino,36.0,11865.0,303.4,572.9
+2019,Oklahoma,40,"Comanche County, OK",40031,White,Not Hispanic or Latino,739.0,67468.0,1095.3,872.5
+2019,Oklahoma,40,"Comanche County, OK",40031,More than one race,Not Hispanic or Latino,19.0,7005.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Cotton County, OK",40033,White,Not Hispanic or Latino,63.0,4289.0,1468.9,941.1
+2019,Oklahoma,40,"Craig County, OK",40035,American Indian or Alaska Native,Not Hispanic or Latino,37.0,2928.0,1263.7,1281.1
+2019,Oklahoma,40,"Craig County, OK",40035,White,Not Hispanic or Latino,164.0,8840.0,1855.2,1079.3
+2019,Oklahoma,40,"Creek County, OK",40037,American Indian or Alaska Native,Not Hispanic or Latino,75.0,7337.0,1022.2,1136.3
+2019,Oklahoma,40,"Creek County, OK",40037,Black or African American,Not Hispanic or Latino,27.0,1561.0,1729.7,1583.7
+2019,Oklahoma,40,"Creek County, OK",40037,White,Hispanic or Latino,12.0,2521.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Creek County, OK",40037,White,Not Hispanic or Latino,763.0,53915.0,1415.2,942.3
+2019,Oklahoma,40,"Creek County, OK",40037,More than one race,Not Hispanic or Latino,20.0,4847.0,412.6,606.7
+2019,Oklahoma,40,"Custer County, OK",40039,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1806.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Custer County, OK",40039,Black or African American,Not Hispanic or Latino,13.0,830.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Custer County, OK",40039,White,Hispanic or Latino,21.0,4541.0,462.5,904.6
+2019,Oklahoma,40,"Custer County, OK",40039,White,Not Hispanic or Latino,269.0,19578.0,1374.0,987.8
+2019,Oklahoma,40,"Delaware County, OK",40041,American Indian or Alaska Native,Not Hispanic or Latino,76.0,9969.0,762.4,1058.2
+2019,Oklahoma,40,"Delaware County, OK",40041,White,Not Hispanic or Latino,457.0,27334.0,1671.9,824.2
+2019,Oklahoma,40,"Delaware County, OK",40041,More than one race,Not Hispanic or Latino,18.0,3288.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Dewey County, OK",40043,White,Not Hispanic or Latino,63.0,3971.0,1586.5,1115.8
+2019,Oklahoma,40,"Ellis County, OK",40045,White,Not Hispanic or Latino,33.0,3333.0,990.1,631.0
+2019,Oklahoma,40,"Garfield County, OK",40047,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1413.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Garfield County, OK",40047,Black or African American,Not Hispanic or Latino,19.0,1792.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Garfield County, OK",40047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,10.0,2301.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Garfield County, OK",40047,White,Hispanic or Latino,19.0,6848.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Garfield County, OK",40047,White,Not Hispanic or Latino,660.0,44613.0,1479.4,971.0
+2019,Oklahoma,40,"Garvin County, OK",40049,American Indian or Alaska Native,Not Hispanic or Latino,23.0,2249.0,1022.7,1271.9
+2019,Oklahoma,40,"Garvin County, OK",40049,White,Not Hispanic or Latino,321.0,20664.0,1553.4,1052.1
+2019,Oklahoma,40,"Grady County, OK",40051,American Indian or Alaska Native,Not Hispanic or Latino,25.0,3123.0,800.5,914.3
+2019,Oklahoma,40,"Grady County, OK",40051,White,Hispanic or Latino,11.0,2619.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Grady County, OK",40051,White,Not Hispanic or Latino,531.0,45286.0,1172.5,891.8
+2019,Oklahoma,40,"Grady County, OK",40051,More than one race,Not Hispanic or Latino,15.0,2527.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Grant County, OK",40053,White,Not Hispanic or Latino,67.0,3765.0,1779.5,1061.8
+2019,Oklahoma,40,"Greer County, OK",40055,White,Not Hispanic or Latino,61.0,4210.0,1448.9,833.5
+2019,Oklahoma,40,"Harmon County, OK",40057,White,Not Hispanic or Latino,22.0,1454.0,1513.1,805.9
+2019,Oklahoma,40,"Harper County, OK",40059,White,Not Hispanic or Latino,37.0,2722.0,1359.3,671.9
+2019,Oklahoma,40,"Haskell County, OK",40061,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2111.0,994.8,1093.4
+2019,Oklahoma,40,"Haskell County, OK",40061,White,Not Hispanic or Latino,156.0,8819.0,1768.9,1100.2
+2019,Oklahoma,40,"Hughes County, OK",40063,American Indian or Alaska Native,Not Hispanic or Latino,35.0,2523.0,1387.2,1576.2
+2019,Oklahoma,40,"Hughes County, OK",40063,White,Not Hispanic or Latino,140.0,8220.0,1703.2,1013.3
+2019,Oklahoma,40,"Jackson County, OK",40065,Black or African American,Not Hispanic or Latino,16.0,1698.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Jackson County, OK",40065,White,Hispanic or Latino,30.0,5253.0,571.1,781.2
+2019,Oklahoma,40,"Jackson County, OK",40065,White,Not Hispanic or Latino,199.0,15073.0,1320.2,913.7
+2019,Oklahoma,40,"Jefferson County, OK",40067,White,Not Hispanic or Latino,65.0,4597.0,1414.0,865.2
+2019,Oklahoma,40,"Johnston County, OK",40069,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1669.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Johnston County, OK",40069,White,Not Hispanic or Latino,121.0,7578.0,1596.7,1082.3
+2019,Oklahoma,40,"Kay County, OK",40071,American Indian or Alaska Native,Not Hispanic or Latino,44.0,4322.0,1018.0,1475.8
+2019,Oklahoma,40,"Kay County, OK",40071,White,Not Hispanic or Latino,534.0,32079.0,1664.6,995.1
+2019,Oklahoma,40,"Kay County, OK",40071,More than one race,Not Hispanic or Latino,12.0,2217.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Kingfisher County, OK",40073,White,Not Hispanic or Latino,164.0,11919.0,1376.0,955.4
+2019,Oklahoma,40,"Kiowa County, OK",40075,White,Not Hispanic or Latino,127.0,6437.0,1973.0,1295.0
+2019,Oklahoma,40,"Latimer County, OK",40077,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2240.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Latimer County, OK",40077,White,Not Hispanic or Latino,107.0,6381.0,1676.9,835.0
+2019,Oklahoma,40,"Le Flore County, OK",40079,American Indian or Alaska Native,Not Hispanic or Latino,50.0,6638.0,753.2,824.2
+2019,Oklahoma,40,"Le Flore County, OK",40079,Black or African American,Not Hispanic or Latino,16.0,966.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Le Flore County, OK",40079,White,Hispanic or Latino,10.0,2884.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Le Flore County, OK",40079,White,Not Hispanic or Latino,555.0,35412.0,1567.3,1036.0
+2019,Oklahoma,40,"Le Flore County, OK",40079,More than one race,Not Hispanic or Latino,13.0,2857.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Lincoln County, OK",40081,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2398.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Lincoln County, OK",40081,Black or African American,Not Hispanic or Latino,11.0,659.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Lincoln County, OK",40081,White,Not Hispanic or Latino,334.0,28573.0,1168.9,822.6
+2019,Oklahoma,40,"Logan County, OK",40083,Black or African American,Not Hispanic or Latino,25.0,3759.0,665.1,746.9
+2019,Oklahoma,40,"Logan County, OK",40083,White,Not Hispanic or Latino,375.0,37139.0,1009.7,754.4
+2019,Oklahoma,40,"Love County, OK",40085,White,Not Hispanic or Latino,98.0,7174.0,1366.0,891.5
+2019,Oklahoma,40,"McClain County, OK",40087,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2607.0,Unreliable,Unreliable
+2019,Oklahoma,40,"McClain County, OK",40087,White,Not Hispanic or Latino,312.0,31818.0,980.6,797.5
+2019,Oklahoma,40,"McClain County, OK",40087,More than one race,Not Hispanic or Latino,18.0,2093.0,Unreliable,Unreliable
+2019,Oklahoma,40,"McCurtain County, OK",40089,American Indian or Alaska Native,Not Hispanic or Latino,63.0,5072.0,1242.1,1345.8
+2019,Oklahoma,40,"McCurtain County, OK",40089,Black or African American,Not Hispanic or Latino,36.0,2604.0,1382.5,1212.1
+2019,Oklahoma,40,"McCurtain County, OK",40089,White,Not Hispanic or Latino,317.0,20133.0,1574.5,994.3
+2019,Oklahoma,40,"McIntosh County, OK",40091,American Indian or Alaska Native,Not Hispanic or Latino,28.0,3560.0,786.5,767.9
+2019,Oklahoma,40,"McIntosh County, OK",40091,Black or African American,Not Hispanic or Latino,20.0,573.0,3490.4,2140.9
+2019,Oklahoma,40,"McIntosh County, OK",40091,White,Not Hispanic or Latino,237.0,13257.0,1787.7,847.6
+2019,Oklahoma,40,"McIntosh County, OK",40091,More than one race,Not Hispanic or Latino,10.0,1513.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Major County, OK",40093,White,Not Hispanic or Latino,83.0,6412.0,1294.4,769.5
+2019,Oklahoma,40,"Marshall County, OK",40095,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1624.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Marshall County, OK",40095,White,Not Hispanic or Latino,176.0,10944.0,1608.2,885.2
+2019,Oklahoma,40,"Mayes County, OK",40097,American Indian or Alaska Native,Not Hispanic or Latino,96.0,8854.0,1084.3,1515.7
+2019,Oklahoma,40,"Mayes County, OK",40097,White,Not Hispanic or Latino,410.0,26446.0,1550.3,993.5
+2019,Oklahoma,40,"Mayes County, OK",40097,More than one race,Not Hispanic or Latino,14.0,3778.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Murray County, OK",40099,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1826.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Murray County, OK",40099,White,Not Hispanic or Latino,189.0,9969.0,1895.9,1108.9
+2019,Oklahoma,40,"Muskogee County, OK",40101,American Indian or Alaska Native,Not Hispanic or Latino,134.0,12537.0,1068.8,1620.2
+2019,Oklahoma,40,"Muskogee County, OK",40101,Black or African American,Not Hispanic or Latino,81.0,7149.0,1133.0,969.9
+2019,Oklahoma,40,"Muskogee County, OK",40101,White,Not Hispanic or Latino,689.0,37713.0,1827.0,1139.7
+2019,Oklahoma,40,"Muskogee County, OK",40101,More than one race,Not Hispanic or Latino,15.0,5648.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Noble County, OK",40103,American Indian or Alaska Native,Not Hispanic or Latino,11.0,953.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Noble County, OK",40103,White,Not Hispanic or Latino,118.0,8923.0,1322.4,840.7
+2019,Oklahoma,40,"Nowata County, OK",40105,White,Not Hispanic or Latino,109.0,6653.0,1638.4,974.4
+2019,Oklahoma,40,"Nowata County, OK",40105,More than one race,Not Hispanic or Latino,10.0,948.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Okfuskee County, OK",40107,American Indian or Alaska Native,Not Hispanic or Latino,36.0,2534.0,1420.7,1722.1
+2019,Oklahoma,40,"Okfuskee County, OK",40107,Black or African American,Not Hispanic or Latino,15.0,843.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Okfuskee County, OK",40107,White,Not Hispanic or Latino,155.0,7320.0,2117.5,1406.4
+2019,Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Hispanic or Latino,17.0,10334.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Not Hispanic or Latino,208.0,24586.0,846.0,948.1
+2019,Oklahoma,40,"Oklahoma County, OK",40109,Asian,Not Hispanic or Latino,112.0,28156.0,397.8,521.4
+2019,Oklahoma,40,"Oklahoma County, OK",40109,Black or African American,Not Hispanic or Latino,1121.0,121580.0,922.0,1063.9
+2019,Oklahoma,40,"Oklahoma County, OK",40109,White,Hispanic or Latino,314.0,120494.0,260.6,561.7
+2019,Oklahoma,40,"Oklahoma County, OK",40109,White,Not Hispanic or Latino,5610.0,442316.0,1268.3,908.7
+2019,Oklahoma,40,"Oklahoma County, OK",40109,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2019,Oklahoma,40,"Oklahoma County, OK",40109,More than one race,Not Hispanic or Latino,122.0,37188.0,328.1,629.1
+2019,Oklahoma,40,"Okmulgee County, OK",40111,American Indian or Alaska Native,Not Hispanic or Latino,54.0,6415.0,841.8,1002.4
+2019,Oklahoma,40,"Okmulgee County, OK",40111,Black or African American,Not Hispanic or Latino,59.0,3064.0,1925.6,1423.2
+2019,Oklahoma,40,"Okmulgee County, OK",40111,White,Not Hispanic or Latino,395.0,23853.0,1656.0,1061.6
+2019,Oklahoma,40,"Osage County, OK",40113,American Indian or Alaska Native,Not Hispanic or Latino,58.0,6750.0,859.3,938.6
+2019,Oklahoma,40,"Osage County, OK",40113,Black or African American,Not Hispanic or Latino,28.0,5270.0,531.3,384.2
+2019,Oklahoma,40,"Osage County, OK",40113,White,Not Hispanic or Latino,387.0,29625.0,1306.3,812.5
+2019,Oklahoma,40,"Osage County, OK",40113,More than one race,Not Hispanic or Latino,20.0,3328.0,601.0,725.1
+2019,Oklahoma,40,"Ottawa County, OK",40115,American Indian or Alaska Native,Not Hispanic or Latino,72.0,6011.0,1197.8,1339.0
+2019,Oklahoma,40,"Ottawa County, OK",40115,White,Not Hispanic or Latino,361.0,20128.0,1793.5,1115.8
+2019,Oklahoma,40,"Pawnee County, OK",40117,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2191.0,958.5,930.1
+2019,Oklahoma,40,"Pawnee County, OK",40117,White,Not Hispanic or Latino,201.0,12447.0,1614.8,1071.9
+2019,Oklahoma,40,"Payne County, OK",40119,American Indian or Alaska Native,Not Hispanic or Latino,17.0,4029.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Payne County, OK",40119,Black or African American,Not Hispanic or Latino,14.0,3018.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Payne County, OK",40119,White,Not Hispanic or Latino,585.0,62655.0,933.7,812.1
+2019,Oklahoma,40,"Pittsburg County, OK",40121,American Indian or Alaska Native,Not Hispanic or Latino,32.0,6288.0,508.9,502.7
+2019,Oklahoma,40,"Pittsburg County, OK",40121,Black or African American,Not Hispanic or Latino,19.0,1335.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Pittsburg County, OK",40121,White,Not Hispanic or Latino,492.0,30204.0,1628.9,1021.2
+2019,Oklahoma,40,"Pittsburg County, OK",40121,More than one race,Not Hispanic or Latino,56.0,3289.0,1702.6,1984.9
+2019,Oklahoma,40,"Pontotoc County, OK",40123,American Indian or Alaska Native,Not Hispanic or Latino,73.0,7053.0,1035.0,1478.4
+2019,Oklahoma,40,"Pontotoc County, OK",40123,Black or African American,Not Hispanic or Latino,11.0,871.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Pontotoc County, OK",40123,White,Not Hispanic or Latino,332.0,24858.0,1335.6,854.0
+2019,Oklahoma,40,"Pottawatomie County, OK",40125,American Indian or Alaska Native,Not Hispanic or Latino,101.0,9152.0,1103.6,1322.9
+2019,Oklahoma,40,"Pottawatomie County, OK",40125,Black or African American,Not Hispanic or Latino,21.0,2147.0,978.1,1153.4
+2019,Oklahoma,40,"Pottawatomie County, OK",40125,White,Hispanic or Latino,16.0,2548.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Pottawatomie County, OK",40125,White,Not Hispanic or Latino,701.0,52180.0,1343.4,947.8
+2019,Oklahoma,40,"Pottawatomie County, OK",40125,More than one race,Not Hispanic or Latino,24.0,4661.0,514.9,937.5
+2019,Oklahoma,40,"Pushmataha County, OK",40127,American Indian or Alaska Native,Not Hispanic or Latino,18.0,2033.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Pushmataha County, OK",40127,White,Not Hispanic or Latino,149.0,7778.0,1915.7,1093.8
+2019,Oklahoma,40,"Roger Mills County, OK",40129,White,Not Hispanic or Latino,37.0,2988.0,1238.3,716.6
+2019,Oklahoma,40,"Rogers County, OK",40131,American Indian or Alaska Native,Not Hispanic or Latino,49.0,12013.0,407.9,529.9
+2019,Oklahoma,40,"Rogers County, OK",40131,White,Hispanic or Latino,13.0,3546.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Rogers County, OK",40131,White,Not Hispanic or Latino,739.0,65861.0,1122.1,773.7
+2019,Oklahoma,40,"Rogers County, OK",40131,More than one race,Not Hispanic or Latino,62.0,7464.0,830.7,1395.3
+2019,Oklahoma,40,"Seminole County, OK",40133,American Indian or Alaska Native,Not Hispanic or Latino,62.0,4518.0,1372.3,1555.9
+2019,Oklahoma,40,"Seminole County, OK",40133,Black or African American,Not Hispanic or Latino,22.0,1015.0,2167.5,1583.0
+2019,Oklahoma,40,"Seminole County, OK",40133,White,Not Hispanic or Latino,256.0,15539.0,1647.5,1073.8
+2019,Oklahoma,40,"Sequoyah County, OK",40135,American Indian or Alaska Native,Not Hispanic or Latino,37.0,8968.0,412.6,394.0
+2019,Oklahoma,40,"Sequoyah County, OK",40135,White,Not Hispanic or Latino,386.0,25878.0,1491.6,970.7
+2019,Oklahoma,40,"Sequoyah County, OK",40135,More than one race,Not Hispanic or Latino,57.0,3906.0,1459.3,1976.9
+2019,Oklahoma,40,"Stephens County, OK",40137,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2324.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Stephens County, OK",40137,Black or African American,Not Hispanic or Latino,17.0,802.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Stephens County, OK",40137,White,Hispanic or Latino,10.0,2873.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Stephens County, OK",40137,White,Not Hispanic or Latino,549.0,34320.0,1599.7,998.8
+2019,Oklahoma,40,"Stephens County, OK",40137,More than one race,Not Hispanic or Latino,12.0,1860.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Texas County, OK",40139,White,Hispanic or Latino,16.0,8755.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Texas County, OK",40139,White,Not Hispanic or Latino,150.0,8683.0,1727.5,1165.1
+2019,Oklahoma,40,"Tillman County, OK",40141,Black or African American,Not Hispanic or Latino,12.0,504.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Tillman County, OK",40141,White,Not Hispanic or Latino,71.0,4194.0,1692.9,870.9
+2019,Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Hispanic or Latino,11.0,5814.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Not Hispanic or Latino,256.0,39064.0,655.3,962.2
+2019,Oklahoma,40,"Tulsa County, OK",40143,Asian,Not Hispanic or Latino,60.0,22829.0,262.8,430.7
+2019,Oklahoma,40,"Tulsa County, OK",40143,Black or African American,Not Hispanic or Latino,637.0,67174.0,948.3,1167.7
+2019,Oklahoma,40,"Tulsa County, OK",40143,White,Hispanic or Latino,143.0,72956.0,196.0,422.9
+2019,Oklahoma,40,"Tulsa County, OK",40143,White,Not Hispanic or Latino,4670.0,398665.0,1171.4,814.6
+2019,Oklahoma,40,"Tulsa County, OK",40143,More than one race,Not Hispanic or Latino,181.0,36325.0,498.3,891.6
+2019,Oklahoma,40,"Wagoner County, OK",40145,American Indian or Alaska Native,Not Hispanic or Latino,45.0,8045.0,559.4,676.1
+2019,Oklahoma,40,"Wagoner County, OK",40145,Black or African American,Not Hispanic or Latino,18.0,2935.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Wagoner County, OK",40145,White,Not Hispanic or Latino,579.0,57579.0,1005.6,732.0
+2019,Oklahoma,40,"Wagoner County, OK",40145,More than one race,Not Hispanic or Latino,21.0,5823.0,360.6,671.1
+2019,Oklahoma,40,"Washington County, OK",40147,American Indian or Alaska Native,Not Hispanic or Latino,39.0,5219.0,747.3,857.2
+2019,Oklahoma,40,"Washington County, OK",40147,Black or African American,Not Hispanic or Latino,14.0,1267.0,Unreliable,Unreliable
+2019,Oklahoma,40,"Washington County, OK",40147,White,Not Hispanic or Latino,549.0,37238.0,1474.3,867.7
+2019,Oklahoma,40,"Washington County, OK",40147,More than one race,Not Hispanic or Latino,24.0,3353.0,715.8,966.7
+2019,Oklahoma,40,"Washita County, OK",40149,White,Not Hispanic or Latino,132.0,9045.0,1459.4,960.7
+2019,Oklahoma,40,"Woods County, OK",40151,White,Not Hispanic or Latino,131.0,7257.0,1805.2,1157.6
+2019,Oklahoma,40,"Woodward County, OK",40153,White,Not Hispanic or Latino,187.0,15993.0,1169.3,834.7
+2020,Oklahoma,40,"Adair County, OK",40001,American Indian or Alaska Native,Not Hispanic or Latino,114.0,9365.0,1217.3,1427.1
+2020,Oklahoma,40,"Adair County, OK",40001,White,Not Hispanic or Latino,157.0,8482.0,1851.0,1066.5
+2020,Oklahoma,40,"Alfalfa County, OK",40003,White,Not Hispanic or Latino,80.0,4737.0,1688.8,947.1
+2020,Oklahoma,40,"Atoka County, OK",40005,White,Not Hispanic or Latino,177.0,9650.0,1834.2,1138.7
+2020,Oklahoma,40,"Atoka County, OK",40005,More than one race,Not Hispanic or Latino,18.0,1090.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Beaver County, OK",40007,White,Not Hispanic or Latino,59.0,3610.0,1634.3,906.6
+2020,Oklahoma,40,"Beckham County, OK",40009,American Indian or Alaska Native,Not Hispanic or Latino,10.0,587.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Beckham County, OK",40009,White,Hispanic or Latino,14.0,2813.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Beckham County, OK",40009,White,Not Hispanic or Latino,268.0,15968.0,1678.4,1194.2
+2020,Oklahoma,40,"Blaine County, OK",40011,American Indian or Alaska Native,Not Hispanic or Latino,14.0,756.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Blaine County, OK",40011,White,Not Hispanic or Latino,135.0,6651.0,2029.8,1211.5
+2020,Oklahoma,40,"Bryan County, OK",40013,American Indian or Alaska Native,Not Hispanic or Latino,59.0,6850.0,861.3,1017.3
+2020,Oklahoma,40,"Bryan County, OK",40013,White,Hispanic or Latino,11.0,2325.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Bryan County, OK",40013,White,Not Hispanic or Latino,544.0,34139.0,1593.5,1078.2
+2020,Oklahoma,40,"Caddo County, OK",40015,American Indian or Alaska Native,Not Hispanic or Latino,122.0,6018.0,2027.3,2137.0
+2020,Oklahoma,40,"Caddo County, OK",40015,White,Hispanic or Latino,14.0,2375.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Caddo County, OK",40015,White,Not Hispanic or Latino,318.0,16206.0,1962.2,1228.2
+2020,Oklahoma,40,"Canadian County, OK",40017,American Indian or Alaska Native,Not Hispanic or Latino,65.0,6613.0,982.9,1529.2
+2020,Oklahoma,40,"Canadian County, OK",40017,Asian,Not Hispanic or Latino,15.0,4986.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Canadian County, OK",40017,Black or African American,Not Hispanic or Latino,20.0,5347.0,374.0,677.6
+2020,Oklahoma,40,"Canadian County, OK",40017,White,Hispanic or Latino,43.0,12949.0,332.1,857.2
+2020,Oklahoma,40,"Canadian County, OK",40017,White,Not Hispanic or Latino,1125.0,113584.0,990.5,849.1
+2020,Oklahoma,40,"Canadian County, OK",40017,More than one race,Not Hispanic or Latino,21.0,6717.0,312.6,692.5
+2020,Oklahoma,40,"Carter County, OK",40019,American Indian or Alaska Native,Not Hispanic or Latino,59.0,4441.0,1328.5,1733.6
+2020,Oklahoma,40,"Carter County, OK",40019,Black or African American,Not Hispanic or Latino,35.0,3057.0,1144.9,1038.0
+2020,Oklahoma,40,"Carter County, OK",40019,White,Hispanic or Latino,14.0,2776.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Carter County, OK",40019,White,Not Hispanic or Latino,577.0,33084.0,1744.0,1139.7
+2020,Oklahoma,40,"Carter County, OK",40019,More than one race,Not Hispanic or Latino,11.0,3122.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Cherokee County, OK",40021,American Indian or Alaska Native,Not Hispanic or Latino,209.0,16952.0,1232.9,1438.0
+2020,Oklahoma,40,"Cherokee County, OK",40021,White,Not Hispanic or Latino,352.0,22633.0,1555.3,877.4
+2020,Oklahoma,40,"Cherokee County, OK",40021,More than one race,Not Hispanic or Latino,31.0,4531.0,684.2,926.1
+2020,Oklahoma,40,"Choctaw County, OK",40023,American Indian or Alaska Native,Not Hispanic or Latino,38.0,2592.0,1466.0,1685.4
+2020,Oklahoma,40,"Choctaw County, OK",40023,Black or African American,Not Hispanic or Latino,35.0,1501.0,2331.8,1869.9
+2020,Oklahoma,40,"Choctaw County, OK",40023,White,Not Hispanic or Latino,190.0,8647.0,2197.3,1275.8
+2020,Oklahoma,40,"Cimarron County, OK",40025,White,Not Hispanic or Latino,21.0,1533.0,1369.9,753.5
+2020,Oklahoma,40,"Cleveland County, OK",40027,American Indian or Alaska Native,Not Hispanic or Latino,104.0,13391.0,776.6,977.7
+2020,Oklahoma,40,"Cleveland County, OK",40027,Asian,Not Hispanic or Latino,33.0,13220.0,249.6,427.4
+2020,Oklahoma,40,"Cleveland County, OK",40027,Black or African American,Not Hispanic or Latino,55.0,14996.0,366.8,694.6
+2020,Oklahoma,40,"Cleveland County, OK",40027,White,Hispanic or Latino,53.0,22267.0,238.0,486.7
+2020,Oklahoma,40,"Cleveland County, OK",40027,White,Not Hispanic or Latino,2133.0,201726.0,1057.4,838.0
+2020,Oklahoma,40,"Cleveland County, OK",40027,More than one race,Not Hispanic or Latino,58.0,16122.0,359.8,915.1
+2020,Oklahoma,40,"Coal County, OK",40029,White,Not Hispanic or Latino,87.0,3693.0,2355.8,1352.9
+2020,Oklahoma,40,"Comanche County, OK",40031,American Indian or Alaska Native,Not Hispanic or Latino,89.0,6704.0,1327.6,1473.5
+2020,Oklahoma,40,"Comanche County, OK",40031,Asian,Not Hispanic or Latino,17.0,2975.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Comanche County, OK",40031,Black or African American,Not Hispanic or Latino,198.0,19472.0,1016.8,1250.9
+2020,Oklahoma,40,"Comanche County, OK",40031,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,10.0,684.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Comanche County, OK",40031,White,Hispanic or Latino,54.0,11878.0,454.6,869.8
+2020,Oklahoma,40,"Comanche County, OK",40031,White,Not Hispanic or Latino,886.0,67069.0,1321.0,1019.7
+2020,Oklahoma,40,"Comanche County, OK",40031,More than one race,Not Hispanic or Latino,11.0,7474.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Cotton County, OK",40033,White,Not Hispanic or Latino,83.0,4263.0,1947.0,1179.7
+2020,Oklahoma,40,"Craig County, OK",40035,American Indian or Alaska Native,Not Hispanic or Latino,42.0,2986.0,1406.6,1485.3
+2020,Oklahoma,40,"Craig County, OK",40035,White,Not Hispanic or Latino,171.0,8806.0,1941.9,1089.1
+2020,Oklahoma,40,"Creek County, OK",40037,American Indian or Alaska Native,Not Hispanic or Latino,79.0,7373.0,1071.5,1220.0
+2020,Oklahoma,40,"Creek County, OK",40037,Black or African American,Not Hispanic or Latino,28.0,1532.0,1827.7,1556.2
+2020,Oklahoma,40,"Creek County, OK",40037,White,Not Hispanic or Latino,832.0,53638.0,1551.1,1021.0
+2020,Oklahoma,40,"Creek County, OK",40037,More than one race,Not Hispanic or Latino,28.0,4979.0,562.4,916.1
+2020,Oklahoma,40,"Custer County, OK",40039,American Indian or Alaska Native,Not Hispanic or Latino,32.0,1825.0,1753.4,2344.2
+2020,Oklahoma,40,"Custer County, OK",40039,Black or African American,Not Hispanic or Latino,17.0,778.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Custer County, OK",40039,White,Hispanic or Latino,18.0,4383.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Custer County, OK",40039,White,Not Hispanic or Latino,327.0,19298.0,1694.5,1191.0
+2020,Oklahoma,40,"Delaware County, OK",40041,American Indian or Alaska Native,Not Hispanic or Latino,140.0,10073.0,1389.9,1518.2
+2020,Oklahoma,40,"Delaware County, OK",40041,White,Not Hispanic or Latino,526.0,27294.0,1927.2,906.9
+2020,Oklahoma,40,"Delaware County, OK",40041,More than one race,Not Hispanic or Latino,25.0,3296.0,758.5,874.9
+2020,Oklahoma,40,"Dewey County, OK",40043,White,Not Hispanic or Latino,70.0,3869.0,1809.3,1158.0
+2020,Oklahoma,40,"Ellis County, OK",40045,White,Not Hispanic or Latino,54.0,3294.0,1639.3,972.0
+2020,Oklahoma,40,"Garfield County, OK",40047,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1437.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Garfield County, OK",40047,Black or African American,Not Hispanic or Latino,23.0,1716.0,1340.3,1411.2
+2020,Oklahoma,40,"Garfield County, OK",40047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,15.0,2530.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Garfield County, OK",40047,White,Hispanic or Latino,22.0,6993.0,314.6,688.8
+2020,Oklahoma,40,"Garfield County, OK",40047,White,Not Hispanic or Latino,757.0,43968.0,1721.7,1121.7
+2020,Oklahoma,40,"Garfield County, OK",40047,More than one race,Not Hispanic or Latino,10.0,2265.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Garvin County, OK",40049,American Indian or Alaska Native,Not Hispanic or Latino,27.0,2356.0,1146.0,1317.6
+2020,Oklahoma,40,"Garvin County, OK",40049,White,Hispanic or Latino,14.0,2258.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Garvin County, OK",40049,White,Not Hispanic or Latino,368.0,20328.0,1810.3,1179.1
+2020,Oklahoma,40,"Grady County, OK",40051,American Indian or Alaska Native,Not Hispanic or Latino,31.0,3185.0,973.3,1222.4
+2020,Oklahoma,40,"Grady County, OK",40051,Black or African American,Not Hispanic or Latino,21.0,1151.0,1824.5,1606.1
+2020,Oklahoma,40,"Grady County, OK",40051,White,Not Hispanic or Latino,639.0,45235.0,1412.6,1041.9
+2020,Oklahoma,40,"Grady County, OK",40051,More than one race,Not Hispanic or Latino,10.0,2550.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Grant County, OK",40053,White,Not Hispanic or Latino,73.0,3794.0,1924.1,1068.0
+2020,Oklahoma,40,"Greer County, OK",40055,White,Not Hispanic or Latino,81.0,4167.0,1943.8,1152.3
+2020,Oklahoma,40,"Harmon County, OK",40057,White,Not Hispanic or Latino,38.0,1392.0,2729.9,1464.5
+2020,Oklahoma,40,"Harper County, OK",40059,White,Not Hispanic or Latino,56.0,2590.0,2162.2,1042.0
+2020,Oklahoma,40,"Haskell County, OK",40061,American Indian or Alaska Native,Not Hispanic or Latino,24.0,2201.0,1090.4,1021.7
+2020,Oklahoma,40,"Haskell County, OK",40061,White,Not Hispanic or Latino,157.0,8737.0,1797.0,1106.1
+2020,Oklahoma,40,"Hughes County, OK",40063,American Indian or Alaska Native,Not Hispanic or Latino,42.0,2513.0,1671.3,1870.7
+2020,Oklahoma,40,"Hughes County, OK",40063,White,Not Hispanic or Latino,174.0,8076.0,2154.5,1249.8
+2020,Oklahoma,40,"Jackson County, OK",40065,Black or African American,Not Hispanic or Latino,19.0,1609.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Jackson County, OK",40065,White,Hispanic or Latino,36.0,5226.0,688.9,1051.9
+2020,Oklahoma,40,"Jackson County, OK",40065,White,Not Hispanic or Latino,261.0,14894.0,1752.4,1191.6
+2020,Oklahoma,40,"Jefferson County, OK",40067,White,Not Hispanic or Latino,92.0,4514.0,2038.1,1266.5
+2020,Oklahoma,40,"Johnston County, OK",40069,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1656.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Johnston County, OK",40069,White,Not Hispanic or Latino,118.0,7332.0,1609.4,951.3
+2020,Oklahoma,40,"Kay County, OK",40071,American Indian or Alaska Native,Not Hispanic or Latino,63.0,4341.0,1451.3,1697.8
+2020,Oklahoma,40,"Kay County, OK",40071,Black or African American,Not Hispanic or Latino,13.0,892.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Kay County, OK",40071,White,Hispanic or Latino,11.0,2669.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Kay County, OK",40071,White,Not Hispanic or Latino,610.0,31551.0,1933.4,1181.6
+2020,Oklahoma,40,"Kingfisher County, OK",40073,White,Not Hispanic or Latino,155.0,11820.0,1311.3,819.1
+2020,Oklahoma,40,"Kiowa County, OK",40075,American Indian or Alaska Native,Not Hispanic or Latino,11.0,558.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Kiowa County, OK",40075,White,Hispanic or Latino,12.0,755.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Kiowa County, OK",40075,White,Not Hispanic or Latino,158.0,6397.0,2469.9,1618.8
+2020,Oklahoma,40,"Latimer County, OK",40077,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2309.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Latimer County, OK",40077,White,Not Hispanic or Latino,107.0,6278.0,1704.4,825.3
+2020,Oklahoma,40,"Le Flore County, OK",40079,American Indian or Alaska Native,Not Hispanic or Latino,64.0,6874.0,931.0,1066.5
+2020,Oklahoma,40,"Le Flore County, OK",40079,Black or African American,Not Hispanic or Latino,15.0,951.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Le Flore County, OK",40079,White,Hispanic or Latino,12.0,2847.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Le Flore County, OK",40079,White,Not Hispanic or Latino,623.0,35129.0,1773.5,1194.9
+2020,Oklahoma,40,"Le Flore County, OK",40079,More than one race,Not Hispanic or Latino,23.0,2878.0,799.2,1137.7
+2020,Oklahoma,40,"Lincoln County, OK",40081,American Indian or Alaska Native,Not Hispanic or Latino,25.0,2413.0,1036.1,1195.3
+2020,Oklahoma,40,"Lincoln County, OK",40081,White,Not Hispanic or Latino,400.0,28689.0,1394.3,922.8
+2020,Oklahoma,40,"Lincoln County, OK",40081,More than one race,Not Hispanic or Latino,11.0,1934.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Logan County, OK",40083,Black or African American,Not Hispanic or Latino,31.0,3753.0,826.0,909.7
+2020,Oklahoma,40,"Logan County, OK",40083,White,Not Hispanic or Latino,388.0,37550.0,1033.3,762.2
+2020,Oklahoma,40,"Love County, OK",40085,White,Not Hispanic or Latino,132.0,7108.0,1857.1,1281.9
+2020,Oklahoma,40,"McClain County, OK",40087,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2672.0,Unreliable,Unreliable
+2020,Oklahoma,40,"McClain County, OK",40087,White,Hispanic or Latino,11.0,2935.0,Unreliable,Unreliable
+2020,Oklahoma,40,"McClain County, OK",40087,White,Not Hispanic or Latino,403.0,32264.0,1249.1,1001.3
+2020,Oklahoma,40,"McCurtain County, OK",40089,American Indian or Alaska Native,Not Hispanic or Latino,86.0,5293.0,1624.8,1770.1
+2020,Oklahoma,40,"McCurtain County, OK",40089,Black or African American,Not Hispanic or Latino,33.0,2569.0,1284.5,1186.7
+2020,Oklahoma,40,"McCurtain County, OK",40089,White,Not Hispanic or Latino,397.0,19746.0,2010.5,1242.9
+2020,Oklahoma,40,"McIntosh County, OK",40091,American Indian or Alaska Native,Not Hispanic or Latino,61.0,3644.0,1674.0,1612.8
+2020,Oklahoma,40,"McIntosh County, OK",40091,Black or African American,Not Hispanic or Latino,12.0,565.0,Unreliable,Unreliable
+2020,Oklahoma,40,"McIntosh County, OK",40091,White,Not Hispanic or Latino,280.0,13206.0,2120.2,1052.7
+2020,Oklahoma,40,"McIntosh County, OK",40091,More than one race,Not Hispanic or Latino,11.0,1522.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Major County, OK",40093,White,Not Hispanic or Latino,120.0,6335.0,1894.2,1162.4
+2020,Oklahoma,40,"Marshall County, OK",40095,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1630.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Marshall County, OK",40095,White,Not Hispanic or Latino,227.0,10925.0,2077.8,1098.7
+2020,Oklahoma,40,"Mayes County, OK",40097,American Indian or Alaska Native,Not Hispanic or Latino,121.0,9046.0,1337.6,1774.3
+2020,Oklahoma,40,"Mayes County, OK",40097,White,Not Hispanic or Latino,409.0,26178.0,1562.4,949.6
+2020,Oklahoma,40,"Murray County, OK",40099,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1903.0,1156.1,1192.6
+2020,Oklahoma,40,"Murray County, OK",40099,White,Not Hispanic or Latino,187.0,9746.0,1918.7,1104.6
+2020,Oklahoma,40,"Muskogee County, OK",40101,American Indian or Alaska Native,Not Hispanic or Latino,173.0,12887.0,1342.4,1921.5
+2020,Oklahoma,40,"Muskogee County, OK",40101,Black or African American,Not Hispanic or Latino,135.0,6944.0,1944.1,1619.5
+2020,Oklahoma,40,"Muskogee County, OK",40101,White,Hispanic or Latino,14.0,2999.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Muskogee County, OK",40101,White,Not Hispanic or Latino,713.0,37027.0,1925.6,1177.9
+2020,Oklahoma,40,"Muskogee County, OK",40101,More than one race,Not Hispanic or Latino,23.0,5573.0,412.7,599.0
+2020,Oklahoma,40,"Noble County, OK",40103,American Indian or Alaska Native,Not Hispanic or Latino,18.0,959.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Noble County, OK",40103,White,Not Hispanic or Latino,129.0,8879.0,1452.9,864.1
+2020,Oklahoma,40,"Nowata County, OK",40105,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1931.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Nowata County, OK",40105,White,Not Hispanic or Latino,108.0,6547.0,1649.6,970.1
+2020,Oklahoma,40,"Okfuskee County, OK",40107,American Indian or Alaska Native,Not Hispanic or Latino,41.0,2494.0,1643.9,1993.8
+2020,Oklahoma,40,"Okfuskee County, OK",40107,Black or African American,Not Hispanic or Latino,10.0,835.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Okfuskee County, OK",40107,White,Not Hispanic or Latino,152.0,7087.0,2144.8,1435.1
+2020,Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Hispanic or Latino,10.0,11504.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Not Hispanic or Latino,271.0,25180.0,1076.3,1148.2
+2020,Oklahoma,40,"Oklahoma County, OK",40109,Asian,Not Hispanic or Latino,136.0,28560.0,476.2,641.9
+2020,Oklahoma,40,"Oklahoma County, OK",40109,Black or African American,Hispanic or Latino,15.0,5350.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Oklahoma County, OK",40109,Black or African American,Not Hispanic or Latino,1421.0,122318.0,1161.7,1309.8
+2020,Oklahoma,40,"Oklahoma County, OK",40109,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,10.0,815.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Oklahoma County, OK",40109,White,Hispanic or Latino,478.0,121608.0,393.1,838.0
+2020,Oklahoma,40,"Oklahoma County, OK",40109,White,Not Hispanic or Latino,6357.0,441901.0,1438.6,1026.5
+2020,Oklahoma,40,"Oklahoma County, OK",40109,White,Not Stated,20.0,Not Applicable,Not Applicable,Not Applicable
+2020,Oklahoma,40,"Oklahoma County, OK",40109,More than one race,Not Hispanic or Latino,137.0,39020.0,351.1,711.7
+2020,Oklahoma,40,"Okmulgee County, OK",40111,American Indian or Alaska Native,Not Hispanic or Latino,120.0,6397.0,1875.9,2179.6
+2020,Oklahoma,40,"Okmulgee County, OK",40111,Black or African American,Not Hispanic or Latino,52.0,2962.0,1755.6,1279.3
+2020,Oklahoma,40,"Okmulgee County, OK",40111,White,Not Hispanic or Latino,432.0,23599.0,1830.6,1130.5
+2020,Oklahoma,40,"Osage County, OK",40113,American Indian or Alaska Native,Not Hispanic or Latino,57.0,6754.0,843.9,822.5
+2020,Oklahoma,40,"Osage County, OK",40113,Black or African American,Not Hispanic or Latino,30.0,5219.0,574.8,430.1
+2020,Oklahoma,40,"Osage County, OK",40113,White,Not Hispanic or Latino,392.0,29288.0,1338.4,793.8
+2020,Oklahoma,40,"Osage County, OK",40113,More than one race,Not Hispanic or Latino,28.0,3296.0,849.5,1041.3
+2020,Oklahoma,40,"Ottawa County, OK",40115,American Indian or Alaska Native,Not Hispanic or Latino,70.0,6121.0,1143.6,1308.5
+2020,Oklahoma,40,"Ottawa County, OK",40115,White,Not Hispanic or Latino,395.0,19673.0,2007.8,1224.4
+2020,Oklahoma,40,"Pawnee County, OK",40117,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2155.0,1206.5,1210.5
+2020,Oklahoma,40,"Pawnee County, OK",40117,White,Not Hispanic or Latino,213.0,12370.0,1721.9,1149.9
+2020,Oklahoma,40,"Payne County, OK",40119,American Indian or Alaska Native,Not Hispanic or Latino,26.0,4106.0,633.2,1036.9
+2020,Oklahoma,40,"Payne County, OK",40119,Black or African American,Not Hispanic or Latino,21.0,2974.0,706.1,1556.3
+2020,Oklahoma,40,"Payne County, OK",40119,White,Not Hispanic or Latino,622.0,62605.0,993.5,873.4
+2020,Oklahoma,40,"Pittsburg County, OK",40121,American Indian or Alaska Native,Not Hispanic or Latino,46.0,6569.0,700.3,703.6
+2020,Oklahoma,40,"Pittsburg County, OK",40121,Black or African American,Not Hispanic or Latino,20.0,1306.0,1531.4,1881.7
+2020,Oklahoma,40,"Pittsburg County, OK",40121,White,Hispanic or Latino,12.0,1554.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Pittsburg County, OK",40121,White,Not Hispanic or Latino,545.0,29800.0,1828.9,1038.9
+2020,Oklahoma,40,"Pittsburg County, OK",40121,More than one race,Not Hispanic or Latino,65.0,3367.0,1930.5,2394.9
+2020,Oklahoma,40,"Pontotoc County, OK",40123,American Indian or Alaska Native,Not Hispanic or Latino,92.0,7378.0,1247.0,1850.6
+2020,Oklahoma,40,"Pontotoc County, OK",40123,White,Not Hispanic or Latino,386.0,24500.0,1575.5,1026.5
+2020,Oklahoma,40,"Pottawatomie County, OK",40125,American Indian or Alaska Native,Not Hispanic or Latino,106.0,9279.0,1142.4,1447.2
+2020,Oklahoma,40,"Pottawatomie County, OK",40125,Black or African American,Not Hispanic or Latino,23.0,2130.0,1079.8,1235.9
+2020,Oklahoma,40,"Pottawatomie County, OK",40125,White,Hispanic or Latino,12.0,2585.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Pottawatomie County, OK",40125,White,Not Hispanic or Latino,841.0,52149.0,1612.7,1102.2
+2020,Oklahoma,40,"Pottawatomie County, OK",40125,More than one race,Not Hispanic or Latino,21.0,4798.0,437.7,868.1
+2020,Oklahoma,40,"Pushmataha County, OK",40127,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2026.0,1283.3,1035.9
+2020,Oklahoma,40,"Pushmataha County, OK",40127,White,Not Hispanic or Latino,162.0,7669.0,2112.4,1264.7
+2020,Oklahoma,40,"Roger Mills County, OK",40129,White,Not Hispanic or Latino,49.0,2954.0,1658.8,947.2
+2020,Oklahoma,40,"Rogers County, OK",40131,American Indian or Alaska Native,Not Hispanic or Latino,82.0,12214.0,671.4,798.3
+2020,Oklahoma,40,"Rogers County, OK",40131,Black or African American,Not Hispanic or Latino,10.0,1035.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Rogers County, OK",40131,White,Hispanic or Latino,16.0,3655.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Rogers County, OK",40131,White,Not Hispanic or Latino,907.0,65925.0,1375.8,927.6
+2020,Oklahoma,40,"Rogers County, OK",40131,More than one race,Not Hispanic or Latino,79.0,7579.0,1042.4,1653.5
+2020,Oklahoma,40,"Seminole County, OK",40133,American Indian or Alaska Native,Not Hispanic or Latino,82.0,4563.0,1797.1,2062.7
+2020,Oklahoma,40,"Seminole County, OK",40133,Black or African American,Not Hispanic or Latino,25.0,963.0,2596.1,1632.1
+2020,Oklahoma,40,"Seminole County, OK",40133,White,Not Hispanic or Latino,306.0,15368.0,1991.2,1265.2
+2020,Oklahoma,40,"Sequoyah County, OK",40135,American Indian or Alaska Native,Not Hispanic or Latino,44.0,9141.0,481.3,456.0
+2020,Oklahoma,40,"Sequoyah County, OK",40135,White,Not Hispanic or Latino,501.0,25491.0,1965.4,1226.9
+2020,Oklahoma,40,"Sequoyah County, OK",40135,More than one race,Not Hispanic or Latino,103.0,3945.0,2610.9,3445.3
+2020,Oklahoma,40,"Stephens County, OK",40137,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2356.0,848.9,1140.8
+2020,Oklahoma,40,"Stephens County, OK",40137,White,Not Hispanic or Latino,582.0,34122.0,1705.6,1043.3
+2020,Oklahoma,40,"Texas County, OK",40139,White,Hispanic or Latino,38.0,8783.0,432.7,1031.4
+2020,Oklahoma,40,"Texas County, OK",40139,White,Not Hispanic or Latino,150.0,8550.0,1754.4,1242.3
+2020,Oklahoma,40,"Tillman County, OK",40141,White,Hispanic or Latino,23.0,1750.0,1314.3,1598.1
+2020,Oklahoma,40,"Tillman County, OK",40141,White,Not Hispanic or Latino,84.0,4157.0,2020.7,1052.6
+2020,Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Hispanic or Latino,12.0,6496.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Not Hispanic or Latino,370.0,40284.0,918.5,1298.1
+2020,Oklahoma,40,"Tulsa County, OK",40143,Asian,Not Hispanic or Latino,81.0,23720.0,341.5,633.0
+2020,Oklahoma,40,"Tulsa County, OK",40143,Black or African American,Not Hispanic or Latino,766.0,67495.0,1134.9,1381.1
+2020,Oklahoma,40,"Tulsa County, OK",40143,White,Hispanic or Latino,228.0,74307.0,306.8,652.4
+2020,Oklahoma,40,"Tulsa County, OK",40143,White,Not Hispanic or Latino,5385.0,397710.0,1354.0,922.6
+2020,Oklahoma,40,"Tulsa County, OK",40143,More than one race,Not Hispanic or Latino,202.0,38042.0,531.0,964.0
+2020,Oklahoma,40,"Wagoner County, OK",40145,American Indian or Alaska Native,Not Hispanic or Latino,60.0,8336.0,719.8,891.3
+2020,Oklahoma,40,"Wagoner County, OK",40145,Black or African American,Not Hispanic or Latino,13.0,2941.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Wagoner County, OK",40145,White,Hispanic or Latino,10.0,4726.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Wagoner County, OK",40145,White,Not Hispanic or Latino,676.0,58256.0,1160.4,823.7
+2020,Oklahoma,40,"Wagoner County, OK",40145,More than one race,Not Hispanic or Latino,15.0,6014.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Washington County, OK",40147,American Indian or Alaska Native,Not Hispanic or Latino,18.0,5497.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Washington County, OK",40147,Black or African American,Not Hispanic or Latino,18.0,1201.0,Unreliable,Unreliable
+2020,Oklahoma,40,"Washington County, OK",40147,White,Not Hispanic or Latino,636.0,37320.0,1704.2,973.1
+2020,Oklahoma,40,"Washington County, OK",40147,More than one race,Not Hispanic or Latino,34.0,3528.0,963.7,1616.5
+2020,Oklahoma,40,"Washita County, OK",40149,White,Not Hispanic or Latino,159.0,8918.0,1782.9,1114.1
+2020,Oklahoma,40,"Woods County, OK",40151,White,Not Hispanic or Latino,108.0,7157.0,1509.0,998.5
+2020,Oklahoma,40,"Woodward County, OK",40153,White,Not Hispanic or Latino,246.0,15539.0,1583.1,1145.1
+2021 (provisional),Oklahoma,40,"Adair County, OK",40001,American Indian or Alaska Native,Not Hispanic or Latino,148.0,9365.0,1580.4,1842.7
+2021 (provisional),Oklahoma,40,"Adair County, OK",40001,White,Not Hispanic or Latino,173.0,8482.0,2039.6,1198.7
+2021 (provisional),Oklahoma,40,"Adair County, OK",40001,More than one race,Not Hispanic or Latino,10.0,2198.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Alfalfa County, OK",40003,White,Not Hispanic or Latino,50.0,4737.0,1055.5,641.8
+2021 (provisional),Oklahoma,40,"Atoka County, OK",40005,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2008.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Atoka County, OK",40005,White,Not Hispanic or Latino,160.0,9650.0,1658.0,1084.8
+2021 (provisional),Oklahoma,40,"Atoka County, OK",40005,More than one race,Not Hispanic or Latino,17.0,1090.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Beaver County, OK",40007,White,Not Hispanic or Latino,53.0,3610.0,1468.1,831.6
+2021 (provisional),Oklahoma,40,"Beckham County, OK",40009,White,Hispanic or Latino,12.0,2813.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Beckham County, OK",40009,White,Not Hispanic or Latino,270.0,15968.0,1690.9,1251.3
+2021 (provisional),Oklahoma,40,"Blaine County, OK",40011,American Indian or Alaska Native,Not Hispanic or Latino,17.0,756.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Blaine County, OK",40011,White,Not Hispanic or Latino,128.0,6651.0,1924.5,1075.9
+2021 (provisional),Oklahoma,40,"Bryan County, OK",40013,American Indian or Alaska Native,Not Hispanic or Latino,107.0,6850.0,1562.0,1937.9
+2021 (provisional),Oklahoma,40,"Bryan County, OK",40013,White,Hispanic or Latino,16.0,2325.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Bryan County, OK",40013,White,Not Hispanic or Latino,579.0,34139.0,1696.0,1124.8
+2021 (provisional),Oklahoma,40,"Caddo County, OK",40015,American Indian or Alaska Native,Not Hispanic or Latino,116.0,6018.0,1927.6,1946.9
+2021 (provisional),Oklahoma,40,"Caddo County, OK",40015,Black or African American,Not Hispanic or Latino,10.0,754.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Caddo County, OK",40015,White,Hispanic or Latino,15.0,2375.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Caddo County, OK",40015,White,Not Hispanic or Latino,284.0,16206.0,1752.4,1085.6
+2021 (provisional),Oklahoma,40,"Canadian County, OK",40017,American Indian or Alaska Native,Not Hispanic or Latino,55.0,6613.0,831.7,1291.8
+2021 (provisional),Oklahoma,40,"Canadian County, OK",40017,Asian,Not Hispanic or Latino,23.0,4986.0,461.3,621.4
+2021 (provisional),Oklahoma,40,"Canadian County, OK",40017,Black or African American,Not Hispanic or Latino,33.0,5347.0,617.2,1096.8
+2021 (provisional),Oklahoma,40,"Canadian County, OK",40017,White,Hispanic or Latino,44.0,12949.0,339.8,766.2
+2021 (provisional),Oklahoma,40,"Canadian County, OK",40017,White,Not Hispanic or Latino,1181.0,113584.0,1039.8,897.1
+2021 (provisional),Oklahoma,40,"Canadian County, OK",40017,More than one race,Not Hispanic or Latino,19.0,6717.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Carter County, OK",40019,American Indian or Alaska Native,Not Hispanic or Latino,74.0,4441.0,1666.3,2114.7
+2021 (provisional),Oklahoma,40,"Carter County, OK",40019,Black or African American,Not Hispanic or Latino,59.0,3057.0,1930.0,1779.4
+2021 (provisional),Oklahoma,40,"Carter County, OK",40019,White,Hispanic or Latino,20.0,2776.0,720.5,1300.3
+2021 (provisional),Oklahoma,40,"Carter County, OK",40019,White,Not Hispanic or Latino,639.0,33084.0,1931.4,1282.1
+2021 (provisional),Oklahoma,40,"Carter County, OK",40019,More than one race,Not Hispanic or Latino,14.0,3122.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Cherokee County, OK",40021,American Indian or Alaska Native,Not Hispanic or Latino,207.0,16952.0,1221.1,1414.0
+2021 (provisional),Oklahoma,40,"Cherokee County, OK",40021,White,Hispanic or Latino,11.0,2139.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Cherokee County, OK",40021,White,Not Hispanic or Latino,382.0,22633.0,1687.8,999.5
+2021 (provisional),Oklahoma,40,"Cherokee County, OK",40021,More than one race,Not Hispanic or Latino,25.0,4531.0,551.8,737.3
+2021 (provisional),Oklahoma,40,"Choctaw County, OK",40023,American Indian or Alaska Native,Not Hispanic or Latino,41.0,2592.0,1581.8,1833.7
+2021 (provisional),Oklahoma,40,"Choctaw County, OK",40023,Black or African American,Not Hispanic or Latino,38.0,1501.0,2531.6,1910.7
+2021 (provisional),Oklahoma,40,"Choctaw County, OK",40023,White,Not Hispanic or Latino,209.0,8647.0,2417.0,1419.7
+2021 (provisional),Oklahoma,40,"Cimarron County, OK",40025,White,Not Hispanic or Latino,31.0,1533.0,2022.2,1033.7
+2021 (provisional),Oklahoma,40,"Cleveland County, OK",40027,American Indian or Alaska Native,Not Hispanic or Latino,96.0,13391.0,716.9,963.9
+2021 (provisional),Oklahoma,40,"Cleveland County, OK",40027,Asian,Not Hispanic or Latino,51.0,13220.0,385.8,597.9
+2021 (provisional),Oklahoma,40,"Cleveland County, OK",40027,Black or African American,Not Hispanic or Latino,89.0,14996.0,593.5,1178.3
+2021 (provisional),Oklahoma,40,"Cleveland County, OK",40027,White,Hispanic or Latino,72.0,22267.0,323.3,649.1
+2021 (provisional),Oklahoma,40,"Cleveland County, OK",40027,White,Not Hispanic or Latino,2192.0,201726.0,1086.6,861.7
+2021 (provisional),Oklahoma,40,"Cleveland County, OK",40027,More than one race,Not Hispanic or Latino,50.0,16122.0,310.1,764.5
+2021 (provisional),Oklahoma,40,"Coal County, OK",40029,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1060.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Coal County, OK",40029,White,Not Hispanic or Latino,69.0,3693.0,1868.4,1013.8
+2021 (provisional),Oklahoma,40,"Comanche County, OK",40031,American Indian or Alaska Native,Not Hispanic or Latino,110.0,6704.0,1640.8,1839.4
+2021 (provisional),Oklahoma,40,"Comanche County, OK",40031,Asian,Not Hispanic or Latino,20.0,2975.0,672.3,509.3
+2021 (provisional),Oklahoma,40,"Comanche County, OK",40031,Black or African American,Not Hispanic or Latino,228.0,19472.0,1170.9,1367.2
+2021 (provisional),Oklahoma,40,"Comanche County, OK",40031,White,Hispanic or Latino,65.0,11878.0,547.2,1015.0
+2021 (provisional),Oklahoma,40,"Comanche County, OK",40031,White,Not Hispanic or Latino,957.0,67069.0,1426.9,1112.0
+2021 (provisional),Oklahoma,40,"Comanche County, OK",40031,More than one race,Not Hispanic or Latino,30.0,7474.0,401.4,817.3
+2021 (provisional),Oklahoma,40,"Cotton County, OK",40033,American Indian or Alaska Native,Not Hispanic or Latino,11.0,466.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Cotton County, OK",40033,White,Not Hispanic or Latino,84.0,4263.0,1970.4,1191.0
+2021 (provisional),Oklahoma,40,"Craig County, OK",40035,American Indian or Alaska Native,Not Hispanic or Latino,42.0,2986.0,1406.6,1447.7
+2021 (provisional),Oklahoma,40,"Craig County, OK",40035,White,Not Hispanic or Latino,175.0,8806.0,1987.3,1130.2
+2021 (provisional),Oklahoma,40,"Creek County, OK",40037,American Indian or Alaska Native,Not Hispanic or Latino,107.0,7373.0,1451.2,1599.3
+2021 (provisional),Oklahoma,40,"Creek County, OK",40037,Black or African American,Not Hispanic or Latino,33.0,1532.0,2154.0,1819.6
+2021 (provisional),Oklahoma,40,"Creek County, OK",40037,White,Hispanic or Latino,10.0,2605.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Creek County, OK",40037,White,Not Hispanic or Latino,897.0,53638.0,1672.3,1114.2
+2021 (provisional),Oklahoma,40,"Creek County, OK",40037,More than one race,Not Hispanic or Latino,19.0,4979.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Custer County, OK",40039,American Indian or Alaska Native,Not Hispanic or Latino,50.0,1825.0,2739.7,3593.8
+2021 (provisional),Oklahoma,40,"Custer County, OK",40039,Black or African American,Not Hispanic or Latino,13.0,778.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Custer County, OK",40039,White,Hispanic or Latino,14.0,4383.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Custer County, OK",40039,White,Not Hispanic or Latino,248.0,19298.0,1285.1,925.7
+2021 (provisional),Oklahoma,40,"Delaware County, OK",40041,American Indian or Alaska Native,Not Hispanic or Latino,135.0,10073.0,1340.2,1579.6
+2021 (provisional),Oklahoma,40,"Delaware County, OK",40041,White,Not Hispanic or Latino,577.0,27294.0,2114.0,1050.2
+2021 (provisional),Oklahoma,40,"Delaware County, OK",40041,More than one race,Not Hispanic or Latino,27.0,3296.0,819.2,839.6
+2021 (provisional),Oklahoma,40,"Dewey County, OK",40043,White,Not Hispanic or Latino,82.0,3869.0,2119.4,1330.3
+2021 (provisional),Oklahoma,40,"Ellis County, OK",40045,White,Not Hispanic or Latino,48.0,3294.0,1457.2,843.3
+2021 (provisional),Oklahoma,40,"Garfield County, OK",40047,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1437.0,1531.0,2045.3
+2021 (provisional),Oklahoma,40,"Garfield County, OK",40047,Black or African American,Not Hispanic or Latino,25.0,1716.0,1456.9,1684.6
+2021 (provisional),Oklahoma,40,"Garfield County, OK",40047,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,13.0,2530.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Garfield County, OK",40047,White,Hispanic or Latino,22.0,6993.0,314.6,939.3
+2021 (provisional),Oklahoma,40,"Garfield County, OK",40047,White,Not Hispanic or Latino,764.0,43968.0,1737.6,1134.4
+2021 (provisional),Oklahoma,40,"Garfield County, OK",40047,More than one race,Not Hispanic or Latino,12.0,2265.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Garvin County, OK",40049,American Indian or Alaska Native,Not Hispanic or Latino,35.0,2356.0,1485.6,1795.1
+2021 (provisional),Oklahoma,40,"Garvin County, OK",40049,Black or African American,Not Hispanic or Latino,11.0,587.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Garvin County, OK",40049,White,Hispanic or Latino,15.0,2258.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Garvin County, OK",40049,White,Not Hispanic or Latino,386.0,20328.0,1898.9,1237.5
+2021 (provisional),Oklahoma,40,"Grady County, OK",40051,American Indian or Alaska Native,Not Hispanic or Latino,33.0,3185.0,1036.1,1185.3
+2021 (provisional),Oklahoma,40,"Grady County, OK",40051,Black or African American,Not Hispanic or Latino,16.0,1151.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Grady County, OK",40051,White,Not Hispanic or Latino,667.0,45235.0,1474.5,1092.5
+2021 (provisional),Oklahoma,40,"Grady County, OK",40051,More than one race,Not Hispanic or Latino,15.0,2550.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Grant County, OK",40053,White,Not Hispanic or Latino,66.0,3794.0,1739.6,1032.8
+2021 (provisional),Oklahoma,40,"Greer County, OK",40055,White,Not Hispanic or Latino,86.0,4167.0,2063.8,1254.4
+2021 (provisional),Oklahoma,40,"Harmon County, OK",40057,White,Not Hispanic or Latino,33.0,1392.0,2370.7,1182.3
+2021 (provisional),Oklahoma,40,"Harper County, OK",40059,White,Not Hispanic or Latino,36.0,2590.0,1390.0,709.9
+2021 (provisional),Oklahoma,40,"Haskell County, OK",40061,White,Not Hispanic or Latino,176.0,8737.0,2014.4,1273.8
+2021 (provisional),Oklahoma,40,"Haskell County, OK",40061,More than one race,Not Hispanic or Latino,11.0,904.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Hughes County, OK",40063,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2513.0,1233.6,1227.9
+2021 (provisional),Oklahoma,40,"Hughes County, OK",40063,White,Not Hispanic or Latino,178.0,8076.0,2204.1,1351.2
+2021 (provisional),Oklahoma,40,"Jackson County, OK",40065,Black or African American,Not Hispanic or Latino,15.0,1609.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Jackson County, OK",40065,White,Hispanic or Latino,36.0,5226.0,688.9,1015.3
+2021 (provisional),Oklahoma,40,"Jackson County, OK",40065,White,Not Hispanic or Latino,224.0,14894.0,1504.0,1073.2
+2021 (provisional),Oklahoma,40,"Jefferson County, OK",40067,White,Not Hispanic or Latino,91.0,4514.0,2016.0,1295.0
+2021 (provisional),Oklahoma,40,"Johnston County, OK",40069,American Indian or Alaska Native,Not Hispanic or Latino,27.0,1656.0,1630.4,1668.4
+2021 (provisional),Oklahoma,40,"Johnston County, OK",40069,White,Not Hispanic or Latino,142.0,7332.0,1936.7,1203.8
+2021 (provisional),Oklahoma,40,"Kay County, OK",40071,American Indian or Alaska Native,Not Hispanic or Latino,53.0,4341.0,1220.9,1541.7
+2021 (provisional),Oklahoma,40,"Kay County, OK",40071,Black or African American,Not Hispanic or Latino,17.0,892.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Kay County, OK",40071,White,Hispanic or Latino,14.0,2669.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Kay County, OK",40071,White,Not Hispanic or Latino,582.0,31551.0,1844.6,1118.4
+2021 (provisional),Oklahoma,40,"Kay County, OK",40071,More than one race,Not Hispanic or Latino,11.0,2299.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Kingfisher County, OK",40073,White,Not Hispanic or Latino,147.0,11820.0,1243.7,836.1
+2021 (provisional),Oklahoma,40,"Kiowa County, OK",40075,American Indian or Alaska Native,Not Hispanic or Latino,11.0,558.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Kiowa County, OK",40075,White,Not Hispanic or Latino,114.0,6397.0,1782.1,1140.9
+2021 (provisional),Oklahoma,40,"Latimer County, OK",40077,American Indian or Alaska Native,Not Hispanic or Latino,25.0,2309.0,1082.7,1086.6
+2021 (provisional),Oklahoma,40,"Latimer County, OK",40077,White,Not Hispanic or Latino,129.0,6278.0,2054.8,1138.9
+2021 (provisional),Oklahoma,40,"Latimer County, OK",40077,More than one race,Not Hispanic or Latino,12.0,864.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Le Flore County, OK",40079,American Indian or Alaska Native,Not Hispanic or Latino,64.0,6874.0,931.0,1030.2
+2021 (provisional),Oklahoma,40,"Le Flore County, OK",40079,Black or African American,Not Hispanic or Latino,15.0,951.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Le Flore County, OK",40079,White,Not Hispanic or Latino,688.0,35129.0,1958.5,1310.7
+2021 (provisional),Oklahoma,40,"Le Flore County, OK",40079,More than one race,Not Hispanic or Latino,20.0,2878.0,694.9,857.9
+2021 (provisional),Oklahoma,40,"Lincoln County, OK",40081,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2413.0,1284.7,1380.6
+2021 (provisional),Oklahoma,40,"Lincoln County, OK",40081,White,Not Hispanic or Latino,432.0,28689.0,1505.8,1010.8
+2021 (provisional),Oklahoma,40,"Logan County, OK",40083,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1622.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Logan County, OK",40083,Black or African American,Not Hispanic or Latino,34.0,3753.0,905.9,1121.8
+2021 (provisional),Oklahoma,40,"Logan County, OK",40083,White,Not Hispanic or Latino,446.0,37550.0,1187.7,878.5
+2021 (provisional),Oklahoma,40,"Love County, OK",40085,White,Not Hispanic or Latino,133.0,7108.0,1871.1,1171.5
+2021 (provisional),Oklahoma,40,"McClain County, OK",40087,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2672.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"McClain County, OK",40087,White,Hispanic or Latino,11.0,2935.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"McClain County, OK",40087,White,Not Hispanic or Latino,387.0,32264.0,1199.5,942.9
+2021 (provisional),Oklahoma,40,"McClain County, OK",40087,More than one race,Not Hispanic or Latino,18.0,2202.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"McCurtain County, OK",40089,American Indian or Alaska Native,Not Hispanic or Latino,103.0,5293.0,1946.0,2158.3
+2021 (provisional),Oklahoma,40,"McCurtain County, OK",40089,Black or African American,Not Hispanic or Latino,53.0,2569.0,2063.1,1915.7
+2021 (provisional),Oklahoma,40,"McCurtain County, OK",40089,White,Not Hispanic or Latino,425.0,19746.0,2152.3,1388.5
+2021 (provisional),Oklahoma,40,"McIntosh County, OK",40091,American Indian or Alaska Native,Not Hispanic or Latino,64.0,3644.0,1756.3,1833.3
+2021 (provisional),Oklahoma,40,"McIntosh County, OK",40091,Black or African American,Not Hispanic or Latino,11.0,565.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"McIntosh County, OK",40091,White,Not Hispanic or Latino,327.0,13206.0,2476.1,1295.9
+2021 (provisional),Oklahoma,40,"McIntosh County, OK",40091,More than one race,Not Hispanic or Latino,11.0,1522.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Major County, OK",40093,White,Not Hispanic or Latino,114.0,6335.0,1799.5,1101.7
+2021 (provisional),Oklahoma,40,"Marshall County, OK",40095,American Indian or Alaska Native,Not Hispanic or Latino,26.0,1630.0,1595.1,1375.7
+2021 (provisional),Oklahoma,40,"Marshall County, OK",40095,White,Not Hispanic or Latino,221.0,10925.0,2022.9,1086.3
+2021 (provisional),Oklahoma,40,"Mayes County, OK",40097,American Indian or Alaska Native,Not Hispanic or Latino,149.0,9046.0,1647.1,2139.8
+2021 (provisional),Oklahoma,40,"Mayes County, OK",40097,White,Not Hispanic or Latino,478.0,26178.0,1826.0,1129.2
+2021 (provisional),Oklahoma,40,"Murray County, OK",40099,American Indian or Alaska Native,Not Hispanic or Latino,24.0,1903.0,1261.2,1730.2
+2021 (provisional),Oklahoma,40,"Murray County, OK",40099,White,Not Hispanic or Latino,203.0,9746.0,2082.9,1248.2
+2021 (provisional),Oklahoma,40,"Muskogee County, OK",40101,American Indian or Alaska Native,Not Hispanic or Latino,188.0,12887.0,1458.8,2023.3
+2021 (provisional),Oklahoma,40,"Muskogee County, OK",40101,Black or African American,Not Hispanic or Latino,137.0,6944.0,1972.9,1756.7
+2021 (provisional),Oklahoma,40,"Muskogee County, OK",40101,White,Hispanic or Latino,16.0,2999.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Muskogee County, OK",40101,White,Not Hispanic or Latino,779.0,37027.0,2103.9,1298.9
+2021 (provisional),Oklahoma,40,"Muskogee County, OK",40101,More than one race,Not Hispanic or Latino,20.0,5573.0,358.9,465.7
+2021 (provisional),Oklahoma,40,"Noble County, OK",40103,White,Not Hispanic or Latino,159.0,8879.0,1790.7,1069.4
+2021 (provisional),Oklahoma,40,"Nowata County, OK",40105,American Indian or Alaska Native,Not Hispanic or Latino,20.0,1931.0,1035.7,1268.4
+2021 (provisional),Oklahoma,40,"Nowata County, OK",40105,White,Not Hispanic or Latino,127.0,6547.0,1939.8,1181.1
+2021 (provisional),Oklahoma,40,"Nowata County, OK",40105,More than one race,Not Hispanic or Latino,12.0,978.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Okfuskee County, OK",40107,American Indian or Alaska Native,Not Hispanic or Latino,33.0,2494.0,1323.2,1403.5
+2021 (provisional),Oklahoma,40,"Okfuskee County, OK",40107,White,Not Hispanic or Latino,148.0,7087.0,2088.3,1341.6
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Hispanic or Latino,30.0,11504.0,260.8,745.0
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Not Hispanic or Latino,305.0,25180.0,1211.3,1282.8
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,Asian,Not Hispanic or Latino,141.0,28560.0,493.7,597.4
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,Black or African American,Hispanic or Latino,12.0,5350.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,Black or African American,Not Hispanic or Latino,1395.0,122318.0,1140.5,1269.4
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,10.0,815.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,White,Hispanic or Latino,524.0,121608.0,430.9,886.3
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,White,Not Hispanic or Latino,6306.0,441901.0,1427.0,1023.6
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,White,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Oklahoma,40,"Oklahoma County, OK",40109,More than one race,Not Hispanic or Latino,169.0,39020.0,433.1,902.8
+2021 (provisional),Oklahoma,40,"Okmulgee County, OK",40111,American Indian or Alaska Native,Not Hispanic or Latino,94.0,6397.0,1469.4,1696.1
+2021 (provisional),Oklahoma,40,"Okmulgee County, OK",40111,Black or African American,Not Hispanic or Latino,73.0,2962.0,2464.6,1779.1
+2021 (provisional),Oklahoma,40,"Okmulgee County, OK",40111,White,Not Hispanic or Latino,472.0,23599.0,2000.1,1263.0
+2021 (provisional),Oklahoma,40,"Okmulgee County, OK",40111,More than one race,Not Hispanic or Latino,19.0,3349.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Osage County, OK",40113,American Indian or Alaska Native,Not Hispanic or Latino,77.0,6754.0,1140.1,1185.2
+2021 (provisional),Oklahoma,40,"Osage County, OK",40113,Black or African American,Not Hispanic or Latino,41.0,5219.0,785.6,543.7
+2021 (provisional),Oklahoma,40,"Osage County, OK",40113,White,Not Hispanic or Latino,467.0,29288.0,1594.5,974.0
+2021 (provisional),Oklahoma,40,"Osage County, OK",40113,More than one race,Not Hispanic or Latino,23.0,3296.0,697.8,837.8
+2021 (provisional),Oklahoma,40,"Ottawa County, OK",40115,American Indian or Alaska Native,Not Hispanic or Latino,79.0,6121.0,1290.6,1442.0
+2021 (provisional),Oklahoma,40,"Ottawa County, OK",40115,White,Not Hispanic or Latino,467.0,19673.0,2373.8,1507.7
+2021 (provisional),Oklahoma,40,"Pawnee County, OK",40117,American Indian or Alaska Native,Not Hispanic or Latino,42.0,2155.0,1949.0,1876.5
+2021 (provisional),Oklahoma,40,"Pawnee County, OK",40117,White,Not Hispanic or Latino,207.0,12370.0,1673.4,1085.0
+2021 (provisional),Oklahoma,40,"Payne County, OK",40119,American Indian or Alaska Native,Not Hispanic or Latino,21.0,4106.0,511.4,957.3
+2021 (provisional),Oklahoma,40,"Payne County, OK",40119,Black or African American,Not Hispanic or Latino,23.0,2974.0,773.4,1574.7
+2021 (provisional),Oklahoma,40,"Payne County, OK",40119,White,Hispanic or Latino,13.0,3147.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Payne County, OK",40119,White,Not Hispanic or Latino,687.0,62605.0,1097.4,977.3
+2021 (provisional),Oklahoma,40,"Payne County, OK",40119,More than one race,Not Hispanic or Latino,13.0,4430.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Pittsburg County, OK",40121,American Indian or Alaska Native,Not Hispanic or Latino,39.0,6569.0,593.7,596.9
+2021 (provisional),Oklahoma,40,"Pittsburg County, OK",40121,Black or African American,Not Hispanic or Latino,17.0,1306.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Pittsburg County, OK",40121,White,Hispanic or Latino,10.0,1554.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Pittsburg County, OK",40121,White,Not Hispanic or Latino,653.0,29800.0,2191.3,1318.3
+2021 (provisional),Oklahoma,40,"Pittsburg County, OK",40121,More than one race,Not Hispanic or Latino,88.0,3367.0,2613.6,3320.3
+2021 (provisional),Oklahoma,40,"Pontotoc County, OK",40123,American Indian or Alaska Native,Not Hispanic or Latino,128.0,7378.0,1734.9,2461.6
+2021 (provisional),Oklahoma,40,"Pontotoc County, OK",40123,Black or African American,Not Hispanic or Latino,13.0,860.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Pontotoc County, OK",40123,White,Not Hispanic or Latino,450.0,24500.0,1836.7,1206.3
+2021 (provisional),Oklahoma,40,"Pottawatomie County, OK",40125,American Indian or Alaska Native,Not Hispanic or Latino,140.0,9279.0,1508.8,1951.3
+2021 (provisional),Oklahoma,40,"Pottawatomie County, OK",40125,Black or African American,Not Hispanic or Latino,21.0,2130.0,985.9,1169.9
+2021 (provisional),Oklahoma,40,"Pottawatomie County, OK",40125,White,Hispanic or Latino,16.0,2585.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Pottawatomie County, OK",40125,White,Not Hispanic or Latino,933.0,52149.0,1789.1,1257.2
+2021 (provisional),Oklahoma,40,"Pottawatomie County, OK",40125,More than one race,Not Hispanic or Latino,20.0,4798.0,416.8,864.8
+2021 (provisional),Oklahoma,40,"Pushmataha County, OK",40127,American Indian or Alaska Native,Not Hispanic or Latino,37.0,2026.0,1826.3,1621.5
+2021 (provisional),Oklahoma,40,"Pushmataha County, OK",40127,White,Not Hispanic or Latino,204.0,7669.0,2660.1,1598.8
+2021 (provisional),Oklahoma,40,"Roger Mills County, OK",40129,White,Not Hispanic or Latino,43.0,2954.0,1455.7,930.4
+2021 (provisional),Oklahoma,40,"Rogers County, OK",40131,American Indian or Alaska Native,Not Hispanic or Latino,88.0,12214.0,720.5,900.2
+2021 (provisional),Oklahoma,40,"Rogers County, OK",40131,Black or African American,Not Hispanic or Latino,19.0,1035.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Rogers County, OK",40131,White,Hispanic or Latino,19.0,3655.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Rogers County, OK",40131,White,Not Hispanic or Latino,888.0,65925.0,1347.0,917.6
+2021 (provisional),Oklahoma,40,"Rogers County, OK",40131,More than one race,Not Hispanic or Latino,97.0,7579.0,1279.9,2062.4
+2021 (provisional),Oklahoma,40,"Seminole County, OK",40133,American Indian or Alaska Native,Not Hispanic or Latino,90.0,4563.0,1972.4,2140.5
+2021 (provisional),Oklahoma,40,"Seminole County, OK",40133,Black or African American,Not Hispanic or Latino,22.0,963.0,2284.5,1547.9
+2021 (provisional),Oklahoma,40,"Seminole County, OK",40133,White,Not Hispanic or Latino,303.0,15368.0,1971.6,1222.8
+2021 (provisional),Oklahoma,40,"Sequoyah County, OK",40135,American Indian or Alaska Native,Not Hispanic or Latino,50.0,9141.0,547.0,503.7
+2021 (provisional),Oklahoma,40,"Sequoyah County, OK",40135,White,Not Hispanic or Latino,531.0,25491.0,2083.1,1336.6
+2021 (provisional),Oklahoma,40,"Sequoyah County, OK",40135,More than one race,Not Hispanic or Latino,88.0,3945.0,2230.7,2831.4
+2021 (provisional),Oklahoma,40,"Stephens County, OK",40137,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2356.0,1103.6,1310.8
+2021 (provisional),Oklahoma,40,"Stephens County, OK",40137,Black or African American,Not Hispanic or Latino,17.0,803.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Stephens County, OK",40137,White,Hispanic or Latino,15.0,2899.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Stephens County, OK",40137,White,Not Hispanic or Latino,626.0,34122.0,1834.6,1126.6
+2021 (provisional),Oklahoma,40,"Stephens County, OK",40137,More than one race,Not Hispanic or Latino,11.0,1931.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Texas County, OK",40139,White,Hispanic or Latino,29.0,8783.0,330.2,815.9
+2021 (provisional),Oklahoma,40,"Texas County, OK",40139,White,Not Hispanic or Latino,124.0,8550.0,1450.3,968.1
+2021 (provisional),Oklahoma,40,"Tillman County, OK",40141,White,Hispanic or Latino,22.0,1750.0,1257.1,1283.1
+2021 (provisional),Oklahoma,40,"Tillman County, OK",40141,White,Not Hispanic or Latino,88.0,4157.0,2116.9,1238.3
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Hispanic or Latino,10.0,6496.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Not Hispanic or Latino,436.0,40284.0,1082.3,1460.6
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,Asian,Not Hispanic or Latino,93.0,23720.0,392.1,625.9
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,Black or African American,Not Hispanic or Latino,828.0,67495.0,1226.8,1473.2
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,13.0,941.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,White,Hispanic or Latino,293.0,74307.0,394.3,804.7
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,White,Not Hispanic or Latino,5837.0,397710.0,1467.7,1013.7
+2021 (provisional),Oklahoma,40,"Tulsa County, OK",40143,More than one race,Not Hispanic or Latino,254.0,38042.0,667.7,1185.9
+2021 (provisional),Oklahoma,40,"Wagoner County, OK",40145,American Indian or Alaska Native,Not Hispanic or Latino,82.0,8336.0,983.7,1170.0
+2021 (provisional),Oklahoma,40,"Wagoner County, OK",40145,Black or African American,Not Hispanic or Latino,29.0,2941.0,986.1,953.0
+2021 (provisional),Oklahoma,40,"Wagoner County, OK",40145,White,Hispanic or Latino,20.0,4726.0,423.2,777.8
+2021 (provisional),Oklahoma,40,"Wagoner County, OK",40145,White,Not Hispanic or Latino,743.0,58256.0,1275.4,909.4
+2021 (provisional),Oklahoma,40,"Wagoner County, OK",40145,More than one race,Not Hispanic or Latino,25.0,6014.0,415.7,945.5
+2021 (provisional),Oklahoma,40,"Washington County, OK",40147,American Indian or Alaska Native,Not Hispanic or Latino,44.0,5497.0,800.4,1013.6
+2021 (provisional),Oklahoma,40,"Washington County, OK",40147,Black or African American,Not Hispanic or Latino,12.0,1201.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Washington County, OK",40147,White,Hispanic or Latino,14.0,2760.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Washington County, OK",40147,White,Not Hispanic or Latino,683.0,37320.0,1830.1,1072.4
+2021 (provisional),Oklahoma,40,"Washington County, OK",40147,More than one race,Not Hispanic or Latino,32.0,3528.0,907.0,1398.3
+2021 (provisional),Oklahoma,40,"Washita County, OK",40149,White,Hispanic or Latino,11.0,854.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Washita County, OK",40149,White,Not Hispanic or Latino,143.0,8918.0,1603.5,1078.2
+2021 (provisional),Oklahoma,40,"Woods County, OK",40151,White,Not Hispanic or Latino,94.0,7157.0,1313.4,891.7
+2021 (provisional),Oklahoma,40,"Woodward County, OK",40153,White,Hispanic or Latino,11.0,2351.0,Unreliable,Unreliable
+2021 (provisional),Oklahoma,40,"Woodward County, OK",40153,White,Not Hispanic or Latino,237.0,15539.0,1525.2,1110.8
+2022 (provisional and partial),Oklahoma,40,"Adair County, OK",40001,American Indian or Alaska Native,Not Hispanic or Latino,10.0,9365.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Adair County, OK",40001,White,Not Hispanic or Latino,30.0,8482.0,353.7,194.9
+2022 (provisional and partial),Oklahoma,40,"Alfalfa County, OK",40003,White,Not Hispanic or Latino,12.0,4737.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Atoka County, OK",40005,White,Not Hispanic or Latino,31.0,9650.0,321.2,191.3
+2022 (provisional and partial),Oklahoma,40,"Beckham County, OK",40009,White,Not Hispanic or Latino,41.0,15968.0,256.8,185.4
+2022 (provisional and partial),Oklahoma,40,"Blaine County, OK",40011,White,Not Hispanic or Latino,22.0,6651.0,330.8,180.2
+2022 (provisional and partial),Oklahoma,40,"Bryan County, OK",40013,American Indian or Alaska Native,Not Hispanic or Latino,10.0,6850.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Bryan County, OK",40013,White,Not Hispanic or Latino,72.0,34139.0,210.9,134.7
+2022 (provisional and partial),Oklahoma,40,"Caddo County, OK",40015,American Indian or Alaska Native,Not Hispanic or Latino,17.0,6018.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Caddo County, OK",40015,White,Not Hispanic or Latino,36.0,16206.0,222.1,131.3
+2022 (provisional and partial),Oklahoma,40,"Canadian County, OK",40017,White,Not Hispanic or Latino,183.0,113584.0,161.1,137.8
+2022 (provisional and partial),Oklahoma,40,"Carter County, OK",40019,White,Not Hispanic or Latino,87.0,33084.0,263.0,174.4
+2022 (provisional and partial),Oklahoma,40,"Cherokee County, OK",40021,American Indian or Alaska Native,Not Hispanic or Latino,31.0,16952.0,182.9,188.4
+2022 (provisional and partial),Oklahoma,40,"Cherokee County, OK",40021,White,Not Hispanic or Latino,49.0,22633.0,216.5,127.0
+2022 (provisional and partial),Oklahoma,40,"Choctaw County, OK",40023,White,Not Hispanic or Latino,31.0,8647.0,358.5,196.3
+2022 (provisional and partial),Oklahoma,40,"Cleveland County, OK",40027,American Indian or Alaska Native,Not Hispanic or Latino,15.0,13391.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Cleveland County, OK",40027,White,Hispanic or Latino,11.0,22267.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Cleveland County, OK",40027,White,Not Hispanic or Latino,356.0,201726.0,176.5,139.8
+2022 (provisional and partial),Oklahoma,40,"Cleveland County, OK",40027,More than one race,Not Hispanic or Latino,11.0,16122.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Comanche County, OK",40031,American Indian or Alaska Native,Not Hispanic or Latino,11.0,6704.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Comanche County, OK",40031,Black or African American,Not Hispanic or Latino,20.0,19472.0,102.7,130.9
+2022 (provisional and partial),Oklahoma,40,"Comanche County, OK",40031,White,Hispanic or Latino,10.0,11878.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Comanche County, OK",40031,White,Not Hispanic or Latino,122.0,67069.0,181.9,140.2
+2022 (provisional and partial),Oklahoma,40,"Craig County, OK",40035,White,Not Hispanic or Latino,31.0,8806.0,352.0,196.8
+2022 (provisional and partial),Oklahoma,40,"Creek County, OK",40037,American Indian or Alaska Native,Not Hispanic or Latino,12.0,7373.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Creek County, OK",40037,White,Not Hispanic or Latino,145.0,53638.0,270.3,176.8
+2022 (provisional and partial),Oklahoma,40,"Custer County, OK",40039,White,Not Hispanic or Latino,46.0,19298.0,238.4,173.8
+2022 (provisional and partial),Oklahoma,40,"Delaware County, OK",40041,American Indian or Alaska Native,Not Hispanic or Latino,16.0,10073.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Delaware County, OK",40041,White,Not Hispanic or Latino,89.0,27294.0,326.1,145.0
+2022 (provisional and partial),Oklahoma,40,"Dewey County, OK",40043,White,Not Hispanic or Latino,13.0,3869.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Garfield County, OK",40047,White,Not Hispanic or Latino,135.0,43968.0,307.0,198.8
+2022 (provisional and partial),Oklahoma,40,"Garvin County, OK",40049,White,Not Hispanic or Latino,51.0,20328.0,250.9,162.5
+2022 (provisional and partial),Oklahoma,40,"Grady County, OK",40051,White,Not Hispanic or Latino,97.0,45235.0,214.4,161.6
+2022 (provisional and partial),Oklahoma,40,"Grant County, OK",40053,White,Not Hispanic or Latino,10.0,3794.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Greer County, OK",40055,White,Not Hispanic or Latino,11.0,4167.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Harper County, OK",40059,White,Not Hispanic or Latino,13.0,2590.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Haskell County, OK",40061,White,Not Hispanic or Latino,28.0,8737.0,320.5,178.2
+2022 (provisional and partial),Oklahoma,40,"Hughes County, OK",40063,White,Not Hispanic or Latino,25.0,8076.0,309.6,188.6
+2022 (provisional and partial),Oklahoma,40,"Jackson County, OK",40065,White,Not Hispanic or Latino,39.0,14894.0,261.9,197.4
+2022 (provisional and partial),Oklahoma,40,"Jefferson County, OK",40067,White,Not Hispanic or Latino,10.0,4514.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Johnston County, OK",40069,White,Not Hispanic or Latino,21.0,7332.0,286.4,164.3
+2022 (provisional and partial),Oklahoma,40,"Kay County, OK",40071,White,Not Hispanic or Latino,117.0,31551.0,370.8,223.1
+2022 (provisional and partial),Oklahoma,40,"Kingfisher County, OK",40073,White,Not Hispanic or Latino,24.0,11820.0,203.0,123.1
+2022 (provisional and partial),Oklahoma,40,"Kiowa County, OK",40075,White,Not Hispanic or Latino,20.0,6397.0,312.6,174.8
+2022 (provisional and partial),Oklahoma,40,"Latimer County, OK",40077,White,Not Hispanic or Latino,14.0,6278.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Le Flore County, OK",40079,White,Not Hispanic or Latino,97.0,35129.0,276.1,181.7
+2022 (provisional and partial),Oklahoma,40,"Lincoln County, OK",40081,White,Not Hispanic or Latino,65.0,28689.0,226.6,148.9
+2022 (provisional and partial),Oklahoma,40,"Logan County, OK",40083,White,Not Hispanic or Latino,62.0,37550.0,165.1,116.4
+2022 (provisional and partial),Oklahoma,40,"Love County, OK",40085,White,Not Hispanic or Latino,21.0,7108.0,295.4,187.5
+2022 (provisional and partial),Oklahoma,40,"McClain County, OK",40087,White,Not Hispanic or Latino,69.0,32264.0,213.9,162.4
+2022 (provisional and partial),Oklahoma,40,"McCurtain County, OK",40089,White,Not Hispanic or Latino,64.0,19746.0,324.1,188.9
+2022 (provisional and partial),Oklahoma,40,"McIntosh County, OK",40091,White,Not Hispanic or Latino,42.0,13206.0,318.0,186.3
+2022 (provisional and partial),Oklahoma,40,"Major County, OK",40093,White,Not Hispanic or Latino,15.0,6335.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Marshall County, OK",40095,White,Not Hispanic or Latino,33.0,10925.0,302.1,135.5
+2022 (provisional and partial),Oklahoma,40,"Mayes County, OK",40097,White,Not Hispanic or Latino,72.0,26178.0,275.0,170.5
+2022 (provisional and partial),Oklahoma,40,"Murray County, OK",40099,White,Not Hispanic or Latino,42.0,9746.0,430.9,234.5
+2022 (provisional and partial),Oklahoma,40,"Muskogee County, OK",40101,American Indian or Alaska Native,Not Hispanic or Latino,26.0,12887.0,201.8,295.5
+2022 (provisional and partial),Oklahoma,40,"Muskogee County, OK",40101,Black or African American,Not Hispanic or Latino,18.0,6944.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Muskogee County, OK",40101,White,Not Hispanic or Latino,121.0,37027.0,326.8,201.8
+2022 (provisional and partial),Oklahoma,40,"Noble County, OK",40103,White,Not Hispanic or Latino,20.0,8879.0,225.3,142.0
+2022 (provisional and partial),Oklahoma,40,"Nowata County, OK",40105,White,Not Hispanic or Latino,17.0,6547.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Okfuskee County, OK",40107,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2494.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Okfuskee County, OK",40107,White,Not Hispanic or Latino,17.0,7087.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Oklahoma County, OK",40109,American Indian or Alaska Native,Not Hispanic or Latino,47.0,25180.0,186.7,190.2
+2022 (provisional and partial),Oklahoma,40,"Oklahoma County, OK",40109,Asian,Not Hispanic or Latino,20.0,28560.0,70.0,87.3
+2022 (provisional and partial),Oklahoma,40,"Oklahoma County, OK",40109,Black or African American,Not Hispanic or Latino,175.0,122318.0,143.1,166.5
+2022 (provisional and partial),Oklahoma,40,"Oklahoma County, OK",40109,White,Hispanic or Latino,75.0,121608.0,61.7,136.0
+2022 (provisional and partial),Oklahoma,40,"Oklahoma County, OK",40109,White,Not Hispanic or Latino,976.0,441901.0,220.9,157.5
+2022 (provisional and partial),Oklahoma,40,"Oklahoma County, OK",40109,More than one race,Not Hispanic or Latino,30.0,39020.0,76.9,153.2
+2022 (provisional and partial),Oklahoma,40,"Okmulgee County, OK",40111,American Indian or Alaska Native,Not Hispanic or Latino,10.0,6397.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Okmulgee County, OK",40111,Black or African American,Not Hispanic or Latino,13.0,2962.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Okmulgee County, OK",40111,White,Not Hispanic or Latino,68.0,23599.0,288.1,176.4
+2022 (provisional and partial),Oklahoma,40,"Osage County, OK",40113,White,Not Hispanic or Latino,69.0,29288.0,235.6,134.1
+2022 (provisional and partial),Oklahoma,40,"Ottawa County, OK",40115,White,Not Hispanic or Latino,65.0,19673.0,330.4,191.4
+2022 (provisional and partial),Oklahoma,40,"Pawnee County, OK",40117,White,Not Hispanic or Latino,45.0,12370.0,363.8,232.9
+2022 (provisional and partial),Oklahoma,40,"Payne County, OK",40119,White,Not Hispanic or Latino,99.0,62605.0,158.1,142.4
+2022 (provisional and partial),Oklahoma,40,"Pittsburg County, OK",40121,White,Not Hispanic or Latino,95.0,29800.0,318.8,188.5
+2022 (provisional and partial),Oklahoma,40,"Pontotoc County, OK",40123,American Indian or Alaska Native,Not Hispanic or Latino,15.0,7378.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Pontotoc County, OK",40123,White,Not Hispanic or Latino,60.0,24500.0,244.9,158.0
+2022 (provisional and partial),Oklahoma,40,"Pottawatomie County, OK",40125,American Indian or Alaska Native,Not Hispanic or Latino,14.0,9279.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Pottawatomie County, OK",40125,White,Not Hispanic or Latino,144.0,52149.0,276.1,191.0
+2022 (provisional and partial),Oklahoma,40,"Pushmataha County, OK",40127,White,Not Hispanic or Latino,27.0,7669.0,352.1,180.0
+2022 (provisional and partial),Oklahoma,40,"Rogers County, OK",40131,American Indian or Alaska Native,Not Hispanic or Latino,13.0,12214.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Rogers County, OK",40131,White,Not Hispanic or Latino,153.0,65925.0,232.1,152.9
+2022 (provisional and partial),Oklahoma,40,"Rogers County, OK",40131,More than one race,Not Hispanic or Latino,23.0,7579.0,303.5,506.5
+2022 (provisional and partial),Oklahoma,40,"Seminole County, OK",40133,American Indian or Alaska Native,Not Hispanic or Latino,15.0,4563.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Seminole County, OK",40133,White,Not Hispanic or Latino,43.0,15368.0,279.8,178.9
+2022 (provisional and partial),Oklahoma,40,"Sequoyah County, OK",40135,White,Not Hispanic or Latino,85.0,25491.0,333.5,210.7
+2022 (provisional and partial),Oklahoma,40,"Sequoyah County, OK",40135,More than one race,Not Hispanic or Latino,18.0,3945.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Stephens County, OK",40137,White,Not Hispanic or Latino,98.0,34122.0,287.2,169.7
+2022 (provisional and partial),Oklahoma,40,"Texas County, OK",40139,White,Not Hispanic or Latino,22.0,8550.0,257.3,162.7
+2022 (provisional and partial),Oklahoma,40,"Tillman County, OK",40141,White,Not Hispanic or Latino,11.0,4157.0,Unreliable,Unreliable
+2022 (provisional and partial),Oklahoma,40,"Tulsa County, OK",40143,American Indian or Alaska Native,Not Hispanic or Latino,56.0,40284.0,139.0,192.0
+2022 (provisional and partial),Oklahoma,40,"Tulsa County, OK",40143,Black or African American,Not Hispanic or Latino,105.0,67495.0,155.6,181.4
+2022 (provisional and partial),Oklahoma,40,"Tulsa County, OK",40143,White,Hispanic or Latino,40.0,74307.0,53.8,112.4
+2022 (provisional and partial),Oklahoma,40,"Tulsa County, OK",40143,White,Not Hispanic or Latino,806.0,397710.0,202.7,136.5
+2022 (provisional and partial),Oklahoma,40,"Tulsa County, OK",40143,More than one race,Not Hispanic or Latino,21.0,38042.0,55.2,114.4
+2022 (provisional and partial),Oklahoma,40,"Wagoner County, OK",40145,White,Not Hispanic or Latino,128.0,58256.0,219.7,158.5
+2022 (provisional and partial),Oklahoma,40,"Washington County, OK",40147,White,Not Hispanic or Latino,101.0,37320.0,270.6,147.8
+2022 (provisional and partial),Oklahoma,40,"Washita County, OK",40149,White,Not Hispanic or Latino,35.0,8918.0,392.5,254.2
+2022 (provisional and partial),Oklahoma,40,"Woods County, OK",40151,White,Not Hispanic or Latino,21.0,7157.0,293.4,165.1
+2022 (provisional and partial),Oklahoma,40,"Woodward County, OK",40153,White,Not Hispanic or Latino,37.0,15539.0,238.1,166.9

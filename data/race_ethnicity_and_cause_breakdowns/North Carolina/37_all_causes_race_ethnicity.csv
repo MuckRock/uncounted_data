@@ -1,0 +1,1214 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,North Carolina,37,"Alamance County, NC",37001,Black or African American,Not Hispanic or Latino,329.0,33111.0,993.6,942.2
+2018,North Carolina,37,"Alamance County, NC",37001,White,Hispanic or Latino,31.0,17501.0,177.1,499.5
+2018,North Carolina,37,"Alamance County, NC",37001,White,Not Hispanic or Latino,1323.0,105484.0,1254.2,802.7
+2018,North Carolina,37,"Alexander County, NC",37003,Black or African American,Not Hispanic or Latino,31.0,2145.0,1445.2,1197.5
+2018,North Carolina,37,"Alexander County, NC",37003,White,Not Hispanic or Latino,360.0,32336.0,1113.3,763.1
+2018,North Carolina,37,"Alleghany County, NC",37005,White,Not Hispanic or Latino,137.0,9643.0,1420.7,745.1
+2018,North Carolina,37,"Anson County, NC",37007,Black or African American,Not Hispanic or Latino,142.0,11996.0,1183.7,1081.3
+2018,North Carolina,37,"Anson County, NC",37007,White,Not Hispanic or Latino,170.0,10991.0,1546.7,947.3
+2018,North Carolina,37,"Ashe County, NC",37009,White,Not Hispanic or Latino,331.0,25000.0,1324.0,748.5
+2018,North Carolina,37,"Avery County, NC",37011,White,Not Hispanic or Latino,210.0,15484.0,1356.2,821.3
+2018,North Carolina,37,"Beaufort County, NC",37013,Black or African American,Not Hispanic or Latino,148.0,11463.0,1291.1,916.6
+2018,North Carolina,37,"Beaufort County, NC",37013,White,Not Hispanic or Latino,471.0,30911.0,1523.7,884.5
+2018,North Carolina,37,"Bertie County, NC",37015,Black or African American,Not Hispanic or Latino,133.0,11554.0,1151.1,806.3
+2018,North Carolina,37,"Bertie County, NC",37015,White,Not Hispanic or Latino,117.0,6605.0,1771.4,967.1
+2018,North Carolina,37,"Bladen County, NC",37017,Black or African American,Not Hispanic or Latino,152.0,11122.0,1366.7,951.7
+2018,North Carolina,37,"Bladen County, NC",37017,White,Not Hispanic or Latino,268.0,18180.0,1474.1,907.1
+2018,North Carolina,37,"Brunswick County, NC",37019,Black or African American,Not Hispanic or Latino,150.0,13699.0,1095.0,860.8
+2018,North Carolina,37,"Brunswick County, NC",37019,White,Hispanic or Latino,13.0,5686.0,Unreliable,Unreliable
+2018,North Carolina,37,"Brunswick County, NC",37019,White,Not Hispanic or Latino,1332.0,112265.0,1186.5,683.8
+2018,North Carolina,37,"Buncombe County, NC",37021,Black or African American,Not Hispanic or Latino,159.0,15624.0,1017.7,963.4
+2018,North Carolina,37,"Buncombe County, NC",37021,White,Hispanic or Latino,27.0,15395.0,175.4,388.9
+2018,North Carolina,37,"Buncombe County, NC",37021,White,Not Hispanic or Latino,2519.0,216363.0,1164.2,758.8
+2018,North Carolina,37,"Burke County, NC",37023,Asian,Not Hispanic or Latino,16.0,3236.0,Unreliable,Unreliable
+2018,North Carolina,37,"Burke County, NC",37023,Black or African American,Not Hispanic or Latino,57.0,6027.0,945.7,875.6
+2018,North Carolina,37,"Burke County, NC",37023,White,Hispanic or Latino,10.0,4129.0,Unreliable,Unreliable
+2018,North Carolina,37,"Burke County, NC",37023,White,Not Hispanic or Latino,953.0,73587.0,1295.1,820.6
+2018,North Carolina,37,"Cabarrus County, NC",37025,Asian,Not Hispanic or Latino,14.0,8921.0,Unreliable,Unreliable
+2018,North Carolina,37,"Cabarrus County, NC",37025,Black or African American,Not Hispanic or Latino,227.0,38046.0,596.6,757.1
+2018,North Carolina,37,"Cabarrus County, NC",37025,White,Hispanic or Latino,31.0,18528.0,167.3,484.7
+2018,North Carolina,37,"Cabarrus County, NC",37025,White,Not Hispanic or Latino,1250.0,136604.0,915.1,751.2
+2018,North Carolina,37,"Caldwell County, NC",37027,Black or African American,Not Hispanic or Latino,41.0,3914.0,1047.5,901.9
+2018,North Carolina,37,"Caldwell County, NC",37027,White,Hispanic or Latino,11.0,3816.0,Unreliable,Unreliable
+2018,North Carolina,37,"Caldwell County, NC",37027,White,Not Hispanic or Latino,902.0,71424.0,1262.9,883.3
+2018,North Carolina,37,"Camden County, NC",37029,Black or African American,Not Hispanic or Latino,10.0,1243.0,Unreliable,Unreliable
+2018,North Carolina,37,"Camden County, NC",37029,White,Not Hispanic or Latino,77.0,8599.0,895.5,723.1
+2018,North Carolina,37,"Carteret County, NC",37031,Black or African American,Not Hispanic or Latino,44.0,3817.0,1152.7,926.2
+2018,North Carolina,37,"Carteret County, NC",37031,White,Not Hispanic or Latino,893.0,60138.0,1484.9,876.3
+2018,North Carolina,37,"Caswell County, NC",37033,Black or African American,Not Hispanic or Latino,88.0,7245.0,1214.6,793.0
+2018,North Carolina,37,"Caswell County, NC",37033,White,Not Hispanic or Latino,186.0,13876.0,1340.4,876.5
+2018,North Carolina,37,"Catawba County, NC",37035,Asian,Not Hispanic or Latino,17.0,6791.0,Unreliable,Unreliable
+2018,North Carolina,37,"Catawba County, NC",37035,Black or African American,Not Hispanic or Latino,145.0,13454.0,1077.7,1028.7
+2018,North Carolina,37,"Catawba County, NC",37035,White,Hispanic or Latino,30.0,13827.0,217.0,475.1
+2018,North Carolina,37,"Catawba County, NC",37035,White,Not Hispanic or Latino,1523.0,119443.0,1275.1,868.7
+2018,North Carolina,37,"Chatham County, NC",37037,Black or African American,Not Hispanic or Latino,120.0,8781.0,1366.6,915.0
+2018,North Carolina,37,"Chatham County, NC",37037,White,Hispanic or Latino,11.0,7539.0,Unreliable,Unreliable
+2018,North Carolina,37,"Chatham County, NC",37037,White,Not Hispanic or Latino,601.0,52521.0,1144.3,578.2
+2018,North Carolina,37,"Cherokee County, NC",37039,White,Not Hispanic or Latino,389.0,25816.0,1506.8,838.8
+2018,North Carolina,37,"Chowan County, NC",37041,Black or African American,Not Hispanic or Latino,45.0,4769.0,943.6,817.6
+2018,North Carolina,37,"Chowan County, NC",37041,White,Not Hispanic or Latino,133.0,8403.0,1582.8,785.3
+2018,North Carolina,37,"Clay County, NC",37043,White,Not Hispanic or Latino,158.0,10344.0,1527.5,856.5
+2018,North Carolina,37,"Cleveland County, NC",37045,Black or African American,Not Hispanic or Latino,225.0,20162.0,1116.0,1088.0
+2018,North Carolina,37,"Cleveland County, NC",37045,White,Not Hispanic or Latino,1018.0,71158.0,1430.6,1016.8
+2018,North Carolina,37,"Columbus County, NC",37047,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1782.0,Unreliable,Unreliable
+2018,North Carolina,37,"Columbus County, NC",37047,Black or African American,Not Hispanic or Latino,205.0,16698.0,1227.7,992.2
+2018,North Carolina,37,"Columbus County, NC",37047,White,Not Hispanic or Latino,435.0,32976.0,1319.1,852.0
+2018,North Carolina,37,"Craven County, NC",37049,Asian,Not Hispanic or Latino,13.0,3106.0,Unreliable,Unreliable
+2018,North Carolina,37,"Craven County, NC",37049,Black or African American,Not Hispanic or Latino,253.0,21460.0,1178.9,1011.1
+2018,North Carolina,37,"Craven County, NC",37049,White,Hispanic or Latino,14.0,6169.0,Unreliable,Unreliable
+2018,North Carolina,37,"Craven County, NC",37049,White,Not Hispanic or Latino,854.0,67590.0,1263.5,831.5
+2018,North Carolina,37,"Cumberland County, NC",37051,American Indian or Alaska Native,Not Hispanic or Latino,56.0,4870.0,1149.9,1401.7
+2018,North Carolina,37,"Cumberland County, NC",37051,Asian,Not Hispanic or Latino,41.0,9035.0,453.8,428.7
+2018,North Carolina,37,"Cumberland County, NC",37051,Black or African American,Not Hispanic or Latino,993.0,123373.0,804.9,875.5
+2018,North Carolina,37,"Cumberland County, NC",37051,White,Hispanic or Latino,61.0,28257.0,215.9,404.6
+2018,North Carolina,37,"Cumberland County, NC",37051,White,Not Hispanic or Latino,1452.0,141651.0,1025.1,908.6
+2018,North Carolina,37,"Cumberland County, NC",37051,More than one race,Not Hispanic or Latino,20.0,12959.0,154.3,748.2
+2018,North Carolina,37,"Currituck County, NC",37053,Black or African American,Not Hispanic or Latino,24.0,1498.0,1602.1,1300.3
+2018,North Carolina,37,"Currituck County, NC",37053,White,Not Hispanic or Latino,225.0,23641.0,951.7,828.5
+2018,North Carolina,37,"Dare County, NC",37055,White,Not Hispanic or Latino,378.0,31945.0,1183.3,796.3
+2018,North Carolina,37,"Davidson County, NC",37057,Asian,Not Hispanic or Latino,10.0,2512.0,Unreliable,Unreliable
+2018,North Carolina,37,"Davidson County, NC",37057,Black or African American,Not Hispanic or Latino,167.0,15816.0,1055.9,934.2
+2018,North Carolina,37,"Davidson County, NC",37057,White,Hispanic or Latino,20.0,10274.0,194.7,343.5
+2018,North Carolina,37,"Davidson County, NC",37057,White,Not Hispanic or Latino,1645.0,132803.0,1238.7,876.3
+2018,North Carolina,37,"Davie County, NC",37059,Black or African American,Not Hispanic or Latino,27.0,2668.0,1012.0,795.4
+2018,North Carolina,37,"Davie County, NC",37059,White,Not Hispanic or Latino,421.0,35911.0,1172.3,712.2
+2018,North Carolina,37,"Duplin County, NC",37061,Black or African American,Not Hispanic or Latino,167.0,14250.0,1171.9,834.2
+2018,North Carolina,37,"Duplin County, NC",37061,White,Hispanic or Latino,12.0,11168.0,Unreliable,Unreliable
+2018,North Carolina,37,"Duplin County, NC",37061,White,Not Hispanic or Latino,339.0,30192.0,1122.8,676.0
+2018,North Carolina,37,"Durham County, NC",37063,Asian,Not Hispanic or Latino,32.0,16901.0,189.3,319.0
+2018,North Carolina,37,"Durham County, NC",37063,Black or African American,Not Hispanic or Latino,810.0,113927.0,711.0,774.2
+2018,North Carolina,37,"Durham County, NC",37063,White,Hispanic or Latino,47.0,35071.0,134.0,304.9
+2018,North Carolina,37,"Durham County, NC",37063,White,Not Hispanic or Latino,1149.0,134987.0,851.2,626.7
+2018,North Carolina,37,"Edgecombe County, NC",37065,Black or African American,Not Hispanic or Latino,387.0,29763.0,1300.3,1034.6
+2018,North Carolina,37,"Edgecombe County, NC",37065,White,Not Hispanic or Latino,364.0,18868.0,1929.2,1098.6
+2018,North Carolina,37,"Forsyth County, NC",37067,Asian,Not Hispanic or Latino,23.0,9408.0,244.5,491.9
+2018,North Carolina,37,"Forsyth County, NC",37067,Black or African American,Not Hispanic or Latino,822.0,97867.0,839.9,871.7
+2018,North Carolina,37,"Forsyth County, NC",37067,White,Hispanic or Latino,73.0,38473.0,189.7,420.8
+2018,North Carolina,37,"Forsyth County, NC",37067,White,Not Hispanic or Latino,2526.0,214299.0,1178.7,761.3
+2018,North Carolina,37,"Franklin County, NC",37069,Black or African American,Not Hispanic or Latino,206.0,17019.0,1210.4,984.8
+2018,North Carolina,37,"Franklin County, NC",37069,White,Not Hispanic or Latino,454.0,42888.0,1058.6,817.6
+2018,North Carolina,37,"Gaston County, NC",37071,Asian,Not Hispanic or Latino,13.0,3537.0,Unreliable,Unreliable
+2018,North Carolina,37,"Gaston County, NC",37071,Black or African American,Not Hispanic or Latino,307.0,37921.0,809.6,983.8
+2018,North Carolina,37,"Gaston County, NC",37071,White,Hispanic or Latino,32.0,13799.0,231.9,520.1
+2018,North Carolina,37,"Gaston County, NC",37071,White,Not Hispanic or Latino,2058.0,160046.0,1285.9,942.4
+2018,North Carolina,37,"Gates County, NC",37073,Black or African American,Not Hispanic or Latino,52.0,3586.0,1450.1,1072.3
+2018,North Carolina,37,"Gates County, NC",37073,White,Not Hispanic or Latino,87.0,7383.0,1178.4,882.2
+2018,North Carolina,37,"Graham County, NC",37075,White,Not Hispanic or Latino,104.0,7292.0,1426.2,851.0
+2018,North Carolina,37,"Granville County, NC",37077,Black or African American,Not Hispanic or Latino,195.0,18843.0,1034.9,789.4
+2018,North Carolina,37,"Granville County, NC",37077,White,Not Hispanic or Latino,356.0,34868.0,1021.0,758.1
+2018,North Carolina,37,"Greene County, NC",37079,Black or African American,Not Hispanic or Latino,82.0,7500.0,1093.3,1033.4
+2018,North Carolina,37,"Greene County, NC",37079,White,Not Hispanic or Latino,116.0,9825.0,1180.7,727.0
+2018,North Carolina,37,"Guilford County, NC",37081,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2312.0,Unreliable,Unreliable
+2018,North Carolina,37,"Guilford County, NC",37081,Asian,Not Hispanic or Latino,54.0,28134.0,191.9,311.9
+2018,North Carolina,37,"Guilford County, NC",37081,Black or African American,Not Hispanic or Latino,1310.0,182350.0,718.4,865.6
+2018,North Carolina,37,"Guilford County, NC",37081,White,Hispanic or Latino,75.0,34065.0,220.2,467.6
+2018,North Carolina,37,"Guilford County, NC",37081,White,Not Hispanic or Latino,3110.0,265975.0,1169.3,746.1
+2018,North Carolina,37,"Guilford County, NC",37081,More than one race,Not Hispanic or Latino,11.0,11106.0,Unreliable,Unreliable
+2018,North Carolina,37,"Halifax County, NC",37083,American Indian or Alaska Native,Not Hispanic or Latino,24.0,1849.0,1298.0,1026.0
+2018,North Carolina,37,"Halifax County, NC",37083,Black or African American,Not Hispanic or Latino,347.0,26857.0,1292.0,984.3
+2018,North Carolina,37,"Halifax County, NC",37083,White,Not Hispanic or Latino,326.0,19298.0,1689.3,992.3
+2018,North Carolina,37,"Harnett County, NC",37085,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1191.0,Unreliable,Unreliable
+2018,North Carolina,37,"Harnett County, NC",37085,Black or African American,Not Hispanic or Latino,246.0,28021.0,877.9,1011.6
+2018,North Carolina,37,"Harnett County, NC",37085,White,Hispanic or Latino,17.0,13814.0,Unreliable,Unreliable
+2018,North Carolina,37,"Harnett County, NC",37085,White,Not Hispanic or Latino,766.0,81962.0,934.6,852.1
+2018,North Carolina,37,"Haywood County, NC",37087,White,Not Hispanic or Latino,821.0,57340.0,1431.8,849.9
+2018,North Carolina,37,"Henderson County, NC",37089,Black or African American,Not Hispanic or Latino,42.0,3702.0,1134.5,1252.9
+2018,North Carolina,37,"Henderson County, NC",37089,White,Hispanic or Latino,16.0,11039.0,Unreliable,Unreliable
+2018,North Carolina,37,"Henderson County, NC",37089,White,Not Hispanic or Latino,1376.0,96996.0,1418.6,717.3
+2018,North Carolina,37,"Hertford County, NC",37091,Black or African American,Not Hispanic or Latino,143.0,14256.0,1003.1,801.3
+2018,North Carolina,37,"Hertford County, NC",37091,White,Not Hispanic or Latino,127.0,7808.0,1626.5,869.4
+2018,North Carolina,37,"Hoke County, NC",37093,American Indian or Alaska Native,Not Hispanic or Latino,42.0,4533.0,926.5,1085.1
+2018,North Carolina,37,"Hoke County, NC",37093,Black or African American,Not Hispanic or Latino,150.0,18457.0,812.7,912.8
+2018,North Carolina,37,"Hoke County, NC",37093,White,Hispanic or Latino,13.0,5485.0,Unreliable,Unreliable
+2018,North Carolina,37,"Hoke County, NC",37093,White,Not Hispanic or Latino,158.0,21532.0,733.8,919.6
+2018,North Carolina,37,"Hyde County, NC",37095,Black or African American,Not Hispanic or Latino,14.0,1488.0,Unreliable,Unreliable
+2018,North Carolina,37,"Hyde County, NC",37095,White,Not Hispanic or Latino,42.0,3135.0,1339.7,822.3
+2018,North Carolina,37,"Iredell County, NC",37097,Asian,Not Hispanic or Latino,14.0,4662.0,Unreliable,Unreliable
+2018,North Carolina,37,"Iredell County, NC",37097,Black or African American,Not Hispanic or Latino,176.0,21039.0,836.5,843.5
+2018,North Carolina,37,"Iredell County, NC",37097,White,Hispanic or Latino,15.0,11845.0,Unreliable,Unreliable
+2018,North Carolina,37,"Iredell County, NC",37097,White,Not Hispanic or Latino,1321.0,135235.0,976.8,789.2
+2018,North Carolina,37,"Iredell County, NC",37097,More than one race,Not Hispanic or Latino,18.0,3022.0,Unreliable,Unreliable
+2018,North Carolina,37,"Jackson County, NC",37099,American Indian or Alaska Native,Not Hispanic or Latino,54.0,3477.0,1553.1,1596.8
+2018,North Carolina,37,"Jackson County, NC",37099,White,Not Hispanic or Latino,338.0,35122.0,962.4,668.9
+2018,North Carolina,37,"Johnston County, NC",37101,Black or African American,Not Hispanic or Latino,254.0,32092.0,791.5,919.2
+2018,North Carolina,37,"Johnston County, NC",37101,White,Hispanic or Latino,57.0,24051.0,237.0,571.9
+2018,North Carolina,37,"Johnston County, NC",37101,White,Not Hispanic or Latino,1207.0,136250.0,885.9,793.5
+2018,North Carolina,37,"Jones County, NC",37103,Black or African American,Not Hispanic or Latino,30.0,2864.0,1047.5,575.5
+2018,North Carolina,37,"Jones County, NC",37103,White,Not Hispanic or Latino,85.0,5988.0,1419.5,944.9
+2018,North Carolina,37,"Lee County, NC",37105,Black or African American,Not Hispanic or Latino,139.0,11747.0,1183.3,1055.4
+2018,North Carolina,37,"Lee County, NC",37105,White,Hispanic or Latino,22.0,10388.0,211.8,374.1
+2018,North Carolina,37,"Lee County, NC",37105,White,Not Hispanic or Latino,442.0,35510.0,1244.7,805.4
+2018,North Carolina,37,"Lenoir County, NC",37107,Black or African American,Not Hispanic or Latino,271.0,22909.0,1182.9,922.6
+2018,North Carolina,37,"Lenoir County, NC",37107,White,Not Hispanic or Latino,458.0,27535.0,1663.3,956.4
+2018,North Carolina,37,"Lincoln County, NC",37109,Black or African American,Not Hispanic or Latino,43.0,4525.0,950.3,962.2
+2018,North Carolina,37,"Lincoln County, NC",37109,White,Not Hispanic or Latino,772.0,71232.0,1083.8,860.4
+2018,North Carolina,37,"McDowell County, NC",37111,Black or African American,Not Hispanic or Latino,13.0,1693.0,Unreliable,Unreliable
+2018,North Carolina,37,"McDowell County, NC",37111,White,Not Hispanic or Latino,543.0,39750.0,1366.0,896.5
+2018,North Carolina,37,"Macon County, NC",37113,White,Not Hispanic or Latino,466.0,31403.0,1483.9,766.8
+2018,North Carolina,37,"Madison County, NC",37115,White,Not Hispanic or Latino,272.0,20432.0,1331.2,863.1
+2018,North Carolina,37,"Martin County, NC",37117,Black or African American,Not Hispanic or Latino,137.0,9459.0,1448.4,978.4
+2018,North Carolina,37,"Martin County, NC",37117,White,Not Hispanic or Latino,185.0,11804.0,1567.3,959.5
+2018,North Carolina,37,"Mecklenburg County, NC",37119,Asian,Not Hispanic or Latino,132.0,68305.0,193.3,397.7
+2018,North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Hispanic or Latino,21.0,15574.0,134.8,317.3
+2018,North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Not Hispanic or Latino,2131.0,344243.0,619.0,820.6
+2018,North Carolina,37,"Mecklenburg County, NC",37119,White,Hispanic or Latino,205.0,120948.0,169.5,399.7
+2018,North Carolina,37,"Mecklenburg County, NC",37119,White,Not Hispanic or Latino,3947.0,507637.0,777.5,638.9
+2018,North Carolina,37,"Mecklenburg County, NC",37119,More than one race,Not Hispanic or Latino,11.0,21590.0,Unreliable,Unreliable
+2018,North Carolina,37,"Mitchell County, NC",37121,White,Not Hispanic or Latino,237.0,13768.0,1721.4,975.6
+2018,North Carolina,37,"Montgomery County, NC",37123,Black or African American,Not Hispanic or Latino,68.0,4992.0,1362.2,1063.5
+2018,North Carolina,37,"Montgomery County, NC",37123,White,Not Hispanic or Latino,241.0,17204.0,1400.8,815.9
+2018,North Carolina,37,"Moore County, NC",37125,Black or African American,Not Hispanic or Latino,127.0,11714.0,1084.2,822.4
+2018,North Carolina,37,"Moore County, NC",37125,White,Hispanic or Latino,11.0,5742.0,Unreliable,Unreliable
+2018,North Carolina,37,"Moore County, NC",37125,White,Not Hispanic or Latino,961.0,76232.0,1260.6,660.1
+2018,North Carolina,37,"Nash County, NC",37127,Black or African American,Not Hispanic or Latino,341.0,38013.0,897.1,872.7
+2018,North Carolina,37,"Nash County, NC",37127,White,Hispanic or Latino,16.0,5243.0,Unreliable,Unreliable
+2018,North Carolina,37,"Nash County, NC",37127,White,Not Hispanic or Latino,716.0,46418.0,1542.5,968.9
+2018,North Carolina,37,"New Hanover County, NC",37129,Asian,Not Hispanic or Latino,13.0,3462.0,Unreliable,Unreliable
+2018,North Carolina,37,"New Hanover County, NC",37129,Black or African American,Not Hispanic or Latino,284.0,30748.0,923.6,865.3
+2018,North Carolina,37,"New Hanover County, NC",37129,White,Hispanic or Latino,15.0,10655.0,Unreliable,Unreliable
+2018,North Carolina,37,"New Hanover County, NC",37129,White,Not Hispanic or Latino,1658.0,179674.0,922.8,680.3
+2018,North Carolina,37,"Northampton County, NC",37131,Black or African American,Not Hispanic or Latino,150.0,11189.0,1340.6,864.0
+2018,North Carolina,37,"Northampton County, NC",37131,White,Not Hispanic or Latino,109.0,7647.0,1425.4,679.8
+2018,North Carolina,37,"Onslow County, NC",37133,Asian,Not Hispanic or Latino,13.0,3869.0,Unreliable,Unreliable
+2018,North Carolina,37,"Onslow County, NC",37133,Black or African American,Not Hispanic or Latino,196.0,29184.0,671.6,848.3
+2018,North Carolina,37,"Onslow County, NC",37133,White,Hispanic or Latino,35.0,20406.0,171.5,591.0
+2018,North Carolina,37,"Onslow County, NC",37133,White,Not Hispanic or Latino,1007.0,130276.0,773.0,936.6
+2018,North Carolina,37,"Orange County, NC",37135,Asian,Not Hispanic or Latino,14.0,11900.0,Unreliable,Unreliable
+2018,North Carolina,37,"Orange County, NC",37135,Black or African American,Not Hispanic or Latino,150.0,16619.0,902.6,875.3
+2018,North Carolina,37,"Orange County, NC",37135,White,Hispanic or Latino,14.0,10783.0,Unreliable,Unreliable
+2018,North Carolina,37,"Orange County, NC",37135,White,Not Hispanic or Latino,627.0,101106.0,620.1,555.6
+2018,North Carolina,37,"Pamlico County, NC",37137,Black or African American,Not Hispanic or Latino,36.0,2382.0,1511.3,850.6
+2018,North Carolina,37,"Pamlico County, NC",37137,White,Not Hispanic or Latino,133.0,9408.0,1413.7,726.3
+2018,North Carolina,37,"Pasquotank County, NC",37139,Black or African American,Not Hispanic or Latino,148.0,14194.0,1042.7,913.8
+2018,North Carolina,37,"Pasquotank County, NC",37139,White,Not Hispanic or Latino,291.0,21601.0,1347.2,941.2
+2018,North Carolina,37,"Pender County, NC",37141,Black or African American,Not Hispanic or Latino,116.0,9100.0,1274.7,927.2
+2018,North Carolina,37,"Pender County, NC",37141,White,Not Hispanic or Latino,492.0,46744.0,1052.5,818.7
+2018,North Carolina,37,"Perquimans County, NC",37143,Black or African American,Not Hispanic or Latino,47.0,3055.0,1538.5,1020.9
+2018,North Carolina,37,"Perquimans County, NC",37143,White,Not Hispanic or Latino,125.0,9696.0,1289.2,749.8
+2018,North Carolina,37,"Person County, NC",37145,Black or African American,Not Hispanic or Latino,120.0,10559.0,1136.5,974.7
+2018,North Carolina,37,"Person County, NC",37145,White,Not Hispanic or Latino,380.0,26105.0,1455.7,979.5
+2018,North Carolina,37,"Pitt County, NC",37147,Black or African American,Not Hispanic or Latino,464.0,62987.0,736.7,851.6
+2018,North Carolina,37,"Pitt County, NC",37147,White,Hispanic or Latino,17.0,8840.0,Unreliable,Unreliable
+2018,North Carolina,37,"Pitt County, NC",37147,White,Not Hispanic or Latino,796.0,97777.0,814.1,691.1
+2018,North Carolina,37,"Polk County, NC",37149,Black or African American,Not Hispanic or Latino,13.0,859.0,Unreliable,Unreliable
+2018,North Carolina,37,"Polk County, NC",37149,White,Not Hispanic or Latino,299.0,18066.0,1655.0,703.8
+2018,North Carolina,37,"Randolph County, NC",37151,American Indian or Alaska Native,Not Hispanic or Latino,10.0,713.0,Unreliable,Unreliable
+2018,North Carolina,37,"Randolph County, NC",37151,Black or African American,Not Hispanic or Latino,99.0,8862.0,1117.1,1025.5
+2018,North Carolina,37,"Randolph County, NC",37151,White,Hispanic or Latino,15.0,14527.0,Unreliable,Unreliable
+2018,North Carolina,37,"Randolph County, NC",37151,White,Not Hispanic or Latino,1440.0,112950.0,1274.9,905.4
+2018,North Carolina,37,"Richmond County, NC",37153,Black or African American,Not Hispanic or Latino,139.0,14052.0,989.2,982.3
+2018,North Carolina,37,"Richmond County, NC",37153,White,Not Hispanic or Latino,375.0,25421.0,1475.2,951.3
+2018,North Carolina,37,"Robeson County, NC",37155,American Indian or Alaska Native,Not Hispanic or Latino,529.0,52413.0,1009.3,1051.1
+2018,North Carolina,37,"Robeson County, NC",37155,Black or African American,Not Hispanic or Latino,374.0,30625.0,1221.2,1113.3
+2018,North Carolina,37,"Robeson County, NC",37155,White,Hispanic or Latino,17.0,7764.0,Unreliable,Unreliable
+2018,North Carolina,37,"Robeson County, NC",37155,White,Not Hispanic or Latino,518.0,33023.0,1568.6,1002.8
+2018,North Carolina,37,"Rockingham County, NC",37157,Black or African American,Not Hispanic or Latino,227.0,16834.0,1348.5,1034.0
+2018,North Carolina,37,"Rockingham County, NC",37157,White,Not Hispanic or Latino,939.0,65607.0,1431.2,909.9
+2018,North Carolina,37,"Rowan County, NC",37159,Black or African American,Not Hispanic or Latino,242.0,22779.0,1062.4,1059.9
+2018,North Carolina,37,"Rowan County, NC",37159,White,Hispanic or Latino,20.0,11071.0,180.7,472.2
+2018,North Carolina,37,"Rowan County, NC",37159,White,Not Hispanic or Latino,1388.0,101224.0,1371.2,931.7
+2018,North Carolina,37,"Rutherford County, NC",37161,Black or African American,Not Hispanic or Latino,73.0,6424.0,1136.4,1013.9
+2018,North Carolina,37,"Rutherford County, NC",37161,White,Not Hispanic or Latino,773.0,55473.0,1393.5,906.9
+2018,North Carolina,37,"Sampson County, NC",37163,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1163.0,Unreliable,Unreliable
+2018,North Carolina,37,"Sampson County, NC",37163,Black or African American,Not Hispanic or Latino,187.0,16027.0,1166.8,821.1
+2018,North Carolina,37,"Sampson County, NC",37163,White,Hispanic or Latino,17.0,10274.0,Unreliable,Unreliable
+2018,North Carolina,37,"Sampson County, NC",37163,White,Not Hispanic or Latino,471.0,32024.0,1470.8,965.8
+2018,North Carolina,37,"Scotland County, NC",37165,American Indian or Alaska Native,Not Hispanic or Latino,47.0,4081.0,1151.7,1380.0
+2018,North Carolina,37,"Scotland County, NC",37165,Black or African American,Not Hispanic or Latino,133.0,13445.0,989.2,891.4
+2018,North Carolina,37,"Scotland County, NC",37165,White,Not Hispanic or Latino,220.0,15032.0,1463.5,825.3
+2018,North Carolina,37,"Stanly County, NC",37167,Black or African American,Not Hispanic or Latino,72.0,6967.0,1033.4,1034.6
+2018,North Carolina,37,"Stanly County, NC",37167,White,Not Hispanic or Latino,608.0,50047.0,1214.9,852.3
+2018,North Carolina,37,"Stokes County, NC",37169,Black or African American,Not Hispanic or Latino,27.0,1744.0,1548.2,928.3
+2018,North Carolina,37,"Stokes County, NC",37169,White,Not Hispanic or Latino,568.0,41454.0,1370.2,881.5
+2018,North Carolina,37,"Surry County, NC",37171,Black or African American,Not Hispanic or Latino,37.0,2632.0,1405.8,1002.6
+2018,North Carolina,37,"Surry County, NC",37171,White,Not Hispanic or Latino,940.0,60163.0,1562.4,990.9
+2018,North Carolina,37,"Swain County, NC",37173,American Indian or Alaska Native,Not Hispanic or Latino,60.0,3850.0,1558.4,1768.8
+2018,North Carolina,37,"Swain County, NC",37173,White,Not Hispanic or Latino,149.0,8736.0,1705.6,1003.6
+2018,North Carolina,37,"Transylvania County, NC",37175,White,Not Hispanic or Latino,399.0,30875.0,1292.3,616.1
+2018,North Carolina,37,"Tyrrell County, NC",37177,Black or African American,Not Hispanic or Latino,16.0,1540.0,Unreliable,Unreliable
+2018,North Carolina,37,"Tyrrell County, NC",37177,White,Not Hispanic or Latino,37.0,2044.0,1810.2,1153.5
+2018,North Carolina,37,"Union County, NC",37179,Asian,Not Hispanic or Latino,12.0,7663.0,Unreliable,Unreliable
+2018,North Carolina,37,"Union County, NC",37179,Black or African American,Not Hispanic or Latino,196.0,27539.0,711.7,821.8
+2018,North Carolina,37,"Union County, NC",37179,White,Hispanic or Latino,46.0,23533.0,195.5,450.2
+2018,North Carolina,37,"Union County, NC",37179,White,Not Hispanic or Latino,1223.0,168967.0,723.8,693.1
+2018,North Carolina,37,"Vance County, NC",37181,Black or African American,Not Hispanic or Latino,257.0,22523.0,1141.1,1041.5
+2018,North Carolina,37,"Vance County, NC",37181,White,Not Hispanic or Latino,265.0,17476.0,1516.4,866.8
+2018,North Carolina,37,"Wake County, NC",37183,American Indian or Alaska Native,Not Hispanic or Latino,12.0,3115.0,Unreliable,Unreliable
+2018,North Carolina,37,"Wake County, NC",37183,Asian,Not Hispanic or Latino,134.0,81235.0,165.0,311.9
+2018,North Carolina,37,"Wake County, NC",37183,Black or African American,Hispanic or Latino,11.0,11149.0,Unreliable,Unreliable
+2018,North Carolina,37,"Wake County, NC",37183,Black or African American,Not Hispanic or Latino,1266.0,218080.0,580.5,764.0
+2018,North Carolina,37,"Wake County, NC",37183,White,Hispanic or Latino,137.0,89947.0,152.3,375.5
+2018,North Carolina,37,"Wake County, NC",37183,White,Not Hispanic or Latino,4270.0,653485.0,653.4,602.1
+2018,North Carolina,37,"Wake County, NC",37183,More than one race,Not Hispanic or Latino,10.0,23095.0,Unreliable,Unreliable
+2018,North Carolina,37,"Warren County, NC",37185,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1018.0,Unreliable,Unreliable
+2018,North Carolina,37,"Warren County, NC",37185,Black or African American,Not Hispanic or Latino,126.0,10029.0,1256.4,879.6
+2018,North Carolina,37,"Warren County, NC",37185,White,Not Hispanic or Latino,123.0,7575.0,1623.8,723.6
+2018,North Carolina,37,"Washington County, NC",37187,Black or African American,Not Hispanic or Latino,68.0,5684.0,1196.3,978.2
+2018,North Carolina,37,"Washington County, NC",37187,White,Not Hispanic or Latino,89.0,5257.0,1693.0,741.8
+2018,North Carolina,37,"Watauga County, NC",37189,White,Not Hispanic or Latino,339.0,51263.0,661.3,599.3
+2018,North Carolina,37,"Wayne County, NC",37191,Asian,Not Hispanic or Latino,10.0,1468.0,Unreliable,Unreliable
+2018,North Carolina,37,"Wayne County, NC",37191,Black or African American,Not Hispanic or Latino,415.0,38201.0,1086.4,918.1
+2018,North Carolina,37,"Wayne County, NC",37191,White,Hispanic or Latino,29.0,12129.0,239.1,520.6
+2018,North Carolina,37,"Wayne County, NC",37191,White,Not Hispanic or Latino,860.0,65442.0,1314.1,911.8
+2018,North Carolina,37,"Wilkes County, NC",37193,Black or African American,Not Hispanic or Latino,48.0,2972.0,1615.1,1227.8
+2018,North Carolina,37,"Wilkes County, NC",37193,White,Not Hispanic or Latino,780.0,59602.0,1308.7,838.1
+2018,North Carolina,37,"Wilson County, NC",37195,Black or African American,Not Hispanic or Latino,376.0,32153.0,1169.4,1035.0
+2018,North Carolina,37,"Wilson County, NC",37195,White,Hispanic or Latino,20.0,7354.0,272.0,664.9
+2018,North Carolina,37,"Wilson County, NC",37195,White,Not Hispanic or Latino,578.0,38278.0,1510.0,877.6
+2018,North Carolina,37,"Yadkin County, NC",37197,Black or African American,Not Hispanic or Latino,20.0,1156.0,1730.1,1344.4
+2018,North Carolina,37,"Yadkin County, NC",37197,White,Not Hispanic or Latino,421.0,31583.0,1333.0,854.1
+2018,North Carolina,37,"Yancey County, NC",37199,White,Not Hispanic or Latino,245.0,16498.0,1485.0,830.0
+2019,North Carolina,37,"Alamance County, NC",37001,Black or African American,Not Hispanic or Latino,382.0,34090.0,1120.6,1023.9
+2019,North Carolina,37,"Alamance County, NC",37001,White,Hispanic or Latino,28.0,18020.0,155.4,573.5
+2019,North Carolina,37,"Alamance County, NC",37001,White,Not Hispanic or Latino,1403.0,106676.0,1315.2,839.3
+2019,North Carolina,37,"Alexander County, NC",37003,Black or African American,Not Hispanic or Latino,22.0,2138.0,1029.0,886.2
+2019,North Carolina,37,"Alexander County, NC",37003,White,Not Hispanic or Latino,382.0,32492.0,1175.7,810.3
+2019,North Carolina,37,"Alleghany County, NC",37005,White,Not Hispanic or Latino,151.0,9659.0,1563.3,844.5
+2019,North Carolina,37,"Anson County, NC",37007,Black or African American,Not Hispanic or Latino,125.0,11756.0,1063.3,922.0
+2019,North Carolina,37,"Anson County, NC",37007,White,Not Hispanic or Latino,174.0,10840.0,1605.2,956.2
+2019,North Carolina,37,"Ashe County, NC",37009,White,Not Hispanic or Latino,360.0,25105.0,1434.0,797.1
+2019,North Carolina,37,"Avery County, NC",37011,White,Not Hispanic or Latino,239.0,15543.0,1537.7,918.6
+2019,North Carolina,37,"Beaufort County, NC",37013,Black or African American,Not Hispanic or Latino,134.0,11294.0,1186.5,852.3
+2019,North Carolina,37,"Beaufort County, NC",37013,White,Not Hispanic or Latino,440.0,30986.0,1420.0,820.1
+2019,North Carolina,37,"Bertie County, NC",37015,Black or African American,Not Hispanic or Latino,165.0,11493.0,1435.7,973.5
+2019,North Carolina,37,"Bertie County, NC",37015,White,Not Hispanic or Latino,87.0,6568.0,1324.6,654.3
+2019,North Carolina,37,"Bladen County, NC",37017,Black or African American,Not Hispanic or Latino,147.0,10891.0,1349.7,939.1
+2019,North Carolina,37,"Bladen County, NC",37017,White,Not Hispanic or Latino,261.0,17979.0,1451.7,870.9
+2019,North Carolina,37,"Brunswick County, NC",37019,Black or African American,Not Hispanic or Latino,156.0,13918.0,1120.9,893.9
+2019,North Carolina,37,"Brunswick County, NC",37019,White,Hispanic or Latino,13.0,6014.0,Unreliable,Unreliable
+2019,North Carolina,37,"Brunswick County, NC",37019,White,Not Hispanic or Latino,1439.0,117562.0,1224.0,686.0
+2019,North Carolina,37,"Buncombe County, NC",37021,Asian,Not Hispanic or Latino,17.0,3521.0,Unreliable,Unreliable
+2019,North Carolina,37,"Buncombe County, NC",37021,Black or African American,Not Hispanic or Latino,170.0,15666.0,1085.2,1026.7
+2019,North Carolina,37,"Buncombe County, NC",37021,White,Hispanic or Latino,34.0,15899.0,213.8,417.0
+2019,North Carolina,37,"Buncombe County, NC",37021,White,Not Hispanic or Latino,2375.0,217716.0,1090.9,709.8
+2019,North Carolina,37,"Burke County, NC",37023,Asian,Not Hispanic or Latino,10.0,3153.0,Unreliable,Unreliable
+2019,North Carolina,37,"Burke County, NC",37023,Black or African American,Not Hispanic or Latino,59.0,5976.0,987.3,991.8
+2019,North Carolina,37,"Burke County, NC",37023,White,Not Hispanic or Latino,991.0,73613.0,1346.2,832.0
+2019,North Carolina,37,"Cabarrus County, NC",37025,Asian,Not Hispanic or Latino,21.0,9950.0,211.1,447.2
+2019,North Carolina,37,"Cabarrus County, NC",37025,Black or African American,Not Hispanic or Latino,248.0,40180.0,617.2,816.1
+2019,North Carolina,37,"Cabarrus County, NC",37025,White,Hispanic or Latino,38.0,19506.0,194.8,524.4
+2019,North Carolina,37,"Cabarrus County, NC",37025,White,Not Hispanic or Latino,1319.0,137189.0,961.4,774.4
+2019,North Carolina,37,"Caldwell County, NC",37027,Black or African American,Not Hispanic or Latino,44.0,3959.0,1111.4,983.8
+2019,North Carolina,37,"Caldwell County, NC",37027,White,Not Hispanic or Latino,989.0,71265.0,1387.8,938.2
+2019,North Carolina,37,"Camden County, NC",37029,Black or African American,Not Hispanic or Latino,10.0,1212.0,Unreliable,Unreliable
+2019,North Carolina,37,"Camden County, NC",37029,White,Not Hispanic or Latino,86.0,8749.0,983.0,744.5
+2019,North Carolina,37,"Carteret County, NC",37031,Black or African American,Not Hispanic or Latino,49.0,3728.0,1314.4,1013.8
+2019,North Carolina,37,"Carteret County, NC",37031,White,Not Hispanic or Latino,830.0,60113.0,1380.7,781.5
+2019,North Carolina,37,"Caswell County, NC",37033,Black or African American,Not Hispanic or Latino,87.0,7177.0,1212.2,786.1
+2019,North Carolina,37,"Caswell County, NC",37033,White,Not Hispanic or Latino,204.0,13783.0,1480.1,955.2
+2019,North Carolina,37,"Catawba County, NC",37035,Asian,Not Hispanic or Latino,16.0,6994.0,Unreliable,Unreliable
+2019,North Carolina,37,"Catawba County, NC",37035,Black or African American,Not Hispanic or Latino,123.0,13510.0,910.4,928.5
+2019,North Carolina,37,"Catawba County, NC",37035,White,Hispanic or Latino,28.0,14266.0,196.3,391.9
+2019,North Carolina,37,"Catawba County, NC",37035,White,Not Hispanic or Latino,1468.0,119524.0,1228.2,823.2
+2019,North Carolina,37,"Chatham County, NC",37037,Black or African American,Not Hispanic or Latino,117.0,8763.0,1335.2,839.6
+2019,North Carolina,37,"Chatham County, NC",37037,White,Hispanic or Latino,22.0,7525.0,292.4,550.0
+2019,North Carolina,37,"Chatham County, NC",37037,White,Not Hispanic or Latino,622.0,53668.0,1159.0,595.1
+2019,North Carolina,37,"Cherokee County, NC",37039,White,Not Hispanic or Latino,398.0,26057.0,1527.4,850.0
+2019,North Carolina,37,"Chowan County, NC",37041,Black or African American,Not Hispanic or Latino,73.0,4725.0,1545.0,1217.7
+2019,North Carolina,37,"Chowan County, NC",37041,White,Not Hispanic or Latino,149.0,8343.0,1785.9,927.6
+2019,North Carolina,37,"Clay County, NC",37043,White,Not Hispanic or Latino,151.0,10389.0,1453.5,768.4
+2019,North Carolina,37,"Cleveland County, NC",37045,Black or African American,Not Hispanic or Latino,242.0,20168.0,1199.9,1189.7
+2019,North Carolina,37,"Cleveland County, NC",37045,White,Not Hispanic or Latino,1022.0,71268.0,1434.0,1017.8
+2019,North Carolina,37,"Columbus County, NC",37047,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1787.0,Unreliable,Unreliable
+2019,North Carolina,37,"Columbus County, NC",37047,Black or African American,Not Hispanic or Latino,190.0,16668.0,1139.9,907.6
+2019,North Carolina,37,"Columbus County, NC",37047,White,Not Hispanic or Latino,546.0,32809.0,1664.2,1052.7
+2019,North Carolina,37,"Craven County, NC",37049,Asian,Not Hispanic or Latino,10.0,2875.0,Unreliable,Unreliable
+2019,North Carolina,37,"Craven County, NC",37049,Black or African American,Not Hispanic or Latino,263.0,21204.0,1240.3,1067.4
+2019,North Carolina,37,"Craven County, NC",37049,White,Hispanic or Latino,14.0,6370.0,Unreliable,Unreliable
+2019,North Carolina,37,"Craven County, NC",37049,White,Not Hispanic or Latino,835.0,67005.0,1246.2,801.3
+2019,North Carolina,37,"Cumberland County, NC",37051,American Indian or Alaska Native,Not Hispanic or Latino,42.0,4954.0,847.8,930.6
+2019,North Carolina,37,"Cumberland County, NC",37051,Asian,Not Hispanic or Latino,48.0,8695.0,552.0,500.1
+2019,North Carolina,37,"Cumberland County, NC",37051,Black or African American,Not Hispanic or Latino,1039.0,124839.0,832.3,896.2
+2019,North Carolina,37,"Cumberland County, NC",37051,White,Hispanic or Latino,81.0,29272.0,276.7,609.6
+2019,North Carolina,37,"Cumberland County, NC",37051,White,Not Hispanic or Latino,1489.0,142107.0,1047.8,928.0
+2019,North Carolina,37,"Cumberland County, NC",37051,More than one race,Not Hispanic or Latino,13.0,13199.0,Unreliable,Unreliable
+2019,North Carolina,37,"Currituck County, NC",37053,White,Not Hispanic or Latino,203.0,24136.0,841.1,734.4
+2019,North Carolina,37,"Dare County, NC",37055,White,Not Hispanic or Latino,345.0,32183.0,1072.0,722.2
+2019,North Carolina,37,"Davidson County, NC",37057,Asian,Not Hispanic or Latino,10.0,2511.0,Unreliable,Unreliable
+2019,North Carolina,37,"Davidson County, NC",37057,Black or African American,Not Hispanic or Latino,168.0,16183.0,1038.1,913.9
+2019,North Carolina,37,"Davidson County, NC",37057,White,Hispanic or Latino,21.0,10462.0,200.7,484.0
+2019,North Carolina,37,"Davidson County, NC",37057,White,Not Hispanic or Latino,1663.0,133051.0,1249.9,863.9
+2019,North Carolina,37,"Davie County, NC",37059,Black or African American,Not Hispanic or Latino,36.0,2631.0,1368.3,905.5
+2019,North Carolina,37,"Davie County, NC",37059,White,Not Hispanic or Latino,450.0,35942.0,1252.0,752.6
+2019,North Carolina,37,"Duplin County, NC",37061,Black or African American,Not Hispanic or Latino,181.0,14182.0,1276.3,885.8
+2019,North Carolina,37,"Duplin County, NC",37061,White,Hispanic or Latino,24.0,11403.0,210.5,499.8
+2019,North Carolina,37,"Duplin County, NC",37061,White,Not Hispanic or Latino,357.0,29950.0,1192.0,736.7
+2019,North Carolina,37,"Durham County, NC",37063,Asian,Not Hispanic or Latino,26.0,17135.0,151.7,258.1
+2019,North Carolina,37,"Durham County, NC",37063,Black or African American,Not Hispanic or Latino,917.0,114467.0,801.1,846.5
+2019,North Carolina,37,"Durham County, NC",37063,White,Hispanic or Latino,71.0,35578.0,199.6,477.5
+2019,North Carolina,37,"Durham County, NC",37063,White,Not Hispanic or Latino,1144.0,138175.0,827.9,590.2
+2019,North Carolina,37,"Edgecombe County, NC",37065,Black or African American,Not Hispanic or Latino,370.0,29463.0,1255.8,1040.4
+2019,North Carolina,37,"Edgecombe County, NC",37065,White,Not Hispanic or Latino,331.0,18549.0,1784.5,1032.5
+2019,North Carolina,37,"Forsyth County, NC",37067,Asian,Not Hispanic or Latino,14.0,9413.0,Unreliable,Unreliable
+2019,North Carolina,37,"Forsyth County, NC",37067,Black or African American,Not Hispanic or Latino,898.0,98623.0,910.5,937.1
+2019,North Carolina,37,"Forsyth County, NC",37067,White,Hispanic or Latino,80.0,39587.0,202.1,450.0
+2019,North Carolina,37,"Forsyth County, NC",37067,White,Not Hispanic or Latino,2494.0,215155.0,1159.2,741.1
+2019,North Carolina,37,"Franklin County, NC",37069,Black or African American,Not Hispanic or Latino,192.0,17491.0,1097.7,869.5
+2019,North Carolina,37,"Franklin County, NC",37069,White,Not Hispanic or Latino,451.0,43899.0,1027.4,790.2
+2019,North Carolina,37,"Gaston County, NC",37071,Black or African American,Not Hispanic or Latino,300.0,38879.0,771.6,923.0
+2019,North Carolina,37,"Gaston County, NC",37071,White,Hispanic or Latino,39.0,14587.0,267.4,483.8
+2019,North Carolina,37,"Gaston County, NC",37071,White,Not Hispanic or Latino,2120.0,159710.0,1327.4,958.9
+2019,North Carolina,37,"Gates County, NC",37073,Black or African American,Not Hispanic or Latino,42.0,3578.0,1173.8,763.2
+2019,North Carolina,37,"Gates County, NC",37073,White,Not Hispanic or Latino,94.0,7352.0,1278.6,942.3
+2019,North Carolina,37,"Graham County, NC",37075,White,Not Hispanic or Latino,109.0,7269.0,1499.5,826.3
+2019,North Carolina,37,"Granville County, NC",37077,Black or African American,Not Hispanic or Latino,192.0,18788.0,1021.9,790.3
+2019,North Carolina,37,"Granville County, NC",37077,White,Not Hispanic or Latino,369.0,34917.0,1056.8,765.6
+2019,North Carolina,37,"Greene County, NC",37079,Black or African American,Not Hispanic or Latino,61.0,7517.0,811.5,756.5
+2019,North Carolina,37,"Greene County, NC",37079,White,Not Hispanic or Latino,141.0,9820.0,1435.8,900.0
+2019,North Carolina,37,"Guilford County, NC",37081,Asian,Not Hispanic or Latino,64.0,27825.0,230.0,335.6
+2019,North Carolina,37,"Guilford County, NC",37081,Black or African American,Not Hispanic or Latino,1401.0,184696.0,758.5,892.0
+2019,North Carolina,37,"Guilford County, NC",37081,White,Hispanic or Latino,74.0,35333.0,209.4,457.3
+2019,North Carolina,37,"Guilford County, NC",37081,White,Not Hispanic or Latino,3173.0,265292.0,1196.0,756.7
+2019,North Carolina,37,"Halifax County, NC",37083,American Indian or Alaska Native,Not Hispanic or Latino,25.0,1848.0,1352.8,1149.6
+2019,North Carolina,37,"Halifax County, NC",37083,Black or African American,Not Hispanic or Latino,371.0,26593.0,1395.1,1070.6
+2019,North Carolina,37,"Halifax County, NC",37083,White,Not Hispanic or Latino,301.0,19013.0,1583.1,912.5
+2019,North Carolina,37,"Harnett County, NC",37085,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1265.0,Unreliable,Unreliable
+2019,North Carolina,37,"Harnett County, NC",37085,Black or African American,Not Hispanic or Latino,233.0,28286.0,823.7,947.2
+2019,North Carolina,37,"Harnett County, NC",37085,White,Hispanic or Latino,33.0,14473.0,228.0,596.2
+2019,North Carolina,37,"Harnett County, NC",37085,White,Not Hispanic or Latino,771.0,82487.0,934.7,831.3
+2019,North Carolina,37,"Haywood County, NC",37087,Black or African American,Not Hispanic or Latino,11.0,784.0,Unreliable,Unreliable
+2019,North Carolina,37,"Haywood County, NC",37087,White,Not Hispanic or Latino,819.0,57428.0,1426.1,837.0
+2019,North Carolina,37,"Henderson County, NC",37089,Black or African American,Not Hispanic or Latino,29.0,3718.0,780.0,819.0
+2019,North Carolina,37,"Henderson County, NC",37089,White,Hispanic or Latino,23.0,11035.0,208.4,333.5
+2019,North Carolina,37,"Henderson County, NC",37089,White,Not Hispanic or Latino,1395.0,97616.0,1429.1,728.6
+2019,North Carolina,37,"Hertford County, NC",37091,Black or African American,Not Hispanic or Latino,160.0,14267.0,1121.5,836.1
+2019,North Carolina,37,"Hertford County, NC",37091,White,Not Hispanic or Latino,134.0,7738.0,1731.7,1018.2
+2019,North Carolina,37,"Hoke County, NC",37093,American Indian or Alaska Native,Not Hispanic or Latino,31.0,4551.0,681.2,758.3
+2019,North Carolina,37,"Hoke County, NC",37093,Black or African American,Not Hispanic or Latino,165.0,18677.0,883.4,932.8
+2019,North Carolina,37,"Hoke County, NC",37093,White,Hispanic or Latino,15.0,5682.0,Unreliable,Unreliable
+2019,North Carolina,37,"Hoke County, NC",37093,White,Not Hispanic or Latino,158.0,21399.0,738.4,836.6
+2019,North Carolina,37,"Hyde County, NC",37095,Black or African American,Not Hispanic or Latino,31.0,1292.0,2399.4,1524.1
+2019,North Carolina,37,"Hyde County, NC",37095,White,Not Hispanic or Latino,39.0,3052.0,1277.9,803.6
+2019,North Carolina,37,"Iredell County, NC",37097,Asian,Not Hispanic or Latino,10.0,4823.0,Unreliable,Unreliable
+2019,North Carolina,37,"Iredell County, NC",37097,Black or African American,Not Hispanic or Latino,215.0,21490.0,1000.5,1016.5
+2019,North Carolina,37,"Iredell County, NC",37097,White,Hispanic or Latino,17.0,12460.0,Unreliable,Unreliable
+2019,North Carolina,37,"Iredell County, NC",37097,White,Not Hispanic or Latino,1369.0,137085.0,998.7,783.4
+2019,North Carolina,37,"Jackson County, NC",37099,American Indian or Alaska Native,Not Hispanic or Latino,46.0,3505.0,1312.4,1333.6
+2019,North Carolina,37,"Jackson County, NC",37099,White,Not Hispanic or Latino,343.0,35433.0,968.0,674.5
+2019,North Carolina,37,"Johnston County, NC",37101,Black or African American,Not Hispanic or Latino,242.0,33627.0,719.7,795.4
+2019,North Carolina,37,"Johnston County, NC",37101,White,Hispanic or Latino,48.0,25078.0,191.4,557.3
+2019,North Carolina,37,"Johnston County, NC",37101,White,Not Hispanic or Latino,1330.0,139888.0,950.8,841.4
+2019,North Carolina,37,"Jones County, NC",37103,Black or African American,Not Hispanic or Latino,39.0,2720.0,1433.8,925.6
+2019,North Carolina,37,"Jones County, NC",37103,White,Not Hispanic or Latino,73.0,5926.0,1231.9,783.4
+2019,North Carolina,37,"Lee County, NC",37105,Black or African American,Not Hispanic or Latino,132.0,11753.0,1123.1,1022.6
+2019,North Carolina,37,"Lee County, NC",37105,White,Hispanic or Latino,17.0,10463.0,Unreliable,Unreliable
+2019,North Carolina,37,"Lee County, NC",37105,White,Not Hispanic or Latino,437.0,35698.0,1224.2,763.0
+2019,North Carolina,37,"Lenoir County, NC",37107,Black or African American,Not Hispanic or Latino,288.0,22839.0,1261.0,1012.7
+2019,North Carolina,37,"Lenoir County, NC",37107,White,Hispanic or Latino,10.0,3643.0,Unreliable,Unreliable
+2019,North Carolina,37,"Lenoir County, NC",37107,White,Not Hispanic or Latino,430.0,27367.0,1571.2,933.6
+2019,North Carolina,37,"Lincoln County, NC",37109,Black or African American,Not Hispanic or Latino,49.0,4683.0,1046.3,945.7
+2019,North Carolina,37,"Lincoln County, NC",37109,White,Not Hispanic or Latino,802.0,72825.0,1101.3,831.8
+2019,North Carolina,37,"McDowell County, NC",37111,Black or African American,Not Hispanic or Latino,19.0,1729.0,Unreliable,Unreliable
+2019,North Carolina,37,"McDowell County, NC",37111,White,Not Hispanic or Latino,507.0,39890.0,1271.0,829.3
+2019,North Carolina,37,"Macon County, NC",37113,White,Not Hispanic or Latino,456.0,31786.0,1434.6,750.0
+2019,North Carolina,37,"Madison County, NC",37115,White,Not Hispanic or Latino,267.0,20435.0,1306.6,839.5
+2019,North Carolina,37,"Martin County, NC",37117,Black or African American,Not Hispanic or Latino,130.0,9327.0,1393.8,932.2
+2019,North Carolina,37,"Martin County, NC",37117,White,Not Hispanic or Latino,165.0,11732.0,1406.4,854.7
+2019,North Carolina,37,"Mecklenburg County, NC",37119,American Indian or Alaska Native,Not Hispanic or Latino,15.0,3236.0,Unreliable,Unreliable
+2019,North Carolina,37,"Mecklenburg County, NC",37119,Asian,Not Hispanic or Latino,141.0,68780.0,205.0,409.7
+2019,North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Hispanic or Latino,20.0,16308.0,122.6,416.8
+2019,North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Not Hispanic or Latino,2269.0,349838.0,648.6,850.2
+2019,North Carolina,37,"Mecklenburg County, NC",37119,White,Hispanic or Latino,237.0,124345.0,190.6,417.6
+2019,North Carolina,37,"Mecklenburg County, NC",37119,White,Not Hispanic or Latino,3752.0,512279.0,732.4,593.4
+2019,North Carolina,37,"Mecklenburg County, NC",37119,More than one race,Not Hispanic or Latino,11.0,22757.0,Unreliable,Unreliable
+2019,North Carolina,37,"Mitchell County, NC",37121,White,Not Hispanic or Latino,236.0,13638.0,1730.5,1015.8
+2019,North Carolina,37,"Montgomery County, NC",37123,Black or African American,Not Hispanic or Latino,74.0,4965.0,1490.4,1219.5
+2019,North Carolina,37,"Montgomery County, NC",37123,White,Not Hispanic or Latino,265.0,17093.0,1550.3,889.7
+2019,North Carolina,37,"Moore County, NC",37125,Black or African American,Not Hispanic or Latino,135.0,11777.0,1146.3,854.1
+2019,North Carolina,37,"Moore County, NC",37125,White,Not Hispanic or Latino,1008.0,77707.0,1297.2,679.0
+2019,North Carolina,37,"Nash County, NC",37127,Black or African American,Not Hispanic or Latino,373.0,38298.0,973.9,912.9
+2019,North Carolina,37,"Nash County, NC",37127,White,Hispanic or Latino,18.0,5439.0,Unreliable,Unreliable
+2019,North Carolina,37,"Nash County, NC",37127,White,Not Hispanic or Latino,728.0,46140.0,1577.8,934.0
+2019,North Carolina,37,"New Hanover County, NC",37129,Asian,Not Hispanic or Latino,11.0,3528.0,Unreliable,Unreliable
+2019,North Carolina,37,"New Hanover County, NC",37129,Black or African American,Not Hispanic or Latino,310.0,30400.0,1019.7,929.4
+2019,North Carolina,37,"New Hanover County, NC",37129,White,Hispanic or Latino,38.0,11208.0,339.0,714.7
+2019,North Carolina,37,"New Hanover County, NC",37129,White,Not Hispanic or Latino,1761.0,181550.0,970.0,694.7
+2019,North Carolina,37,"Northampton County, NC",37131,Black or African American,Not Hispanic or Latino,144.0,11025.0,1306.1,838.9
+2019,North Carolina,37,"Northampton County, NC",37131,White,Not Hispanic or Latino,119.0,7552.0,1575.7,701.2
+2019,North Carolina,37,"Onslow County, NC",37133,Asian,Not Hispanic or Latino,20.0,4056.0,493.1,545.7
+2019,North Carolina,37,"Onslow County, NC",37133,Black or African American,Not Hispanic or Latino,217.0,29029.0,747.5,915.5
+2019,North Carolina,37,"Onslow County, NC",37133,White,Hispanic or Latino,31.0,20700.0,149.8,486.1
+2019,North Carolina,37,"Onslow County, NC",37133,White,Not Hispanic or Latino,1002.0,130099.0,770.2,903.6
+2019,North Carolina,37,"Orange County, NC",37135,Asian,Not Hispanic or Latino,24.0,11759.0,204.1,369.0
+2019,North Carolina,37,"Orange County, NC",37135,Black or African American,Not Hispanic or Latino,140.0,16820.0,832.3,813.5
+2019,North Carolina,37,"Orange County, NC",37135,White,Hispanic or Latino,19.0,10960.0,Unreliable,Unreliable
+2019,North Carolina,37,"Orange County, NC",37135,White,Not Hispanic or Latino,659.0,103220.0,638.4,572.8
+2019,North Carolina,37,"Pamlico County, NC",37137,Black or African American,Not Hispanic or Latino,36.0,2357.0,1527.4,955.6
+2019,North Carolina,37,"Pamlico County, NC",37137,White,Not Hispanic or Latino,148.0,9445.0,1567.0,871.5
+2019,North Carolina,37,"Pasquotank County, NC",37139,Black or African American,Not Hispanic or Latino,149.0,14290.0,1042.7,973.1
+2019,North Carolina,37,"Pasquotank County, NC",37139,White,Not Hispanic or Latino,288.0,21634.0,1331.2,957.4
+2019,North Carolina,37,"Pender County, NC",37141,Black or African American,Not Hispanic or Latino,109.0,8982.0,1213.5,910.4
+2019,North Carolina,37,"Pender County, NC",37141,White,Not Hispanic or Latino,512.0,47572.0,1076.3,802.6
+2019,North Carolina,37,"Perquimans County, NC",37143,Black or African American,Not Hispanic or Latino,32.0,3013.0,1062.1,667.3
+2019,North Carolina,37,"Perquimans County, NC",37143,White,Not Hispanic or Latino,126.0,9772.0,1289.4,717.4
+2019,North Carolina,37,"Person County, NC",37145,Black or African American,Not Hispanic or Latino,135.0,10444.0,1292.6,1014.6
+2019,North Carolina,37,"Person County, NC",37145,White,Not Hispanic or Latino,318.0,26172.0,1215.0,790.9
+2019,North Carolina,37,"Pitt County, NC",37147,Asian,Not Hispanic or Latino,14.0,3634.0,Unreliable,Unreliable
+2019,North Carolina,37,"Pitt County, NC",37147,Black or African American,Not Hispanic or Latino,539.0,63525.0,848.5,972.3
+2019,North Carolina,37,"Pitt County, NC",37147,White,Hispanic or Latino,22.0,9100.0,241.8,438.1
+2019,North Carolina,37,"Pitt County, NC",37147,White,Not Hispanic or Latino,811.0,97722.0,829.9,681.3
+2019,North Carolina,37,"Polk County, NC",37149,Black or African American,Not Hispanic or Latino,13.0,840.0,Unreliable,Unreliable
+2019,North Carolina,37,"Polk County, NC",37149,White,Not Hispanic or Latino,292.0,18180.0,1606.2,667.5
+2019,North Carolina,37,"Randolph County, NC",37151,Black or African American,Not Hispanic or Latino,109.0,8870.0,1228.9,1196.5
+2019,North Carolina,37,"Randolph County, NC",37151,White,Hispanic or Latino,25.0,14905.0,167.7,394.6
+2019,North Carolina,37,"Randolph County, NC",37151,White,Not Hispanic or Latino,1471.0,112661.0,1305.7,913.1
+2019,North Carolina,37,"Richmond County, NC",37153,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1137.0,Unreliable,Unreliable
+2019,North Carolina,37,"Richmond County, NC",37153,Black or African American,Not Hispanic or Latino,162.0,13998.0,1157.3,1107.5
+2019,North Carolina,37,"Richmond County, NC",37153,White,Not Hispanic or Latino,411.0,25321.0,1623.2,1048.6
+2019,North Carolina,37,"Robeson County, NC",37155,American Indian or Alaska Native,Not Hispanic or Latino,545.0,52404.0,1040.0,1079.0
+2019,North Carolina,37,"Robeson County, NC",37155,Black or African American,Not Hispanic or Latino,391.0,30027.0,1302.2,1183.1
+2019,North Carolina,37,"Robeson County, NC",37155,White,Hispanic or Latino,12.0,7656.0,Unreliable,Unreliable
+2019,North Carolina,37,"Robeson County, NC",37155,White,Not Hispanic or Latino,519.0,32290.0,1607.3,1024.5
+2019,North Carolina,37,"Rockingham County, NC",37157,Black or African American,Not Hispanic or Latino,224.0,16924.0,1323.6,1072.3
+2019,North Carolina,37,"Rockingham County, NC",37157,White,Hispanic or Latino,11.0,4896.0,Unreliable,Unreliable
+2019,North Carolina,37,"Rockingham County, NC",37157,White,Not Hispanic or Latino,1009.0,65662.0,1536.7,955.3
+2019,North Carolina,37,"Rowan County, NC",37159,Black or African American,Not Hispanic or Latino,228.0,23001.0,991.3,968.0
+2019,North Carolina,37,"Rowan County, NC",37159,White,Hispanic or Latino,11.0,11407.0,Unreliable,Unreliable
+2019,North Carolina,37,"Rowan County, NC",37159,White,Not Hispanic or Latino,1380.0,101394.0,1361.0,927.4
+2019,North Carolina,37,"Rutherford County, NC",37161,Black or African American,Not Hispanic or Latino,91.0,6424.0,1416.6,1191.8
+2019,North Carolina,37,"Rutherford County, NC",37161,White,Not Hispanic or Latino,778.0,55506.0,1401.7,855.6
+2019,North Carolina,37,"Sampson County, NC",37163,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1143.0,Unreliable,Unreliable
+2019,North Carolina,37,"Sampson County, NC",37163,Black or African American,Not Hispanic or Latino,198.0,15994.0,1238.0,841.4
+2019,North Carolina,37,"Sampson County, NC",37163,White,Hispanic or Latino,26.0,10336.0,251.5,562.4
+2019,North Carolina,37,"Sampson County, NC",37163,White,Not Hispanic or Latino,453.0,31949.0,1417.9,867.0
+2019,North Carolina,37,"Scotland County, NC",37165,American Indian or Alaska Native,Not Hispanic or Latino,29.0,4222.0,686.9,1053.9
+2019,North Carolina,37,"Scotland County, NC",37165,Black or African American,Not Hispanic or Latino,161.0,13408.0,1200.8,1062.7
+2019,North Carolina,37,"Scotland County, NC",37165,White,Not Hispanic or Latino,215.0,14807.0,1452.0,848.4
+2019,North Carolina,37,"Stanly County, NC",37167,Black or African American,Not Hispanic or Latino,58.0,6925.0,837.5,861.5
+2019,North Carolina,37,"Stanly County, NC",37167,White,Not Hispanic or Latino,672.0,50778.0,1323.4,912.0
+2019,North Carolina,37,"Stokes County, NC",37169,Black or African American,Not Hispanic or Latino,20.0,1775.0,1126.8,760.7
+2019,North Carolina,37,"Stokes County, NC",37169,White,Not Hispanic or Latino,522.0,41434.0,1259.8,789.8
+2019,North Carolina,37,"Surry County, NC",37171,Black or African American,Not Hispanic or Latino,33.0,2658.0,1241.5,935.9
+2019,North Carolina,37,"Surry County, NC",37171,White,Hispanic or Latino,12.0,6943.0,Unreliable,Unreliable
+2019,North Carolina,37,"Surry County, NC",37171,White,Not Hispanic or Latino,952.0,59744.0,1593.5,984.5
+2019,North Carolina,37,"Swain County, NC",37173,American Indian or Alaska Native,Not Hispanic or Latino,63.0,3886.0,1621.2,1746.4
+2019,North Carolina,37,"Swain County, NC",37173,White,Not Hispanic or Latino,152.0,8662.0,1754.8,1046.5
+2019,North Carolina,37,"Transylvania County, NC",37175,White,Not Hispanic or Latino,443.0,31076.0,1425.5,639.0
+2019,North Carolina,37,"Tyrrell County, NC",37177,Black or African American,Not Hispanic or Latino,13.0,1498.0,Unreliable,Unreliable
+2019,North Carolina,37,"Tyrrell County, NC",37177,White,Not Hispanic or Latino,26.0,1973.0,1317.8,757.2
+2019,North Carolina,37,"Union County, NC",37179,Asian,Not Hispanic or Latino,20.0,8430.0,237.2,512.9
+2019,North Carolina,37,"Union County, NC",37179,Black or African American,Not Hispanic or Latino,212.0,28434.0,745.6,855.6
+2019,North Carolina,37,"Union County, NC",37179,White,Hispanic or Latino,41.0,24070.0,170.3,373.5
+2019,North Carolina,37,"Union County, NC",37179,White,Not Hispanic or Latino,1273.0,170503.0,746.6,691.9
+2019,North Carolina,37,"Vance County, NC",37181,Black or African American,Not Hispanic or Latino,243.0,22516.0,1079.2,951.4
+2019,North Carolina,37,"Vance County, NC",37181,White,Not Hispanic or Latino,267.0,17348.0,1539.1,905.2
+2019,North Carolina,37,"Wake County, NC",37183,Asian,Not Hispanic or Latino,151.0,84333.0,179.1,315.7
+2019,North Carolina,37,"Wake County, NC",37183,Black or African American,Hispanic or Latino,11.0,11664.0,Unreliable,Unreliable
+2019,North Carolina,37,"Wake County, NC",37183,Black or African American,Not Hispanic or Latino,1356.0,222192.0,610.3,784.4
+2019,North Carolina,37,"Wake County, NC",37183,White,Hispanic or Latino,159.0,92117.0,172.6,414.0
+2019,North Carolina,37,"Wake County, NC",37183,White,Not Hispanic or Latino,4312.0,662234.0,651.1,584.8
+2019,North Carolina,37,"Wake County, NC",37183,More than one race,Not Hispanic or Latino,13.0,23806.0,Unreliable,Unreliable
+2019,North Carolina,37,"Warren County, NC",37185,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1017.0,Unreliable,Unreliable
+2019,North Carolina,37,"Warren County, NC",37185,Black or African American,Not Hispanic or Latino,112.0,9961.0,1124.4,734.2
+2019,North Carolina,37,"Warren County, NC",37185,White,Not Hispanic or Latino,120.0,7532.0,1593.2,759.1
+2019,North Carolina,37,"Washington County, NC",37187,Black or African American,Not Hispanic or Latino,72.0,5569.0,1292.9,898.6
+2019,North Carolina,37,"Washington County, NC",37187,White,Not Hispanic or Latino,96.0,5120.0,1875.0,822.1
+2019,North Carolina,37,"Watauga County, NC",37189,White,Not Hispanic or Latino,399.0,51352.0,777.0,667.6
+2019,North Carolina,37,"Wayne County, NC",37191,Black or African American,Not Hispanic or Latino,466.0,38372.0,1214.4,1036.7
+2019,North Carolina,37,"Wayne County, NC",37191,White,Hispanic or Latino,14.0,12431.0,Unreliable,Unreliable
+2019,North Carolina,37,"Wayne County, NC",37191,White,Not Hispanic or Latino,896.0,64930.0,1379.9,955.5
+2019,North Carolina,37,"Wilkes County, NC",37193,Black or African American,Not Hispanic or Latino,30.0,2983.0,1005.7,832.5
+2019,North Carolina,37,"Wilkes County, NC",37193,White,Not Hispanic or Latino,833.0,59331.0,1404.0,880.0
+2019,North Carolina,37,"Wilson County, NC",37195,Black or African American,Not Hispanic or Latino,350.0,32350.0,1081.9,940.8
+2019,North Carolina,37,"Wilson County, NC",37195,White,Not Hispanic or Latino,560.0,38317.0,1461.5,849.9
+2019,North Carolina,37,"Yadkin County, NC",37197,Black or African American,Not Hispanic or Latino,12.0,1143.0,Unreliable,Unreliable
+2019,North Carolina,37,"Yadkin County, NC",37197,White,Not Hispanic or Latino,434.0,31578.0,1374.4,871.4
+2019,North Carolina,37,"Yancey County, NC",37199,White,Not Hispanic or Latino,246.0,16619.0,1480.2,789.4
+2020,North Carolina,37,"Alamance County, NC",37001,Asian,Not Hispanic or Latino,13.0,3015.0,Unreliable,Unreliable
+2020,North Carolina,37,"Alamance County, NC",37001,Black or African American,Not Hispanic or Latino,464.0,35367.0,1312.0,1232.2
+2020,North Carolina,37,"Alamance County, NC",37001,White,Hispanic or Latino,35.0,18366.0,190.6,469.8
+2020,North Carolina,37,"Alamance County, NC",37001,White,Not Hispanic or Latino,1511.0,106377.0,1420.4,891.4
+2020,North Carolina,37,"Alexander County, NC",37003,Black or African American,Not Hispanic or Latino,21.0,2140.0,981.3,793.1
+2020,North Carolina,37,"Alexander County, NC",37003,White,Not Hispanic or Latino,466.0,32413.0,1437.7,949.9
+2020,North Carolina,37,"Alleghany County, NC",37005,White,Not Hispanic or Latino,152.0,9694.0,1568.0,772.0
+2020,North Carolina,37,"Anson County, NC",37007,Black or African American,Not Hispanic or Latino,148.0,11448.0,1292.8,1076.2
+2020,North Carolina,37,"Anson County, NC",37007,White,Not Hispanic or Latino,187.0,10744.0,1740.5,1061.3
+2020,North Carolina,37,"Ashe County, NC",37009,White,Not Hispanic or Latino,396.0,25067.0,1579.8,871.8
+2020,North Carolina,37,"Avery County, NC",37011,White,Not Hispanic or Latino,241.0,15541.0,1550.7,915.0
+2020,North Carolina,37,"Beaufort County, NC",37013,Black or African American,Not Hispanic or Latino,176.0,11054.0,1592.2,1144.7
+2020,North Carolina,37,"Beaufort County, NC",37013,White,Not Hispanic or Latino,481.0,31140.0,1544.6,880.2
+2020,North Carolina,37,"Bertie County, NC",37015,Black or African American,Not Hispanic or Latino,182.0,11398.0,1596.8,1089.2
+2020,North Carolina,37,"Bertie County, NC",37015,White,Not Hispanic or Latino,119.0,6462.0,1841.5,882.3
+2020,North Carolina,37,"Bladen County, NC",37017,American Indian or Alaska Native,Not Hispanic or Latino,12.0,787.0,Unreliable,Unreliable
+2020,North Carolina,37,"Bladen County, NC",37017,Black or African American,Not Hispanic or Latino,173.0,10861.0,1592.9,1187.9
+2020,North Carolina,37,"Bladen County, NC",37017,White,Not Hispanic or Latino,298.0,18089.0,1647.4,981.2
+2020,North Carolina,37,"Brunswick County, NC",37019,Black or African American,Not Hispanic or Latino,172.0,14054.0,1223.9,923.6
+2020,North Carolina,37,"Brunswick County, NC",37019,White,Hispanic or Latino,19.0,6241.0,Unreliable,Unreliable
+2020,North Carolina,37,"Brunswick County, NC",37019,White,Not Hispanic or Latino,1587.0,123148.0,1288.7,716.1
+2020,North Carolina,37,"Buncombe County, NC",37021,Asian,Not Hispanic or Latino,18.0,3652.0,Unreliable,Unreliable
+2020,North Carolina,37,"Buncombe County, NC",37021,Black or African American,Not Hispanic or Latino,203.0,15589.0,1302.2,1265.4
+2020,North Carolina,37,"Buncombe County, NC",37021,White,Hispanic or Latino,46.0,16245.0,283.2,542.4
+2020,North Carolina,37,"Buncombe County, NC",37021,White,Not Hispanic or Latino,2750.0,219328.0,1253.8,803.0
+2020,North Carolina,37,"Buncombe County, NC",37021,More than one race,Not Hispanic or Latino,11.0,5291.0,Unreliable,Unreliable
+2020,North Carolina,37,"Burke County, NC",37023,Asian,Not Hispanic or Latino,13.0,3246.0,Unreliable,Unreliable
+2020,North Carolina,37,"Burke County, NC",37023,Black or African American,Not Hispanic or Latino,64.0,5869.0,1090.5,1009.3
+2020,North Carolina,37,"Burke County, NC",37023,White,Hispanic or Latino,13.0,4361.0,Unreliable,Unreliable
+2020,North Carolina,37,"Burke County, NC",37023,White,Not Hispanic or Latino,1110.0,73450.0,1511.2,928.9
+2020,North Carolina,37,"Cabarrus County, NC",37025,Asian,Not Hispanic or Latino,23.0,11316.0,203.3,644.8
+2020,North Carolina,37,"Cabarrus County, NC",37025,Black or African American,Not Hispanic or Latino,351.0,42497.0,825.9,1109.9
+2020,North Carolina,37,"Cabarrus County, NC",37025,White,Hispanic or Latino,65.0,20123.0,323.0,690.5
+2020,North Carolina,37,"Cabarrus County, NC",37025,White,Not Hispanic or Latino,1427.0,137256.0,1039.7,819.2
+2020,North Carolina,37,"Caldwell County, NC",37027,Black or African American,Not Hispanic or Latino,59.0,3973.0,1485.0,1284.6
+2020,North Carolina,37,"Caldwell County, NC",37027,White,Hispanic or Latino,11.0,4011.0,Unreliable,Unreliable
+2020,North Carolina,37,"Caldwell County, NC",37027,White,Not Hispanic or Latino,1088.0,70986.0,1532.7,1031.4
+2020,North Carolina,37,"Camden County, NC",37029,Black or African American,Not Hispanic or Latino,17.0,1158.0,Unreliable,Unreliable
+2020,North Carolina,37,"Camden County, NC",37029,White,Not Hispanic or Latino,96.0,8912.0,1077.2,850.1
+2020,North Carolina,37,"Carteret County, NC",37031,Black or African American,Not Hispanic or Latino,54.0,3619.0,1492.1,1115.8
+2020,North Carolina,37,"Carteret County, NC",37031,White,Not Hispanic or Latino,812.0,60208.0,1348.7,782.4
+2020,North Carolina,37,"Caswell County, NC",37033,Black or African American,Not Hispanic or Latino,125.0,7130.0,1753.2,1043.2
+2020,North Carolina,37,"Caswell County, NC",37033,White,Not Hispanic or Latino,211.0,13649.0,1545.9,1001.1
+2020,North Carolina,37,"Catawba County, NC",37035,Asian,Not Hispanic or Latino,34.0,7511.0,452.7,845.7
+2020,North Carolina,37,"Catawba County, NC",37035,Black or African American,Not Hispanic or Latino,182.0,13483.0,1349.8,1271.2
+2020,North Carolina,37,"Catawba County, NC",37035,White,Hispanic or Latino,32.0,14482.0,221.0,427.3
+2020,North Carolina,37,"Catawba County, NC",37035,White,Not Hispanic or Latino,1759.0,119250.0,1475.1,989.4
+2020,North Carolina,37,"Chatham County, NC",37037,Black or African American,Not Hispanic or Latino,138.0,8731.0,1580.6,1028.5
+2020,North Carolina,37,"Chatham County, NC",37037,White,Hispanic or Latino,13.0,7545.0,Unreliable,Unreliable
+2020,North Carolina,37,"Chatham County, NC",37037,White,Not Hispanic or Latino,685.0,54746.0,1251.2,654.9
+2020,North Carolina,37,"Cherokee County, NC",37039,White,Not Hispanic or Latino,413.0,26336.0,1568.2,838.2
+2020,North Carolina,37,"Chowan County, NC",37041,Black or African American,Not Hispanic or Latino,78.0,4653.0,1676.3,1176.7
+2020,North Carolina,37,"Chowan County, NC",37041,White,Not Hispanic or Latino,139.0,8319.0,1670.9,793.4
+2020,North Carolina,37,"Clay County, NC",37043,White,Not Hispanic or Latino,136.0,10673.0,1274.2,689.8
+2020,North Carolina,37,"Cleveland County, NC",37045,Black or African American,Not Hispanic or Latino,302.0,20503.0,1473.0,1493.5
+2020,North Carolina,37,"Cleveland County, NC",37045,White,Hispanic or Latino,14.0,3259.0,Unreliable,Unreliable
+2020,North Carolina,37,"Cleveland County, NC",37045,White,Not Hispanic or Latino,1159.0,71491.0,1621.2,1156.6
+2020,North Carolina,37,"Columbus County, NC",37047,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1778.0,Unreliable,Unreliable
+2020,North Carolina,37,"Columbus County, NC",37047,Black or African American,Not Hispanic or Latino,257.0,16253.0,1581.2,1235.8
+2020,North Carolina,37,"Columbus County, NC",37047,White,Not Hispanic or Latino,602.0,32423.0,1856.7,1184.1
+2020,North Carolina,37,"Craven County, NC",37049,Asian,Not Hispanic or Latino,14.0,2912.0,Unreliable,Unreliable
+2020,North Carolina,37,"Craven County, NC",37049,Black or African American,Not Hispanic or Latino,311.0,20891.0,1488.7,1329.3
+2020,North Carolina,37,"Craven County, NC",37049,White,Hispanic or Latino,23.0,6370.0,361.1,647.8
+2020,North Carolina,37,"Craven County, NC",37049,White,Not Hispanic or Latino,1007.0,66128.0,1522.8,958.2
+2020,North Carolina,37,"Cumberland County, NC",37051,American Indian or Alaska Native,Not Hispanic or Latino,43.0,4893.0,878.8,973.3
+2020,North Carolina,37,"Cumberland County, NC",37051,Asian,Not Hispanic or Latino,58.0,8676.0,668.5,605.1
+2020,North Carolina,37,"Cumberland County, NC",37051,Black or African American,Not Hispanic or Latino,1214.0,126288.0,961.3,1023.9
+2020,North Carolina,37,"Cumberland County, NC",37051,White,Hispanic or Latino,110.0,29547.0,372.3,765.6
+2020,North Carolina,37,"Cumberland County, NC",37051,White,Not Hispanic or Latino,1596.0,139754.0,1142.0,993.1
+2020,North Carolina,37,"Cumberland County, NC",37051,More than one race,Not Hispanic or Latino,17.0,13924.0,Unreliable,Unreliable
+2020,North Carolina,37,"Currituck County, NC",37053,Black or African American,Not Hispanic or Latino,21.0,1572.0,1335.9,1008.4
+2020,North Carolina,37,"Currituck County, NC",37053,White,Not Hispanic or Latino,278.0,25143.0,1105.7,927.9
+2020,North Carolina,37,"Dare County, NC",37055,Black or African American,Not Hispanic or Latino,12.0,927.0,Unreliable,Unreliable
+2020,North Carolina,37,"Dare County, NC",37055,White,Not Hispanic or Latino,365.0,32699.0,1116.2,765.6
+2020,North Carolina,37,"Davidson County, NC",37057,Black or African American,Not Hispanic or Latino,213.0,16530.0,1288.6,1173.4
+2020,North Carolina,37,"Davidson County, NC",37057,White,Hispanic or Latino,27.0,10861.0,248.6,466.8
+2020,North Carolina,37,"Davidson County, NC",37057,White,Not Hispanic or Latino,1943.0,133335.0,1457.2,1013.1
+2020,North Carolina,37,"Davie County, NC",37059,Black or African American,Not Hispanic or Latino,48.0,2712.0,1769.9,1189.5
+2020,North Carolina,37,"Davie County, NC",37059,White,Not Hispanic or Latino,468.0,36173.0,1293.8,781.4
+2020,North Carolina,37,"Duplin County, NC",37061,Black or African American,Not Hispanic or Latino,204.0,14148.0,1441.9,965.8
+2020,North Carolina,37,"Duplin County, NC",37061,White,Hispanic or Latino,44.0,11340.0,388.0,923.4
+2020,North Carolina,37,"Duplin County, NC",37061,White,Not Hispanic or Latino,451.0,29867.0,1510.0,897.8
+2020,North Carolina,37,"Durham County, NC",37063,Asian,Not Hispanic or Latino,36.0,18091.0,199.0,308.3
+2020,North Carolina,37,"Durham County, NC",37063,Black or African American,Not Hispanic or Latino,1004.0,114528.0,876.6,903.5
+2020,North Carolina,37,"Durham County, NC",37063,White,Hispanic or Latino,89.0,35851.0,248.2,542.2
+2020,North Carolina,37,"Durham County, NC",37063,White,Not Hispanic or Latino,1281.0,141597.0,904.7,645.1
+2020,North Carolina,37,"Edgecombe County, NC",37065,Black or African American,Not Hispanic or Latino,438.0,28964.0,1512.2,1189.5
+2020,North Carolina,37,"Edgecombe County, NC",37065,White,Not Hispanic or Latino,356.0,18213.0,1954.6,1135.9
+2020,North Carolina,37,"Forsyth County, NC",37067,Asian,Not Hispanic or Latino,20.0,9813.0,203.8,306.9
+2020,North Carolina,37,"Forsyth County, NC",37067,Black or African American,Not Hispanic or Latino,1024.0,99196.0,1032.3,1036.7
+2020,North Carolina,37,"Forsyth County, NC",37067,White,Hispanic or Latino,139.0,39842.0,348.9,669.9
+2020,North Carolina,37,"Forsyth County, NC",37067,White,Not Hispanic or Latino,2763.0,214211.0,1289.8,823.4
+2020,North Carolina,37,"Franklin County, NC",37069,Black or African American,Not Hispanic or Latino,205.0,17784.0,1152.7,897.7
+2020,North Carolina,37,"Franklin County, NC",37069,White,Hispanic or Latino,14.0,5112.0,Unreliable,Unreliable
+2020,North Carolina,37,"Franklin County, NC",37069,White,Not Hispanic or Latino,484.0,45311.0,1068.2,799.1
+2020,North Carolina,37,"Gaston County, NC",37071,Asian,Not Hispanic or Latino,22.0,3730.0,589.8,738.7
+2020,North Carolina,37,"Gaston County, NC",37071,Black or African American,Not Hispanic or Latino,373.0,40109.0,930.0,1060.0
+2020,North Carolina,37,"Gaston County, NC",37071,White,Hispanic or Latino,41.0,15020.0,273.0,539.8
+2020,North Carolina,37,"Gaston County, NC",37071,White,Not Hispanic or Latino,2340.0,159337.0,1468.6,1052.3
+2020,North Carolina,37,"Gates County, NC",37073,Black or African American,Not Hispanic or Latino,65.0,3527.0,1842.9,1050.5
+2020,North Carolina,37,"Gates County, NC",37073,White,Not Hispanic or Latino,76.0,7292.0,1042.2,673.5
+2020,North Carolina,37,"Graham County, NC",37075,White,Not Hispanic or Latino,128.0,7265.0,1761.9,944.9
+2020,North Carolina,37,"Granville County, NC",37077,Black or African American,Not Hispanic or Latino,241.0,18735.0,1286.4,954.5
+2020,North Carolina,37,"Granville County, NC",37077,White,Not Hispanic or Latino,444.0,34727.0,1278.5,897.5
+2020,North Carolina,37,"Greene County, NC",37079,Black or African American,Not Hispanic or Latino,91.0,7385.0,1232.2,1012.1
+2020,North Carolina,37,"Greene County, NC",37079,White,Not Hispanic or Latino,147.0,9788.0,1501.8,889.7
+2020,North Carolina,37,"Guilford County, NC",37081,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2163.0,924.6,922.4
+2020,North Carolina,37,"Guilford County, NC",37081,Asian,Not Hispanic or Latino,91.0,28896.0,314.9,459.4
+2020,North Carolina,37,"Guilford County, NC",37081,Black or African American,Not Hispanic or Latino,1651.0,187364.0,881.2,1025.3
+2020,North Carolina,37,"Guilford County, NC",37081,White,Hispanic or Latino,96.0,35776.0,268.3,529.3
+2020,North Carolina,37,"Guilford County, NC",37081,White,Not Hispanic or Latino,3299.0,263136.0,1253.7,775.8
+2020,North Carolina,37,"Guilford County, NC",37081,More than one race,Not Hispanic or Latino,10.0,12135.0,Unreliable,Unreliable
+2020,North Carolina,37,"Halifax County, NC",37083,American Indian or Alaska Native,Not Hispanic or Latino,27.0,1787.0,1510.9,1335.9
+2020,North Carolina,37,"Halifax County, NC",37083,Black or African American,Not Hispanic or Latino,439.0,26189.0,1676.3,1270.7
+2020,North Carolina,37,"Halifax County, NC",37083,White,Not Hispanic or Latino,343.0,18873.0,1817.4,1014.7
+2020,North Carolina,37,"Harnett County, NC",37085,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1207.0,Unreliable,Unreliable
+2020,North Carolina,37,"Harnett County, NC",37085,Black or African American,Not Hispanic or Latino,300.0,28766.0,1042.9,1178.9
+2020,North Carolina,37,"Harnett County, NC",37085,White,Hispanic or Latino,36.0,14570.0,247.1,667.5
+2020,North Carolina,37,"Harnett County, NC",37085,White,Not Hispanic or Latino,886.0,82573.0,1073.0,914.1
+2020,North Carolina,37,"Haywood County, NC",37087,Black or African American,Not Hispanic or Latino,13.0,765.0,Unreliable,Unreliable
+2020,North Carolina,37,"Haywood County, NC",37087,White,Not Hispanic or Latino,938.0,57819.0,1622.3,938.4
+2020,North Carolina,37,"Henderson County, NC",37089,Black or African American,Not Hispanic or Latino,52.0,3679.0,1413.4,1334.2
+2020,North Carolina,37,"Henderson County, NC",37089,White,Hispanic or Latino,25.0,11204.0,223.1,328.5
+2020,North Carolina,37,"Henderson County, NC",37089,White,Not Hispanic or Latino,1439.0,98233.0,1464.9,754.1
+2020,North Carolina,37,"Hertford County, NC",37091,Black or African American,Not Hispanic or Latino,213.0,13885.0,1534.0,1167.5
+2020,North Carolina,37,"Hertford County, NC",37091,White,Not Hispanic or Latino,152.0,7612.0,1996.8,1119.6
+2020,North Carolina,37,"Hoke County, NC",37093,American Indian or Alaska Native,Not Hispanic or Latino,46.0,4412.0,1042.6,1402.8
+2020,North Carolina,37,"Hoke County, NC",37093,Black or African American,Not Hispanic or Latino,197.0,18988.0,1037.5,1079.5
+2020,North Carolina,37,"Hoke County, NC",37093,White,Hispanic or Latino,19.0,5800.0,Unreliable,Unreliable
+2020,North Carolina,37,"Hoke County, NC",37093,White,Not Hispanic or Latino,204.0,21358.0,955.1,1090.4
+2020,North Carolina,37,"Hyde County, NC",37095,Black or African American,Not Hispanic or Latino,25.0,1284.0,1947.0,1315.1
+2020,North Carolina,37,"Hyde County, NC",37095,White,Not Hispanic or Latino,31.0,2956.0,1048.7,574.0
+2020,North Carolina,37,"Iredell County, NC",37097,Black or African American,Not Hispanic or Latino,247.0,21879.0,1128.9,1119.7
+2020,North Carolina,37,"Iredell County, NC",37097,White,Hispanic or Latino,27.0,12795.0,211.0,421.7
+2020,North Carolina,37,"Iredell County, NC",37097,White,Not Hispanic or Latino,1585.0,139538.0,1135.9,881.9
+2020,North Carolina,37,"Jackson County, NC",37099,American Indian or Alaska Native,Not Hispanic or Latino,52.0,3436.0,1513.4,1562.5
+2020,North Carolina,37,"Jackson County, NC",37099,Black or African American,Not Hispanic or Latino,12.0,934.0,Unreliable,Unreliable
+2020,North Carolina,37,"Jackson County, NC",37099,White,Not Hispanic or Latino,381.0,35531.0,1072.3,746.5
+2020,North Carolina,37,"Johnston County, NC",37101,Black or African American,Not Hispanic or Latino,330.0,35384.0,932.6,1014.0
+2020,North Carolina,37,"Johnston County, NC",37101,White,Hispanic or Latino,64.0,26057.0,245.6,554.0
+2020,North Carolina,37,"Johnston County, NC",37101,White,Not Hispanic or Latino,1402.0,142931.0,980.9,837.4
+2020,North Carolina,37,"Jones County, NC",37103,Black or African American,Not Hispanic or Latino,55.0,2639.0,2084.1,1130.9
+2020,North Carolina,37,"Jones County, NC",37103,White,Not Hispanic or Latino,108.0,5790.0,1865.3,1138.5
+2020,North Carolina,37,"Lee County, NC",37105,Black or African American,Not Hispanic or Latino,165.0,11593.0,1423.3,1279.3
+2020,North Carolina,37,"Lee County, NC",37105,White,Hispanic or Latino,49.0,10685.0,458.6,1032.8
+2020,North Carolina,37,"Lee County, NC",37105,White,Not Hispanic or Latino,520.0,35881.0,1449.2,922.9
+2020,North Carolina,37,"Lenoir County, NC",37107,Black or African American,Not Hispanic or Latino,374.0,22787.0,1641.3,1266.1
+2020,North Carolina,37,"Lenoir County, NC",37107,White,Hispanic or Latino,11.0,3666.0,Unreliable,Unreliable
+2020,North Carolina,37,"Lenoir County, NC",37107,White,Not Hispanic or Latino,505.0,27093.0,1864.0,1098.7
+2020,North Carolina,37,"Lincoln County, NC",37109,Black or African American,Not Hispanic or Latino,46.0,4731.0,972.3,860.3
+2020,North Carolina,37,"Lincoln County, NC",37109,White,Hispanic or Latino,16.0,5718.0,Unreliable,Unreliable
+2020,North Carolina,37,"Lincoln County, NC",37109,White,Not Hispanic or Latino,945.0,74679.0,1265.4,932.1
+2020,North Carolina,37,"McDowell County, NC",37111,Black or African American,Not Hispanic or Latino,21.0,1761.0,1192.5,1057.7
+2020,North Carolina,37,"McDowell County, NC",37111,White,Not Hispanic or Latino,599.0,39917.0,1500.6,939.2
+2020,North Carolina,37,"Macon County, NC",37113,White,Not Hispanic or Latino,526.0,31791.0,1654.6,820.4
+2020,North Carolina,37,"Madison County, NC",37115,White,Not Hispanic or Latino,277.0,20391.0,1358.4,901.0
+2020,North Carolina,37,"Martin County, NC",37117,Black or African American,Not Hispanic or Latino,174.0,9179.0,1895.6,1202.8
+2020,North Carolina,37,"Martin County, NC",37117,White,Not Hispanic or Latino,217.0,11555.0,1878.0,1073.0
+2020,North Carolina,37,"Mecklenburg County, NC",37119,American Indian or Alaska Native,Not Hispanic or Latino,19.0,3232.0,Unreliable,Unreliable
+2020,North Carolina,37,"Mecklenburg County, NC",37119,Asian,Not Hispanic or Latino,186.0,73120.0,254.4,468.3
+2020,North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Hispanic or Latino,27.0,17529.0,154.0,556.9
+2020,North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Not Hispanic or Latino,2676.0,355577.0,752.6,954.9
+2020,North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2020,North Carolina,37,"Mecklenburg County, NC",37119,White,Hispanic or Latino,364.0,125486.0,290.1,610.7
+2020,North Carolina,37,"Mecklenburg County, NC",37119,White,Not Hispanic or Latino,4368.0,516550.0,845.6,678.6
+2020,North Carolina,37,"Mecklenburg County, NC",37119,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2020,North Carolina,37,"Mecklenburg County, NC",37119,More than one race,Not Hispanic or Latino,18.0,23891.0,Unreliable,Unreliable
+2020,North Carolina,37,"Mitchell County, NC",37121,White,Not Hispanic or Latino,246.0,13604.0,1808.3,1021.6
+2020,North Carolina,37,"Montgomery County, NC",37123,Black or African American,Not Hispanic or Latino,74.0,4910.0,1507.1,1267.8
+2020,North Carolina,37,"Montgomery County, NC",37123,White,Hispanic or Latino,17.0,3640.0,Unreliable,Unreliable
+2020,North Carolina,37,"Montgomery County, NC",37123,White,Not Hispanic or Latino,268.0,17152.0,1562.5,916.8
+2020,North Carolina,37,"Moore County, NC",37125,Black or African American,Not Hispanic or Latino,194.0,11827.0,1640.3,1201.1
+2020,North Carolina,37,"Moore County, NC",37125,White,Hispanic or Latino,15.0,6292.0,Unreliable,Unreliable
+2020,North Carolina,37,"Moore County, NC",37125,White,Not Hispanic or Latino,1104.0,79567.0,1387.5,734.9
+2020,North Carolina,37,"Nash County, NC",37127,Black or African American,Not Hispanic or Latino,476.0,39080.0,1218.0,1106.3
+2020,North Carolina,37,"Nash County, NC",37127,White,Hispanic or Latino,14.0,5502.0,Unreliable,Unreliable
+2020,North Carolina,37,"Nash County, NC",37127,White,Not Hispanic or Latino,742.0,45614.0,1626.7,998.6
+2020,North Carolina,37,"New Hanover County, NC",37129,Asian,Not Hispanic or Latino,14.0,3406.0,Unreliable,Unreliable
+2020,North Carolina,37,"New Hanover County, NC",37129,Black or African American,Not Hispanic or Latino,365.0,30090.0,1213.0,1075.9
+2020,North Carolina,37,"New Hanover County, NC",37129,White,Hispanic or Latino,38.0,11458.0,331.6,551.7
+2020,North Carolina,37,"New Hanover County, NC",37129,White,Not Hispanic or Latino,1907.0,183254.0,1040.6,737.9
+2020,North Carolina,37,"Northampton County, NC",37131,Black or African American,Not Hispanic or Latino,197.0,10765.0,1830.0,1122.2
+2020,North Carolina,37,"Northampton County, NC",37131,White,Not Hispanic or Latino,149.0,7415.0,2009.4,914.9
+2020,North Carolina,37,"Onslow County, NC",37133,Asian,Not Hispanic or Latino,15.0,4159.0,Unreliable,Unreliable
+2020,North Carolina,37,"Onslow County, NC",37133,Black or African American,Not Hispanic or Latino,244.0,29126.0,837.7,1027.1
+2020,North Carolina,37,"Onslow County, NC",37133,White,Hispanic or Latino,40.0,21622.0,185.0,434.2
+2020,North Carolina,37,"Onslow County, NC",37133,White,Not Hispanic or Latino,1114.0,134073.0,830.9,993.9
+2020,North Carolina,37,"Orange County, NC",37135,Asian,Not Hispanic or Latino,19.0,11812.0,Unreliable,Unreliable
+2020,North Carolina,37,"Orange County, NC",37135,Black or African American,Not Hispanic or Latino,174.0,16736.0,1039.7,959.5
+2020,North Carolina,37,"Orange County, NC",37135,White,Hispanic or Latino,27.0,10909.0,247.5,487.7
+2020,North Carolina,37,"Orange County, NC",37135,White,Not Hispanic or Latino,678.0,103610.0,654.4,548.7
+2020,North Carolina,37,"Pamlico County, NC",37137,Black or African American,Not Hispanic or Latino,40.0,2320.0,1724.1,1035.7
+2020,North Carolina,37,"Pamlico County, NC",37137,White,Not Hispanic or Latino,149.0,9457.0,1575.6,850.8
+2020,North Carolina,37,"Pasquotank County, NC",37139,Black or African American,Not Hispanic or Latino,175.0,14332.0,1221.0,1097.7
+2020,North Carolina,37,"Pasquotank County, NC",37139,White,Not Hispanic or Latino,334.0,21866.0,1527.5,1052.1
+2020,North Carolina,37,"Pender County, NC",37141,Black or African American,Not Hispanic or Latino,141.0,8949.0,1575.6,1105.6
+2020,North Carolina,37,"Pender County, NC",37141,White,Hispanic or Latino,11.0,3960.0,Unreliable,Unreliable
+2020,North Carolina,37,"Pender County, NC",37141,White,Not Hispanic or Latino,522.0,48908.0,1067.3,797.7
+2020,North Carolina,37,"Perquimans County, NC",37143,Black or African American,Not Hispanic or Latino,50.0,2994.0,1670.0,1027.5
+2020,North Carolina,37,"Perquimans County, NC",37143,White,Not Hispanic or Latino,169.0,9943.0,1699.7,945.2
+2020,North Carolina,37,"Person County, NC",37145,Black or African American,Not Hispanic or Latino,153.0,10508.0,1456.0,1078.0
+2020,North Carolina,37,"Person County, NC",37145,White,Not Hispanic or Latino,373.0,26328.0,1416.7,899.1
+2020,North Carolina,37,"Pitt County, NC",37147,Asian,Not Hispanic or Latino,16.0,3548.0,Unreliable,Unreliable
+2020,North Carolina,37,"Pitt County, NC",37147,Black or African American,Not Hispanic or Latino,660.0,64725.0,1019.7,1103.6
+2020,North Carolina,37,"Pitt County, NC",37147,White,Hispanic or Latino,17.0,9333.0,Unreliable,Unreliable
+2020,North Carolina,37,"Pitt County, NC",37147,White,Not Hispanic or Latino,942.0,98243.0,958.8,798.2
+2020,North Carolina,37,"Polk County, NC",37149,Black or African American,Not Hispanic or Latino,19.0,814.0,Unreliable,Unreliable
+2020,North Carolina,37,"Polk County, NC",37149,White,Not Hispanic or Latino,297.0,18450.0,1609.8,721.7
+2020,North Carolina,37,"Randolph County, NC",37151,Asian,Not Hispanic or Latino,10.0,2166.0,Unreliable,Unreliable
+2020,North Carolina,37,"Randolph County, NC",37151,Black or African American,Not Hispanic or Latino,107.0,9037.0,1184.0,1175.0
+2020,North Carolina,37,"Randolph County, NC",37151,White,Hispanic or Latino,49.0,15305.0,320.2,600.1
+2020,North Carolina,37,"Randolph County, NC",37151,White,Not Hispanic or Latino,1691.0,112642.0,1501.2,1039.5
+2020,North Carolina,37,"Richmond County, NC",37153,Black or African American,Not Hispanic or Latino,195.0,13937.0,1399.2,1282.2
+2020,North Carolina,37,"Richmond County, NC",37153,White,Not Hispanic or Latino,447.0,24809.0,1801.8,1201.1
+2020,North Carolina,37,"Robeson County, NC",37155,American Indian or Alaska Native,Not Hispanic or Latino,689.0,52281.0,1317.9,1288.2
+2020,North Carolina,37,"Robeson County, NC",37155,Black or African American,Not Hispanic or Latino,430.0,29934.0,1436.5,1295.8
+2020,North Carolina,37,"Robeson County, NC",37155,White,Hispanic or Latino,36.0,7725.0,466.0,821.4
+2020,North Carolina,37,"Robeson County, NC",37155,White,Not Hispanic or Latino,585.0,31718.0,1844.4,1158.3
+2020,North Carolina,37,"Rockingham County, NC",37157,Black or African American,Not Hispanic or Latino,277.0,16934.0,1635.8,1247.1
+2020,North Carolina,37,"Rockingham County, NC",37157,White,Not Hispanic or Latino,1159.0,65684.0,1764.5,1104.2
+2020,North Carolina,37,"Rowan County, NC",37159,Black or African American,Not Hispanic or Latino,266.0,23069.0,1153.1,1109.4
+2020,North Carolina,37,"Rowan County, NC",37159,White,Hispanic or Latino,23.0,11672.0,197.1,402.8
+2020,North Carolina,37,"Rowan County, NC",37159,White,Not Hispanic or Latino,1667.0,101293.0,1645.7,1124.3
+2020,North Carolina,37,"Rutherford County, NC",37161,Black or African American,Not Hispanic or Latino,107.0,6472.0,1653.3,1412.5
+2020,North Carolina,37,"Rutherford County, NC",37161,White,Not Hispanic or Latino,929.0,55444.0,1675.6,1054.8
+2020,North Carolina,37,"Sampson County, NC",37163,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1165.0,Unreliable,Unreliable
+2020,North Carolina,37,"Sampson County, NC",37163,Black or African American,Not Hispanic or Latino,234.0,15774.0,1483.5,1047.8
+2020,North Carolina,37,"Sampson County, NC",37163,White,Hispanic or Latino,34.0,10433.0,325.9,677.8
+2020,North Carolina,37,"Sampson County, NC",37163,White,Not Hispanic or Latino,478.0,31723.0,1506.8,933.9
+2020,North Carolina,37,"Scotland County, NC",37165,American Indian or Alaska Native,Not Hispanic or Latino,57.0,4193.0,1359.4,1703.8
+2020,North Carolina,37,"Scotland County, NC",37165,Black or African American,Not Hispanic or Latino,217.0,13356.0,1624.7,1499.6
+2020,North Carolina,37,"Scotland County, NC",37165,White,Not Hispanic or Latino,293.0,14601.0,2006.7,1137.0
+2020,North Carolina,37,"Stanly County, NC",37167,Black or African American,Not Hispanic or Latino,95.0,7000.0,1357.1,1388.0
+2020,North Carolina,37,"Stanly County, NC",37167,White,Hispanic or Latino,10.0,2328.0,Unreliable,Unreliable
+2020,North Carolina,37,"Stanly County, NC",37167,White,Not Hispanic or Latino,745.0,51029.0,1460.0,1000.9
+2020,North Carolina,37,"Stokes County, NC",37169,Black or African American,Not Hispanic or Latino,23.0,1783.0,1290.0,985.2
+2020,North Carolina,37,"Stokes County, NC",37169,White,Not Hispanic or Latino,625.0,41445.0,1508.0,960.9
+2020,North Carolina,37,"Surry County, NC",37171,Black or African American,Not Hispanic or Latino,49.0,2655.0,1845.6,1310.8
+2020,North Carolina,37,"Surry County, NC",37171,White,Hispanic or Latino,17.0,7104.0,Unreliable,Unreliable
+2020,North Carolina,37,"Surry County, NC",37171,White,Not Hispanic or Latino,1025.0,59396.0,1725.7,1043.6
+2020,North Carolina,37,"Swain County, NC",37173,American Indian or Alaska Native,Not Hispanic or Latino,57.0,3847.0,1481.7,1496.1
+2020,North Carolina,37,"Swain County, NC",37173,White,Not Hispanic or Latino,194.0,8532.0,2273.8,1308.3
+2020,North Carolina,37,"Transylvania County, NC",37175,Black or African American,Not Hispanic or Latino,13.0,1175.0,Unreliable,Unreliable
+2020,North Carolina,37,"Transylvania County, NC",37175,White,Not Hispanic or Latino,428.0,31132.0,1374.8,615.7
+2020,North Carolina,37,"Tyrrell County, NC",37177,Black or African American,Not Hispanic or Latino,21.0,1280.0,1640.6,843.0
+2020,North Carolina,37,"Tyrrell County, NC",37177,White,Not Hispanic or Latino,27.0,1941.0,1391.0,817.4
+2020,North Carolina,37,"Union County, NC",37179,Asian,Not Hispanic or Latino,21.0,9360.0,224.4,468.4
+2020,North Carolina,37,"Union County, NC",37179,Black or African American,Not Hispanic or Latino,233.0,28785.0,809.4,918.6
+2020,North Carolina,37,"Union County, NC",37179,White,Hispanic or Latino,63.0,24887.0,253.1,506.2
+2020,North Carolina,37,"Union County, NC",37179,White,Not Hispanic or Latino,1358.0,172572.0,786.9,717.6
+2020,North Carolina,37,"Vance County, NC",37181,Black or African American,Not Hispanic or Latino,334.0,22695.0,1471.7,1337.0
+2020,North Carolina,37,"Vance County, NC",37181,White,Hispanic or Latino,10.0,2828.0,Unreliable,Unreliable
+2020,North Carolina,37,"Vance County, NC",37181,White,Not Hispanic or Latino,317.0,17173.0,1845.9,1032.4
+2020,North Carolina,37,"Wake County, NC",37183,American Indian or Alaska Native,Not Hispanic or Latino,14.0,3167.0,Unreliable,Unreliable
+2020,North Carolina,37,"Wake County, NC",37183,Asian,Not Hispanic or Latino,187.0,90572.0,206.5,373.3
+2020,North Carolina,37,"Wake County, NC",37183,Black or African American,Hispanic or Latino,10.0,12376.0,Unreliable,Unreliable
+2020,North Carolina,37,"Wake County, NC",37183,Black or African American,Not Hispanic or Latino,1559.0,224084.0,695.7,855.6
+2020,North Carolina,37,"Wake County, NC",37183,White,Hispanic or Latino,234.0,92725.0,252.4,535.1
+2020,North Carolina,37,"Wake County, NC",37183,White,Not Hispanic or Latino,4669.0,671183.0,695.6,608.8
+2020,North Carolina,37,"Wake County, NC",37183,More than one race,Not Hispanic or Latino,18.0,25658.0,Unreliable,Unreliable
+2020,North Carolina,37,"Warren County, NC",37185,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1022.0,Unreliable,Unreliable
+2020,North Carolina,37,"Warren County, NC",37185,Black or African American,Not Hispanic or Latino,161.0,9760.0,1649.6,1134.8
+2020,North Carolina,37,"Warren County, NC",37185,White,Not Hispanic or Latino,125.0,7497.0,1667.3,910.1
+2020,North Carolina,37,"Washington County, NC",37187,Black or African American,Not Hispanic or Latino,82.0,5487.0,1494.4,1177.7
+2020,North Carolina,37,"Washington County, NC",37187,White,Not Hispanic or Latino,112.0,5037.0,2223.5,969.5
+2020,North Carolina,37,"Watauga County, NC",37189,White,Not Hispanic or Latino,421.0,51532.0,817.0,666.0
+2020,North Carolina,37,"Wayne County, NC",37191,Black or African American,Not Hispanic or Latino,518.0,38675.0,1339.4,1123.6
+2020,North Carolina,37,"Wayne County, NC",37191,White,Hispanic or Latino,40.0,12709.0,314.7,769.8
+2020,North Carolina,37,"Wayne County, NC",37191,White,Not Hispanic or Latino,968.0,64628.0,1497.8,1041.3
+2020,North Carolina,37,"Wilkes County, NC",37193,Black or African American,Not Hispanic or Latino,37.0,2901.0,1275.4,966.8
+2020,North Carolina,37,"Wilkes County, NC",37193,White,Hispanic or Latino,12.0,4035.0,Unreliable,Unreliable
+2020,North Carolina,37,"Wilkes County, NC",37193,White,Not Hispanic or Latino,933.0,59049.0,1580.0,966.2
+2020,North Carolina,37,"Wilson County, NC",37195,Black or African American,Not Hispanic or Latino,442.0,32377.0,1365.2,1154.0
+2020,North Carolina,37,"Wilson County, NC",37195,White,Hispanic or Latino,23.0,7392.0,311.1,702.0
+2020,North Carolina,37,"Wilson County, NC",37195,White,Not Hispanic or Latino,662.0,38147.0,1735.4,1012.9
+2020,North Carolina,37,"Yadkin County, NC",37197,Black or African American,Not Hispanic or Latino,19.0,1147.0,Unreliable,Unreliable
+2020,North Carolina,37,"Yadkin County, NC",37197,White,Hispanic or Latino,11.0,3744.0,Unreliable,Unreliable
+2020,North Carolina,37,"Yadkin County, NC",37197,White,Not Hispanic or Latino,487.0,31496.0,1546.2,984.2
+2020,North Carolina,37,"Yancey County, NC",37199,White,Not Hispanic or Latino,268.0,16670.0,1607.7,893.8
+2021 (provisional),North Carolina,37,"Alamance County, NC",37001,Black or African American,Not Hispanic or Latino,403.0,35367.0,1139.5,1098.9
+2021 (provisional),North Carolina,37,"Alamance County, NC",37001,White,Hispanic or Latino,51.0,18366.0,277.7,601.3
+2021 (provisional),North Carolina,37,"Alamance County, NC",37001,White,Not Hispanic or Latino,1413.0,106377.0,1328.3,849.4
+2021 (provisional),North Carolina,37,"Alexander County, NC",37003,Black or African American,Not Hispanic or Latino,28.0,2140.0,1308.4,1132.4
+2021 (provisional),North Carolina,37,"Alexander County, NC",37003,White,Not Hispanic or Latino,551.0,32413.0,1699.9,1142.2
+2021 (provisional),North Carolina,37,"Alleghany County, NC",37005,White,Not Hispanic or Latino,157.0,9694.0,1619.6,788.3
+2021 (provisional),North Carolina,37,"Anson County, NC",37007,Black or African American,Not Hispanic or Latino,175.0,11448.0,1528.7,1277.2
+2021 (provisional),North Carolina,37,"Anson County, NC",37007,White,Not Hispanic or Latino,202.0,10744.0,1880.1,1155.5
+2021 (provisional),North Carolina,37,"Ashe County, NC",37009,White,Not Hispanic or Latino,410.0,25067.0,1635.6,934.6
+2021 (provisional),North Carolina,37,"Avery County, NC",37011,White,Not Hispanic or Latino,233.0,15541.0,1499.3,947.1
+2021 (provisional),North Carolina,37,"Beaufort County, NC",37013,Black or African American,Not Hispanic or Latino,166.0,11054.0,1501.7,1053.2
+2021 (provisional),North Carolina,37,"Beaufort County, NC",37013,White,Not Hispanic or Latino,421.0,31140.0,1352.0,764.6
+2021 (provisional),North Carolina,37,"Bertie County, NC",37015,Black or African American,Not Hispanic or Latino,161.0,11398.0,1412.5,968.0
+2021 (provisional),North Carolina,37,"Bertie County, NC",37015,White,Not Hispanic or Latino,112.0,6462.0,1733.2,924.8
+2021 (provisional),North Carolina,37,"Bladen County, NC",37017,American Indian or Alaska Native,Not Hispanic or Latino,11.0,787.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Bladen County, NC",37017,Black or African American,Not Hispanic or Latino,189.0,10861.0,1740.2,1283.1
+2021 (provisional),North Carolina,37,"Bladen County, NC",37017,White,Not Hispanic or Latino,311.0,18089.0,1719.3,1038.8
+2021 (provisional),North Carolina,37,"Brunswick County, NC",37019,Black or African American,Not Hispanic or Latino,160.0,14054.0,1138.5,902.8
+2021 (provisional),North Carolina,37,"Brunswick County, NC",37019,White,Hispanic or Latino,25.0,6241.0,400.6,611.5
+2021 (provisional),North Carolina,37,"Brunswick County, NC",37019,White,Not Hispanic or Latino,1724.0,123148.0,1399.9,781.2
+2021 (provisional),North Carolina,37,"Buncombe County, NC",37021,Asian,Not Hispanic or Latino,26.0,3652.0,711.9,636.8
+2021 (provisional),North Carolina,37,"Buncombe County, NC",37021,Black or African American,Not Hispanic or Latino,200.0,15589.0,1283.0,1173.8
+2021 (provisional),North Carolina,37,"Buncombe County, NC",37021,White,Hispanic or Latino,55.0,16245.0,338.6,586.7
+2021 (provisional),North Carolina,37,"Buncombe County, NC",37021,White,Not Hispanic or Latino,2716.0,219328.0,1238.3,787.8
+2021 (provisional),North Carolina,37,"Burke County, NC",37023,Asian,Not Hispanic or Latino,20.0,3246.0,616.1,869.9
+2021 (provisional),North Carolina,37,"Burke County, NC",37023,Black or African American,Not Hispanic or Latino,77.0,5869.0,1312.0,1146.5
+2021 (provisional),North Carolina,37,"Burke County, NC",37023,White,Hispanic or Latino,14.0,4361.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Burke County, NC",37023,White,Not Hispanic or Latino,1078.0,73450.0,1467.7,926.1
+2021 (provisional),North Carolina,37,"Cabarrus County, NC",37025,Asian,Not Hispanic or Latino,19.0,11316.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Cabarrus County, NC",37025,Black or African American,Not Hispanic or Latino,291.0,42497.0,684.8,885.9
+2021 (provisional),North Carolina,37,"Cabarrus County, NC",37025,White,Hispanic or Latino,56.0,20123.0,278.3,508.6
+2021 (provisional),North Carolina,37,"Cabarrus County, NC",37025,White,Not Hispanic or Latino,1492.0,137256.0,1087.0,860.0
+2021 (provisional),North Carolina,37,"Caldwell County, NC",37027,Black or African American,Not Hispanic or Latino,50.0,3973.0,1258.5,1039.2
+2021 (provisional),North Carolina,37,"Caldwell County, NC",37027,White,Hispanic or Latino,16.0,4011.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Caldwell County, NC",37027,White,Not Hispanic or Latino,1079.0,70986.0,1520.0,1044.8
+2021 (provisional),North Carolina,37,"Camden County, NC",37029,Black or African American,Not Hispanic or Latino,24.0,1158.0,2072.5,1550.2
+2021 (provisional),North Carolina,37,"Camden County, NC",37029,White,Not Hispanic or Latino,80.0,8912.0,897.7,732.7
+2021 (provisional),North Carolina,37,"Carteret County, NC",37031,Black or African American,Not Hispanic or Latino,54.0,3619.0,1492.1,1115.0
+2021 (provisional),North Carolina,37,"Carteret County, NC",37031,White,Not Hispanic or Latino,910.0,60208.0,1511.4,839.2
+2021 (provisional),North Carolina,37,"Caswell County, NC",37033,Black or African American,Not Hispanic or Latino,113.0,7130.0,1584.9,982.7
+2021 (provisional),North Carolina,37,"Caswell County, NC",37033,White,Not Hispanic or Latino,230.0,13649.0,1685.1,1044.7
+2021 (provisional),North Carolina,37,"Catawba County, NC",37035,Asian,Not Hispanic or Latino,33.0,7511.0,439.4,856.8
+2021 (provisional),North Carolina,37,"Catawba County, NC",37035,Black or African American,Not Hispanic or Latino,178.0,13483.0,1320.2,1293.9
+2021 (provisional),North Carolina,37,"Catawba County, NC",37035,White,Hispanic or Latino,40.0,14482.0,276.2,526.1
+2021 (provisional),North Carolina,37,"Catawba County, NC",37035,White,Not Hispanic or Latino,1770.0,119250.0,1484.3,1010.5
+2021 (provisional),North Carolina,37,"Chatham County, NC",37037,Black or African American,Not Hispanic or Latino,108.0,8731.0,1237.0,829.1
+2021 (provisional),North Carolina,37,"Chatham County, NC",37037,White,Hispanic or Latino,25.0,7545.0,331.3,554.3
+2021 (provisional),North Carolina,37,"Chatham County, NC",37037,White,Not Hispanic or Latino,651.0,54746.0,1189.1,613.9
+2021 (provisional),North Carolina,37,"Cherokee County, NC",37039,American Indian or Alaska Native,Not Hispanic or Latino,14.0,386.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Cherokee County, NC",37039,White,Not Hispanic or Latino,509.0,26336.0,1932.7,1084.8
+2021 (provisional),North Carolina,37,"Chowan County, NC",37041,Black or African American,Not Hispanic or Latino,67.0,4653.0,1439.9,981.8
+2021 (provisional),North Carolina,37,"Chowan County, NC",37041,White,Not Hispanic or Latino,155.0,8319.0,1863.2,938.0
+2021 (provisional),North Carolina,37,"Clay County, NC",37043,White,Not Hispanic or Latino,178.0,10673.0,1667.8,940.8
+2021 (provisional),North Carolina,37,"Cleveland County, NC",37045,Black or African American,Not Hispanic or Latino,250.0,20503.0,1219.3,1194.2
+2021 (provisional),North Carolina,37,"Cleveland County, NC",37045,White,Hispanic or Latino,11.0,3259.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Cleveland County, NC",37045,White,Not Hispanic or Latino,1048.0,71491.0,1465.9,1029.6
+2021 (provisional),North Carolina,37,"Columbus County, NC",37047,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1778.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Columbus County, NC",37047,Black or African American,Not Hispanic or Latino,230.0,16253.0,1415.1,1152.4
+2021 (provisional),North Carolina,37,"Columbus County, NC",37047,White,Not Hispanic or Latino,577.0,32423.0,1779.6,1151.7
+2021 (provisional),North Carolina,37,"Craven County, NC",37049,Asian,Not Hispanic or Latino,11.0,2912.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Craven County, NC",37049,Black or African American,Not Hispanic or Latino,272.0,20891.0,1302.0,1139.8
+2021 (provisional),North Carolina,37,"Craven County, NC",37049,White,Hispanic or Latino,19.0,6370.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Craven County, NC",37049,White,Not Hispanic or Latino,801.0,66128.0,1211.3,802.0
+2021 (provisional),North Carolina,37,"Cumberland County, NC",37051,American Indian or Alaska Native,Not Hispanic or Latino,69.0,4893.0,1410.2,1748.7
+2021 (provisional),North Carolina,37,"Cumberland County, NC",37051,Asian,Not Hispanic or Latino,50.0,8676.0,576.3,500.3
+2021 (provisional),North Carolina,37,"Cumberland County, NC",37051,Black or African American,Not Hispanic or Latino,1267.0,126288.0,1003.3,1060.2
+2021 (provisional),North Carolina,37,"Cumberland County, NC",37051,White,Hispanic or Latino,105.0,29547.0,355.4,703.0
+2021 (provisional),North Carolina,37,"Cumberland County, NC",37051,White,Not Hispanic or Latino,1720.0,139754.0,1230.7,1069.6
+2021 (provisional),North Carolina,37,"Cumberland County, NC",37051,More than one race,Not Hispanic or Latino,20.0,13924.0,143.6,589.3
+2021 (provisional),North Carolina,37,"Currituck County, NC",37053,Black or African American,Not Hispanic or Latino,20.0,1572.0,1272.3,1113.4
+2021 (provisional),North Carolina,37,"Currituck County, NC",37053,White,Not Hispanic or Latino,271.0,25143.0,1077.8,867.5
+2021 (provisional),North Carolina,37,"Dare County, NC",37055,Black or African American,Not Hispanic or Latino,11.0,927.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Dare County, NC",37055,White,Not Hispanic or Latino,374.0,32699.0,1143.8,774.7
+2021 (provisional),North Carolina,37,"Davidson County, NC",37057,Black or African American,Not Hispanic or Latino,182.0,16530.0,1101.0,1000.7
+2021 (provisional),North Carolina,37,"Davidson County, NC",37057,White,Hispanic or Latino,36.0,10861.0,331.5,533.4
+2021 (provisional),North Carolina,37,"Davidson County, NC",37057,White,Not Hispanic or Latino,2016.0,133335.0,1512.0,1058.7
+2021 (provisional),North Carolina,37,"Davie County, NC",37059,Black or African American,Not Hispanic or Latino,48.0,2712.0,1769.9,1336.8
+2021 (provisional),North Carolina,37,"Davie County, NC",37059,White,Not Hispanic or Latino,492.0,36173.0,1360.1,827.7
+2021 (provisional),North Carolina,37,"Duplin County, NC",37061,Black or African American,Not Hispanic or Latino,204.0,14148.0,1441.9,981.5
+2021 (provisional),North Carolina,37,"Duplin County, NC",37061,White,Hispanic or Latino,34.0,11340.0,299.8,810.2
+2021 (provisional),North Carolina,37,"Duplin County, NC",37061,White,Not Hispanic or Latino,438.0,29867.0,1466.5,849.0
+2021 (provisional),North Carolina,37,"Durham County, NC",37063,Asian,Not Hispanic or Latino,33.0,18091.0,182.4,260.1
+2021 (provisional),North Carolina,37,"Durham County, NC",37063,Black or African American,Not Hispanic or Latino,831.0,114528.0,725.6,747.7
+2021 (provisional),North Carolina,37,"Durham County, NC",37063,White,Hispanic or Latino,68.0,35851.0,189.7,377.6
+2021 (provisional),North Carolina,37,"Durham County, NC",37063,White,Not Hispanic or Latino,1028.0,141597.0,726.0,523.6
+2021 (provisional),North Carolina,37,"Durham County, NC",37063,More than one race,Not Hispanic or Latino,13.0,7299.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Edgecombe County, NC",37065,Black or African American,Not Hispanic or Latino,344.0,28964.0,1187.7,950.7
+2021 (provisional),North Carolina,37,"Edgecombe County, NC",37065,White,Not Hispanic or Latino,278.0,18213.0,1526.4,887.0
+2021 (provisional),North Carolina,37,"Forsyth County, NC",37067,Asian,Not Hispanic or Latino,17.0,9813.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Forsyth County, NC",37067,Black or African American,Not Hispanic or Latino,1050.0,99196.0,1058.5,1062.4
+2021 (provisional),North Carolina,37,"Forsyth County, NC",37067,White,Hispanic or Latino,135.0,39842.0,338.8,696.7
+2021 (provisional),North Carolina,37,"Forsyth County, NC",37067,White,Not Hispanic or Latino,2672.0,214211.0,1247.4,806.7
+2021 (provisional),North Carolina,37,"Forsyth County, NC",37067,More than one race,Not Hispanic or Latino,13.0,7225.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Franklin County, NC",37069,Black or African American,Not Hispanic or Latino,178.0,17784.0,1000.9,798.5
+2021 (provisional),North Carolina,37,"Franklin County, NC",37069,White,Hispanic or Latino,15.0,5112.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Franklin County, NC",37069,White,Not Hispanic or Latino,486.0,45311.0,1072.6,811.6
+2021 (provisional),North Carolina,37,"Gaston County, NC",37071,Asian,Not Hispanic or Latino,23.0,3730.0,616.6,733.6
+2021 (provisional),North Carolina,37,"Gaston County, NC",37071,Black or African American,Not Hispanic or Latino,376.0,40109.0,937.4,1056.4
+2021 (provisional),North Carolina,37,"Gaston County, NC",37071,White,Hispanic or Latino,42.0,15020.0,279.6,478.4
+2021 (provisional),North Carolina,37,"Gaston County, NC",37071,White,Not Hispanic or Latino,2308.0,159337.0,1448.5,1049.1
+2021 (provisional),North Carolina,37,"Gates County, NC",37073,Black or African American,Not Hispanic or Latino,64.0,3527.0,1814.6,1157.6
+2021 (provisional),North Carolina,37,"Gates County, NC",37073,White,Not Hispanic or Latino,87.0,7292.0,1193.1,866.9
+2021 (provisional),North Carolina,37,"Graham County, NC",37075,White,Not Hispanic or Latino,101.0,7265.0,1390.2,843.8
+2021 (provisional),North Carolina,37,"Granville County, NC",37077,Black or African American,Not Hispanic or Latino,199.0,18735.0,1062.2,804.1
+2021 (provisional),North Carolina,37,"Granville County, NC",37077,White,Hispanic or Latino,17.0,4194.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Granville County, NC",37077,White,Not Hispanic or Latino,392.0,34727.0,1128.8,806.9
+2021 (provisional),North Carolina,37,"Greene County, NC",37079,Black or African American,Not Hispanic or Latino,72.0,7385.0,974.9,883.3
+2021 (provisional),North Carolina,37,"Greene County, NC",37079,White,Not Hispanic or Latino,149.0,9788.0,1522.3,928.6
+2021 (provisional),North Carolina,37,"Guilford County, NC",37081,American Indian or Alaska Native,Not Hispanic or Latino,18.0,2163.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Guilford County, NC",37081,Asian,Not Hispanic or Latino,102.0,28896.0,353.0,558.4
+2021 (provisional),North Carolina,37,"Guilford County, NC",37081,Black or African American,Not Hispanic or Latino,1712.0,187364.0,913.7,1043.1
+2021 (provisional),North Carolina,37,"Guilford County, NC",37081,White,Hispanic or Latino,108.0,35776.0,301.9,557.2
+2021 (provisional),North Carolina,37,"Guilford County, NC",37081,White,Not Hispanic or Latino,3663.0,263136.0,1392.1,875.2
+2021 (provisional),North Carolina,37,"Guilford County, NC",37081,More than one race,Not Hispanic or Latino,17.0,12135.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Halifax County, NC",37083,American Indian or Alaska Native,Not Hispanic or Latino,30.0,1787.0,1678.8,1408.3
+2021 (provisional),North Carolina,37,"Halifax County, NC",37083,Black or African American,Not Hispanic or Latino,389.0,26189.0,1485.4,1119.8
+2021 (provisional),North Carolina,37,"Halifax County, NC",37083,White,Not Hispanic or Latino,333.0,18873.0,1764.4,982.6
+2021 (provisional),North Carolina,37,"Harnett County, NC",37085,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1207.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Harnett County, NC",37085,Black or African American,Not Hispanic or Latino,275.0,28766.0,956.0,1036.0
+2021 (provisional),North Carolina,37,"Harnett County, NC",37085,White,Hispanic or Latino,48.0,14570.0,329.4,711.5
+2021 (provisional),North Carolina,37,"Harnett County, NC",37085,White,Not Hispanic or Latino,908.0,82573.0,1099.6,944.2
+2021 (provisional),North Carolina,37,"Haywood County, NC",37087,Black or African American,Not Hispanic or Latino,12.0,765.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Haywood County, NC",37087,White,Hispanic or Latino,10.0,2393.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Haywood County, NC",37087,White,Not Hispanic or Latino,842.0,57819.0,1456.3,854.9
+2021 (provisional),North Carolina,37,"Henderson County, NC",37089,Black or African American,Not Hispanic or Latino,45.0,3679.0,1223.2,1204.7
+2021 (provisional),North Carolina,37,"Henderson County, NC",37089,White,Hispanic or Latino,35.0,11204.0,312.4,519.9
+2021 (provisional),North Carolina,37,"Henderson County, NC",37089,White,Not Hispanic or Latino,1427.0,98233.0,1452.7,738.8
+2021 (provisional),North Carolina,37,"Hertford County, NC",37091,Black or African American,Not Hispanic or Latino,157.0,13885.0,1130.7,849.1
+2021 (provisional),North Carolina,37,"Hertford County, NC",37091,White,Not Hispanic or Latino,104.0,7612.0,1366.3,831.6
+2021 (provisional),North Carolina,37,"Hoke County, NC",37093,American Indian or Alaska Native,Not Hispanic or Latino,61.0,4412.0,1382.6,1374.3
+2021 (provisional),North Carolina,37,"Hoke County, NC",37093,Black or African American,Not Hispanic or Latino,180.0,18988.0,948.0,1001.8
+2021 (provisional),North Carolina,37,"Hoke County, NC",37093,White,Hispanic or Latino,12.0,5800.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Hoke County, NC",37093,White,Not Hispanic or Latino,186.0,21358.0,870.9,977.5
+2021 (provisional),North Carolina,37,"Hyde County, NC",37095,Black or African American,Not Hispanic or Latino,10.0,1284.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Hyde County, NC",37095,White,Not Hispanic or Latino,36.0,2956.0,1217.9,679.2
+2021 (provisional),North Carolina,37,"Iredell County, NC",37097,Asian,Not Hispanic or Latino,16.0,5064.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Iredell County, NC",37097,Black or African American,Not Hispanic or Latino,228.0,21879.0,1042.1,1015.0
+2021 (provisional),North Carolina,37,"Iredell County, NC",37097,White,Hispanic or Latino,29.0,12795.0,226.7,341.4
+2021 (provisional),North Carolina,37,"Iredell County, NC",37097,White,Not Hispanic or Latino,1474.0,139538.0,1056.3,811.6
+2021 (provisional),North Carolina,37,"Jackson County, NC",37099,American Indian or Alaska Native,Not Hispanic or Latino,44.0,3436.0,1280.6,1294.8
+2021 (provisional),North Carolina,37,"Jackson County, NC",37099,White,Not Hispanic or Latino,337.0,35531.0,948.5,667.3
+2021 (provisional),North Carolina,37,"Johnston County, NC",37101,Black or African American,Not Hispanic or Latino,299.0,35384.0,845.0,930.0
+2021 (provisional),North Carolina,37,"Johnston County, NC",37101,White,Hispanic or Latino,91.0,26057.0,349.2,783.2
+2021 (provisional),North Carolina,37,"Johnston County, NC",37101,White,Not Hispanic or Latino,1480.0,142931.0,1035.5,890.7
+2021 (provisional),North Carolina,37,"Jones County, NC",37103,Black or African American,Not Hispanic or Latino,59.0,2639.0,2235.7,1232.7
+2021 (provisional),North Carolina,37,"Jones County, NC",37103,White,Not Hispanic or Latino,89.0,5790.0,1537.1,973.9
+2021 (provisional),North Carolina,37,"Lee County, NC",37105,Black or African American,Not Hispanic or Latino,164.0,11593.0,1414.6,1246.9
+2021 (provisional),North Carolina,37,"Lee County, NC",37105,White,Hispanic or Latino,31.0,10685.0,290.1,592.4
+2021 (provisional),North Carolina,37,"Lee County, NC",37105,White,Not Hispanic or Latino,474.0,35881.0,1321.0,876.3
+2021 (provisional),North Carolina,37,"Lenoir County, NC",37107,Black or African American,Not Hispanic or Latino,295.0,22787.0,1294.6,1037.0
+2021 (provisional),North Carolina,37,"Lenoir County, NC",37107,White,Hispanic or Latino,14.0,3666.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Lenoir County, NC",37107,White,Not Hispanic or Latino,488.0,27093.0,1801.2,1026.5
+2021 (provisional),North Carolina,37,"Lincoln County, NC",37109,Black or African American,Not Hispanic or Latino,47.0,4731.0,993.4,898.1
+2021 (provisional),North Carolina,37,"Lincoln County, NC",37109,White,Hispanic or Latino,16.0,5718.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Lincoln County, NC",37109,White,Not Hispanic or Latino,780.0,74679.0,1044.5,767.4
+2021 (provisional),North Carolina,37,"McDowell County, NC",37111,Black or African American,Not Hispanic or Latino,19.0,1761.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"McDowell County, NC",37111,White,Not Hispanic or Latino,567.0,39917.0,1420.4,920.7
+2021 (provisional),North Carolina,37,"Macon County, NC",37113,White,Hispanic or Latino,12.0,2384.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Macon County, NC",37113,White,Not Hispanic or Latino,556.0,31791.0,1748.9,965.4
+2021 (provisional),North Carolina,37,"Madison County, NC",37115,White,Not Hispanic or Latino,278.0,20391.0,1363.3,884.8
+2021 (provisional),North Carolina,37,"Martin County, NC",37117,Black or African American,Not Hispanic or Latino,164.0,9179.0,1786.7,1177.9
+2021 (provisional),North Carolina,37,"Martin County, NC",37117,White,Not Hispanic or Latino,177.0,11555.0,1531.8,895.0
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,American Indian or Alaska Native,Not Hispanic or Latino,15.0,3232.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,Asian,Not Hispanic or Latino,187.0,73120.0,255.7,486.0
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Hispanic or Latino,26.0,17529.0,148.3,482.9
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Not Hispanic or Latino,2714.0,355577.0,763.3,943.0
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,10.0,828.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,White,Hispanic or Latino,405.0,125486.0,322.7,630.9
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,White,Not Hispanic or Latino,4228.0,516550.0,818.5,653.7
+2021 (provisional),North Carolina,37,"Mecklenburg County, NC",37119,More than one race,Not Hispanic or Latino,14.0,23891.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Mitchell County, NC",37121,White,Not Hispanic or Latino,244.0,13604.0,1793.6,1009.7
+2021 (provisional),North Carolina,37,"Montgomery County, NC",37123,Black or African American,Not Hispanic or Latino,81.0,4910.0,1649.7,1398.8
+2021 (provisional),North Carolina,37,"Montgomery County, NC",37123,White,Hispanic or Latino,14.0,3640.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Montgomery County, NC",37123,White,Not Hispanic or Latino,285.0,17152.0,1661.6,981.5
+2021 (provisional),North Carolina,37,"Moore County, NC",37125,Black or African American,Not Hispanic or Latino,196.0,11827.0,1657.2,1253.6
+2021 (provisional),North Carolina,37,"Moore County, NC",37125,White,Hispanic or Latino,18.0,6292.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Moore County, NC",37125,White,Not Hispanic or Latino,1078.0,79567.0,1354.8,720.3
+2021 (provisional),North Carolina,37,"Nash County, NC",37127,Black or African American,Not Hispanic or Latino,469.0,39080.0,1200.1,1063.7
+2021 (provisional),North Carolina,37,"Nash County, NC",37127,White,Hispanic or Latino,20.0,5502.0,363.5,776.7
+2021 (provisional),North Carolina,37,"Nash County, NC",37127,White,Not Hispanic or Latino,677.0,45614.0,1484.2,911.1
+2021 (provisional),North Carolina,37,"New Hanover County, NC",37129,Asian,Not Hispanic or Latino,12.0,3406.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"New Hanover County, NC",37129,Black or African American,Not Hispanic or Latino,371.0,30090.0,1233.0,1106.4
+2021 (provisional),North Carolina,37,"New Hanover County, NC",37129,White,Hispanic or Latino,29.0,11458.0,253.1,418.8
+2021 (provisional),North Carolina,37,"New Hanover County, NC",37129,White,Not Hispanic or Latino,1846.0,183254.0,1007.3,714.1
+2021 (provisional),North Carolina,37,"Northampton County, NC",37131,Black or African American,Not Hispanic or Latino,174.0,10765.0,1616.3,1036.5
+2021 (provisional),North Carolina,37,"Northampton County, NC",37131,White,Not Hispanic or Latino,132.0,7415.0,1780.2,898.9
+2021 (provisional),North Carolina,37,"Onslow County, NC",37133,Asian,Not Hispanic or Latino,18.0,4159.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Onslow County, NC",37133,Black or African American,Not Hispanic or Latino,251.0,29126.0,861.8,1043.2
+2021 (provisional),North Carolina,37,"Onslow County, NC",37133,White,Hispanic or Latino,40.0,21622.0,185.0,522.2
+2021 (provisional),North Carolina,37,"Onslow County, NC",37133,White,Not Hispanic or Latino,1192.0,134073.0,889.1,1058.3
+2021 (provisional),North Carolina,37,"Orange County, NC",37135,Asian,Not Hispanic or Latino,22.0,11812.0,186.3,392.5
+2021 (provisional),North Carolina,37,"Orange County, NC",37135,Black or African American,Not Hispanic or Latino,162.0,16736.0,968.0,897.8
+2021 (provisional),North Carolina,37,"Orange County, NC",37135,White,Hispanic or Latino,29.0,10909.0,265.8,478.1
+2021 (provisional),North Carolina,37,"Orange County, NC",37135,White,Not Hispanic or Latino,667.0,103610.0,643.8,552.3
+2021 (provisional),North Carolina,37,"Pamlico County, NC",37137,Black or African American,Not Hispanic or Latino,41.0,2320.0,1767.2,1039.5
+2021 (provisional),North Carolina,37,"Pamlico County, NC",37137,White,Not Hispanic or Latino,143.0,9457.0,1512.1,868.0
+2021 (provisional),North Carolina,37,"Pasquotank County, NC",37139,Black or African American,Not Hispanic or Latino,195.0,14332.0,1360.6,1204.8
+2021 (provisional),North Carolina,37,"Pasquotank County, NC",37139,White,Not Hispanic or Latino,321.0,21866.0,1468.0,984.1
+2021 (provisional),North Carolina,37,"Pender County, NC",37141,Black or African American,Not Hispanic or Latino,149.0,8949.0,1665.0,1200.2
+2021 (provisional),North Carolina,37,"Pender County, NC",37141,White,Not Hispanic or Latino,586.0,48908.0,1198.2,908.9
+2021 (provisional),North Carolina,37,"Perquimans County, NC",37143,Black or African American,Not Hispanic or Latino,47.0,2994.0,1569.8,1066.1
+2021 (provisional),North Carolina,37,"Perquimans County, NC",37143,White,Not Hispanic or Latino,139.0,9943.0,1398.0,735.2
+2021 (provisional),North Carolina,37,"Person County, NC",37145,Black or African American,Not Hispanic or Latino,142.0,10508.0,1351.4,1054.6
+2021 (provisional),North Carolina,37,"Person County, NC",37145,White,Not Hispanic or Latino,361.0,26328.0,1371.2,899.2
+2021 (provisional),North Carolina,37,"Pitt County, NC",37147,Black or African American,Not Hispanic or Latino,614.0,64725.0,948.6,1034.0
+2021 (provisional),North Carolina,37,"Pitt County, NC",37147,White,Hispanic or Latino,39.0,9333.0,417.9,950.5
+2021 (provisional),North Carolina,37,"Pitt County, NC",37147,White,Not Hispanic or Latino,947.0,98243.0,963.9,780.3
+2021 (provisional),North Carolina,37,"Polk County, NC",37149,Black or African American,Not Hispanic or Latino,12.0,814.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Polk County, NC",37149,White,Not Hispanic or Latino,323.0,18450.0,1750.7,843.1
+2021 (provisional),North Carolina,37,"Randolph County, NC",37151,Asian,Not Hispanic or Latino,13.0,2166.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Randolph County, NC",37151,Black or African American,Not Hispanic or Latino,122.0,9037.0,1350.0,1287.6
+2021 (provisional),North Carolina,37,"Randolph County, NC",37151,White,Hispanic or Latino,44.0,15305.0,287.5,699.3
+2021 (provisional),North Carolina,37,"Randolph County, NC",37151,White,Not Hispanic or Latino,1801.0,112642.0,1598.9,1110.4
+2021 (provisional),North Carolina,37,"Richmond County, NC",37153,Black or African American,Not Hispanic or Latino,213.0,13937.0,1528.3,1393.6
+2021 (provisional),North Carolina,37,"Richmond County, NC",37153,White,Hispanic or Latino,10.0,2210.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Richmond County, NC",37153,White,Not Hispanic or Latino,456.0,24809.0,1838.0,1250.5
+2021 (provisional),North Carolina,37,"Robeson County, NC",37155,American Indian or Alaska Native,Not Hispanic or Latino,773.0,52281.0,1478.5,1448.8
+2021 (provisional),North Carolina,37,"Robeson County, NC",37155,Black or African American,Not Hispanic or Latino,438.0,29934.0,1463.2,1289.0
+2021 (provisional),North Carolina,37,"Robeson County, NC",37155,White,Hispanic or Latino,37.0,7725.0,479.0,889.9
+2021 (provisional),North Carolina,37,"Robeson County, NC",37155,White,Not Hispanic or Latino,615.0,31718.0,1939.0,1256.7
+2021 (provisional),North Carolina,37,"Rockingham County, NC",37157,Black or African American,Not Hispanic or Latino,283.0,16934.0,1671.2,1273.5
+2021 (provisional),North Carolina,37,"Rockingham County, NC",37157,White,Hispanic or Latino,18.0,4844.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Rockingham County, NC",37157,White,Not Hispanic or Latino,1160.0,65684.0,1766.0,1127.0
+2021 (provisional),North Carolina,37,"Rowan County, NC",37159,Black or African American,Not Hispanic or Latino,320.0,23069.0,1387.1,1328.8
+2021 (provisional),North Carolina,37,"Rowan County, NC",37159,White,Hispanic or Latino,26.0,11672.0,222.8,416.8
+2021 (provisional),North Carolina,37,"Rowan County, NC",37159,White,Not Hispanic or Latino,1706.0,101293.0,1684.2,1158.9
+2021 (provisional),North Carolina,37,"Rutherford County, NC",37161,Black or African American,Not Hispanic or Latino,97.0,6472.0,1498.8,1194.5
+2021 (provisional),North Carolina,37,"Rutherford County, NC",37161,White,Not Hispanic or Latino,950.0,55444.0,1713.4,1112.6
+2021 (provisional),North Carolina,37,"Sampson County, NC",37163,American Indian or Alaska Native,Not Hispanic or Latino,20.0,1165.0,1716.7,1230.4
+2021 (provisional),North Carolina,37,"Sampson County, NC",37163,Black or African American,Not Hispanic or Latino,239.0,15774.0,1515.2,1086.3
+2021 (provisional),North Carolina,37,"Sampson County, NC",37163,White,Hispanic or Latino,33.0,10433.0,316.3,570.7
+2021 (provisional),North Carolina,37,"Sampson County, NC",37163,White,Not Hispanic or Latino,516.0,31723.0,1626.6,1015.2
+2021 (provisional),North Carolina,37,"Scotland County, NC",37165,American Indian or Alaska Native,Not Hispanic or Latino,53.0,4193.0,1264.0,1618.2
+2021 (provisional),North Carolina,37,"Scotland County, NC",37165,Black or African American,Not Hispanic or Latino,180.0,13356.0,1347.7,1233.8
+2021 (provisional),North Carolina,37,"Scotland County, NC",37165,White,Not Hispanic or Latino,298.0,14601.0,2041.0,1263.0
+2021 (provisional),North Carolina,37,"Stanly County, NC",37167,Asian,Not Hispanic or Latino,10.0,1192.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Stanly County, NC",37167,Black or African American,Not Hispanic or Latino,90.0,7000.0,1285.7,1192.3
+2021 (provisional),North Carolina,37,"Stanly County, NC",37167,White,Not Hispanic or Latino,751.0,51029.0,1471.7,1005.0
+2021 (provisional),North Carolina,37,"Stokes County, NC",37169,Black or African American,Not Hispanic or Latino,31.0,1783.0,1738.6,1123.5
+2021 (provisional),North Carolina,37,"Stokes County, NC",37169,White,Not Hispanic or Latino,602.0,41445.0,1452.5,942.3
+2021 (provisional),North Carolina,37,"Surry County, NC",37171,Black or African American,Not Hispanic or Latino,35.0,2655.0,1318.3,966.1
+2021 (provisional),North Carolina,37,"Surry County, NC",37171,White,Hispanic or Latino,17.0,7104.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Surry County, NC",37171,White,Not Hispanic or Latino,979.0,59396.0,1648.3,1027.2
+2021 (provisional),North Carolina,37,"Swain County, NC",37173,American Indian or Alaska Native,Not Hispanic or Latino,59.0,3847.0,1533.7,1573.5
+2021 (provisional),North Carolina,37,"Swain County, NC",37173,White,Not Hispanic or Latino,177.0,8532.0,2074.5,1284.5
+2021 (provisional),North Carolina,37,"Transylvania County, NC",37175,White,Not Hispanic or Latino,475.0,31132.0,1525.8,746.6
+2021 (provisional),North Carolina,37,"Tyrrell County, NC",37177,Black or African American,Not Hispanic or Latino,20.0,1280.0,1562.5,982.0
+2021 (provisional),North Carolina,37,"Tyrrell County, NC",37177,White,Not Hispanic or Latino,27.0,1941.0,1391.0,845.0
+2021 (provisional),North Carolina,37,"Union County, NC",37179,Asian,Not Hispanic or Latino,26.0,9360.0,277.8,511.5
+2021 (provisional),North Carolina,37,"Union County, NC",37179,Black or African American,Not Hispanic or Latino,274.0,28785.0,951.9,1044.3
+2021 (provisional),North Carolina,37,"Union County, NC",37179,White,Hispanic or Latino,63.0,24887.0,253.1,479.1
+2021 (provisional),North Carolina,37,"Union County, NC",37179,White,Not Hispanic or Latino,1531.0,172572.0,887.2,799.8
+2021 (provisional),North Carolina,37,"Vance County, NC",37181,Black or African American,Not Hispanic or Latino,295.0,22695.0,1299.8,1152.7
+2021 (provisional),North Carolina,37,"Vance County, NC",37181,White,Hispanic or Latino,12.0,2828.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Vance County, NC",37181,White,Not Hispanic or Latino,285.0,17173.0,1659.6,947.7
+2021 (provisional),North Carolina,37,"Wake County, NC",37183,Asian,Not Hispanic or Latino,184.0,90572.0,203.2,366.7
+2021 (provisional),North Carolina,37,"Wake County, NC",37183,Black or African American,Hispanic or Latino,14.0,12376.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Wake County, NC",37183,Black or African American,Not Hispanic or Latino,1576.0,224084.0,703.3,840.9
+2021 (provisional),North Carolina,37,"Wake County, NC",37183,White,Hispanic or Latino,223.0,92725.0,240.5,494.8
+2021 (provisional),North Carolina,37,"Wake County, NC",37183,White,Not Hispanic or Latino,4550.0,671183.0,677.9,594.5
+2021 (provisional),North Carolina,37,"Wake County, NC",37183,More than one race,Not Hispanic or Latino,15.0,25658.0,Unreliable,Unreliable
+2021 (provisional),North Carolina,37,"Warren County, NC",37185,Black or African American,Not Hispanic or Latino,148.0,9760.0,1516.4,1029.9
+2021 (provisional),North Carolina,37,"Warren County, NC",37185,White,Not Hispanic or Latino,121.0,7497.0,1614.0,763.0
+2021 (provisional),North Carolina,37,"Washington County, NC",37187,Black or African American,Not Hispanic or Latino,98.0,5487.0,1786.0,1374.7
+2021 (provisional),North Carolina,37,"Washington County, NC",37187,White,Not Hispanic or Latino,98.0,5037.0,1945.6,1033.8
+2021 (provisional),North Carolina,37,"Watauga County, NC",37189,White,Not Hispanic or Latino,410.0,51532.0,795.6,672.2
+2021 (provisional),North Carolina,37,"Wayne County, NC",37191,Black or African American,Not Hispanic or Latino,492.0,38675.0,1272.1,1062.1
+2021 (provisional),North Carolina,37,"Wayne County, NC",37191,White,Hispanic or Latino,46.0,12709.0,361.9,629.1
+2021 (provisional),North Carolina,37,"Wayne County, NC",37191,White,Not Hispanic or Latino,872.0,64628.0,1349.3,930.1
+2021 (provisional),North Carolina,37,"Wilkes County, NC",37193,Black or African American,Not Hispanic or Latino,40.0,2901.0,1378.8,1061.6
+2021 (provisional),North Carolina,37,"Wilkes County, NC",37193,White,Hispanic or Latino,20.0,4035.0,495.7,906.6
+2021 (provisional),North Carolina,37,"Wilkes County, NC",37193,White,Not Hispanic or Latino,918.0,59049.0,1554.6,962.1
+2021 (provisional),North Carolina,37,"Wilson County, NC",37195,Black or African American,Not Hispanic or Latino,457.0,32377.0,1411.5,1228.6
+2021 (provisional),North Carolina,37,"Wilson County, NC",37195,White,Hispanic or Latino,25.0,7392.0,338.2,607.1
+2021 (provisional),North Carolina,37,"Wilson County, NC",37195,White,Not Hispanic or Latino,626.0,38147.0,1641.0,966.4
+2021 (provisional),North Carolina,37,"Yadkin County, NC",37197,Black or African American,Not Hispanic or Latino,24.0,1147.0,2092.4,1442.2
+2021 (provisional),North Carolina,37,"Yadkin County, NC",37197,White,Not Hispanic or Latino,437.0,31496.0,1387.5,914.6
+2021 (provisional),North Carolina,37,"Yancey County, NC",37199,White,Not Hispanic or Latino,283.0,16670.0,1697.7,963.5
+2022 (provisional and partial),North Carolina,37,"Alamance County, NC",37001,Black or African American,Not Hispanic or Latino,25.0,35367.0,70.7,67.1
+2022 (provisional and partial),North Carolina,37,"Alamance County, NC",37001,White,Not Hispanic or Latino,115.0,106377.0,108.1,66.4
+2022 (provisional and partial),North Carolina,37,"Alexander County, NC",37003,White,Not Hispanic or Latino,42.0,32413.0,129.6,89.6
+2022 (provisional and partial),North Carolina,37,"Alleghany County, NC",37005,White,Not Hispanic or Latino,21.0,9694.0,216.6,93.5
+2022 (provisional and partial),North Carolina,37,"Anson County, NC",37007,Black or African American,Not Hispanic or Latino,14.0,11448.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Anson County, NC",37007,White,Not Hispanic or Latino,18.0,10744.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Ashe County, NC",37009,White,Not Hispanic or Latino,51.0,25067.0,203.5,113.9
+2022 (provisional and partial),North Carolina,37,"Avery County, NC",37011,White,Not Hispanic or Latino,21.0,15541.0,135.1,73.4
+2022 (provisional and partial),North Carolina,37,"Beaufort County, NC",37013,White,Not Hispanic or Latino,41.0,31140.0,131.7,75.4
+2022 (provisional and partial),North Carolina,37,"Bladen County, NC",37017,White,Not Hispanic or Latino,20.0,18089.0,110.6,62.1
+2022 (provisional and partial),North Carolina,37,"Brunswick County, NC",37019,White,Not Hispanic or Latino,201.0,123148.0,163.2,86.9
+2022 (provisional and partial),North Carolina,37,"Buncombe County, NC",37021,Black or African American,Not Hispanic or Latino,21.0,15589.0,134.7,118.4
+2022 (provisional and partial),North Carolina,37,"Buncombe County, NC",37021,White,Not Hispanic or Latino,386.0,219328.0,176.0,113.8
+2022 (provisional and partial),North Carolina,37,"Burke County, NC",37023,White,Not Hispanic or Latino,117.0,73450.0,159.3,99.8
+2022 (provisional and partial),North Carolina,37,"Cabarrus County, NC",37025,Black or African American,Not Hispanic or Latino,28.0,42497.0,65.9,76.5
+2022 (provisional and partial),North Carolina,37,"Cabarrus County, NC",37025,White,Not Hispanic or Latino,172.0,137256.0,125.3,99.4
+2022 (provisional and partial),North Carolina,37,"Caldwell County, NC",37027,White,Not Hispanic or Latino,87.0,70986.0,122.6,85.2
+2022 (provisional and partial),North Carolina,37,"Camden County, NC",37029,White,Not Hispanic or Latino,21.0,8912.0,235.6,181.9
+2022 (provisional and partial),North Carolina,37,"Carteret County, NC",37031,White,Not Hispanic or Latino,87.0,60208.0,144.5,79.3
+2022 (provisional and partial),North Carolina,37,"Caswell County, NC",37033,White,Not Hispanic or Latino,26.0,13649.0,190.5,113.2
+2022 (provisional and partial),North Carolina,37,"Catawba County, NC",37035,Black or African American,Not Hispanic or Latino,14.0,13483.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Catawba County, NC",37035,White,Not Hispanic or Latino,181.0,119250.0,151.8,102.6
+2022 (provisional and partial),North Carolina,37,"Chatham County, NC",37037,Black or African American,Not Hispanic or Latino,18.0,8731.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Chatham County, NC",37037,White,Not Hispanic or Latino,75.0,54746.0,137.0,77.7
+2022 (provisional and partial),North Carolina,37,"Cherokee County, NC",37039,White,Not Hispanic or Latino,66.0,26336.0,250.6,125.4
+2022 (provisional and partial),North Carolina,37,"Chowan County, NC",37041,White,Not Hispanic or Latino,16.0,8319.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Clay County, NC",37043,White,Not Hispanic or Latino,14.0,10673.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Cleveland County, NC",37045,Black or African American,Not Hispanic or Latino,10.0,20503.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Cleveland County, NC",37045,White,Not Hispanic or Latino,97.0,71491.0,135.7,91.3
+2022 (provisional and partial),North Carolina,37,"Columbus County, NC",37047,Black or African American,Not Hispanic or Latino,17.0,16253.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Columbus County, NC",37047,White,Not Hispanic or Latino,44.0,32423.0,135.7,79.7
+2022 (provisional and partial),North Carolina,37,"Craven County, NC",37049,Black or African American,Not Hispanic or Latino,19.0,20891.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Craven County, NC",37049,White,Not Hispanic or Latino,81.0,66128.0,122.5,83.9
+2022 (provisional and partial),North Carolina,37,"Cumberland County, NC",37051,Black or African American,Not Hispanic or Latino,91.0,126288.0,72.1,73.0
+2022 (provisional and partial),North Carolina,37,"Cumberland County, NC",37051,White,Hispanic or Latino,14.0,29547.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Cumberland County, NC",37051,White,Not Hispanic or Latino,139.0,139754.0,99.5,86.5
+2022 (provisional and partial),North Carolina,37,"Currituck County, NC",37053,White,Not Hispanic or Latino,23.0,25143.0,91.5,76.2
+2022 (provisional and partial),North Carolina,37,"Dare County, NC",37055,White,Not Hispanic or Latino,44.0,32699.0,134.6,100.0
+2022 (provisional and partial),North Carolina,37,"Davidson County, NC",37057,Black or African American,Not Hispanic or Latino,23.0,16530.0,139.1,131.4
+2022 (provisional and partial),North Carolina,37,"Davidson County, NC",37057,White,Not Hispanic or Latino,242.0,133335.0,181.5,127.1
+2022 (provisional and partial),North Carolina,37,"Davie County, NC",37059,White,Not Hispanic or Latino,52.0,36173.0,143.8,84.5
+2022 (provisional and partial),North Carolina,37,"Duplin County, NC",37061,White,Not Hispanic or Latino,22.0,29867.0,73.7,45.7
+2022 (provisional and partial),North Carolina,37,"Durham County, NC",37063,Black or African American,Not Hispanic or Latino,82.0,114528.0,71.6,75.2
+2022 (provisional and partial),North Carolina,37,"Durham County, NC",37063,White,Not Hispanic or Latino,120.0,141597.0,84.7,60.3
+2022 (provisional and partial),North Carolina,37,"Edgecombe County, NC",37065,Black or African American,Not Hispanic or Latino,30.0,28964.0,103.6,84.1
+2022 (provisional and partial),North Carolina,37,"Edgecombe County, NC",37065,White,Not Hispanic or Latino,29.0,18213.0,159.2,99.2
+2022 (provisional and partial),North Carolina,37,"Forsyth County, NC",37067,Black or African American,Not Hispanic or Latino,128.0,99196.0,129.0,130.7
+2022 (provisional and partial),North Carolina,37,"Forsyth County, NC",37067,White,Hispanic or Latino,17.0,39842.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Forsyth County, NC",37067,White,Not Hispanic or Latino,298.0,214211.0,139.1,90.5
+2022 (provisional and partial),North Carolina,37,"Franklin County, NC",37069,Black or African American,Not Hispanic or Latino,17.0,17784.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Franklin County, NC",37069,White,Not Hispanic or Latino,52.0,45311.0,114.8,85.1
+2022 (provisional and partial),North Carolina,37,"Gaston County, NC",37071,Black or African American,Not Hispanic or Latino,50.0,40109.0,124.7,160.2
+2022 (provisional and partial),North Carolina,37,"Gaston County, NC",37071,White,Hispanic or Latino,10.0,15020.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Gaston County, NC",37071,White,Not Hispanic or Latino,322.0,159337.0,202.1,142.9
+2022 (provisional and partial),North Carolina,37,"Gates County, NC",37073,White,Not Hispanic or Latino,12.0,7292.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Granville County, NC",37077,White,Not Hispanic or Latino,47.0,34727.0,135.3,103.9
+2022 (provisional and partial),North Carolina,37,"Guilford County, NC",37081,Asian,Not Hispanic or Latino,18.0,28896.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Guilford County, NC",37081,Black or African American,Not Hispanic or Latino,239.0,187364.0,127.6,149.0
+2022 (provisional and partial),North Carolina,37,"Guilford County, NC",37081,White,Hispanic or Latino,21.0,35776.0,58.7,113.8
+2022 (provisional and partial),North Carolina,37,"Guilford County, NC",37081,White,Not Hispanic or Latino,490.0,263136.0,186.2,114.6
+2022 (provisional and partial),North Carolina,37,"Halifax County, NC",37083,Black or African American,Not Hispanic or Latino,24.0,26189.0,91.6,78.3
+2022 (provisional and partial),North Carolina,37,"Halifax County, NC",37083,White,Not Hispanic or Latino,18.0,18873.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Harnett County, NC",37085,Black or African American,Not Hispanic or Latino,19.0,28766.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Harnett County, NC",37085,White,Not Hispanic or Latino,75.0,82573.0,90.8,73.9
+2022 (provisional and partial),North Carolina,37,"Haywood County, NC",37087,White,Not Hispanic or Latino,93.0,57819.0,160.8,101.5
+2022 (provisional and partial),North Carolina,37,"Henderson County, NC",37089,White,Not Hispanic or Latino,208.0,98233.0,211.7,107.0
+2022 (provisional and partial),North Carolina,37,"Hertford County, NC",37091,White,Not Hispanic or Latino,11.0,7612.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Iredell County, NC",37097,Black or African American,Not Hispanic or Latino,11.0,21879.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Iredell County, NC",37097,White,Not Hispanic or Latino,169.0,139538.0,121.1,92.2
+2022 (provisional and partial),North Carolina,37,"Jackson County, NC",37099,White,Not Hispanic or Latino,31.0,35531.0,87.2,63.9
+2022 (provisional and partial),North Carolina,37,"Johnston County, NC",37101,Black or African American,Not Hispanic or Latino,19.0,35384.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Johnston County, NC",37101,White,Not Hispanic or Latino,150.0,142931.0,104.9,94.0
+2022 (provisional and partial),North Carolina,37,"Lee County, NC",37105,Black or African American,Not Hispanic or Latino,10.0,11593.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Lee County, NC",37105,White,Not Hispanic or Latino,33.0,35881.0,92.0,68.3
+2022 (provisional and partial),North Carolina,37,"Lenoir County, NC",37107,Black or African American,Not Hispanic or Latino,16.0,22787.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Lenoir County, NC",37107,White,Not Hispanic or Latino,29.0,27093.0,107.0,70.9
+2022 (provisional and partial),North Carolina,37,"Lincoln County, NC",37109,White,Not Hispanic or Latino,92.0,74679.0,123.2,90.0
+2022 (provisional and partial),North Carolina,37,"McDowell County, NC",37111,White,Not Hispanic or Latino,65.0,39917.0,162.8,106.8
+2022 (provisional and partial),North Carolina,37,"Macon County, NC",37113,White,Not Hispanic or Latino,78.0,31791.0,245.4,129.2
+2022 (provisional and partial),North Carolina,37,"Madison County, NC",37115,White,Not Hispanic or Latino,36.0,20391.0,176.5,117.1
+2022 (provisional and partial),North Carolina,37,"Mecklenburg County, NC",37119,Asian,Not Hispanic or Latino,15.0,73120.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Mecklenburg County, NC",37119,Black or African American,Not Hispanic or Latino,204.0,355577.0,57.4,71.4
+2022 (provisional and partial),North Carolina,37,"Mecklenburg County, NC",37119,White,Hispanic or Latino,30.0,125486.0,23.9,65.3
+2022 (provisional and partial),North Carolina,37,"Mecklenburg County, NC",37119,White,Not Hispanic or Latino,393.0,516550.0,76.1,59.8
+2022 (provisional and partial),North Carolina,37,"Mitchell County, NC",37121,White,Not Hispanic or Latino,16.0,13604.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Montgomery County, NC",37123,White,Not Hispanic or Latino,16.0,17152.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Moore County, NC",37125,White,Not Hispanic or Latino,33.0,79567.0,41.5,27.8
+2022 (provisional and partial),North Carolina,37,"Nash County, NC",37127,Black or African American,Not Hispanic or Latino,20.0,39080.0,51.2,45.1
+2022 (provisional and partial),North Carolina,37,"Nash County, NC",37127,White,Not Hispanic or Latino,69.0,45614.0,151.3,87.6
+2022 (provisional and partial),North Carolina,37,"New Hanover County, NC",37129,Black or African American,Not Hispanic or Latino,30.0,30090.0,99.7,88.5
+2022 (provisional and partial),North Carolina,37,"New Hanover County, NC",37129,White,Not Hispanic or Latino,154.0,183254.0,84.0,61.8
+2022 (provisional and partial),North Carolina,37,"Northampton County, NC",37131,White,Not Hispanic or Latino,11.0,7415.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Onslow County, NC",37133,Black or African American,Not Hispanic or Latino,12.0,29126.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Onslow County, NC",37133,White,Not Hispanic or Latino,83.0,134073.0,61.9,75.1
+2022 (provisional and partial),North Carolina,37,"Orange County, NC",37135,Black or African American,Not Hispanic or Latino,13.0,16736.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Orange County, NC",37135,White,Not Hispanic or Latino,64.0,103610.0,61.8,53.5
+2022 (provisional and partial),North Carolina,37,"Pamlico County, NC",37137,White,Not Hispanic or Latino,17.0,9457.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Pasquotank County, NC",37139,Black or African American,Not Hispanic or Latino,17.0,14332.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Pasquotank County, NC",37139,White,Not Hispanic or Latino,39.0,21866.0,178.4,118.7
+2022 (provisional and partial),North Carolina,37,"Pender County, NC",37141,White,Not Hispanic or Latino,42.0,48908.0,85.9,62.1
+2022 (provisional and partial),North Carolina,37,"Perquimans County, NC",37143,White,Not Hispanic or Latino,21.0,9943.0,211.2,114.1
+2022 (provisional and partial),North Carolina,37,"Person County, NC",37145,White,Not Hispanic or Latino,41.0,26328.0,155.7,103.0
+2022 (provisional and partial),North Carolina,37,"Pitt County, NC",37147,Black or African American,Not Hispanic or Latino,18.0,64725.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Pitt County, NC",37147,White,Not Hispanic or Latino,39.0,98243.0,39.7,32.8
+2022 (provisional and partial),North Carolina,37,"Polk County, NC",37149,White,Not Hispanic or Latino,34.0,18450.0,184.3,87.8
+2022 (provisional and partial),North Carolina,37,"Randolph County, NC",37151,Black or African American,Not Hispanic or Latino,16.0,9037.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Randolph County, NC",37151,White,Hispanic or Latino,10.0,15305.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Randolph County, NC",37151,White,Not Hispanic or Latino,230.0,112642.0,204.2,139.1
+2022 (provisional and partial),North Carolina,37,"Richmond County, NC",37153,White,Not Hispanic or Latino,44.0,24809.0,177.4,135.3
+2022 (provisional and partial),North Carolina,37,"Robeson County, NC",37155,American Indian or Alaska Native,Not Hispanic or Latino,50.0,52281.0,95.6,93.3
+2022 (provisional and partial),North Carolina,37,"Robeson County, NC",37155,Black or African American,Not Hispanic or Latino,23.0,29934.0,76.8,67.8
+2022 (provisional and partial),North Carolina,37,"Robeson County, NC",37155,White,Not Hispanic or Latino,40.0,31718.0,126.1,88.9
+2022 (provisional and partial),North Carolina,37,"Rockingham County, NC",37157,Black or African American,Not Hispanic or Latino,20.0,16934.0,118.1,98.8
+2022 (provisional and partial),North Carolina,37,"Rockingham County, NC",37157,White,Not Hispanic or Latino,124.0,65684.0,188.8,123.6
+2022 (provisional and partial),North Carolina,37,"Rowan County, NC",37159,White,Not Hispanic or Latino,104.0,101293.0,102.7,73.5
+2022 (provisional and partial),North Carolina,37,"Rutherford County, NC",37161,White,Not Hispanic or Latino,67.0,55444.0,120.8,76.3
+2022 (provisional and partial),North Carolina,37,"Sampson County, NC",37163,Black or African American,Not Hispanic or Latino,13.0,15774.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Sampson County, NC",37163,White,Not Hispanic or Latino,19.0,31723.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Scotland County, NC",37165,White,Not Hispanic or Latino,18.0,14601.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Stanly County, NC",37167,White,Not Hispanic or Latino,65.0,51029.0,127.4,85.6
+2022 (provisional and partial),North Carolina,37,"Stokes County, NC",37169,White,Not Hispanic or Latino,71.0,41445.0,171.3,106.2
+2022 (provisional and partial),North Carolina,37,"Surry County, NC",37171,White,Not Hispanic or Latino,149.0,59396.0,250.9,145.7
+2022 (provisional and partial),North Carolina,37,"Swain County, NC",37173,White,Not Hispanic or Latino,36.0,8532.0,421.9,223.0
+2022 (provisional and partial),North Carolina,37,"Transylvania County, NC",37175,White,Not Hispanic or Latino,59.0,31132.0,189.5,90.0
+2022 (provisional and partial),North Carolina,37,"Union County, NC",37179,Black or African American,Not Hispanic or Latino,23.0,28785.0,79.9,90.0
+2022 (provisional and partial),North Carolina,37,"Union County, NC",37179,White,Not Hispanic or Latino,166.0,172572.0,96.2,86.8
+2022 (provisional and partial),North Carolina,37,"Vance County, NC",37181,Black or African American,Not Hispanic or Latino,22.0,22695.0,96.9,89.8
+2022 (provisional and partial),North Carolina,37,"Vance County, NC",37181,White,Not Hispanic or Latino,32.0,17173.0,186.3,97.8
+2022 (provisional and partial),North Carolina,37,"Wake County, NC",37183,Asian,Not Hispanic or Latino,18.0,90572.0,Unreliable,Unreliable
+2022 (provisional and partial),North Carolina,37,"Wake County, NC",37183,Black or African American,Not Hispanic or Latino,115.0,224084.0,51.3,61.3
+2022 (provisional and partial),North Carolina,37,"Wake County, NC",37183,White,Hispanic or Latino,27.0,92725.0,29.1,53.2
+2022 (provisional and partial),North Carolina,37,"Wake County, NC",37183,White,Not Hispanic or Latino,444.0,671183.0,66.2,58.4
+2022 (provisional and partial),North Carolina,37,"Watauga County, NC",37189,White,Not Hispanic or Latino,33.0,51532.0,64.0,57.5
+2022 (provisional and partial),North Carolina,37,"Wayne County, NC",37191,Black or African American,Not Hispanic or Latino,23.0,38675.0,59.5,46.7
+2022 (provisional and partial),North Carolina,37,"Wayne County, NC",37191,White,Not Hispanic or Latino,48.0,64628.0,74.3,50.4
+2022 (provisional and partial),North Carolina,37,"Wilkes County, NC",37193,White,Not Hispanic or Latino,91.0,59049.0,154.1,96.2
+2022 (provisional and partial),North Carolina,37,"Wilson County, NC",37195,Black or African American,Not Hispanic or Latino,23.0,32377.0,71.0,64.5
+2022 (provisional and partial),North Carolina,37,"Wilson County, NC",37195,White,Not Hispanic or Latino,56.0,38147.0,146.8,82.9
+2022 (provisional and partial),North Carolina,37,"Yadkin County, NC",37197,White,Not Hispanic or Latino,56.0,31496.0,177.8,113.1
+2022 (provisional and partial),North Carolina,37,"Yancey County, NC",37199,White,Not Hispanic or Latino,26.0,16670.0,156.0,84.5

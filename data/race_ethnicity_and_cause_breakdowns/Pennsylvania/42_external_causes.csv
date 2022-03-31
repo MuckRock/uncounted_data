@@ -1,0 +1,216 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Pennsylvania,"Adams County, PA",Nontransport accidents,Unspecified fall,W19,11.0,102811.0,Unreliable
+2018,Pennsylvania,"Adams County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,102811.0,Unreliable
+2018,Pennsylvania,"Adams County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,102811.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,1218452.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,1218452.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,35.0,1218452.0,2.9
+2018,Pennsylvania,"Allegheny County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,30.0,1218452.0,2.5
+2018,Pennsylvania,"Allegheny County, PA",Nontransport accidents,Other fall on same level,W18,153.0,1218452.0,12.6
+2018,Pennsylvania,"Allegheny County, PA",Nontransport accidents,Unspecified fall,W19,53.0,1218452.0,4.3
+2018,Pennsylvania,"Allegheny County, PA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,24.0,1218452.0,2.0
+2018,Pennsylvania,"Allegheny County, PA",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,19.0,1218452.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,245.0,1218452.0,20.1
+2018,Pennsylvania,"Allegheny County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,186.0,1218452.0,15.3
+2018,Pennsylvania,"Allegheny County, PA",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,15.0,1218452.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,1218452.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,19.0,1218452.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,58.0,1218452.0,4.8
+2018,Pennsylvania,"Allegheny County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,79.0,1218452.0,6.5
+2018,Pennsylvania,"Allegheny County, PA",Assault (homicide),"Assault by rifle, shotgun and larger firearm discharge",X94,12.0,1218452.0,Unreliable
+2018,Pennsylvania,"Allegheny County, PA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,79.0,1218452.0,6.5
+2018,Pennsylvania,"Armstrong County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,65263.0,39.8
+2018,Pennsylvania,"Beaver County, PA",Nontransport accidents,Other fall on same level,W18,12.0,164742.0,Unreliable
+2018,Pennsylvania,"Beaver County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,164742.0,Unreliable
+2018,Pennsylvania,"Beaver County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,164742.0,20.0
+2018,Pennsylvania,"Beaver County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,164742.0,Unreliable
+2018,Pennsylvania,"Berks County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,420152.0,Unreliable
+2018,Pennsylvania,"Berks County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,11.0,420152.0,Unreliable
+2018,Pennsylvania,"Berks County, PA",Nontransport accidents,Other fall on same level,W18,12.0,420152.0,Unreliable
+2018,Pennsylvania,"Berks County, PA",Nontransport accidents,Unspecified fall,W19,32.0,420152.0,7.6
+2018,Pennsylvania,"Berks County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,51.0,420152.0,12.1
+2018,Pennsylvania,"Berks County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,420152.0,7.9
+2018,Pennsylvania,"Berks County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,420152.0,Unreliable
+2018,Pennsylvania,"Berks County, PA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,16.0,420152.0,Unreliable
+2018,Pennsylvania,"Berks County, PA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,420152.0,Unreliable
+2018,Pennsylvania,"Blair County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,122492.0,Unreliable
+2018,Pennsylvania,"Blair County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,122492.0,Unreliable
+2018,Pennsylvania,"Bradford County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,60833.0,Unreliable
+2018,Pennsylvania,"Bucks County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,628195.0,Unreliable
+2018,Pennsylvania,"Bucks County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,628195.0,Unreliable
+2018,Pennsylvania,"Bucks County, PA",Nontransport accidents,Other fall on same level,W18,33.0,628195.0,5.3
+2018,Pennsylvania,"Bucks County, PA",Nontransport accidents,Unspecified fall,W19,25.0,628195.0,4.0
+2018,Pennsylvania,"Bucks County, PA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,628195.0,Unreliable
+2018,Pennsylvania,"Bucks County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,81.0,628195.0,12.9
+2018,Pennsylvania,"Bucks County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,149.0,628195.0,23.7
+2018,Pennsylvania,"Bucks County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,29.0,628195.0,4.6
+2018,Pennsylvania,"Bucks County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,36.0,628195.0,5.7
+2018,Pennsylvania,"Butler County, PA",Nontransport accidents,Other fall on same level,W18,16.0,187888.0,Unreliable
+2018,Pennsylvania,"Butler County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,187888.0,13.3
+2018,Pennsylvania,"Butler County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,187888.0,Unreliable
+2018,Pennsylvania,"Butler County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,187888.0,Unreliable
+2018,Pennsylvania,"Cambria County, PA",Nontransport accidents,Unspecified fall,W19,22.0,131730.0,16.7
+2018,Pennsylvania,"Cambria County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,131730.0,Unreliable
+2018,Pennsylvania,"Cambria County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,41.0,131730.0,31.1
+2018,Pennsylvania,"Carbon County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,64227.0,35.8
+2018,Pennsylvania,"Chester County, PA",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,13.0,522046.0,Unreliable
+2018,Pennsylvania,"Chester County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17.0,522046.0,Unreliable
+2018,Pennsylvania,"Chester County, PA",Nontransport accidents,Other fall on same level,W18,16.0,522046.0,Unreliable
+2018,Pennsylvania,"Chester County, PA",Nontransport accidents,Unspecified fall,W19,20.0,522046.0,3.8
+2018,Pennsylvania,"Chester County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,66.0,522046.0,12.6
+2018,Pennsylvania,"Chester County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,68.0,522046.0,13.0
+2018,Pennsylvania,"Chester County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,20.0,522046.0,3.8
+2018,Pennsylvania,"Chester County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,32.0,522046.0,6.1
+2018,Pennsylvania,"Clearfield County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,79388.0,Unreliable
+2018,Pennsylvania,"Columbia County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,65456.0,Unreliable
+2018,Pennsylvania,"Crawford County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,85063.0,Unreliable
+2018,Pennsylvania,"Cumberland County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,251423.0,Unreliable
+2018,Pennsylvania,"Cumberland County, PA",Nontransport accidents,Other fall on same level,W18,10.0,251423.0,Unreliable
+2018,Pennsylvania,"Cumberland County, PA",Nontransport accidents,Unspecified fall,W19,11.0,251423.0,Unreliable
+2018,Pennsylvania,"Cumberland County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,251423.0,11.5
+2018,Pennsylvania,"Cumberland County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,251423.0,Unreliable
+2018,Pennsylvania,"Cumberland County, PA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,15.0,251423.0,Unreliable
+2018,Pennsylvania,"Dauphin County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,22.0,277097.0,7.9
+2018,Pennsylvania,"Dauphin County, PA",Nontransport accidents,Unspecified fall,W19,23.0,277097.0,8.3
+2018,Pennsylvania,"Dauphin County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,277097.0,17.7
+2018,Pennsylvania,"Dauphin County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,55.0,277097.0,19.8
+2018,Pennsylvania,"Dauphin County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,277097.0,Unreliable
+2018,Pennsylvania,"Dauphin County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,277097.0,Unreliable
+2018,Pennsylvania,"Delaware County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,564751.0,Unreliable
+2018,Pennsylvania,"Delaware County, PA",Nontransport accidents,Other fall on same level,W18,27.0,564751.0,4.8
+2018,Pennsylvania,"Delaware County, PA",Nontransport accidents,Unspecified fall,W19,24.0,564751.0,4.2
+2018,Pennsylvania,"Delaware County, PA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,15.0,564751.0,Unreliable
+2018,Pennsylvania,"Delaware County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,113.0,564751.0,20.0
+2018,Pennsylvania,"Delaware County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,65.0,564751.0,11.5
+2018,Pennsylvania,"Delaware County, PA",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,564751.0,Unreliable
+2018,Pennsylvania,"Delaware County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,27.0,564751.0,4.8
+2018,Pennsylvania,"Delaware County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,564751.0,3.9
+2018,Pennsylvania,"Delaware County, PA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,33.0,564751.0,5.8
+2018,Pennsylvania,"Delaware County, PA",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,11.0,564751.0,Unreliable
+2018,Pennsylvania,"Erie County, PA",Nontransport accidents,Unspecified fall,W19,13.0,272061.0,Unreliable
+2018,Pennsylvania,"Erie County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,50.0,272061.0,18.4
+2018,Pennsylvania,"Erie County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,272061.0,Unreliable
+2018,Pennsylvania,"Erie County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,272061.0,Unreliable
+2018,Pennsylvania,"Erie County, PA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,17.0,272061.0,Unreliable
+2018,Pennsylvania,"Fayette County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,130441.0,Unreliable
+2018,Pennsylvania,"Fayette County, PA",Nontransport accidents,Unspecified fall,W19,13.0,130441.0,Unreliable
+2018,Pennsylvania,"Fayette County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,130441.0,30.7
+2018,Pennsylvania,"Fayette County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,130441.0,Unreliable
+2018,Pennsylvania,"Franklin County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,154835.0,Unreliable
+2018,Pennsylvania,"Franklin County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,154835.0,Unreliable
+2018,Pennsylvania,"Indiana County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,84501.0,Unreliable
+2018,Pennsylvania,"Indiana County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,84501.0,Unreliable
+2018,Pennsylvania,"Indiana County, PA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,84501.0,Unreliable
+2018,Pennsylvania,"Lackawanna County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,210793.0,Unreliable
+2018,Pennsylvania,"Lackawanna County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,50.0,210793.0,23.7
+2018,Pennsylvania,"Lackawanna County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,35.0,210793.0,16.6
+2018,Pennsylvania,"Lackawanna County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,210793.0,Unreliable
+2018,Pennsylvania,"Lackawanna County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,24.0,210793.0,11.4
+2018,Pennsylvania,"Lancaster County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,34.0,543557.0,6.3
+2018,Pennsylvania,"Lancaster County, PA",Nontransport accidents,Other fall on same level,W18,11.0,543557.0,Unreliable
+2018,Pennsylvania,"Lancaster County, PA",Nontransport accidents,Unspecified fall,W19,36.0,543557.0,6.6
+2018,Pennsylvania,"Lancaster County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,54.0,543557.0,9.9
+2018,Pennsylvania,"Lancaster County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,56.0,543557.0,10.3
+2018,Pennsylvania,"Lancaster County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,543557.0,Unreliable
+2018,Pennsylvania,"Lancaster County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,42.0,543557.0,7.7
+2018,Pennsylvania,"Lancaster County, PA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,543557.0,Unreliable
+2018,Pennsylvania,"Lawrence County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,86184.0,29.0
+2018,Pennsylvania,"Lawrence County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,86184.0,Unreliable
+2018,Pennsylvania,"Lebanon County, PA",Nontransport accidents,Unspecified fall,W19,14.0,141314.0,Unreliable
+2018,Pennsylvania,"Lebanon County, PA",Nontransport accidents,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances,X49,10.0,141314.0,Unreliable
+2018,Pennsylvania,"Lebanon County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,141314.0,Unreliable
+2018,Pennsylvania,"Lehigh County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,368100.0,Unreliable
+2018,Pennsylvania,"Lehigh County, PA",Nontransport accidents,Other fall on same level,W18,18.0,368100.0,Unreliable
+2018,Pennsylvania,"Lehigh County, PA",Nontransport accidents,Unspecified fall,W19,42.0,368100.0,11.4
+2018,Pennsylvania,"Lehigh County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,34.0,368100.0,9.2
+2018,Pennsylvania,"Lehigh County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,60.0,368100.0,16.3
+2018,Pennsylvania,"Lehigh County, PA",Nontransport accidents,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances,X49,13.0,368100.0,Unreliable
+2018,Pennsylvania,"Lehigh County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,368100.0,Unreliable
+2018,Pennsylvania,"Lehigh County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,26.0,368100.0,7.1
+2018,Pennsylvania,"Luzerne County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,317646.0,Unreliable
+2018,Pennsylvania,"Luzerne County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,12.0,317646.0,Unreliable
+2018,Pennsylvania,"Luzerne County, PA",Nontransport accidents,Unspecified fall,W19,16.0,317646.0,Unreliable
+2018,Pennsylvania,"Luzerne County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,52.0,317646.0,16.4
+2018,Pennsylvania,"Luzerne County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,85.0,317646.0,26.8
+2018,Pennsylvania,"Luzerne County, PA",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,12.0,317646.0,Unreliable
+2018,Pennsylvania,"Luzerne County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,317646.0,Unreliable
+2018,Pennsylvania,"Luzerne County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,33.0,317646.0,10.4
+2018,Pennsylvania,"Lycoming County, PA",Assault (homicide),"Assault by drugs, medicaments and biological substances",X85,10.0,113664.0,Unreliable
+2018,Pennsylvania,"Mercer County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,110683.0,Unreliable
+2018,Pennsylvania,"Mercer County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,34.0,110683.0,30.7
+2018,Pennsylvania,"Mifflin County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,46222.0,Unreliable
+2018,Pennsylvania,"Monroe County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,169507.0,Unreliable
+2018,Pennsylvania,"Monroe County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,169507.0,Unreliable
+2018,Pennsylvania,"Monroe County, PA",Nontransport accidents,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances,X49,28.0,169507.0,16.5
+2018,Pennsylvania,"Monroe County, PA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,15.0,169507.0,Unreliable
+2018,Pennsylvania,"Montgomery County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,828604.0,Unreliable
+2018,Pennsylvania,"Montgomery County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,14.0,828604.0,Unreliable
+2018,Pennsylvania,"Montgomery County, PA",Nontransport accidents,Other fall on same level,W18,72.0,828604.0,8.7
+2018,Pennsylvania,"Montgomery County, PA",Nontransport accidents,Unspecified fall,W19,28.0,828604.0,3.4
+2018,Pennsylvania,"Montgomery County, PA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,12.0,828604.0,Unreliable
+2018,Pennsylvania,"Montgomery County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,94.0,828604.0,11.3
+2018,Pennsylvania,"Montgomery County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,81.0,828604.0,9.8
+2018,Pennsylvania,"Montgomery County, PA",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12.0,828604.0,Unreliable
+2018,Pennsylvania,"Montgomery County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,39.0,828604.0,4.7
+2018,Pennsylvania,"Montgomery County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,31.0,828604.0,3.7
+2018,Pennsylvania,"Montgomery County, PA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,828604.0,Unreliable
+2018,Pennsylvania,"Northampton County, PA",Nontransport accidents,Other fall on same level,W18,13.0,304807.0,Unreliable
+2018,Pennsylvania,"Northampton County, PA",Nontransport accidents,Unspecified fall,W19,16.0,304807.0,Unreliable
+2018,Pennsylvania,"Northampton County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,304807.0,9.5
+2018,Pennsylvania,"Northampton County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,43.0,304807.0,14.1
+2018,Pennsylvania,"Northampton County, PA",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,304807.0,Unreliable
+2018,Pennsylvania,"Northampton County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,304807.0,Unreliable
+2018,Pennsylvania,"Northampton County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,304807.0,6.9
+2018,Pennsylvania,"Northumberland County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,91083.0,Unreliable
+2018,Pennsylvania,"Philadelphia County, PA",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,16.0,1584138.0,Unreliable
+2018,Pennsylvania,"Philadelphia County, PA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,27.0,1584138.0,1.7
+2018,Pennsylvania,"Philadelphia County, PA",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,16.0,1584138.0,Unreliable
+2018,Pennsylvania,"Philadelphia County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32.0,1584138.0,2.0
+2018,Pennsylvania,"Philadelphia County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,31.0,1584138.0,2.0
+2018,Pennsylvania,"Philadelphia County, PA",Nontransport accidents,Other fall on same level,W18,38.0,1584138.0,2.4
+2018,Pennsylvania,"Philadelphia County, PA",Nontransport accidents,Unspecified fall,W19,55.0,1584138.0,3.5
+2018,Pennsylvania,"Philadelphia County, PA",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,29.0,1584138.0,1.8
+2018,Pennsylvania,"Philadelphia County, PA",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,13.0,1584138.0,Unreliable
+2018,Pennsylvania,"Philadelphia County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",X40,11.0,1584138.0,Unreliable
+2018,Pennsylvania,"Philadelphia County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,1584138.0,Unreliable
+2018,Pennsylvania,"Philadelphia County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,525.0,1584138.0,33.1
+2018,Pennsylvania,"Philadelphia County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,377.0,1584138.0,23.8
+2018,Pennsylvania,"Philadelphia County, PA",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,29.0,1584138.0,1.8
+2018,Pennsylvania,"Philadelphia County, PA",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,1584138.0,Unreliable
+2018,Pennsylvania,"Philadelphia County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,68.0,1584138.0,4.3
+2018,Pennsylvania,"Philadelphia County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,49.0,1584138.0,3.1
+2018,Pennsylvania,"Philadelphia County, PA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,297.0,1584138.0,18.7
+2018,Pennsylvania,"Philadelphia County, PA",Assault (homicide),Assault by sharp object,X99,30.0,1584138.0,1.9
+2018,Pennsylvania,"Philadelphia County, PA",Assault (homicide),Assault by unspecified means,Y09,21.0,1584138.0,1.3
+2018,Pennsylvania,"Pike County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,55933.0,Unreliable
+2018,Pennsylvania,"Schuylkill County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,142067.0,Unreliable
+2018,Pennsylvania,"Schuylkill County, PA",Nontransport accidents,Unspecified fall,W19,12.0,142067.0,Unreliable
+2018,Pennsylvania,"Schuylkill County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,142067.0,Unreliable
+2018,Pennsylvania,"Schuylkill County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,142067.0,Unreliable
+2018,Pennsylvania,"Schuylkill County, PA",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,11.0,142067.0,Unreliable
+2018,Pennsylvania,"Schuylkill County, PA",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,16.0,142067.0,Unreliable
+2018,Pennsylvania,"Washington County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,207346.0,Unreliable
+2018,Pennsylvania,"Washington County, PA",Nontransport accidents,Unspecified fall,W19,10.0,207346.0,Unreliable
+2018,Pennsylvania,"Washington County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,59.0,207346.0,28.5
+2018,Pennsylvania,"Washington County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,207346.0,Unreliable
+2018,Pennsylvania,"Washington County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,207346.0,Unreliable
+2018,Pennsylvania,"Washington County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,25.0,207346.0,12.1
+2018,Pennsylvania,"Westmoreland County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,350611.0,Unreliable
+2018,Pennsylvania,"Westmoreland County, PA",Nontransport accidents,Fall on and from stairs and steps,W10,11.0,350611.0,Unreliable
+2018,Pennsylvania,"Westmoreland County, PA",Nontransport accidents,Other fall on same level,W18,27.0,350611.0,7.7
+2018,Pennsylvania,"Westmoreland County, PA",Nontransport accidents,Unspecified fall,W19,63.0,350611.0,18.0
+2018,Pennsylvania,"Westmoreland County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,350611.0,Unreliable
+2018,Pennsylvania,"Westmoreland County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,113.0,350611.0,32.2
+2018,Pennsylvania,"Westmoreland County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,350611.0,Unreliable
+2018,Pennsylvania,"Westmoreland County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,33.0,350611.0,9.4
+2018,Pennsylvania,"Wyoming County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,27046.0,Unreliable
+2018,Pennsylvania,"York County, PA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,21.0,448273.0,4.7
+2018,Pennsylvania,"York County, PA",Nontransport accidents,Other fall on same level,W18,15.0,448273.0,Unreliable
+2018,Pennsylvania,"York County, PA",Nontransport accidents,Unspecified fall,W19,56.0,448273.0,12.5
+2018,Pennsylvania,"York County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,51.0,448273.0,11.4
+2018,Pennsylvania,"York County, PA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,62.0,448273.0,13.8
+2018,Pennsylvania,"York County, PA",Nontransport accidents,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances,X49,31.0,448273.0,6.9
+2018,Pennsylvania,"York County, PA",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,448273.0,Unreliable
+2018,Pennsylvania,"York County, PA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,448273.0,4.9
+2018,Pennsylvania,"York County, PA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,49.0,448273.0,10.9
+2018,Pennsylvania,"York County, PA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,14.0,448273.0,Unreliable

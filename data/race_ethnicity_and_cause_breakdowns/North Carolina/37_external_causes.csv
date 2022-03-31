@@ -1,0 +1,156 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,North Carolina,"Alamance County, NC",Nontransport accidents,Other fall on same level,W18,10.0,166436.0,Unreliable
+2018,North Carolina,"Alamance County, NC",Nontransport accidents,Unspecified fall,W19,30.0,166436.0,18.0
+2018,North Carolina,"Alamance County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,166436.0,12.0
+2018,North Carolina,"Alamance County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,166436.0,Unreliable
+2018,North Carolina,"Brunswick County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,136744.0,Unreliable
+2018,North Carolina,"Brunswick County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,136744.0,Unreliable
+2018,North Carolina,"Brunswick County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,136744.0,Unreliable
+2018,North Carolina,"Buncombe County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,259103.0,Unreliable
+2018,North Carolina,"Buncombe County, NC",Nontransport accidents,Other fall on same level,W18,18.0,259103.0,Unreliable
+2018,North Carolina,"Buncombe County, NC",Nontransport accidents,Unspecified fall,W19,23.0,259103.0,8.9
+2018,North Carolina,"Buncombe County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,41.0,259103.0,15.8
+2018,North Carolina,"Buncombe County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,36.0,259103.0,13.9
+2018,North Carolina,"Buncombe County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,259103.0,8.1
+2018,North Carolina,"Buncombe County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,259103.0,Unreliable
+2018,North Carolina,"Burke County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,90382.0,Unreliable
+2018,North Carolina,"Cabarrus County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,211342.0,Unreliable
+2018,North Carolina,"Cabarrus County, NC",Nontransport accidents,Unspecified fall,W19,21.0,211342.0,9.9
+2018,North Carolina,"Cabarrus County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,211342.0,13.7
+2018,North Carolina,"Cabarrus County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,211342.0,9.5
+2018,North Carolina,"Cabarrus County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,211342.0,Unreliable
+2018,North Carolina,"Caldwell County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,82029.0,Unreliable
+2018,North Carolina,"Caldwell County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,82029.0,Unreliable
+2018,North Carolina,"Carteret County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,69524.0,Unreliable
+2018,North Carolina,"Carteret County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,69524.0,Unreliable
+2018,North Carolina,"Catawba County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,158652.0,Unreliable
+2018,North Carolina,"Catawba County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,158652.0,Unreliable
+2018,North Carolina,"Cleveland County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,97645.0,Unreliable
+2018,North Carolina,"Cleveland County, NC",Nontransport accidents,Unspecified fall,W19,14.0,97645.0,Unreliable
+2018,North Carolina,"Craven County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,24.0,102912.0,23.3
+2018,North Carolina,"Cumberland County, NC",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,11.0,332330.0,Unreliable
+2018,North Carolina,"Cumberland County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,332330.0,Unreliable
+2018,North Carolina,"Cumberland County, NC",Nontransport accidents,Unspecified fall,W19,10.0,332330.0,Unreliable
+2018,North Carolina,"Cumberland County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,46.0,332330.0,13.8
+2018,North Carolina,"Cumberland County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,35.0,332330.0,10.5
+2018,North Carolina,"Cumberland County, NC",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,332330.0,Unreliable
+2018,North Carolina,"Cumberland County, NC",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,26.0,332330.0,7.8
+2018,North Carolina,"Cumberland County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,19.0,332330.0,Unreliable
+2018,North Carolina,"Dare County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,36501.0,Unreliable
+2018,North Carolina,"Davidson County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,166614.0,Unreliable
+2018,North Carolina,"Davidson County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,166614.0,Unreliable
+2018,North Carolina,"Davidson County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,166614.0,13.2
+2018,North Carolina,"Duplin County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,58856.0,Unreliable
+2018,North Carolina,"Durham County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,316739.0,Unreliable
+2018,North Carolina,"Durham County, NC",Nontransport accidents,Other fall on same level,W18,13.0,316739.0,Unreliable
+2018,North Carolina,"Durham County, NC",Nontransport accidents,Unspecified fall,W19,16.0,316739.0,Unreliable
+2018,North Carolina,"Durham County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,30.0,316739.0,9.5
+2018,North Carolina,"Durham County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,316739.0,Unreliable
+2018,North Carolina,"Durham County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,23.0,316739.0,7.3
+2018,North Carolina,"Edgecombe County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,52005.0,Unreliable
+2018,North Carolina,"Forsyth County, NC",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,379099.0,Unreliable
+2018,North Carolina,"Forsyth County, NC",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,379099.0,Unreliable
+2018,North Carolina,"Forsyth County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,379099.0,Unreliable
+2018,North Carolina,"Forsyth County, NC",Nontransport accidents,Other fall on same level,W18,26.0,379099.0,6.9
+2018,North Carolina,"Forsyth County, NC",Nontransport accidents,Unspecified fall,W19,25.0,379099.0,6.6
+2018,North Carolina,"Forsyth County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,379099.0,12.9
+2018,North Carolina,"Forsyth County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,44.0,379099.0,11.6
+2018,North Carolina,"Forsyth County, NC",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,379099.0,Unreliable
+2018,North Carolina,"Forsyth County, NC",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,379099.0,Unreliable
+2018,North Carolina,"Forsyth County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,379099.0,Unreliable
+2018,North Carolina,"Forsyth County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,379099.0,Unreliable
+2018,North Carolina,"Franklin County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,67560.0,Unreliable
+2018,North Carolina,"Gaston County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,222846.0,Unreliable
+2018,North Carolina,"Gaston County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,222846.0,11.2
+2018,North Carolina,"Gaston County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,222846.0,Unreliable
+2018,North Carolina,"Gaston County, NC",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,222846.0,Unreliable
+2018,North Carolina,"Gaston County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,222846.0,Unreliable
+2018,North Carolina,"Guilford County, NC",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,533670.0,Unreliable
+2018,North Carolina,"Guilford County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32.0,533670.0,6.0
+2018,North Carolina,"Guilford County, NC",Nontransport accidents,Other fall on same level,W18,17.0,533670.0,Unreliable
+2018,North Carolina,"Guilford County, NC",Nontransport accidents,Unspecified fall,W19,48.0,533670.0,9.0
+2018,North Carolina,"Guilford County, NC",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,13.0,533670.0,Unreliable
+2018,North Carolina,"Guilford County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,58.0,533670.0,10.9
+2018,North Carolina,"Guilford County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,48.0,533670.0,9.0
+2018,North Carolina,"Guilford County, NC",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,533670.0,4.1
+2018,North Carolina,"Guilford County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,28.0,533670.0,5.2
+2018,North Carolina,"Guilford County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,40.0,533670.0,7.5
+2018,North Carolina,"Harnett County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,134214.0,Unreliable
+2018,North Carolina,"Harnett County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,134214.0,Unreliable
+2018,North Carolina,"Haywood County, NC",Nontransport accidents,Unspecified fall,W19,19.0,61971.0,Unreliable
+2018,North Carolina,"Henderson County, NC",Nontransport accidents,Other fall on same level,W18,12.0,116748.0,Unreliable
+2018,North Carolina,"Henderson County, NC",Nontransport accidents,Unspecified fall,W19,20.0,116748.0,17.1
+2018,North Carolina,"Henderson County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,116748.0,Unreliable
+2018,North Carolina,"Iredell County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,178435.0,Unreliable
+2018,North Carolina,"Iredell County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,178435.0,Unreliable
+2018,North Carolina,"Iredell County, NC",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,178435.0,Unreliable
+2018,North Carolina,"Iredell County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,178435.0,Unreliable
+2018,North Carolina,"Johnston County, NC",Nontransport accidents,Other fall on same level,W18,13.0,202675.0,Unreliable
+2018,North Carolina,"Johnston County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,202675.0,Unreliable
+2018,North Carolina,"Johnston County, NC",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,13.0,202675.0,Unreliable
+2018,North Carolina,"Lincoln County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,83770.0,Unreliable
+2018,North Carolina,"Mecklenburg County, NC",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,17.0,1093901.0,Unreliable
+2018,North Carolina,"Mecklenburg County, NC",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,17.0,1093901.0,Unreliable
+2018,North Carolina,"Mecklenburg County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,39.0,1093901.0,3.6
+2018,North Carolina,"Mecklenburg County, NC",Nontransport accidents,Fall on and from stairs and steps,W10,12.0,1093901.0,Unreliable
+2018,North Carolina,"Mecklenburg County, NC",Nontransport accidents,Other fall on same level,W18,57.0,1093901.0,5.2
+2018,North Carolina,"Mecklenburg County, NC",Nontransport accidents,Unspecified fall,W19,13.0,1093901.0,Unreliable
+2018,North Carolina,"Mecklenburg County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,137.0,1093901.0,12.5
+2018,North Carolina,"Mecklenburg County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,50.0,1093901.0,4.6
+2018,North Carolina,"Mecklenburg County, NC",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,37.0,1093901.0,3.4
+2018,North Carolina,"Mecklenburg County, NC",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,16.0,1093901.0,Unreliable
+2018,North Carolina,"Mecklenburg County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,29.0,1093901.0,2.7
+2018,North Carolina,"Mecklenburg County, NC",Assault (homicide),Assault by handgun discharge,X93,20.0,1093901.0,1.8
+2018,North Carolina,"Mecklenburg County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,38.0,1093901.0,3.5
+2018,North Carolina,"Moore County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,98682.0,Unreliable
+2018,North Carolina,"Moore County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,98682.0,Unreliable
+2018,North Carolina,"Nash County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,94016.0,Unreliable
+2018,North Carolina,"New Hanover County, NC",Nontransport accidents,Other fall on same level,W18,14.0,232274.0,Unreliable
+2018,North Carolina,"New Hanover County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,46.0,232274.0,19.8
+2018,North Carolina,"New Hanover County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28.0,232274.0,12.1
+2018,North Carolina,"Onslow County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,197683.0,12.6
+2018,North Carolina,"Onslow County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,197683.0,Unreliable
+2018,North Carolina,"Onslow County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,197683.0,Unreliable
+2018,North Carolina,"Orange County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,146027.0,Unreliable
+2018,North Carolina,"Pender County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,62162.0,Unreliable
+2018,North Carolina,"Pitt County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,179914.0,Unreliable
+2018,North Carolina,"Pitt County, NC",Nontransport accidents,Other fall on same level,W18,12.0,179914.0,Unreliable
+2018,North Carolina,"Pitt County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,26.0,179914.0,14.5
+2018,North Carolina,"Pitt County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,179914.0,Unreliable
+2018,North Carolina,"Randolph County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,143351.0,Unreliable
+2018,North Carolina,"Randolph County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,22.0,143351.0,15.3
+2018,North Carolina,"Randolph County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,143351.0,15.3
+2018,North Carolina,"Randolph County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,143351.0,14.6
+2018,North Carolina,"Robeson County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19.0,131831.0,Unreliable
+2018,North Carolina,"Robeson County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,131831.0,Unreliable
+2018,North Carolina,"Robeson County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,131831.0,Unreliable
+2018,North Carolina,"Robeson County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,19.0,131831.0,Unreliable
+2018,North Carolina,"Rockingham County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,90690.0,Unreliable
+2018,North Carolina,"Rowan County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,141262.0,Unreliable
+2018,North Carolina,"Rowan County, NC",Nontransport accidents,Unspecified fall,W19,13.0,141262.0,Unreliable
+2018,North Carolina,"Rowan County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,141262.0,Unreliable
+2018,North Carolina,"Rowan County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,141262.0,17.0
+2018,North Carolina,"Rowan County, NC",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,141262.0,Unreliable
+2018,North Carolina,"Rutherford County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,66826.0,Unreliable
+2018,North Carolina,"Stanly County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,62075.0,Unreliable
+2018,North Carolina,"Surry County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,71948.0,29.2
+2018,North Carolina,"Union County, NC",Nontransport accidents,Other fall on same level,W18,13.0,235908.0,Unreliable
+2018,North Carolina,"Union County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,235908.0,8.5
+2018,North Carolina,"Union County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,235908.0,Unreliable
+2018,North Carolina,"Wake County, NC",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,1092305.0,Unreliable
+2018,North Carolina,"Wake County, NC",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,1092305.0,Unreliable
+2018,North Carolina,"Wake County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,31.0,1092305.0,2.8
+2018,North Carolina,"Wake County, NC",Nontransport accidents,Fall on and from stairs and steps,W10,11.0,1092305.0,Unreliable
+2018,North Carolina,"Wake County, NC",Nontransport accidents,Other fall on same level,W18,43.0,1092305.0,3.9
+2018,North Carolina,"Wake County, NC",Nontransport accidents,Unspecified fall,W19,33.0,1092305.0,3.0
+2018,North Carolina,"Wake County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,60.0,1092305.0,5.5
+2018,North Carolina,"Wake County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,51.0,1092305.0,4.7
+2018,North Carolina,"Wake County, NC",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,27.0,1092305.0,2.5
+2018,North Carolina,"Wake County, NC",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,33.0,1092305.0,3.0
+2018,North Carolina,"Wake County, NC",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,1092305.0,Unreliable
+2018,North Carolina,"Wake County, NC",Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,1092305.0,Unreliable
+2018,North Carolina,"Wayne County, NC",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,123248.0,Unreliable
+2018,North Carolina,"Wayne County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,123248.0,Unreliable
+2018,North Carolina,"Wayne County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,123248.0,Unreliable
+2018,North Carolina,"Wilkes County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,68557.0,Unreliable
+2018,North Carolina,"Yadkin County, NC",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,37543.0,Unreliable

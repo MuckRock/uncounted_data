@@ -1,0 +1,16 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Nebraska,"Douglas County, NE",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,14.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Nontransport accidents,Other fall on same level,W18,16.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Nontransport accidents,Unspecified fall,W19,19.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,566880.0,Unreliable
+2018,Nebraska,"Douglas County, NE",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,40.0,566880.0,7.1
+2018,Nebraska,"Douglas County, NE",Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,566880.0,Unreliable
+2018,Nebraska,"Lancaster County, NE",Nontransport accidents,Other fall on same level,W18,14.0,317272.0,Unreliable
+2018,Nebraska,"Lancaster County, NE",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,317272.0,Unreliable
+2018,Nebraska,"Lancaster County, NE",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,317272.0,Unreliable
+2018,Nebraska,"Sarpy County, NE",Nontransport accidents,Other fall on same level,W18,10.0,184459.0,Unreliable
+2018,Nebraska,"Sarpy County, NE",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,184459.0,Unreliable

@@ -1,0 +1,83 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Wisconsin,"Brown County, WI",Nontransport accidents,Other fall on same level,W18,60.0,263378.0,22.8
+2018,Wisconsin,"Brown County, WI",Nontransport accidents,Unspecified fall,W19,13.0,263378.0,Unreliable
+2018,Wisconsin,"Brown County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,263378.0,Unreliable
+2018,Wisconsin,"Brown County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,263378.0,Unreliable
+2018,Wisconsin,"Dane County, WI",Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,12.0,542364.0,Unreliable
+2018,Wisconsin,"Dane County, WI",Nontransport accidents,Fall involving bed,W06,11.0,542364.0,Unreliable
+2018,Wisconsin,"Dane County, WI",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,542364.0,Unreliable
+2018,Wisconsin,"Dane County, WI",Nontransport accidents,Other fall on same level,W18,94.0,542364.0,17.3
+2018,Wisconsin,"Dane County, WI",Nontransport accidents,Unspecified fall,W19,25.0,542364.0,4.6
+2018,Wisconsin,"Dane County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,31.0,542364.0,5.7
+2018,Wisconsin,"Dane County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,60.0,542364.0,11.1
+2018,Wisconsin,"Dane County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,21.0,542364.0,3.9
+2018,Wisconsin,"Dane County, WI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,24.0,542364.0,4.4
+2018,Wisconsin,"Dane County, WI",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12.0,542364.0,Unreliable
+2018,Wisconsin,"Dodge County, WI",Nontransport accidents,Other fall on same level,W18,22.0,87847.0,25.0
+2018,Wisconsin,"Dodge County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,87847.0,Unreliable
+2018,Wisconsin,"Door County, WI",Nontransport accidents,Other fall on same level,W18,11.0,27610.0,Unreliable
+2018,Wisconsin,"Fond du Lac County, WI",Nontransport accidents,Other fall on same level,W18,26.0,103066.0,25.2
+2018,Wisconsin,"Fond du Lac County, WI",Nontransport accidents,Unspecified fall,W19,12.0,103066.0,Unreliable
+2018,Wisconsin,"Jefferson County, WI",Nontransport accidents,Other fall on same level,W18,13.0,85129.0,Unreliable
+2018,Wisconsin,"Kenosha County, WI",Nontransport accidents,Other fall on same level,W18,20.0,169290.0,11.8
+2018,Wisconsin,"Kenosha County, WI",Nontransport accidents,Unspecified fall,W19,15.0,169290.0,Unreliable
+2018,Wisconsin,"Kenosha County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,169290.0,Unreliable
+2018,Wisconsin,"Kenosha County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,169290.0,Unreliable
+2018,Wisconsin,"La Crosse County, WI",Nontransport accidents,Fall involving bed,W06,10.0,118230.0,Unreliable
+2018,Wisconsin,"La Crosse County, WI",Nontransport accidents,Other fall on same level,W18,13.0,118230.0,Unreliable
+2018,Wisconsin,"La Crosse County, WI",Nontransport accidents,Unspecified fall,W19,10.0,118230.0,Unreliable
+2018,Wisconsin,"La Crosse County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,118230.0,Unreliable
+2018,Wisconsin,"Manitowoc County, WI",Nontransport accidents,Other fall on same level,W18,11.0,79074.0,Unreliable
+2018,Wisconsin,"Manitowoc County, WI",Nontransport accidents,Unspecified fall,W19,10.0,79074.0,Unreliable
+2018,Wisconsin,"Marathon County, WI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,135428.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,19.0,948201.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,16.0,948201.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,12.0,948201.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Nontransport accidents,"Fall on same level from slipping, tripping and stumbling",W01,16.0,948201.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Nontransport accidents,Fall involving wheelchair,W05,16.0,948201.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Nontransport accidents,Fall involving bed,W06,25.0,948201.0,2.6
+2018,Wisconsin,"Milwaukee County, WI",Nontransport accidents,Fall on and from stairs and steps,W10,17.0,948201.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Nontransport accidents,Other fall on same level,W18,79.0,948201.0,8.3
+2018,Wisconsin,"Milwaukee County, WI",Nontransport accidents,Unspecified fall,W19,107.0,948201.0,11.3
+2018,Wisconsin,"Milwaukee County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,209.0,948201.0,22.0
+2018,Wisconsin,"Milwaukee County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,108.0,948201.0,11.4
+2018,Wisconsin,"Milwaukee County, WI",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,11.0,948201.0,Unreliable
+2018,Wisconsin,"Milwaukee County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,40.0,948201.0,4.2
+2018,Wisconsin,"Milwaukee County, WI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,46.0,948201.0,4.9
+2018,Wisconsin,"Milwaukee County, WI",Assault (homicide),Assault by handgun discharge,X93,33.0,948201.0,3.5
+2018,Wisconsin,"Milwaukee County, WI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,69.0,948201.0,7.3
+2018,Wisconsin,"Outagamie County, WI",Nontransport accidents,Other fall on same level,W18,10.0,187365.0,Unreliable
+2018,Wisconsin,"Outagamie County, WI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,187365.0,Unreliable
+2018,Wisconsin,"Racine County, WI",Nontransport accidents,Unspecified fall,W19,20.0,196584.0,10.2
+2018,Wisconsin,"Racine County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,196584.0,Unreliable
+2018,Wisconsin,"Racine County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,196584.0,Unreliable
+2018,Wisconsin,"Rock County, WI",Nontransport accidents,Other fall on same level,W18,45.0,163129.0,27.6
+2018,Wisconsin,"Rock County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,163129.0,Unreliable
+2018,Wisconsin,"Rock County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30.0,163129.0,18.4
+2018,Wisconsin,"Rock County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,163129.0,Unreliable
+2018,Wisconsin,"Sauk County, WI",Nontransport accidents,Other fall on same level,W18,10.0,64249.0,Unreliable
+2018,Wisconsin,"Sauk County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,64249.0,Unreliable
+2018,Wisconsin,"Shawano County, WI",Nontransport accidents,Unspecified fall,W19,11.0,40796.0,Unreliable
+2018,Wisconsin,"Sheboygan County, WI",Nontransport accidents,Other fall on same level,W18,15.0,115456.0,Unreliable
+2018,Wisconsin,"Sheboygan County, WI",Nontransport accidents,Unspecified fall,W19,16.0,115456.0,Unreliable
+2018,Wisconsin,"Walworth County, WI",Nontransport accidents,Other fall on same level,W18,12.0,103718.0,Unreliable
+2018,Wisconsin,"Walworth County, WI",Nontransport accidents,Unspecified fall,W19,10.0,103718.0,Unreliable
+2018,Wisconsin,"Washington County, WI",Nontransport accidents,Other fall on same level,W18,20.0,135693.0,14.7
+2018,Wisconsin,"Washington County, WI",Nontransport accidents,Unspecified fall,W19,16.0,135693.0,Unreliable
+2018,Wisconsin,"Washington County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,135693.0,Unreliable
+2018,Wisconsin,"Washington County, WI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,135693.0,Unreliable
+2018,Wisconsin,"Waukesha County, WI",Nontransport accidents,"Fall on same level from slipping, tripping and stumbling",W01,13.0,403072.0,Unreliable
+2018,Wisconsin,"Waukesha County, WI",Nontransport accidents,Fall involving wheelchair,W05,12.0,403072.0,Unreliable
+2018,Wisconsin,"Waukesha County, WI",Nontransport accidents,Fall involving bed,W06,11.0,403072.0,Unreliable
+2018,Wisconsin,"Waukesha County, WI",Nontransport accidents,Fall on and from stairs and steps,W10,12.0,403072.0,Unreliable
+2018,Wisconsin,"Waukesha County, WI",Nontransport accidents,Other fall on same level,W18,54.0,403072.0,13.4
+2018,Wisconsin,"Waukesha County, WI",Nontransport accidents,Unspecified fall,W19,45.0,403072.0,11.2
+2018,Wisconsin,"Waukesha County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37.0,403072.0,9.2
+2018,Wisconsin,"Waukesha County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,403072.0,5.0
+2018,Wisconsin,"Waukesha County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,403072.0,Unreliable
+2018,Wisconsin,"Waukesha County, WI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,17.0,403072.0,Unreliable
+2018,Wisconsin,"Winnebago County, WI",Nontransport accidents,Other fall on same level,W18,12.0,171020.0,Unreliable
+2018,Wisconsin,"Winnebago County, WI",Nontransport accidents,Unspecified fall,W19,25.0,171020.0,14.6
+2018,Wisconsin,"Winnebago County, WI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,171020.0,Unreliable
+2018,Wisconsin,"Winnebago County, WI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,171020.0,Unreliable
+2018,Wisconsin,"Winnebago County, WI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,171020.0,Unreliable

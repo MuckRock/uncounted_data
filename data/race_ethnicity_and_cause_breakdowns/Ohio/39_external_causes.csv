@@ -1,0 +1,185 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Ohio,"Ashtabula County, OH",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,11.0,97493.0,Unreliable
+2018,Ohio,"Ashtabula County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,97493.0,Unreliable
+2018,Ohio,"Ashtabula County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,97493.0,Unreliable
+2018,Ohio,"Ashtabula County, OH",Assault (homicide),"Assault by drugs, medicaments and biological substances",X85,10.0,97493.0,Unreliable
+2018,Ohio,"Belmont County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,67505.0,Unreliable
+2018,Ohio,"Brown County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,43602.0,Unreliable
+2018,Ohio,"Brown County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,43602.0,Unreliable
+2018,Ohio,"Butler County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,382378.0,Unreliable
+2018,Ohio,"Butler County, OH",Nontransport accidents,Unspecified fall,W19,12.0,382378.0,Unreliable
+2018,Ohio,"Butler County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,93.0,382378.0,24.3
+2018,Ohio,"Butler County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,72.0,382378.0,18.8
+2018,Ohio,"Butler County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,382378.0,Unreliable
+2018,Ohio,"Butler County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,23.0,382378.0,6.0
+2018,Ohio,"Butler County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,382378.0,Unreliable
+2018,Ohio,"Clark County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,134585.0,Unreliable
+2018,Ohio,"Clark County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,48.0,134585.0,35.7
+2018,Ohio,"Clark County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,134585.0,14.9
+2018,Ohio,"Clark County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,134585.0,Unreliable
+2018,Ohio,"Clark County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,134585.0,Unreliable
+2018,Ohio,"Clermont County, OH",Nontransport accidents,Unspecified fall,W19,12.0,205466.0,Unreliable
+2018,Ohio,"Clermont County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,46.0,205466.0,22.4
+2018,Ohio,"Clermont County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,205466.0,12.2
+2018,Ohio,"Clermont County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,23.0,205466.0,11.2
+2018,Ohio,"Columbiana County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,102665.0,24.4
+2018,Ohio,"Columbiana County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,102665.0,Unreliable
+2018,Ohio,"Crawford County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,41550.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,10.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,22.0,1243857.0,1.8
+2018,Ohio,"Cuyahoga County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Nontransport accidents,Fall on and from stairs and steps,W10,24.0,1243857.0,1.9
+2018,Ohio,"Cuyahoga County, OH",Nontransport accidents,Other fall on same level,W18,128.0,1243857.0,10.3
+2018,Ohio,"Cuyahoga County, OH",Nontransport accidents,Unspecified fall,W19,19.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,14.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,21.0,1243857.0,1.7
+2018,Ohio,"Cuyahoga County, OH",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,13.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,291.0,1243857.0,23.4
+2018,Ohio,"Cuyahoga County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,144.0,1243857.0,11.6
+2018,Ohio,"Cuyahoga County, OH",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,16.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,15.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,58.0,1243857.0,4.7
+2018,Ohio,"Cuyahoga County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,87.0,1243857.0,7.0
+2018,Ohio,"Cuyahoga County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,124.0,1243857.0,10.0
+2018,Ohio,"Cuyahoga County, OH",Assault (homicide),Assault by sharp object,X99,14.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Assault (homicide),Assault by unspecified means,Y09,15.0,1243857.0,Unreliable
+2018,Ohio,"Cuyahoga County, OH",Sequelae of other accidents,Sequelae of other accidents,Y86,14.0,1243857.0,Unreliable
+2018,Ohio,"Darke County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,51323.0,Unreliable
+2018,Ohio,"Delaware County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,204826.0,Unreliable
+2018,Ohio,"Delaware County, OH",Nontransport accidents,Unspecified fall,W19,14.0,204826.0,Unreliable
+2018,Ohio,"Delaware County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,22.0,204826.0,10.7
+2018,Ohio,"Erie County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,74615.0,Unreliable
+2018,Ohio,"Fairfield County, OH",Nontransport accidents,Other fall on same level,W18,15.0,155782.0,Unreliable
+2018,Ohio,"Fairfield County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,155782.0,Unreliable
+2018,Ohio,"Franklin County, OH",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,16.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,14.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Nontransport accidents,Fall on and from stairs and steps,W10,12.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Nontransport accidents,Other fall on same level,W18,43.0,1310300.0,3.3
+2018,Ohio,"Franklin County, OH",Nontransport accidents,Unspecified fall,W19,55.0,1310300.0,4.2
+2018,Ohio,"Franklin County, OH",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,16.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,357.0,1310300.0,27.2
+2018,Ohio,"Franklin County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,109.0,1310300.0,8.3
+2018,Ohio,"Franklin County, OH",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,15.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,54.0,1310300.0,4.1
+2018,Ohio,"Franklin County, OH",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,1310300.0,Unreliable
+2018,Ohio,"Franklin County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,69.0,1310300.0,5.3
+2018,Ohio,"Franklin County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,94.0,1310300.0,7.2
+2018,Ohio,"Franklin County, OH",Assault (homicide),Assault by sharp object,X99,22.0,1310300.0,1.7
+2018,Ohio,"Greene County, OH",Nontransport accidents,Unspecified fall,W19,10.0,167995.0,Unreliable
+2018,Ohio,"Greene County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,32.0,167995.0,19.0
+2018,Ohio,"Greene County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,167995.0,Unreliable
+2018,Ohio,"Greene County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,167995.0,Unreliable
+2018,Ohio,"Hamilton County, OH",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,14.0,816684.0,Unreliable
+2018,Ohio,"Hamilton County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,20.0,816684.0,2.4
+2018,Ohio,"Hamilton County, OH",Nontransport accidents,Fall on and from stairs and steps,W10,13.0,816684.0,Unreliable
+2018,Ohio,"Hamilton County, OH",Nontransport accidents,Other fall on same level,W18,24.0,816684.0,2.9
+2018,Ohio,"Hamilton County, OH",Nontransport accidents,Unspecified fall,W19,27.0,816684.0,3.3
+2018,Ohio,"Hamilton County, OH",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,13.0,816684.0,Unreliable
+2018,Ohio,"Hamilton County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,816684.0,Unreliable
+2018,Ohio,"Hamilton County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,249.0,816684.0,30.5
+2018,Ohio,"Hamilton County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,105.0,816684.0,12.9
+2018,Ohio,"Hamilton County, OH",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,13.0,816684.0,Unreliable
+2018,Ohio,"Hamilton County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,33.0,816684.0,4.0
+2018,Ohio,"Hamilton County, OH",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,816684.0,Unreliable
+2018,Ohio,"Hamilton County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,42.0,816684.0,5.1
+2018,Ohio,"Hamilton County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,57.0,816684.0,7.0
+2018,Ohio,"Hancock County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,75930.0,Unreliable
+2018,Ohio,"Jefferson County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,65767.0,Unreliable
+2018,Ohio,"Jefferson County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,65767.0,Unreliable
+2018,Ohio,"Lake County, OH",Nontransport accidents,Other fall on same level,W18,16.0,230514.0,Unreliable
+2018,Ohio,"Lake County, OH",Nontransport accidents,Unspecified fall,W19,28.0,230514.0,12.1
+2018,Ohio,"Lake County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,48.0,230514.0,20.8
+2018,Ohio,"Lake County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,230514.0,9.1
+2018,Ohio,"Lawrence County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,59866.0,Unreliable
+2018,Ohio,"Lawrence County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,59866.0,Unreliable
+2018,Ohio,"Licking County, OH",Nontransport accidents,Other fall on same level,W18,11.0,175769.0,Unreliable
+2018,Ohio,"Licking County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,175769.0,Unreliable
+2018,Ohio,"Licking County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,175769.0,Unreliable
+2018,Ohio,"Licking County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,175769.0,Unreliable
+2018,Ohio,"Lorain County, OH",Nontransport accidents,Other fall on same level,W18,43.0,309461.0,13.9
+2018,Ohio,"Lorain County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,59.0,309461.0,19.1
+2018,Ohio,"Lorain County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,309461.0,12.9
+2018,Ohio,"Lorain County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,309461.0,Unreliable
+2018,Ohio,"Lorain County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,23.0,309461.0,7.4
+2018,Ohio,"Lorain County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,309461.0,Unreliable
+2018,Ohio,"Lucas County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,429899.0,Unreliable
+2018,Ohio,"Lucas County, OH",Nontransport accidents,Other fall on same level,W18,10.0,429899.0,Unreliable
+2018,Ohio,"Lucas County, OH",Nontransport accidents,Unspecified fall,W19,39.0,429899.0,9.1
+2018,Ohio,"Lucas County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,112.0,429899.0,26.1
+2018,Ohio,"Lucas County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,53.0,429899.0,12.3
+2018,Ohio,"Lucas County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,429899.0,Unreliable
+2018,Ohio,"Lucas County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,27.0,429899.0,6.3
+2018,Ohio,"Lucas County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,29.0,429899.0,6.7
+2018,Ohio,"Mahoning County, OH",Nontransport accidents,Unspecified fall,W19,14.0,229642.0,Unreliable
+2018,Ohio,"Mahoning County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35.0,229642.0,15.2
+2018,Ohio,"Mahoning County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,61.0,229642.0,26.6
+2018,Ohio,"Mahoning County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,229642.0,Unreliable
+2018,Ohio,"Mahoning County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,229642.0,8.7
+2018,Ohio,"Marion County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,65256.0,Unreliable
+2018,Ohio,"Marion County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,65256.0,Unreliable
+2018,Ohio,"Medina County, OH",Nontransport accidents,Other fall on same level,W18,11.0,179146.0,Unreliable
+2018,Ohio,"Medina County, OH",Nontransport accidents,Unspecified fall,W19,13.0,179146.0,Unreliable
+2018,Ohio,"Medina County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,27.0,179146.0,15.1
+2018,Ohio,"Medina County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,179146.0,Unreliable
+2018,Ohio,"Miami County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,106222.0,Unreliable
+2018,Ohio,"Montgomery County, OH",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,532331.0,Unreliable
+2018,Ohio,"Montgomery County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,33.0,532331.0,6.2
+2018,Ohio,"Montgomery County, OH",Nontransport accidents,Other fall from one level to another,W17,16.0,532331.0,Unreliable
+2018,Ohio,"Montgomery County, OH",Nontransport accidents,Other fall on same level,W18,62.0,532331.0,11.6
+2018,Ohio,"Montgomery County, OH",Nontransport accidents,Unspecified fall,W19,47.0,532331.0,8.8
+2018,Ohio,"Montgomery County, OH",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,532331.0,Unreliable
+2018,Ohio,"Montgomery County, OH",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,11.0,532331.0,Unreliable
+2018,Ohio,"Montgomery County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,182.0,532331.0,34.2
+2018,Ohio,"Montgomery County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,86.0,532331.0,16.2
+2018,Ohio,"Montgomery County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,25.0,532331.0,4.7
+2018,Ohio,"Montgomery County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,41.0,532331.0,7.7
+2018,Ohio,"Montgomery County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,50.0,532331.0,9.4
+2018,Ohio,"Muskingum County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,86183.0,Unreliable
+2018,Ohio,"Muskingum County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,86183.0,Unreliable
+2018,Ohio,"Muskingum County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,86183.0,Unreliable
+2018,Ohio,"Muskingum County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,86183.0,Unreliable
+2018,Ohio,"Pickaway County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,58086.0,Unreliable
+2018,Ohio,"Portage County, OH",Nontransport accidents,Other fall on same level,W18,10.0,162927.0,Unreliable
+2018,Ohio,"Portage County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,162927.0,Unreliable
+2018,Ohio,"Portage County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,162927.0,Unreliable
+2018,Ohio,"Portage County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,162927.0,Unreliable
+2018,Ohio,"Richland County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35.0,121099.0,28.9
+2018,Ohio,"Richland County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,121099.0,Unreliable
+2018,Ohio,"Richland County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,121099.0,Unreliable
+2018,Ohio,"Ross County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,76931.0,Unreliable
+2018,Ohio,"Ross County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,76931.0,27.3
+2018,Ohio,"Scioto County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,27.0,75502.0,35.8
+2018,Ohio,"Scioto County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,75502.0,Unreliable
+2018,Ohio,"Stark County, OH",Nontransport accidents,Fall on and from stairs and steps,W10,11.0,371574.0,Unreliable
+2018,Ohio,"Stark County, OH",Nontransport accidents,Unspecified fall,W19,48.0,371574.0,12.9
+2018,Ohio,"Stark County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,27.0,371574.0,7.3
+2018,Ohio,"Stark County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,39.0,371574.0,10.5
+2018,Ohio,"Stark County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,371574.0,6.2
+2018,Ohio,"Stark County, OH",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,371574.0,5.9
+2018,Ohio,"Stark County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,371574.0,Unreliable
+2018,Ohio,"Stark County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,371574.0,Unreliable
+2018,Ohio,"Summit County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,541918.0,Unreliable
+2018,Ohio,"Summit County, OH",Nontransport accidents,Fall on and from stairs and steps,W10,10.0,541918.0,Unreliable
+2018,Ohio,"Summit County, OH",Nontransport accidents,Other fall on same level,W18,26.0,541918.0,4.8
+2018,Ohio,"Summit County, OH",Nontransport accidents,Unspecified fall,W19,17.0,541918.0,Unreliable
+2018,Ohio,"Summit County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,541918.0,Unreliable
+2018,Ohio,"Summit County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,87.0,541918.0,16.1
+2018,Ohio,"Summit County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30.0,541918.0,5.5
+2018,Ohio,"Summit County, OH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,29.0,541918.0,5.4
+2018,Ohio,"Summit County, OH",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,541918.0,Unreliable
+2018,Ohio,"Summit County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,23.0,541918.0,4.2
+2018,Ohio,"Summit County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,35.0,541918.0,6.5
+2018,Ohio,"Trumbull County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,38.0,198627.0,19.1
+2018,Ohio,"Trumbull County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,42.0,198627.0,21.1
+2018,Ohio,"Trumbull County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,198627.0,Unreliable
+2018,Ohio,"Trumbull County, OH",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,198627.0,Unreliable
+2018,Ohio,"Warren County, OH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,232173.0,Unreliable
+2018,Ohio,"Warren County, OH",Nontransport accidents,Unspecified fall,W19,15.0,232173.0,Unreliable
+2018,Ohio,"Warren County, OH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,31.0,232173.0,13.4
+2018,Ohio,"Warren County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,232173.0,Unreliable
+2018,Ohio,"Wayne County, OH",Nontransport accidents,Other fall on same level,W18,10.0,115967.0,Unreliable
+2018,Ohio,"Wayne County, OH",Nontransport accidents,Unspecified fall,W19,16.0,115967.0,Unreliable
+2018,Ohio,"Wayne County, OH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,115967.0,Unreliable

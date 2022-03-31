@@ -1,0 +1,386 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,South Dakota,46,"Beadle County, SD",46005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,18883.0,Unreliable
+2018,South Dakota,46,"Beadle County, SD",46005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,18883.0,Unreliable
+2018,South Dakota,46,"Beadle County, SD",46005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,18883.0,Unreliable
+2018,South Dakota,46,"Brookings County, SD",46011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,35232.0,Unreliable
+2018,South Dakota,46,"Brookings County, SD",46011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,35232.0,Unreliable
+2018,South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,35232.0,Unreliable
+2018,South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,35232.0,Unreliable
+2018,South Dakota,46,"Brown County, SD",46013,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,39316.0,Unreliable
+2018,South Dakota,46,"Brown County, SD",46013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,39316.0,Unreliable
+2018,South Dakota,46,"Brown County, SD",46013,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,39316.0,Unreliable
+2018,South Dakota,46,"Brown County, SD",46013,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,39316.0,Unreliable
+2018,South Dakota,46,"Brown County, SD",46013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,39316.0,Unreliable
+2018,South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,39316.0,86.5
+2018,South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,39316.0,78.8
+2018,South Dakota,46,"Brown County, SD",46013,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,39316.0,Unreliable
+2018,South Dakota,46,"Brown County, SD",46013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,39316.0,Unreliable
+2018,South Dakota,46,"Butte County, SD",46019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,10222.0,Unreliable
+2018,South Dakota,46,"Charles Mix County, SD",46023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,9338.0,Unreliable
+2018,South Dakota,46,"Clay County, SD",46027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,14041.0,Unreliable
+2018,South Dakota,46,"Codington County, SD",46029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,28015.0,Unreliable
+2018,South Dakota,46,"Codington County, SD",46029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,28015.0,Unreliable
+2018,South Dakota,46,"Codington County, SD",46029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,28015.0,89.2
+2018,South Dakota,46,"Codington County, SD",46029,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,28015.0,Unreliable
+2018,South Dakota,46,"Codington County, SD",46029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,28015.0,Unreliable
+2018,South Dakota,46,"Davison County, SD",46035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,19790.0,Unreliable
+2018,South Dakota,46,"Davison County, SD",46035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,19790.0,Unreliable
+2018,South Dakota,46,"Davison County, SD",46035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,14.0,19790.0,Unreliable
+2018,South Dakota,46,"Davison County, SD",46035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,19790.0,Unreliable
+2018,South Dakota,46,"Fall River County, SD",46047,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,6758.0,Unreliable
+2018,South Dakota,46,"Fall River County, SD",46047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,6758.0,Unreliable
+2018,South Dakota,46,"Fall River County, SD",46047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,6758.0,Unreliable
+2018,South Dakota,46,"Gregory County, SD",46053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,4212.0,Unreliable
+2018,South Dakota,46,"Hutchinson County, SD",46067,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,7380.0,Unreliable
+2018,South Dakota,46,"Lawrence County, SD",46081,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,25741.0,Unreliable
+2018,South Dakota,46,"Lawrence County, SD",46081,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,25741.0,Unreliable
+2018,South Dakota,46,"Lawrence County, SD",46081,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,25741.0,Unreliable
+2018,South Dakota,46,"Lawrence County, SD",46081,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,25741.0,Unreliable
+2018,South Dakota,46,"Lincoln County, SD",46083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,58807.0,Unreliable
+2018,South Dakota,46,"Lincoln County, SD",46083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,58807.0,Unreliable
+2018,South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,58807.0,Unreliable
+2018,South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,58807.0,Unreliable
+2018,South Dakota,46,"Lincoln County, SD",46083,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,58807.0,Unreliable
+2018,South Dakota,46,"McCook County, SD",46087,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,5546.0,Unreliable
+2018,South Dakota,46,"Meade County, SD",46093,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,28294.0,Unreliable
+2018,South Dakota,46,"Meade County, SD",46093,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,22.0,28294.0,77.8
+2018,South Dakota,46,"Meade County, SD",46093,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,28294.0,Unreliable
+2018,South Dakota,46,"Meade County, SD",46093,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,28294.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Sepsis,"Septicaemia, unspecified",A41.9,13.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,16.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,22.0,192876.0,11.4
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,76.0,192876.0,39.4
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,25.0,192876.0,13.0
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm of ovary,C56,12.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm of prostate,C61,18.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,13.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,13.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,15.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,Unspecified dementia,F03,29.0,192876.0,15.0
+2018,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,65.0,192876.0,33.7
+2018,South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,21.0,192876.0,10.9
+2018,South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,31.0,192876.0,16.1
+2018,South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,69.0,192876.0,35.8
+2018,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,16.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,91.0,192876.0,47.2
+2018,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,17.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,23.0,192876.0,11.9
+2018,South Dakota,46,"Minnehaha County, SD",46099,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,27.0,192876.0,14.0
+2018,South Dakota,46,"Minnehaha County, SD",46099,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,10.0,192876.0,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,59.0,192876.0,30.6
+2018,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,192876.0,Unreliable
+2018,South Dakota,46,"Moody County, SD",46101,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,6579.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Sepsis,"Septicaemia, unspecified",A41.9,20.0,111729.0,17.9
+2018,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,18.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,57.0,111729.0,51.0
+2018,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,12.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,38.0,111729.0,34.0
+2018,South Dakota,46,"Pennington County, SD",46103,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,18.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,107.0,111729.0,95.8
+2018,South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,Atherosclerotic heart disease,I25.1,44.0,111729.0,39.4
+2018,South Dakota,46,"Pennington County, SD",46103,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,23.0,111729.0,20.6
+2018,South Dakota,46,"Pennington County, SD",46103,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,111729.0,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,37.0,111729.0,33.1
+2018,South Dakota,46,"Roberts County, SD",46109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,10447.0,Unreliable
+2018,South Dakota,46,"Spink County, SD",46115,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,6495.0,Unreliable
+2018,South Dakota,46,"Turner County, SD",46125,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,8424.0,Unreliable
+2018,South Dakota,46,"Yankton County, SD",46135,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,22869.0,Unreliable
+2018,South Dakota,46,"Yankton County, SD",46135,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,24.0,22869.0,104.9
+2018,South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,22869.0,91.8
+2018,South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,22869.0,Unreliable
+2018,South Dakota,46,"Yankton County, SD",46135,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,22869.0,Unreliable
+2019,South Dakota,46,"Beadle County, SD",46005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,18453.0,Unreliable
+2019,South Dakota,46,"Beadle County, SD",46005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,18453.0,119.2
+2019,South Dakota,46,"Beadle County, SD",46005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,21.0,18453.0,113.8
+2019,South Dakota,46,"Brookings County, SD",46011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,35077.0,Unreliable
+2019,South Dakota,46,"Brookings County, SD",46011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,35077.0,Unreliable
+2019,South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,35077.0,Unreliable
+2019,South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,35077.0,Unreliable
+2019,South Dakota,46,"Brown County, SD",46013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,38839.0,Unreliable
+2019,South Dakota,46,"Brown County, SD",46013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,38839.0,54.1
+2019,South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,38839.0,64.4
+2019,South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,38839.0,69.5
+2019,South Dakota,46,"Brown County, SD",46013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,38839.0,Unreliable
+2019,South Dakota,46,"Brown County, SD",46013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,38839.0,Unreliable
+2019,South Dakota,46,"Butte County, SD",46019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,10429.0,Unreliable
+2019,South Dakota,46,"Butte County, SD",46019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,10429.0,Unreliable
+2019,South Dakota,46,"Butte County, SD",46019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,10429.0,Unreliable
+2019,South Dakota,46,"Charles Mix County, SD",46023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,9292.0,Unreliable
+2019,South Dakota,46,"Codington County, SD",46029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,28009.0,71.4
+2019,South Dakota,46,"Codington County, SD",46029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,28009.0,Unreliable
+2019,South Dakota,46,"Codington County, SD",46029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,28009.0,107.1
+2019,South Dakota,46,"Codington County, SD",46029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,28009.0,Unreliable
+2019,South Dakota,46,"Davison County, SD",46035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,19775.0,Unreliable
+2019,South Dakota,46,"Davison County, SD",46035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,19775.0,Unreliable
+2019,South Dakota,46,"Davison County, SD",46035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,19775.0,Unreliable
+2019,South Dakota,46,"Davison County, SD",46035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,20.0,19775.0,101.1
+2019,South Dakota,46,"Grant County, SD",46051,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,7052.0,Unreliable
+2019,South Dakota,46,"Gregory County, SD",46053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,4185.0,Unreliable
+2019,South Dakota,46,"Hamlin County, SD",46057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,6164.0,Unreliable
+2019,South Dakota,46,"Hughes County, SD",46065,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,17526.0,Unreliable
+2019,South Dakota,46,"Hughes County, SD",46065,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,17526.0,Unreliable
+2019,South Dakota,46,"Hutchinson County, SD",46067,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,7291.0,Unreliable
+2019,South Dakota,46,"Hutchinson County, SD",46067,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,7291.0,Unreliable
+2019,South Dakota,46,"Lawrence County, SD",46081,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,25844.0,Unreliable
+2019,South Dakota,46,"Lawrence County, SD",46081,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,25844.0,Unreliable
+2019,South Dakota,46,"Lawrence County, SD",46081,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,25844.0,Unreliable
+2019,South Dakota,46,"Lawrence County, SD",46081,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,25844.0,Unreliable
+2019,South Dakota,46,"Lincoln County, SD",46083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,61128.0,Unreliable
+2019,South Dakota,46,"Lincoln County, SD",46083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,61128.0,36.0
+2019,South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,61128.0,34.4
+2019,South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,61128.0,Unreliable
+2019,South Dakota,46,"McCook County, SD",46087,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,5586.0,Unreliable
+2019,South Dakota,46,"Meade County, SD",46093,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,28332.0,Unreliable
+2019,South Dakota,46,"Meade County, SD",46093,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,28332.0,Unreliable
+2019,South Dakota,46,"Meade County, SD",46093,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,24.0,28332.0,84.7
+2019,South Dakota,46,"Meade County, SD",46093,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,28332.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Sepsis,"Septicaemia, unspecified",A41.9,18.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,25.0,193134.0,12.9
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,101.0,193134.0,52.3
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,19.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,193134.0,10.9
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,13.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,12.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,88.0,193134.0,45.6
+2019,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,17.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,18.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,39.0,193134.0,20.2
+2019,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,88.0,193134.0,45.6
+2019,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,104.0,193134.0,53.8
+2019,South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,33.0,193134.0,17.1
+2019,South Dakota,46,"Minnehaha County, SD",46099,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,193134.0,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,54.0,193134.0,28.0
+2019,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,12.0,193134.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Sepsis,"Septicaemia, unspecified",A41.9,15.0,113775.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,113775.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,23.0,113775.0,20.2
+2019,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,47.0,113775.0,41.3
+2019,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,113775.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm of prostate,C61,12.0,113775.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm without specification of site,C80,20.0,113775.0,17.6
+2019,South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,113775.0,39.6
+2019,South Dakota,46,"Pennington County, SD",46103,Hypertensive diseases,Essential (primary) hypertension,I10,16.0,113775.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,114.0,113775.0,100.2
+2019,South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,Atherosclerotic heart disease,I25.1,38.0,113775.0,33.4
+2019,South Dakota,46,"Pennington County, SD",46103,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,113775.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,24.0,113775.0,21.1
+2019,South Dakota,46,"Pennington County, SD",46103,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,113775.0,Unreliable
+2019,South Dakota,46,"Pennington County, SD",46103,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,38.0,113775.0,33.4
+2019,South Dakota,46,"Roberts County, SD",46109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,10394.0,Unreliable
+2019,South Dakota,46,"Shannon County, SD",46113,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,12.0,14177.0,Unreliable
+2019,South Dakota,46,"Turner County, SD",46125,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,8384.0,Unreliable
+2019,South Dakota,46,"Union County, SD",46127,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,15932.0,Unreliable
+2019,South Dakota,46,"Yankton County, SD",46135,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,25.0,22814.0,109.6
+2019,South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,33.0,22814.0,144.6
+2019,South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,22814.0,Unreliable
+2020,South Dakota,46,"Beadle County, SD",46005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,18513.0,Unreliable
+2020,South Dakota,46,"Beadle County, SD",46005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,18513.0,Unreliable
+2020,South Dakota,46,"Brookings County, SD",46011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,35603.0,Unreliable
+2020,South Dakota,46,"Brookings County, SD",46011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,35603.0,Unreliable
+2020,South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,35603.0,Unreliable
+2020,South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,35603.0,Unreliable
+2020,South Dakota,46,"Brookings County, SD",46011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,35603.0,Unreliable
+2020,South Dakota,46,"Brown County, SD",46013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,38738.0,Unreliable
+2020,South Dakota,46,"Brown County, SD",46013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,32.0,38738.0,82.6
+2020,South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,36.0,38738.0,92.9
+2020,South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,38738.0,51.6
+2020,South Dakota,46,"Brown County, SD",46013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,38738.0,Unreliable
+2020,South Dakota,46,"Charles Mix County, SD",46023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,9262.0,Unreliable
+2020,South Dakota,46,"Codington County, SD",46029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,28186.0,74.5
+2020,South Dakota,46,"Codington County, SD",46029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,28186.0,Unreliable
+2020,South Dakota,46,"Codington County, SD",46029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,28186.0,Unreliable
+2020,South Dakota,46,"Codington County, SD",46029,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,28186.0,Unreliable
+2020,South Dakota,46,"Codington County, SD",46029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,28186.0,106.4
+2020,South Dakota,46,"Codington County, SD",46029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,28186.0,Unreliable
+2020,South Dakota,46,"Davison County, SD",46035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,19812.0,Unreliable
+2020,South Dakota,46,"Davison County, SD",46035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,16.0,19812.0,Unreliable
+2020,South Dakota,46,"Davison County, SD",46035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,19812.0,Unreliable
+2020,South Dakota,46,"Day County, SD",46037,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,5345.0,Unreliable
+2020,South Dakota,46,"Fall River County, SD",46047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,6708.0,Unreliable
+2020,South Dakota,46,"Fall River County, SD",46047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,6708.0,Unreliable
+2020,South Dakota,46,"Hughes County, SD",46065,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,17336.0,Unreliable
+2020,South Dakota,46,"Hutchinson County, SD",46067,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,7282.0,Unreliable
+2020,South Dakota,46,"Lawrence County, SD",46081,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,26221.0,Unreliable
+2020,South Dakota,46,"Lawrence County, SD",46081,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,26221.0,Unreliable
+2020,South Dakota,46,"Lawrence County, SD",46081,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,26221.0,Unreliable
+2020,South Dakota,46,"Lawrence County, SD",46081,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,26221.0,Unreliable
+2020,South Dakota,46,"Lincoln County, SD",46083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,63019.0,Unreliable
+2020,South Dakota,46,"Lincoln County, SD",46083,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,63019.0,Unreliable
+2020,South Dakota,46,"Lincoln County, SD",46083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,63019.0,Unreliable
+2020,South Dakota,46,"Lincoln County, SD",46083,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,63019.0,Unreliable
+2020,South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,63019.0,Unreliable
+2020,South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,63019.0,Unreliable
+2020,South Dakota,46,"Lincoln County, SD",46083,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,63019.0,Unreliable
+2020,South Dakota,46,"Lyman County, SD",46085,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,3797.0,Unreliable
+2020,South Dakota,46,"Meade County, SD",46093,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,28588.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Sepsis,"Septicaemia, unspecified",A41.9,18.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,15.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,12.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,33.0,196659.0,16.8
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,88.0,196659.0,44.7
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,20.0,196659.0,10.2
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm of ovary,C56,15.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm of prostate,C61,16.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,196659.0,12.7
+2020,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,92.0,196659.0,46.8
+2020,South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,10.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,19.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,48.0,196659.0,24.4
+2020,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,71.0,196659.0,36.1
+2020,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,19.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,65.0,196659.0,33.1
+2020,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,11.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,40.0,196659.0,20.3
+2020,South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,11.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,196659.0,Unreliable
+2020,South Dakota,46,"Minnehaha County, SD",46099,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,56.0,196659.0,28.5
+2020,South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,196659.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Sepsis,"Septicaemia, unspecified",A41.9,20.0,115926.0,17.3
+2020,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,43.0,115926.0,37.1
+2020,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,58.0,115926.0,50.0
+2020,South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,116.0,115926.0,100.1
+2020,South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,Atherosclerotic heart disease,I25.1,34.0,115926.0,29.3
+2020,South Dakota,46,"Pennington County, SD",46103,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,21.0,115926.0,18.1
+2020,South Dakota,46,"Pennington County, SD",46103,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,115926.0,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,40.0,115926.0,34.5
+2020,South Dakota,46,"Roberts County, SD",46109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,10331.0,Unreliable
+2020,South Dakota,46,"Shannon County, SD",46113,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,14070.0,Unreliable
+2020,South Dakota,46,"Union County, SD",46127,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,16192.0,Unreliable
+2020,South Dakota,46,"Yankton County, SD",46135,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,25.0,22742.0,109.9
+2020,South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,22742.0,Unreliable
+2020,South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,22742.0,Unreliable
+2020,South Dakota,46,"Yankton County, SD",46135,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,22742.0,Unreliable
+2021 (provisional),South Dakota,46,"Beadle County, SD",46005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,18513.0,Unreliable
+2021 (provisional),South Dakota,46,"Brookings County, SD",46011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,35603.0,Unreliable
+2021 (provisional),South Dakota,46,"Brookings County, SD",46011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,35603.0,Unreliable
+2021 (provisional),South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,35603.0,Unreliable
+2021 (provisional),South Dakota,46,"Brookings County, SD",46011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,35603.0,Unreliable
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,38738.0,Unreliable
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,38738.0,Unreliable
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,38738.0,Unreliable
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,38738.0,Unreliable
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,38738.0,Unreliable
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,38738.0,Unreliable
+2021 (provisional),South Dakota,46,"Butte County, SD",46019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,10538.0,Unreliable
+2021 (provisional),South Dakota,46,"Charles Mix County, SD",46023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,9262.0,Unreliable
+2021 (provisional),South Dakota,46,"Codington County, SD",46029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,28186.0,Unreliable
+2021 (provisional),South Dakota,46,"Codington County, SD",46029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,28186.0,Unreliable
+2021 (provisional),South Dakota,46,"Codington County, SD",46029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,28186.0,Unreliable
+2021 (provisional),South Dakota,46,"Codington County, SD",46029,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,28186.0,Unreliable
+2021 (provisional),South Dakota,46,"Codington County, SD",46029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,28186.0,Unreliable
+2021 (provisional),South Dakota,46,"Davison County, SD",46035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,19812.0,Unreliable
+2021 (provisional),South Dakota,46,"Davison County, SD",46035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,19812.0,Unreliable
+2021 (provisional),South Dakota,46,"Davison County, SD",46035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,12.0,19812.0,Unreliable
+2021 (provisional),South Dakota,46,"Davison County, SD",46035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,19812.0,Unreliable
+2021 (provisional),South Dakota,46,"Fall River County, SD",46047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,6708.0,Unreliable
+2021 (provisional),South Dakota,46,"Fall River County, SD",46047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,6708.0,Unreliable
+2021 (provisional),South Dakota,46,"Grant County, SD",46051,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,7000.0,Unreliable
+2021 (provisional),South Dakota,46,"Gregory County, SD",46053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,4219.0,Unreliable
+2021 (provisional),South Dakota,46,"Hughes County, SD",46065,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,17336.0,Unreliable
+2021 (provisional),South Dakota,46,"Hughes County, SD",46065,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,17336.0,Unreliable
+2021 (provisional),South Dakota,46,"Hutchinson County, SD",46067,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,7282.0,Unreliable
+2021 (provisional),South Dakota,46,"Lake County, SD",46079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,12488.0,Unreliable
+2021 (provisional),South Dakota,46,"Lawrence County, SD",46081,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,26221.0,Unreliable
+2021 (provisional),South Dakota,46,"Lawrence County, SD",46081,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,35.0,26221.0,133.5
+2021 (provisional),South Dakota,46,"Lawrence County, SD",46081,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,26221.0,Unreliable
+2021 (provisional),South Dakota,46,"Lincoln County, SD",46083,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,63019.0,38.1
+2021 (provisional),South Dakota,46,"Lincoln County, SD",46083,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,63019.0,Unreliable
+2021 (provisional),South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,63019.0,Unreliable
+2021 (provisional),South Dakota,46,"Lincoln County, SD",46083,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,63019.0,Unreliable
+2021 (provisional),South Dakota,46,"Lincoln County, SD",46083,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,63019.0,Unreliable
+2021 (provisional),South Dakota,46,"Meade County, SD",46093,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,28588.0,Unreliable
+2021 (provisional),South Dakota,46,"Meade County, SD",46093,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,28588.0,Unreliable
+2021 (provisional),South Dakota,46,"Meade County, SD",46093,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,28588.0,70.0
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,20.0,196659.0,10.2
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,12.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,25.0,196659.0,12.7
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,89.0,196659.0,45.3
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,21.0,196659.0,10.7
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,15.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Malignant neoplasm without specification of site,C80,17.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,196659.0,14.2
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,68.0,196659.0,34.6
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,15.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,17.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,50.0,196659.0,25.4
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,13.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,11.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,67.0,196659.0,34.1
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,49.0,196659.0,24.9
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,14.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,12.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,13.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,26.0,196659.0,13.2
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,19.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,50.0,196659.0,25.4
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,14.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,16.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,196659.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Sepsis,"Septicaemia, unspecified",A41.9,19.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,18.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,49.0,115926.0,42.3
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,42.0,115926.0,36.2
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,109.0,115926.0,94.0
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,Atherosclerotic heart disease,I25.1,32.0,115926.0,27.6
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,41.0,115926.0,35.4
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,115926.0,Unreliable
+2021 (provisional),South Dakota,46,"Roberts County, SD",46109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,10331.0,Unreliable
+2021 (provisional),South Dakota,46,"Turner County, SD",46125,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,8368.0,Unreliable
+2021 (provisional),South Dakota,46,"Yankton County, SD",46135,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,22742.0,Unreliable
+2021 (provisional),South Dakota,46,"Yankton County, SD",46135,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,22742.0,87.9
+2021 (provisional),South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,22742.0,87.9
+2021 (provisional),South Dakota,46,"Yankton County, SD",46135,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,22742.0,92.3
+2021 (provisional),South Dakota,46,"Yankton County, SD",46135,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,22742.0,Unreliable
+2022 (provisional and partial),South Dakota,46,"Minnehaha County, SD",46099,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,196659.0,Unreliable
+2022 (provisional and partial),South Dakota,46,"Minnehaha County, SD",46099,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,196659.0,Unreliable
+2022 (provisional and partial),South Dakota,46,"Minnehaha County, SD",46099,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,196659.0,Unreliable
+2022 (provisional and partial),South Dakota,46,"Pennington County, SD",46103,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,115926.0,Unreliable
+2022 (provisional and partial),South Dakota,46,"Pennington County, SD",46103,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,115926.0,Unreliable

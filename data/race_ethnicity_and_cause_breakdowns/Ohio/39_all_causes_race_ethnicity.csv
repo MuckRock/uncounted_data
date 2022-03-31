@@ -1,0 +1,864 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Ohio,39,"Adams County, OH",39001,White,Not Hispanic or Latino,335.0,26679.0,1255.7,992.8
+2018,Ohio,39,"Allen County, OH",39003,Black or African American,Not Hispanic or Latino,117.0,12687.0,922.2,1050.1
+2018,Ohio,39,"Allen County, OH",39003,White,Not Hispanic or Latino,1032.0,82857.0,1245.5,854.4
+2018,Ohio,39,"Ashland County, OH",39005,White,Not Hispanic or Latino,591.0,51310.0,1151.8,806.4
+2018,Ohio,39,"Ashtabula County, OH",39007,Black or African American,Not Hispanic or Latino,39.0,3407.0,1144.7,1290.4
+2018,Ohio,39,"Ashtabula County, OH",39007,White,Hispanic or Latino,15.0,3555.0,Unreliable,Unreliable
+2018,Ohio,39,"Ashtabula County, OH",39007,White,Not Hispanic or Latino,1183.0,87084.0,1358.5,945.3
+2018,Ohio,39,"Athens County, OH",39009,Black or African American,Not Hispanic or Latino,11.0,1829.0,Unreliable,Unreliable
+2018,Ohio,39,"Athens County, OH",39009,White,Not Hispanic or Latino,490.0,58782.0,833.6,833.5
+2018,Ohio,39,"Auglaize County, OH",39011,White,Not Hispanic or Latino,517.0,43882.0,1178.2,815.8
+2018,Ohio,39,"Belmont County, OH",39013,Black or African American,Not Hispanic or Latino,17.0,2832.0,Unreliable,Unreliable
+2018,Ohio,39,"Belmont County, OH",39013,White,Not Hispanic or Latino,911.0,62532.0,1456.9,914.4
+2018,Ohio,39,"Brown County, OH",39015,White,Not Hispanic or Latino,554.0,41974.0,1319.9,1014.1
+2018,Ohio,39,"Butler County, OH",39017,Asian,Not Hispanic or Latino,36.0,13888.0,259.2,361.6
+2018,Ohio,39,"Butler County, OH",39017,Black or African American,Not Hispanic or Latino,231.0,32575.0,709.1,931.3
+2018,Ohio,39,"Butler County, OH",39017,White,Hispanic or Latino,31.0,15490.0,200.1,363.7
+2018,Ohio,39,"Butler County, OH",39017,White,Not Hispanic or Latino,3233.0,307821.0,1050.3,869.6
+2018,Ohio,39,"Carroll County, OH",39019,White,Not Hispanic or Latino,317.0,26001.0,1219.2,810.2
+2018,Ohio,39,"Champaign County, OH",39021,Black or African American,Not Hispanic or Latino,10.0,791.0,Unreliable,Unreliable
+2018,Ohio,39,"Champaign County, OH",39021,White,Not Hispanic or Latino,409.0,36168.0,1130.8,836.0
+2018,Ohio,39,"Clark County, OH",39023,Black or African American,Not Hispanic or Latino,175.0,11742.0,1490.4,1349.2
+2018,Ohio,39,"Clark County, OH",39023,White,Not Hispanic or Latino,1583.0,113093.0,1399.7,969.8
+2018,Ohio,39,"Clermont County, OH",39025,Black or African American,Not Hispanic or Latino,21.0,3225.0,651.2,777.3
+2018,Ohio,39,"Clermont County, OH",39025,White,Not Hispanic or Latino,1877.0,191877.0,978.2,804.1
+2018,Ohio,39,"Clinton County, OH",39027,White,Not Hispanic or Latino,469.0,39304.0,1193.3,932.9
+2018,Ohio,39,"Columbiana County, OH",39029,Black or African American,Not Hispanic or Latino,13.0,2342.0,Unreliable,Unreliable
+2018,Ohio,39,"Columbiana County, OH",39029,White,Not Hispanic or Latino,1262.0,96292.0,1310.6,867.0
+2018,Ohio,39,"Coshocton County, OH",39031,White,Not Hispanic or Latino,446.0,35079.0,1271.4,917.1
+2018,Ohio,39,"Crawford County, OH",39033,White,Not Hispanic or Latino,568.0,39539.0,1436.6,942.2
+2018,Ohio,39,"Cuyahoga County, OH",39035,Asian,Not Hispanic or Latino,120.0,41143.0,291.7,349.4
+2018,Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Hispanic or Latino,18.0,10695.0,Unreliable,Unreliable
+2018,Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Not Hispanic or Latino,4030.0,368279.0,1094.3,961.1
+2018,Ohio,39,"Cuyahoga County, OH",39035,White,Hispanic or Latino,288.0,59972.0,480.2,699.8
+2018,Ohio,39,"Cuyahoga County, OH",39035,White,Not Hispanic or Latino,9697.0,731138.0,1326.3,788.8
+2018,Ohio,39,"Cuyahoga County, OH",39035,More than one race,Not Hispanic or Latino,18.0,24420.0,Unreliable,Unreliable
+2018,Ohio,39,"Darke County, OH",39037,White,Not Hispanic or Latino,642.0,49226.0,1304.2,877.7
+2018,Ohio,39,"Defiance County, OH",39039,White,Hispanic or Latino,17.0,3535.0,Unreliable,Unreliable
+2018,Ohio,39,"Defiance County, OH",39039,White,Not Hispanic or Latino,378.0,32858.0,1150.4,786.7
+2018,Ohio,39,"Delaware County, OH",39041,Asian,Not Hispanic or Latino,14.0,14489.0,Unreliable,Unreliable
+2018,Ohio,39,"Delaware County, OH",39041,Black or African American,Not Hispanic or Latino,38.0,7409.0,512.9,653.3
+2018,Ohio,39,"Delaware County, OH",39041,White,Not Hispanic or Latino,1140.0,173055.0,658.8,615.2
+2018,Ohio,39,"Erie County, OH",39043,Black or African American,Not Hispanic or Latino,58.0,6390.0,907.7,800.6
+2018,Ohio,39,"Erie County, OH",39043,White,Not Hispanic or Latino,901.0,61978.0,1453.7,862.0
+2018,Ohio,39,"Fairfield County, OH",39045,Black or African American,Not Hispanic or Latino,30.0,12598.0,238.1,508.6
+2018,Ohio,39,"Fairfield County, OH",39045,White,Not Hispanic or Latino,1419.0,133461.0,1063.2,848.9
+2018,Ohio,39,"Fayette County, OH",39047,White,Not Hispanic or Latino,341.0,26451.0,1289.2,1010.0
+2018,Ohio,39,"Franklin County, OH",39049,American Indian or Alaska Native,Not Hispanic or Latino,14.0,2475.0,Unreliable,Unreliable
+2018,Ohio,39,"Franklin County, OH",39049,Asian,Not Hispanic or Latino,163.0,73675.0,221.2,417.8
+2018,Ohio,39,"Franklin County, OH",39049,Black or African American,Not Hispanic or Latino,2220.0,300122.0,739.7,946.1
+2018,Ohio,39,"Franklin County, OH",39049,White,Hispanic or Latino,103.0,60379.0,170.6,405.9
+2018,Ohio,39,"Franklin County, OH",39049,White,Not Hispanic or Latino,7690.0,819878.0,937.9,837.7
+2018,Ohio,39,"Franklin County, OH",39049,More than one race,Not Hispanic or Latino,29.0,38773.0,74.8,246.8
+2018,Ohio,39,"Fulton County, OH",39051,White,Hispanic or Latino,19.0,3431.0,Unreliable,Unreliable
+2018,Ohio,39,"Fulton County, OH",39051,White,Not Hispanic or Latino,425.0,37511.0,1133.0,807.5
+2018,Ohio,39,"Gallia County, OH",39053,Black or African American,Not Hispanic or Latino,17.0,668.0,Unreliable,Unreliable
+2018,Ohio,39,"Gallia County, OH",39053,White,Not Hispanic or Latino,411.0,27926.0,1471.7,1087.3
+2018,Ohio,39,"Geauga County, OH",39055,White,Not Hispanic or Latino,837.0,89766.0,932.4,611.9
+2018,Ohio,39,"Greene County, OH",39057,Asian,Not Hispanic or Latino,17.0,5227.0,Unreliable,Unreliable
+2018,Ohio,39,"Greene County, OH",39057,Black or African American,Not Hispanic or Latino,90.0,11912.0,755.5,887.3
+2018,Ohio,39,"Greene County, OH",39057,White,Hispanic or Latino,11.0,4078.0,Unreliable,Unreliable
+2018,Ohio,39,"Greene County, OH",39057,White,Not Hispanic or Latino,1409.0,140482.0,1003.0,734.2
+2018,Ohio,39,"Guernsey County, OH",39059,Black or African American,Not Hispanic or Latino,10.0,578.0,Unreliable,Unreliable
+2018,Ohio,39,"Guernsey County, OH",39059,White,Not Hispanic or Latino,466.0,36930.0,1261.8,898.8
+2018,Ohio,39,"Hamilton County, OH",39061,Asian,Not Hispanic or Latino,58.0,23214.0,249.8,374.5
+2018,Ohio,39,"Hamilton County, OH",39061,Black or African American,Not Hispanic or Latino,2045.0,214071.0,955.3,993.5
+2018,Ohio,39,"Hamilton County, OH",39061,White,Hispanic or Latino,40.0,22071.0,181.2,370.1
+2018,Ohio,39,"Hamilton County, OH",39061,White,Not Hispanic or Latino,5981.0,530718.0,1127.0,819.2
+2018,Ohio,39,"Hancock County, OH",39063,Black or African American,Not Hispanic or Latino,14.0,1291.0,Unreliable,Unreliable
+2018,Ohio,39,"Hancock County, OH",39063,White,Hispanic or Latino,20.0,3738.0,535.0,834.6
+2018,Ohio,39,"Hancock County, OH",39063,White,Not Hispanic or Latino,788.0,67513.0,1167.2,854.9
+2018,Ohio,39,"Hardin County, OH",39065,White,Not Hispanic or Latino,338.0,29881.0,1131.2,932.5
+2018,Ohio,39,"Harrison County, OH",39067,White,Not Hispanic or Latino,212.0,14386.0,1473.7,966.7
+2018,Ohio,39,"Henry County, OH",39069,White,Hispanic or Latino,11.0,1955.0,Unreliable,Unreliable
+2018,Ohio,39,"Henry County, OH",39069,White,Not Hispanic or Latino,297.0,24324.0,1221.0,822.5
+2018,Ohio,39,"Highland County, OH",39071,White,Not Hispanic or Latino,496.0,40886.0,1213.1,899.0
+2018,Ohio,39,"Hocking County, OH",39073,White,Not Hispanic or Latino,358.0,27325.0,1310.2,993.4
+2018,Ohio,39,"Holmes County, OH",39075,White,Not Hispanic or Latino,332.0,42911.0,773.7,718.6
+2018,Ohio,39,"Huron County, OH",39077,White,Hispanic or Latino,11.0,3661.0,Unreliable,Unreliable
+2018,Ohio,39,"Huron County, OH",39077,White,Not Hispanic or Latino,602.0,52556.0,1145.4,881.1
+2018,Ohio,39,"Jackson County, OH",39079,White,Not Hispanic or Latino,459.0,31052.0,1478.2,1195.2
+2018,Ohio,39,"Jefferson County, OH",39081,Black or African American,Not Hispanic or Latino,52.0,3506.0,1483.2,1304.9
+2018,Ohio,39,"Jefferson County, OH",39081,White,Not Hispanic or Latino,880.0,59454.0,1480.1,931.3
+2018,Ohio,39,"Knox County, OH",39083,White,Not Hispanic or Latino,640.0,58996.0,1084.8,817.0
+2018,Ohio,39,"Lake County, OH",39085,Asian,Not Hispanic or Latino,11.0,3497.0,Unreliable,Unreliable
+2018,Ohio,39,"Lake County, OH",39085,Black or African American,Not Hispanic or Latino,76.0,10116.0,751.3,899.6
+2018,Ohio,39,"Lake County, OH",39085,White,Hispanic or Latino,20.0,9350.0,213.9,440.1
+2018,Ohio,39,"Lake County, OH",39085,White,Not Hispanic or Latino,2468.0,202229.0,1220.4,778.9
+2018,Ohio,39,"Lawrence County, OH",39087,Black or African American,Not Hispanic or Latino,20.0,1264.0,1582.3,1476.6
+2018,Ohio,39,"Lawrence County, OH",39087,White,Not Hispanic or Latino,897.0,56685.0,1582.4,1180.9
+2018,Ohio,39,"Licking County, OH",39089,Black or African American,Not Hispanic or Latino,34.0,6961.0,488.4,666.9
+2018,Ohio,39,"Licking County, OH",39089,White,Not Hispanic or Latino,1690.0,157841.0,1070.7,843.7
+2018,Ohio,39,"Logan County, OH",39091,Black or African American,Not Hispanic or Latino,10.0,803.0,Unreliable,Unreliable
+2018,Ohio,39,"Logan County, OH",39091,White,Not Hispanic or Latino,503.0,42341.0,1188.0,882.3
+2018,Ohio,39,"Lorain County, OH",39093,Asian,Not Hispanic or Latino,10.0,3981.0,Unreliable,Unreliable
+2018,Ohio,39,"Lorain County, OH",39093,Black or African American,Not Hispanic or Latino,259.0,24350.0,1063.7,1107.2
+2018,Ohio,39,"Lorain County, OH",39093,White,Hispanic or Latino,134.0,25670.0,522.0,655.7
+2018,Ohio,39,"Lorain County, OH",39093,White,Not Hispanic or Latino,2892.0,241088.0,1199.6,800.3
+2018,Ohio,39,"Lucas County, OH",39095,Asian,Not Hispanic or Latino,16.0,7400.0,Unreliable,Unreliable
+2018,Ohio,39,"Lucas County, OH",39095,Black or African American,Not Hispanic or Latino,877.0,84281.0,1040.6,1113.8
+2018,Ohio,39,"Lucas County, OH",39095,White,Hispanic or Latino,116.0,25260.0,459.2,748.0
+2018,Ohio,39,"Lucas County, OH",39095,White,Not Hispanic or Latino,3829.0,293961.0,1302.6,912.8
+2018,Ohio,39,"Madison County, OH",39097,Black or African American,Not Hispanic or Latino,16.0,2773.0,Unreliable,Unreliable
+2018,Ohio,39,"Madison County, OH",39097,White,Not Hispanic or Latino,392.0,39225.0,999.4,807.5
+2018,Ohio,39,"Mahoning County, OH",39099,Black or African American,Not Hispanic or Latino,460.0,34564.0,1330.9,1217.6
+2018,Ohio,39,"Mahoning County, OH",39099,White,Hispanic or Latino,53.0,11065.0,479.0,564.5
+2018,Ohio,39,"Mahoning County, OH",39099,White,Not Hispanic or Latino,2585.0,173529.0,1489.7,843.9
+2018,Ohio,39,"Marion County, OH",39101,Black or African American,Not Hispanic or Latino,25.0,4150.0,602.4,1161.9
+2018,Ohio,39,"Marion County, OH",39101,White,Not Hispanic or Latino,759.0,57515.0,1319.7,952.5
+2018,Ohio,39,"Medina County, OH",39103,Asian,Not Hispanic or Latino,12.0,2280.0,Unreliable,Unreliable
+2018,Ohio,39,"Medina County, OH",39103,Black or African American,Not Hispanic or Latino,14.0,2478.0,Unreliable,Unreliable
+2018,Ohio,39,"Medina County, OH",39103,White,Not Hispanic or Latino,1612.0,168059.0,959.2,732.0
+2018,Ohio,39,"Meigs County, OH",39105,White,Not Hispanic or Latino,359.0,22323.0,1608.2,1171.7
+2018,Ohio,39,"Mercer County, OH",39107,White,Not Hispanic or Latino,410.0,38916.0,1053.6,740.8
+2018,Ohio,39,"Miami County, OH",39109,Black or African American,Not Hispanic or Latino,27.0,2478.0,1089.6,1066.1
+2018,Ohio,39,"Miami County, OH",39109,White,Not Hispanic or Latino,1129.0,97740.0,1155.1,840.9
+2018,Ohio,39,"Monroe County, OH",39111,White,Not Hispanic or Latino,205.0,13389.0,1531.1,949.9
+2018,Ohio,39,"Montgomery County, OH",39113,Asian,Not Hispanic or Latino,39.0,12374.0,315.2,371.3
+2018,Ohio,39,"Montgomery County, OH",39113,Black or African American,Not Hispanic or Latino,1291.0,112286.0,1149.7,1070.8
+2018,Ohio,39,"Montgomery County, OH",39113,White,Hispanic or Latino,36.0,13294.0,270.8,468.5
+2018,Ohio,39,"Montgomery County, OH",39113,White,Not Hispanic or Latino,5056.0,375997.0,1344.7,903.8
+2018,Ohio,39,"Morgan County, OH",39115,Black or African American,Not Hispanic or Latino,14.0,460.0,Unreliable,Unreliable
+2018,Ohio,39,"Morgan County, OH",39115,White,Not Hispanic or Latino,168.0,13429.0,1251.0,820.5
+2018,Ohio,39,"Morrow County, OH",39117,White,Not Hispanic or Latino,309.0,33669.0,917.8,711.1
+2018,Ohio,39,"Muskingum County, OH",39119,Black or African American,Not Hispanic or Latino,31.0,3240.0,956.8,845.1
+2018,Ohio,39,"Muskingum County, OH",39119,White,Not Hispanic or Latino,1007.0,78780.0,1278.2,939.5
+2018,Ohio,39,"Noble County, OH",39121,White,Not Hispanic or Latino,146.0,13638.0,1070.5,643.0
+2018,Ohio,39,"Ottawa County, OH",39123,White,Not Hispanic or Latino,525.0,37590.0,1396.6,811.5
+2018,Ohio,39,"Paulding County, OH",39125,White,Not Hispanic or Latino,198.0,17324.0,1142.9,806.1
+2018,Ohio,39,"Perry County, OH",39127,White,Not Hispanic or Latino,360.0,34835.0,1033.4,892.9
+2018,Ohio,39,"Pickaway County, OH",39129,Black or African American,Not Hispanic or Latino,15.0,2217.0,Unreliable,Unreliable
+2018,Ohio,39,"Pickaway County, OH",39129,White,Not Hispanic or Latino,593.0,53749.0,1103.3,894.8
+2018,Ohio,39,"Pike County, OH",39131,White,Not Hispanic or Latino,404.0,26664.0,1515.2,1147.4
+2018,Ohio,39,"Portage County, OH",39133,Black or African American,Not Hispanic or Latino,55.0,7317.0,751.7,1185.3
+2018,Ohio,39,"Portage County, OH",39133,White,Not Hispanic or Latino,1503.0,145536.0,1032.7,816.6
+2018,Ohio,39,"Preble County, OH",39135,White,Not Hispanic or Latino,491.0,39462.0,1244.2,910.6
+2018,Ohio,39,"Putnam County, OH",39137,White,Hispanic or Latino,13.0,1905.0,Unreliable,Unreliable
+2018,Ohio,39,"Putnam County, OH",39137,White,Not Hispanic or Latino,310.0,31212.0,993.2,695.6
+2018,Ohio,39,"Richland County, OH",39139,Black or African American,Not Hispanic or Latino,121.0,11340.0,1067.0,1175.1
+2018,Ohio,39,"Richland County, OH",39139,White,Not Hispanic or Latino,1390.0,103544.0,1342.4,883.3
+2018,Ohio,39,"Ross County, OH",39141,Black or African American,Not Hispanic or Latino,34.0,4403.0,772.2,824.0
+2018,Ohio,39,"Ross County, OH",39141,White,Not Hispanic or Latino,855.0,68954.0,1240.0,1000.2
+2018,Ohio,39,"Sandusky County, OH",39143,Black or African American,Not Hispanic or Latino,27.0,1779.0,1517.7,1852.5
+2018,Ohio,39,"Sandusky County, OH",39143,White,Hispanic or Latino,19.0,5320.0,Unreliable,Unreliable
+2018,Ohio,39,"Sandusky County, OH",39143,White,Not Hispanic or Latino,655.0,49571.0,1321.3,880.6
+2018,Ohio,39,"Scioto County, OH",39145,Black or African American,Not Hispanic or Latino,19.0,1921.0,Unreliable,Unreliable
+2018,Ohio,39,"Scioto County, OH",39145,White,Not Hispanic or Latino,1064.0,70446.0,1510.4,1133.1
+2018,Ohio,39,"Seneca County, OH",39147,White,Not Hispanic or Latino,600.0,49344.0,1216.0,843.7
+2018,Ohio,39,"Shelby County, OH",39149,White,Not Hispanic or Latino,467.0,45044.0,1036.8,801.0
+2018,Ohio,39,"Stark County, OH",39151,Black or African American,Not Hispanic or Latino,278.0,28964.0,959.8,969.7
+2018,Ohio,39,"Stark County, OH",39151,White,Hispanic or Latino,25.0,6568.0,380.6,519.2
+2018,Ohio,39,"Stark County, OH",39151,White,Not Hispanic or Latino,4112.0,320796.0,1281.8,832.1
+2018,Ohio,39,"Summit County, OH",39153,Asian,Not Hispanic or Latino,61.0,20776.0,293.6,519.8
+2018,Ohio,39,"Summit County, OH",39153,Black or African American,Not Hispanic or Latino,789.0,79948.0,986.9,989.5
+2018,Ohio,39,"Summit County, OH",39153,White,Hispanic or Latino,23.0,9491.0,242.3,455.3
+2018,Ohio,39,"Summit County, OH",39153,White,Not Hispanic or Latino,4982.0,415161.0,1200.0,793.9
+2018,Ohio,39,"Trumbull County, OH",39155,Black or African American,Not Hispanic or Latino,191.0,16324.0,1170.1,1056.7
+2018,Ohio,39,"Trumbull County, OH",39155,White,Not Hispanic or Latino,2430.0,173117.0,1403.7,868.8
+2018,Ohio,39,"Tuscarawas County, OH",39157,White,Not Hispanic or Latino,1126.0,86974.0,1294.6,854.2
+2018,Ohio,39,"Union County, OH",39159,White,Not Hispanic or Latino,409.0,51601.0,792.6,807.2
+2018,Ohio,39,"Van Wert County, OH",39161,White,Not Hispanic or Latino,316.0,26508.0,1192.1,795.3
+2018,Ohio,39,"Vinton County, OH",39163,White,Not Hispanic or Latino,162.0,12672.0,1278.4,1016.4
+2018,Ohio,39,"Warren County, OH",39165,Asian,Not Hispanic or Latino,26.0,14005.0,185.6,315.4
+2018,Ohio,39,"Warren County, OH",39165,Black or African American,Not Hispanic or Latino,28.0,8317.0,336.7,566.1
+2018,Ohio,39,"Warren County, OH",39165,White,Not Hispanic or Latino,1801.0,199093.0,904.6,772.8
+2018,Ohio,39,"Washington County, OH",39167,Black or African American,Not Hispanic or Latino,11.0,704.0,Unreliable,Unreliable
+2018,Ohio,39,"Washington County, OH",39167,White,Not Hispanic or Latino,739.0,57139.0,1293.3,852.3
+2018,Ohio,39,"Wayne County, OH",39169,Black or African American,Not Hispanic or Latino,18.0,1803.0,Unreliable,Unreliable
+2018,Ohio,39,"Wayne County, OH",39169,White,Not Hispanic or Latino,1197.0,108470.0,1103.5,803.6
+2018,Ohio,39,"Williams County, OH",39171,White,Not Hispanic or Latino,441.0,34002.0,1297.0,866.7
+2018,Ohio,39,"Wood County, OH",39173,Black or African American,Not Hispanic or Latino,10.0,3488.0,Unreliable,Unreliable
+2018,Ohio,39,"Wood County, OH",39173,White,Hispanic or Latino,26.0,6626.0,392.4,653.0
+2018,Ohio,39,"Wood County, OH",39173,White,Not Hispanic or Latino,1186.0,115073.0,1030.7,827.1
+2018,Ohio,39,"Wyandot County, OH",39175,White,Not Hispanic or Latino,262.0,20811.0,1258.9,863.6
+2019,Ohio,39,"Adams County, OH",39001,White,Not Hispanic or Latino,391.0,26635.0,1468.0,1137.1
+2019,Ohio,39,"Allen County, OH",39003,Black or African American,Not Hispanic or Latino,111.0,12529.0,885.9,932.0
+2019,Ohio,39,"Allen County, OH",39003,White,Not Hispanic or Latino,1067.0,82493.0,1293.4,865.9
+2019,Ohio,39,"Ashland County, OH",39005,White,Not Hispanic or Latino,592.0,51051.0,1159.6,817.2
+2019,Ohio,39,"Ashtabula County, OH",39007,Black or African American,Not Hispanic or Latino,34.0,3377.0,1006.8,1143.0
+2019,Ohio,39,"Ashtabula County, OH",39007,White,Hispanic or Latino,11.0,3685.0,Unreliable,Unreliable
+2019,Ohio,39,"Ashtabula County, OH",39007,White,Not Hispanic or Latino,1214.0,86793.0,1398.7,937.4
+2019,Ohio,39,"Athens County, OH",39009,White,Not Hispanic or Latino,493.0,58603.0,841.3,817.7
+2019,Ohio,39,"Auglaize County, OH",39011,White,Not Hispanic or Latino,516.0,43679.0,1181.3,796.6
+2019,Ohio,39,"Belmont County, OH",39013,Black or African American,Not Hispanic or Latino,17.0,2797.0,Unreliable,Unreliable
+2019,Ohio,39,"Belmont County, OH",39013,White,Not Hispanic or Latino,886.0,61944.0,1430.3,894.3
+2019,Ohio,39,"Brown County, OH",39015,White,Not Hispanic or Latino,521.0,41765.0,1247.5,931.2
+2019,Ohio,39,"Butler County, OH",39017,Asian,Not Hispanic or Latino,43.0,14637.0,293.8,410.4
+2019,Ohio,39,"Butler County, OH",39017,Black or African American,Not Hispanic or Latino,219.0,33593.0,651.9,881.1
+2019,Ohio,39,"Butler County, OH",39017,White,Hispanic or Latino,21.0,15883.0,132.2,259.0
+2019,Ohio,39,"Butler County, OH",39017,White,Not Hispanic or Latino,3216.0,305928.0,1051.2,852.5
+2019,Ohio,39,"Carroll County, OH",39019,White,Not Hispanic or Latino,348.0,25883.0,1344.5,868.7
+2019,Ohio,39,"Champaign County, OH",39021,Black or African American,Not Hispanic or Latino,11.0,797.0,Unreliable,Unreliable
+2019,Ohio,39,"Champaign County, OH",39021,White,Not Hispanic or Latino,403.0,36257.0,1111.5,818.3
+2019,Ohio,39,"Clark County, OH",39023,Black or African American,Not Hispanic or Latino,158.0,11690.0,1351.6,1202.0
+2019,Ohio,39,"Clark County, OH",39023,White,Not Hispanic or Latino,1574.0,112487.0,1399.3,955.9
+2019,Ohio,39,"Clermont County, OH",39025,Black or African American,Not Hispanic or Latino,25.0,3403.0,734.6,841.7
+2019,Ohio,39,"Clermont County, OH",39025,White,Not Hispanic or Latino,1839.0,192408.0,955.8,776.5
+2019,Ohio,39,"Clinton County, OH",39027,White,Not Hispanic or Latino,467.0,39172.0,1192.2,910.6
+2019,Ohio,39,"Columbiana County, OH",39029,Black or African American,Not Hispanic or Latino,12.0,2332.0,Unreliable,Unreliable
+2019,Ohio,39,"Columbiana County, OH",39029,White,Not Hispanic or Latino,1357.0,95501.0,1420.9,924.4
+2019,Ohio,39,"Coshocton County, OH",39031,White,Not Hispanic or Latino,458.0,34973.0,1309.6,928.5
+2019,Ohio,39,"Crawford County, OH",39033,White,Not Hispanic or Latino,562.0,39434.0,1425.2,897.3
+2019,Ohio,39,"Cuyahoga County, OH",39035,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1893.0,1162.2,1146.4
+2019,Ohio,39,"Cuyahoga County, OH",39035,Asian,Not Hispanic or Latino,119.0,40866.0,291.2,340.6
+2019,Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Hispanic or Latino,12.0,10627.0,Unreliable,Unreliable
+2019,Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Not Hispanic or Latino,4119.0,366355.0,1124.3,974.9
+2019,Ohio,39,"Cuyahoga County, OH",39035,White,Hispanic or Latino,275.0,60834.0,452.0,609.4
+2019,Ohio,39,"Cuyahoga County, OH",39035,White,Not Hispanic or Latino,9263.0,723646.0,1280.0,756.5
+2019,Ohio,39,"Cuyahoga County, OH",39035,More than one race,Not Hispanic or Latino,25.0,24753.0,101.0,186.5
+2019,Ohio,39,"Darke County, OH",39037,White,Not Hispanic or Latino,650.0,48945.0,1328.0,887.3
+2019,Ohio,39,"Defiance County, OH",39039,White,Hispanic or Latino,17.0,3535.0,Unreliable,Unreliable
+2019,Ohio,39,"Defiance County, OH",39039,White,Not Hispanic or Latino,416.0,32756.0,1270.0,857.6
+2019,Ohio,39,"Delaware County, OH",39041,Asian,Not Hispanic or Latino,24.0,15837.0,151.5,354.0
+2019,Ohio,39,"Delaware County, OH",39041,Black or African American,Not Hispanic or Latino,43.0,7856.0,547.4,760.3
+2019,Ohio,39,"Delaware County, OH",39041,White,Not Hispanic or Latino,1202.0,175280.0,685.8,630.7
+2019,Ohio,39,"Erie County, OH",39043,Black or African American,Not Hispanic or Latino,85.0,6400.0,1328.1,1193.6
+2019,Ohio,39,"Erie County, OH",39043,White,Hispanic or Latino,18.0,2737.0,Unreliable,Unreliable
+2019,Ohio,39,"Erie County, OH",39043,White,Not Hispanic or Latino,858.0,61626.0,1392.3,796.4
+2019,Ohio,39,"Fairfield County, OH",39045,Asian,Not Hispanic or Latino,12.0,3001.0,Unreliable,Unreliable
+2019,Ohio,39,"Fairfield County, OH",39045,Black or African American,Not Hispanic or Latino,59.0,13365.0,441.5,721.9
+2019,Ohio,39,"Fairfield County, OH",39045,White,Hispanic or Latino,10.0,2865.0,Unreliable,Unreliable
+2019,Ohio,39,"Fairfield County, OH",39045,White,Not Hispanic or Latino,1381.0,133835.0,1031.9,806.2
+2019,Ohio,39,"Fayette County, OH",39047,Black or African American,Not Hispanic or Latino,12.0,612.0,Unreliable,Unreliable
+2019,Ohio,39,"Fayette County, OH",39047,White,Not Hispanic or Latino,372.0,26314.0,1413.7,1097.6
+2019,Ohio,39,"Franklin County, OH",39049,Asian,Not Hispanic or Latino,180.0,74732.0,240.9,441.2
+2019,Ohio,39,"Franklin County, OH",39049,Black or African American,Not Hispanic or Latino,2252.0,304977.0,738.4,922.9
+2019,Ohio,39,"Franklin County, OH",39049,White,Hispanic or Latino,129.0,61337.0,210.3,456.2
+2019,Ohio,39,"Franklin County, OH",39049,White,Not Hispanic or Latino,7558.0,818216.0,923.7,814.9
+2019,Ohio,39,"Franklin County, OH",39049,More than one race,Not Hispanic or Latino,35.0,39720.0,88.1,227.7
+2019,Ohio,39,"Fulton County, OH",39051,White,Hispanic or Latino,20.0,3405.0,587.4,962.5
+2019,Ohio,39,"Fulton County, OH",39051,White,Not Hispanic or Latino,426.0,37397.0,1139.1,804.8
+2019,Ohio,39,"Gallia County, OH",39053,Black or African American,Not Hispanic or Latino,10.0,666.0,Unreliable,Unreliable
+2019,Ohio,39,"Gallia County, OH",39053,White,Not Hispanic or Latino,370.0,27843.0,1328.9,978.2
+2019,Ohio,39,"Geauga County, OH",39055,White,Not Hispanic or Latino,887.0,89360.0,992.6,649.5
+2019,Ohio,39,"Greene County, OH",39057,Asian,Not Hispanic or Latino,10.0,5157.0,Unreliable,Unreliable
+2019,Ohio,39,"Greene County, OH",39057,Black or African American,Not Hispanic or Latino,80.0,11960.0,668.9,792.8
+2019,Ohio,39,"Greene County, OH",39057,White,Hispanic or Latino,12.0,4092.0,Unreliable,Unreliable
+2019,Ohio,39,"Greene County, OH",39057,White,Not Hispanic or Latino,1573.0,141372.0,1112.7,813.8
+2019,Ohio,39,"Guernsey County, OH",39059,White,Not Hispanic or Latino,508.0,36781.0,1381.1,971.7
+2019,Ohio,39,"Hamilton County, OH",39061,Asian,Not Hispanic or Latino,68.0,23376.0,290.9,420.5
+2019,Ohio,39,"Hamilton County, OH",39061,Black or African American,Not Hispanic or Latino,2040.0,214270.0,952.1,986.9
+2019,Ohio,39,"Hamilton County, OH",39061,White,Hispanic or Latino,41.0,22858.0,179.4,307.1
+2019,Ohio,39,"Hamilton County, OH",39061,White,Not Hispanic or Latino,5828.0,529825.0,1100.0,791.5
+2019,Ohio,39,"Hancock County, OH",39063,White,Hispanic or Latino,15.0,3818.0,Unreliable,Unreliable
+2019,Ohio,39,"Hancock County, OH",39063,White,Not Hispanic or Latino,749.0,67168.0,1115.1,784.7
+2019,Ohio,39,"Hardin County, OH",39065,White,Not Hispanic or Latino,323.0,29679.0,1088.3,887.0
+2019,Ohio,39,"Harrison County, OH",39067,White,Not Hispanic or Latino,197.0,14263.0,1381.2,843.5
+2019,Ohio,39,"Henry County, OH",39069,White,Not Hispanic or Latino,295.0,24266.0,1215.7,801.1
+2019,Ohio,39,"Highland County, OH",39071,Black or African American,Not Hispanic or Latino,10.0,594.0,Unreliable,Unreliable
+2019,Ohio,39,"Highland County, OH",39071,White,Not Hispanic or Latino,481.0,40967.0,1174.1,866.6
+2019,Ohio,39,"Hocking County, OH",39073,White,Not Hispanic or Latino,339.0,27148.0,1248.7,929.6
+2019,Ohio,39,"Holmes County, OH",39075,White,Not Hispanic or Latino,339.0,42950.0,789.3,713.7
+2019,Ohio,39,"Huron County, OH",39077,White,Not Hispanic or Latino,657.0,52362.0,1254.7,947.5
+2019,Ohio,39,"Jackson County, OH",39079,White,Not Hispanic or Latino,439.0,31066.0,1413.1,1110.5
+2019,Ohio,39,"Jefferson County, OH",39081,Black or African American,Not Hispanic or Latino,60.0,3507.0,1710.9,1525.5
+2019,Ohio,39,"Jefferson County, OH",39081,White,Not Hispanic or Latino,872.0,58867.0,1481.3,946.5
+2019,Ohio,39,"Knox County, OH",39083,White,Not Hispanic or Latino,562.0,59369.0,946.6,694.8
+2019,Ohio,39,"Lake County, OH",39085,Black or African American,Not Hispanic or Latino,87.0,10465.0,831.3,969.7
+2019,Ohio,39,"Lake County, OH",39085,White,Hispanic or Latino,18.0,9381.0,Unreliable,Unreliable
+2019,Ohio,39,"Lake County, OH",39085,White,Not Hispanic or Latino,2494.0,201531.0,1237.5,771.5
+2019,Ohio,39,"Lawrence County, OH",39087,Black or African American,Not Hispanic or Latino,13.0,1238.0,Unreliable,Unreliable
+2019,Ohio,39,"Lawrence County, OH",39087,White,Not Hispanic or Latino,855.0,56316.0,1518.2,1118.0
+2019,Ohio,39,"Licking County, OH",39089,Asian,Not Hispanic or Latino,14.0,3991.0,Unreliable,Unreliable
+2019,Ohio,39,"Licking County, OH",39089,Black or African American,Not Hispanic or Latino,51.0,7175.0,710.8,946.5
+2019,Ohio,39,"Licking County, OH",39089,White,Not Hispanic or Latino,1727.0,157506.0,1096.5,865.1
+2019,Ohio,39,"Logan County, OH",39091,White,Not Hispanic or Latino,489.0,42464.0,1151.6,860.9
+2019,Ohio,39,"Lorain County, OH",39093,Asian,Not Hispanic or Latino,13.0,4002.0,Unreliable,Unreliable
+2019,Ohio,39,"Lorain County, OH",39093,Black or African American,Not Hispanic or Latino,255.0,24166.0,1055.2,1063.6
+2019,Ohio,39,"Lorain County, OH",39093,White,Hispanic or Latino,138.0,26076.0,529.2,636.5
+2019,Ohio,39,"Lorain County, OH",39093,White,Not Hispanic or Latino,2855.0,240854.0,1185.4,780.5
+2019,Ohio,39,"Lucas County, OH",39095,Asian,Not Hispanic or Latino,22.0,7175.0,306.6,356.6
+2019,Ohio,39,"Lucas County, OH",39095,Black or African American,Not Hispanic or Latino,773.0,84131.0,918.8,972.1
+2019,Ohio,39,"Lucas County, OH",39095,White,Hispanic or Latino,122.0,25548.0,477.5,775.7
+2019,Ohio,39,"Lucas County, OH",39095,White,Not Hispanic or Latino,3718.0,292291.0,1272.0,893.0
+2019,Ohio,39,"Lucas County, OH",39095,More than one race,Not Hispanic or Latino,20.0,12075.0,165.6,350.5
+2019,Ohio,39,"Madison County, OH",39097,White,Not Hispanic or Latino,425.0,39402.0,1078.6,859.2
+2019,Ohio,39,"Mahoning County, OH",39099,Black or African American,Not Hispanic or Latino,432.0,34344.0,1257.9,1157.2
+2019,Ohio,39,"Mahoning County, OH",39099,White,Hispanic or Latino,66.0,11069.0,596.3,742.6
+2019,Ohio,39,"Mahoning County, OH",39099,White,Not Hispanic or Latino,2534.0,172552.0,1468.5,827.9
+2019,Ohio,39,"Mahoning County, OH",39099,More than one race,Not Hispanic or Latino,11.0,4541.0,Unreliable,Unreliable
+2019,Ohio,39,"Marion County, OH",39101,Black or African American,Not Hispanic or Latino,19.0,4073.0,Unreliable,Unreliable
+2019,Ohio,39,"Marion County, OH",39101,White,Not Hispanic or Latino,789.0,57369.0,1375.3,985.2
+2019,Ohio,39,"Medina County, OH",39103,Black or African American,Not Hispanic or Latino,23.0,2540.0,905.5,1283.3
+2019,Ohio,39,"Medina County, OH",39103,White,Not Hispanic or Latino,1470.0,168194.0,874.0,644.5
+2019,Ohio,39,"Meigs County, OH",39105,White,Not Hispanic or Latino,270.0,22103.0,1221.6,873.6
+2019,Ohio,39,"Mercer County, OH",39107,White,Not Hispanic or Latino,388.0,39051.0,993.6,698.4
+2019,Ohio,39,"Miami County, OH",39109,Asian,Not Hispanic or Latino,10.0,1831.0,Unreliable,Unreliable
+2019,Ohio,39,"Miami County, OH",39109,Black or African American,Not Hispanic or Latino,24.0,2522.0,951.6,959.7
+2019,Ohio,39,"Miami County, OH",39109,White,Not Hispanic or Latino,1146.0,98224.0,1166.7,829.3
+2019,Ohio,39,"Monroe County, OH",39111,White,Not Hispanic or Latino,174.0,13225.0,1315.7,802.9
+2019,Ohio,39,"Montgomery County, OH",39113,Asian,Not Hispanic or Latino,41.0,12254.0,334.6,363.4
+2019,Ohio,39,"Montgomery County, OH",39113,Black or African American,Not Hispanic or Latino,1339.0,112581.0,1189.4,1093.5
+2019,Ohio,39,"Montgomery County, OH",39113,White,Hispanic or Latino,36.0,14100.0,255.3,393.9
+2019,Ohio,39,"Montgomery County, OH",39113,White,Not Hispanic or Latino,4943.0,373982.0,1321.7,880.9
+2019,Ohio,39,"Montgomery County, OH",39113,White,Not Stated,28.0,Not Applicable,Not Applicable,Not Applicable
+2019,Ohio,39,"Montgomery County, OH",39113,More than one race,Not Hispanic or Latino,12.0,14164.0,Unreliable,Unreliable
+2019,Ohio,39,"Morgan County, OH",39115,White,Not Hispanic or Latino,171.0,13316.0,1284.2,824.8
+2019,Ohio,39,"Morrow County, OH",39117,White,Not Hispanic or Latino,339.0,33809.0,1002.7,768.9
+2019,Ohio,39,"Muskingum County, OH",39119,Black or African American,Not Hispanic or Latino,44.0,3228.0,1363.1,1289.7
+2019,Ohio,39,"Muskingum County, OH",39119,White,Not Hispanic or Latino,967.0,78744.0,1228.0,903.8
+2019,Ohio,39,"Noble County, OH",39121,White,Not Hispanic or Latino,146.0,13689.0,1066.5,609.3
+2019,Ohio,39,"Ottawa County, OH",39123,White,Not Hispanic or Latino,497.0,37399.0,1328.9,756.3
+2019,Ohio,39,"Paulding County, OH",39125,White,Not Hispanic or Latino,215.0,17226.0,1248.1,876.5
+2019,Ohio,39,"Perry County, OH",39127,White,Not Hispanic or Latino,391.0,34886.0,1120.8,914.9
+2019,Ohio,39,"Pickaway County, OH",39129,White,Not Hispanic or Latino,632.0,54007.0,1170.2,945.3
+2019,Ohio,39,"Pike County, OH",39131,White,Not Hispanic or Latino,375.0,26381.0,1421.5,1072.6
+2019,Ohio,39,"Portage County, OH",39133,Black or African American,Not Hispanic or Latino,51.0,7585.0,672.4,989.0
+2019,Ohio,39,"Portage County, OH",39133,White,Not Hispanic or Latino,1466.0,144913.0,1011.6,790.6
+2019,Ohio,39,"Preble County, OH",39135,White,Not Hispanic or Latino,494.0,39299.0,1257.0,909.4
+2019,Ohio,39,"Putnam County, OH",39137,White,Not Hispanic or Latino,315.0,31149.0,1011.3,664.2
+2019,Ohio,39,"Richland County, OH",39139,Black or African American,Not Hispanic or Latino,117.0,11393.0,1026.9,1126.9
+2019,Ohio,39,"Richland County, OH",39139,White,Not Hispanic or Latino,1371.0,103406.0,1325.8,866.4
+2019,Ohio,39,"Ross County, OH",39141,Black or African American,Not Hispanic or Latino,39.0,4241.0,919.6,1023.5
+2019,Ohio,39,"Ross County, OH",39141,White,Not Hispanic or Latino,879.0,68736.0,1278.8,996.1
+2019,Ohio,39,"Sandusky County, OH",39143,Black or African American,Not Hispanic or Latino,13.0,1804.0,Unreliable,Unreliable
+2019,Ohio,39,"Sandusky County, OH",39143,White,Hispanic or Latino,36.0,5358.0,671.9,891.7
+2019,Ohio,39,"Sandusky County, OH",39143,White,Not Hispanic or Latino,659.0,49138.0,1341.1,904.6
+2019,Ohio,39,"Scioto County, OH",39145,Black or African American,Not Hispanic or Latino,14.0,1994.0,Unreliable,Unreliable
+2019,Ohio,39,"Scioto County, OH",39145,White,Not Hispanic or Latino,1090.0,70205.0,1552.6,1166.3
+2019,Ohio,39,"Seneca County, OH",39147,Black or African American,Not Hispanic or Latino,13.0,1304.0,Unreliable,Unreliable
+2019,Ohio,39,"Seneca County, OH",39147,White,Hispanic or Latino,12.0,2597.0,Unreliable,Unreliable
+2019,Ohio,39,"Seneca County, OH",39147,White,Not Hispanic or Latino,586.0,49243.0,1190.0,833.9
+2019,Ohio,39,"Shelby County, OH",39149,White,Not Hispanic or Latino,484.0,44988.0,1075.8,819.9
+2019,Ohio,39,"Stark County, OH",39151,Black or African American,Not Hispanic or Latino,333.0,29031.0,1147.0,1159.9
+2019,Ohio,39,"Stark County, OH",39151,White,Hispanic or Latino,24.0,6795.0,353.2,511.2
+2019,Ohio,39,"Stark County, OH",39151,White,Not Hispanic or Latino,4119.0,319393.0,1289.6,832.0
+2019,Ohio,39,"Summit County, OH",39153,Asian,Not Hispanic or Latino,64.0,20930.0,305.8,568.5
+2019,Ohio,39,"Summit County, OH",39153,Black or African American,Not Hispanic or Latino,866.0,80275.0,1078.8,1073.9
+2019,Ohio,39,"Summit County, OH",39153,White,Hispanic or Latino,26.0,9771.0,266.1,404.6
+2019,Ohio,39,"Summit County, OH",39153,White,Not Hispanic or Latino,5129.0,413198.0,1241.3,820.1
+2019,Ohio,39,"Summit County, OH",39153,More than one race,Not Hispanic or Latino,11.0,13129.0,Unreliable,Unreliable
+2019,Ohio,39,"Trumbull County, OH",39155,Black or African American,Not Hispanic or Latino,187.0,16645.0,1123.5,1014.5
+2019,Ohio,39,"Trumbull County, OH",39155,White,Hispanic or Latino,12.0,3045.0,Unreliable,Unreliable
+2019,Ohio,39,"Trumbull County, OH",39155,White,Not Hispanic or Latino,2388.0,171975.0,1388.6,863.4
+2019,Ohio,39,"Tuscarawas County, OH",39157,White,Not Hispanic or Latino,1107.0,86444.0,1280.6,839.4
+2019,Ohio,39,"Union County, OH",39159,White,Not Hispanic or Latino,410.0,52380.0,782.7,778.9
+2019,Ohio,39,"Van Wert County, OH",39161,White,Not Hispanic or Latino,305.0,26438.0,1153.6,776.0
+2019,Ohio,39,"Vinton County, OH",39163,White,Not Hispanic or Latino,171.0,12600.0,1357.1,1034.9
+2019,Ohio,39,"Warren County, OH",39165,Asian,Not Hispanic or Latino,23.0,14655.0,156.9,250.2
+2019,Ohio,39,"Warren County, OH",39165,Black or African American,Not Hispanic or Latino,44.0,8434.0,521.7,712.8
+2019,Ohio,39,"Warren County, OH",39165,White,Not Hispanic or Latino,1787.0,200202.0,892.6,748.8
+2019,Ohio,39,"Washington County, OH",39167,Black or African American,Not Hispanic or Latino,15.0,764.0,Unreliable,Unreliable
+2019,Ohio,39,"Washington County, OH",39167,White,Not Hispanic or Latino,737.0,56864.0,1296.1,829.5
+2019,Ohio,39,"Wayne County, OH",39169,Black or African American,Not Hispanic or Latino,14.0,1818.0,Unreliable,Unreliable
+2019,Ohio,39,"Wayne County, OH",39169,White,Not Hispanic or Latino,1219.0,108226.0,1126.3,822.7
+2019,Ohio,39,"Williams County, OH",39171,White,Not Hispanic or Latino,407.0,33799.0,1204.2,810.3
+2019,Ohio,39,"Wood County, OH",39173,Black or African American,Not Hispanic or Latino,15.0,3449.0,Unreliable,Unreliable
+2019,Ohio,39,"Wood County, OH",39173,White,Hispanic or Latino,18.0,6670.0,Unreliable,Unreliable
+2019,Ohio,39,"Wood County, OH",39173,White,Not Hispanic or Latino,1152.0,115085.0,1001.0,805.0
+2019,Ohio,39,"Wyandot County, OH",39175,White,Not Hispanic or Latino,255.0,20583.0,1238.9,835.8
+2020,Ohio,39,"Adams County, OH",39001,White,Not Hispanic or Latino,409.0,26468.0,1545.3,1199.9
+2020,Ohio,39,"Allen County, OH",39003,Black or African American,Not Hispanic or Latino,156.0,12645.0,1233.7,1282.2
+2020,Ohio,39,"Allen County, OH",39003,White,Hispanic or Latino,11.0,2833.0,Unreliable,Unreliable
+2020,Ohio,39,"Allen County, OH",39003,White,Not Hispanic or Latino,1195.0,81686.0,1462.9,997.9
+2020,Ohio,39,"Ashland County, OH",39005,White,Not Hispanic or Latino,679.0,50847.0,1335.4,931.1
+2020,Ohio,39,"Ashtabula County, OH",39007,Black or African American,Not Hispanic or Latino,48.0,3212.0,1494.4,1595.8
+2020,Ohio,39,"Ashtabula County, OH",39007,White,Hispanic or Latino,17.0,3765.0,Unreliable,Unreliable
+2020,Ohio,39,"Ashtabula County, OH",39007,White,Not Hispanic or Latino,1238.0,85964.0,1440.1,972.1
+2020,Ohio,39,"Athens County, OH",39009,Black or African American,Not Hispanic or Latino,10.0,1812.0,Unreliable,Unreliable
+2020,Ohio,39,"Athens County, OH",39009,White,Not Hispanic or Latino,570.0,58785.0,969.6,949.5
+2020,Ohio,39,"Auglaize County, OH",39011,White,Not Hispanic or Latino,621.0,43664.0,1422.2,969.2
+2020,Ohio,39,"Belmont County, OH",39013,Black or African American,Not Hispanic or Latino,24.0,2631.0,912.2,1617.9
+2020,Ohio,39,"Belmont County, OH",39013,White,Not Hispanic or Latino,991.0,60994.0,1624.7,1026.1
+2020,Ohio,39,"Brown County, OH",39015,White,Not Hispanic or Latino,636.0,41700.0,1525.2,1115.4
+2020,Ohio,39,"Butler County, OH",39017,Asian,Not Hispanic or Latino,57.0,15614.0,365.1,478.1
+2020,Ohio,39,"Butler County, OH",39017,Black or African American,Not Hispanic or Latino,284.0,34884.0,814.1,1101.8
+2020,Ohio,39,"Butler County, OH",39017,White,Hispanic or Latino,36.0,16249.0,221.6,442.3
+2020,Ohio,39,"Butler County, OH",39017,White,Not Hispanic or Latino,3822.0,305005.0,1253.1,995.4
+2020,Ohio,39,"Carroll County, OH",39019,White,Not Hispanic or Latino,395.0,25845.0,1528.3,982.6
+2020,Ohio,39,"Champaign County, OH",39021,Black or African American,Not Hispanic or Latino,14.0,816.0,Unreliable,Unreliable
+2020,Ohio,39,"Champaign County, OH",39021,White,Not Hispanic or Latino,490.0,36310.0,1349.5,981.4
+2020,Ohio,39,"Clark County, OH",39023,Black or African American,Not Hispanic or Latino,195.0,11678.0,1669.8,1472.8
+2020,Ohio,39,"Clark County, OH",39023,White,Hispanic or Latino,11.0,4009.0,Unreliable,Unreliable
+2020,Ohio,39,"Clark County, OH",39023,White,Not Hispanic or Latino,1859.0,111722.0,1664.0,1100.1
+2020,Ohio,39,"Clermont County, OH",39025,Black or African American,Not Hispanic or Latino,45.0,3565.0,1262.3,1508.2
+2020,Ohio,39,"Clermont County, OH",39025,White,Not Hispanic or Latino,2162.0,192718.0,1121.8,878.3
+2020,Ohio,39,"Clinton County, OH",39027,Black or African American,Not Hispanic or Latino,15.0,887.0,Unreliable,Unreliable
+2020,Ohio,39,"Clinton County, OH",39027,White,Not Hispanic or Latino,535.0,39003.0,1371.7,1066.6
+2020,Ohio,39,"Columbiana County, OH",39029,Black or African American,Not Hispanic or Latino,16.0,2350.0,Unreliable,Unreliable
+2020,Ohio,39,"Columbiana County, OH",39029,White,Not Hispanic or Latino,1499.0,94577.0,1585.0,1027.4
+2020,Ohio,39,"Coshocton County, OH",39031,Black or African American,Not Hispanic or Latino,11.0,414.0,Unreliable,Unreliable
+2020,Ohio,39,"Coshocton County, OH",39031,White,Not Hispanic or Latino,486.0,34799.0,1396.6,982.9
+2020,Ohio,39,"Crawford County, OH",39033,White,Not Hispanic or Latino,676.0,39260.0,1721.9,1101.4
+2020,Ohio,39,"Cuyahoga County, OH",39035,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1840.0,Unreliable,Unreliable
+2020,Ohio,39,"Cuyahoga County, OH",39035,Asian,Not Hispanic or Latino,144.0,41390.0,347.9,387.3
+2020,Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Hispanic or Latino,24.0,11261.0,213.1,390.0
+2020,Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Not Hispanic or Latino,4998.0,364146.0,1372.5,1185.1
+2020,Ohio,39,"Cuyahoga County, OH",39035,White,Hispanic or Latino,336.0,61985.0,542.1,737.7
+2020,Ohio,39,"Cuyahoga County, OH",39035,White,Not Hispanic or Latino,10672.0,714899.0,1492.8,878.6
+2020,Ohio,39,"Cuyahoga County, OH",39035,More than one race,Not Hispanic or Latino,12.0,25914.0,Unreliable,Unreliable
+2020,Ohio,39,"Darke County, OH",39037,White,Not Hispanic or Latino,703.0,48949.0,1436.2,962.7
+2020,Ohio,39,"Defiance County, OH",39039,White,Hispanic or Latino,26.0,3585.0,725.2,1004.7
+2020,Ohio,39,"Defiance County, OH",39039,White,Not Hispanic or Latino,441.0,32374.0,1362.2,904.9
+2020,Ohio,39,"Delaware County, OH",39041,Asian,Not Hispanic or Latino,42.0,17439.0,240.8,596.3
+2020,Ohio,39,"Delaware County, OH",39041,Black or African American,Not Hispanic or Latino,44.0,8477.0,519.1,733.0
+2020,Ohio,39,"Delaware County, OH",39041,White,Not Hispanic or Latino,1373.0,176862.0,776.3,678.1
+2020,Ohio,39,"Erie County, OH",39043,Black or African American,Not Hispanic or Latino,95.0,6434.0,1476.5,1393.5
+2020,Ohio,39,"Erie County, OH",39043,White,Hispanic or Latino,19.0,2771.0,Unreliable,Unreliable
+2020,Ohio,39,"Erie County, OH",39043,White,Not Hispanic or Latino,1065.0,60889.0,1749.1,1011.0
+2020,Ohio,39,"Fairfield County, OH",39045,Asian,Not Hispanic or Latino,12.0,3425.0,Unreliable,Unreliable
+2020,Ohio,39,"Fairfield County, OH",39045,Black or African American,Not Hispanic or Latino,66.0,14293.0,461.8,762.5
+2020,Ohio,39,"Fairfield County, OH",39045,White,Hispanic or Latino,11.0,3037.0,Unreliable,Unreliable
+2020,Ohio,39,"Fairfield County, OH",39045,White,Not Hispanic or Latino,1591.0,134126.0,1186.2,916.4
+2020,Ohio,39,"Fayette County, OH",39047,White,Not Hispanic or Latino,386.0,26266.0,1469.6,1122.4
+2020,Ohio,39,"Franklin County, OH",39049,Asian,Not Hispanic or Latino,243.0,77676.0,312.8,542.5
+2020,Ohio,39,"Franklin County, OH",39049,Black or African American,Not Hispanic or Latino,2856.0,310199.0,920.7,1147.1
+2020,Ohio,39,"Franklin County, OH",39049,White,Hispanic or Latino,175.0,63262.0,276.6,510.4
+2020,Ohio,39,"Franklin County, OH",39049,White,Not Hispanic or Latino,8542.0,813060.0,1050.6,914.7
+2020,Ohio,39,"Franklin County, OH",39049,More than one race,Not Hispanic or Latino,48.0,41570.0,115.5,268.0
+2020,Ohio,39,"Fulton County, OH",39051,White,Hispanic or Latino,21.0,3441.0,610.3,924.9
+2020,Ohio,39,"Fulton County, OH",39051,White,Not Hispanic or Latino,483.0,37074.0,1302.8,872.3
+2020,Ohio,39,"Gallia County, OH",39053,Black or African American,Not Hispanic or Latino,12.0,666.0,Unreliable,Unreliable
+2020,Ohio,39,"Gallia County, OH",39053,White,Not Hispanic or Latino,432.0,27788.0,1554.6,1137.0
+2020,Ohio,39,"Geauga County, OH",39055,Black or African American,Not Hispanic or Latino,17.0,1150.0,Unreliable,Unreliable
+2020,Ohio,39,"Geauga County, OH",39055,White,Not Hispanic or Latino,1008.0,88905.0,1133.8,708.4
+2020,Ohio,39,"Greene County, OH",39057,Asian,Not Hispanic or Latino,22.0,5266.0,417.8,411.2
+2020,Ohio,39,"Greene County, OH",39057,Black or African American,Not Hispanic or Latino,109.0,12056.0,904.1,1043.4
+2020,Ohio,39,"Greene County, OH",39057,White,Hispanic or Latino,14.0,4366.0,Unreliable,Unreliable
+2020,Ohio,39,"Greene County, OH",39057,White,Not Hispanic or Latino,1719.0,141716.0,1213.0,873.6
+2020,Ohio,39,"Guernsey County, OH",39059,Black or African American,Not Hispanic or Latino,12.0,586.0,Unreliable,Unreliable
+2020,Ohio,39,"Guernsey County, OH",39059,White,Not Hispanic or Latino,524.0,36650.0,1429.7,1009.4
+2020,Ohio,39,"Hamilton County, OH",39061,Asian,Not Hispanic or Latino,77.0,23931.0,321.8,466.6
+2020,Ohio,39,"Hamilton County, OH",39061,Black or African American,Not Hispanic or Latino,2501.0,214474.0,1166.1,1177.1
+2020,Ohio,39,"Hamilton County, OH",39061,White,Hispanic or Latino,50.0,23870.0,209.5,368.0
+2020,Ohio,39,"Hamilton County, OH",39061,White,Not Hispanic or Latino,6689.0,527250.0,1268.7,912.3
+2020,Ohio,39,"Hamilton County, OH",39061,More than one race,Not Hispanic or Latino,21.0,19940.0,105.3,162.3
+2020,Ohio,39,"Hancock County, OH",39063,Black or African American,Not Hispanic or Latino,11.0,1326.0,Unreliable,Unreliable
+2020,Ohio,39,"Hancock County, OH",39063,White,Hispanic or Latino,18.0,3917.0,Unreliable,Unreliable
+2020,Ohio,39,"Hancock County, OH",39063,White,Not Hispanic or Latino,876.0,66500.0,1317.3,922.6
+2020,Ohio,39,"Hardin County, OH",39065,White,Not Hispanic or Latino,392.0,29686.0,1320.5,1096.0
+2020,Ohio,39,"Harrison County, OH",39067,White,Not Hispanic or Latino,219.0,14204.0,1541.8,996.1
+2020,Ohio,39,"Henry County, OH",39069,White,Hispanic or Latino,10.0,1914.0,Unreliable,Unreliable
+2020,Ohio,39,"Henry County, OH",39069,White,Not Hispanic or Latino,366.0,24176.0,1513.9,979.0
+2020,Ohio,39,"Highland County, OH",39071,White,Not Hispanic or Latino,572.0,41060.0,1393.1,1016.2
+2020,Ohio,39,"Hocking County, OH",39073,White,Not Hispanic or Latino,386.0,26985.0,1430.4,1040.9
+2020,Ohio,39,"Holmes County, OH",39075,White,Not Hispanic or Latino,421.0,42966.0,979.8,878.3
+2020,Ohio,39,"Huron County, OH",39077,Black or African American,Not Hispanic or Latino,10.0,662.0,Unreliable,Unreliable
+2020,Ohio,39,"Huron County, OH",39077,White,Hispanic or Latino,15.0,3597.0,Unreliable,Unreliable
+2020,Ohio,39,"Huron County, OH",39077,White,Not Hispanic or Latino,762.0,52060.0,1463.7,1087.3
+2020,Ohio,39,"Jackson County, OH",39079,White,Not Hispanic or Latino,484.0,31108.0,1555.9,1244.5
+2020,Ohio,39,"Jefferson County, OH",39081,Black or African American,Not Hispanic or Latino,88.0,3483.0,2526.6,2156.0
+2020,Ohio,39,"Jefferson County, OH",39081,White,Not Hispanic or Latino,923.0,58346.0,1581.9,1012.8
+2020,Ohio,39,"Knox County, OH",39083,White,Not Hispanic or Latino,757.0,59380.0,1274.8,932.9
+2020,Ohio,39,"Lake County, OH",39085,Asian,Not Hispanic or Latino,11.0,3550.0,Unreliable,Unreliable
+2020,Ohio,39,"Lake County, OH",39085,Black or African American,Not Hispanic or Latino,132.0,10903.0,1210.7,1416.8
+2020,Ohio,39,"Lake County, OH",39085,White,Hispanic or Latino,25.0,9517.0,262.7,553.6
+2020,Ohio,39,"Lake County, OH",39085,White,Not Hispanic or Latino,2755.0,199974.0,1377.7,848.7
+2020,Ohio,39,"Lawrence County, OH",39087,Black or African American,Not Hispanic or Latino,21.0,1236.0,1699.0,1790.7
+2020,Ohio,39,"Lawrence County, OH",39087,White,Not Hispanic or Latino,937.0,55901.0,1676.2,1221.0
+2020,Ohio,39,"Licking County, OH",39089,Asian,Not Hispanic or Latino,10.0,4856.0,Unreliable,Unreliable
+2020,Ohio,39,"Licking County, OH",39089,Black or African American,Not Hispanic or Latino,62.0,7383.0,839.8,1079.1
+2020,Ohio,39,"Licking County, OH",39089,White,Not Hispanic or Latino,1870.0,157195.0,1189.6,923.5
+2020,Ohio,39,"Logan County, OH",39091,Black or African American,Not Hispanic or Latino,10.0,831.0,Unreliable,Unreliable
+2020,Ohio,39,"Logan County, OH",39091,White,Not Hispanic or Latino,555.0,42050.0,1319.9,954.2
+2020,Ohio,39,"Lorain County, OH",39093,Black or African American,Not Hispanic or Latino,275.0,24143.0,1139.0,1160.4
+2020,Ohio,39,"Lorain County, OH",39093,White,Hispanic or Latino,164.0,26443.0,620.2,755.6
+2020,Ohio,39,"Lorain County, OH",39093,White,Not Hispanic or Latino,3215.0,241943.0,1328.8,869.3
+2020,Ohio,39,"Lucas County, OH",39095,Asian,Not Hispanic or Latino,18.0,7318.0,Unreliable,Unreliable
+2020,Ohio,39,"Lucas County, OH",39095,Black or African American,Not Hispanic or Latino,1151.0,84354.0,1364.5,1432.4
+2020,Ohio,39,"Lucas County, OH",39095,White,Hispanic or Latino,171.0,25961.0,658.7,1028.7
+2020,Ohio,39,"Lucas County, OH",39095,White,Not Hispanic or Latino,4300.0,290087.0,1482.3,1032.4
+2020,Ohio,39,"Lucas County, OH",39095,More than one race,Not Hispanic or Latino,16.0,12640.0,Unreliable,Unreliable
+2020,Ohio,39,"Madison County, OH",39097,White,Not Hispanic or Latino,459.0,39233.0,1169.9,910.7
+2020,Ohio,39,"Mahoning County, OH",39099,Asian,Not Hispanic or Latino,11.0,1965.0,Unreliable,Unreliable
+2020,Ohio,39,"Mahoning County, OH",39099,Black or African American,Not Hispanic or Latino,554.0,33812.0,1638.5,1451.7
+2020,Ohio,39,"Mahoning County, OH",39099,White,Hispanic or Latino,92.0,11325.0,812.4,988.4
+2020,Ohio,39,"Mahoning County, OH",39099,White,Not Hispanic or Latino,3130.0,169741.0,1844.0,1044.2
+2020,Ohio,39,"Mahoning County, OH",39099,More than one race,Not Hispanic or Latino,11.0,4757.0,Unreliable,Unreliable
+2020,Ohio,39,"Marion County, OH",39101,Black or African American,Not Hispanic or Latino,34.0,3985.0,853.2,1273.4
+2020,Ohio,39,"Marion County, OH",39101,White,Not Hispanic or Latino,802.0,57046.0,1405.9,1000.1
+2020,Ohio,39,"Medina County, OH",39103,Asian,Not Hispanic or Latino,12.0,2375.0,Unreliable,Unreliable
+2020,Ohio,39,"Medina County, OH",39103,Black or African American,Not Hispanic or Latino,21.0,2631.0,798.2,959.1
+2020,Ohio,39,"Medina County, OH",39103,White,Hispanic or Latino,10.0,3961.0,Unreliable,Unreliable
+2020,Ohio,39,"Medina County, OH",39103,White,Not Hispanic or Latino,1820.0,168572.0,1079.7,779.3
+2020,Ohio,39,"Meigs County, OH",39105,White,Not Hispanic or Latino,355.0,21917.0,1619.7,1139.2
+2020,Ohio,39,"Mercer County, OH",39107,White,Not Hispanic or Latino,543.0,39128.0,1387.8,963.7
+2020,Ohio,39,"Miami County, OH",39109,Black or African American,Not Hispanic or Latino,36.0,2652.0,1357.5,1345.1
+2020,Ohio,39,"Miami County, OH",39109,White,Not Hispanic or Latino,1261.0,98350.0,1282.2,906.3
+2020,Ohio,39,"Monroe County, OH",39111,White,Not Hispanic or Latino,197.0,13150.0,1498.1,867.9
+2020,Ohio,39,"Montgomery County, OH",39113,Asian,Not Hispanic or Latino,55.0,12599.0,436.5,504.7
+2020,Ohio,39,"Montgomery County, OH",39113,Black or African American,Not Hispanic or Latino,1587.0,113561.0,1397.5,1279.5
+2020,Ohio,39,"Montgomery County, OH",39113,White,Hispanic or Latino,59.0,14682.0,401.9,649.5
+2020,Ohio,39,"Montgomery County, OH",39113,White,Not Hispanic or Latino,5736.0,371210.0,1545.2,1025.1
+2020,Ohio,39,"Montgomery County, OH",39113,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2020,Ohio,39,"Montgomery County, OH",39113,More than one race,Not Hispanic or Latino,17.0,14809.0,Unreliable,Unreliable
+2020,Ohio,39,"Morgan County, OH",39115,Black or African American,Not Hispanic or Latino,10.0,420.0,Unreliable,Unreliable
+2020,Ohio,39,"Morgan County, OH",39115,White,Not Hispanic or Latino,210.0,13142.0,1597.9,961.4
+2020,Ohio,39,"Morrow County, OH",39117,White,Not Hispanic or Latino,375.0,33838.0,1108.2,864.7
+2020,Ohio,39,"Muskingum County, OH",39119,Black or African American,Not Hispanic or Latino,43.0,3195.0,1345.9,1204.6
+2020,Ohio,39,"Muskingum County, OH",39119,White,Not Hispanic or Latino,1105.0,78418.0,1409.1,1023.7
+2020,Ohio,39,"Noble County, OH",39121,White,Not Hispanic or Latino,160.0,13624.0,1174.4,639.7
+2020,Ohio,39,"Ottawa County, OH",39123,White,Hispanic or Latino,12.0,1951.0,Unreliable,Unreliable
+2020,Ohio,39,"Ottawa County, OH",39123,White,Not Hispanic or Latino,582.0,37011.0,1572.5,872.6
+2020,Ohio,39,"Paulding County, OH",39125,White,Not Hispanic or Latino,229.0,17180.0,1332.9,927.5
+2020,Ohio,39,"Perry County, OH",39127,White,Not Hispanic or Latino,443.0,34944.0,1267.7,1038.6
+2020,Ohio,39,"Pickaway County, OH",39129,Black or African American,Not Hispanic or Latino,28.0,2119.0,1321.4,3281.6
+2020,Ohio,39,"Pickaway County, OH",39129,White,Not Hispanic or Latino,684.0,54155.0,1263.0,1014.2
+2020,Ohio,39,"Pike County, OH",39131,White,Not Hispanic or Latino,415.0,26247.0,1581.1,1185.5
+2020,Ohio,39,"Portage County, OH",39133,Black or African American,Not Hispanic or Latino,56.0,7737.0,723.8,999.6
+2020,Ohio,39,"Portage County, OH",39133,White,Not Hispanic or Latino,1633.0,144471.0,1130.3,868.3
+2020,Ohio,39,"Preble County, OH",39135,White,Not Hispanic or Latino,558.0,39141.0,1425.6,1047.4
+2020,Ohio,39,"Putnam County, OH",39137,White,Hispanic or Latino,13.0,2029.0,Unreliable,Unreliable
+2020,Ohio,39,"Putnam County, OH",39137,White,Not Hispanic or Latino,398.0,30920.0,1287.2,887.0
+2020,Ohio,39,"Richland County, OH",39139,Black or African American,Not Hispanic or Latino,118.0,11140.0,1059.2,1183.1
+2020,Ohio,39,"Richland County, OH",39139,White,Hispanic or Latino,14.0,2029.0,Unreliable,Unreliable
+2020,Ohio,39,"Richland County, OH",39139,White,Not Hispanic or Latino,1586.0,103141.0,1537.7,989.2
+2020,Ohio,39,"Ross County, OH",39141,Black or African American,Not Hispanic or Latino,66.0,4235.0,1558.4,1625.4
+2020,Ohio,39,"Ross County, OH",39141,White,Not Hispanic or Latino,1023.0,68463.0,1494.2,1164.9
+2020,Ohio,39,"Sandusky County, OH",39143,Black or African American,Not Hispanic or Latino,19.0,1764.0,Unreliable,Unreliable
+2020,Ohio,39,"Sandusky County, OH",39143,White,Hispanic or Latino,29.0,5472.0,530.0,671.5
+2020,Ohio,39,"Sandusky County, OH",39143,White,Not Hispanic or Latino,693.0,48750.0,1421.5,910.8
+2020,Ohio,39,"Scioto County, OH",39145,Black or African American,Not Hispanic or Latino,21.0,1938.0,1083.6,1411.3
+2020,Ohio,39,"Scioto County, OH",39145,White,Not Hispanic or Latino,1281.0,69172.0,1851.9,1368.9
+2020,Ohio,39,"Seneca County, OH",39147,Black or African American,Not Hispanic or Latino,16.0,1258.0,Unreliable,Unreliable
+2020,Ohio,39,"Seneca County, OH",39147,White,Hispanic or Latino,12.0,2554.0,Unreliable,Unreliable
+2020,Ohio,39,"Seneca County, OH",39147,White,Not Hispanic or Latino,691.0,48920.0,1412.5,982.3
+2020,Ohio,39,"Shelby County, OH",39149,White,Not Hispanic or Latino,615.0,44666.0,1376.9,1031.8
+2020,Ohio,39,"Stark County, OH",39151,Asian,Not Hispanic or Latino,15.0,3580.0,Unreliable,Unreliable
+2020,Ohio,39,"Stark County, OH",39151,Black or African American,Not Hispanic or Latino,397.0,29034.0,1367.4,1350.3
+2020,Ohio,39,"Stark County, OH",39151,White,Hispanic or Latino,22.0,6859.0,320.7,421.7
+2020,Ohio,39,"Stark County, OH",39151,White,Not Hispanic or Latino,4840.0,317649.0,1523.7,976.9
+2020,Ohio,39,"Summit County, OH",39153,Asian,Not Hispanic or Latino,64.0,22265.0,287.4,541.7
+2020,Ohio,39,"Summit County, OH",39153,Black or African American,Not Hispanic or Latino,1050.0,80454.0,1305.1,1265.3
+2020,Ohio,39,"Summit County, OH",39153,White,Hispanic or Latino,26.0,10124.0,256.8,424.6
+2020,Ohio,39,"Summit County, OH",39153,White,Not Hispanic or Latino,5703.0,408360.0,1396.6,906.6
+2020,Ohio,39,"Summit County, OH",39153,More than one race,Not Hispanic or Latino,11.0,13767.0,Unreliable,Unreliable
+2020,Ohio,39,"Trumbull County, OH",39155,Black or African American,Not Hispanic or Latino,253.0,16556.0,1528.1,1377.8
+2020,Ohio,39,"Trumbull County, OH",39155,White,Hispanic or Latino,10.0,3114.0,Unreliable,Unreliable
+2020,Ohio,39,"Trumbull County, OH",39155,White,Not Hispanic or Latino,2858.0,170603.0,1675.2,1039.4
+2020,Ohio,39,"Tuscarawas County, OH",39157,Black or African American,Not Hispanic or Latino,13.0,757.0,Unreliable,Unreliable
+2020,Ohio,39,"Tuscarawas County, OH",39157,White,Not Hispanic or Latino,1318.0,86011.0,1532.4,1014.4
+2020,Ohio,39,"Union County, OH",39159,White,Not Hispanic or Latino,474.0,52839.0,897.1,872.1
+2020,Ohio,39,"Van Wert County, OH",39161,White,Not Hispanic or Latino,386.0,26227.0,1471.8,986.7
+2020,Ohio,39,"Vinton County, OH",39163,White,Not Hispanic or Latino,200.0,12476.0,1603.1,1290.5
+2020,Ohio,39,"Warren County, OH",39165,Asian,Not Hispanic or Latino,24.0,15861.0,151.3,276.4
+2020,Ohio,39,"Warren County, OH",39165,Black or African American,Not Hispanic or Latino,56.0,8455.0,662.3,1046.4
+2020,Ohio,39,"Warren County, OH",39165,White,Hispanic or Latino,13.0,6457.0,Unreliable,Unreliable
+2020,Ohio,39,"Warren County, OH",39165,White,Not Hispanic or Latino,2131.0,201855.0,1055.7,870.1
+2020,Ohio,39,"Washington County, OH",39167,Black or African American,Not Hispanic or Latino,11.0,752.0,Unreliable,Unreliable
+2020,Ohio,39,"Washington County, OH",39167,White,Not Hispanic or Latino,822.0,56545.0,1453.7,952.7
+2020,Ohio,39,"Wayne County, OH",39169,Black or African American,Not Hispanic or Latino,20.0,1741.0,1148.8,1125.6
+2020,Ohio,39,"Wayne County, OH",39169,White,Not Hispanic or Latino,1349.0,108249.0,1246.2,894.4
+2020,Ohio,39,"Williams County, OH",39171,White,Not Hispanic or Latino,436.0,33614.0,1297.1,866.4
+2020,Ohio,39,"Wood County, OH",39173,Black or African American,Not Hispanic or Latino,19.0,3467.0,Unreliable,Unreliable
+2020,Ohio,39,"Wood County, OH",39173,White,Hispanic or Latino,42.0,6921.0,606.8,998.2
+2020,Ohio,39,"Wood County, OH",39173,White,Not Hispanic or Latino,1321.0,114763.0,1151.1,913.7
+2020,Ohio,39,"Wyandot County, OH",39175,White,Not Hispanic or Latino,313.0,20525.0,1525.0,960.4
+2021 (provisional),Ohio,39,"Adams County, OH",39001,White,Not Hispanic or Latino,511.0,26468.0,1930.6,1500.9
+2021 (provisional),Ohio,39,"Allen County, OH",39003,Black or African American,Not Hispanic or Latino,165.0,12645.0,1304.9,1372.0
+2021 (provisional),Ohio,39,"Allen County, OH",39003,White,Hispanic or Latino,13.0,2833.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Allen County, OH",39003,White,Not Hispanic or Latino,1166.0,81686.0,1427.4,982.5
+2021 (provisional),Ohio,39,"Ashland County, OH",39005,Black or African American,Not Hispanic or Latino,10.0,414.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Ashland County, OH",39005,White,Not Hispanic or Latino,705.0,50847.0,1386.5,965.3
+2021 (provisional),Ohio,39,"Ashtabula County, OH",39007,Black or African American,Not Hispanic or Latino,44.0,3212.0,1369.9,1361.9
+2021 (provisional),Ohio,39,"Ashtabula County, OH",39007,White,Hispanic or Latino,20.0,3765.0,531.2,806.2
+2021 (provisional),Ohio,39,"Ashtabula County, OH",39007,White,Not Hispanic or Latino,1465.0,85964.0,1704.2,1148.0
+2021 (provisional),Ohio,39,"Athens County, OH",39009,Black or African American,Not Hispanic or Latino,10.0,1812.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Athens County, OH",39009,White,Not Hispanic or Latino,629.0,58785.0,1070.0,1055.8
+2021 (provisional),Ohio,39,"Auglaize County, OH",39011,White,Not Hispanic or Latino,601.0,43664.0,1376.4,956.7
+2021 (provisional),Ohio,39,"Belmont County, OH",39013,Black or African American,Not Hispanic or Latino,19.0,2631.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Belmont County, OH",39013,White,Not Hispanic or Latino,1082.0,60994.0,1773.9,1120.0
+2021 (provisional),Ohio,39,"Brown County, OH",39015,White,Not Hispanic or Latino,667.0,41700.0,1599.5,1177.8
+2021 (provisional),Ohio,39,"Butler County, OH",39017,Asian,Not Hispanic or Latino,70.0,15614.0,448.3,594.9
+2021 (provisional),Ohio,39,"Butler County, OH",39017,Black or African American,Not Hispanic or Latino,305.0,34884.0,874.3,1138.8
+2021 (provisional),Ohio,39,"Butler County, OH",39017,White,Hispanic or Latino,43.0,16249.0,264.6,467.8
+2021 (provisional),Ohio,39,"Butler County, OH",39017,White,Not Hispanic or Latino,3788.0,305005.0,1241.9,984.1
+2021 (provisional),Ohio,39,"Carroll County, OH",39019,White,Not Hispanic or Latino,397.0,25845.0,1536.1,981.0
+2021 (provisional),Ohio,39,"Champaign County, OH",39021,Black or African American,Not Hispanic or Latino,13.0,816.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Champaign County, OH",39021,White,Not Hispanic or Latino,484.0,36310.0,1333.0,966.2
+2021 (provisional),Ohio,39,"Clark County, OH",39023,Black or African American,Not Hispanic or Latino,207.0,11678.0,1772.6,1631.5
+2021 (provisional),Ohio,39,"Clark County, OH",39023,White,Hispanic or Latino,12.0,4009.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Clark County, OH",39023,White,Not Hispanic or Latino,1903.0,111722.0,1703.3,1157.5
+2021 (provisional),Ohio,39,"Clermont County, OH",39025,American Indian or Alaska Native,Not Hispanic or Latino,10.0,350.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Clermont County, OH",39025,Asian,Not Hispanic or Latino,10.0,2921.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Clermont County, OH",39025,Black or African American,Not Hispanic or Latino,27.0,3565.0,757.4,906.8
+2021 (provisional),Ohio,39,"Clermont County, OH",39025,White,Not Hispanic or Latino,2350.0,192718.0,1219.4,949.3
+2021 (provisional),Ohio,39,"Clinton County, OH",39027,Black or African American,Not Hispanic or Latino,17.0,887.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Clinton County, OH",39027,White,Not Hispanic or Latino,556.0,39003.0,1425.5,1095.8
+2021 (provisional),Ohio,39,"Columbiana County, OH",39029,Black or African American,Not Hispanic or Latino,29.0,2350.0,1234.0,1686.4
+2021 (provisional),Ohio,39,"Columbiana County, OH",39029,White,Not Hispanic or Latino,1587.0,94577.0,1678.0,1093.4
+2021 (provisional),Ohio,39,"Coshocton County, OH",39031,Black or African American,Not Hispanic or Latino,13.0,414.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Coshocton County, OH",39031,White,Not Hispanic or Latino,532.0,34799.0,1528.8,1098.5
+2021 (provisional),Ohio,39,"Crawford County, OH",39033,White,Not Hispanic or Latino,712.0,39260.0,1813.6,1175.8
+2021 (provisional),Ohio,39,"Cuyahoga County, OH",39035,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1840.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Cuyahoga County, OH",39035,Asian,Not Hispanic or Latino,153.0,41390.0,369.7,411.5
+2021 (provisional),Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Hispanic or Latino,21.0,11261.0,186.5,382.0
+2021 (provisional),Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Not Hispanic or Latino,5131.0,364146.0,1409.1,1222.6
+2021 (provisional),Ohio,39,"Cuyahoga County, OH",39035,White,Hispanic or Latino,386.0,61985.0,622.7,833.0
+2021 (provisional),Ohio,39,"Cuyahoga County, OH",39035,White,Not Hispanic or Latino,10211.0,714899.0,1428.3,861.6
+2021 (provisional),Ohio,39,"Cuyahoga County, OH",39035,More than one race,Not Hispanic or Latino,25.0,25914.0,96.5,255.2
+2021 (provisional),Ohio,39,"Darke County, OH",39037,White,Not Hispanic or Latino,721.0,48949.0,1473.0,981.1
+2021 (provisional),Ohio,39,"Defiance County, OH",39039,White,Hispanic or Latino,34.0,3585.0,948.4,1353.8
+2021 (provisional),Ohio,39,"Defiance County, OH",39039,White,Not Hispanic or Latino,445.0,32374.0,1374.6,929.4
+2021 (provisional),Ohio,39,"Delaware County, OH",39041,Asian,Not Hispanic or Latino,35.0,17439.0,200.7,453.9
+2021 (provisional),Ohio,39,"Delaware County, OH",39041,Black or African American,Not Hispanic or Latino,44.0,8477.0,519.1,734.5
+2021 (provisional),Ohio,39,"Delaware County, OH",39041,White,Hispanic or Latino,12.0,5211.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Delaware County, OH",39041,White,Not Hispanic or Latino,1428.0,176862.0,807.4,706.4
+2021 (provisional),Ohio,39,"Erie County, OH",39043,Black or African American,Not Hispanic or Latino,124.0,6434.0,1927.3,1722.6
+2021 (provisional),Ohio,39,"Erie County, OH",39043,White,Not Hispanic or Latino,996.0,60889.0,1635.8,936.4
+2021 (provisional),Ohio,39,"Fairfield County, OH",39045,Asian,Not Hispanic or Latino,13.0,3425.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Fairfield County, OH",39045,Black or African American,Not Hispanic or Latino,66.0,14293.0,461.8,829.8
+2021 (provisional),Ohio,39,"Fairfield County, OH",39045,White,Not Hispanic or Latino,1718.0,134126.0,1280.9,990.9
+2021 (provisional),Ohio,39,"Fayette County, OH",39047,White,Not Hispanic or Latino,425.0,26266.0,1618.1,1250.9
+2021 (provisional),Ohio,39,"Franklin County, OH",39049,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2419.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Franklin County, OH",39049,Asian,Not Hispanic or Latino,203.0,77676.0,261.3,443.8
+2021 (provisional),Ohio,39,"Franklin County, OH",39049,Black or African American,Hispanic or Latino,11.0,8947.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Franklin County, OH",39049,Black or African American,Not Hispanic or Latino,2875.0,310199.0,926.8,1125.0
+2021 (provisional),Ohio,39,"Franklin County, OH",39049,White,Hispanic or Latino,204.0,63262.0,322.5,684.8
+2021 (provisional),Ohio,39,"Franklin County, OH",39049,White,Not Hispanic or Latino,8495.0,813060.0,1044.8,908.7
+2021 (provisional),Ohio,39,"Franklin County, OH",39049,More than one race,Not Hispanic or Latino,44.0,41570.0,105.8,226.0
+2021 (provisional),Ohio,39,"Fulton County, OH",39051,White,Hispanic or Latino,21.0,3441.0,610.3,906.2
+2021 (provisional),Ohio,39,"Fulton County, OH",39051,White,Not Hispanic or Latino,521.0,37074.0,1405.3,942.8
+2021 (provisional),Ohio,39,"Gallia County, OH",39053,Black or African American,Not Hispanic or Latino,18.0,666.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Gallia County, OH",39053,White,Not Hispanic or Latino,417.0,27788.0,1500.6,1103.1
+2021 (provisional),Ohio,39,"Geauga County, OH",39055,Black or African American,Not Hispanic or Latino,17.0,1150.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Geauga County, OH",39055,White,Not Hispanic or Latino,1072.0,88905.0,1205.8,767.1
+2021 (provisional),Ohio,39,"Greene County, OH",39057,Asian,Not Hispanic or Latino,22.0,5266.0,417.8,391.8
+2021 (provisional),Ohio,39,"Greene County, OH",39057,Black or African American,Not Hispanic or Latino,101.0,12056.0,837.8,967.2
+2021 (provisional),Ohio,39,"Greene County, OH",39057,White,Hispanic or Latino,12.0,4366.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Greene County, OH",39057,White,Not Hispanic or Latino,1767.0,141716.0,1246.9,900.6
+2021 (provisional),Ohio,39,"Guernsey County, OH",39059,Black or African American,Not Hispanic or Latino,10.0,586.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Guernsey County, OH",39059,White,Not Hispanic or Latino,642.0,36650.0,1751.7,1264.7
+2021 (provisional),Ohio,39,"Hamilton County, OH",39061,Asian,Not Hispanic or Latino,85.0,23931.0,355.2,487.3
+2021 (provisional),Ohio,39,"Hamilton County, OH",39061,Black or African American,Not Hispanic or Latino,2481.0,214474.0,1156.8,1165.1
+2021 (provisional),Ohio,39,"Hamilton County, OH",39061,White,Hispanic or Latino,49.0,23870.0,205.3,385.8
+2021 (provisional),Ohio,39,"Hamilton County, OH",39061,White,Not Hispanic or Latino,6384.0,527250.0,1210.8,876.4
+2021 (provisional),Ohio,39,"Hamilton County, OH",39061,More than one race,Not Hispanic or Latino,12.0,19940.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Hancock County, OH",39063,Black or African American,Not Hispanic or Latino,10.0,1326.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Hancock County, OH",39063,White,Hispanic or Latino,42.0,3917.0,1072.2,1758.5
+2021 (provisional),Ohio,39,"Hancock County, OH",39063,White,Not Hispanic or Latino,866.0,66500.0,1302.3,928.5
+2021 (provisional),Ohio,39,"Hardin County, OH",39065,White,Not Hispanic or Latino,479.0,29686.0,1613.6,1336.1
+2021 (provisional),Ohio,39,"Harrison County, OH",39067,White,Not Hispanic or Latino,277.0,14204.0,1950.2,1237.6
+2021 (provisional),Ohio,39,"Henry County, OH",39069,White,Hispanic or Latino,10.0,1914.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Henry County, OH",39069,White,Not Hispanic or Latino,360.0,24176.0,1489.1,983.7
+2021 (provisional),Ohio,39,"Highland County, OH",39071,Black or African American,Not Hispanic or Latino,15.0,605.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Highland County, OH",39071,White,Not Hispanic or Latino,623.0,41060.0,1517.3,1110.7
+2021 (provisional),Ohio,39,"Hocking County, OH",39073,White,Not Hispanic or Latino,423.0,26985.0,1567.5,1180.6
+2021 (provisional),Ohio,39,"Holmes County, OH",39075,White,Not Hispanic or Latino,411.0,42966.0,956.6,865.7
+2021 (provisional),Ohio,39,"Huron County, OH",39077,Black or African American,Not Hispanic or Latino,12.0,662.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Huron County, OH",39077,White,Hispanic or Latino,20.0,3597.0,556.0,796.8
+2021 (provisional),Ohio,39,"Huron County, OH",39077,White,Not Hispanic or Latino,701.0,52060.0,1346.5,1008.4
+2021 (provisional),Ohio,39,"Jackson County, OH",39079,White,Not Hispanic or Latino,511.0,31108.0,1642.7,1344.1
+2021 (provisional),Ohio,39,"Jefferson County, OH",39081,Black or African American,Not Hispanic or Latino,76.0,3483.0,2182.0,1923.9
+2021 (provisional),Ohio,39,"Jefferson County, OH",39081,White,Not Hispanic or Latino,1089.0,58346.0,1866.5,1213.9
+2021 (provisional),Ohio,39,"Knox County, OH",39083,White,Not Hispanic or Latino,805.0,59380.0,1355.7,999.0
+2021 (provisional),Ohio,39,"Lake County, OH",39085,Black or African American,Not Hispanic or Latino,127.0,10903.0,1164.8,1322.3
+2021 (provisional),Ohio,39,"Lake County, OH",39085,White,Hispanic or Latino,34.0,9517.0,357.3,543.6
+2021 (provisional),Ohio,39,"Lake County, OH",39085,White,Not Hispanic or Latino,2908.0,199974.0,1454.2,891.1
+2021 (provisional),Ohio,39,"Lawrence County, OH",39087,Black or African American,Not Hispanic or Latino,17.0,1236.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Lawrence County, OH",39087,White,Not Hispanic or Latino,1058.0,55901.0,1892.6,1400.1
+2021 (provisional),Ohio,39,"Licking County, OH",39089,Asian,Not Hispanic or Latino,17.0,4856.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Licking County, OH",39089,Black or African American,Not Hispanic or Latino,70.0,7383.0,948.1,1142.1
+2021 (provisional),Ohio,39,"Licking County, OH",39089,White,Hispanic or Latino,14.0,3252.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Licking County, OH",39089,White,Not Hispanic or Latino,2073.0,157195.0,1318.7,1019.4
+2021 (provisional),Ohio,39,"Logan County, OH",39091,White,Not Hispanic or Latino,609.0,42050.0,1448.3,1040.2
+2021 (provisional),Ohio,39,"Lorain County, OH",39093,Asian,Not Hispanic or Latino,11.0,4228.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Lorain County, OH",39093,Black or African American,Not Hispanic or Latino,308.0,24143.0,1275.7,1277.1
+2021 (provisional),Ohio,39,"Lorain County, OH",39093,White,Hispanic or Latino,218.0,26443.0,824.4,965.5
+2021 (provisional),Ohio,39,"Lorain County, OH",39093,White,Not Hispanic or Latino,3487.0,241943.0,1441.2,938.5
+2021 (provisional),Ohio,39,"Lucas County, OH",39095,Asian,Not Hispanic or Latino,28.0,7318.0,382.6,377.4
+2021 (provisional),Ohio,39,"Lucas County, OH",39095,Black or African American,Not Hispanic or Latino,1111.0,84354.0,1317.1,1373.4
+2021 (provisional),Ohio,39,"Lucas County, OH",39095,White,Hispanic or Latino,161.0,25961.0,620.2,943.0
+2021 (provisional),Ohio,39,"Lucas County, OH",39095,White,Not Hispanic or Latino,4178.0,290087.0,1440.3,992.9
+2021 (provisional),Ohio,39,"Lucas County, OH",39095,More than one race,Not Hispanic or Latino,13.0,12640.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Madison County, OH",39097,Black or African American,Not Hispanic or Latino,19.0,2674.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Madison County, OH",39097,White,Not Hispanic or Latino,532.0,39233.0,1356.0,1044.3
+2021 (provisional),Ohio,39,"Mahoning County, OH",39099,Black or African American,Not Hispanic or Latino,622.0,33812.0,1839.6,1676.1
+2021 (provisional),Ohio,39,"Mahoning County, OH",39099,White,Hispanic or Latino,84.0,11325.0,741.7,898.4
+2021 (provisional),Ohio,39,"Mahoning County, OH",39099,White,Not Hispanic or Latino,2889.0,169741.0,1702.0,976.8
+2021 (provisional),Ohio,39,"Mahoning County, OH",39099,More than one race,Not Hispanic or Latino,10.0,4757.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Marion County, OH",39101,Black or African American,Not Hispanic or Latino,26.0,3985.0,652.4,790.4
+2021 (provisional),Ohio,39,"Marion County, OH",39101,White,Not Hispanic or Latino,901.0,57046.0,1579.4,1143.9
+2021 (provisional),Ohio,39,"Medina County, OH",39103,Black or African American,Not Hispanic or Latino,27.0,2631.0,1026.2,1234.6
+2021 (provisional),Ohio,39,"Medina County, OH",39103,White,Hispanic or Latino,11.0,3961.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Medina County, OH",39103,White,Not Hispanic or Latino,1957.0,168572.0,1160.9,832.0
+2021 (provisional),Ohio,39,"Meigs County, OH",39105,White,Not Hispanic or Latino,374.0,21917.0,1706.4,1239.3
+2021 (provisional),Ohio,39,"Mercer County, OH",39107,White,Not Hispanic or Latino,451.0,39128.0,1152.6,803.3
+2021 (provisional),Ohio,39,"Miami County, OH",39109,Black or African American,Not Hispanic or Latino,37.0,2652.0,1395.2,1436.9
+2021 (provisional),Ohio,39,"Miami County, OH",39109,White,Not Hispanic or Latino,1409.0,98350.0,1432.6,1005.7
+2021 (provisional),Ohio,39,"Monroe County, OH",39111,White,Not Hispanic or Latino,235.0,13150.0,1787.1,1095.0
+2021 (provisional),Ohio,39,"Montgomery County, OH",39113,Asian,Not Hispanic or Latino,67.0,12599.0,531.8,598.5
+2021 (provisional),Ohio,39,"Montgomery County, OH",39113,Black or African American,Not Hispanic or Latino,1589.0,113561.0,1399.2,1282.8
+2021 (provisional),Ohio,39,"Montgomery County, OH",39113,White,Hispanic or Latino,48.0,14682.0,326.9,500.0
+2021 (provisional),Ohio,39,"Montgomery County, OH",39113,White,Not Hispanic or Latino,5617.0,371210.0,1513.2,1012.4
+2021 (provisional),Ohio,39,"Montgomery County, OH",39113,More than one race,Not Hispanic or Latino,24.0,14809.0,162.1,430.4
+2021 (provisional),Ohio,39,"Morgan County, OH",39115,Black or African American,Not Hispanic or Latino,11.0,420.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Morgan County, OH",39115,White,Not Hispanic or Latino,255.0,13142.0,1940.3,1218.5
+2021 (provisional),Ohio,39,"Morrow County, OH",39117,White,Not Hispanic or Latino,414.0,33838.0,1223.5,916.8
+2021 (provisional),Ohio,39,"Muskingum County, OH",39119,Black or African American,Not Hispanic or Latino,48.0,3195.0,1502.3,1349.9
+2021 (provisional),Ohio,39,"Muskingum County, OH",39119,White,Not Hispanic or Latino,1118.0,78418.0,1425.7,1057.4
+2021 (provisional),Ohio,39,"Noble County, OH",39121,White,Not Hispanic or Latino,159.0,13624.0,1167.1,647.4
+2021 (provisional),Ohio,39,"Ottawa County, OH",39123,White,Hispanic or Latino,17.0,1951.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Ottawa County, OH",39123,White,Not Hispanic or Latino,601.0,37011.0,1623.8,889.0
+2021 (provisional),Ohio,39,"Paulding County, OH",39125,White,Not Hispanic or Latino,212.0,17180.0,1234.0,868.3
+2021 (provisional),Ohio,39,"Perry County, OH",39127,White,Not Hispanic or Latino,485.0,34944.0,1387.9,1174.6
+2021 (provisional),Ohio,39,"Pickaway County, OH",39129,Black or African American,Not Hispanic or Latino,15.0,2119.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Pickaway County, OH",39129,White,Not Hispanic or Latino,747.0,54155.0,1379.4,1096.2
+2021 (provisional),Ohio,39,"Pike County, OH",39131,White,Not Hispanic or Latino,471.0,26247.0,1794.5,1351.9
+2021 (provisional),Ohio,39,"Portage County, OH",39133,Asian,Not Hispanic or Latino,11.0,3394.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Portage County, OH",39133,Black or African American,Not Hispanic or Latino,66.0,7737.0,853.0,1292.7
+2021 (provisional),Ohio,39,"Portage County, OH",39133,White,Not Hispanic or Latino,1860.0,144471.0,1287.5,978.9
+2021 (provisional),Ohio,39,"Preble County, OH",39135,White,Not Hispanic or Latino,628.0,39141.0,1604.5,1138.4
+2021 (provisional),Ohio,39,"Putnam County, OH",39137,White,Hispanic or Latino,13.0,2029.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Putnam County, OH",39137,White,Not Hispanic or Latino,367.0,30920.0,1186.9,809.3
+2021 (provisional),Ohio,39,"Richland County, OH",39139,Black or African American,Not Hispanic or Latino,138.0,11140.0,1238.8,1311.1
+2021 (provisional),Ohio,39,"Richland County, OH",39139,White,Not Hispanic or Latino,1625.0,103141.0,1575.5,1044.0
+2021 (provisional),Ohio,39,"Richland County, OH",39139,More than one race,Not Hispanic or Latino,10.0,2778.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Ross County, OH",39141,Black or African American,Not Hispanic or Latino,47.0,4235.0,1109.8,1141.7
+2021 (provisional),Ohio,39,"Ross County, OH",39141,White,Not Hispanic or Latino,1096.0,68463.0,1600.9,1227.6
+2021 (provisional),Ohio,39,"Sandusky County, OH",39143,Black or African American,Not Hispanic or Latino,27.0,1764.0,1530.6,2078.6
+2021 (provisional),Ohio,39,"Sandusky County, OH",39143,White,Hispanic or Latino,37.0,5472.0,676.2,777.1
+2021 (provisional),Ohio,39,"Sandusky County, OH",39143,White,Not Hispanic or Latino,794.0,48750.0,1628.7,1068.8
+2021 (provisional),Ohio,39,"Scioto County, OH",39145,Black or African American,Not Hispanic or Latino,15.0,1938.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Scioto County, OH",39145,White,Not Hispanic or Latino,1293.0,69172.0,1869.3,1381.5
+2021 (provisional),Ohio,39,"Seneca County, OH",39147,White,Hispanic or Latino,25.0,2554.0,978.9,1275.6
+2021 (provisional),Ohio,39,"Seneca County, OH",39147,White,Not Hispanic or Latino,736.0,48920.0,1504.5,1028.9
+2021 (provisional),Ohio,39,"Shelby County, OH",39149,Black or African American,Not Hispanic or Latino,10.0,1066.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Shelby County, OH",39149,White,Not Hispanic or Latino,582.0,44666.0,1303.0,982.2
+2021 (provisional),Ohio,39,"Stark County, OH",39151,Asian,Not Hispanic or Latino,23.0,3580.0,642.5,652.7
+2021 (provisional),Ohio,39,"Stark County, OH",39151,Black or African American,Not Hispanic or Latino,455.0,29034.0,1567.1,1552.3
+2021 (provisional),Ohio,39,"Stark County, OH",39151,White,Hispanic or Latino,22.0,6859.0,320.7,407.5
+2021 (provisional),Ohio,39,"Stark County, OH",39151,White,Not Hispanic or Latino,4886.0,317649.0,1538.2,991.8
+2021 (provisional),Ohio,39,"Stark County, OH",39151,More than one race,Not Hispanic or Latino,10.0,10071.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Summit County, OH",39153,Asian,Not Hispanic or Latino,72.0,22265.0,323.4,538.8
+2021 (provisional),Ohio,39,"Summit County, OH",39153,Black or African American,Not Hispanic or Latino,1084.0,80454.0,1347.4,1321.5
+2021 (provisional),Ohio,39,"Summit County, OH",39153,White,Hispanic or Latino,34.0,10124.0,335.8,567.4
+2021 (provisional),Ohio,39,"Summit County, OH",39153,White,Not Hispanic or Latino,5813.0,408360.0,1423.5,928.2
+2021 (provisional),Ohio,39,"Summit County, OH",39153,More than one race,Not Hispanic or Latino,15.0,13767.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Trumbull County, OH",39155,Black or African American,Not Hispanic or Latino,268.0,16556.0,1618.7,1428.3
+2021 (provisional),Ohio,39,"Trumbull County, OH",39155,White,Hispanic or Latino,16.0,3114.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Trumbull County, OH",39155,White,Not Hispanic or Latino,2955.0,170603.0,1732.1,1079.4
+2021 (provisional),Ohio,39,"Tuscarawas County, OH",39157,White,Hispanic or Latino,10.0,2252.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Tuscarawas County, OH",39157,White,Not Hispanic or Latino,1355.0,86011.0,1575.4,1055.4
+2021 (provisional),Ohio,39,"Union County, OH",39159,White,Not Hispanic or Latino,472.0,52839.0,893.3,864.3
+2021 (provisional),Ohio,39,"Van Wert County, OH",39161,White,Not Hispanic or Latino,392.0,26227.0,1494.6,996.9
+2021 (provisional),Ohio,39,"Vinton County, OH",39163,White,Not Hispanic or Latino,225.0,12476.0,1803.5,1428.5
+2021 (provisional),Ohio,39,"Warren County, OH",39165,Asian,Not Hispanic or Latino,29.0,15861.0,182.8,334.8
+2021 (provisional),Ohio,39,"Warren County, OH",39165,Black or African American,Not Hispanic or Latino,58.0,8455.0,686.0,923.9
+2021 (provisional),Ohio,39,"Warren County, OH",39165,White,Hispanic or Latino,16.0,6457.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Warren County, OH",39165,White,Not Hispanic or Latino,2240.0,201855.0,1109.7,902.7
+2021 (provisional),Ohio,39,"Washington County, OH",39167,White,Not Hispanic or Latino,861.0,56545.0,1522.7,982.7
+2021 (provisional),Ohio,39,"Wayne County, OH",39169,Black or African American,Not Hispanic or Latino,23.0,1741.0,1321.1,1473.0
+2021 (provisional),Ohio,39,"Wayne County, OH",39169,White,Not Hispanic or Latino,1451.0,108249.0,1340.4,963.3
+2021 (provisional),Ohio,39,"Williams County, OH",39171,White,Hispanic or Latino,11.0,1635.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Williams County, OH",39171,White,Not Hispanic or Latino,503.0,33614.0,1496.4,973.2
+2021 (provisional),Ohio,39,"Wood County, OH",39173,Black or African American,Not Hispanic or Latino,17.0,3467.0,Unreliable,Unreliable
+2021 (provisional),Ohio,39,"Wood County, OH",39173,White,Hispanic or Latino,42.0,6921.0,606.8,966.4
+2021 (provisional),Ohio,39,"Wood County, OH",39173,White,Not Hispanic or Latino,1296.0,114763.0,1129.3,901.8
+2021 (provisional),Ohio,39,"Wyandot County, OH",39175,White,Not Hispanic or Latino,295.0,20525.0,1437.3,965.1
+2022 (provisional and partial),Ohio,39,"Adams County, OH",39001,White,Not Hispanic or Latino,64.0,26468.0,241.8,181.6
+2022 (provisional and partial),Ohio,39,"Allen County, OH",39003,Black or African American,Not Hispanic or Latino,19.0,12645.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Allen County, OH",39003,White,Not Hispanic or Latino,203.0,81686.0,248.5,169.6
+2022 (provisional and partial),Ohio,39,"Ashland County, OH",39005,White,Not Hispanic or Latino,119.0,50847.0,234.0,155.7
+2022 (provisional and partial),Ohio,39,"Ashtabula County, OH",39007,White,Not Hispanic or Latino,206.0,85964.0,239.6,155.5
+2022 (provisional and partial),Ohio,39,"Athens County, OH",39009,White,Not Hispanic or Latino,96.0,58785.0,163.3,155.0
+2022 (provisional and partial),Ohio,39,"Auglaize County, OH",39011,White,Not Hispanic or Latino,95.0,43664.0,217.6,146.5
+2022 (provisional and partial),Ohio,39,"Belmont County, OH",39013,White,Not Hispanic or Latino,123.0,60994.0,201.7,123.5
+2022 (provisional and partial),Ohio,39,"Brown County, OH",39015,White,Not Hispanic or Latino,92.0,41700.0,220.6,165.4
+2022 (provisional and partial),Ohio,39,"Butler County, OH",39017,Black or African American,Not Hispanic or Latino,52.0,34884.0,149.1,193.9
+2022 (provisional and partial),Ohio,39,"Butler County, OH",39017,White,Not Hispanic or Latino,583.0,305005.0,191.1,151.2
+2022 (provisional and partial),Ohio,39,"Carroll County, OH",39019,White,Not Hispanic or Latino,64.0,25845.0,247.6,162.8
+2022 (provisional and partial),Ohio,39,"Champaign County, OH",39021,White,Not Hispanic or Latino,81.0,36310.0,223.1,156.2
+2022 (provisional and partial),Ohio,39,"Clark County, OH",39023,Black or African American,Not Hispanic or Latino,34.0,11678.0,291.1,251.5
+2022 (provisional and partial),Ohio,39,"Clark County, OH",39023,White,Not Hispanic or Latino,302.0,111722.0,270.3,175.3
+2022 (provisional and partial),Ohio,39,"Clermont County, OH",39025,White,Not Hispanic or Latino,373.0,192718.0,193.5,148.2
+2022 (provisional and partial),Ohio,39,"Clinton County, OH",39027,White,Not Hispanic or Latino,94.0,39003.0,241.0,179.5
+2022 (provisional and partial),Ohio,39,"Columbiana County, OH",39029,White,Not Hispanic or Latino,241.0,94577.0,254.8,160.3
+2022 (provisional and partial),Ohio,39,"Coshocton County, OH",39031,White,Not Hispanic or Latino,60.0,34799.0,172.4,111.2
+2022 (provisional and partial),Ohio,39,"Crawford County, OH",39033,White,Not Hispanic or Latino,112.0,39260.0,285.3,176.2
+2022 (provisional and partial),Ohio,39,"Cuyahoga County, OH",39035,Asian,Not Hispanic or Latino,14.0,41390.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Cuyahoga County, OH",39035,Black or African American,Not Hispanic or Latino,632.0,364146.0,173.6,147.8
+2022 (provisional and partial),Ohio,39,"Cuyahoga County, OH",39035,White,Hispanic or Latino,57.0,61985.0,92.0,129.7
+2022 (provisional and partial),Ohio,39,"Cuyahoga County, OH",39035,White,Not Hispanic or Latino,1459.0,714899.0,204.1,118.4
+2022 (provisional and partial),Ohio,39,"Darke County, OH",39037,White,Not Hispanic or Latino,110.0,48949.0,224.7,150.5
+2022 (provisional and partial),Ohio,39,"Defiance County, OH",39039,White,Not Hispanic or Latino,66.0,32374.0,203.9,134.5
+2022 (provisional and partial),Ohio,39,"Delaware County, OH",39041,White,Not Hispanic or Latino,232.0,176862.0,131.2,113.4
+2022 (provisional and partial),Ohio,39,"Erie County, OH",39043,Black or African American,Not Hispanic or Latino,14.0,6434.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Erie County, OH",39043,White,Not Hispanic or Latino,154.0,60889.0,252.9,152.1
+2022 (provisional and partial),Ohio,39,"Fairfield County, OH",39045,Black or African American,Not Hispanic or Latino,11.0,14293.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Fairfield County, OH",39045,White,Not Hispanic or Latino,255.0,134126.0,190.1,141.6
+2022 (provisional and partial),Ohio,39,"Fayette County, OH",39047,White,Not Hispanic or Latino,60.0,26266.0,228.4,182.6
+2022 (provisional and partial),Ohio,39,"Franklin County, OH",39049,Asian,Not Hispanic or Latino,28.0,77676.0,36.0,63.9
+2022 (provisional and partial),Ohio,39,"Franklin County, OH",39049,Black or African American,Not Hispanic or Latino,391.0,310199.0,126.0,155.0
+2022 (provisional and partial),Ohio,39,"Franklin County, OH",39049,White,Hispanic or Latino,36.0,63262.0,56.9,117.7
+2022 (provisional and partial),Ohio,39,"Franklin County, OH",39049,White,Not Hispanic or Latino,1322.0,813060.0,162.6,141.4
+2022 (provisional and partial),Ohio,39,"Fulton County, OH",39051,White,Not Hispanic or Latino,81.0,37074.0,218.5,143.2
+2022 (provisional and partial),Ohio,39,"Gallia County, OH",39053,White,Not Hispanic or Latino,65.0,27788.0,233.9,169.8
+2022 (provisional and partial),Ohio,39,"Geauga County, OH",39055,White,Not Hispanic or Latino,141.0,88905.0,158.6,98.5
+2022 (provisional and partial),Ohio,39,"Greene County, OH",39057,Black or African American,Not Hispanic or Latino,16.0,12056.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Greene County, OH",39057,White,Not Hispanic or Latino,263.0,141716.0,185.6,129.4
+2022 (provisional and partial),Ohio,39,"Guernsey County, OH",39059,White,Not Hispanic or Latino,124.0,36650.0,338.3,240.6
+2022 (provisional and partial),Ohio,39,"Hamilton County, OH",39061,Asian,Not Hispanic or Latino,12.0,23931.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Hamilton County, OH",39061,Black or African American,Not Hispanic or Latino,320.0,214474.0,149.2,147.7
+2022 (provisional and partial),Ohio,39,"Hamilton County, OH",39061,White,Not Hispanic or Latino,972.0,527250.0,184.4,130.1
+2022 (provisional and partial),Ohio,39,"Hancock County, OH",39063,White,Not Hispanic or Latino,138.0,66500.0,207.5,144.3
+2022 (provisional and partial),Ohio,39,"Hardin County, OH",39065,White,Not Hispanic or Latino,65.0,29686.0,219.0,178.2
+2022 (provisional and partial),Ohio,39,"Harrison County, OH",39067,White,Not Hispanic or Latino,42.0,14204.0,295.7,175.3
+2022 (provisional and partial),Ohio,39,"Henry County, OH",39069,White,Not Hispanic or Latino,56.0,24176.0,231.6,153.5
+2022 (provisional and partial),Ohio,39,"Highland County, OH",39071,White,Not Hispanic or Latino,113.0,41060.0,275.2,202.8
+2022 (provisional and partial),Ohio,39,"Hocking County, OH",39073,White,Not Hispanic or Latino,59.0,26985.0,218.6,152.1
+2022 (provisional and partial),Ohio,39,"Holmes County, OH",39075,White,Not Hispanic or Latino,58.0,42966.0,135.0,122.7
+2022 (provisional and partial),Ohio,39,"Huron County, OH",39077,White,Not Hispanic or Latino,119.0,52060.0,228.6,169.4
+2022 (provisional and partial),Ohio,39,"Jackson County, OH",39079,White,Not Hispanic or Latino,74.0,31108.0,237.9,190.9
+2022 (provisional and partial),Ohio,39,"Jefferson County, OH",39081,Black or African American,Not Hispanic or Latino,12.0,3483.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Jefferson County, OH",39081,White,Not Hispanic or Latino,152.0,58346.0,260.5,159.9
+2022 (provisional and partial),Ohio,39,"Knox County, OH",39083,White,Not Hispanic or Latino,117.0,59380.0,197.0,141.0
+2022 (provisional and partial),Ohio,39,"Lake County, OH",39085,Black or African American,Not Hispanic or Latino,14.0,10903.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Lake County, OH",39085,White,Not Hispanic or Latino,461.0,199974.0,230.5,141.7
+2022 (provisional and partial),Ohio,39,"Lawrence County, OH",39087,White,Not Hispanic or Latino,131.0,55901.0,234.3,171.5
+2022 (provisional and partial),Ohio,39,"Licking County, OH",39089,White,Not Hispanic or Latino,308.0,157195.0,195.9,149.8
+2022 (provisional and partial),Ohio,39,"Logan County, OH",39091,White,Not Hispanic or Latino,99.0,42050.0,235.4,169.4
+2022 (provisional and partial),Ohio,39,"Lorain County, OH",39093,Black or African American,Not Hispanic or Latino,41.0,24143.0,169.8,169.1
+2022 (provisional and partial),Ohio,39,"Lorain County, OH",39093,White,Hispanic or Latino,28.0,26443.0,105.9,127.9
+2022 (provisional and partial),Ohio,39,"Lorain County, OH",39093,White,Not Hispanic or Latino,491.0,241943.0,202.9,132.2
+2022 (provisional and partial),Ohio,39,"Lucas County, OH",39095,Black or African American,Not Hispanic or Latino,147.0,84354.0,174.3,179.7
+2022 (provisional and partial),Ohio,39,"Lucas County, OH",39095,White,Hispanic or Latino,29.0,25961.0,111.7,176.5
+2022 (provisional and partial),Ohio,39,"Lucas County, OH",39095,White,Not Hispanic or Latino,606.0,290087.0,208.9,142.6
+2022 (provisional and partial),Ohio,39,"Madison County, OH",39097,White,Not Hispanic or Latino,68.0,39233.0,173.3,130.9
+2022 (provisional and partial),Ohio,39,"Mahoning County, OH",39099,Black or African American,Not Hispanic or Latino,60.0,33812.0,177.5,159.0
+2022 (provisional and partial),Ohio,39,"Mahoning County, OH",39099,White,Not Hispanic or Latino,422.0,169741.0,248.6,137.9
+2022 (provisional and partial),Ohio,39,"Marion County, OH",39101,White,Not Hispanic or Latino,144.0,57046.0,252.4,180.5
+2022 (provisional and partial),Ohio,39,"Medina County, OH",39103,White,Not Hispanic or Latino,303.0,168572.0,179.7,127.2
+2022 (provisional and partial),Ohio,39,"Meigs County, OH",39105,White,Not Hispanic or Latino,40.0,21917.0,182.5,127.3
+2022 (provisional and partial),Ohio,39,"Mercer County, OH",39107,White,Not Hispanic or Latino,68.0,39128.0,173.8,120.3
+2022 (provisional and partial),Ohio,39,"Miami County, OH",39109,White,Not Hispanic or Latino,240.0,98350.0,244.0,169.1
+2022 (provisional and partial),Ohio,39,"Monroe County, OH",39111,White,Not Hispanic or Latino,34.0,13150.0,258.6,159.3
+2022 (provisional and partial),Ohio,39,"Montgomery County, OH",39113,Black or African American,Not Hispanic or Latino,263.0,113561.0,231.6,205.8
+2022 (provisional and partial),Ohio,39,"Montgomery County, OH",39113,White,Not Hispanic or Latino,917.0,371210.0,247.0,163.8
+2022 (provisional and partial),Ohio,39,"Morgan County, OH",39115,White,Not Hispanic or Latino,25.0,13142.0,190.2,115.8
+2022 (provisional and partial),Ohio,39,"Morrow County, OH",39117,White,Not Hispanic or Latino,67.0,33838.0,198.0,142.3
+2022 (provisional and partial),Ohio,39,"Muskingum County, OH",39119,White,Not Hispanic or Latino,192.0,78418.0,244.8,172.8
+2022 (provisional and partial),Ohio,39,"Noble County, OH",39121,White,Not Hispanic or Latino,18.0,13624.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Ottawa County, OH",39123,White,Not Hispanic or Latino,67.0,37011.0,181.0,109.1
+2022 (provisional and partial),Ohio,39,"Paulding County, OH",39125,White,Not Hispanic or Latino,30.0,17180.0,174.6,125.9
+2022 (provisional and partial),Ohio,39,"Perry County, OH",39127,White,Not Hispanic or Latino,76.0,34944.0,217.5,169.6
+2022 (provisional and partial),Ohio,39,"Pickaway County, OH",39129,White,Not Hispanic or Latino,125.0,54155.0,230.8,185.0
+2022 (provisional and partial),Ohio,39,"Pike County, OH",39131,White,Not Hispanic or Latino,68.0,26247.0,259.1,192.9
+2022 (provisional and partial),Ohio,39,"Portage County, OH",39133,White,Not Hispanic or Latino,272.0,144471.0,188.3,141.6
+2022 (provisional and partial),Ohio,39,"Preble County, OH",39135,White,Not Hispanic or Latino,92.0,39141.0,235.0,171.2
+2022 (provisional and partial),Ohio,39,"Putnam County, OH",39137,White,Not Hispanic or Latino,51.0,30920.0,164.9,118.6
+2022 (provisional and partial),Ohio,39,"Richland County, OH",39139,Black or African American,Not Hispanic or Latino,19.0,11140.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Richland County, OH",39139,White,Not Hispanic or Latino,287.0,103141.0,278.3,183.6
+2022 (provisional and partial),Ohio,39,"Ross County, OH",39141,White,Not Hispanic or Latino,141.0,68463.0,206.0,163.0
+2022 (provisional and partial),Ohio,39,"Sandusky County, OH",39143,White,Not Hispanic or Latino,126.0,48750.0,258.5,163.8
+2022 (provisional and partial),Ohio,39,"Scioto County, OH",39145,White,Not Hispanic or Latino,167.0,69172.0,241.4,171.6
+2022 (provisional and partial),Ohio,39,"Seneca County, OH",39147,White,Not Hispanic or Latino,118.0,48920.0,241.2,175.9
+2022 (provisional and partial),Ohio,39,"Shelby County, OH",39149,White,Not Hispanic or Latino,97.0,44666.0,217.2,166.9
+2022 (provisional and partial),Ohio,39,"Stark County, OH",39151,Black or African American,Not Hispanic or Latino,50.0,29034.0,172.2,175.2
+2022 (provisional and partial),Ohio,39,"Stark County, OH",39151,White,Not Hispanic or Latino,690.0,317649.0,217.2,136.4
+2022 (provisional and partial),Ohio,39,"Summit County, OH",39153,Black or African American,Not Hispanic or Latino,158.0,80454.0,196.4,194.4
+2022 (provisional and partial),Ohio,39,"Summit County, OH",39153,White,Not Hispanic or Latino,878.0,408360.0,215.0,138.3
+2022 (provisional and partial),Ohio,39,"Trumbull County, OH",39155,Black or African American,Not Hispanic or Latino,40.0,16556.0,241.6,198.7
+2022 (provisional and partial),Ohio,39,"Trumbull County, OH",39155,White,Not Hispanic or Latino,490.0,170603.0,287.2,175.5
+2022 (provisional and partial),Ohio,39,"Tuscarawas County, OH",39157,White,Not Hispanic or Latino,213.0,86011.0,247.6,164.1
+2022 (provisional and partial),Ohio,39,"Union County, OH",39159,White,Not Hispanic or Latino,96.0,52839.0,181.7,177.2
+2022 (provisional and partial),Ohio,39,"Van Wert County, OH",39161,White,Not Hispanic or Latino,64.0,26227.0,244.0,163.2
+2022 (provisional and partial),Ohio,39,"Vinton County, OH",39163,White,Not Hispanic or Latino,40.0,12476.0,320.6,243.8
+2022 (provisional and partial),Ohio,39,"Warren County, OH",39165,Asian,Not Hispanic or Latino,10.0,15861.0,Unreliable,Unreliable
+2022 (provisional and partial),Ohio,39,"Warren County, OH",39165,White,Not Hispanic or Latino,317.0,201855.0,157.0,126.7
+2022 (provisional and partial),Ohio,39,"Washington County, OH",39167,White,Not Hispanic or Latino,122.0,56545.0,215.8,142.6
+2022 (provisional and partial),Ohio,39,"Wayne County, OH",39169,White,Not Hispanic or Latino,242.0,108249.0,223.6,159.3
+2022 (provisional and partial),Ohio,39,"Williams County, OH",39171,White,Not Hispanic or Latino,82.0,33614.0,243.9,157.9
+2022 (provisional and partial),Ohio,39,"Wood County, OH",39173,White,Not Hispanic or Latino,179.0,114763.0,156.0,125.0
+2022 (provisional and partial),Ohio,39,"Wyandot County, OH",39175,White,Not Hispanic or Latino,53.0,20525.0,258.2,178.2

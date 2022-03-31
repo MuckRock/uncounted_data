@@ -1,0 +1,27 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Maine,"Androscoggin County, ME",Nontransport accidents,Unspecified fall,W19,33.0,107679.0,30.6
+2018,Maine,"Androscoggin County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,107679.0,Unreliable
+2018,Maine,"Androscoggin County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,107679.0,Unreliable
+2018,Maine,"Aroostook County, ME",Nontransport accidents,Unspecified fall,W19,14.0,67111.0,Unreliable
+2018,Maine,"Cumberland County, ME",Nontransport accidents,Unspecified fall,W19,58.0,293557.0,19.8
+2018,Maine,"Cumberland County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,34.0,293557.0,11.6
+2018,Maine,"Cumberland County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29.0,293557.0,9.9
+2018,Maine,"Cumberland County, ME",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,17.0,293557.0,Unreliable
+2018,Maine,"Hancock County, ME",Nontransport accidents,Unspecified fall,W19,14.0,54811.0,Unreliable
+2018,Maine,"Kennebec County, ME",Nontransport accidents,Unspecified fall,W19,28.0,122083.0,22.9
+2018,Maine,"Kennebec County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,122083.0,17.2
+2018,Maine,"Kennebec County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,122083.0,Unreliable
+2018,Maine,"Kennebec County, ME",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,122083.0,Unreliable
+2018,Maine,"Knox County, ME",Nontransport accidents,Unspecified fall,W19,13.0,39771.0,Unreliable
+2018,Maine,"Oxford County, ME",Nontransport accidents,Unspecified fall,W19,11.0,57618.0,Unreliable
+2018,Maine,"Penobscot County, ME",Nontransport accidents,Unspecified fall,W19,41.0,151096.0,27.1
+2018,Maine,"Penobscot County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,151096.0,16.5
+2018,Maine,"Penobscot County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,151096.0,Unreliable
+2018,Maine,"Penobscot County, ME",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,15.0,151096.0,Unreliable
+2018,Maine,"Sagadahoc County, ME",Nontransport accidents,Unspecified fall,W19,10.0,35634.0,Unreliable
+2018,Maine,"Somerset County, ME",Nontransport accidents,Unspecified fall,W19,14.0,50592.0,Unreliable
+2018,Maine,"Washington County, ME",Nontransport accidents,Unspecified fall,W19,11.0,31490.0,Unreliable
+2018,Maine,"York County, ME",Nontransport accidents,Unspecified fall,W19,62.0,206229.0,30.1
+2018,Maine,"York County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33.0,206229.0,16.0
+2018,Maine,"York County, ME",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,206229.0,9.7
+2018,Maine,"York County, ME",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,206229.0,Unreliable

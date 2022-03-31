@@ -1,0 +1,85 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Missouri,"Boone County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,180005.0,Unreliable
+2018,Missouri,"Boone County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,180005.0,Unreliable
+2018,Missouri,"Boone County, MO",Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,180005.0,Unreliable
+2018,Missouri,"Buchanan County, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,88571.0,Unreliable
+2018,Missouri,"Cape Girardeau County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,78753.0,Unreliable
+2018,Missouri,"Cape Girardeau County, MO",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,78753.0,Unreliable
+2018,Missouri,"Cass County, MO",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,104954.0,Unreliable
+2018,Missouri,"Cass County, MO",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,104954.0,Unreliable
+2018,Missouri,"Christian County, MO",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,86983.0,Unreliable
+2018,Missouri,"Clay County, MO",Nontransport accidents,Other fall on same level,W18,11.0,246365.0,Unreliable
+2018,Missouri,"Clay County, MO",Nontransport accidents,Unspecified fall,W19,21.0,246365.0,8.5
+2018,Missouri,"Clay County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,246365.0,Unreliable
+2018,Missouri,"Clay County, MO",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,246365.0,Unreliable
+2018,Missouri,"Clay County, MO",Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,246365.0,Unreliable
+2018,Missouri,"Franklin County, MO",Nontransport accidents,Unspecified fall,W19,30.0,103670.0,28.9
+2018,Missouri,"Franklin County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,103670.0,Unreliable
+2018,Missouri,"Franklin County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,103670.0,Unreliable
+2018,Missouri,"Franklin County, MO",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,13.0,103670.0,Unreliable
+2018,Missouri,"Greene County, MO",Nontransport accidents,Other fall on same level,W18,22.0,291923.0,7.5
+2018,Missouri,"Greene County, MO",Nontransport accidents,Unspecified fall,W19,11.0,291923.0,Unreliable
+2018,Missouri,"Greene County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,16.0,291923.0,Unreliable
+2018,Missouri,"Greene County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,291923.0,8.6
+2018,Missouri,"Greene County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,291923.0,7.5
+2018,Missouri,"Greene County, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,291923.0,7.9
+2018,Missouri,"Greene County, MO",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,291923.0,7.5
+2018,Missouri,"Greene County, MO",Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,291923.0,Unreliable
+2018,Missouri,"Jackson County, MO",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,700307.0,Unreliable
+2018,Missouri,"Jackson County, MO",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,19.0,700307.0,Unreliable
+2018,Missouri,"Jackson County, MO",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,39.0,700307.0,5.6
+2018,Missouri,"Jackson County, MO",Nontransport accidents,Other fall on same level,W18,22.0,700307.0,3.1
+2018,Missouri,"Jackson County, MO",Nontransport accidents,Unspecified fall,W19,49.0,700307.0,7.0
+2018,Missouri,"Jackson County, MO",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,15.0,700307.0,Unreliable
+2018,Missouri,"Jackson County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,31.0,700307.0,4.4
+2018,Missouri,"Jackson County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,57.0,700307.0,8.1
+2018,Missouri,"Jackson County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29.0,700307.0,4.1
+2018,Missouri,"Jackson County, MO",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,12.0,700307.0,Unreliable
+2018,Missouri,"Jackson County, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,33.0,700307.0,4.7
+2018,Missouri,"Jackson County, MO",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,26.0,700307.0,3.7
+2018,Missouri,"Jackson County, MO",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,58.0,700307.0,8.3
+2018,Missouri,"Jackson County, MO",Assault (homicide),Assault by other and unspecified firearm discharge,X95,139.0,700307.0,19.8
+2018,Missouri,"Jasper County, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,120636.0,Unreliable
+2018,Missouri,"Jasper County, MO",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,120636.0,Unreliable
+2018,Missouri,"Jefferson County, MO",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,14.0,224347.0,Unreliable
+2018,Missouri,"Jefferson County, MO",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,224347.0,Unreliable
+2018,Missouri,"Jefferson County, MO",Nontransport accidents,Unspecified fall,W19,43.0,224347.0,19.2
+2018,Missouri,"Jefferson County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,224347.0,Unreliable
+2018,Missouri,"Jefferson County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,61.0,224347.0,27.2
+2018,Missouri,"Jefferson County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,224347.0,17.8
+2018,Missouri,"Jefferson County, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,224347.0,Unreliable
+2018,Missouri,"Jefferson County, MO",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,26.0,224347.0,11.6
+2018,Missouri,"Jefferson County, MO",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,224347.0,Unreliable
+2018,Missouri,"Lincoln County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,57686.0,Unreliable
+2018,Missouri,"Platte County, MO",Nontransport accidents,Unspecified fall,W19,14.0,102985.0,Unreliable
+2018,Missouri,"St. Charles County, MO",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,18.0,399182.0,Unreliable
+2018,Missouri,"St. Charles County, MO",Nontransport accidents,Unspecified fall,W19,97.0,399182.0,24.3
+2018,Missouri,"St. Charles County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,77.0,399182.0,19.3
+2018,Missouri,"St. Charles County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,27.0,399182.0,6.8
+2018,Missouri,"St. Charles County, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,399182.0,Unreliable
+2018,Missouri,"St. Charles County, MO",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,21.0,399182.0,5.3
+2018,Missouri,"St. Francois County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,66692.0,Unreliable
+2018,Missouri,"St. Louis County, MO",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,20.0,996945.0,2.0
+2018,Missouri,"St. Louis County, MO",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,39.0,996945.0,3.9
+2018,Missouri,"St. Louis County, MO",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,28.0,996945.0,2.8
+2018,Missouri,"St. Louis County, MO",Nontransport accidents,Unspecified fall,W19,149.0,996945.0,14.9
+2018,Missouri,"St. Louis County, MO",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,12.0,996945.0,Unreliable
+2018,Missouri,"St. Louis County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,996945.0,Unreliable
+2018,Missouri,"St. Louis County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,249.0,996945.0,25.0
+2018,Missouri,"St. Louis County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,73.0,996945.0,7.3
+2018,Missouri,"St. Louis County, MO",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,14.0,996945.0,Unreliable
+2018,Missouri,"St. Louis County, MO",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,996945.0,Unreliable
+2018,Missouri,"St. Louis County, MO",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,996945.0,Unreliable
+2018,Missouri,"St. Louis County, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,37.0,996945.0,3.7
+2018,Missouri,"St. Louis County, MO",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,63.0,996945.0,6.3
+2018,Missouri,"St. Louis County, MO",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12.0,996945.0,Unreliable
+2018,Missouri,"St. Louis County, MO",Assault (homicide),Assault by other and unspecified firearm discharge,X95,141.0,996945.0,14.1
+2018,Missouri,"Warren County, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,34711.0,Unreliable
+2018,Missouri,"St. Louis city, MO",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,302838.0,Unreliable
+2018,Missouri,"St. Louis city, MO",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,20.0,302838.0,6.6
+2018,Missouri,"St. Louis city, MO",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,302838.0,Unreliable
+2018,Missouri,"St. Louis city, MO",Nontransport accidents,Unspecified fall,W19,12.0,302838.0,Unreliable
+2018,Missouri,"St. Louis city, MO",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,209.0,302838.0,69.0
+2018,Missouri,"St. Louis city, MO",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,302838.0,Unreliable
+2018,Missouri,"St. Louis city, MO",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,302838.0,6.9
+2018,Missouri,"St. Louis city, MO",Assault (homicide),Assault by other and unspecified firearm discharge,X95,121.0,302838.0,40.0

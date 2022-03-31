@@ -1,0 +1,413 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Hispanic or Latino,19.0,13335.0,Unreliable,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Not Hispanic or Latino,200.0,28920.0,691.6,913.6
+2018,New Mexico,35,"Bernalillo County, NM",35001,Asian,Not Hispanic or Latino,84.0,17435.0,481.8,497.4
+2018,New Mexico,35,"Bernalillo County, NM",35001,Black or African American,Not Hispanic or Latino,168.0,16931.0,992.3,986.0
+2018,New Mexico,35,"Bernalillo County, NM",35001,White,Hispanic or Latino,2124.0,310580.0,683.9,746.1
+2018,New Mexico,35,"Bernalillo County, NM",35001,White,Not Hispanic or Latino,3209.0,261180.0,1228.7,708.9
+2018,New Mexico,35,"Bernalillo County, NM",35001,White,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2018,New Mexico,35,"Bernalillo County, NM",35001,More than one race,Hispanic or Latino,15.0,8693.0,Unreliable,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,More than one race,Not Hispanic or Latino,24.0,12136.0,197.8,417.5
+2018,New Mexico,35,"Catron County, NM",35003,White,Not Hispanic or Latino,43.0,2697.0,1594.4,785.7
+2018,New Mexico,35,"Chaves County, NM",35005,Black or African American,Not Hispanic or Latino,16.0,918.0,Unreliable,Unreliable
+2018,New Mexico,35,"Chaves County, NM",35005,White,Hispanic or Latino,226.0,34552.0,654.1,813.6
+2018,New Mexico,35,"Chaves County, NM",35005,White,Not Hispanic or Latino,413.0,25033.0,1649.8,916.3
+2018,New Mexico,35,"Cibola County, NM",35006,American Indian or Alaska Native,Not Hispanic or Latino,89.0,10586.0,840.7,836.6
+2018,New Mexico,35,"Cibola County, NM",35006,White,Hispanic or Latino,62.0,8766.0,707.3,667.8
+2018,New Mexico,35,"Cibola County, NM",35006,White,Not Hispanic or Latino,88.0,5097.0,1726.5,932.8
+2018,New Mexico,35,"Colfax County, NM",35007,White,Hispanic or Latino,56.0,5605.0,999.1,794.1
+2018,New Mexico,35,"Colfax County, NM",35007,White,Not Hispanic or Latino,67.0,5664.0,1182.9,531.3
+2018,New Mexico,35,"Curry County, NM",35009,Black or African American,Not Hispanic or Latino,25.0,2808.0,890.3,1056.2
+2018,New Mexico,35,"Curry County, NM",35009,White,Hispanic or Latino,102.0,18971.0,537.7,779.1
+2018,New Mexico,35,"Curry County, NM",35009,White,Not Hispanic or Latino,273.0,23262.0,1173.6,892.5
+2018,New Mexico,35,"DeBaca County, NM",35011,White,Not Hispanic or Latino,12.0,928.0,Unreliable,Unreliable
+2018,New Mexico,35,"Dona Ana County, NM",35013,Black or African American,Not Hispanic or Latino,25.0,3502.0,713.9,842.2
+2018,New Mexico,35,"Dona Ana County, NM",35013,White,Hispanic or Latino,772.0,141234.0,546.6,622.9
+2018,New Mexico,35,"Dona Ana County, NM",35013,White,Not Hispanic or Latino,811.0,58582.0,1384.4,759.3
+2018,New Mexico,35,"Eddy County, NM",35015,Black or African American,Not Hispanic or Latino,12.0,750.0,Unreliable,Unreliable
+2018,New Mexico,35,"Eddy County, NM",35015,White,Hispanic or Latino,198.0,27067.0,731.5,924.2
+2018,New Mexico,35,"Eddy County, NM",35015,White,Not Hispanic or Latino,397.0,26672.0,1488.5,1040.1
+2018,New Mexico,35,"Grant County, NM",35017,White,Hispanic or Latino,152.0,12934.0,1175.2,872.2
+2018,New Mexico,35,"Grant County, NM",35017,White,Not Hispanic or Latino,179.0,12467.0,1435.8,614.7
+2018,New Mexico,35,"Guadalupe County, NM",35019,White,Hispanic or Latino,44.0,3236.0,1359.7,905.5
+2018,New Mexico,35,"Hidalgo County, NM",35023,White,Hispanic or Latino,32.0,2357.0,1357.7,1080.3
+2018,New Mexico,35,"Hidalgo County, NM",35023,White,Not Hispanic or Latino,36.0,1663.0,2164.8,1030.6
+2018,New Mexico,35,"Lea County, NM",35025,Black or African American,Not Hispanic or Latino,29.0,2358.0,1229.9,1295.7
+2018,New Mexico,35,"Lea County, NM",35025,White,Hispanic or Latino,185.0,39201.0,471.9,819.2
+2018,New Mexico,35,"Lea County, NM",35025,White,Not Hispanic or Latino,355.0,24361.0,1457.2,1007.4
+2018,New Mexico,35,"Lincoln County, NM",35027,White,Hispanic or Latino,43.0,6075.0,707.8,650.1
+2018,New Mexico,35,"Lincoln County, NM",35027,White,Not Hispanic or Latino,200.0,11939.0,1675.2,815.9
+2018,New Mexico,35,"Los Alamos County, NM",35028,White,Hispanic or Latino,10.0,3172.0,Unreliable,Unreliable
+2018,New Mexico,35,"Los Alamos County, NM",35028,White,Not Hispanic or Latino,132.0,13644.0,967.5,615.3
+2018,New Mexico,35,"Luna County, NM",35029,White,Hispanic or Latino,108.0,15345.0,703.8,753.0
+2018,New Mexico,35,"Luna County, NM",35029,White,Not Hispanic or Latino,195.0,6934.0,2812.2,1164.3
+2018,New Mexico,35,"McKinley County, NM",35031,American Indian or Alaska Native,Not Hispanic or Latino,516.0,53420.0,965.9,1051.0
+2018,New Mexico,35,"McKinley County, NM",35031,White,Hispanic or Latino,68.0,5895.0,1153.5,962.6
+2018,New Mexico,35,"McKinley County, NM",35031,White,Not Hispanic or Latino,96.0,6101.0,1573.5,894.4
+2018,New Mexico,35,"Mora County, NM",35033,White,Hispanic or Latino,41.0,3443.0,1190.8,735.5
+2018,New Mexico,35,"Otero County, NM",35035,American Indian or Alaska Native,Not Hispanic or Latino,33.0,4014.0,822.1,947.0
+2018,New Mexico,35,"Otero County, NM",35035,Black or African American,Not Hispanic or Latino,26.0,2223.0,1169.6,1242.1
+2018,New Mexico,35,"Otero County, NM",35035,White,Hispanic or Latino,139.0,22898.0,607.0,708.2
+2018,New Mexico,35,"Otero County, NM",35035,White,Not Hispanic or Latino,454.0,32302.0,1405.5,849.0
+2018,New Mexico,35,"Quay County, NM",35037,White,Hispanic or Latino,51.0,3448.0,1479.1,1333.3
+2018,New Mexico,35,"Quay County, NM",35037,White,Not Hispanic or Latino,63.0,4046.0,1557.1,639.2
+2018,New Mexico,35,"Rio Arriba County, NM",35039,American Indian or Alaska Native,Not Hispanic or Latino,75.0,5570.0,1346.5,1429.7
+2018,New Mexico,35,"Rio Arriba County, NM",35039,White,Hispanic or Latino,306.0,25033.0,1222.4,997.7
+2018,New Mexico,35,"Rio Arriba County, NM",35039,White,Not Hispanic or Latino,59.0,4966.0,1188.1,763.3
+2018,New Mexico,35,"Roosevelt County, NM",35041,White,Hispanic or Latino,39.0,7489.0,520.8,829.7
+2018,New Mexico,35,"Roosevelt County, NM",35041,White,Not Hispanic or Latino,106.0,9578.0,1106.7,772.5
+2018,New Mexico,35,"Sandoval County, NM",35043,American Indian or Alaska Native,Not Hispanic or Latino,161.0,17662.0,911.6,1097.0
+2018,New Mexico,35,"Sandoval County, NM",35043,Black or African American,Not Hispanic or Latino,21.0,2943.0,713.6,539.9
+2018,New Mexico,35,"Sandoval County, NM",35043,White,Hispanic or Latino,266.0,51332.0,518.2,632.5
+2018,New Mexico,35,"Sandoval County, NM",35043,White,Not Hispanic or Latino,718.0,62588.0,1147.2,671.1
+2018,New Mexico,35,"San Juan County, NM",35045,American Indian or Alaska Native,Not Hispanic or Latino,409.0,47910.0,853.7,973.0
+2018,New Mexico,35,"San Juan County, NM",35045,White,Hispanic or Latino,114.0,20810.0,547.8,666.4
+2018,New Mexico,35,"San Juan County, NM",35045,White,Not Hispanic or Latino,594.0,47493.0,1250.7,788.5
+2018,New Mexico,35,"San Miguel County, NM",35047,White,Hispanic or Latino,193.0,20140.0,958.3,765.9
+2018,New Mexico,35,"San Miguel County, NM",35047,White,Not Hispanic or Latino,84.0,4923.0,1706.3,882.5
+2018,New Mexico,35,"Santa Fe County, NM",35049,American Indian or Alaska Native,Not Hispanic or Latino,26.0,3694.0,703.8,839.5
+2018,New Mexico,35,"Santa Fe County, NM",35049,White,Hispanic or Latino,484.0,71456.0,677.3,629.5
+2018,New Mexico,35,"Santa Fe County, NM",35049,White,Not Hispanic or Latino,671.0,64501.0,1040.3,520.6
+2018,New Mexico,35,"Sierra County, NM",35051,White,Hispanic or Latino,35.0,3016.0,1160.5,923.8
+2018,New Mexico,35,"Sierra County, NM",35051,White,Not Hispanic or Latino,227.0,7053.0,3218.5,1308.7
+2018,New Mexico,35,"Socorro County, NM",35053,American Indian or Alaska Native,Not Hispanic or Latino,18.0,2028.0,Unreliable,Unreliable
+2018,New Mexico,35,"Socorro County, NM",35053,White,Hispanic or Latino,62.0,7619.0,813.8,673.5
+2018,New Mexico,35,"Socorro County, NM",35053,White,Not Hispanic or Latino,77.0,5650.0,1362.8,796.6
+2018,New Mexico,35,"Taos County, NM",35055,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1676.0,Unreliable,Unreliable
+2018,New Mexico,35,"Taos County, NM",35055,White,Hispanic or Latino,182.0,17180.0,1059.4,770.4
+2018,New Mexico,35,"Taos County, NM",35055,White,Not Hispanic or Latino,127.0,11636.0,1091.4,595.4
+2018,New Mexico,35,"Torrance County, NM",35057,White,Hispanic or Latino,58.0,6165.0,940.8,943.2
+2018,New Mexico,35,"Torrance County, NM",35057,White,Not Hispanic or Latino,89.0,7872.0,1130.6,640.4
+2018,New Mexico,35,"Union County, NM",35059,White,Hispanic or Latino,10.0,1607.0,Unreliable,Unreliable
+2018,New Mexico,35,"Union County, NM",35059,White,Not Hispanic or Latino,32.0,2151.0,1487.7,702.1
+2018,New Mexico,35,"Valencia County, NM",35061,American Indian or Alaska Native,Not Hispanic or Latino,12.0,2988.0,Unreliable,Unreliable
+2018,New Mexico,35,"Valencia County, NM",35061,White,Hispanic or Latino,328.0,43138.0,760.4,766.6
+2018,New Mexico,35,"Valencia County, NM",35061,White,Not Hispanic or Latino,352.0,24723.0,1423.8,815.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Hispanic or Latino,28.0,13570.0,206.3,430.2
+2019,New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Not Hispanic or Latino,219.0,29509.0,742.1,945.3
+2019,New Mexico,35,"Bernalillo County, NM",35001,Asian,Not Hispanic or Latino,62.0,17786.0,348.6,352.3
+2019,New Mexico,35,"Bernalillo County, NM",35001,Black or African American,Not Hispanic or Latino,170.0,17603.0,965.7,1005.1
+2019,New Mexico,35,"Bernalillo County, NM",35001,White,Hispanic or Latino,2275.0,310101.0,733.6,786.4
+2019,New Mexico,35,"Bernalillo County, NM",35001,White,Not Hispanic or Latino,3223.0,259792.0,1240.6,708.1
+2019,New Mexico,35,"Bernalillo County, NM",35001,White,Not Stated,31.0,Not Applicable,Not Applicable,Not Applicable
+2019,New Mexico,35,"Bernalillo County, NM",35001,More than one race,Not Hispanic or Latino,28.0,12411.0,225.6,426.2
+2019,New Mexico,35,"Catron County, NM",35003,White,Not Hispanic or Latino,39.0,2641.0,1476.7,742.2
+2019,New Mexico,35,"Chaves County, NM",35005,Black or African American,Not Hispanic or Latino,23.0,941.0,2444.2,2277.9
+2019,New Mexico,35,"Chaves County, NM",35005,White,Hispanic or Latino,249.0,34843.0,714.6,871.8
+2019,New Mexico,35,"Chaves County, NM",35005,White,Not Hispanic or Latino,408.0,24514.0,1664.4,925.7
+2019,New Mexico,35,"Cibola County, NM",35006,American Indian or Alaska Native,Not Hispanic or Latino,103.0,10565.0,974.9,972.4
+2019,New Mexico,35,"Cibola County, NM",35006,White,Hispanic or Latino,86.0,8748.0,983.1,877.6
+2019,New Mexico,35,"Cibola County, NM",35006,White,Not Hispanic or Latino,82.0,5043.0,1626.0,818.4
+2019,New Mexico,35,"Colfax County, NM",35007,White,Hispanic or Latino,66.0,5508.0,1198.3,899.6
+2019,New Mexico,35,"Colfax County, NM",35007,White,Not Hispanic or Latino,88.0,5605.0,1570.0,761.9
+2019,New Mexico,35,"Curry County, NM",35009,Black or African American,Not Hispanic or Latino,26.0,2710.0,959.4,1070.3
+2019,New Mexico,35,"Curry County, NM",35009,White,Hispanic or Latino,108.0,19127.0,564.6,805.6
+2019,New Mexico,35,"Curry County, NM",35009,White,Not Hispanic or Latino,270.0,22780.0,1185.3,846.0
+2019,New Mexico,35,"DeBaca County, NM",35011,White,Not Hispanic or Latino,18.0,874.0,Unreliable,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Asian,Not Hispanic or Latino,15.0,2335.0,Unreliable,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Black or African American,Not Hispanic or Latino,21.0,3548.0,591.9,648.6
+2019,New Mexico,35,"Dona Ana County, NM",35013,White,Hispanic or Latino,819.0,142058.0,576.5,644.5
+2019,New Mexico,35,"Dona Ana County, NM",35013,White,Not Hispanic or Latino,827.0,58310.0,1418.3,777.7
+2019,New Mexico,35,"Eddy County, NM",35015,Black or African American,Not Hispanic or Latino,10.0,775.0,Unreliable,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,White,Hispanic or Latino,214.0,27748.0,771.2,979.8
+2019,New Mexico,35,"Eddy County, NM",35015,White,Not Hispanic or Latino,380.0,26456.0,1436.3,996.3
+2019,New Mexico,35,"Grant County, NM",35017,White,Hispanic or Latino,154.0,12699.0,1212.7,912.8
+2019,New Mexico,35,"Grant County, NM",35017,White,Not Hispanic or Latino,227.0,12353.0,1837.6,754.2
+2019,New Mexico,35,"Guadalupe County, NM",35019,White,Hispanic or Latino,38.0,3184.0,1193.5,883.0
+2019,New Mexico,35,"Guadalupe County, NM",35019,White,Not Hispanic or Latino,12.0,702.0,Unreliable,Unreliable
+2019,New Mexico,35,"Hidalgo County, NM",35023,White,Hispanic or Latino,28.0,2336.0,1198.6,942.7
+2019,New Mexico,35,"Hidalgo County, NM",35023,White,Not Hispanic or Latino,28.0,1632.0,1715.7,829.6
+2019,New Mexico,35,"Lea County, NM",35025,Black or African American,Not Hispanic or Latino,24.0,2403.0,998.8,1068.9
+2019,New Mexico,35,"Lea County, NM",35025,White,Hispanic or Latino,193.0,40528.0,476.2,838.0
+2019,New Mexico,35,"Lea County, NM",35025,White,Not Hispanic or Latino,383.0,24366.0,1571.9,1072.2
+2019,New Mexico,35,"Lincoln County, NM",35027,White,Hispanic or Latino,41.0,6178.0,663.6,614.6
+2019,New Mexico,35,"Lincoln County, NM",35027,White,Not Hispanic or Latino,195.0,11809.0,1651.3,747.3
+2019,New Mexico,35,"Los Alamos County, NM",35028,White,Hispanic or Latino,10.0,3243.0,Unreliable,Unreliable
+2019,New Mexico,35,"Los Alamos County, NM",35028,White,Not Hispanic or Latino,110.0,13783.0,798.1,535.3
+2019,New Mexico,35,"Luna County, NM",35029,White,Hispanic or Latino,113.0,15186.0,744.1,784.0
+2019,New Mexico,35,"Luna County, NM",35029,White,Not Hispanic or Latino,179.0,6768.0,2644.8,1226.3
+2019,New Mexico,35,"McKinley County, NM",35031,American Indian or Alaska Native,Not Hispanic or Latino,542.0,52979.0,1023.0,1143.4
+2019,New Mexico,35,"McKinley County, NM",35031,White,Hispanic or Latino,56.0,5673.0,987.1,745.5
+2019,New Mexico,35,"McKinley County, NM",35031,White,Not Hispanic or Latino,85.0,5930.0,1433.4,801.2
+2019,New Mexico,35,"Mora County, NM",35033,White,Hispanic or Latino,40.0,3451.0,1159.1,724.4
+2019,New Mexico,35,"Mora County, NM",35033,White,Not Hispanic or Latino,13.0,763.0,Unreliable,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,American Indian or Alaska Native,Not Hispanic or Latino,44.0,4065.0,1082.4,1350.4
+2019,New Mexico,35,"Otero County, NM",35035,Black or African American,Not Hispanic or Latino,12.0,2296.0,Unreliable,Unreliable
+2019,New Mexico,35,"Otero County, NM",35035,White,Hispanic or Latino,133.0,23184.0,573.7,641.7
+2019,New Mexico,35,"Otero County, NM",35035,White,Not Hispanic or Latino,420.0,32619.0,1287.6,773.6
+2019,New Mexico,35,"Quay County, NM",35037,White,Hispanic or Latino,43.0,3469.0,1239.6,1180.5
+2019,New Mexico,35,"Quay County, NM",35037,White,Not Hispanic or Latino,73.0,4035.0,1809.2,806.3
+2019,New Mexico,35,"Rio Arriba County, NM",35039,American Indian or Alaska Native,Not Hispanic or Latino,46.0,5532.0,831.5,833.8
+2019,New Mexico,35,"Rio Arriba County, NM",35039,White,Hispanic or Latino,315.0,24833.0,1268.5,1018.3
+2019,New Mexico,35,"Rio Arriba County, NM",35039,White,Not Hispanic or Latino,59.0,4992.0,1181.9,594.1
+2019,New Mexico,35,"Roosevelt County, NM",35041,White,Hispanic or Latino,50.0,7450.0,671.1,969.0
+2019,New Mexico,35,"Roosevelt County, NM",35041,White,Not Hispanic or Latino,122.0,9339.0,1306.3,937.3
+2019,New Mexico,35,"Sandoval County, NM",35043,American Indian or Alaska Native,Not Hispanic or Latino,159.0,17667.0,900.0,1049.2
+2019,New Mexico,35,"Sandoval County, NM",35043,Asian,Not Hispanic or Latino,12.0,2046.0,Unreliable,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Black or African American,Not Hispanic or Latino,17.0,3052.0,Unreliable,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,White,Hispanic or Latino,290.0,52369.0,553.8,658.5
+2019,New Mexico,35,"Sandoval County, NM",35043,White,Not Hispanic or Latino,745.0,62428.0,1193.4,714.1
+2019,New Mexico,35,"San Juan County, NM",35045,American Indian or Alaska Native,Not Hispanic or Latino,426.0,48030.0,886.9,994.3
+2019,New Mexico,35,"San Juan County, NM",35045,White,Hispanic or Latino,135.0,20606.0,655.1,772.9
+2019,New Mexico,35,"San Juan County, NM",35045,White,Not Hispanic or Latino,584.0,46423.0,1258.0,755.3
+2019,New Mexico,35,"San Juan County, NM",35045,More than one race,Not Hispanic or Latino,12.0,2582.0,Unreliable,Unreliable
+2019,New Mexico,35,"San Miguel County, NM",35047,White,Hispanic or Latino,227.0,19925.0,1139.3,877.0
+2019,New Mexico,35,"San Miguel County, NM",35047,White,Not Hispanic or Latino,60.0,4877.0,1230.3,580.3
+2019,New Mexico,35,"Santa Fe County, NM",35049,American Indian or Alaska Native,Not Hispanic or Latino,19.0,3760.0,Unreliable,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,White,Hispanic or Latino,559.0,71369.0,783.3,720.3
+2019,New Mexico,35,"Santa Fe County, NM",35049,White,Not Hispanic or Latino,710.0,64899.0,1094.0,531.7
+2019,New Mexico,35,"Sierra County, NM",35051,White,Hispanic or Latino,38.0,2998.0,1267.5,988.7
+2019,New Mexico,35,"Sierra County, NM",35051,White,Not Hispanic or Latino,166.0,6906.0,2403.7,927.5
+2019,New Mexico,35,"Socorro County, NM",35053,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2006.0,Unreliable,Unreliable
+2019,New Mexico,35,"Socorro County, NM",35053,White,Hispanic or Latino,79.0,7528.0,1049.4,882.8
+2019,New Mexico,35,"Socorro County, NM",35053,White,Not Hispanic or Latino,73.0,5576.0,1309.2,659.7
+2019,New Mexico,35,"Taos County, NM",35055,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1693.0,1240.4,1006.1
+2019,New Mexico,35,"Taos County, NM",35055,White,Hispanic or Latino,168.0,17030.0,986.5,720.1
+2019,New Mexico,35,"Taos County, NM",35055,White,Not Hispanic or Latino,103.0,11719.0,878.9,428.0
+2019,New Mexico,35,"Torrance County, NM",35057,White,Hispanic or Latino,42.0,6106.0,687.8,673.1
+2019,New Mexico,35,"Torrance County, NM",35057,White,Not Hispanic or Latino,115.0,7784.0,1477.4,894.2
+2019,New Mexico,35,"Union County, NM",35059,White,Hispanic or Latino,17.0,1593.0,Unreliable,Unreliable
+2019,New Mexico,35,"Union County, NM",35059,White,Not Hispanic or Latino,32.0,2099.0,1524.5,777.6
+2019,New Mexico,35,"Valencia County, NM",35061,American Indian or Alaska Native,Not Hispanic or Latino,17.0,3176.0,Unreliable,Unreliable
+2019,New Mexico,35,"Valencia County, NM",35061,White,Hispanic or Latino,340.0,43350.0,784.3,781.9
+2019,New Mexico,35,"Valencia County, NM",35061,White,Not Hispanic or Latino,374.0,24487.0,1527.3,849.6
+2020,New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Hispanic or Latino,38.0,15173.0,250.4,528.7
+2020,New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Not Hispanic or Latino,317.0,29321.0,1081.1,1331.8
+2020,New Mexico,35,"Bernalillo County, NM",35001,Asian,Not Hispanic or Latino,96.0,18424.0,521.1,522.5
+2020,New Mexico,35,"Bernalillo County, NM",35001,Black or African American,Hispanic or Latino,10.0,6831.0,Unreliable,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Black or African American,Not Hispanic or Latino,228.0,18141.0,1256.8,1311.5
+2020,New Mexico,35,"Bernalillo County, NM",35001,White,Hispanic or Latino,2817.0,310761.0,906.5,955.9
+2020,New Mexico,35,"Bernalillo County, NM",35001,White,Not Hispanic or Latino,3626.0,257477.0,1408.3,796.5
+2020,New Mexico,35,"Bernalillo County, NM",35001,White,Not Stated,26.0,Not Applicable,Not Applicable,Not Applicable
+2020,New Mexico,35,"Bernalillo County, NM",35001,More than one race,Hispanic or Latino,12.0,9542.0,Unreliable,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,More than one race,Not Hispanic or Latino,22.0,12822.0,171.6,299.5
+2020,New Mexico,35,"Catron County, NM",35003,White,Not Hispanic or Latino,33.0,2720.0,1213.2,547.0
+2020,New Mexico,35,"Chaves County, NM",35005,Black or African American,Not Hispanic or Latino,17.0,952.0,Unreliable,Unreliable
+2020,New Mexico,35,"Chaves County, NM",35005,White,Hispanic or Latino,327.0,35274.0,927.0,1132.6
+2020,New Mexico,35,"Chaves County, NM",35005,White,Not Hispanic or Latino,488.0,23996.0,2033.7,1146.3
+2020,New Mexico,35,"Cibola County, NM",35006,American Indian or Alaska Native,Not Hispanic or Latino,175.0,10451.0,1674.5,1559.9
+2020,New Mexico,35,"Cibola County, NM",35006,White,Hispanic or Latino,101.0,8604.0,1173.9,1038.0
+2020,New Mexico,35,"Cibola County, NM",35006,White,Not Hispanic or Latino,82.0,4859.0,1687.6,821.8
+2020,New Mexico,35,"Colfax County, NM",35007,White,Hispanic or Latino,91.0,5493.0,1656.7,1189.7
+2020,New Mexico,35,"Colfax County, NM",35007,White,Not Hispanic or Latino,89.0,5565.0,1599.3,707.3
+2020,New Mexico,35,"Curry County, NM",35009,Black or African American,Not Hispanic or Latino,25.0,2775.0,900.9,1122.9
+2020,New Mexico,35,"Curry County, NM",35009,White,Hispanic or Latino,138.0,19268.0,716.2,1043.9
+2020,New Mexico,35,"Curry County, NM",35009,White,Not Hispanic or Latino,298.0,22210.0,1341.7,949.0
+2020,New Mexico,35,"DeBaca County, NM",35011,White,Not Hispanic or Latino,27.0,856.0,3154.2,1210.3
+2020,New Mexico,35,"Dona Ana County, NM",35013,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1676.0,Unreliable,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Black or African American,Not Hispanic or Latino,32.0,3580.0,893.9,1018.2
+2020,New Mexico,35,"Dona Ana County, NM",35013,White,Hispanic or Latino,1252.0,143798.0,870.7,960.7
+2020,New Mexico,35,"Dona Ana County, NM",35013,White,Not Hispanic or Latino,974.0,58844.0,1655.2,861.8
+2020,New Mexico,35,"Eddy County, NM",35015,Black or African American,Not Hispanic or Latino,10.0,794.0,Unreliable,Unreliable
+2020,New Mexico,35,"Eddy County, NM",35015,White,Hispanic or Latino,246.0,28198.0,872.4,1104.3
+2020,New Mexico,35,"Eddy County, NM",35015,White,Not Hispanic or Latino,371.0,25751.0,1440.7,970.1
+2020,New Mexico,35,"Grant County, NM",35017,White,Hispanic or Latino,193.0,12548.0,1538.1,1074.9
+2020,New Mexico,35,"Grant County, NM",35017,White,Not Hispanic or Latino,237.0,12518.0,1893.3,882.8
+2020,New Mexico,35,"Guadalupe County, NM",35019,White,Hispanic or Latino,46.0,3169.0,1451.6,1066.1
+2020,New Mexico,35,"Guadalupe County, NM",35019,White,Not Hispanic or Latino,13.0,695.0,Unreliable,Unreliable
+2020,New Mexico,35,"Hidalgo County, NM",35023,White,Hispanic or Latino,31.0,2337.0,1326.5,1000.4
+2020,New Mexico,35,"Hidalgo County, NM",35023,White,Not Hispanic or Latino,32.0,1539.0,2079.3,869.2
+2020,New Mexico,35,"Lea County, NM",35025,Black or African American,Not Hispanic or Latino,31.0,2385.0,1299.8,1353.5
+2020,New Mexico,35,"Lea County, NM",35025,White,Hispanic or Latino,280.0,41905.0,668.2,1141.1
+2020,New Mexico,35,"Lea County, NM",35025,White,Not Hispanic or Latino,388.0,23657.0,1640.1,1102.8
+2020,New Mexico,35,"Lincoln County, NM",35027,White,Hispanic or Latino,53.0,6232.0,850.4,802.5
+2020,New Mexico,35,"Lincoln County, NM",35027,White,Not Hispanic or Latino,178.0,12004.0,1482.8,709.0
+2020,New Mexico,35,"Los Alamos County, NM",35028,White,Hispanic or Latino,22.0,3179.0,692.0,718.7
+2020,New Mexico,35,"Los Alamos County, NM",35028,White,Not Hispanic or Latino,114.0,13839.0,823.8,524.9
+2020,New Mexico,35,"Luna County, NM",35029,White,Hispanic or Latino,159.0,15306.0,1038.8,1090.7
+2020,New Mexico,35,"Luna County, NM",35029,White,Not Hispanic or Latino,226.0,6716.0,3365.1,1485.9
+2020,New Mexico,35,"McKinley County, NM",35031,American Indian or Alaska Native,Not Hispanic or Latino,1003.0,52380.0,1914.9,2010.0
+2020,New Mexico,35,"McKinley County, NM",35031,White,Hispanic or Latino,91.0,5613.0,1621.2,1289.6
+2020,New Mexico,35,"McKinley County, NM",35031,White,Not Hispanic or Latino,93.0,5729.0,1623.3,881.1
+2020,New Mexico,35,"McKinley County, NM",35031,More than one race,Not Hispanic or Latino,10.0,1301.0,Unreliable,Unreliable
+2020,New Mexico,35,"Mora County, NM",35033,White,Hispanic or Latino,37.0,3387.0,1092.4,680.0
+2020,New Mexico,35,"Mora County, NM",35033,White,Not Hispanic or Latino,11.0,770.0,Unreliable,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,American Indian or Alaska Native,Not Hispanic or Latino,53.0,4019.0,1318.7,1557.9
+2020,New Mexico,35,"Otero County, NM",35035,Black or African American,Not Hispanic or Latino,19.0,2299.0,Unreliable,Unreliable
+2020,New Mexico,35,"Otero County, NM",35035,White,Hispanic or Latino,172.0,23418.0,734.5,836.3
+2020,New Mexico,35,"Otero County, NM",35035,White,Not Hispanic or Latino,502.0,32474.0,1545.9,913.0
+2020,New Mexico,35,"Quay County, NM",35037,White,Hispanic or Latino,61.0,3470.0,1757.9,1668.4
+2020,New Mexico,35,"Quay County, NM",35037,White,Not Hispanic or Latino,97.0,3958.0,2450.7,1336.5
+2020,New Mexico,35,"Rio Arriba County, NM",35039,American Indian or Alaska Native,Not Hispanic or Latino,91.0,5417.0,1679.9,1759.8
+2020,New Mexico,35,"Rio Arriba County, NM",35039,White,Hispanic or Latino,343.0,24483.0,1401.0,1121.7
+2020,New Mexico,35,"Rio Arriba County, NM",35039,White,Not Hispanic or Latino,70.0,4914.0,1424.5,644.3
+2020,New Mexico,35,"Roosevelt County, NM",35041,White,Hispanic or Latino,64.0,7443.0,859.9,1322.1
+2020,New Mexico,35,"Roosevelt County, NM",35041,White,Not Hispanic or Latino,124.0,9163.0,1353.3,877.5
+2020,New Mexico,35,"Sandoval County, NM",35043,American Indian or Alaska Native,Not Hispanic or Latino,231.0,17548.0,1316.4,1445.5
+2020,New Mexico,35,"Sandoval County, NM",35043,Asian,Not Hispanic or Latino,13.0,2344.0,Unreliable,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Black or African American,Not Hispanic or Latino,34.0,3134.0,1084.9,955.5
+2020,New Mexico,35,"Sandoval County, NM",35043,White,Hispanic or Latino,349.0,53296.0,654.8,764.9
+2020,New Mexico,35,"Sandoval County, NM",35043,White,Not Hispanic or Latino,786.0,62530.0,1257.0,711.3
+2020,New Mexico,35,"San Juan County, NM",35045,American Indian or Alaska Native,Not Hispanic or Latino,668.0,47554.0,1404.7,1505.7
+2020,New Mexico,35,"San Juan County, NM",35045,Black or African American,Not Hispanic or Latino,11.0,639.0,Unreliable,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,White,Hispanic or Latino,163.0,20559.0,792.8,924.4
+2020,New Mexico,35,"San Juan County, NM",35045,White,Not Hispanic or Latino,679.0,45201.0,1502.2,877.4
+2020,New Mexico,35,"San Miguel County, NM",35047,White,Hispanic or Latino,230.0,19885.0,1156.7,908.7
+2020,New Mexico,35,"San Miguel County, NM",35047,White,Not Hispanic or Latino,64.0,4797.0,1334.2,500.2
+2020,New Mexico,35,"Santa Fe County, NM",35049,American Indian or Alaska Native,Not Hispanic or Latino,21.0,3832.0,548.0,545.7
+2020,New Mexico,35,"Santa Fe County, NM",35049,Asian,Not Hispanic or Latino,10.0,2129.0,Unreliable,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,White,Hispanic or Latino,654.0,71557.0,914.0,816.2
+2020,New Mexico,35,"Santa Fe County, NM",35049,White,Not Hispanic or Latino,743.0,65866.0,1128.0,553.9
+2020,New Mexico,35,"Sierra County, NM",35051,White,Hispanic or Latino,40.0,3091.0,1294.1,965.7
+2020,New Mexico,35,"Sierra County, NM",35051,White,Not Hispanic or Latino,254.0,6876.0,3694.0,1568.6
+2020,New Mexico,35,"Socorro County, NM",35053,American Indian or Alaska Native,Not Hispanic or Latino,42.0,1972.0,2129.8,2578.6
+2020,New Mexico,35,"Socorro County, NM",35053,White,Hispanic or Latino,105.0,7493.0,1401.3,1135.4
+2020,New Mexico,35,"Socorro County, NM",35053,White,Not Hispanic or Latino,71.0,5438.0,1305.6,765.0
+2020,New Mexico,35,"Taos County, NM",35055,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1672.0,1315.8,1078.6
+2020,New Mexico,35,"Taos County, NM",35055,White,Hispanic or Latino,216.0,16782.0,1287.1,909.8
+2020,New Mexico,35,"Taos County, NM",35055,White,Not Hispanic or Latino,162.0,11726.0,1381.5,680.6
+2020,New Mexico,35,"Torrance County, NM",35057,White,Hispanic or Latino,56.0,6191.0,904.5,908.9
+2020,New Mexico,35,"Torrance County, NM",35057,White,Not Hispanic or Latino,119.0,7642.0,1557.2,921.9
+2020,New Mexico,35,"Union County, NM",35059,White,Hispanic or Latino,24.0,1612.0,1488.8,1353.4
+2020,New Mexico,35,"Union County, NM",35059,White,Not Hispanic or Latino,35.0,2030.0,1724.1,914.3
+2020,New Mexico,35,"Valencia County, NM",35061,American Indian or Alaska Native,Not Hispanic or Latino,27.0,3218.0,839.0,903.9
+2020,New Mexico,35,"Valencia County, NM",35061,White,Hispanic or Latino,413.0,43762.0,943.7,930.9
+2020,New Mexico,35,"Valencia County, NM",35061,White,Not Hispanic or Latino,392.0,24364.0,1608.9,897.1
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Hispanic or Latino,36.0,15173.0,237.3,728.5
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Not Hispanic or Latino,354.0,29321.0,1207.3,1436.2
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Asian,Not Hispanic or Latino,86.0,18424.0,466.8,452.7
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Black or African American,Hispanic or Latino,15.0,6831.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,Black or African American,Not Hispanic or Latino,220.0,18141.0,1212.7,1234.4
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,White,Hispanic or Latino,2953.0,310761.0,950.2,988.2
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,White,Not Hispanic or Latino,3539.0,257477.0,1374.5,780.2
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,White,Not Stated,33.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,More than one race,Hispanic or Latino,18.0,9542.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Bernalillo County, NM",35001,More than one race,Not Hispanic or Latino,42.0,12822.0,327.6,602.7
+2021 (provisional),New Mexico,35,"Catron County, NM",35003,White,Hispanic or Latino,15.0,597.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Catron County, NM",35003,White,Not Hispanic or Latino,51.0,2720.0,1875.0,770.4
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,Black or African American,Not Hispanic or Latino,14.0,952.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,White,Hispanic or Latino,346.0,35274.0,980.9,1161.9
+2021 (provisional),New Mexico,35,"Chaves County, NM",35005,White,Not Hispanic or Latino,463.0,23996.0,1929.5,1075.0
+2021 (provisional),New Mexico,35,"Cibola County, NM",35006,American Indian or Alaska Native,Not Hispanic or Latino,176.0,10451.0,1684.0,1618.6
+2021 (provisional),New Mexico,35,"Cibola County, NM",35006,White,Hispanic or Latino,107.0,8604.0,1243.6,1116.0
+2021 (provisional),New Mexico,35,"Cibola County, NM",35006,White,Not Hispanic or Latino,98.0,4859.0,2016.9,1081.2
+2021 (provisional),New Mexico,35,"Colfax County, NM",35007,White,Hispanic or Latino,82.0,5493.0,1492.8,1121.6
+2021 (provisional),New Mexico,35,"Colfax County, NM",35007,White,Not Hispanic or Latino,89.0,5565.0,1599.3,793.8
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,Black or African American,Not Hispanic or Latino,25.0,2775.0,900.9,1060.9
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,White,Hispanic or Latino,168.0,19268.0,871.9,1229.1
+2021 (provisional),New Mexico,35,"Curry County, NM",35009,White,Not Hispanic or Latino,344.0,22210.0,1548.9,1147.1
+2021 (provisional),New Mexico,35,"DeBaca County, NM",35011,White,Hispanic or Latino,13.0,682.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"DeBaca County, NM",35011,White,Not Hispanic or Latino,22.0,856.0,2570.1,1261.2
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Asian,Not Hispanic or Latino,10.0,2450.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,Black or African American,Not Hispanic or Latino,30.0,3580.0,838.0,1039.5
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,White,Hispanic or Latino,1209.0,143798.0,840.8,929.6
+2021 (provisional),New Mexico,35,"Dona Ana County, NM",35013,White,Not Hispanic or Latino,1029.0,58844.0,1748.7,928.8
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,Black or African American,Not Hispanic or Latino,14.0,794.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,White,Hispanic or Latino,314.0,28198.0,1113.6,1360.6
+2021 (provisional),New Mexico,35,"Eddy County, NM",35015,White,Not Hispanic or Latino,439.0,25751.0,1704.8,1174.2
+2021 (provisional),New Mexico,35,"Grant County, NM",35017,White,Hispanic or Latino,166.0,12548.0,1322.9,1032.7
+2021 (provisional),New Mexico,35,"Grant County, NM",35017,White,Not Hispanic or Latino,249.0,12518.0,1989.1,934.2
+2021 (provisional),New Mexico,35,"Guadalupe County, NM",35019,White,Hispanic or Latino,48.0,3169.0,1514.7,1148.7
+2021 (provisional),New Mexico,35,"Hidalgo County, NM",35023,White,Hispanic or Latino,29.0,2337.0,1240.9,975.4
+2021 (provisional),New Mexico,35,"Hidalgo County, NM",35023,White,Not Hispanic or Latino,32.0,1539.0,2079.3,989.5
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,Black or African American,Not Hispanic or Latino,44.0,2385.0,1844.9,1912.3
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,White,Hispanic or Latino,299.0,41905.0,713.5,1135.6
+2021 (provisional),New Mexico,35,"Lea County, NM",35025,White,Not Hispanic or Latino,396.0,23657.0,1673.9,1177.7
+2021 (provisional),New Mexico,35,"Lincoln County, NM",35027,White,Hispanic or Latino,71.0,6232.0,1139.3,1072.6
+2021 (provisional),New Mexico,35,"Lincoln County, NM",35027,White,Not Hispanic or Latino,234.0,12004.0,1949.4,923.8
+2021 (provisional),New Mexico,35,"Los Alamos County, NM",35028,White,Hispanic or Latino,21.0,3179.0,660.6,660.2
+2021 (provisional),New Mexico,35,"Los Alamos County, NM",35028,White,Not Hispanic or Latino,110.0,13839.0,794.9,498.5
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,White,Hispanic or Latino,189.0,15306.0,1234.8,1276.5
+2021 (provisional),New Mexico,35,"Luna County, NM",35029,White,Not Hispanic or Latino,220.0,6716.0,3275.8,1512.9
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,American Indian or Alaska Native,Not Hispanic or Latino,820.0,52380.0,1565.5,1651.3
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,White,Hispanic or Latino,79.0,5613.0,1407.4,1120.7
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,White,Not Hispanic or Latino,82.0,5729.0,1431.3,786.3
+2021 (provisional),New Mexico,35,"McKinley County, NM",35031,More than one race,Not Hispanic or Latino,12.0,1301.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Mora County, NM",35033,White,Hispanic or Latino,46.0,3387.0,1358.1,972.3
+2021 (provisional),New Mexico,35,"Mora County, NM",35033,White,Not Hispanic or Latino,10.0,770.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,American Indian or Alaska Native,Not Hispanic or Latino,76.0,4019.0,1891.0,2091.7
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,Black or African American,Not Hispanic or Latino,29.0,2299.0,1261.4,1238.4
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,White,Hispanic or Latino,218.0,23418.0,930.9,1038.8
+2021 (provisional),New Mexico,35,"Otero County, NM",35035,White,Not Hispanic or Latino,505.0,32474.0,1555.1,886.4
+2021 (provisional),New Mexico,35,"Quay County, NM",35037,White,Hispanic or Latino,63.0,3470.0,1815.6,1654.6
+2021 (provisional),New Mexico,35,"Quay County, NM",35037,White,Not Hispanic or Latino,108.0,3958.0,2728.7,1372.9
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,American Indian or Alaska Native,Not Hispanic or Latino,85.0,5417.0,1569.1,1529.3
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,White,Hispanic or Latino,417.0,24483.0,1703.2,1312.8
+2021 (provisional),New Mexico,35,"Rio Arriba County, NM",35039,White,Not Hispanic or Latino,77.0,4914.0,1567.0,810.5
+2021 (provisional),New Mexico,35,"Roosevelt County, NM",35041,White,Hispanic or Latino,56.0,7443.0,752.4,1122.7
+2021 (provisional),New Mexico,35,"Roosevelt County, NM",35041,White,Not Hispanic or Latino,161.0,9163.0,1757.1,1173.1
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,American Indian or Alaska Native,Not Hispanic or Latino,236.0,17548.0,1344.9,1503.5
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Asian,Not Hispanic or Latino,16.0,2344.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,Black or African American,Not Hispanic or Latino,16.0,3134.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,White,Hispanic or Latino,402.0,53296.0,754.3,859.5
+2021 (provisional),New Mexico,35,"Sandoval County, NM",35043,White,Not Hispanic or Latino,845.0,62530.0,1351.4,774.0
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,American Indian or Alaska Native,Not Hispanic or Latino,724.0,47554.0,1522.5,1595.3
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,White,Hispanic or Latino,205.0,20559.0,997.1,1132.4
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,White,Not Hispanic or Latino,729.0,45201.0,1612.8,980.7
+2021 (provisional),New Mexico,35,"San Juan County, NM",35045,More than one race,Not Hispanic or Latino,14.0,2598.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"San Miguel County, NM",35047,White,Hispanic or Latino,300.0,19885.0,1508.7,1135.3
+2021 (provisional),New Mexico,35,"San Miguel County, NM",35047,White,Not Hispanic or Latino,82.0,4797.0,1709.4,852.0
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,American Indian or Alaska Native,Not Hispanic or Latino,38.0,3832.0,991.6,987.4
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Asian,Not Hispanic or Latino,14.0,2129.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,Black or African American,Not Hispanic or Latino,11.0,1308.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,White,Hispanic or Latino,693.0,71557.0,968.5,874.5
+2021 (provisional),New Mexico,35,"Santa Fe County, NM",35049,White,Not Hispanic or Latino,801.0,65866.0,1216.1,584.3
+2021 (provisional),New Mexico,35,"Sierra County, NM",35051,White,Hispanic or Latino,44.0,3091.0,1423.5,1142.8
+2021 (provisional),New Mexico,35,"Sierra County, NM",35051,White,Not Hispanic or Latino,220.0,6876.0,3199.5,1340.0
+2021 (provisional),New Mexico,35,"Socorro County, NM",35053,American Indian or Alaska Native,Not Hispanic or Latino,25.0,1972.0,1267.7,1491.6
+2021 (provisional),New Mexico,35,"Socorro County, NM",35053,White,Hispanic or Latino,108.0,7493.0,1441.3,1236.3
+2021 (provisional),New Mexico,35,"Socorro County, NM",35053,White,Not Hispanic or Latino,79.0,5438.0,1452.7,841.2
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1672.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,White,Hispanic or Latino,248.0,16782.0,1477.8,1049.6
+2021 (provisional),New Mexico,35,"Taos County, NM",35055,White,Not Hispanic or Latino,151.0,11726.0,1287.7,650.3
+2021 (provisional),New Mexico,35,"Torrance County, NM",35057,White,Hispanic or Latino,82.0,6191.0,1324.5,1324.9
+2021 (provisional),New Mexico,35,"Torrance County, NM",35057,White,Not Hispanic or Latino,144.0,7642.0,1884.3,1073.3
+2021 (provisional),New Mexico,35,"Union County, NM",35059,White,Hispanic or Latino,18.0,1612.0,Unreliable,Unreliable
+2021 (provisional),New Mexico,35,"Union County, NM",35059,White,Not Hispanic or Latino,37.0,2030.0,1822.7,955.9
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,American Indian or Alaska Native,Not Hispanic or Latino,25.0,3218.0,776.9,813.6
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,White,Hispanic or Latino,452.0,43762.0,1032.9,1007.7
+2021 (provisional),New Mexico,35,"Valencia County, NM",35061,White,Not Hispanic or Latino,455.0,24364.0,1867.5,1069.9
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,American Indian or Alaska Native,Not Hispanic or Latino,33.0,29321.0,112.5,141.2
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Asian,Not Hispanic or Latino,14.0,18424.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,Black or African American,Not Hispanic or Latino,25.0,18141.0,137.8,139.6
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,White,Hispanic or Latino,372.0,310761.0,119.7,126.2
+2022 (provisional and partial),New Mexico,35,"Bernalillo County, NM",35001,White,Not Hispanic or Latino,474.0,257477.0,184.1,101.9
+2022 (provisional and partial),New Mexico,35,"Catron County, NM",35003,White,Not Hispanic or Latino,13.0,2720.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Chaves County, NM",35005,White,Hispanic or Latino,44.0,35274.0,124.7,156.2
+2022 (provisional and partial),New Mexico,35,"Chaves County, NM",35005,White,Not Hispanic or Latino,68.0,23996.0,283.4,156.2
+2022 (provisional and partial),New Mexico,35,"Cibola County, NM",35006,American Indian or Alaska Native,Not Hispanic or Latino,17.0,10451.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Cibola County, NM",35006,White,Hispanic or Latino,13.0,8604.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Cibola County, NM",35006,White,Not Hispanic or Latino,12.0,4859.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Colfax County, NM",35007,White,Not Hispanic or Latino,15.0,5565.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Curry County, NM",35009,White,Hispanic or Latino,22.0,19268.0,114.2,166.0
+2022 (provisional and partial),New Mexico,35,"Curry County, NM",35009,White,Not Hispanic or Latino,50.0,22210.0,225.1,176.1
+2022 (provisional and partial),New Mexico,35,"Dona Ana County, NM",35013,White,Hispanic or Latino,159.0,143798.0,110.6,123.0
+2022 (provisional and partial),New Mexico,35,"Dona Ana County, NM",35013,White,Not Hispanic or Latino,140.0,58844.0,237.9,126.5
+2022 (provisional and partial),New Mexico,35,"Eddy County, NM",35015,White,Hispanic or Latino,39.0,28198.0,138.3,172.1
+2022 (provisional and partial),New Mexico,35,"Eddy County, NM",35015,White,Not Hispanic or Latino,60.0,25751.0,233.0,160.0
+2022 (provisional and partial),New Mexico,35,"Grant County, NM",35017,White,Hispanic or Latino,23.0,12548.0,183.3,134.7
+2022 (provisional and partial),New Mexico,35,"Grant County, NM",35017,White,Not Hispanic or Latino,26.0,12518.0,207.7,110.0
+2022 (provisional and partial),New Mexico,35,"Guadalupe County, NM",35019,White,Hispanic or Latino,11.0,3169.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Lea County, NM",35025,White,Hispanic or Latino,39.0,41905.0,93.1,147.4
+2022 (provisional and partial),New Mexico,35,"Lea County, NM",35025,White,Not Hispanic or Latino,64.0,23657.0,270.5,192.5
+2022 (provisional and partial),New Mexico,35,"Lincoln County, NM",35027,White,Not Hispanic or Latino,32.0,12004.0,266.6,109.5
+2022 (provisional and partial),New Mexico,35,"Los Alamos County, NM",35028,White,Not Hispanic or Latino,21.0,13839.0,151.7,103.8
+2022 (provisional and partial),New Mexico,35,"Luna County, NM",35029,White,Hispanic or Latino,20.0,15306.0,130.7,148.5
+2022 (provisional and partial),New Mexico,35,"Luna County, NM",35029,White,Not Hispanic or Latino,27.0,6716.0,402.0,209.9
+2022 (provisional and partial),New Mexico,35,"McKinley County, NM",35031,American Indian or Alaska Native,Not Hispanic or Latino,66.0,52380.0,126.0,131.7
+2022 (provisional and partial),New Mexico,35,"McKinley County, NM",35031,White,Hispanic or Latino,10.0,5613.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Otero County, NM",35035,White,Hispanic or Latino,24.0,23418.0,102.5,113.8
+2022 (provisional and partial),New Mexico,35,"Otero County, NM",35035,White,Not Hispanic or Latino,71.0,32474.0,218.6,129.4
+2022 (provisional and partial),New Mexico,35,"Quay County, NM",35037,White,Hispanic or Latino,13.0,3470.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Rio Arriba County, NM",35039,American Indian or Alaska Native,Not Hispanic or Latino,10.0,5417.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Rio Arriba County, NM",35039,White,Hispanic or Latino,62.0,24483.0,253.2,188.6
+2022 (provisional and partial),New Mexico,35,"Roosevelt County, NM",35041,White,Hispanic or Latino,12.0,7443.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Roosevelt County, NM",35041,White,Not Hispanic or Latino,20.0,9163.0,218.3,131.7
+2022 (provisional and partial),New Mexico,35,"Sandoval County, NM",35043,American Indian or Alaska Native,Not Hispanic or Latino,16.0,17548.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Sandoval County, NM",35043,White,Hispanic or Latino,53.0,53296.0,99.4,112.2
+2022 (provisional and partial),New Mexico,35,"Sandoval County, NM",35043,White,Not Hispanic or Latino,101.0,62530.0,161.5,87.6
+2022 (provisional and partial),New Mexico,35,"San Juan County, NM",35045,American Indian or Alaska Native,Not Hispanic or Latino,88.0,47554.0,185.1,199.4
+2022 (provisional and partial),New Mexico,35,"San Juan County, NM",35045,White,Hispanic or Latino,27.0,20559.0,131.3,149.7
+2022 (provisional and partial),New Mexico,35,"San Juan County, NM",35045,White,Not Hispanic or Latino,82.0,45201.0,181.4,109.5
+2022 (provisional and partial),New Mexico,35,"San Miguel County, NM",35047,White,Hispanic or Latino,46.0,19885.0,231.3,181.9
+2022 (provisional and partial),New Mexico,35,"San Miguel County, NM",35047,White,Not Hispanic or Latino,11.0,4797.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Santa Fe County, NM",35049,White,Hispanic or Latino,97.0,71557.0,135.6,121.7
+2022 (provisional and partial),New Mexico,35,"Santa Fe County, NM",35049,White,Not Hispanic or Latino,109.0,65866.0,165.5,69.9
+2022 (provisional and partial),New Mexico,35,"Sierra County, NM",35051,White,Not Hispanic or Latino,24.0,6876.0,349.0,138.1
+2022 (provisional and partial),New Mexico,35,"Socorro County, NM",35053,White,Hispanic or Latino,11.0,7493.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Socorro County, NM",35053,White,Not Hispanic or Latino,14.0,5438.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Taos County, NM",35055,White,Hispanic or Latino,29.0,16782.0,172.8,117.1
+2022 (provisional and partial),New Mexico,35,"Taos County, NM",35055,White,Not Hispanic or Latino,24.0,11726.0,204.7,92.0
+2022 (provisional and partial),New Mexico,35,"Torrance County, NM",35057,White,Not Hispanic or Latino,18.0,7642.0,Unreliable,Unreliable
+2022 (provisional and partial),New Mexico,35,"Valencia County, NM",35061,White,Hispanic or Latino,58.0,43762.0,132.5,129.5
+2022 (provisional and partial),New Mexico,35,"Valencia County, NM",35061,White,Not Hispanic or Latino,61.0,24364.0,250.4,133.6

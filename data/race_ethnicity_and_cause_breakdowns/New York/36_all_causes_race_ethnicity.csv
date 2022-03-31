@@ -1,0 +1,961 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,New York,36,"Albany County, NY",36001,Asian,Not Hispanic or Latino,44.0,20640.0,213.2,399.1
+2018,New York,36,"Albany County, NY",36001,Black or African American,Not Hispanic or Latino,271.0,39292.0,689.7,798.2
+2018,New York,36,"Albany County, NY",36001,White,Hispanic or Latino,29.0,12539.0,231.3,400.8
+2018,New York,36,"Albany County, NY",36001,White,Not Hispanic or Latino,2454.0,220533.0,1112.8,695.9
+2018,New York,36,"Albany County, NY",36001,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Allegany County, NY",36003,White,Not Hispanic or Latino,518.0,43781.0,1183.2,856.2
+2018,New York,36,"Bronx County, NY",36005,Asian,Not Hispanic or Latino,206.0,57014.0,361.3,392.4
+2018,New York,36,"Bronx County, NY",36005,Asian,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Bronx County, NY",36005,Black or African American,Hispanic or Latino,306.0,206294.0,148.3,179.7
+2018,New York,36,"Bronx County, NY",36005,Black or African American,Not Hispanic or Latino,3289.0,418506.0,785.9,745.6
+2018,New York,36,"Bronx County, NY",36005,Black or African American,Not Stated,167.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Bronx County, NY",36005,White,Hispanic or Latino,3522.0,511843.0,688.1,763.5
+2018,New York,36,"Bronx County, NY",36005,White,Not Hispanic or Latino,2086.0,130764.0,1595.2,753.1
+2018,New York,36,"Bronx County, NY",36005,White,Not Stated,174.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Bronx County, NY",36005,More than one race,Not Hispanic or Latino,12.0,14091.0,Unreliable,Unreliable
+2018,New York,36,"Broome County, NY",36007,Black or African American,Not Hispanic or Latino,62.0,10483.0,591.4,952.1
+2018,New York,36,"Broome County, NY",36007,White,Hispanic or Latino,23.0,5793.0,397.0,635.0
+2018,New York,36,"Broome County, NY",36007,White,Not Hispanic or Latino,2036.0,159071.0,1279.9,754.9
+2018,New York,36,"Cattaraugus County, NY",36009,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2513.0,835.7,878.8
+2018,New York,36,"Cattaraugus County, NY",36009,White,Not Hispanic or Latino,860.0,69458.0,1238.2,834.8
+2018,New York,36,"Cayuga County, NY",36011,Black or African American,Not Hispanic or Latino,15.0,3059.0,Unreliable,Unreliable
+2018,New York,36,"Cayuga County, NY",36011,White,Not Hispanic or Latino,792.0,69454.0,1140.3,743.3
+2018,New York,36,"Chautauqua County, NY",36013,Black or African American,Not Hispanic or Latino,24.0,2736.0,877.2,1158.1
+2018,New York,36,"Chautauqua County, NY",36013,White,Hispanic or Latino,47.0,8342.0,563.4,1139.5
+2018,New York,36,"Chautauqua County, NY",36013,White,Not Hispanic or Latino,1507.0,111462.0,1352.0,824.8
+2018,New York,36,"Chemung County, NY",36015,Black or African American,Not Hispanic or Latino,39.0,5077.0,768.2,859.2
+2018,New York,36,"Chemung County, NY",36015,White,Hispanic or Latino,10.0,1844.0,Unreliable,Unreliable
+2018,New York,36,"Chemung County, NY",36015,White,Not Hispanic or Latino,953.0,72612.0,1312.5,844.6
+2018,New York,36,"Chenango County, NY",36017,White,Not Hispanic or Latino,580.0,44955.0,1290.2,867.8
+2018,New York,36,"Clinton County, NY",36019,Black or African American,Not Hispanic or Latino,12.0,3264.0,Unreliable,Unreliable
+2018,New York,36,"Clinton County, NY",36019,White,Not Hispanic or Latino,753.0,72470.0,1039.1,761.1
+2018,New York,36,"Columbia County, NY",36021,Black or African American,Not Hispanic or Latino,25.0,2802.0,892.2,841.7
+2018,New York,36,"Columbia County, NY",36021,White,Not Hispanic or Latino,645.0,51736.0,1246.7,684.9
+2018,New York,36,"Cortland County, NY",36023,White,Not Hispanic or Latino,428.0,44222.0,967.8,763.1
+2018,New York,36,"Delaware County, NY",36025,White,Not Hispanic or Latino,551.0,40928.0,1346.3,792.4
+2018,New York,36,"Dutchess County, NY",36027,Asian,Not Hispanic or Latino,35.0,10842.0,322.8,320.7
+2018,New York,36,"Dutchess County, NY",36027,Black or African American,Not Hispanic or Latino,219.0,30698.0,713.4,784.8
+2018,New York,36,"Dutchess County, NY",36027,White,Hispanic or Latino,114.0,29462.0,386.9,636.3
+2018,New York,36,"Dutchess County, NY",36027,White,Not Hispanic or Latino,2306.0,209066.0,1103.0,701.3
+2018,New York,36,"Erie County, NY",36029,American Indian or Alaska Native,Not Hispanic or Latino,44.0,5190.0,847.8,789.9
+2018,New York,36,"Erie County, NY",36029,Asian,Not Hispanic or Latino,76.0,33741.0,225.2,416.9
+2018,New York,36,"Erie County, NY",36029,Black or African American,Not Hispanic or Latino,1206.0,120415.0,1001.5,1012.9
+2018,New York,36,"Erie County, NY",36029,White,Hispanic or Latino,197.0,39139.0,503.3,735.2
+2018,New York,36,"Erie County, NY",36029,White,Not Hispanic or Latino,8316.0,691721.0,1202.2,746.4
+2018,New York,36,"Erie County, NY",36029,More than one race,Not Hispanic or Latino,10.0,16003.0,Unreliable,Unreliable
+2018,New York,36,"Essex County, NY",36031,White,Not Hispanic or Latino,397.0,34423.0,1153.3,660.7
+2018,New York,36,"Franklin County, NY",36033,American Indian or Alaska Native,Not Hispanic or Latino,32.0,3682.0,869.1,814.0
+2018,New York,36,"Franklin County, NY",36033,White,Not Hispanic or Latino,414.0,41105.0,1007.2,727.6
+2018,New York,36,"Fulton County, NY",36035,White,Not Hispanic or Latino,588.0,49564.0,1186.3,779.0
+2018,New York,36,"Genesee County, NY",36037,Black or African American,Not Hispanic or Latino,18.0,1588.0,Unreliable,Unreliable
+2018,New York,36,"Genesee County, NY",36037,White,Not Hispanic or Latino,616.0,51966.0,1185.4,786.1
+2018,New York,36,"Greene County, NY",36039,Black or African American,Not Hispanic or Latino,18.0,2652.0,Unreliable,Unreliable
+2018,New York,36,"Greene County, NY",36039,White,Not Hispanic or Latino,519.0,40357.0,1286.0,794.9
+2018,New York,36,"Hamilton County, NY",36041,White,Not Hispanic or Latino,61.0,4204.0,1451.0,691.4
+2018,New York,36,"Herkimer County, NY",36043,White,Not Hispanic or Latino,675.0,58400.0,1155.8,733.4
+2018,New York,36,"Jefferson County, NY",36045,Black or African American,Not Hispanic or Latino,12.0,6946.0,Unreliable,Unreliable
+2018,New York,36,"Jefferson County, NY",36045,White,Hispanic or Latino,10.0,6935.0,Unreliable,Unreliable
+2018,New York,36,"Jefferson County, NY",36045,White,Not Hispanic or Latino,902.0,90776.0,993.7,812.9
+2018,New York,36,"Kings County, NY",36047,Asian,Not Hispanic or Latino,1088.0,321729.0,338.2,366.3
+2018,New York,36,"Kings County, NY",36047,Asian,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Kings County, NY",36047,Black or African American,Hispanic or Latino,264.0,107755.0,245.0,369.8
+2018,New York,36,"Kings County, NY",36047,Black or African American,Not Hispanic or Latino,5774.0,773541.0,746.4,640.3
+2018,New York,36,"Kings County, NY",36047,Black or African American,Not Stated,154.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Kings County, NY",36047,White,Hispanic or Latino,1994.0,337952.0,590.0,654.5
+2018,New York,36,"Kings County, NY",36047,White,Not Hispanic or Latino,6500.0,940818.0,690.9,531.7
+2018,New York,36,"Kings County, NY",36047,White,Not Stated,185.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Kings County, NY",36047,More than one race,Not Hispanic or Latino,21.0,48613.0,43.2,84.7
+2018,New York,36,"Lewis County, NY",36049,White,Not Hispanic or Latino,243.0,25333.0,959.2,681.3
+2018,New York,36,"Livingston County, NY",36051,White,Not Hispanic or Latino,567.0,57374.0,988.3,697.5
+2018,New York,36,"Madison County, NY",36053,White,Not Hispanic or Latino,596.0,65870.0,904.8,645.0
+2018,New York,36,"Monroe County, NY",36055,Asian,Not Hispanic or Latino,55.0,26982.0,203.8,284.9
+2018,New York,36,"Monroe County, NY",36055,Black or African American,Hispanic or Latino,11.0,11982.0,Unreliable,Unreliable
+2018,New York,36,"Monroe County, NY",36055,Black or African American,Not Hispanic or Latino,833.0,108599.0,767.0,904.3
+2018,New York,36,"Monroe County, NY",36055,White,Hispanic or Latino,207.0,48918.0,423.2,672.2
+2018,New York,36,"Monroe County, NY",36055,White,Not Hispanic or Latino,5661.0,521782.0,1084.9,677.0
+2018,New York,36,"Monroe County, NY",36055,More than one race,Not Hispanic or Latino,15.0,16184.0,Unreliable,Unreliable
+2018,New York,36,"Montgomery County, NY",36057,White,Hispanic or Latino,27.0,6244.0,432.4,719.5
+2018,New York,36,"Montgomery County, NY",36057,White,Not Hispanic or Latino,561.0,39816.0,1409.0,871.1
+2018,New York,36,"Nassau County, NY",36059,Asian,Not Hispanic or Latino,402.0,139495.0,288.2,330.0
+2018,New York,36,"Nassau County, NY",36059,Black or African American,Hispanic or Latino,15.0,18389.0,Unreliable,Unreliable
+2018,New York,36,"Nassau County, NY",36059,Black or African American,Not Hispanic or Latino,1102.0,158018.0,697.4,650.9
+2018,New York,36,"Nassau County, NY",36059,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Nassau County, NY",36059,White,Hispanic or Latino,628.0,198817.0,315.9,442.0
+2018,New York,36,"Nassau County, NY",36059,White,Not Hispanic or Latino,8794.0,805957.0,1091.1,585.5
+2018,New York,36,"Nassau County, NY",36059,White,Not Stated,69.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Nassau County, NY",36059,More than one race,Not Hispanic or Latino,11.0,18695.0,Unreliable,Unreliable
+2018,New York,36,"New York County, NY",36061,Asian,Not Hispanic or Latino,878.0,203602.0,431.2,357.4
+2018,New York,36,"New York County, NY",36061,Asian,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"New York County, NY",36061,Black or African American,Hispanic or Latino,199.0,89208.0,223.1,181.7
+2018,New York,36,"New York County, NY",36061,Black or African American,Not Hispanic or Latino,2270.0,202883.0,1118.9,865.0
+2018,New York,36,"New York County, NY",36061,Black or African American,Not Stated,101.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"New York County, NY",36061,White,Hispanic or Latino,2201.0,285324.0,771.4,642.4
+2018,New York,36,"New York County, NY",36061,White,Not Hispanic or Latino,4375.0,765212.0,571.7,397.6
+2018,New York,36,"New York County, NY",36061,White,Not Stated,226.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"New York County, NY",36061,More than one race,Not Hispanic or Latino,10.0,33085.0,Unreliable,Unreliable
+2018,New York,36,"Niagara County, NY",36063,American Indian or Alaska Native,Not Hispanic or Latino,19.0,2140.0,Unreliable,Unreliable
+2018,New York,36,"Niagara County, NY",36063,Black or African American,Not Hispanic or Latino,151.0,14796.0,1020.5,1087.5
+2018,New York,36,"Niagara County, NY",36063,White,Hispanic or Latino,19.0,5130.0,Unreliable,Unreliable
+2018,New York,36,"Niagara County, NY",36063,White,Not Hispanic or Latino,2195.0,179555.0,1222.5,783.9
+2018,New York,36,"Oneida County, NY",36065,Asian,Not Hispanic or Latino,31.0,9388.0,330.2,616.0
+2018,New York,36,"Oneida County, NY",36065,Black or African American,Not Hispanic or Latino,91.0,14052.0,647.6,894.6
+2018,New York,36,"Oneida County, NY",36065,White,Hispanic or Latino,52.0,10394.0,500.3,863.4
+2018,New York,36,"Oneida County, NY",36065,White,Not Hispanic or Latino,2392.0,187252.0,1277.4,762.0
+2018,New York,36,"Oneida County, NY",36065,White,Not Stated,17.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Onondaga County, NY",36067,American Indian or Alaska Native,Not Hispanic or Latino,31.0,3447.0,899.3,848.9
+2018,New York,36,"Onondaga County, NY",36067,Asian,Not Hispanic or Latino,45.0,17686.0,254.4,443.8
+2018,New York,36,"Onondaga County, NY",36067,Black or African American,Not Hispanic or Latino,355.0,50385.0,704.6,904.5
+2018,New York,36,"Onondaga County, NY",36067,White,Hispanic or Latino,60.0,15777.0,380.3,629.1
+2018,New York,36,"Onondaga County, NY",36067,White,Not Hispanic or Latino,3764.0,353879.0,1063.6,680.0
+2018,New York,36,"Onondaga County, NY",36067,More than one race,Not Hispanic or Latino,12.0,12839.0,Unreliable,Unreliable
+2018,New York,36,"Ontario County, NY",36069,Black or African American,Not Hispanic or Latino,17.0,2479.0,Unreliable,Unreliable
+2018,New York,36,"Ontario County, NY",36069,White,Hispanic or Latino,17.0,4265.0,Unreliable,Unreliable
+2018,New York,36,"Ontario County, NY",36069,White,Not Hispanic or Latino,1064.0,98515.0,1080.0,716.9
+2018,New York,36,"Orange County, NY",36071,Asian,Not Hispanic or Latino,17.0,10575.0,Unreliable,Unreliable
+2018,New York,36,"Orange County, NY",36071,Black or African American,Not Hispanic or Latino,259.0,39714.0,652.2,828.2
+2018,New York,36,"Orange County, NY",36071,White,Hispanic or Latino,217.0,63650.0,340.9,532.5
+2018,New York,36,"Orange County, NY",36071,White,Not Hispanic or Latino,2300.0,242727.0,947.6,722.3
+2018,New York,36,"Orange County, NY",36071,More than one race,Not Hispanic or Latino,10.0,7821.0,Unreliable,Unreliable
+2018,New York,36,"Orleans County, NY",36073,Black or African American,Not Hispanic or Latino,15.0,2412.0,Unreliable,Unreliable
+2018,New York,36,"Orleans County, NY",36073,White,Not Hispanic or Latino,374.0,35026.0,1067.8,756.7
+2018,New York,36,"Oswego County, NY",36075,White,Not Hispanic or Latino,1069.0,110669.0,965.9,777.7
+2018,New York,36,"Otsego County, NY",36077,White,Not Hispanic or Latino,605.0,54434.0,1111.4,691.6
+2018,New York,36,"Putnam County, NY",36079,White,Hispanic or Latino,36.0,13581.0,265.1,410.3
+2018,New York,36,"Putnam County, NY",36079,White,Not Hispanic or Latino,642.0,76994.0,833.8,563.5
+2018,New York,36,"Queens County, NY",36081,Asian,Not Hispanic or Latino,2302.0,602101.0,382.3,361.5
+2018,New York,36,"Queens County, NY",36081,Asian,Not Stated,36.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Queens County, NY",36081,Black or African American,Hispanic or Latino,98.0,62674.0,156.4,209.9
+2018,New York,36,"Queens County, NY",36081,Black or African American,Not Hispanic or Latino,3137.0,409233.0,766.6,636.1
+2018,New York,36,"Queens County, NY",36081,Black or African American,Not Stated,105.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Queens County, NY",36081,White,Hispanic or Latino,2013.0,521884.0,385.7,433.9
+2018,New York,36,"Queens County, NY",36081,White,Not Hispanic or Latino,6643.0,570351.0,1164.7,599.4
+2018,New York,36,"Queens County, NY",36081,White,Not Stated,263.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Queens County, NY",36081,More than one race,Not Hispanic or Latino,19.0,47162.0,Unreliable,Unreliable
+2018,New York,36,"Rensselaer County, NY",36083,Black or African American,Not Hispanic or Latino,75.0,11064.0,677.9,945.7
+2018,New York,36,"Rensselaer County, NY",36083,White,Hispanic or Latino,25.0,5762.0,433.9,789.9
+2018,New York,36,"Rensselaer County, NY",36083,White,Not Hispanic or Latino,1384.0,131961.0,1048.8,741.8
+2018,New York,36,"Richmond County, NY",36085,Asian,Not Hispanic or Latino,159.0,47344.0,335.8,354.1
+2018,New York,36,"Richmond County, NY",36085,Asian,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Richmond County, NY",36085,Black or African American,Not Hispanic or Latino,241.0,44914.0,536.6,614.2
+2018,New York,36,"Richmond County, NY",36085,Black or African American,Not Stated,65.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Richmond County, NY",36085,White,Hispanic or Latino,289.0,71084.0,406.6,591.2
+2018,New York,36,"Richmond County, NY",36085,White,Not Hispanic or Latino,2833.0,287113.0,986.7,652.8
+2018,New York,36,"Richmond County, NY",36085,White,Not Stated,145.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Rockland County, NY",36087,Asian,Not Hispanic or Latino,69.0,19965.0,345.6,252.4
+2018,New York,36,"Rockland County, NY",36087,Black or African American,Not Hispanic or Latino,247.0,37139.0,665.1,602.8
+2018,New York,36,"Rockland County, NY",36087,White,Hispanic or Latino,137.0,48257.0,283.9,444.1
+2018,New York,36,"Rockland County, NY",36087,White,Not Hispanic or Latino,1832.0,204650.0,895.2,599.3
+2018,New York,36,"St. Lawrence County, NY",36089,White,Not Hispanic or Latino,1004.0,99323.0,1010.8,751.0
+2018,New York,36,"Saratoga County, NY",36091,Asian,Not Hispanic or Latino,11.0,6710.0,Unreliable,Unreliable
+2018,New York,36,"Saratoga County, NY",36091,Black or African American,Not Hispanic or Latino,18.0,3996.0,Unreliable,Unreliable
+2018,New York,36,"Saratoga County, NY",36091,White,Hispanic or Latino,12.0,6413.0,Unreliable,Unreliable
+2018,New York,36,"Saratoga County, NY",36091,White,Not Hispanic or Latino,1906.0,207433.0,918.9,659.8
+2018,New York,36,"Schenectady County, NY",36093,Asian,Not Hispanic or Latino,30.0,7501.0,399.9,615.1
+2018,New York,36,"Schenectady County, NY",36093,Black or African American,Not Hispanic or Latino,115.0,16816.0,683.9,997.1
+2018,New York,36,"Schenectady County, NY",36093,White,Hispanic or Latino,29.0,7644.0,379.4,732.4
+2018,New York,36,"Schenectady County, NY",36093,White,Not Hispanic or Latino,1420.0,113659.0,1249.4,740.6
+2018,New York,36,"Schoharie County, NY",36095,White,Not Hispanic or Latino,318.0,28936.0,1099.0,719.8
+2018,New York,36,"Schuyler County, NY",36097,White,Not Hispanic or Latino,193.0,16997.0,1135.5,737.7
+2018,New York,36,"Seneca County, NY",36099,White,Not Hispanic or Latino,365.0,30452.0,1198.6,827.6
+2018,New York,36,"Steuben County, NY",36101,Black or African American,Not Hispanic or Latino,11.0,1426.0,Unreliable,Unreliable
+2018,New York,36,"Steuben County, NY",36101,White,Not Hispanic or Latino,1041.0,89671.0,1160.9,779.5
+2018,New York,36,"Suffolk County, NY",36103,American Indian or Alaska Native,Not Hispanic or Latino,12.0,2866.0,Unreliable,Unreliable
+2018,New York,36,"Suffolk County, NY",36103,Asian,Not Hispanic or Latino,196.0,59864.0,327.4,388.6
+2018,New York,36,"Suffolk County, NY",36103,Black or African American,Hispanic or Latino,26.0,19716.0,131.9,295.8
+2018,New York,36,"Suffolk County, NY",36103,Black or African American,Not Hispanic or Latino,726.0,109489.0,663.1,733.0
+2018,New York,36,"Suffolk County, NY",36103,Black or African American,Not Stated,16.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Suffolk County, NY",36103,White,Hispanic or Latino,765.0,254946.0,300.1,493.0
+2018,New York,36,"Suffolk County, NY",36103,White,Not Hispanic or Latino,10709.0,995152.0,1076.1,668.0
+2018,New York,36,"Suffolk County, NY",36103,White,Not Stated,124.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Suffolk County, NY",36103,More than one race,Not Hispanic or Latino,31.0,20474.0,151.4,296.8
+2018,New York,36,"Sullivan County, NY",36105,Black or African American,Not Hispanic or Latino,35.0,6162.0,568.0,638.3
+2018,New York,36,"Sullivan County, NY",36105,White,Hispanic or Latino,43.0,10150.0,423.6,632.1
+2018,New York,36,"Sullivan County, NY",36105,White,Not Hispanic or Latino,637.0,53781.0,1184.4,802.2
+2018,New York,36,"Tioga County, NY",36107,White,Not Hispanic or Latino,456.0,45991.0,991.5,635.2
+2018,New York,36,"Tompkins County, NY",36109,Black or African American,Not Hispanic or Latino,25.0,4090.0,611.2,1024.2
+2018,New York,36,"Tompkins County, NY",36109,White,Not Hispanic or Latino,681.0,79143.0,860.5,688.7
+2018,New York,36,"Ulster County, NY",36111,Asian,Not Hispanic or Latino,14.0,3583.0,Unreliable,Unreliable
+2018,New York,36,"Ulster County, NY",36111,Black or African American,Not Hispanic or Latino,79.0,10850.0,728.1,793.3
+2018,New York,36,"Ulster County, NY",36111,White,Hispanic or Latino,56.0,15142.0,369.8,500.4
+2018,New York,36,"Ulster County, NY",36111,White,Not Hispanic or Latino,1582.0,140911.0,1122.7,692.5
+2018,New York,36,"Warren County, NY",36113,White,Not Hispanic or Latino,740.0,60116.0,1231.0,758.0
+2018,New York,36,"Washington County, NY",36115,White,Not Hispanic or Latino,671.0,56483.0,1188.0,786.9
+2018,New York,36,"Wayne County, NY",36117,Black or African American,Not Hispanic or Latino,29.0,2524.0,1149.0,957.5
+2018,New York,36,"Wayne County, NY",36117,White,Hispanic or Latino,10.0,3338.0,Unreliable,Unreliable
+2018,New York,36,"Wayne County, NY",36117,White,Not Hispanic or Latino,891.0,80904.0,1101.3,766.4
+2018,New York,36,"Westchester County, NY",36119,Asian,Not Hispanic or Latino,171.0,60354.0,283.3,286.7
+2018,New York,36,"Westchester County, NY",36119,Black or African American,Hispanic or Latino,25.0,27324.0,91.5,163.2
+2018,New York,36,"Westchester County, NY",36119,Black or African American,Not Hispanic or Latino,1028.0,133572.0,769.6,659.0
+2018,New York,36,"Westchester County, NY",36119,Black or African American,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Westchester County, NY",36119,White,Hispanic or Latino,649.0,196106.0,330.9,462.2
+2018,New York,36,"Westchester County, NY",36119,White,Not Hispanic or Latino,5413.0,513687.0,1053.8,546.0
+2018,New York,36,"Westchester County, NY",36119,White,Not Stated,53.0,Not Applicable,Not Applicable,Not Applicable
+2018,New York,36,"Wyoming County, NY",36121,White,Not Hispanic or Latino,384.0,36037.0,1065.6,784.9
+2018,New York,36,"Yates County, NY",36123,White,Not Hispanic or Latino,273.0,23532.0,1160.1,779.5
+2019,New York,36,"Albany County, NY",36001,Asian,Not Hispanic or Latino,46.0,20681.0,222.4,403.2
+2019,New York,36,"Albany County, NY",36001,Black or African American,Not Hispanic or Latino,290.0,39031.0,743.0,839.1
+2019,New York,36,"Albany County, NY",36001,White,Hispanic or Latino,58.0,12893.0,449.9,757.4
+2019,New York,36,"Albany County, NY",36001,White,Not Hispanic or Latino,2307.0,218645.0,1055.1,667.5
+2019,New York,36,"Albany County, NY",36001,More than one race,Not Hispanic or Latino,11.0,7482.0,Unreliable,Unreliable
+2019,New York,36,"Allegany County, NY",36003,White,Not Hispanic or Latino,481.0,43456.0,1106.9,773.4
+2019,New York,36,"Bronx County, NY",36005,Asian,Not Hispanic or Latino,211.0,57272.0,368.4,364.9
+2019,New York,36,"Bronx County, NY",36005,Asian,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Bronx County, NY",36005,Black or African American,Hispanic or Latino,327.0,203872.0,160.4,187.1
+2019,New York,36,"Bronx County, NY",36005,Black or African American,Not Hispanic or Latino,3336.0,414684.0,804.5,738.9
+2019,New York,36,"Bronx County, NY",36005,Black or African American,Not Stated,98.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Bronx County, NY",36005,White,Hispanic or Latino,3612.0,506497.0,713.1,766.2
+2019,New York,36,"Bronx County, NY",36005,White,Not Hispanic or Latino,2014.0,127783.0,1576.1,728.7
+2019,New York,36,"Bronx County, NY",36005,White,Not Stated,140.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Bronx County, NY",36005,More than one race,Not Hispanic or Latino,13.0,14353.0,Unreliable,Unreliable
+2019,New York,36,"Broome County, NY",36007,Asian,Not Hispanic or Latino,27.0,8307.0,325.0,513.6
+2019,New York,36,"Broome County, NY",36007,Black or African American,Not Hispanic or Latino,67.0,10628.0,630.4,986.6
+2019,New York,36,"Broome County, NY",36007,White,Hispanic or Latino,17.0,5939.0,Unreliable,Unreliable
+2019,New York,36,"Broome County, NY",36007,White,Not Hispanic or Latino,2037.0,157534.0,1293.1,766.6
+2019,New York,36,"Cattaraugus County, NY",36009,American Indian or Alaska Native,Not Hispanic or Latino,24.0,2511.0,955.8,1113.3
+2019,New York,36,"Cattaraugus County, NY",36009,White,Not Hispanic or Latino,817.0,68830.0,1187.0,795.7
+2019,New York,36,"Cayuga County, NY",36011,Black or African American,Not Hispanic or Latino,14.0,3029.0,Unreliable,Unreliable
+2019,New York,36,"Cayuga County, NY",36011,White,Not Hispanic or Latino,719.0,68825.0,1044.7,663.6
+2019,New York,36,"Chautauqua County, NY",36013,Black or African American,Not Hispanic or Latino,23.0,2733.0,841.6,1047.1
+2019,New York,36,"Chautauqua County, NY",36013,White,Hispanic or Latino,35.0,8223.0,425.6,890.7
+2019,New York,36,"Chautauqua County, NY",36013,White,Not Hispanic or Latino,1383.0,110496.0,1251.6,757.0
+2019,New York,36,"Chemung County, NY",36015,Black or African American,Not Hispanic or Latino,47.0,4965.0,946.6,1062.3
+2019,New York,36,"Chemung County, NY",36015,White,Not Hispanic or Latino,1027.0,71819.0,1430.0,916.8
+2019,New York,36,"Chenango County, NY",36017,White,Not Hispanic or Latino,580.0,44611.0,1300.1,872.1
+2019,New York,36,"Clinton County, NY",36019,White,Not Hispanic or Latino,772.0,72402.0,1066.3,767.6
+2019,New York,36,"Columbia County, NY",36021,Black or African American,Not Hispanic or Latino,22.0,2800.0,785.7,755.7
+2019,New York,36,"Columbia County, NY",36021,White,Not Hispanic or Latino,635.0,51185.0,1240.6,670.5
+2019,New York,36,"Cortland County, NY",36023,White,Not Hispanic or Latino,447.0,43916.0,1017.9,784.8
+2019,New York,36,"Delaware County, NY",36025,White,Hispanic or Latino,11.0,1388.0,Unreliable,Unreliable
+2019,New York,36,"Delaware County, NY",36025,White,Not Hispanic or Latino,546.0,40517.0,1347.6,749.5
+2019,New York,36,"Dutchess County, NY",36027,Asian,Not Hispanic or Latino,24.0,10636.0,225.6,190.1
+2019,New York,36,"Dutchess County, NY",36027,Black or African American,Not Hispanic or Latino,202.0,31093.0,649.7,703.2
+2019,New York,36,"Dutchess County, NY",36027,White,Hispanic or Latino,107.0,30427.0,351.7,540.7
+2019,New York,36,"Dutchess County, NY",36027,White,Not Hispanic or Latino,2230.0,207907.0,1072.6,660.4
+2019,New York,36,"Erie County, NY",36029,American Indian or Alaska Native,Not Hispanic or Latino,58.0,5207.0,1113.9,1132.7
+2019,New York,36,"Erie County, NY",36029,Asian,Not Hispanic or Latino,78.0,34704.0,224.8,391.6
+2019,New York,36,"Erie County, NY",36029,Black or African American,Hispanic or Latino,10.0,7913.0,Unreliable,Unreliable
+2019,New York,36,"Erie County, NY",36029,Black or African American,Not Hispanic or Latino,1167.0,120415.0,969.1,959.6
+2019,New York,36,"Erie County, NY",36029,White,Hispanic or Latino,210.0,39962.0,525.5,787.1
+2019,New York,36,"Erie County, NY",36029,White,Not Hispanic or Latino,8126.0,688598.0,1180.1,730.4
+2019,New York,36,"Erie County, NY",36029,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Erie County, NY",36029,More than one race,Not Hispanic or Latino,22.0,16554.0,132.9,363.1
+2019,New York,36,"Essex County, NY",36031,White,Not Hispanic or Latino,472.0,34027.0,1387.1,783.3
+2019,New York,36,"Franklin County, NY",36033,American Indian or Alaska Native,Not Hispanic or Latino,19.0,3656.0,Unreliable,Unreliable
+2019,New York,36,"Franklin County, NY",36033,White,Not Hispanic or Latino,450.0,40877.0,1100.9,797.2
+2019,New York,36,"Fulton County, NY",36035,White,Hispanic or Latino,10.0,1549.0,Unreliable,Unreliable
+2019,New York,36,"Fulton County, NY",36035,White,Not Hispanic or Latino,614.0,49220.0,1247.5,829.7
+2019,New York,36,"Genesee County, NY",36037,White,Not Hispanic or Latino,643.0,51680.0,1244.2,813.1
+2019,New York,36,"Greene County, NY",36039,Black or African American,Not Hispanic or Latino,16.0,2550.0,Unreliable,Unreliable
+2019,New York,36,"Greene County, NY",36039,White,Hispanic or Latino,12.0,2340.0,Unreliable,Unreliable
+2019,New York,36,"Greene County, NY",36039,White,Not Hispanic or Latino,478.0,40037.0,1193.9,700.4
+2019,New York,36,"Hamilton County, NY",36041,White,Not Hispanic or Latino,61.0,4173.0,1461.8,730.6
+2019,New York,36,"Herkimer County, NY",36043,White,Not Hispanic or Latino,643.0,57787.0,1112.7,703.9
+2019,New York,36,"Jefferson County, NY",36045,Black or African American,Not Hispanic or Latino,14.0,6575.0,Unreliable,Unreliable
+2019,New York,36,"Jefferson County, NY",36045,White,Not Hispanic or Latino,932.0,89300.0,1043.7,859.5
+2019,New York,36,"Kings County, NY",36047,Asian,Not Hispanic or Latino,1104.0,319057.0,346.0,353.7
+2019,New York,36,"Kings County, NY",36047,Black or African American,Hispanic or Latino,274.0,104214.0,262.9,386.4
+2019,New York,36,"Kings County, NY",36047,Black or African American,Not Hispanic or Latino,5843.0,760626.0,768.2,639.6
+2019,New York,36,"Kings County, NY",36047,Black or African American,Not Stated,138.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Kings County, NY",36047,White,Hispanic or Latino,2020.0,333053.0,606.5,648.1
+2019,New York,36,"Kings County, NY",36047,White,Not Hispanic or Latino,6315.0,941268.0,670.9,522.8
+2019,New York,36,"Kings County, NY",36047,White,Not Stated,151.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Kings County, NY",36047,More than one race,Not Hispanic or Latino,25.0,49855.0,50.1,88.9
+2019,New York,36,"Lewis County, NY",36049,White,Not Hispanic or Latino,289.0,25228.0,1145.6,822.7
+2019,New York,36,"Livingston County, NY",36051,White,Not Hispanic or Latino,602.0,56935.0,1057.3,741.9
+2019,New York,36,"Madison County, NY",36053,White,Not Hispanic or Latino,579.0,65873.0,879.0,612.2
+2019,New York,36,"Monroe County, NY",36055,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1608.0,Unreliable,Unreliable
+2019,New York,36,"Monroe County, NY",36055,Asian,Not Hispanic or Latino,85.0,26785.0,317.3,428.0
+2019,New York,36,"Monroe County, NY",36055,Black or African American,Hispanic or Latino,11.0,11990.0,Unreliable,Unreliable
+2019,New York,36,"Monroe County, NY",36055,Black or African American,Not Hispanic or Latino,931.0,108511.0,858.0,983.4
+2019,New York,36,"Monroe County, NY",36055,White,Hispanic or Latino,264.0,49799.0,530.1,835.5
+2019,New York,36,"Monroe County, NY",36055,White,Not Hispanic or Latino,5614.0,520135.0,1079.3,653.4
+2019,New York,36,"Monroe County, NY",36055,More than one race,Not Hispanic or Latino,11.0,16403.0,Unreliable,Unreliable
+2019,New York,36,"Montgomery County, NY",36057,White,Hispanic or Latino,31.0,6277.0,493.9,828.8
+2019,New York,36,"Montgomery County, NY",36057,White,Not Hispanic or Latino,513.0,39474.0,1299.6,788.6
+2019,New York,36,"Nassau County, NY",36059,Asian,Not Hispanic or Latino,397.0,145191.0,273.4,307.4
+2019,New York,36,"Nassau County, NY",36059,Black or African American,Hispanic or Latino,21.0,18513.0,113.4,237.6
+2019,New York,36,"Nassau County, NY",36059,Black or African American,Not Hispanic or Latino,1116.0,158916.0,702.3,643.3
+2019,New York,36,"Nassau County, NY",36059,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Nassau County, NY",36059,White,Hispanic or Latino,627.0,201622.0,311.0,434.5
+2019,New York,36,"Nassau County, NY",36059,White,Not Hispanic or Latino,8652.0,794199.0,1089.4,573.7
+2019,New York,36,"Nassau County, NY",36059,White,Not Stated,41.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Nassau County, NY",36059,More than one race,Not Hispanic or Latino,23.0,19222.0,119.7,199.7
+2019,New York,36,"New York County, NY",36061,Asian,Not Hispanic or Latino,778.0,204096.0,381.2,305.2
+2019,New York,36,"New York County, NY",36061,Asian,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"New York County, NY",36061,Black or African American,Hispanic or Latino,228.0,87894.0,259.4,201.2
+2019,New York,36,"New York County, NY",36061,Black or African American,Not Hispanic or Latino,2131.0,201829.0,1055.8,812.2
+2019,New York,36,"New York County, NY",36061,Black or African American,Not Stated,105.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"New York County, NY",36061,White,Hispanic or Latino,2193.0,282625.0,775.9,637.9
+2019,New York,36,"New York County, NY",36061,White,Not Hispanic or Latino,4292.0,769099.0,558.1,380.2
+2019,New York,36,"New York County, NY",36061,White,Not Stated,195.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"New York County, NY",36061,More than one race,Not Hispanic or Latino,17.0,34015.0,Unreliable,Unreliable
+2019,New York,36,"Niagara County, NY",36063,American Indian or Alaska Native,Not Hispanic or Latino,25.0,2139.0,1168.8,1127.5
+2019,New York,36,"Niagara County, NY",36063,Black or African American,Not Hispanic or Latino,152.0,14843.0,1024.1,1167.6
+2019,New York,36,"Niagara County, NY",36063,White,Hispanic or Latino,24.0,5430.0,442.0,777.4
+2019,New York,36,"Niagara County, NY",36063,White,Not Hispanic or Latino,2183.0,177777.0,1227.9,773.3
+2019,New York,36,"Oneida County, NY",36065,Asian,Not Hispanic or Latino,26.0,9320.0,279.0,450.1
+2019,New York,36,"Oneida County, NY",36065,Black or African American,Not Hispanic or Latino,124.0,14144.0,876.7,1212.0
+2019,New York,36,"Oneida County, NY",36065,White,Hispanic or Latino,40.0,10554.0,379.0,553.4
+2019,New York,36,"Oneida County, NY",36065,White,Not Hispanic or Latino,2430.0,186013.0,1306.4,780.0
+2019,New York,36,"Oneida County, NY",36065,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Onondaga County, NY",36067,American Indian or Alaska Native,Not Hispanic or Latino,32.0,3431.0,932.7,727.6
+2019,New York,36,"Onondaga County, NY",36067,Asian,Not Hispanic or Latino,31.0,17500.0,177.1,276.4
+2019,New York,36,"Onondaga County, NY",36067,Black or African American,Not Hispanic or Latino,401.0,50658.0,791.6,995.0
+2019,New York,36,"Onondaga County, NY",36067,White,Hispanic or Latino,68.0,16118.0,421.9,750.5
+2019,New York,36,"Onondaga County, NY",36067,White,Not Hispanic or Latino,3898.0,352132.0,1107.0,705.6
+2019,New York,36,"Ontario County, NY",36069,Black or African American,Not Hispanic or Latino,19.0,2441.0,Unreliable,Unreliable
+2019,New York,36,"Ontario County, NY",36069,White,Hispanic or Latino,19.0,4396.0,Unreliable,Unreliable
+2019,New York,36,"Ontario County, NY",36069,White,Not Hispanic or Latino,1053.0,98242.0,1071.8,682.5
+2019,New York,36,"Orange County, NY",36071,Asian,Not Hispanic or Latino,37.0,10727.0,344.9,389.1
+2019,New York,36,"Orange County, NY",36071,Black or African American,Not Hispanic or Latino,250.0,40746.0,613.6,746.3
+2019,New York,36,"Orange County, NY",36071,White,Hispanic or Latino,228.0,65804.0,346.5,533.9
+2019,New York,36,"Orange County, NY",36071,White,Not Hispanic or Latino,2198.0,241474.0,910.2,683.2
+2019,New York,36,"Orange County, NY",36071,More than one race,Not Hispanic or Latino,11.0,7907.0,Unreliable,Unreliable
+2019,New York,36,"Orleans County, NY",36073,Black or African American,Not Hispanic or Latino,12.0,2306.0,Unreliable,Unreliable
+2019,New York,36,"Orleans County, NY",36073,White,Not Hispanic or Latino,406.0,34804.0,1166.5,824.7
+2019,New York,36,"Oswego County, NY",36075,White,Hispanic or Latino,11.0,2608.0,Unreliable,Unreliable
+2019,New York,36,"Oswego County, NY",36075,White,Not Hispanic or Latino,1133.0,109768.0,1032.2,824.4
+2019,New York,36,"Otsego County, NY",36077,White,Not Hispanic or Latino,621.0,54150.0,1146.8,717.4
+2019,New York,36,"Putnam County, NY",36079,Asian,Not Hispanic or Latino,11.0,2087.0,Unreliable,Unreliable
+2019,New York,36,"Putnam County, NY",36079,Black or African American,Not Hispanic or Latino,13.0,2869.0,Unreliable,Unreliable
+2019,New York,36,"Putnam County, NY",36079,White,Hispanic or Latino,45.0,13988.0,321.7,576.8
+2019,New York,36,"Putnam County, NY",36079,White,Not Hispanic or Latino,660.0,75783.0,870.9,570.2
+2019,New York,36,"Queens County, NY",36081,Asian,Not Hispanic or Latino,2353.0,597148.0,394.0,356.9
+2019,New York,36,"Queens County, NY",36081,Asian,Not Stated,24.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Queens County, NY",36081,Black or African American,Hispanic or Latino,119.0,62187.0,191.4,256.4
+2019,New York,36,"Queens County, NY",36081,Black or African American,Not Hispanic or Latino,3204.0,404028.0,793.0,636.1
+2019,New York,36,"Queens County, NY",36081,Black or African American,Not Stated,110.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Queens County, NY",36081,White,Hispanic or Latino,2096.0,518020.0,404.6,436.3
+2019,New York,36,"Queens County, NY",36081,White,Not Hispanic or Latino,6424.0,560135.0,1146.9,589.4
+2019,New York,36,"Queens County, NY",36081,White,Not Stated,177.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Queens County, NY",36081,More than one race,Not Hispanic or Latino,49.0,47385.0,103.4,129.5
+2019,New York,36,"Rensselaer County, NY",36083,Black or African American,Not Hispanic or Latino,77.0,11245.0,684.7,973.7
+2019,New York,36,"Rensselaer County, NY",36083,White,Hispanic or Latino,12.0,5707.0,Unreliable,Unreliable
+2019,New York,36,"Rensselaer County, NY",36083,White,Not Hispanic or Latino,1367.0,131105.0,1042.7,714.3
+2019,New York,36,"Richmond County, NY",36085,Asian,Not Hispanic or Latino,172.0,51025.0,337.1,352.8
+2019,New York,36,"Richmond County, NY",36085,Asian,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Richmond County, NY",36085,Black or African American,Hispanic or Latino,11.0,10683.0,Unreliable,Unreliable
+2019,New York,36,"Richmond County, NY",36085,Black or African American,Not Hispanic or Latino,246.0,44681.0,550.6,611.9
+2019,New York,36,"Richmond County, NY",36085,Black or African American,Not Stated,70.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Richmond County, NY",36085,White,Hispanic or Latino,315.0,70871.0,444.5,609.4
+2019,New York,36,"Richmond County, NY",36085,White,Not Hispanic or Latino,2846.0,283691.0,1003.2,647.0
+2019,New York,36,"Richmond County, NY",36085,White,Not Stated,128.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Rockland County, NY",36087,Asian,Not Hispanic or Latino,71.0,19772.0,359.1,276.0
+2019,New York,36,"Rockland County, NY",36087,Black or African American,Not Hispanic or Latino,245.0,36522.0,670.8,581.6
+2019,New York,36,"Rockland County, NY",36087,White,Hispanic or Latino,156.0,49273.0,316.6,476.3
+2019,New York,36,"Rockland County, NY",36087,White,Not Hispanic or Latino,1806.0,204387.0,883.6,591.4
+2019,New York,36,"St. Lawrence County, NY",36089,Black or African American,Not Hispanic or Latino,12.0,2409.0,Unreliable,Unreliable
+2019,New York,36,"St. Lawrence County, NY",36089,White,Not Hispanic or Latino,1042.0,99089.0,1051.6,762.7
+2019,New York,36,"Saratoga County, NY",36091,Asian,Not Hispanic or Latino,18.0,6517.0,Unreliable,Unreliable
+2019,New York,36,"Saratoga County, NY",36091,Black or African American,Not Hispanic or Latino,22.0,4125.0,533.3,714.5
+2019,New York,36,"Saratoga County, NY",36091,White,Hispanic or Latino,14.0,6481.0,Unreliable,Unreliable
+2019,New York,36,"Saratoga County, NY",36091,White,Not Hispanic or Latino,1866.0,207147.0,900.8,630.4
+2019,New York,36,"Schenectady County, NY",36093,Asian,Not Hispanic or Latino,19.0,7611.0,Unreliable,Unreliable
+2019,New York,36,"Schenectady County, NY",36093,Black or African American,Not Hispanic or Latino,112.0,17405.0,643.5,876.9
+2019,New York,36,"Schenectady County, NY",36093,White,Hispanic or Latino,43.0,7742.0,555.4,923.1
+2019,New York,36,"Schenectady County, NY",36093,White,Not Hispanic or Latino,1310.0,112596.0,1163.5,704.2
+2019,New York,36,"Schoharie County, NY",36095,White,Not Hispanic or Latino,303.0,28810.0,1051.7,653.9
+2019,New York,36,"Schuyler County, NY",36097,White,Not Hispanic or Latino,204.0,16851.0,1210.6,749.4
+2019,New York,36,"Seneca County, NY",36099,White,Not Hispanic or Latino,337.0,30144.0,1118.0,740.8
+2019,New York,36,"Steuben County, NY",36101,White,Not Hispanic or Latino,1048.0,89096.0,1176.3,785.0
+2019,New York,36,"Suffolk County, NY",36103,American Indian or Alaska Native,Not Hispanic or Latino,18.0,2845.0,Unreliable,Unreliable
+2019,New York,36,"Suffolk County, NY",36103,Asian,Not Hispanic or Latino,191.0,60195.0,317.3,359.6
+2019,New York,36,"Suffolk County, NY",36103,Black or African American,Hispanic or Latino,24.0,19929.0,120.4,215.4
+2019,New York,36,"Suffolk County, NY",36103,Black or African American,Not Hispanic or Latino,829.0,110248.0,751.9,816.7
+2019,New York,36,"Suffolk County, NY",36103,Black or African American,Not Stated,19.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Suffolk County, NY",36103,White,Hispanic or Latino,794.0,259833.0,305.6,493.9
+2019,New York,36,"Suffolk County, NY",36103,White,Not Hispanic or Latino,10677.0,983806.0,1085.3,654.0
+2019,New York,36,"Suffolk County, NY",36103,White,Not Stated,76.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Suffolk County, NY",36103,More than one race,Not Hispanic or Latino,24.0,20714.0,115.9,216.1
+2019,New York,36,"Sullivan County, NY",36105,Black or African American,Not Hispanic or Latino,45.0,6183.0,727.8,837.0
+2019,New York,36,"Sullivan County, NY",36105,White,Hispanic or Latino,52.0,10186.0,510.5,696.1
+2019,New York,36,"Sullivan County, NY",36105,White,Not Hispanic or Latino,648.0,53368.0,1214.2,798.9
+2019,New York,36,"Tioga County, NY",36107,White,Not Hispanic or Latino,493.0,45651.0,1079.9,695.2
+2019,New York,36,"Tompkins County, NY",36109,Asian,Not Hispanic or Latino,11.0,10464.0,Unreliable,Unreliable
+2019,New York,36,"Tompkins County, NY",36109,Black or African American,Not Hispanic or Latino,23.0,4072.0,564.8,857.1
+2019,New York,36,"Tompkins County, NY",36109,White,Not Hispanic or Latino,651.0,78707.0,827.1,648.8
+2019,New York,36,"Ulster County, NY",36111,Asian,Not Hispanic or Latino,17.0,3615.0,Unreliable,Unreliable
+2019,New York,36,"Ulster County, NY",36111,Black or African American,Not Hispanic or Latino,82.0,10738.0,763.6,838.0
+2019,New York,36,"Ulster County, NY",36111,White,Hispanic or Latino,67.0,15187.0,441.2,622.0
+2019,New York,36,"Ulster County, NY",36111,White,Not Hispanic or Latino,1593.0,139880.0,1138.8,684.7
+2019,New York,36,"Warren County, NY",36113,White,Not Hispanic or Latino,743.0,59641.0,1245.8,769.0
+2019,New York,36,"Washington County, NY",36115,White,Not Hispanic or Latino,679.0,56322.0,1205.6,794.1
+2019,New York,36,"Wayne County, NY",36117,Black or African American,Not Hispanic or Latino,20.0,2575.0,776.7,685.8
+2019,New York,36,"Wayne County, NY",36117,White,Hispanic or Latino,14.0,3503.0,Unreliable,Unreliable
+2019,New York,36,"Wayne County, NY",36117,White,Not Hispanic or Latino,877.0,80485.0,1089.6,741.7
+2019,New York,36,"Westchester County, NY",36119,Asian,Not Hispanic or Latino,178.0,60535.0,294.0,281.7
+2019,New York,36,"Westchester County, NY",36119,Black or African American,Hispanic or Latino,23.0,27797.0,82.7,156.4
+2019,New York,36,"Westchester County, NY",36119,Black or African American,Not Hispanic or Latino,1076.0,133706.0,804.8,674.5
+2019,New York,36,"Westchester County, NY",36119,White,Hispanic or Latino,597.0,198927.0,300.1,407.0
+2019,New York,36,"Westchester County, NY",36119,White,Not Hispanic or Latino,5279.0,509099.0,1036.9,529.0
+2019,New York,36,"Westchester County, NY",36119,White,Not Stated,36.0,Not Applicable,Not Applicable,Not Applicable
+2019,New York,36,"Wyoming County, NY",36121,White,Not Hispanic or Latino,368.0,35814.0,1027.5,740.0
+2019,New York,36,"Yates County, NY",36123,White,Not Hispanic or Latino,301.0,23617.0,1274.5,856.4
+2020,New York,36,"Albany County, NY",36001,Asian,Not Hispanic or Latino,59.0,20935.0,281.8,454.4
+2020,New York,36,"Albany County, NY",36001,Black or African American,Not Hispanic or Latino,400.0,39109.0,1022.8,1135.4
+2020,New York,36,"Albany County, NY",36001,White,Hispanic or Latino,64.0,13135.0,487.2,710.1
+2020,New York,36,"Albany County, NY",36001,White,Not Hispanic or Latino,2589.0,215416.0,1201.9,749.0
+2020,New York,36,"Albany County, NY",36001,More than one race,Not Hispanic or Latino,14.0,7775.0,Unreliable,Unreliable
+2020,New York,36,"Allegany County, NY",36003,White,Not Hispanic or Latino,549.0,42978.0,1277.4,885.2
+2020,New York,36,"Bronx County, NY",36005,Asian,Not Hispanic or Latino,391.0,58226.0,671.5,659.2
+2020,New York,36,"Bronx County, NY",36005,Asian,Not Stated,42.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Bronx County, NY",36005,Black or African American,Hispanic or Latino,380.0,207752.0,182.9,212.9
+2020,New York,36,"Bronx County, NY",36005,Black or African American,Not Hispanic or Latino,5399.0,408352.0,1322.1,1192.4
+2020,New York,36,"Bronx County, NY",36005,Black or African American,Not Stated,293.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Bronx County, NY",36005,White,Hispanic or Latino,6327.0,493403.0,1282.3,1325.0
+2020,New York,36,"Bronx County, NY",36005,White,Not Hispanic or Latino,2769.0,125038.0,2214.5,1056.6
+2020,New York,36,"Bronx County, NY",36005,White,Not Stated,283.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Bronx County, NY",36005,More than one race,Hispanic or Latino,13.0,38379.0,Unreliable,Unreliable
+2020,New York,36,"Bronx County, NY",36005,More than one race,Not Hispanic or Latino,23.0,14153.0,162.5,200.1
+2020,New York,36,"Broome County, NY",36007,Asian,Not Hispanic or Latino,22.0,8380.0,262.5,440.3
+2020,New York,36,"Broome County, NY",36007,Black or African American,Not Hispanic or Latino,71.0,10807.0,657.0,954.1
+2020,New York,36,"Broome County, NY",36007,White,Hispanic or Latino,29.0,5958.0,486.7,763.0
+2020,New York,36,"Broome County, NY",36007,White,Not Hispanic or Latino,2267.0,155857.0,1454.5,867.3
+2020,New York,36,"Cattaraugus County, NY",36009,American Indian or Alaska Native,Not Hispanic or Latino,37.0,2532.0,1461.3,1585.2
+2020,New York,36,"Cattaraugus County, NY",36009,Black or African American,Not Hispanic or Latino,11.0,1007.0,Unreliable,Unreliable
+2020,New York,36,"Cattaraugus County, NY",36009,White,Not Hispanic or Latino,881.0,68382.0,1288.4,873.8
+2020,New York,36,"Cayuga County, NY",36011,Black or African American,Not Hispanic or Latino,15.0,3053.0,Unreliable,Unreliable
+2020,New York,36,"Cayuga County, NY",36011,White,Not Hispanic or Latino,874.0,68144.0,1282.6,815.8
+2020,New York,36,"Chautauqua County, NY",36013,Black or African American,Not Hispanic or Latino,32.0,2695.0,1187.4,1489.2
+2020,New York,36,"Chautauqua County, NY",36013,White,Hispanic or Latino,55.0,8355.0,658.3,1001.0
+2020,New York,36,"Chautauqua County, NY",36013,White,Not Hispanic or Latino,1469.0,109317.0,1343.8,815.9
+2020,New York,36,"Chemung County, NY",36015,Black or African American,Not Hispanic or Latino,52.0,4857.0,1070.6,1210.4
+2020,New York,36,"Chemung County, NY",36015,White,Not Hispanic or Latino,1051.0,70880.0,1482.8,951.7
+2020,New York,36,"Chenango County, NY",36017,White,Hispanic or Latino,10.0,917.0,Unreliable,Unreliable
+2020,New York,36,"Chenango County, NY",36017,White,Not Hispanic or Latino,613.0,44183.0,1387.4,925.2
+2020,New York,36,"Clinton County, NY",36019,Black or African American,Not Hispanic or Latino,15.0,3071.0,Unreliable,Unreliable
+2020,New York,36,"Clinton County, NY",36019,White,Not Hispanic or Latino,781.0,71803.0,1087.7,777.8
+2020,New York,36,"Columbia County, NY",36021,Black or African American,Not Hispanic or Latino,30.0,2720.0,1102.9,1074.0
+2020,New York,36,"Columbia County, NY",36021,White,Hispanic or Latino,17.0,2458.0,Unreliable,Unreliable
+2020,New York,36,"Columbia County, NY",36021,White,Not Hispanic or Latino,640.0,51093.0,1252.6,657.7
+2020,New York,36,"Cortland County, NY",36023,White,Not Hispanic or Latino,519.0,43424.0,1195.2,909.9
+2020,New York,36,"Delaware County, NY",36025,White,Not Hispanic or Latino,575.0,40199.0,1430.4,796.8
+2020,New York,36,"Dutchess County, NY",36027,Asian,Not Hispanic or Latino,36.0,10558.0,341.0,294.4
+2020,New York,36,"Dutchess County, NY",36027,Black or African American,Hispanic or Latino,10.0,4767.0,Unreliable,Unreliable
+2020,New York,36,"Dutchess County, NY",36027,Black or African American,Not Hispanic or Latino,266.0,31227.0,851.8,873.5
+2020,New York,36,"Dutchess County, NY",36027,White,Hispanic or Latino,124.0,31191.0,397.6,571.7
+2020,New York,36,"Dutchess County, NY",36027,White,Not Hispanic or Latino,2500.0,205339.0,1217.5,750.5
+2020,New York,36,"Erie County, NY",36029,American Indian or Alaska Native,Not Hispanic or Latino,52.0,5138.0,1012.1,1001.6
+2020,New York,36,"Erie County, NY",36029,Asian,Not Hispanic or Latino,109.0,36534.0,298.4,487.5
+2020,New York,36,"Erie County, NY",36029,Black or African American,Hispanic or Latino,13.0,8666.0,Unreliable,Unreliable
+2020,New York,36,"Erie County, NY",36029,Black or African American,Not Hispanic or Latino,1537.0,120258.0,1278.1,1251.5
+2020,New York,36,"Erie County, NY",36029,White,Hispanic or Latino,259.0,40469.0,640.0,918.0
+2020,New York,36,"Erie County, NY",36029,White,Not Hispanic or Latino,9159.0,682944.0,1341.1,831.2
+2020,New York,36,"Erie County, NY",36029,More than one race,Not Hispanic or Latino,24.0,17440.0,137.6,369.1
+2020,New York,36,"Essex County, NY",36031,White,Not Hispanic or Latino,462.0,33951.0,1360.8,750.9
+2020,New York,36,"Franklin County, NY",36033,American Indian or Alaska Native,Not Hispanic or Latino,27.0,3593.0,751.5,721.1
+2020,New York,36,"Franklin County, NY",36033,White,Not Hispanic or Latino,453.0,40829.0,1109.5,794.7
+2020,New York,36,"Fulton County, NY",36035,Black or African American,Not Hispanic or Latino,13.0,1017.0,Unreliable,Unreliable
+2020,New York,36,"Fulton County, NY",36035,White,Not Hispanic or Latino,658.0,48544.0,1355.5,893.4
+2020,New York,36,"Genesee County, NY",36037,American Indian or Alaska Native,Not Hispanic or Latino,15.0,613.0,Unreliable,Unreliable
+2020,New York,36,"Genesee County, NY",36037,Black or African American,Not Hispanic or Latino,22.0,1568.0,1403.1,1884.3
+2020,New York,36,"Genesee County, NY",36037,White,Not Hispanic or Latino,683.0,51399.0,1328.8,861.8
+2020,New York,36,"Greene County, NY",36039,Black or African American,Not Hispanic or Latino,12.0,2569.0,Unreliable,Unreliable
+2020,New York,36,"Greene County, NY",36039,White,Not Hispanic or Latino,525.0,39910.0,1315.5,743.5
+2020,New York,36,"Hamilton County, NY",36041,White,Not Hispanic or Latino,72.0,4100.0,1756.1,826.0
+2020,New York,36,"Herkimer County, NY",36043,White,Not Hispanic or Latino,700.0,57231.0,1223.1,777.3
+2020,New York,36,"Jefferson County, NY",36045,Black or African American,Not Hispanic or Latino,11.0,6164.0,Unreliable,Unreliable
+2020,New York,36,"Jefferson County, NY",36045,White,Hispanic or Latino,11.0,6596.0,Unreliable,Unreliable
+2020,New York,36,"Jefferson County, NY",36045,White,Not Hispanic or Latino,935.0,87957.0,1063.0,847.8
+2020,New York,36,"Kings County, NY",36047,Asian,Not Hispanic or Latino,1822.0,322772.0,564.5,557.3
+2020,New York,36,"Kings County, NY",36047,Asian,Not Stated,34.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Kings County, NY",36047,Black or African American,Hispanic or Latino,468.0,104143.0,449.4,647.9
+2020,New York,36,"Kings County, NY",36047,Black or African American,Not Hispanic or Latino,9373.0,746209.0,1256.1,1005.3
+2020,New York,36,"Kings County, NY",36047,Black or African American,Not Stated,307.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Kings County, NY",36047,White,Hispanic or Latino,3481.0,325802.0,1068.4,1097.4
+2020,New York,36,"Kings County, NY",36047,White,Not Hispanic or Latino,9050.0,937202.0,965.6,754.6
+2020,New York,36,"Kings County, NY",36047,White,Not Stated,280.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Kings County, NY",36047,More than one race,Not Hispanic or Latino,40.0,50690.0,78.9,137.7
+2020,New York,36,"Lewis County, NY",36049,White,Not Hispanic or Latino,227.0,25132.0,903.2,627.5
+2020,New York,36,"Livingston County, NY",36051,White,Not Hispanic or Latino,577.0,56343.0,1024.1,690.3
+2020,New York,36,"Madison County, NY",36053,White,Not Hispanic or Latino,713.0,65370.0,1090.7,759.7
+2020,New York,36,"Monroe County, NY",36055,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1594.0,Unreliable,Unreliable
+2020,New York,36,"Monroe County, NY",36055,Asian,Not Hispanic or Latino,96.0,27071.0,354.6,456.8
+2020,New York,36,"Monroe County, NY",36055,Black or African American,Hispanic or Latino,14.0,12769.0,Unreliable,Unreliable
+2020,New York,36,"Monroe County, NY",36055,Black or African American,Not Hispanic or Latino,1137.0,108460.0,1048.3,1177.7
+2020,New York,36,"Monroe County, NY",36055,White,Hispanic or Latino,313.0,50759.0,616.6,937.9
+2020,New York,36,"Monroe County, NY",36055,White,Not Hispanic or Latino,6189.0,516134.0,1199.1,716.9
+2020,New York,36,"Monroe County, NY",36055,More than one race,Not Hispanic or Latino,18.0,16886.0,Unreliable,Unreliable
+2020,New York,36,"Montgomery County, NY",36057,Black or African American,Not Hispanic or Latino,11.0,1124.0,Unreliable,Unreliable
+2020,New York,36,"Montgomery County, NY",36057,White,Hispanic or Latino,31.0,6381.0,485.8,817.5
+2020,New York,36,"Montgomery County, NY",36057,White,Not Hispanic or Latino,609.0,39142.0,1555.9,943.2
+2020,New York,36,"Nassau County, NY",36059,Asian,Not Hispanic or Latino,673.0,153947.0,437.2,460.7
+2020,New York,36,"Nassau County, NY",36059,Black or African American,Hispanic or Latino,46.0,19654.0,234.0,377.0
+2020,New York,36,"Nassau County, NY",36059,Black or African American,Not Hispanic or Latino,1688.0,158781.0,1063.1,943.8
+2020,New York,36,"Nassau County, NY",36059,Black or African American,Not Stated,17.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Nassau County, NY",36059,White,Hispanic or Latino,1202.0,199655.0,602.0,762.1
+2020,New York,36,"Nassau County, NY",36059,White,Not Hispanic or Latino,10542.0,779369.0,1352.6,710.9
+2020,New York,36,"Nassau County, NY",36059,White,Not Stated,57.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Nassau County, NY",36059,More than one race,Not Hispanic or Latino,28.0,19838.0,141.1,234.4
+2020,New York,36,"New York County, NY",36061,Asian,Not Hispanic or Latino,1232.0,204630.0,602.1,473.0
+2020,New York,36,"New York County, NY",36061,Asian,Not Stated,47.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"New York County, NY",36061,Black or African American,Hispanic or Latino,207.0,88734.0,233.3,178.2
+2020,New York,36,"New York County, NY",36061,Black or African American,Not Hispanic or Latino,3026.0,199749.0,1514.9,1153.5
+2020,New York,36,"New York County, NY",36061,Black or African American,Not Stated,224.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"New York County, NY",36061,White,Hispanic or Latino,3595.0,277400.0,1296.0,1028.2
+2020,New York,36,"New York County, NY",36061,White,Not Hispanic or Latino,5370.0,757517.0,708.9,470.5
+2020,New York,36,"New York County, NY",36061,White,Not Stated,270.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"New York County, NY",36061,More than one race,Hispanic or Latino,10.0,21784.0,Unreliable,Unreliable
+2020,New York,36,"New York County, NY",36061,More than one race,Not Hispanic or Latino,22.0,34314.0,64.1,128.8
+2020,New York,36,"Niagara County, NY",36063,American Indian or Alaska Native,Not Hispanic or Latino,27.0,2135.0,1264.6,1172.6
+2020,New York,36,"Niagara County, NY",36063,Asian,Not Hispanic or Latino,13.0,2423.0,Unreliable,Unreliable
+2020,New York,36,"Niagara County, NY",36063,Black or African American,Not Hispanic or Latino,203.0,14698.0,1381.1,1466.6
+2020,New York,36,"Niagara County, NY",36063,White,Hispanic or Latino,40.0,5520.0,724.6,1373.4
+2020,New York,36,"Niagara County, NY",36063,White,Not Hispanic or Latino,2513.0,176469.0,1424.0,895.9
+2020,New York,36,"Niagara County, NY",36063,More than one race,Not Hispanic or Latino,10.0,5336.0,Unreliable,Unreliable
+2020,New York,36,"Oneida County, NY",36065,Asian,Not Hispanic or Latino,40.0,9324.0,429.0,702.4
+2020,New York,36,"Oneida County, NY",36065,Black or African American,Not Hispanic or Latino,138.0,13996.0,986.0,1325.9
+2020,New York,36,"Oneida County, NY",36065,White,Hispanic or Latino,54.0,10571.0,510.8,848.9
+2020,New York,36,"Oneida County, NY",36065,White,Not Hispanic or Latino,2681.0,184281.0,1454.8,873.4
+2020,New York,36,"Oneida County, NY",36065,More than one race,Not Hispanic or Latino,12.0,4590.0,Unreliable,Unreliable
+2020,New York,36,"Onondaga County, NY",36067,American Indian or Alaska Native,Not Hispanic or Latino,33.0,3404.0,969.4,856.8
+2020,New York,36,"Onondaga County, NY",36067,Asian,Not Hispanic or Latino,59.0,17438.0,338.3,504.0
+2020,New York,36,"Onondaga County, NY",36067,Black or African American,Hispanic or Latino,13.0,5125.0,Unreliable,Unreliable
+2020,New York,36,"Onondaga County, NY",36067,Black or African American,Not Hispanic or Latino,530.0,50473.0,1050.1,1279.2
+2020,New York,36,"Onondaga County, NY",36067,White,Hispanic or Latino,81.0,16240.0,498.8,815.4
+2020,New York,36,"Onondaga County, NY",36067,White,Not Hispanic or Latino,4378.0,349712.0,1251.9,789.8
+2020,New York,36,"Onondaga County, NY",36067,More than one race,Not Hispanic or Latino,15.0,13382.0,Unreliable,Unreliable
+2020,New York,36,"Ontario County, NY",36069,Black or African American,Not Hispanic or Latino,22.0,2544.0,864.8,922.5
+2020,New York,36,"Ontario County, NY",36069,White,Hispanic or Latino,18.0,4451.0,Unreliable,Unreliable
+2020,New York,36,"Ontario County, NY",36069,White,Not Hispanic or Latino,1074.0,98263.0,1093.0,677.5
+2020,New York,36,"Orange County, NY",36071,Asian,Not Hispanic or Latino,51.0,11111.0,459.0,525.8
+2020,New York,36,"Orange County, NY",36071,Black or African American,Hispanic or Latino,13.0,11133.0,Unreliable,Unreliable
+2020,New York,36,"Orange County, NY",36071,Black or African American,Not Hispanic or Latino,335.0,41627.0,804.8,922.4
+2020,New York,36,"Orange County, NY",36071,White,Hispanic or Latino,374.0,66568.0,561.8,855.4
+2020,New York,36,"Orange County, NY",36071,White,Not Hispanic or Latino,2708.0,237888.0,1138.4,833.6
+2020,New York,36,"Orange County, NY",36071,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Orange County, NY",36071,More than one race,Not Hispanic or Latino,11.0,8146.0,Unreliable,Unreliable
+2020,New York,36,"Orleans County, NY",36073,Black or African American,Not Hispanic or Latino,12.0,2237.0,Unreliable,Unreliable
+2020,New York,36,"Orleans County, NY",36073,White,Not Hispanic or Latino,469.0,34413.0,1362.9,908.3
+2020,New York,36,"Oswego County, NY",36075,White,Not Hispanic or Latino,1161.0,108909.0,1066.0,839.7
+2020,New York,36,"Otsego County, NY",36077,White,Not Hispanic or Latino,673.0,53340.0,1261.7,775.7
+2020,New York,36,"Putnam County, NY",36079,Black or African American,Not Hispanic or Latino,14.0,3089.0,Unreliable,Unreliable
+2020,New York,36,"Putnam County, NY",36079,White,Hispanic or Latino,57.0,14428.0,395.1,605.3
+2020,New York,36,"Putnam County, NY",36079,White,Not Hispanic or Latino,815.0,74873.0,1088.5,709.6
+2020,New York,36,"Queens County, NY",36081,American Indian or Alaska Native,Not Hispanic or Latino,10.0,8028.0,Unreliable,Unreliable
+2020,New York,36,"Queens County, NY",36081,Asian,Not Hispanic or Latino,3976.0,601159.0,661.4,568.4
+2020,New York,36,"Queens County, NY",36081,Asian,Not Stated,67.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Queens County, NY",36081,Black or African American,Hispanic or Latino,218.0,63938.0,341.0,463.7
+2020,New York,36,"Queens County, NY",36081,Black or African American,Not Hispanic or Latino,5114.0,397419.0,1286.8,1002.4
+2020,New York,36,"Queens County, NY",36081,Black or African American,Not Stated,235.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Queens County, NY",36081,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,10.0,2741.0,Unreliable,Unreliable
+2020,New York,36,"Queens County, NY",36081,White,Hispanic or Latino,4382.0,503510.0,870.3,871.3
+2020,New York,36,"Queens County, NY",36081,White,Not Hispanic or Latino,8596.0,547587.0,1569.8,818.1
+2020,New York,36,"Queens County, NY",36081,White,Not Stated,343.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Queens County, NY",36081,More than one race,Hispanic or Latino,16.0,20388.0,Unreliable,Unreliable
+2020,New York,36,"Queens County, NY",36081,More than one race,Not Hispanic or Latino,80.0,46956.0,170.4,211.7
+2020,New York,36,"Rensselaer County, NY",36083,Asian,Not Hispanic or Latino,11.0,4449.0,Unreliable,Unreliable
+2020,New York,36,"Rensselaer County, NY",36083,Black or African American,Not Hispanic or Latino,92.0,11320.0,812.7,1127.5
+2020,New York,36,"Rensselaer County, NY",36083,White,Hispanic or Latino,24.0,5839.0,411.0,889.5
+2020,New York,36,"Rensselaer County, NY",36083,White,Not Hispanic or Latino,1522.0,129924.0,1171.5,801.6
+2020,New York,36,"Richmond County, NY",36085,Asian,Not Hispanic or Latino,289.0,54804.0,527.3,544.4
+2020,New York,36,"Richmond County, NY",36085,Black or African American,Hispanic or Latino,14.0,11108.0,Unreliable,Unreliable
+2020,New York,36,"Richmond County, NY",36085,Black or African American,Not Hispanic or Latino,497.0,44585.0,1114.7,1192.9
+2020,New York,36,"Richmond County, NY",36085,Black or African American,Not Stated,47.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Richmond County, NY",36085,White,Hispanic or Latino,461.0,70287.0,655.9,872.7
+2020,New York,36,"Richmond County, NY",36085,White,Not Hispanic or Latino,3585.0,278773.0,1286.0,823.3
+2020,New York,36,"Richmond County, NY",36085,White,Not Stated,137.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Rockland County, NY",36087,Asian,Not Hispanic or Latino,130.0,19998.0,650.1,455.5
+2020,New York,36,"Rockland County, NY",36087,Black or African American,Hispanic or Latino,20.0,6396.0,312.7,654.6
+2020,New York,36,"Rockland County, NY",36087,Black or African American,Not Hispanic or Latino,439.0,36252.0,1211.0,1032.1
+2020,New York,36,"Rockland County, NY",36087,White,Hispanic or Latino,319.0,49236.0,647.9,900.6
+2020,New York,36,"Rockland County, NY",36087,White,Not Hispanic or Latino,2291.0,204267.0,1121.6,757.7
+2020,New York,36,"St. Lawrence County, NY",36089,White,Not Hispanic or Latino,1098.0,98552.0,1114.1,806.1
+2020,New York,36,"Saratoga County, NY",36091,Asian,Not Hispanic or Latino,11.0,6504.0,Unreliable,Unreliable
+2020,New York,36,"Saratoga County, NY",36091,Black or African American,Not Hispanic or Latino,24.0,4233.0,567.0,716.3
+2020,New York,36,"Saratoga County, NY",36091,White,Hispanic or Latino,15.0,6501.0,Unreliable,Unreliable
+2020,New York,36,"Saratoga County, NY",36091,White,Not Hispanic or Latino,1991.0,207152.0,961.1,660.4
+2020,New York,36,"Schenectady County, NY",36093,Asian,Not Hispanic or Latino,37.0,7876.0,469.8,602.2
+2020,New York,36,"Schenectady County, NY",36093,Black or African American,Not Hispanic or Latino,142.0,17745.0,800.2,1046.1
+2020,New York,36,"Schenectady County, NY",36093,White,Hispanic or Latino,46.0,7875.0,584.1,991.2
+2020,New York,36,"Schenectady County, NY",36093,White,Not Hispanic or Latino,1494.0,111518.0,1339.7,797.2
+2020,New York,36,"Schenectady County, NY",36093,More than one race,Not Hispanic or Latino,15.0,5221.0,Unreliable,Unreliable
+2020,New York,36,"Schoharie County, NY",36095,White,Not Hispanic or Latino,303.0,28828.0,1051.1,669.8
+2020,New York,36,"Schuyler County, NY",36097,White,Not Hispanic or Latino,220.0,16724.0,1315.5,855.7
+2020,New York,36,"Seneca County, NY",36099,White,Not Hispanic or Latino,377.0,30016.0,1256.0,856.0
+2020,New York,36,"Steuben County, NY",36101,Black or African American,Not Hispanic or Latino,20.0,1478.0,1353.2,1177.4
+2020,New York,36,"Steuben County, NY",36101,White,Not Hispanic or Latino,1143.0,88233.0,1295.4,859.2
+2020,New York,36,"Suffolk County, NY",36103,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2956.0,676.6,536.7
+2020,New York,36,"Suffolk County, NY",36103,Asian,Not Hispanic or Latino,316.0,62248.0,507.6,543.8
+2020,New York,36,"Suffolk County, NY",36103,Black or African American,Hispanic or Latino,45.0,21273.0,211.5,489.6
+2020,New York,36,"Suffolk County, NY",36103,Black or African American,Not Hispanic or Latino,1215.0,112271.0,1082.2,1147.5
+2020,New York,36,"Suffolk County, NY",36103,White,Hispanic or Latino,1400.0,261287.0,535.8,787.3
+2020,New York,36,"Suffolk County, NY",36103,White,Not Hispanic or Latino,12616.0,973090.0,1296.5,769.8
+2020,New York,36,"Suffolk County, NY",36103,White,Not Stated,60.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Suffolk County, NY",36103,More than one race,Not Hispanic or Latino,41.0,21159.0,193.8,364.4
+2020,New York,36,"Sullivan County, NY",36105,Black or African American,Not Hispanic or Latino,73.0,6265.0,1165.2,1194.5
+2020,New York,36,"Sullivan County, NY",36105,White,Hispanic or Latino,72.0,10305.0,698.7,975.2
+2020,New York,36,"Sullivan County, NY",36105,White,Not Hispanic or Latino,728.0,53247.0,1367.2,908.9
+2020,New York,36,"Tioga County, NY",36107,White,Not Hispanic or Latino,573.0,45316.0,1264.5,791.7
+2020,New York,36,"Tompkins County, NY",36109,Asian,Not Hispanic or Latino,10.0,10069.0,Unreliable,Unreliable
+2020,New York,36,"Tompkins County, NY",36109,Black or African American,Not Hispanic or Latino,24.0,4121.0,582.4,786.8
+2020,New York,36,"Tompkins County, NY",36109,White,Not Hispanic or Latino,662.0,77781.0,851.1,669.3
+2020,New York,36,"Ulster County, NY",36111,Asian,Not Hispanic or Latino,12.0,3626.0,Unreliable,Unreliable
+2020,New York,36,"Ulster County, NY",36111,Black or African American,Not Hispanic or Latino,101.0,10713.0,942.8,987.0
+2020,New York,36,"Ulster County, NY",36111,White,Hispanic or Latino,73.0,15614.0,467.5,613.6
+2020,New York,36,"Ulster County, NY",36111,White,Not Hispanic or Latino,1779.0,139056.0,1279.3,758.2
+2020,New York,36,"Ulster County, NY",36111,More than one race,Not Hispanic or Latino,11.0,4251.0,Unreliable,Unreliable
+2020,New York,36,"Warren County, NY",36113,White,Not Hispanic or Latino,773.0,59459.0,1300.1,790.7
+2020,New York,36,"Washington County, NY",36115,White,Not Hispanic or Latino,750.0,55734.0,1345.7,879.4
+2020,New York,36,"Wayne County, NY",36117,Black or African American,Not Hispanic or Latino,33.0,2506.0,1316.8,1139.4
+2020,New York,36,"Wayne County, NY",36117,White,Hispanic or Latino,18.0,3467.0,Unreliable,Unreliable
+2020,New York,36,"Wayne County, NY",36117,White,Not Hispanic or Latino,914.0,79935.0,1143.4,777.3
+2020,New York,36,"Westchester County, NY",36119,Asian,Not Hispanic or Latino,270.0,61708.0,437.5,395.3
+2020,New York,36,"Westchester County, NY",36119,Black or African American,Hispanic or Latino,32.0,29684.0,107.8,188.9
+2020,New York,36,"Westchester County, NY",36119,Black or African American,Not Hispanic or Latino,1503.0,133555.0,1125.4,919.1
+2020,New York,36,"Westchester County, NY",36119,Black or African American,Not Stated,28.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Westchester County, NY",36119,White,Hispanic or Latino,1197.0,197798.0,605.2,770.7
+2020,New York,36,"Westchester County, NY",36119,White,Not Hispanic or Latino,6536.0,504207.0,1296.3,654.7
+2020,New York,36,"Westchester County, NY",36119,White,Not Stated,42.0,Not Applicable,Not Applicable,Not Applicable
+2020,New York,36,"Westchester County, NY",36119,More than one race,Not Hispanic or Latino,15.0,15742.0,Unreliable,Unreliable
+2020,New York,36,"Wyoming County, NY",36121,White,Not Hispanic or Latino,450.0,35406.0,1271.0,902.4
+2020,New York,36,"Yates County, NY",36123,White,Not Hispanic or Latino,301.0,23489.0,1281.5,836.1
+2021 (provisional),New York,36,"Albany County, NY",36001,Asian,Not Hispanic or Latino,61.0,20935.0,291.4,452.4
+2021 (provisional),New York,36,"Albany County, NY",36001,Black or African American,Not Hispanic or Latino,443.0,39109.0,1132.7,1273.4
+2021 (provisional),New York,36,"Albany County, NY",36001,White,Hispanic or Latino,52.0,13135.0,395.9,575.5
+2021 (provisional),New York,36,"Albany County, NY",36001,White,Not Hispanic or Latino,2599.0,215416.0,1206.5,763.7
+2021 (provisional),New York,36,"Albany County, NY",36001,More than one race,Not Hispanic or Latino,12.0,7775.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Allegany County, NY",36003,White,Not Hispanic or Latino,559.0,42978.0,1300.7,925.7
+2021 (provisional),New York,36,"Bronx County, NY",36005,Asian,Not Hispanic or Latino,264.0,58226.0,453.4,445.6
+2021 (provisional),New York,36,"Bronx County, NY",36005,Asian,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Bronx County, NY",36005,Black or African American,Hispanic or Latino,289.0,207752.0,139.1,157.1
+2021 (provisional),New York,36,"Bronx County, NY",36005,Black or African American,Not Hispanic or Latino,4032.0,408352.0,987.4,883.6
+2021 (provisional),New York,36,"Bronx County, NY",36005,Black or African American,Not Stated,155.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Bronx County, NY",36005,White,Hispanic or Latino,4773.0,493403.0,967.4,993.3
+2021 (provisional),New York,36,"Bronx County, NY",36005,White,Not Hispanic or Latino,2046.0,125038.0,1636.3,837.1
+2021 (provisional),New York,36,"Bronx County, NY",36005,White,Not Stated,155.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Bronx County, NY",36005,More than one race,Not Hispanic or Latino,16.0,14153.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Broome County, NY",36007,Asian,Not Hispanic or Latino,27.0,8380.0,322.2,523.8
+2021 (provisional),New York,36,"Broome County, NY",36007,Black or African American,Not Hispanic or Latino,126.0,10807.0,1165.9,1782.2
+2021 (provisional),New York,36,"Broome County, NY",36007,White,Hispanic or Latino,24.0,5958.0,402.8,650.8
+2021 (provisional),New York,36,"Broome County, NY",36007,White,Not Hispanic or Latino,2319.0,155857.0,1487.9,888.9
+2021 (provisional),New York,36,"Cattaraugus County, NY",36009,American Indian or Alaska Native,Not Hispanic or Latino,40.0,2532.0,1579.8,1635.6
+2021 (provisional),New York,36,"Cattaraugus County, NY",36009,Black or African American,Not Hispanic or Latino,11.0,1007.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Cattaraugus County, NY",36009,White,Not Hispanic or Latino,1089.0,68382.0,1592.5,1082.4
+2021 (provisional),New York,36,"Cayuga County, NY",36011,Black or African American,Not Hispanic or Latino,20.0,3053.0,655.1,1032.8
+2021 (provisional),New York,36,"Cayuga County, NY",36011,White,Not Hispanic or Latino,909.0,68144.0,1333.9,851.6
+2021 (provisional),New York,36,"Chautauqua County, NY",36013,Black or African American,Not Hispanic or Latino,28.0,2695.0,1039.0,1273.4
+2021 (provisional),New York,36,"Chautauqua County, NY",36013,White,Hispanic or Latino,59.0,8355.0,706.2,1308.1
+2021 (provisional),New York,36,"Chautauqua County, NY",36013,White,Not Hispanic or Latino,1768.0,109317.0,1617.3,976.1
+2021 (provisional),New York,36,"Chemung County, NY",36015,Asian,Not Hispanic or Latino,10.0,1158.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Chemung County, NY",36015,Black or African American,Not Hispanic or Latino,51.0,4857.0,1050.0,1143.2
+2021 (provisional),New York,36,"Chemung County, NY",36015,White,Not Hispanic or Latino,1066.0,70880.0,1504.0,971.3
+2021 (provisional),New York,36,"Chenango County, NY",36017,White,Not Hispanic or Latino,685.0,44183.0,1550.4,1027.9
+2021 (provisional),New York,36,"Clinton County, NY",36019,White,Not Hispanic or Latino,853.0,71803.0,1188.0,855.4
+2021 (provisional),New York,36,"Columbia County, NY",36021,Black or African American,Not Hispanic or Latino,33.0,2720.0,1213.2,1051.1
+2021 (provisional),New York,36,"Columbia County, NY",36021,White,Hispanic or Latino,15.0,2458.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Columbia County, NY",36021,White,Not Hispanic or Latino,704.0,51093.0,1377.9,766.2
+2021 (provisional),New York,36,"Cortland County, NY",36023,Black or African American,Not Hispanic or Latino,13.0,852.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Cortland County, NY",36023,White,Not Hispanic or Latino,530.0,43424.0,1220.5,934.2
+2021 (provisional),New York,36,"Delaware County, NY",36025,White,Hispanic or Latino,11.0,1429.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Delaware County, NY",36025,White,Not Hispanic or Latino,651.0,40199.0,1619.4,887.1
+2021 (provisional),New York,36,"Dutchess County, NY",36027,Asian,Not Hispanic or Latino,53.0,10558.0,502.0,425.8
+2021 (provisional),New York,36,"Dutchess County, NY",36027,Black or African American,Not Hispanic or Latino,301.0,31227.0,963.9,970.3
+2021 (provisional),New York,36,"Dutchess County, NY",36027,White,Hispanic or Latino,146.0,31191.0,468.1,666.6
+2021 (provisional),New York,36,"Dutchess County, NY",36027,White,Not Hispanic or Latino,2604.0,205339.0,1268.1,767.3
+2021 (provisional),New York,36,"Dutchess County, NY",36027,More than one race,Not Hispanic or Latino,10.0,6349.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Erie County, NY",36029,American Indian or Alaska Native,Not Hispanic or Latino,68.0,5138.0,1323.5,1266.9
+2021 (provisional),New York,36,"Erie County, NY",36029,Asian,Not Hispanic or Latino,137.0,36534.0,375.0,619.5
+2021 (provisional),New York,36,"Erie County, NY",36029,Black or African American,Hispanic or Latino,13.0,8666.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Erie County, NY",36029,Black or African American,Not Hispanic or Latino,1536.0,120258.0,1277.3,1265.3
+2021 (provisional),New York,36,"Erie County, NY",36029,White,Hispanic or Latino,288.0,40469.0,711.7,1033.4
+2021 (provisional),New York,36,"Erie County, NY",36029,White,Not Hispanic or Latino,8812.0,682944.0,1290.3,803.1
+2021 (provisional),New York,36,"Erie County, NY",36029,More than one race,Not Hispanic or Latino,24.0,17440.0,137.6,266.0
+2021 (provisional),New York,36,"Essex County, NY",36031,White,Not Hispanic or Latino,484.0,33951.0,1425.6,806.2
+2021 (provisional),New York,36,"Franklin County, NY",36033,American Indian or Alaska Native,Not Hispanic or Latino,44.0,3593.0,1224.6,1102.1
+2021 (provisional),New York,36,"Franklin County, NY",36033,White,Not Hispanic or Latino,492.0,40829.0,1205.0,864.6
+2021 (provisional),New York,36,"Fulton County, NY",36035,Black or African American,Not Hispanic or Latino,12.0,1017.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Fulton County, NY",36035,White,Not Hispanic or Latino,783.0,48544.0,1613.0,1050.1
+2021 (provisional),New York,36,"Genesee County, NY",36037,Black or African American,Not Hispanic or Latino,20.0,1568.0,1275.5,1453.5
+2021 (provisional),New York,36,"Genesee County, NY",36037,White,Not Hispanic or Latino,697.0,51399.0,1356.1,863.1
+2021 (provisional),New York,36,"Greene County, NY",36039,Black or African American,Not Hispanic or Latino,22.0,2569.0,856.4,1187.7
+2021 (provisional),New York,36,"Greene County, NY",36039,White,Hispanic or Latino,10.0,2449.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Greene County, NY",36039,White,Not Hispanic or Latino,617.0,39910.0,1546.0,905.2
+2021 (provisional),New York,36,"Hamilton County, NY",36041,White,Not Hispanic or Latino,78.0,4100.0,1902.4,960.4
+2021 (provisional),New York,36,"Herkimer County, NY",36043,White,Not Hispanic or Latino,825.0,57231.0,1441.5,892.9
+2021 (provisional),New York,36,"Jefferson County, NY",36045,Black or African American,Not Hispanic or Latino,21.0,6164.0,340.7,1056.6
+2021 (provisional),New York,36,"Jefferson County, NY",36045,White,Not Hispanic or Latino,1038.0,87957.0,1180.1,930.7
+2021 (provisional),New York,36,"Kings County, NY",36047,Asian,Not Hispanic or Latino,1490.0,322772.0,461.6,459.7
+2021 (provisional),New York,36,"Kings County, NY",36047,Asian,Not Stated,22.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Kings County, NY",36047,Black or African American,Hispanic or Latino,291.0,104143.0,279.4,393.0
+2021 (provisional),New York,36,"Kings County, NY",36047,Black or African American,Not Hispanic or Latino,6787.0,746209.0,909.5,739.4
+2021 (provisional),New York,36,"Kings County, NY",36047,Black or African American,Not Stated,218.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Kings County, NY",36047,White,Hispanic or Latino,2534.0,325802.0,777.8,797.3
+2021 (provisional),New York,36,"Kings County, NY",36047,White,Not Hispanic or Latino,7140.0,937202.0,761.8,596.5
+2021 (provisional),New York,36,"Kings County, NY",36047,White,Not Stated,201.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Kings County, NY",36047,More than one race,Hispanic or Latino,15.0,19774.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Kings County, NY",36047,More than one race,Not Hispanic or Latino,31.0,50690.0,61.2,106.5
+2021 (provisional),New York,36,"Lewis County, NY",36049,White,Not Hispanic or Latino,303.0,25132.0,1205.6,852.4
+2021 (provisional),New York,36,"Livingston County, NY",36051,Black or African American,Not Hispanic or Latino,15.0,1591.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Livingston County, NY",36051,White,Not Hispanic or Latino,652.0,56343.0,1157.2,789.2
+2021 (provisional),New York,36,"Madison County, NY",36053,White,Not Hispanic or Latino,701.0,65370.0,1072.4,761.9
+2021 (provisional),New York,36,"Monroe County, NY",36055,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1594.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Monroe County, NY",36055,Asian,Not Hispanic or Latino,102.0,27071.0,376.8,485.5
+2021 (provisional),New York,36,"Monroe County, NY",36055,Black or African American,Not Hispanic or Latino,1232.0,108460.0,1135.9,1260.6
+2021 (provisional),New York,36,"Monroe County, NY",36055,White,Hispanic or Latino,398.0,50759.0,784.1,1137.5
+2021 (provisional),New York,36,"Monroe County, NY",36055,White,Not Hispanic or Latino,6308.0,516134.0,1222.2,736.0
+2021 (provisional),New York,36,"Monroe County, NY",36055,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Monroe County, NY",36055,More than one race,Not Hispanic or Latino,24.0,16886.0,142.1,265.5
+2021 (provisional),New York,36,"Montgomery County, NY",36057,Black or African American,Not Hispanic or Latino,10.0,1124.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Montgomery County, NY",36057,White,Hispanic or Latino,52.0,6381.0,814.9,1197.0
+2021 (provisional),New York,36,"Montgomery County, NY",36057,White,Not Hispanic or Latino,668.0,39142.0,1706.6,1031.2
+2021 (provisional),New York,36,"Nassau County, NY",36059,Asian,Not Hispanic or Latino,610.0,153947.0,396.2,425.1
+2021 (provisional),New York,36,"Nassau County, NY",36059,Black or African American,Hispanic or Latino,35.0,19654.0,178.1,341.7
+2021 (provisional),New York,36,"Nassau County, NY",36059,Black or African American,Not Hispanic or Latino,1291.0,158781.0,813.1,720.2
+2021 (provisional),New York,36,"Nassau County, NY",36059,White,Hispanic or Latino,931.0,199655.0,466.3,605.1
+2021 (provisional),New York,36,"Nassau County, NY",36059,White,Not Hispanic or Latino,9209.0,779369.0,1181.6,630.9
+2021 (provisional),New York,36,"Nassau County, NY",36059,White,Not Stated,33.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Nassau County, NY",36059,More than one race,Not Hispanic or Latino,34.0,19838.0,171.4,256.7
+2021 (provisional),New York,36,"New York County, NY",36061,Asian,Not Hispanic or Latino,1120.0,204630.0,547.3,427.4
+2021 (provisional),New York,36,"New York County, NY",36061,Asian,Not Stated,30.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"New York County, NY",36061,Black or African American,Hispanic or Latino,116.0,88734.0,130.7,103.2
+2021 (provisional),New York,36,"New York County, NY",36061,Black or African American,Not Hispanic or Latino,2411.0,199749.0,1207.0,926.3
+2021 (provisional),New York,36,"New York County, NY",36061,Black or African American,Not Stated,128.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"New York County, NY",36061,White,Hispanic or Latino,2791.0,277400.0,1006.1,804.3
+2021 (provisional),New York,36,"New York County, NY",36061,White,Not Hispanic or Latino,4431.0,757517.0,584.9,390.9
+2021 (provisional),New York,36,"New York County, NY",36061,White,Not Stated,231.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"New York County, NY",36061,More than one race,Not Hispanic or Latino,27.0,34314.0,78.7,157.5
+2021 (provisional),New York,36,"Niagara County, NY",36063,American Indian or Alaska Native,Not Hispanic or Latino,45.0,2135.0,2107.7,1866.9
+2021 (provisional),New York,36,"Niagara County, NY",36063,Asian,Not Hispanic or Latino,15.0,2423.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Niagara County, NY",36063,Black or African American,Not Hispanic or Latino,221.0,14698.0,1503.6,1539.5
+2021 (provisional),New York,36,"Niagara County, NY",36063,White,Hispanic or Latino,32.0,5520.0,579.7,985.8
+2021 (provisional),New York,36,"Niagara County, NY",36063,White,Not Hispanic or Latino,2637.0,176469.0,1494.3,951.4
+2021 (provisional),New York,36,"Niagara County, NY",36063,More than one race,Not Hispanic or Latino,15.0,5336.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Oneida County, NY",36065,Asian,Not Hispanic or Latino,60.0,9324.0,643.5,1113.2
+2021 (provisional),New York,36,"Oneida County, NY",36065,Black or African American,Not Hispanic or Latino,146.0,13996.0,1043.2,1403.1
+2021 (provisional),New York,36,"Oneida County, NY",36065,White,Hispanic or Latino,62.0,10571.0,586.5,922.9
+2021 (provisional),New York,36,"Oneida County, NY",36065,White,Not Hispanic or Latino,2749.0,184281.0,1491.7,909.8
+2021 (provisional),New York,36,"Onondaga County, NY",36067,American Indian or Alaska Native,Not Hispanic or Latino,43.0,3404.0,1263.2,1144.7
+2021 (provisional),New York,36,"Onondaga County, NY",36067,Asian,Not Hispanic or Latino,64.0,17438.0,367.0,525.5
+2021 (provisional),New York,36,"Onondaga County, NY",36067,Black or African American,Hispanic or Latino,15.0,5125.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Onondaga County, NY",36067,Black or African American,Not Hispanic or Latino,522.0,50473.0,1034.2,1246.8
+2021 (provisional),New York,36,"Onondaga County, NY",36067,White,Hispanic or Latino,82.0,16240.0,504.9,794.7
+2021 (provisional),New York,36,"Onondaga County, NY",36067,White,Not Hispanic or Latino,4426.0,349712.0,1265.6,808.8
+2021 (provisional),New York,36,"Onondaga County, NY",36067,More than one race,Not Hispanic or Latino,13.0,13382.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Ontario County, NY",36069,Black or African American,Not Hispanic or Latino,30.0,2544.0,1179.2,1193.5
+2021 (provisional),New York,36,"Ontario County, NY",36069,White,Hispanic or Latino,20.0,4451.0,449.3,749.3
+2021 (provisional),New York,36,"Ontario County, NY",36069,White,Not Hispanic or Latino,1138.0,98263.0,1158.1,736.6
+2021 (provisional),New York,36,"Orange County, NY",36071,Asian,Not Hispanic or Latino,51.0,11111.0,459.0,504.6
+2021 (provisional),New York,36,"Orange County, NY",36071,Black or African American,Hispanic or Latino,15.0,11133.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Orange County, NY",36071,Black or African American,Not Hispanic or Latino,309.0,41627.0,742.3,851.1
+2021 (provisional),New York,36,"Orange County, NY",36071,White,Hispanic or Latino,310.0,66568.0,465.7,694.5
+2021 (provisional),New York,36,"Orange County, NY",36071,White,Not Hispanic or Latino,2425.0,237888.0,1019.4,756.6
+2021 (provisional),New York,36,"Orange County, NY",36071,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Orange County, NY",36071,More than one race,Not Hispanic or Latino,23.0,8146.0,282.3,439.7
+2021 (provisional),New York,36,"Orleans County, NY",36073,Black or African American,Not Hispanic or Latino,30.0,2237.0,1341.1,1546.4
+2021 (provisional),New York,36,"Orleans County, NY",36073,White,Not Hispanic or Latino,446.0,34413.0,1296.0,847.4
+2021 (provisional),New York,36,"Oswego County, NY",36075,Black or African American,Not Hispanic or Latino,11.0,1139.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Oswego County, NY",36075,White,Hispanic or Latino,12.0,2619.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Oswego County, NY",36075,White,Not Hispanic or Latino,1289.0,108909.0,1183.6,925.0
+2021 (provisional),New York,36,"Otsego County, NY",36077,Black or African American,Not Hispanic or Latino,11.0,1267.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Otsego County, NY",36077,White,Not Hispanic or Latino,708.0,53340.0,1327.3,828.0
+2021 (provisional),New York,36,"Putnam County, NY",36079,Black or African American,Not Hispanic or Latino,12.0,3089.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Putnam County, NY",36079,White,Hispanic or Latino,38.0,14428.0,263.4,401.3
+2021 (provisional),New York,36,"Putnam County, NY",36079,White,Not Hispanic or Latino,692.0,74873.0,924.2,590.2
+2021 (provisional),New York,36,"Queens County, NY",36081,Asian,Not Hispanic or Latino,3135.0,601159.0,521.5,447.5
+2021 (provisional),New York,36,"Queens County, NY",36081,Asian,Not Stated,31.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Queens County, NY",36081,Black or African American,Hispanic or Latino,126.0,63938.0,197.1,260.1
+2021 (provisional),New York,36,"Queens County, NY",36081,Black or African American,Not Hispanic or Latino,3913.0,397419.0,984.6,767.1
+2021 (provisional),New York,36,"Queens County, NY",36081,Black or African American,Not Stated,116.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Queens County, NY",36081,White,Hispanic or Latino,2595.0,503510.0,515.4,524.9
+2021 (provisional),New York,36,"Queens County, NY",36081,White,Not Hispanic or Latino,7027.0,547587.0,1283.3,670.6
+2021 (provisional),New York,36,"Queens County, NY",36081,White,Not Stated,181.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Queens County, NY",36081,More than one race,Hispanic or Latino,10.0,20388.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Queens County, NY",36081,More than one race,Not Hispanic or Latino,38.0,46956.0,80.9,103.1
+2021 (provisional),New York,36,"Rensselaer County, NY",36083,Asian,Not Hispanic or Latino,16.0,4449.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Rensselaer County, NY",36083,Black or African American,Not Hispanic or Latino,118.0,11320.0,1042.4,1377.6
+2021 (provisional),New York,36,"Rensselaer County, NY",36083,White,Hispanic or Latino,25.0,5839.0,428.2,756.6
+2021 (provisional),New York,36,"Rensselaer County, NY",36083,White,Not Hispanic or Latino,1615.0,129924.0,1243.0,850.0
+2021 (provisional),New York,36,"Richmond County, NY",36085,Asian,Not Hispanic or Latino,254.0,54804.0,463.5,464.5
+2021 (provisional),New York,36,"Richmond County, NY",36085,Black or African American,Hispanic or Latino,14.0,11108.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Richmond County, NY",36085,Black or African American,Not Hispanic or Latino,352.0,44585.0,789.5,845.0
+2021 (provisional),New York,36,"Richmond County, NY",36085,Black or African American,Not Stated,19.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Richmond County, NY",36085,White,Hispanic or Latino,385.0,70287.0,547.8,722.7
+2021 (provisional),New York,36,"Richmond County, NY",36085,White,Not Hispanic or Latino,3229.0,278773.0,1158.3,745.1
+2021 (provisional),New York,36,"Richmond County, NY",36085,White,Not Stated,103.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Rockland County, NY",36087,Asian,Not Hispanic or Latino,96.0,19998.0,480.0,336.3
+2021 (provisional),New York,36,"Rockland County, NY",36087,Black or African American,Hispanic or Latino,10.0,6396.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Rockland County, NY",36087,Black or African American,Not Hispanic or Latino,285.0,36252.0,786.2,665.5
+2021 (provisional),New York,36,"Rockland County, NY",36087,White,Hispanic or Latino,200.0,49236.0,406.2,577.5
+2021 (provisional),New York,36,"Rockland County, NY",36087,White,Not Hispanic or Latino,1870.0,204267.0,915.5,626.6
+2021 (provisional),New York,36,"St. Lawrence County, NY",36089,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1016.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"St. Lawrence County, NY",36089,Black or African American,Not Hispanic or Latino,12.0,2406.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"St. Lawrence County, NY",36089,White,Not Hispanic or Latino,1223.0,98552.0,1241.0,906.2
+2021 (provisional),New York,36,"Saratoga County, NY",36091,Asian,Not Hispanic or Latino,18.0,6504.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Saratoga County, NY",36091,Black or African American,Not Hispanic or Latino,34.0,4233.0,803.2,1017.2
+2021 (provisional),New York,36,"Saratoga County, NY",36091,White,Hispanic or Latino,20.0,6501.0,307.6,470.1
+2021 (provisional),New York,36,"Saratoga County, NY",36091,White,Not Hispanic or Latino,2285.0,207152.0,1103.1,764.4
+2021 (provisional),New York,36,"Schenectady County, NY",36093,Asian,Not Hispanic or Latino,32.0,7876.0,406.3,503.0
+2021 (provisional),New York,36,"Schenectady County, NY",36093,Black or African American,Not Hispanic or Latino,171.0,17745.0,963.7,1241.7
+2021 (provisional),New York,36,"Schenectady County, NY",36093,White,Hispanic or Latino,58.0,7875.0,736.5,1223.0
+2021 (provisional),New York,36,"Schenectady County, NY",36093,White,Not Hispanic or Latino,1566.0,111518.0,1404.3,854.9
+2021 (provisional),New York,36,"Schoharie County, NY",36095,White,Not Hispanic or Latino,344.0,28828.0,1193.3,738.6
+2021 (provisional),New York,36,"Schuyler County, NY",36097,White,Not Hispanic or Latino,257.0,16724.0,1536.7,982.1
+2021 (provisional),New York,36,"Seneca County, NY",36099,White,Not Hispanic or Latino,397.0,30016.0,1322.6,882.1
+2021 (provisional),New York,36,"Steuben County, NY",36101,Black or African American,Not Hispanic or Latino,18.0,1478.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Steuben County, NY",36101,White,Not Hispanic or Latino,1231.0,88233.0,1395.2,936.1
+2021 (provisional),New York,36,"Suffolk County, NY",36103,American Indian or Alaska Native,Not Hispanic or Latino,23.0,2956.0,778.1,640.6
+2021 (provisional),New York,36,"Suffolk County, NY",36103,Asian,Not Hispanic or Latino,276.0,62248.0,443.4,470.2
+2021 (provisional),New York,36,"Suffolk County, NY",36103,Black or African American,Hispanic or Latino,43.0,21273.0,202.1,435.0
+2021 (provisional),New York,36,"Suffolk County, NY",36103,Black or African American,Not Hispanic or Latino,1008.0,112271.0,897.8,957.0
+2021 (provisional),New York,36,"Suffolk County, NY",36103,White,Hispanic or Latino,1188.0,261287.0,454.7,677.0
+2021 (provisional),New York,36,"Suffolk County, NY",36103,White,Not Hispanic or Latino,11681.0,973090.0,1200.4,722.5
+2021 (provisional),New York,36,"Suffolk County, NY",36103,White,Not Stated,33.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Suffolk County, NY",36103,More than one race,Not Hispanic or Latino,48.0,21159.0,226.9,438.2
+2021 (provisional),New York,36,"Sullivan County, NY",36105,Black or African American,Not Hispanic or Latino,84.0,6265.0,1340.8,1301.5
+2021 (provisional),New York,36,"Sullivan County, NY",36105,White,Hispanic or Latino,57.0,10305.0,553.1,782.1
+2021 (provisional),New York,36,"Sullivan County, NY",36105,White,Not Hispanic or Latino,713.0,53247.0,1339.0,879.9
+2021 (provisional),New York,36,"Tioga County, NY",36107,White,Not Hispanic or Latino,544.0,45316.0,1200.5,742.9
+2021 (provisional),New York,36,"Tompkins County, NY",36109,Asian,Not Hispanic or Latino,15.0,10069.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Tompkins County, NY",36109,Black or African American,Not Hispanic or Latino,30.0,4121.0,728.0,1060.3
+2021 (provisional),New York,36,"Tompkins County, NY",36109,White,Not Hispanic or Latino,706.0,77781.0,907.7,713.7
+2021 (provisional),New York,36,"Ulster County, NY",36111,Asian,Not Hispanic or Latino,11.0,3626.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Ulster County, NY",36111,Black or African American,Not Hispanic or Latino,94.0,10713.0,877.4,915.1
+2021 (provisional),New York,36,"Ulster County, NY",36111,White,Hispanic or Latino,90.0,15614.0,576.4,763.5
+2021 (provisional),New York,36,"Ulster County, NY",36111,White,Not Hispanic or Latino,1830.0,139056.0,1316.0,777.5
+2021 (provisional),New York,36,"Warren County, NY",36113,White,Not Hispanic or Latino,870.0,59459.0,1463.2,900.8
+2021 (provisional),New York,36,"Washington County, NY",36115,White,Not Hispanic or Latino,770.0,55734.0,1381.6,912.8
+2021 (provisional),New York,36,"Wayne County, NY",36117,Black or African American,Not Hispanic or Latino,36.0,2506.0,1436.6,1367.8
+2021 (provisional),New York,36,"Wayne County, NY",36117,White,Hispanic or Latino,19.0,3467.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Wayne County, NY",36117,White,Not Hispanic or Latino,977.0,79935.0,1222.2,834.8
+2021 (provisional),New York,36,"Westchester County, NY",36119,Asian,Not Hispanic or Latino,257.0,61708.0,416.5,375.9
+2021 (provisional),New York,36,"Westchester County, NY",36119,Black or African American,Hispanic or Latino,34.0,29684.0,114.5,157.7
+2021 (provisional),New York,36,"Westchester County, NY",36119,Black or African American,Not Hispanic or Latino,1192.0,133555.0,892.5,728.4
+2021 (provisional),New York,36,"Westchester County, NY",36119,White,Hispanic or Latino,942.0,197798.0,476.2,614.2
+2021 (provisional),New York,36,"Westchester County, NY",36119,White,Not Hispanic or Latino,5526.0,504207.0,1096.0,564.1
+2021 (provisional),New York,36,"Westchester County, NY",36119,White,Not Stated,19.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),New York,36,"Westchester County, NY",36119,More than one race,Not Hispanic or Latino,18.0,15742.0,Unreliable,Unreliable
+2021 (provisional),New York,36,"Wyoming County, NY",36121,White,Not Hispanic or Latino,426.0,35406.0,1203.2,853.4
+2021 (provisional),New York,36,"Yates County, NY",36123,White,Not Hispanic or Latino,277.0,23489.0,1179.3,772.4
+2022 (provisional and partial),New York,36,"Albany County, NY",36001,Black or African American,Not Hispanic or Latino,44.0,39109.0,112.5,135.7
+2022 (provisional and partial),New York,36,"Albany County, NY",36001,White,Hispanic or Latino,16.0,13135.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Albany County, NY",36001,White,Not Hispanic or Latino,375.0,215416.0,174.1,110.8
+2022 (provisional and partial),New York,36,"Allegany County, NY",36003,White,Not Hispanic or Latino,90.0,42978.0,209.4,151.9
+2022 (provisional and partial),New York,36,"Bronx County, NY",36005,Asian,Not Hispanic or Latino,38.0,58226.0,65.3,61.3
+2022 (provisional and partial),New York,36,"Bronx County, NY",36005,Black or African American,Hispanic or Latino,45.0,207752.0,21.7,23.5
+2022 (provisional and partial),New York,36,"Bronx County, NY",36005,Black or African American,Not Hispanic or Latino,718.0,408352.0,175.8,159.9
+2022 (provisional and partial),New York,36,"Bronx County, NY",36005,Black or African American,Not Stated,38.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Bronx County, NY",36005,White,Hispanic or Latino,799.0,493403.0,161.9,168.4
+2022 (provisional and partial),New York,36,"Bronx County, NY",36005,White,Not Hispanic or Latino,358.0,125038.0,286.3,136.3
+2022 (provisional and partial),New York,36,"Bronx County, NY",36005,White,Not Stated,36.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Broome County, NY",36007,Black or African American,Not Hispanic or Latino,11.0,10807.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Broome County, NY",36007,White,Not Hispanic or Latino,326.0,155857.0,209.2,127.7
+2022 (provisional and partial),New York,36,"Cattaraugus County, NY",36009,White,Not Hispanic or Latino,153.0,68382.0,223.7,150.7
+2022 (provisional and partial),New York,36,"Cayuga County, NY",36011,White,Not Hispanic or Latino,142.0,68144.0,208.4,129.7
+2022 (provisional and partial),New York,36,"Chautauqua County, NY",36013,White,Not Hispanic or Latino,255.0,109317.0,233.3,144.4
+2022 (provisional and partial),New York,36,"Chemung County, NY",36015,Black or African American,Not Hispanic or Latino,10.0,4857.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Chemung County, NY",36015,White,Not Hispanic or Latino,161.0,70880.0,227.1,142.8
+2022 (provisional and partial),New York,36,"Chenango County, NY",36017,White,Not Hispanic or Latino,105.0,44183.0,237.6,155.6
+2022 (provisional and partial),New York,36,"Clinton County, NY",36019,White,Not Hispanic or Latino,124.0,71803.0,172.7,122.6
+2022 (provisional and partial),New York,36,"Columbia County, NY",36021,White,Not Hispanic or Latino,94.0,51093.0,184.0,97.9
+2022 (provisional and partial),New York,36,"Cortland County, NY",36023,White,Not Hispanic or Latino,79.0,43424.0,181.9,135.3
+2022 (provisional and partial),New York,36,"Delaware County, NY",36025,White,Not Hispanic or Latino,100.0,40199.0,248.8,127.6
+2022 (provisional and partial),New York,36,"Dutchess County, NY",36027,Black or African American,Not Hispanic or Latino,66.0,31227.0,211.4,227.6
+2022 (provisional and partial),New York,36,"Dutchess County, NY",36027,White,Hispanic or Latino,21.0,31191.0,67.3,91.0
+2022 (provisional and partial),New York,36,"Dutchess County, NY",36027,White,Not Hispanic or Latino,408.0,205339.0,198.7,116.8
+2022 (provisional and partial),New York,36,"Erie County, NY",36029,American Indian or Alaska Native,Not Hispanic or Latino,14.0,5138.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Erie County, NY",36029,Asian,Not Hispanic or Latino,23.0,36534.0,63.0,97.6
+2022 (provisional and partial),New York,36,"Erie County, NY",36029,Black or African American,Not Hispanic or Latino,267.0,120258.0,222.0,220.4
+2022 (provisional and partial),New York,36,"Erie County, NY",36029,White,Hispanic or Latino,64.0,40469.0,158.1,229.1
+2022 (provisional and partial),New York,36,"Erie County, NY",36029,White,Not Hispanic or Latino,1410.0,682944.0,206.5,129.2
+2022 (provisional and partial),New York,36,"Essex County, NY",36031,White,Not Hispanic or Latino,78.0,33951.0,229.7,123.7
+2022 (provisional and partial),New York,36,"Franklin County, NY",36033,White,Not Hispanic or Latino,76.0,40829.0,186.1,131.0
+2022 (provisional and partial),New York,36,"Fulton County, NY",36035,White,Not Hispanic or Latino,119.0,48544.0,245.1,160.2
+2022 (provisional and partial),New York,36,"Genesee County, NY",36037,White,Not Hispanic or Latino,95.0,51399.0,184.8,119.3
+2022 (provisional and partial),New York,36,"Greene County, NY",36039,White,Not Hispanic or Latino,90.0,39910.0,225.5,129.7
+2022 (provisional and partial),New York,36,"Hamilton County, NY",36041,White,Not Hispanic or Latino,12.0,4100.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Herkimer County, NY",36043,White,Not Hispanic or Latino,116.0,57231.0,202.7,127.4
+2022 (provisional and partial),New York,36,"Jefferson County, NY",36045,White,Not Hispanic or Latino,166.0,87957.0,188.7,151.9
+2022 (provisional and partial),New York,36,"Kings County, NY",36047,Asian,Not Hispanic or Latino,318.0,322772.0,98.5,99.0
+2022 (provisional and partial),New York,36,"Kings County, NY",36047,Black or African American,Hispanic or Latino,47.0,104143.0,45.1,71.8
+2022 (provisional and partial),New York,36,"Kings County, NY",36047,Black or African American,Not Hispanic or Latino,1200.0,746209.0,160.8,130.3
+2022 (provisional and partial),New York,36,"Kings County, NY",36047,Black or African American,Not Stated,38.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Kings County, NY",36047,White,Hispanic or Latino,490.0,325802.0,150.4,155.8
+2022 (provisional and partial),New York,36,"Kings County, NY",36047,White,Not Hispanic or Latino,1302.0,937202.0,138.9,108.1
+2022 (provisional and partial),New York,36,"Kings County, NY",36047,White,Not Stated,46.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Lewis County, NY",36049,White,Not Hispanic or Latino,41.0,25132.0,163.1,116.9
+2022 (provisional and partial),New York,36,"Livingston County, NY",36051,White,Not Hispanic or Latino,118.0,56343.0,209.4,142.3
+2022 (provisional and partial),New York,36,"Madison County, NY",36053,White,Not Hispanic or Latino,112.0,65370.0,171.3,119.0
+2022 (provisional and partial),New York,36,"Monroe County, NY",36055,Asian,Not Hispanic or Latino,18.0,27071.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Monroe County, NY",36055,Black or African American,Not Hispanic or Latino,187.0,108460.0,172.4,195.9
+2022 (provisional and partial),New York,36,"Monroe County, NY",36055,White,Hispanic or Latino,60.0,50759.0,118.2,177.4
+2022 (provisional and partial),New York,36,"Monroe County, NY",36055,White,Not Hispanic or Latino,892.0,516134.0,172.8,102.4
+2022 (provisional and partial),New York,36,"Montgomery County, NY",36057,White,Not Hispanic or Latino,79.0,39142.0,201.8,126.0
+2022 (provisional and partial),New York,36,"Nassau County, NY",36059,Asian,Not Hispanic or Latino,107.0,153947.0,69.5,74.3
+2022 (provisional and partial),New York,36,"Nassau County, NY",36059,Black or African American,Not Hispanic or Latino,204.0,158781.0,128.5,115.6
+2022 (provisional and partial),New York,36,"Nassau County, NY",36059,White,Hispanic or Latino,131.0,199655.0,65.6,87.1
+2022 (provisional and partial),New York,36,"Nassau County, NY",36059,White,Not Hispanic or Latino,1425.0,779369.0,182.8,95.0
+2022 (provisional and partial),New York,36,"New York County, NY",36061,Asian,Not Hispanic or Latino,206.0,204630.0,100.7,75.1
+2022 (provisional and partial),New York,36,"New York County, NY",36061,Black or African American,Hispanic or Latino,13.0,88734.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"New York County, NY",36061,Black or African American,Not Hispanic or Latino,391.0,199749.0,195.7,148.8
+2022 (provisional and partial),New York,36,"New York County, NY",36061,Black or African American,Not Stated,26.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"New York County, NY",36061,White,Hispanic or Latino,471.0,277400.0,169.8,135.2
+2022 (provisional and partial),New York,36,"New York County, NY",36061,White,Not Hispanic or Latino,805.0,757517.0,106.3,70.4
+2022 (provisional and partial),New York,36,"New York County, NY",36061,White,Not Stated,44.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Niagara County, NY",36063,American Indian or Alaska Native,Not Hispanic or Latino,13.0,2135.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Niagara County, NY",36063,Black or African American,Not Hispanic or Latino,29.0,14698.0,197.3,222.8
+2022 (provisional and partial),New York,36,"Niagara County, NY",36063,White,Not Hispanic or Latino,414.0,176469.0,234.6,141.9
+2022 (provisional and partial),New York,36,"Oneida County, NY",36065,Black or African American,Not Hispanic or Latino,16.0,13996.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Oneida County, NY",36065,White,Hispanic or Latino,10.0,10571.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Oneida County, NY",36065,White,Not Hispanic or Latino,379.0,184281.0,205.7,124.5
+2022 (provisional and partial),New York,36,"Onondaga County, NY",36067,Black or African American,Not Hispanic or Latino,63.0,50473.0,124.8,152.3
+2022 (provisional and partial),New York,36,"Onondaga County, NY",36067,White,Hispanic or Latino,20.0,16240.0,123.2,211.9
+2022 (provisional and partial),New York,36,"Onondaga County, NY",36067,White,Not Hispanic or Latino,646.0,349712.0,184.7,116.1
+2022 (provisional and partial),New York,36,"Ontario County, NY",36069,White,Not Hispanic or Latino,168.0,98263.0,171.0,109.2
+2022 (provisional and partial),New York,36,"Orange County, NY",36071,Asian,Not Hispanic or Latino,10.0,11111.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Orange County, NY",36071,Black or African American,Not Hispanic or Latino,63.0,41627.0,151.3,174.5
+2022 (provisional and partial),New York,36,"Orange County, NY",36071,White,Hispanic or Latino,53.0,66568.0,79.6,129.6
+2022 (provisional and partial),New York,36,"Orange County, NY",36071,White,Not Hispanic or Latino,422.0,237888.0,177.4,130.0
+2022 (provisional and partial),New York,36,"Orleans County, NY",36073,White,Not Hispanic or Latino,66.0,34413.0,191.8,129.9
+2022 (provisional and partial),New York,36,"Oswego County, NY",36075,White,Not Hispanic or Latino,214.0,108909.0,196.5,153.5
+2022 (provisional and partial),New York,36,"Otsego County, NY",36077,White,Not Hispanic or Latino,110.0,53340.0,206.2,127.5
+2022 (provisional and partial),New York,36,"Putnam County, NY",36079,White,Hispanic or Latino,10.0,14428.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Putnam County, NY",36079,White,Not Hispanic or Latino,132.0,74873.0,176.3,108.2
+2022 (provisional and partial),New York,36,"Queens County, NY",36081,Asian,Not Hispanic or Latino,511.0,601159.0,85.0,74.6
+2022 (provisional and partial),New York,36,"Queens County, NY",36081,Black or African American,Hispanic or Latino,28.0,63938.0,43.8,57.4
+2022 (provisional and partial),New York,36,"Queens County, NY",36081,Black or African American,Not Hispanic or Latino,685.0,397419.0,172.4,133.8
+2022 (provisional and partial),New York,36,"Queens County, NY",36081,Black or African American,Not Stated,27.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Queens County, NY",36081,White,Hispanic or Latino,478.0,503510.0,94.9,98.0
+2022 (provisional and partial),New York,36,"Queens County, NY",36081,White,Not Hispanic or Latino,1277.0,547587.0,233.2,118.9
+2022 (provisional and partial),New York,36,"Queens County, NY",36081,White,Not Stated,33.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Rensselaer County, NY",36083,Black or African American,Not Hispanic or Latino,20.0,11320.0,176.7,203.0
+2022 (provisional and partial),New York,36,"Rensselaer County, NY",36083,White,Not Hispanic or Latino,225.0,129924.0,173.2,118.4
+2022 (provisional and partial),New York,36,"Richmond County, NY",36085,Asian,Not Hispanic or Latino,44.0,54804.0,80.3,81.3
+2022 (provisional and partial),New York,36,"Richmond County, NY",36085,Black or African American,Not Hispanic or Latino,64.0,44585.0,143.5,153.0
+2022 (provisional and partial),New York,36,"Richmond County, NY",36085,White,Hispanic or Latino,64.0,70287.0,91.1,129.8
+2022 (provisional and partial),New York,36,"Richmond County, NY",36085,White,Not Hispanic or Latino,528.0,278773.0,189.4,119.0
+2022 (provisional and partial),New York,36,"Richmond County, NY",36085,White,Not Stated,21.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),New York,36,"Rockland County, NY",36087,Asian,Not Hispanic or Latino,19.0,19998.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Rockland County, NY",36087,Black or African American,Not Hispanic or Latino,51.0,36252.0,140.7,111.7
+2022 (provisional and partial),New York,36,"Rockland County, NY",36087,White,Hispanic or Latino,35.0,49236.0,71.1,104.0
+2022 (provisional and partial),New York,36,"Rockland County, NY",36087,White,Not Hispanic or Latino,304.0,204267.0,148.8,96.0
+2022 (provisional and partial),New York,36,"St. Lawrence County, NY",36089,White,Not Hispanic or Latino,169.0,98552.0,171.5,127.8
+2022 (provisional and partial),New York,36,"Saratoga County, NY",36091,White,Not Hispanic or Latino,326.0,207152.0,157.4,111.0
+2022 (provisional and partial),New York,36,"Schenectady County, NY",36093,Black or African American,Not Hispanic or Latino,25.0,17745.0,140.9,183.2
+2022 (provisional and partial),New York,36,"Schenectady County, NY",36093,White,Not Hispanic or Latino,222.0,111518.0,199.1,120.4
+2022 (provisional and partial),New York,36,"Schoharie County, NY",36095,White,Not Hispanic or Latino,51.0,28828.0,176.9,102.5
+2022 (provisional and partial),New York,36,"Schuyler County, NY",36097,White,Not Hispanic or Latino,37.0,16724.0,221.2,135.0
+2022 (provisional and partial),New York,36,"Seneca County, NY",36099,White,Not Hispanic or Latino,61.0,30016.0,203.2,130.6
+2022 (provisional and partial),New York,36,"Steuben County, NY",36101,White,Not Hispanic or Latino,182.0,88233.0,206.3,136.5
+2022 (provisional and partial),New York,36,"Suffolk County, NY",36103,Asian,Not Hispanic or Latino,40.0,62248.0,64.3,68.4
+2022 (provisional and partial),New York,36,"Suffolk County, NY",36103,Black or African American,Hispanic or Latino,10.0,21273.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Suffolk County, NY",36103,Black or African American,Not Hispanic or Latino,161.0,112271.0,143.4,155.3
+2022 (provisional and partial),New York,36,"Suffolk County, NY",36103,White,Hispanic or Latino,184.0,261287.0,70.4,112.0
+2022 (provisional and partial),New York,36,"Suffolk County, NY",36103,White,Not Hispanic or Latino,1898.0,973090.0,195.0,114.9
+2022 (provisional and partial),New York,36,"Sullivan County, NY",36105,White,Hispanic or Latino,11.0,10305.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Sullivan County, NY",36105,White,Not Hispanic or Latino,135.0,53247.0,253.5,171.1
+2022 (provisional and partial),New York,36,"Tioga County, NY",36107,White,Not Hispanic or Latino,99.0,45316.0,218.5,140.8
+2022 (provisional and partial),New York,36,"Tompkins County, NY",36109,White,Not Hispanic or Latino,94.0,77781.0,120.9,93.9
+2022 (provisional and partial),New York,36,"Ulster County, NY",36111,Black or African American,Not Hispanic or Latino,14.0,10713.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Ulster County, NY",36111,White,Hispanic or Latino,10.0,15614.0,Unreliable,Unreliable
+2022 (provisional and partial),New York,36,"Ulster County, NY",36111,White,Not Hispanic or Latino,286.0,139056.0,205.7,120.5
+2022 (provisional and partial),New York,36,"Warren County, NY",36113,White,Not Hispanic or Latino,130.0,59459.0,218.6,132.3
+2022 (provisional and partial),New York,36,"Washington County, NY",36115,White,Not Hispanic or Latino,107.0,55734.0,192.0,123.2
+2022 (provisional and partial),New York,36,"Wayne County, NY",36117,White,Not Hispanic or Latino,182.0,79935.0,227.7,151.5
+2022 (provisional and partial),New York,36,"Westchester County, NY",36119,Asian,Not Hispanic or Latino,41.0,61708.0,66.4,60.0
+2022 (provisional and partial),New York,36,"Westchester County, NY",36119,Black or African American,Not Hispanic or Latino,191.0,133555.0,143.0,116.0
+2022 (provisional and partial),New York,36,"Westchester County, NY",36119,White,Hispanic or Latino,155.0,197798.0,78.4,100.1
+2022 (provisional and partial),New York,36,"Westchester County, NY",36119,White,Not Hispanic or Latino,847.0,504207.0,168.0,85.7
+2022 (provisional and partial),New York,36,"Wyoming County, NY",36121,White,Not Hispanic or Latino,59.0,35406.0,166.6,118.4
+2022 (provisional and partial),New York,36,"Yates County, NY",36123,White,Not Hispanic or Latino,43.0,23489.0,183.1,130.1

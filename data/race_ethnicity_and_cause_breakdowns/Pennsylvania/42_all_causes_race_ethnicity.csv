@@ -1,0 +1,775 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Pennsylvania,42,"Adams County, PA",42001,Black or African American,Not Hispanic or Latino,19.0,1641.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Adams County, PA",42001,White,Hispanic or Latino,17.0,6358.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Adams County, PA",42001,White,Not Hispanic or Latino,1082.0,91520.0,1182.3,746.7
+2018,Pennsylvania,42,"Allegheny County, PA",42003,Asian,Not Hispanic or Latino,86.0,49614.0,173.3,319.9
+2018,Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Hispanic or Latino,1677.0,160519.0,1044.7,996.9
+2018,Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Allegheny County, PA",42003,White,Hispanic or Latino,53.0,20615.0,257.1,370.8
+2018,Pennsylvania,42,"Allegheny County, PA",42003,White,Not Hispanic or Latino,11877.0,954940.0,1243.7,755.4
+2018,Pennsylvania,42,"Allegheny County, PA",42003,White,Not Stated,40.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Allegheny County, PA",42003,More than one race,Not Hispanic or Latino,46.0,25076.0,183.4,782.1
+2018,Pennsylvania,42,"Armstrong County, PA",42005,White,Not Hispanic or Latino,814.0,63304.0,1285.9,800.4
+2018,Pennsylvania,42,"Beaver County, PA",42007,Black or African American,Not Hispanic or Latino,125.0,10310.0,1212.4,1119.4
+2018,Pennsylvania,42,"Beaver County, PA",42007,White,Not Hispanic or Latino,2058.0,147259.0,1397.5,823.5
+2018,Pennsylvania,42,"Beaver County, PA",42007,White,Not Stated,16.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Bedford County, PA",42009,White,Not Hispanic or Latino,564.0,46586.0,1210.7,736.4
+2018,Pennsylvania,42,"Berks County, PA",42011,Asian,Not Hispanic or Latino,17.0,6105.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Berks County, PA",42011,Black or African American,Hispanic or Latino,14.0,12523.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Berks County, PA",42011,Black or African American,Not Hispanic or Latino,118.0,17746.0,664.9,833.6
+2018,Pennsylvania,42,"Berks County, PA",42011,White,Hispanic or Latino,267.0,68387.0,390.4,689.5
+2018,Pennsylvania,42,"Berks County, PA",42011,White,Not Hispanic or Latino,3491.0,297906.0,1171.8,695.5
+2018,Pennsylvania,42,"Blair County, PA",42013,Black or African American,Not Hispanic or Latino,17.0,2306.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Blair County, PA",42013,White,Not Hispanic or Latino,1581.0,115817.0,1365.1,843.8
+2018,Pennsylvania,42,"Bradford County, PA",42015,White,Not Hispanic or Latino,707.0,58284.0,1213.0,778.3
+2018,Pennsylvania,42,"Bucks County, PA",42017,Asian,Not Hispanic or Latino,99.0,31874.0,310.6,374.4
+2018,Pennsylvania,42,"Bucks County, PA",42017,Black or African American,Not Hispanic or Latino,161.0,25057.0,642.5,778.9
+2018,Pennsylvania,42,"Bucks County, PA",42017,White,Hispanic or Latino,82.0,29061.0,282.2,423.4
+2018,Pennsylvania,42,"Bucks County, PA",42017,White,Not Hispanic or Latino,5924.0,526137.0,1125.9,727.7
+2018,Pennsylvania,42,"Bucks County, PA",42017,More than one race,Not Hispanic or Latino,10.0,9601.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Butler County, PA",42019,Black or African American,Not Hispanic or Latino,15.0,2330.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Butler County, PA",42019,White,Not Hispanic or Latino,1974.0,177690.0,1110.9,742.7
+2018,Pennsylvania,42,"Cambria County, PA",42021,Black or African American,Not Hispanic or Latino,49.0,4542.0,1078.8,1314.1
+2018,Pennsylvania,42,"Cambria County, PA",42021,White,Not Hispanic or Latino,1782.0,122163.0,1458.7,842.7
+2018,Pennsylvania,42,"Cameron County, PA",42023,White,Not Hispanic or Latino,80.0,4307.0,1857.4,936.0
+2018,Pennsylvania,42,"Carbon County, PA",42025,White,Hispanic or Latino,12.0,2683.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Carbon County, PA",42025,White,Not Hispanic or Latino,770.0,58652.0,1312.8,860.7
+2018,Pennsylvania,42,"Centre County, PA",42027,Black or African American,Not Hispanic or Latino,12.0,5824.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Centre County, PA",42027,White,Not Hispanic or Latino,968.0,138759.0,697.6,561.1
+2018,Pennsylvania,42,"Chester County, PA",42029,Asian,Not Hispanic or Latino,43.0,30201.0,142.4,259.2
+2018,Pennsylvania,42,"Chester County, PA",42029,Black or African American,Not Hispanic or Latino,270.0,29801.0,906.0,886.8
+2018,Pennsylvania,42,"Chester County, PA",42029,White,Hispanic or Latino,73.0,33623.0,217.1,429.8
+2018,Pennsylvania,42,"Chester County, PA",42029,White,Not Hispanic or Latino,3695.0,413128.0,894.4,630.0
+2018,Pennsylvania,42,"Chester County, PA",42029,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Clarion County, PA",42031,White,Not Hispanic or Latino,433.0,37185.0,1164.4,800.9
+2018,Pennsylvania,42,"Clearfield County, PA",42033,White,Not Hispanic or Latino,966.0,73804.0,1308.9,829.6
+2018,Pennsylvania,42,"Clinton County, PA",42035,White,Not Hispanic or Latino,456.0,36763.0,1240.4,867.5
+2018,Pennsylvania,42,"Columbia County, PA",42037,White,Not Hispanic or Latino,717.0,60921.0,1176.9,790.2
+2018,Pennsylvania,42,"Crawford County, PA",42039,Black or African American,Not Hispanic or Latino,20.0,1620.0,1234.6,1654.5
+2018,Pennsylvania,42,"Crawford County, PA",42039,White,Not Hispanic or Latino,987.0,80532.0,1225.6,852.0
+2018,Pennsylvania,42,"Cumberland County, PA",42041,Asian,Not Hispanic or Latino,18.0,11443.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Cumberland County, PA",42041,Black or African American,Not Hispanic or Latino,32.0,10046.0,318.5,684.0
+2018,Pennsylvania,42,"Cumberland County, PA",42041,White,Hispanic or Latino,28.0,8219.0,340.7,824.4
+2018,Pennsylvania,42,"Cumberland County, PA",42041,White,Not Hispanic or Latino,2362.0,214198.0,1102.7,707.4
+2018,Pennsylvania,42,"Dauphin County, PA",42043,Asian,Not Hispanic or Latino,36.0,13499.0,266.7,444.6
+2018,Pennsylvania,42,"Dauphin County, PA",42043,Black or African American,Not Hispanic or Latino,428.0,48153.0,888.8,936.9
+2018,Pennsylvania,42,"Dauphin County, PA",42043,White,Hispanic or Latino,100.0,18764.0,532.9,941.1
+2018,Pennsylvania,42,"Dauphin County, PA",42043,White,Not Hispanic or Latino,1957.0,180519.0,1084.1,695.9
+2018,Pennsylvania,42,"Delaware County, PA",42045,Asian,Not Hispanic or Latino,95.0,33988.0,279.5,351.6
+2018,Pennsylvania,42,"Delaware County, PA",42045,Black or African American,Not Hispanic or Latino,881.0,122260.0,720.6,872.3
+2018,Pennsylvania,42,"Delaware County, PA",42045,White,Hispanic or Latino,53.0,15463.0,342.8,567.9
+2018,Pennsylvania,42,"Delaware County, PA",42045,White,Not Hispanic or Latino,4404.0,374461.0,1176.1,729.1
+2018,Pennsylvania,42,"Delaware County, PA",42045,More than one race,Not Hispanic or Latino,10.0,10975.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Elk County, PA",42047,White,Not Hispanic or Latino,378.0,29352.0,1287.8,772.9
+2018,Pennsylvania,42,"Erie County, PA",42049,Black or African American,Not Hispanic or Latino,149.0,19858.0,750.3,1040.9
+2018,Pennsylvania,42,"Erie County, PA",42049,White,Hispanic or Latino,44.0,9169.0,479.9,838.9
+2018,Pennsylvania,42,"Erie County, PA",42049,White,Not Hispanic or Latino,2696.0,229128.0,1176.6,778.6
+2018,Pennsylvania,42,"Fayette County, PA",42051,Black or African American,Not Hispanic or Latino,57.0,6038.0,944.0,867.4
+2018,Pennsylvania,42,"Fayette County, PA",42051,White,Not Hispanic or Latino,1726.0,119564.0,1443.6,916.0
+2018,Pennsylvania,42,"Forest County, PA",42053,White,Not Hispanic or Latino,75.0,5238.0,1431.8,783.1
+2018,Pennsylvania,42,"Franklin County, PA",42055,Black or African American,Not Hispanic or Latino,45.0,5238.0,859.1,1028.1
+2018,Pennsylvania,42,"Franklin County, PA",42055,White,Hispanic or Latino,14.0,7207.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Franklin County, PA",42055,White,Not Hispanic or Latino,1551.0,135829.0,1141.9,721.8
+2018,Pennsylvania,42,"Fulton County, PA",42057,White,Not Hispanic or Latino,144.0,13925.0,1034.1,704.3
+2018,Pennsylvania,42,"Greene County, PA",42059,White,Not Hispanic or Latino,461.0,34117.0,1351.2,968.8
+2018,Pennsylvania,42,"Huntingdon County, PA",42061,White,Not Hispanic or Latino,506.0,40893.0,1237.4,813.1
+2018,Pennsylvania,42,"Indiana County, PA",42063,White,Not Hispanic or Latino,868.0,79281.0,1094.8,757.9
+2018,Pennsylvania,42,"Jefferson County, PA",42065,White,Not Hispanic or Latino,572.0,42400.0,1349.1,850.7
+2018,Pennsylvania,42,"Juniata County, PA",42067,White,Not Hispanic or Latino,241.0,23202.0,1038.7,669.5
+2018,Pennsylvania,42,"Lackawanna County, PA",42069,Asian,Not Hispanic or Latino,12.0,6463.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Lackawanna County, PA",42069,Black or African American,Not Hispanic or Latino,47.0,6154.0,763.7,1211.0
+2018,Pennsylvania,42,"Lackawanna County, PA",42069,White,Hispanic or Latino,52.0,13484.0,385.6,785.5
+2018,Pennsylvania,42,"Lackawanna County, PA",42069,White,Not Hispanic or Latino,2664.0,177750.0,1498.7,900.0
+2018,Pennsylvania,42,"Lancaster County, PA",42071,Asian,Not Hispanic or Latino,41.0,12923.0,317.3,426.0
+2018,Pennsylvania,42,"Lancaster County, PA",42071,Black or African American,Not Hispanic or Latino,105.0,19463.0,539.5,846.5
+2018,Pennsylvania,42,"Lancaster County, PA",42071,White,Hispanic or Latino,182.0,44587.0,408.2,678.8
+2018,Pennsylvania,42,"Lancaster County, PA",42071,White,Not Hispanic or Latino,4807.0,443304.0,1084.4,675.2
+2018,Pennsylvania,42,"Lancaster County, PA",42071,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Lawrence County, PA",42073,Black or African American,Not Hispanic or Latino,46.0,3577.0,1286.0,1483.4
+2018,Pennsylvania,42,"Lawrence County, PA",42073,White,Not Hispanic or Latino,1126.0,79146.0,1422.7,846.8
+2018,Pennsylvania,42,"Lebanon County, PA",42075,Asian,Not Hispanic or Latino,12.0,2017.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Lebanon County, PA",42075,Black or African American,Not Hispanic or Latino,14.0,2890.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Lebanon County, PA",42075,White,Hispanic or Latino,67.0,15972.0,419.5,913.3
+2018,Pennsylvania,42,"Lebanon County, PA",42075,White,Not Hispanic or Latino,1461.0,115105.0,1269.3,752.3
+2018,Pennsylvania,42,"Lebanon County, PA",42075,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Lehigh County, PA",42077,Asian,Not Hispanic or Latino,39.0,13323.0,292.7,367.4
+2018,Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Hispanic or Latino,10.0,14356.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Not Hispanic or Latino,96.0,21354.0,449.6,773.6
+2018,Pennsylvania,42,"Lehigh County, PA",42077,White,Hispanic or Latino,255.0,71216.0,358.1,658.6
+2018,Pennsylvania,42,"Lehigh County, PA",42077,White,Not Hispanic or Latino,3121.0,233459.0,1336.9,763.0
+2018,Pennsylvania,42,"Luzerne County, PA",42079,Asian,Not Hispanic or Latino,12.0,4109.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Luzerne County, PA",42079,Black or African American,Not Hispanic or Latino,58.0,12893.0,449.9,889.2
+2018,Pennsylvania,42,"Luzerne County, PA",42079,White,Hispanic or Latino,76.0,29562.0,257.1,545.5
+2018,Pennsylvania,42,"Luzerne County, PA",42079,White,Not Hispanic or Latino,3997.0,255436.0,1564.8,899.0
+2018,Pennsylvania,42,"Luzerne County, PA",42079,White,Not Stated,18.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Luzerne County, PA",42079,More than one race,Not Hispanic or Latino,12.0,3918.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Lycoming County, PA",42081,Black or African American,Not Hispanic or Latino,52.0,5126.0,1014.4,1519.5
+2018,Pennsylvania,42,"Lycoming County, PA",42081,White,Not Hispanic or Latino,1250.0,102924.0,1214.5,780.7
+2018,Pennsylvania,42,"Mc Kean County, PA",42083,White,Not Hispanic or Latino,569.0,38261.0,1487.2,959.3
+2018,Pennsylvania,42,"Mercer County, PA",42085,Black or African American,Not Hispanic or Latino,90.0,6336.0,1420.5,1431.7
+2018,Pennsylvania,42,"Mercer County, PA",42085,White,Not Hispanic or Latino,1425.0,99660.0,1429.9,825.9
+2018,Pennsylvania,42,"Mifflin County, PA",42087,White,Not Hispanic or Latino,577.0,44255.0,1303.8,803.6
+2018,Pennsylvania,42,"Monroe County, PA",42089,Asian,Not Hispanic or Latino,14.0,4250.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Monroe County, PA",42089,Black or African American,Not Hispanic or Latino,150.0,22917.0,654.5,812.1
+2018,Pennsylvania,42,"Monroe County, PA",42089,White,Hispanic or Latino,72.0,21252.0,338.8,483.6
+2018,Pennsylvania,42,"Monroe County, PA",42089,White,Not Hispanic or Latino,1293.0,110279.0,1172.5,806.8
+2018,Pennsylvania,42,"Montgomery County, PA",42091,Asian,Not Hispanic or Latino,158.0,65797.0,240.1,304.8
+2018,Pennsylvania,42,"Montgomery County, PA",42091,Black or African American,Not Hispanic or Latino,663.0,77561.0,854.8,800.0
+2018,Pennsylvania,42,"Montgomery County, PA",42091,White,Hispanic or Latino,98.0,35164.0,278.7,479.0
+2018,Pennsylvania,42,"Montgomery County, PA",42091,White,Not Hispanic or Latino,6703.0,624273.0,1073.7,654.8
+2018,Pennsylvania,42,"Montgomery County, PA",42091,White,Not Stated,23.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Montgomery County, PA",42091,More than one race,Not Hispanic or Latino,15.0,15710.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Montour County, PA",42093,White,Not Hispanic or Latino,237.0,16593.0,1428.3,821.0
+2018,Pennsylvania,42,"Northampton County, PA",42095,Asian,Not Hispanic or Latino,34.0,8913.0,381.5,543.2
+2018,Pennsylvania,42,"Northampton County, PA",42095,Black or African American,Not Hispanic or Latino,93.0,16651.0,558.5,780.2
+2018,Pennsylvania,42,"Northampton County, PA",42095,White,Hispanic or Latino,138.0,34141.0,404.2,624.4
+2018,Pennsylvania,42,"Northampton County, PA",42095,White,Not Hispanic or Latino,2922.0,231470.0,1262.4,726.0
+2018,Pennsylvania,42,"Northumberland County, PA",42097,White,Hispanic or Latino,15.0,2569.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Northumberland County, PA",42097,White,Not Hispanic or Latino,1174.0,84099.0,1396.0,827.6
+2018,Pennsylvania,42,"Perry County, PA",42099,White,Not Hispanic or Latino,457.0,43895.0,1041.1,810.6
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,American Indian or Alaska Native,Not Hispanic or Latino,11.0,3352.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,Asian,Hispanic or Latino,11.0,2981.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,Asian,Not Hispanic or Latino,368.0,119930.0,306.8,392.8
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Hispanic or Latino,54.0,48070.0,112.3,200.3
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Not Hispanic or Latino,6747.0,644523.0,1046.8,981.3
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,White,Hispanic or Latino,940.0,164879.0,570.1,844.3
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Hispanic or Latino,6125.0,544169.0,1125.6,814.7
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Philadelphia County, PA",42101,More than one race,Not Hispanic or Latino,45.0,31487.0,142.9,269.1
+2018,Pennsylvania,42,"Pike County, PA",42103,Black or African American,Not Hispanic or Latino,26.0,3117.0,834.1,763.7
+2018,Pennsylvania,42,"Pike County, PA",42103,White,Hispanic or Latino,20.0,5314.0,376.4,430.7
+2018,Pennsylvania,42,"Pike County, PA",42103,White,Not Hispanic or Latino,544.0,44629.0,1218.9,743.4
+2018,Pennsylvania,42,"Potter County, PA",42105,White,Not Hispanic or Latino,201.0,16036.0,1253.4,743.1
+2018,Pennsylvania,42,"Schuylkill County, PA",42107,Black or African American,Not Hispanic or Latino,14.0,4149.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Schuylkill County, PA",42107,White,Hispanic or Latino,18.0,5231.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Schuylkill County, PA",42107,White,Not Hispanic or Latino,1863.0,128700.0,1447.6,905.2
+2018,Pennsylvania,42,"Snyder County, PA",42109,White,Not Hispanic or Latino,370.0,38427.0,962.9,648.9
+2018,Pennsylvania,42,"Somerset County, PA",42111,White,Not Hispanic or Latino,909.0,69628.0,1305.5,758.9
+2018,Pennsylvania,42,"Sullivan County, PA",42113,White,Not Hispanic or Latino,90.0,5622.0,1600.9,779.1
+2018,Pennsylvania,42,"Susquehanna County, PA",42115,White,Not Hispanic or Latino,517.0,39064.0,1323.5,800.0
+2018,Pennsylvania,42,"Tioga County, PA",42117,White,Not Hispanic or Latino,489.0,39162.0,1248.7,776.4
+2018,Pennsylvania,42,"Union County, PA",42119,White,Not Hispanic or Latino,352.0,37868.0,929.5,578.3
+2018,Pennsylvania,42,"Venango County, PA",42121,White,Not Hispanic or Latino,600.0,49186.0,1219.9,740.7
+2018,Pennsylvania,42,"Warren County, PA",42123,White,Not Hispanic or Latino,514.0,38218.0,1344.9,785.4
+2018,Pennsylvania,42,"Washington County, PA",42125,Black or African American,Not Hispanic or Latino,89.0,6613.0,1345.8,1238.4
+2018,Pennsylvania,42,"Washington County, PA",42125,White,Hispanic or Latino,11.0,2953.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Washington County, PA",42125,White,Not Hispanic or Latino,2441.0,190814.0,1279.3,817.4
+2018,Pennsylvania,42,"Washington County, PA",42125,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2018,Pennsylvania,42,"Wayne County, PA",42127,Black or African American,Not Hispanic or Latino,10.0,1588.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Wayne County, PA",42127,White,Not Hispanic or Latino,594.0,46299.0,1283.0,767.9
+2018,Pennsylvania,42,"Westmoreland County, PA",42129,Asian,Not Hispanic or Latino,14.0,3381.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Westmoreland County, PA",42129,Black or African American,Not Hispanic or Latino,96.0,8639.0,1111.2,1256.8
+2018,Pennsylvania,42,"Westmoreland County, PA",42129,White,Hispanic or Latino,18.0,3455.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"Westmoreland County, PA",42129,White,Not Hispanic or Latino,4505.0,328775.0,1370.2,793.5
+2018,Pennsylvania,42,"Wyoming County, PA",42131,White,Not Hispanic or Latino,355.0,25839.0,1373.9,955.7
+2018,Pennsylvania,42,"York County, PA",42133,Asian,Not Hispanic or Latino,19.0,6561.0,Unreliable,Unreliable
+2018,Pennsylvania,42,"York County, PA",42133,Black or African American,Not Hispanic or Latino,159.0,25635.0,620.2,854.9
+2018,Pennsylvania,42,"York County, PA",42133,White,Hispanic or Latino,106.0,26688.0,397.2,848.1
+2018,Pennsylvania,42,"York County, PA",42133,White,Not Hispanic or Latino,3875.0,371522.0,1043.0,720.9
+2018,Pennsylvania,42,"York County, PA",42133,More than one race,Not Hispanic or Latino,13.0,8241.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Adams County, PA",42001,White,Hispanic or Latino,14.0,6572.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Adams County, PA",42001,White,Not Hispanic or Latino,999.0,91400.0,1093.0,668.9
+2019,Pennsylvania,42,"Allegheny County, PA",42003,Asian,Not Hispanic or Latino,125.0,50740.0,246.4,477.6
+2019,Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Hispanic or Latino,1774.0,160336.0,1106.4,1053.6
+2019,Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2019,Pennsylvania,42,"Allegheny County, PA",42003,White,Hispanic or Latino,53.0,21365.0,248.1,322.7
+2019,Pennsylvania,42,"Allegheny County, PA",42003,White,Not Hispanic or Latino,11577.0,949804.0,1218.9,741.3
+2019,Pennsylvania,42,"Allegheny County, PA",42003,White,Not Stated,54.0,Not Applicable,Not Applicable,Not Applicable
+2019,Pennsylvania,42,"Allegheny County, PA",42003,More than one race,Not Hispanic or Latino,20.0,25895.0,77.2,235.7
+2019,Pennsylvania,42,"Armstrong County, PA",42005,Black or African American,Not Hispanic or Latino,12.0,559.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Armstrong County, PA",42005,White,Not Hispanic or Latino,854.0,62771.0,1360.5,848.4
+2019,Pennsylvania,42,"Beaver County, PA",42007,Black or African American,Not Hispanic or Latino,135.0,10366.0,1302.3,1271.4
+2019,Pennsylvania,42,"Beaver County, PA",42007,White,Not Hispanic or Latino,2044.0,146026.0,1399.8,822.1
+2019,Pennsylvania,42,"Bedford County, PA",42009,White,Not Hispanic or Latino,575.0,46292.0,1242.1,741.4
+2019,Pennsylvania,42,"Berks County, PA",42011,Asian,Not Hispanic or Latino,23.0,6051.0,380.1,400.8
+2019,Pennsylvania,42,"Berks County, PA",42011,Black or African American,Not Hispanic or Latino,162.0,18057.0,897.2,1106.1
+2019,Pennsylvania,42,"Berks County, PA",42011,White,Hispanic or Latino,291.0,69905.0,416.3,759.5
+2019,Pennsylvania,42,"Berks County, PA",42011,White,Not Hispanic or Latino,3580.0,296090.0,1209.1,723.9
+2019,Pennsylvania,42,"Berks County, PA",42011,White,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2019,Pennsylvania,42,"Blair County, PA",42013,Black or African American,Not Hispanic or Latino,18.0,2307.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Blair County, PA",42013,White,Not Hispanic or Latino,1566.0,115153.0,1359.9,838.1
+2019,Pennsylvania,42,"Bradford County, PA",42015,White,Not Hispanic or Latino,712.0,57714.0,1233.7,788.9
+2019,Pennsylvania,42,"Bucks County, PA",42017,Asian,Not Hispanic or Latino,105.0,32597.0,322.1,373.7
+2019,Pennsylvania,42,"Bucks County, PA",42017,Black or African American,Not Hispanic or Latino,169.0,25633.0,659.3,795.3
+2019,Pennsylvania,42,"Bucks County, PA",42017,White,Hispanic or Latino,90.0,29989.0,300.1,463.6
+2019,Pennsylvania,42,"Bucks County, PA",42017,White,Not Hispanic or Latino,5787.0,523580.0,1105.3,696.2
+2019,Pennsylvania,42,"Butler County, PA",42019,Black or African American,Not Hispanic or Latino,17.0,2383.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Butler County, PA",42019,White,Not Hispanic or Latino,2077.0,177435.0,1170.6,783.0
+2019,Pennsylvania,42,"Cambria County, PA",42021,Black or African American,Not Hispanic or Latino,53.0,4593.0,1153.9,1524.7
+2019,Pennsylvania,42,"Cambria County, PA",42021,White,Not Hispanic or Latino,1823.0,120506.0,1512.8,881.5
+2019,Pennsylvania,42,"Cameron County, PA",42023,White,Not Hispanic or Latino,53.0,4238.0,1250.6,570.9
+2019,Pennsylvania,42,"Carbon County, PA",42025,White,Not Hispanic or Latino,737.0,58399.0,1262.0,796.7
+2019,Pennsylvania,42,"Centre County, PA",42027,Black or African American,Not Hispanic or Latino,11.0,5808.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Centre County, PA",42027,White,Not Hispanic or Latino,981.0,138712.0,707.2,570.7
+2019,Pennsylvania,42,"Chester County, PA",42029,Asian,Not Hispanic or Latino,26.0,31826.0,81.7,175.2
+2019,Pennsylvania,42,"Chester County, PA",42029,Black or African American,Not Hispanic or Latino,280.0,29791.0,939.9,938.1
+2019,Pennsylvania,42,"Chester County, PA",42029,White,Hispanic or Latino,60.0,34088.0,176.0,373.1
+2019,Pennsylvania,42,"Chester County, PA",42029,White,Not Hispanic or Latino,3699.0,413550.0,894.5,623.6
+2019,Pennsylvania,42,"Clarion County, PA",42031,White,Not Hispanic or Latino,418.0,36835.0,1134.8,782.6
+2019,Pennsylvania,42,"Clearfield County, PA",42033,White,Not Hispanic or Latino,987.0,73537.0,1342.2,839.0
+2019,Pennsylvania,42,"Clinton County, PA",42035,White,Not Hispanic or Latino,440.0,36657.0,1200.3,818.2
+2019,Pennsylvania,42,"Columbia County, PA",42037,White,Not Hispanic or Latino,683.0,60409.0,1130.6,738.2
+2019,Pennsylvania,42,"Crawford County, PA",42039,White,Not Hispanic or Latino,1004.0,80099.0,1253.4,838.9
+2019,Pennsylvania,42,"Cumberland County, PA",42041,Asian,Not Hispanic or Latino,25.0,11929.0,209.6,351.3
+2019,Pennsylvania,42,"Cumberland County, PA",42041,Black or African American,Not Hispanic or Latino,46.0,10671.0,431.1,830.4
+2019,Pennsylvania,42,"Cumberland County, PA",42041,White,Hispanic or Latino,35.0,8696.0,402.5,902.9
+2019,Pennsylvania,42,"Cumberland County, PA",42041,White,Not Hispanic or Latino,2262.0,214319.0,1055.4,674.5
+2019,Pennsylvania,42,"Dauphin County, PA",42043,Asian,Not Hispanic or Latino,51.0,14528.0,351.0,629.3
+2019,Pennsylvania,42,"Dauphin County, PA",42043,Black or African American,Not Hispanic or Latino,394.0,48405.0,814.0,855.2
+2019,Pennsylvania,42,"Dauphin County, PA",42043,White,Hispanic or Latino,87.0,19468.0,446.9,728.6
+2019,Pennsylvania,42,"Dauphin County, PA",42043,White,Not Hispanic or Latino,2026.0,179425.0,1129.2,712.3
+2019,Pennsylvania,42,"Delaware County, PA",42045,Asian,Not Hispanic or Latino,89.0,35086.0,253.7,342.9
+2019,Pennsylvania,42,"Delaware County, PA",42045,Black or African American,Not Hispanic or Latino,944.0,124408.0,758.8,901.7
+2019,Pennsylvania,42,"Delaware County, PA",42045,White,Hispanic or Latino,72.0,16238.0,443.4,727.9
+2019,Pennsylvania,42,"Delaware County, PA",42045,White,Not Hispanic or Latino,4502.0,371892.0,1210.6,745.4
+2019,Pennsylvania,42,"Elk County, PA",42047,White,Not Hispanic or Latino,366.0,29067.0,1259.2,746.8
+2019,Pennsylvania,42,"Erie County, PA",42049,Asian,Not Hispanic or Latino,16.0,5121.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Erie County, PA",42049,Black or African American,Not Hispanic or Latino,144.0,19661.0,732.4,986.1
+2019,Pennsylvania,42,"Erie County, PA",42049,White,Hispanic or Latino,25.0,9230.0,270.9,540.5
+2019,Pennsylvania,42,"Erie County, PA",42049,White,Not Hispanic or Latino,2741.0,226584.0,1209.7,788.3
+2019,Pennsylvania,42,"Fayette County, PA",42051,Black or African American,Not Hispanic or Latino,60.0,6032.0,994.7,913.0
+2019,Pennsylvania,42,"Fayette County, PA",42051,White,Not Hispanic or Latino,1734.0,118440.0,1464.0,912.1
+2019,Pennsylvania,42,"Forest County, PA",42053,White,Not Hispanic or Latino,93.0,5188.0,1792.6,921.4
+2019,Pennsylvania,42,"Franklin County, PA",42055,Black or African American,Not Hispanic or Latino,41.0,5350.0,766.4,814.2
+2019,Pennsylvania,42,"Franklin County, PA",42055,White,Hispanic or Latino,21.0,7461.0,281.5,515.9
+2019,Pennsylvania,42,"Franklin County, PA",42055,White,Not Hispanic or Latino,1497.0,135580.0,1104.1,682.9
+2019,Pennsylvania,42,"Fulton County, PA",42057,White,Not Hispanic or Latino,154.0,13920.0,1106.3,747.5
+2019,Pennsylvania,42,"Greene County, PA",42059,White,Not Hispanic or Latino,448.0,33751.0,1327.4,940.7
+2019,Pennsylvania,42,"Huntingdon County, PA",42061,White,Not Hispanic or Latino,460.0,40721.0,1129.6,698.6
+2019,Pennsylvania,42,"Indiana County, PA",42063,White,Not Hispanic or Latino,885.0,78820.0,1122.8,770.2
+2019,Pennsylvania,42,"Jefferson County, PA",42065,White,Not Hispanic or Latino,522.0,42154.0,1238.3,787.1
+2019,Pennsylvania,42,"Juniata County, PA",42067,White,Not Hispanic or Latino,258.0,23214.0,1111.4,706.7
+2019,Pennsylvania,42,"Lackawanna County, PA",42069,Asian,Not Hispanic or Latino,15.0,6367.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Lackawanna County, PA",42069,Black or African American,Not Hispanic or Latino,45.0,6589.0,683.0,1221.3
+2019,Pennsylvania,42,"Lackawanna County, PA",42069,White,Hispanic or Latino,41.0,14011.0,292.6,524.6
+2019,Pennsylvania,42,"Lackawanna County, PA",42069,White,Not Hispanic or Latino,2432.0,175627.0,1384.8,811.3
+2019,Pennsylvania,42,"Lancaster County, PA",42071,Asian,Not Hispanic or Latino,43.0,13346.0,322.2,430.1
+2019,Pennsylvania,42,"Lancaster County, PA",42071,Black or African American,Not Hispanic or Latino,122.0,19737.0,618.1,951.4
+2019,Pennsylvania,42,"Lancaster County, PA",42071,White,Hispanic or Latino,191.0,45711.0,417.8,728.9
+2019,Pennsylvania,42,"Lancaster County, PA",42071,White,Not Hispanic or Latino,4724.0,443541.0,1065.1,646.2
+2019,Pennsylvania,42,"Lawrence County, PA",42073,Black or African American,Not Hispanic or Latino,39.0,3577.0,1090.3,1213.3
+2019,Pennsylvania,42,"Lawrence County, PA",42073,White,Not Hispanic or Latino,1131.0,78364.0,1443.3,840.8
+2019,Pennsylvania,42,"Lebanon County, PA",42075,Black or African American,Not Hispanic or Latino,21.0,2922.0,718.7,844.3
+2019,Pennsylvania,42,"Lebanon County, PA",42075,White,Hispanic or Latino,77.0,16444.0,468.3,845.3
+2019,Pennsylvania,42,"Lebanon County, PA",42075,White,Not Hispanic or Latino,1429.0,114867.0,1244.0,728.7
+2019,Pennsylvania,42,"Lehigh County, PA",42077,Asian,Not Hispanic or Latino,40.0,13277.0,301.3,384.4
+2019,Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Hispanic or Latino,11.0,14993.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Not Hispanic or Latino,136.0,21643.0,628.4,1062.8
+2019,Pennsylvania,42,"Lehigh County, PA",42077,White,Hispanic or Latino,246.0,73563.0,334.4,577.7
+2019,Pennsylvania,42,"Lehigh County, PA",42077,White,Not Hispanic or Latino,2973.0,230879.0,1287.7,717.6
+2019,Pennsylvania,42,"Luzerne County, PA",42079,Asian,Not Hispanic or Latino,14.0,4147.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Luzerne County, PA",42079,Black or African American,Not Hispanic or Latino,83.0,13434.0,617.8,1284.1
+2019,Pennsylvania,42,"Luzerne County, PA",42079,White,Hispanic or Latino,102.0,31687.0,321.9,720.8
+2019,Pennsylvania,42,"Luzerne County, PA",42079,White,Not Hispanic or Latino,3977.0,251652.0,1580.4,899.3
+2019,Pennsylvania,42,"Lycoming County, PA",42081,Black or African American,Not Hispanic or Latino,39.0,5170.0,754.4,1062.2
+2019,Pennsylvania,42,"Lycoming County, PA",42081,White,Not Hispanic or Latino,1299.0,102341.0,1269.3,815.8
+2019,Pennsylvania,42,"Mc Kean County, PA",42083,White,Not Hispanic or Latino,525.0,37950.0,1383.4,883.1
+2019,Pennsylvania,42,"Mercer County, PA",42085,Black or African American,Not Hispanic or Latino,67.0,6247.0,1072.5,1099.2
+2019,Pennsylvania,42,"Mercer County, PA",42085,White,Not Hispanic or Latino,1401.0,98515.0,1422.1,826.7
+2019,Pennsylvania,42,"Mifflin County, PA",42087,White,Not Hispanic or Latino,575.0,44131.0,1302.9,788.2
+2019,Pennsylvania,42,"Monroe County, PA",42089,Asian,Not Hispanic or Latino,15.0,4235.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Monroe County, PA",42089,Black or African American,Not Hispanic or Latino,128.0,23278.0,549.9,682.2
+2019,Pennsylvania,42,"Monroe County, PA",42089,White,Hispanic or Latino,106.0,21914.0,483.7,728.9
+2019,Pennsylvania,42,"Monroe County, PA",42089,White,Not Hispanic or Latino,1296.0,109874.0,1179.5,783.7
+2019,Pennsylvania,42,"Montgomery County, PA",42091,Asian,Not Hispanic or Latino,214.0,66584.0,321.4,400.2
+2019,Pennsylvania,42,"Montgomery County, PA",42091,Black or African American,Not Hispanic or Latino,629.0,78414.0,802.2,737.6
+2019,Pennsylvania,42,"Montgomery County, PA",42091,White,Hispanic or Latino,96.0,35960.0,267.0,464.9
+2019,Pennsylvania,42,"Montgomery County, PA",42091,White,Not Hispanic or Latino,6888.0,623390.0,1104.9,672.2
+2019,Pennsylvania,42,"Montgomery County, PA",42091,More than one race,Not Hispanic or Latino,15.0,16174.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Montour County, PA",42093,White,Not Hispanic or Latino,209.0,16544.0,1263.3,712.3
+2019,Pennsylvania,42,"Northampton County, PA",42095,Asian,Not Hispanic or Latino,20.0,8992.0,222.4,312.5
+2019,Pennsylvania,42,"Northampton County, PA",42095,Black or African American,Not Hispanic or Latino,97.0,17229.0,563.0,733.6
+2019,Pennsylvania,42,"Northampton County, PA",42095,White,Hispanic or Latino,124.0,34977.0,354.5,560.5
+2019,Pennsylvania,42,"Northampton County, PA",42095,White,Not Hispanic or Latino,2756.0,230131.0,1197.6,670.1
+2019,Pennsylvania,42,"Northumberland County, PA",42097,Black or African American,Not Hispanic or Latino,15.0,2354.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Northumberland County, PA",42097,White,Hispanic or Latino,13.0,2769.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Northumberland County, PA",42097,White,Not Hispanic or Latino,1155.0,83340.0,1385.9,839.3
+2019,Pennsylvania,42,"Perry County, PA",42099,White,Not Hispanic or Latino,440.0,43947.0,1001.2,766.3
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,American Indian or Alaska Native,Not Hispanic or Latino,15.0,3310.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,Asian,Not Hispanic or Latino,373.0,120932.0,308.4,366.2
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Hispanic or Latino,52.0,47738.0,108.9,178.8
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Not Hispanic or Latino,6828.0,642162.0,1063.3,982.5
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Not Stated,16.0,Not Applicable,Not Applicable,Not Applicable
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,White,Hispanic or Latino,907.0,166448.0,544.9,795.0
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Hispanic or Latino,5968.0,543890.0,1097.3,796.7
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Stated,16.0,Not Applicable,Not Applicable,Not Applicable
+2019,Pennsylvania,42,"Philadelphia County, PA",42101,More than one race,Not Hispanic or Latino,30.0,31973.0,93.8,150.5
+2019,Pennsylvania,42,"Pike County, PA",42103,Black or African American,Not Hispanic or Latino,17.0,3078.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Pike County, PA",42103,White,Hispanic or Latino,19.0,5419.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Pike County, PA",42103,White,Not Hispanic or Latino,466.0,44451.0,1048.3,641.6
+2019,Pennsylvania,42,"Potter County, PA",42105,White,Not Hispanic or Latino,217.0,15912.0,1363.8,773.0
+2019,Pennsylvania,42,"Schuylkill County, PA",42107,Black or African American,Not Hispanic or Latino,14.0,4206.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Schuylkill County, PA",42107,White,Not Hispanic or Latino,1899.0,127337.0,1491.3,936.3
+2019,Pennsylvania,42,"Snyder County, PA",42109,White,Not Hispanic or Latino,391.0,38309.0,1020.6,682.3
+2019,Pennsylvania,42,"Somerset County, PA",42111,Black or African American,Not Hispanic or Latino,13.0,2188.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"Somerset County, PA",42111,White,Not Hispanic or Latino,976.0,69105.0,1412.3,809.0
+2019,Pennsylvania,42,"Sullivan County, PA",42113,White,Not Hispanic or Latino,107.0,5619.0,1904.3,842.4
+2019,Pennsylvania,42,"Susquehanna County, PA",42115,White,Not Hispanic or Latino,458.0,38745.0,1182.1,684.6
+2019,Pennsylvania,42,"Tioga County, PA",42117,White,Not Hispanic or Latino,445.0,39013.0,1140.6,713.0
+2019,Pennsylvania,42,"Union County, PA",42119,White,Not Hispanic or Latino,363.0,37818.0,959.9,581.3
+2019,Pennsylvania,42,"Venango County, PA",42121,White,Not Hispanic or Latino,680.0,48574.0,1399.9,851.7
+2019,Pennsylvania,42,"Warren County, PA",42123,White,Not Hispanic or Latino,475.0,37875.0,1254.1,718.1
+2019,Pennsylvania,42,"Washington County, PA",42125,Black or African American,Not Hispanic or Latino,89.0,6645.0,1339.4,1171.1
+2019,Pennsylvania,42,"Washington County, PA",42125,White,Not Hispanic or Latino,2502.0,190066.0,1316.4,849.7
+2019,Pennsylvania,42,"Wayne County, PA",42127,White,Not Hispanic or Latino,601.0,46171.0,1301.7,797.0
+2019,Pennsylvania,42,"Westmoreland County, PA",42129,Black or African American,Not Hispanic or Latino,105.0,8691.0,1208.1,1290.8
+2019,Pennsylvania,42,"Westmoreland County, PA",42129,White,Not Hispanic or Latino,4445.0,326772.0,1360.3,787.5
+2019,Pennsylvania,42,"Wyoming County, PA",42131,White,Not Hispanic or Latino,327.0,25554.0,1279.6,858.3
+2019,Pennsylvania,42,"York County, PA",42133,Asian,Not Hispanic or Latino,12.0,6527.0,Unreliable,Unreliable
+2019,Pennsylvania,42,"York County, PA",42133,Black or African American,Not Hispanic or Latino,171.0,26005.0,657.6,946.9
+2019,Pennsylvania,42,"York County, PA",42133,White,Hispanic or Latino,92.0,27223.0,337.9,671.6
+2019,Pennsylvania,42,"York County, PA",42133,White,Not Hispanic or Latino,3998.0,370992.0,1077.7,729.1
+2020,Pennsylvania,42,"Adams County, PA",42001,Black or African American,Not Hispanic or Latino,17.0,1638.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Adams County, PA",42001,White,Hispanic or Latino,11.0,6481.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Adams County, PA",42001,White,Not Hispanic or Latino,1146.0,91152.0,1257.2,762.1
+2020,Pennsylvania,42,"Allegheny County, PA",42003,Asian,Not Hispanic or Latino,125.0,51843.0,241.1,413.9
+2020,Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Hispanic or Latino,2162.0,159830.0,1352.7,1275.3
+2020,Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2020,Pennsylvania,42,"Allegheny County, PA",42003,White,Hispanic or Latino,69.0,21746.0,317.3,427.5
+2020,Pennsylvania,42,"Allegheny County, PA",42003,White,Not Hispanic or Latino,12753.0,942324.0,1353.4,820.6
+2020,Pennsylvania,42,"Allegheny County, PA",42003,White,Not Stated,32.0,Not Applicable,Not Applicable,Not Applicable
+2020,Pennsylvania,42,"Allegheny County, PA",42003,More than one race,Not Hispanic or Latino,34.0,27428.0,124.0,361.8
+2020,Pennsylvania,42,"Armstrong County, PA",42005,White,Not Hispanic or Latino,919.0,62191.0,1477.7,895.8
+2020,Pennsylvania,42,"Beaver County, PA",42007,Black or African American,Not Hispanic or Latino,167.0,10280.0,1624.5,1536.6
+2020,Pennsylvania,42,"Beaver County, PA",42007,White,Not Hispanic or Latino,2281.0,144403.0,1579.6,929.2
+2020,Pennsylvania,42,"Bedford County, PA",42009,White,Not Hispanic or Latino,742.0,46194.0,1606.3,930.7
+2020,Pennsylvania,42,"Berks County, PA",42011,Asian,Not Hispanic or Latino,30.0,6085.0,493.0,491.5
+2020,Pennsylvania,42,"Berks County, PA",42011,Black or African American,Hispanic or Latino,18.0,14068.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Berks County, PA",42011,Black or African American,Not Hispanic or Latino,145.0,18025.0,804.4,938.2
+2020,Pennsylvania,42,"Berks County, PA",42011,White,Hispanic or Latino,376.0,71415.0,526.5,923.6
+2020,Pennsylvania,42,"Berks County, PA",42011,White,Not Hispanic or Latino,4034.0,292979.0,1376.9,803.7
+2020,Pennsylvania,42,"Blair County, PA",42013,Black or African American,Not Hispanic or Latino,35.0,2386.0,1466.9,2485.1
+2020,Pennsylvania,42,"Blair County, PA",42013,White,Not Hispanic or Latino,1855.0,114228.0,1623.9,1004.7
+2020,Pennsylvania,42,"Bradford County, PA",42015,White,Not Hispanic or Latino,714.0,57627.0,1239.0,773.2
+2020,Pennsylvania,42,"Bucks County, PA",42017,Asian,Not Hispanic or Latino,161.0,33572.0,479.6,529.0
+2020,Pennsylvania,42,"Bucks County, PA",42017,Black or African American,Not Hispanic or Latino,231.0,25940.0,890.5,1021.4
+2020,Pennsylvania,42,"Bucks County, PA",42017,White,Hispanic or Latino,125.0,30815.0,405.6,624.0
+2020,Pennsylvania,42,"Bucks County, PA",42017,White,Not Hispanic or Latino,6632.0,519984.0,1275.4,788.5
+2020,Pennsylvania,42,"Bucks County, PA",42017,More than one race,Not Hispanic or Latino,11.0,10439.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Butler County, PA",42019,Black or African American,Not Hispanic or Latino,23.0,2478.0,928.2,1394.4
+2020,Pennsylvania,42,"Butler County, PA",42019,White,Not Hispanic or Latino,2280.0,178142.0,1279.9,850.5
+2020,Pennsylvania,42,"Cambria County, PA",42021,Black or African American,Not Hispanic or Latino,72.0,4613.0,1560.8,1776.9
+2020,Pennsylvania,42,"Cambria County, PA",42021,White,Not Hispanic or Latino,2086.0,118787.0,1756.1,1005.2
+2020,Pennsylvania,42,"Cameron County, PA",42023,White,Not Hispanic or Latino,68.0,4138.0,1643.3,855.3
+2020,Pennsylvania,42,"Carbon County, PA",42025,White,Hispanic or Latino,11.0,3014.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Carbon County, PA",42025,White,Not Hispanic or Latino,944.0,58009.0,1627.3,1025.0
+2020,Pennsylvania,42,"Centre County, PA",42027,Black or African American,Not Hispanic or Latino,12.0,5879.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Centre County, PA",42027,White,Not Hispanic or Latino,1197.0,137996.0,867.4,666.1
+2020,Pennsylvania,42,"Chester County, PA",42029,Asian,Not Hispanic or Latino,60.0,33987.0,176.5,315.6
+2020,Pennsylvania,42,"Chester County, PA",42029,Black or African American,Not Hispanic or Latino,319.0,29739.0,1072.7,1058.8
+2020,Pennsylvania,42,"Chester County, PA",42029,White,Hispanic or Latino,105.0,33489.0,313.5,575.5
+2020,Pennsylvania,42,"Chester County, PA",42029,White,Not Hispanic or Latino,4160.0,412992.0,1007.3,686.9
+2020,Pennsylvania,42,"Chester County, PA",42029,More than one race,Not Hispanic or Latino,14.0,9458.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Clarion County, PA",42031,White,Not Hispanic or Latino,517.0,36685.0,1409.3,927.5
+2020,Pennsylvania,42,"Clearfield County, PA",42033,White,Not Hispanic or Latino,1006.0,72854.0,1380.8,854.3
+2020,Pennsylvania,42,"Clinton County, PA",42035,White,Not Hispanic or Latino,427.0,36019.0,1185.5,805.2
+2020,Pennsylvania,42,"Columbia County, PA",42037,White,Not Hispanic or Latino,777.0,60136.0,1292.1,848.4
+2020,Pennsylvania,42,"Crawford County, PA",42039,Black or African American,Not Hispanic or Latino,16.0,1583.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Crawford County, PA",42039,White,Not Hispanic or Latino,1086.0,79207.0,1371.1,895.5
+2020,Pennsylvania,42,"Cumberland County, PA",42041,Asian,Not Hispanic or Latino,37.0,12846.0,288.0,492.7
+2020,Pennsylvania,42,"Cumberland County, PA",42041,Black or African American,Not Hispanic or Latino,68.0,11149.0,609.9,1225.5
+2020,Pennsylvania,42,"Cumberland County, PA",42041,White,Hispanic or Latino,33.0,9079.0,363.5,764.8
+2020,Pennsylvania,42,"Cumberland County, PA",42041,White,Not Hispanic or Latino,2630.0,214330.0,1227.1,760.1
+2020,Pennsylvania,42,"Dauphin County, PA",42043,Asian,Not Hispanic or Latino,70.0,16298.0,429.5,714.2
+2020,Pennsylvania,42,"Dauphin County, PA",42043,Black or African American,Not Hispanic or Latino,531.0,48016.0,1105.9,1132.3
+2020,Pennsylvania,42,"Dauphin County, PA",42043,White,Hispanic or Latino,114.0,19906.0,572.7,971.7
+2020,Pennsylvania,42,"Dauphin County, PA",42043,White,Not Hispanic or Latino,2286.0,177863.0,1285.3,800.0
+2020,Pennsylvania,42,"Dauphin County, PA",42043,More than one race,Not Hispanic or Latino,10.0,8047.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Delaware County, PA",42045,Asian,Not Hispanic or Latino,126.0,35885.0,351.1,437.6
+2020,Pennsylvania,42,"Delaware County, PA",42045,Black or African American,Not Hispanic or Latino,1256.0,126200.0,995.2,1174.2
+2020,Pennsylvania,42,"Delaware County, PA",42045,White,Hispanic or Latino,91.0,16587.0,548.6,897.4
+2020,Pennsylvania,42,"Delaware County, PA",42045,White,Not Hispanic or Latino,5071.0,367657.0,1379.3,840.4
+2020,Pennsylvania,42,"Delaware County, PA",42045,More than one race,Not Hispanic or Latino,11.0,11722.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Elk County, PA",42047,White,Not Hispanic or Latino,377.0,28775.0,1310.2,781.6
+2020,Pennsylvania,42,"Erie County, PA",42049,Asian,Not Hispanic or Latino,19.0,5399.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Erie County, PA",42049,Black or African American,Not Hispanic or Latino,212.0,19562.0,1083.7,1433.9
+2020,Pennsylvania,42,"Erie County, PA",42049,White,Hispanic or Latino,47.0,9426.0,498.6,985.2
+2020,Pennsylvania,42,"Erie County, PA",42049,White,Not Hispanic or Latino,3000.0,224377.0,1337.0,862.1
+2020,Pennsylvania,42,"Fayette County, PA",42051,Black or African American,Not Hispanic or Latino,71.0,5980.0,1187.3,1088.4
+2020,Pennsylvania,42,"Fayette County, PA",42051,White,Not Hispanic or Latino,1908.0,117176.0,1628.3,1032.5
+2020,Pennsylvania,42,"Forest County, PA",42053,White,Not Hispanic or Latino,98.0,5061.0,1936.4,1016.4
+2020,Pennsylvania,42,"Franklin County, PA",42055,Black or African American,Not Hispanic or Latino,54.0,5473.0,986.7,1169.9
+2020,Pennsylvania,42,"Franklin County, PA",42055,White,Hispanic or Latino,32.0,7905.0,404.8,949.5
+2020,Pennsylvania,42,"Franklin County, PA",42055,White,Not Hispanic or Latino,1880.0,135358.0,1388.9,841.5
+2020,Pennsylvania,42,"Fulton County, PA",42057,White,Not Hispanic or Latino,179.0,13872.0,1290.4,845.9
+2020,Pennsylvania,42,"Greene County, PA",42059,White,Not Hispanic or Latino,487.0,33195.0,1467.1,1020.0
+2020,Pennsylvania,42,"Huntingdon County, PA",42061,Black or African American,Not Hispanic or Latino,18.0,2457.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Huntingdon County, PA",42061,White,Not Hispanic or Latino,551.0,40335.0,1366.1,846.5
+2020,Pennsylvania,42,"Indiana County, PA",42063,Black or African American,Not Hispanic or Latino,10.0,2136.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Indiana County, PA",42063,White,Not Hispanic or Latino,1098.0,78440.0,1399.8,963.8
+2020,Pennsylvania,42,"Jefferson County, PA",42065,White,Not Hispanic or Latino,621.0,41808.0,1485.4,924.6
+2020,Pennsylvania,42,"Juniata County, PA",42067,White,Not Hispanic or Latino,329.0,23087.0,1425.0,873.1
+2020,Pennsylvania,42,"Lackawanna County, PA",42069,Asian,Not Hispanic or Latino,24.0,6444.0,372.4,423.9
+2020,Pennsylvania,42,"Lackawanna County, PA",42069,Black or African American,Not Hispanic or Latino,59.0,6810.0,866.4,1432.4
+2020,Pennsylvania,42,"Lackawanna County, PA",42069,White,Hispanic or Latino,66.0,14626.0,451.3,933.0
+2020,Pennsylvania,42,"Lackawanna County, PA",42069,White,Not Hispanic or Latino,2795.0,173486.0,1611.1,937.7
+2020,Pennsylvania,42,"Lancaster County, PA",42071,Asian,Not Hispanic or Latino,53.0,13683.0,387.3,485.7
+2020,Pennsylvania,42,"Lancaster County, PA",42071,Black or African American,Hispanic or Latino,13.0,9710.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Lancaster County, PA",42071,Black or African American,Not Hispanic or Latino,157.0,19672.0,798.1,1066.4
+2020,Pennsylvania,42,"Lancaster County, PA",42071,White,Hispanic or Latino,249.0,45790.0,543.8,875.2
+2020,Pennsylvania,42,"Lancaster County, PA",42071,White,Not Hispanic or Latino,5570.0,441973.0,1260.3,761.2
+2020,Pennsylvania,42,"Lancaster County, PA",42071,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2020,Pennsylvania,42,"Lawrence County, PA",42073,Black or African American,Not Hispanic or Latino,71.0,3563.0,1992.7,2214.7
+2020,Pennsylvania,42,"Lawrence County, PA",42073,White,Not Hispanic or Latino,1334.0,77714.0,1716.6,977.4
+2020,Pennsylvania,42,"Lebanon County, PA",42075,Asian,Not Hispanic or Latino,11.0,2268.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Lebanon County, PA",42075,Black or African American,Not Hispanic or Latino,17.0,2884.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Lebanon County, PA",42075,White,Hispanic or Latino,96.0,16605.0,578.1,1100.2
+2020,Pennsylvania,42,"Lebanon County, PA",42075,White,Not Hispanic or Latino,1674.0,114021.0,1468.2,844.2
+2020,Pennsylvania,42,"Lehigh County, PA",42077,Asian,Not Hispanic or Latino,35.0,13650.0,256.4,310.5
+2020,Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Hispanic or Latino,18.0,16519.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Not Hispanic or Latino,167.0,21961.0,760.4,1104.3
+2020,Pennsylvania,42,"Lehigh County, PA",42077,White,Hispanic or Latino,376.0,74751.0,503.0,848.5
+2020,Pennsylvania,42,"Lehigh County, PA",42077,White,Not Hispanic or Latino,3407.0,227874.0,1495.1,840.4
+2020,Pennsylvania,42,"Lehigh County, PA",42077,More than one race,Not Hispanic or Latino,14.0,6218.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Luzerne County, PA",42079,Asian,Not Hispanic or Latino,15.0,4063.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Luzerne County, PA",42079,Black or African American,Hispanic or Latino,10.0,8557.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Luzerne County, PA",42079,Black or African American,Not Hispanic or Latino,109.0,13633.0,799.5,1465.0
+2020,Pennsylvania,42,"Luzerne County, PA",42079,White,Hispanic or Latino,123.0,33451.0,367.7,799.6
+2020,Pennsylvania,42,"Luzerne County, PA",42079,White,Not Hispanic or Latino,4467.0,247477.0,1805.0,1030.3
+2020,Pennsylvania,42,"Lycoming County, PA",42081,Black or African American,Not Hispanic or Latino,57.0,5204.0,1095.3,1407.2
+2020,Pennsylvania,42,"Lycoming County, PA",42081,White,Not Hispanic or Latino,1400.0,101873.0,1374.3,864.8
+2020,Pennsylvania,42,"Mc Kean County, PA",42083,White,Not Hispanic or Latino,521.0,37590.0,1386.0,891.0
+2020,Pennsylvania,42,"Mercer County, PA",42085,Black or African American,Not Hispanic or Latino,91.0,6209.0,1465.6,1503.9
+2020,Pennsylvania,42,"Mercer County, PA",42085,White,Hispanic or Latino,10.0,1344.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Mercer County, PA",42085,White,Not Hispanic or Latino,1597.0,97565.0,1636.9,934.9
+2020,Pennsylvania,42,"Mifflin County, PA",42087,White,Not Hispanic or Latino,725.0,44068.0,1645.2,990.9
+2020,Pennsylvania,42,"Monroe County, PA",42089,Asian,Not Hispanic or Latino,19.0,4287.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Monroe County, PA",42089,Black or African American,Hispanic or Latino,12.0,5041.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Monroe County, PA",42089,Black or African American,Not Hispanic or Latino,198.0,23781.0,832.6,927.3
+2020,Pennsylvania,42,"Monroe County, PA",42089,White,Hispanic or Latino,107.0,22356.0,478.6,596.1
+2020,Pennsylvania,42,"Monroe County, PA",42089,White,Not Hispanic or Latino,1459.0,108022.0,1350.7,902.9
+2020,Pennsylvania,42,"Montgomery County, PA",42091,Asian,Not Hispanic or Latino,260.0,67960.0,382.6,445.9
+2020,Pennsylvania,42,"Montgomery County, PA",42091,Black or African American,Not Hispanic or Latino,971.0,79389.0,1223.1,1117.7
+2020,Pennsylvania,42,"Montgomery County, PA",42091,White,Hispanic or Latino,166.0,36852.0,450.5,749.1
+2020,Pennsylvania,42,"Montgomery County, PA",42091,White,Not Hispanic or Latino,7597.0,621199.0,1223.0,733.0
+2020,Pennsylvania,42,"Montgomery County, PA",42091,More than one race,Not Hispanic or Latino,16.0,17010.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Montour County, PA",42093,White,Not Hispanic or Latino,251.0,16315.0,1538.5,843.3
+2020,Pennsylvania,42,"Northampton County, PA",42095,Asian,Not Hispanic or Latino,34.0,9209.0,369.2,566.3
+2020,Pennsylvania,42,"Northampton County, PA",42095,Black or African American,Not Hispanic or Latino,134.0,17699.0,757.1,1016.7
+2020,Pennsylvania,42,"Northampton County, PA",42095,White,Hispanic or Latino,193.0,35757.0,539.8,811.1
+2020,Pennsylvania,42,"Northampton County, PA",42095,White,Not Hispanic or Latino,3196.0,228378.0,1399.4,780.0
+2020,Pennsylvania,42,"Northumberland County, PA",42097,Black or African American,Not Hispanic or Latino,16.0,2389.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Northumberland County, PA",42097,White,Not Hispanic or Latino,1435.0,82554.0,1738.3,1026.8
+2020,Pennsylvania,42,"Perry County, PA",42099,White,Not Hispanic or Latino,527.0,43862.0,1201.5,882.0
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,American Indian or Alaska Native,Not Hispanic or Latino,10.0,3346.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,Asian,Not Hispanic or Latino,570.0,121565.0,468.9,533.8
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Hispanic or Latino,56.0,51749.0,108.2,210.0
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Not Hispanic or Latino,9063.0,635169.0,1426.9,1295.9
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,White,Hispanic or Latino,1326.0,165382.0,801.8,1131.9
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Hispanic or Latino,7019.0,538985.0,1302.3,934.5
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2020,Pennsylvania,42,"Philadelphia County, PA",42101,More than one race,Not Hispanic or Latino,42.0,33202.0,126.5,208.7
+2020,Pennsylvania,42,"Pike County, PA",42103,Black or African American,Not Hispanic or Latino,25.0,3121.0,801.0,799.2
+2020,Pennsylvania,42,"Pike County, PA",42103,White,Hispanic or Latino,27.0,5455.0,495.0,541.0
+2020,Pennsylvania,42,"Pike County, PA",42103,White,Not Hispanic or Latino,563.0,44460.0,1266.3,738.9
+2020,Pennsylvania,42,"Potter County, PA",42105,White,Not Hispanic or Latino,224.0,15837.0,1414.4,795.0
+2020,Pennsylvania,42,"Schuylkill County, PA",42107,Black or African American,Not Hispanic or Latino,16.0,4164.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Schuylkill County, PA",42107,White,Hispanic or Latino,18.0,6089.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Schuylkill County, PA",42107,White,Not Hispanic or Latino,2239.0,125866.0,1778.9,1091.5
+2020,Pennsylvania,42,"Snyder County, PA",42109,White,Not Hispanic or Latino,414.0,38224.0,1083.1,703.3
+2020,Pennsylvania,42,"Somerset County, PA",42111,Black or African American,Not Hispanic or Latino,15.0,2124.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Somerset County, PA",42111,White,Not Hispanic or Latino,1085.0,68652.0,1580.4,904.2
+2020,Pennsylvania,42,"Sullivan County, PA",42113,White,Not Hispanic or Latino,104.0,5513.0,1886.5,1011.5
+2020,Pennsylvania,42,"Susquehanna County, PA",42115,White,Not Hispanic or Latino,547.0,38384.0,1425.1,834.0
+2020,Pennsylvania,42,"Tioga County, PA",42117,White,Not Hispanic or Latino,519.0,38775.0,1338.5,840.2
+2020,Pennsylvania,42,"Union County, PA",42119,White,Not Hispanic or Latino,475.0,37463.0,1267.9,746.0
+2020,Pennsylvania,42,"Venango County, PA",42121,White,Not Hispanic or Latino,740.0,48178.0,1536.0,898.8
+2020,Pennsylvania,42,"Warren County, PA",42123,White,Not Hispanic or Latino,575.0,37576.0,1530.2,877.0
+2020,Pennsylvania,42,"Washington County, PA",42125,Black or African American,Not Hispanic or Latino,128.0,6637.0,1928.6,1742.3
+2020,Pennsylvania,42,"Washington County, PA",42125,White,Hispanic or Latino,12.0,3126.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Washington County, PA",42125,White,Not Hispanic or Latino,2617.0,189676.0,1379.7,877.2
+2020,Pennsylvania,42,"Washington County, PA",42125,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2020,Pennsylvania,42,"Wayne County, PA",42127,White,Not Hispanic or Latino,678.0,45913.0,1476.7,843.0
+2020,Pennsylvania,42,"Westmoreland County, PA",42129,Asian,Not Hispanic or Latino,15.0,3433.0,Unreliable,Unreliable
+2020,Pennsylvania,42,"Westmoreland County, PA",42129,Black or African American,Not Hispanic or Latino,113.0,8740.0,1292.9,1438.9
+2020,Pennsylvania,42,"Westmoreland County, PA",42129,White,Not Hispanic or Latino,4928.0,324442.0,1518.9,870.8
+2020,Pennsylvania,42,"Wyoming County, PA",42131,White,Not Hispanic or Latino,336.0,25274.0,1329.4,862.2
+2020,Pennsylvania,42,"York County, PA",42133,Asian,Not Hispanic or Latino,24.0,6696.0,358.4,447.9
+2020,Pennsylvania,42,"York County, PA",42133,Black or African American,Not Hispanic or Latino,255.0,26446.0,964.2,1227.4
+2020,Pennsylvania,42,"York County, PA",42133,White,Hispanic or Latino,148.0,28081.0,527.0,1091.0
+2020,Pennsylvania,42,"York County, PA",42133,White,Not Hispanic or Latino,4542.0,369690.0,1228.6,813.8
+2020,Pennsylvania,42,"York County, PA",42133,More than one race,Not Hispanic or Latino,19.0,8593.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Adams County, PA",42001,Black or African American,Not Hispanic or Latino,17.0,1638.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Adams County, PA",42001,White,Hispanic or Latino,23.0,6481.0,354.9,867.8
+2021 (provisional),Pennsylvania,42,"Adams County, PA",42001,White,Not Hispanic or Latino,1185.0,91152.0,1300.0,788.3
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1384.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,Asian,Not Hispanic or Latino,136.0,51843.0,262.3,485.7
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Hispanic or Latino,2210.0,159830.0,1382.7,1296.8
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Stated,15.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,White,Hispanic or Latino,77.0,21746.0,354.1,465.8
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,White,Not Hispanic or Latino,12691.0,942324.0,1346.8,826.1
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,White,Not Stated,41.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Allegheny County, PA",42003,More than one race,Not Hispanic or Latino,32.0,27428.0,116.7,309.7
+2021 (provisional),Pennsylvania,42,"Armstrong County, PA",42005,White,Not Hispanic or Latino,1085.0,62191.0,1744.6,1072.0
+2021 (provisional),Pennsylvania,42,"Beaver County, PA",42007,Black or African American,Not Hispanic or Latino,162.0,10280.0,1575.9,1529.7
+2021 (provisional),Pennsylvania,42,"Beaver County, PA",42007,White,Not Hispanic or Latino,2241.0,144403.0,1551.9,914.7
+2021 (provisional),Pennsylvania,42,"Beaver County, PA",42007,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Bedford County, PA",42009,White,Not Hispanic or Latino,703.0,46194.0,1521.8,893.5
+2021 (provisional),Pennsylvania,42,"Berks County, PA",42011,Asian,Not Hispanic or Latino,30.0,6085.0,493.0,472.5
+2021 (provisional),Pennsylvania,42,"Berks County, PA",42011,Black or African American,Hispanic or Latino,15.0,14068.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Berks County, PA",42011,Black or African American,Not Hispanic or Latino,170.0,18025.0,943.1,1152.6
+2021 (provisional),Pennsylvania,42,"Berks County, PA",42011,White,Hispanic or Latino,416.0,71415.0,582.5,991.9
+2021 (provisional),Pennsylvania,42,"Berks County, PA",42011,White,Not Hispanic or Latino,4165.0,292979.0,1421.6,843.4
+2021 (provisional),Pennsylvania,42,"Berks County, PA",42011,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Blair County, PA",42013,Black or African American,Not Hispanic or Latino,30.0,2386.0,1257.3,1856.9
+2021 (provisional),Pennsylvania,42,"Blair County, PA",42013,White,Not Hispanic or Latino,1807.0,114228.0,1581.9,1003.3
+2021 (provisional),Pennsylvania,42,"Bradford County, PA",42015,White,Not Hispanic or Latino,829.0,57627.0,1438.6,897.0
+2021 (provisional),Pennsylvania,42,"Bucks County, PA",42017,Asian,Not Hispanic or Latino,144.0,33572.0,428.9,458.6
+2021 (provisional),Pennsylvania,42,"Bucks County, PA",42017,Black or African American,Not Hispanic or Latino,261.0,25940.0,1006.2,1139.5
+2021 (provisional),Pennsylvania,42,"Bucks County, PA",42017,White,Hispanic or Latino,119.0,30815.0,386.2,558.3
+2021 (provisional),Pennsylvania,42,"Bucks County, PA",42017,White,Not Hispanic or Latino,6347.0,519984.0,1220.6,758.4
+2021 (provisional),Pennsylvania,42,"Bucks County, PA",42017,More than one race,Not Hispanic or Latino,13.0,10439.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Butler County, PA",42019,Black or African American,Not Hispanic or Latino,20.0,2478.0,807.1,1120.1
+2021 (provisional),Pennsylvania,42,"Butler County, PA",42019,White,Hispanic or Latino,12.0,2707.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Butler County, PA",42019,White,Not Hispanic or Latino,2372.0,178142.0,1331.5,880.8
+2021 (provisional),Pennsylvania,42,"Cambria County, PA",42021,Black or African American,Not Hispanic or Latino,73.0,4613.0,1582.5,1884.0
+2021 (provisional),Pennsylvania,42,"Cambria County, PA",42021,White,Not Hispanic or Latino,1977.0,118787.0,1664.3,978.3
+2021 (provisional),Pennsylvania,42,"Cameron County, PA",42023,White,Not Hispanic or Latino,75.0,4138.0,1812.5,993.7
+2021 (provisional),Pennsylvania,42,"Carbon County, PA",42025,White,Hispanic or Latino,16.0,3014.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Carbon County, PA",42025,White,Not Hispanic or Latino,966.0,58009.0,1665.3,1051.4
+2021 (provisional),Pennsylvania,42,"Centre County, PA",42027,Asian,Not Hispanic or Latino,11.0,10037.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Centre County, PA",42027,Black or African American,Not Hispanic or Latino,18.0,5879.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Centre County, PA",42027,White,Not Hispanic or Latino,1175.0,137996.0,851.5,660.0
+2021 (provisional),Pennsylvania,42,"Chester County, PA",42029,Asian,Not Hispanic or Latino,80.0,33987.0,235.4,423.0
+2021 (provisional),Pennsylvania,42,"Chester County, PA",42029,Black or African American,Not Hispanic or Latino,304.0,29739.0,1022.2,993.7
+2021 (provisional),Pennsylvania,42,"Chester County, PA",42029,White,Hispanic or Latino,78.0,33489.0,232.9,419.5
+2021 (provisional),Pennsylvania,42,"Chester County, PA",42029,White,Not Hispanic or Latino,3915.0,412992.0,948.0,649.5
+2021 (provisional),Pennsylvania,42,"Clarion County, PA",42031,White,Not Hispanic or Latino,589.0,36685.0,1605.6,1058.9
+2021 (provisional),Pennsylvania,42,"Clearfield County, PA",42033,White,Not Hispanic or Latino,1179.0,72854.0,1618.3,1008.5
+2021 (provisional),Pennsylvania,42,"Clinton County, PA",42035,White,Not Hispanic or Latino,476.0,36019.0,1321.5,941.2
+2021 (provisional),Pennsylvania,42,"Columbia County, PA",42037,White,Not Hispanic or Latino,844.0,60136.0,1403.5,928.6
+2021 (provisional),Pennsylvania,42,"Crawford County, PA",42039,Black or African American,Not Hispanic or Latino,18.0,1583.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Crawford County, PA",42039,White,Not Hispanic or Latino,1189.0,79207.0,1501.1,1021.5
+2021 (provisional),Pennsylvania,42,"Cumberland County, PA",42041,Asian,Not Hispanic or Latino,40.0,12846.0,311.4,482.0
+2021 (provisional),Pennsylvania,42,"Cumberland County, PA",42041,Black or African American,Not Hispanic or Latino,73.0,11149.0,654.8,1105.3
+2021 (provisional),Pennsylvania,42,"Cumberland County, PA",42041,White,Hispanic or Latino,29.0,9079.0,319.4,738.5
+2021 (provisional),Pennsylvania,42,"Cumberland County, PA",42041,White,Not Hispanic or Latino,2632.0,214330.0,1228.0,778.9
+2021 (provisional),Pennsylvania,42,"Dauphin County, PA",42043,Asian,Not Hispanic or Latino,74.0,16298.0,454.0,655.7
+2021 (provisional),Pennsylvania,42,"Dauphin County, PA",42043,Black or African American,Not Hispanic or Latino,564.0,48016.0,1174.6,1210.3
+2021 (provisional),Pennsylvania,42,"Dauphin County, PA",42043,White,Hispanic or Latino,133.0,19906.0,668.1,1109.7
+2021 (provisional),Pennsylvania,42,"Dauphin County, PA",42043,White,Not Hispanic or Latino,2373.0,177863.0,1334.2,836.7
+2021 (provisional),Pennsylvania,42,"Delaware County, PA",42045,Asian,Not Hispanic or Latino,121.0,35885.0,337.2,402.8
+2021 (provisional),Pennsylvania,42,"Delaware County, PA",42045,Black or African American,Not Hispanic or Latino,1076.0,126200.0,852.6,1003.2
+2021 (provisional),Pennsylvania,42,"Delaware County, PA",42045,White,Hispanic or Latino,95.0,16587.0,572.7,902.5
+2021 (provisional),Pennsylvania,42,"Delaware County, PA",42045,White,Not Hispanic or Latino,4584.0,367657.0,1246.8,767.4
+2021 (provisional),Pennsylvania,42,"Elk County, PA",42047,White,Not Hispanic or Latino,464.0,28775.0,1612.5,1001.8
+2021 (provisional),Pennsylvania,42,"Erie County, PA",42049,Asian,Not Hispanic or Latino,16.0,5399.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Erie County, PA",42049,Black or African American,Not Hispanic or Latino,217.0,19562.0,1109.3,1398.0
+2021 (provisional),Pennsylvania,42,"Erie County, PA",42049,White,Hispanic or Latino,50.0,9426.0,530.4,966.7
+2021 (provisional),Pennsylvania,42,"Erie County, PA",42049,White,Not Hispanic or Latino,3090.0,224377.0,1377.1,910.6
+2021 (provisional),Pennsylvania,42,"Fayette County, PA",42051,Black or African American,Not Hispanic or Latino,90.0,5980.0,1505.0,1387.3
+2021 (provisional),Pennsylvania,42,"Fayette County, PA",42051,White,Not Hispanic or Latino,2139.0,117176.0,1825.5,1139.9
+2021 (provisional),Pennsylvania,42,"Forest County, PA",42053,White,Not Hispanic or Latino,103.0,5061.0,2035.2,1137.1
+2021 (provisional),Pennsylvania,42,"Franklin County, PA",42055,Black or African American,Not Hispanic or Latino,71.0,5473.0,1297.3,1536.3
+2021 (provisional),Pennsylvania,42,"Franklin County, PA",42055,White,Hispanic or Latino,24.0,7905.0,303.6,688.6
+2021 (provisional),Pennsylvania,42,"Franklin County, PA",42055,White,Not Hispanic or Latino,1930.0,135358.0,1425.8,872.4
+2021 (provisional),Pennsylvania,42,"Fulton County, PA",42057,White,Not Hispanic or Latino,232.0,13872.0,1672.4,1124.5
+2021 (provisional),Pennsylvania,42,"Greene County, PA",42059,White,Not Hispanic or Latino,532.0,33195.0,1602.7,1116.5
+2021 (provisional),Pennsylvania,42,"Huntingdon County, PA",42061,Black or African American,Not Hispanic or Latino,12.0,2457.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Huntingdon County, PA",42061,White,Not Hispanic or Latino,549.0,40335.0,1361.1,866.6
+2021 (provisional),Pennsylvania,42,"Indiana County, PA",42063,White,Not Hispanic or Latino,1101.0,78440.0,1403.6,971.6
+2021 (provisional),Pennsylvania,42,"Jefferson County, PA",42065,White,Not Hispanic or Latino,631.0,41808.0,1509.3,958.2
+2021 (provisional),Pennsylvania,42,"Juniata County, PA",42067,White,Not Hispanic or Latino,344.0,23087.0,1490.0,925.5
+2021 (provisional),Pennsylvania,42,"Lackawanna County, PA",42069,Asian,Not Hispanic or Latino,25.0,6444.0,388.0,472.3
+2021 (provisional),Pennsylvania,42,"Lackawanna County, PA",42069,Black or African American,Not Hispanic or Latino,57.0,6810.0,837.0,1314.8
+2021 (provisional),Pennsylvania,42,"Lackawanna County, PA",42069,White,Hispanic or Latino,60.0,14626.0,410.2,833.2
+2021 (provisional),Pennsylvania,42,"Lackawanna County, PA",42069,White,Not Hispanic or Latino,2750.0,173486.0,1585.1,940.5
+2021 (provisional),Pennsylvania,42,"Lancaster County, PA",42071,Asian,Not Hispanic or Latino,62.0,13683.0,453.1,551.8
+2021 (provisional),Pennsylvania,42,"Lancaster County, PA",42071,Black or African American,Not Hispanic or Latino,180.0,19672.0,915.0,1155.4
+2021 (provisional),Pennsylvania,42,"Lancaster County, PA",42071,White,Hispanic or Latino,252.0,45790.0,550.3,880.1
+2021 (provisional),Pennsylvania,42,"Lancaster County, PA",42071,White,Not Hispanic or Latino,5361.0,441973.0,1213.0,751.5
+2021 (provisional),Pennsylvania,42,"Lancaster County, PA",42071,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Lancaster County, PA",42071,More than one race,Not Hispanic or Latino,19.0,8790.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Lawrence County, PA",42073,Black or African American,Not Hispanic or Latino,58.0,3563.0,1627.8,1729.8
+2021 (provisional),Pennsylvania,42,"Lawrence County, PA",42073,White,Not Hispanic or Latino,1301.0,77714.0,1674.1,993.9
+2021 (provisional),Pennsylvania,42,"Lebanon County, PA",42075,Black or African American,Not Hispanic or Latino,26.0,2884.0,901.5,1324.0
+2021 (provisional),Pennsylvania,42,"Lebanon County, PA",42075,White,Hispanic or Latino,74.0,16605.0,445.6,812.6
+2021 (provisional),Pennsylvania,42,"Lebanon County, PA",42075,White,Not Hispanic or Latino,1754.0,114021.0,1538.3,895.5
+2021 (provisional),Pennsylvania,42,"Lehigh County, PA",42077,Asian,Not Hispanic or Latino,59.0,13650.0,432.2,532.1
+2021 (provisional),Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Hispanic or Latino,10.0,16519.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Not Hispanic or Latino,141.0,21961.0,642.0,886.3
+2021 (provisional),Pennsylvania,42,"Lehigh County, PA",42077,White,Hispanic or Latino,403.0,74751.0,539.1,913.3
+2021 (provisional),Pennsylvania,42,"Lehigh County, PA",42077,White,Not Hispanic or Latino,3334.0,227874.0,1463.1,821.5
+2021 (provisional),Pennsylvania,42,"Luzerne County, PA",42079,Asian,Not Hispanic or Latino,21.0,4063.0,516.9,626.9
+2021 (provisional),Pennsylvania,42,"Luzerne County, PA",42079,Black or African American,Not Hispanic or Latino,90.0,13633.0,660.2,1142.2
+2021 (provisional),Pennsylvania,42,"Luzerne County, PA",42079,White,Hispanic or Latino,131.0,33451.0,391.6,774.0
+2021 (provisional),Pennsylvania,42,"Luzerne County, PA",42079,White,Not Hispanic or Latino,4311.0,247477.0,1742.0,1001.3
+2021 (provisional),Pennsylvania,42,"Lycoming County, PA",42081,Black or African American,Not Hispanic or Latino,62.0,5204.0,1191.4,1593.3
+2021 (provisional),Pennsylvania,42,"Lycoming County, PA",42081,White,Not Hispanic or Latino,1477.0,101873.0,1449.8,927.5
+2021 (provisional),Pennsylvania,42,"Mc Kean County, PA",42083,White,Not Hispanic or Latino,623.0,37590.0,1657.4,1103.4
+2021 (provisional),Pennsylvania,42,"Mercer County, PA",42085,Black or African American,Not Hispanic or Latino,96.0,6209.0,1546.1,1549.6
+2021 (provisional),Pennsylvania,42,"Mercer County, PA",42085,White,Not Hispanic or Latino,1721.0,97565.0,1764.0,1037.4
+2021 (provisional),Pennsylvania,42,"Mifflin County, PA",42087,White,Not Hispanic or Latino,649.0,44068.0,1472.7,927.8
+2021 (provisional),Pennsylvania,42,"Monroe County, PA",42089,Asian,Not Hispanic or Latino,26.0,4287.0,606.5,625.1
+2021 (provisional),Pennsylvania,42,"Monroe County, PA",42089,Black or African American,Not Hispanic or Latino,189.0,23781.0,794.8,881.0
+2021 (provisional),Pennsylvania,42,"Monroe County, PA",42089,White,Hispanic or Latino,122.0,22356.0,545.7,709.7
+2021 (provisional),Pennsylvania,42,"Monroe County, PA",42089,White,Not Hispanic or Latino,1457.0,108022.0,1348.8,892.9
+2021 (provisional),Pennsylvania,42,"Montgomery County, PA",42091,Asian,Not Hispanic or Latino,267.0,67960.0,392.9,453.4
+2021 (provisional),Pennsylvania,42,"Montgomery County, PA",42091,Black or African American,Not Hispanic or Latino,786.0,79389.0,990.1,910.2
+2021 (provisional),Pennsylvania,42,"Montgomery County, PA",42091,White,Hispanic or Latino,129.0,36852.0,350.0,595.2
+2021 (provisional),Pennsylvania,42,"Montgomery County, PA",42091,White,Not Hispanic or Latino,7152.0,621199.0,1151.3,697.1
+2021 (provisional),Pennsylvania,42,"Montgomery County, PA",42091,More than one race,Not Hispanic or Latino,14.0,17010.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Montour County, PA",42093,White,Not Hispanic or Latino,248.0,16315.0,1520.1,819.2
+2021 (provisional),Pennsylvania,42,"Northampton County, PA",42095,Asian,Not Hispanic or Latino,23.0,9209.0,249.8,335.2
+2021 (provisional),Pennsylvania,42,"Northampton County, PA",42095,Black or African American,Not Hispanic or Latino,120.0,17699.0,678.0,856.1
+2021 (provisional),Pennsylvania,42,"Northampton County, PA",42095,White,Hispanic or Latino,174.0,35757.0,486.6,708.6
+2021 (provisional),Pennsylvania,42,"Northampton County, PA",42095,White,Not Hispanic or Latino,3208.0,228378.0,1404.7,791.2
+2021 (provisional),Pennsylvania,42,"Northumberland County, PA",42097,Black or African American,Not Hispanic or Latino,21.0,2389.0,879.0,2841.7
+2021 (provisional),Pennsylvania,42,"Northumberland County, PA",42097,White,Hispanic or Latino,17.0,2841.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Northumberland County, PA",42097,White,Not Hispanic or Latino,1224.0,82554.0,1482.7,890.6
+2021 (provisional),Pennsylvania,42,"Perry County, PA",42099,White,Not Hispanic or Latino,571.0,43862.0,1301.8,965.4
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,American Indian or Alaska Native,Not Hispanic or Latino,17.0,3346.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,Asian,Not Hispanic or Latino,533.0,121565.0,438.4,490.6
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Hispanic or Latino,63.0,51749.0,121.7,184.6
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Not Hispanic or Latino,8102.0,635169.0,1275.6,1159.4
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,White,Hispanic or Latino,1209.0,165382.0,731.0,1035.1
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Hispanic or Latino,6359.0,538985.0,1179.8,856.2
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Philadelphia County, PA",42101,More than one race,Not Hispanic or Latino,50.0,33202.0,150.6,277.4
+2021 (provisional),Pennsylvania,42,"Pike County, PA",42103,Black or African American,Not Hispanic or Latino,24.0,3121.0,769.0,655.7
+2021 (provisional),Pennsylvania,42,"Pike County, PA",42103,White,Hispanic or Latino,15.0,5455.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Pike County, PA",42103,White,Not Hispanic or Latino,642.0,44460.0,1444.0,839.8
+2021 (provisional),Pennsylvania,42,"Potter County, PA",42105,White,Not Hispanic or Latino,295.0,15837.0,1862.7,1063.6
+2021 (provisional),Pennsylvania,42,"Schuylkill County, PA",42107,Black or African American,Not Hispanic or Latino,25.0,4164.0,600.4,1196.7
+2021 (provisional),Pennsylvania,42,"Schuylkill County, PA",42107,White,Hispanic or Latino,31.0,6089.0,509.1,1166.9
+2021 (provisional),Pennsylvania,42,"Schuylkill County, PA",42107,White,Not Hispanic or Latino,2071.0,125866.0,1645.4,1002.2
+2021 (provisional),Pennsylvania,42,"Snyder County, PA",42109,White,Not Hispanic or Latino,421.0,38224.0,1101.4,744.3
+2021 (provisional),Pennsylvania,42,"Somerset County, PA",42111,Black or African American,Not Hispanic or Latino,18.0,2124.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Somerset County, PA",42111,White,Not Hispanic or Latino,1165.0,68652.0,1697.0,1011.3
+2021 (provisional),Pennsylvania,42,"Sullivan County, PA",42113,White,Not Hispanic or Latino,128.0,5513.0,2321.8,1095.4
+2021 (provisional),Pennsylvania,42,"Susquehanna County, PA",42115,White,Not Hispanic or Latino,564.0,38384.0,1469.4,881.5
+2021 (provisional),Pennsylvania,42,"Tioga County, PA",42117,White,Not Hispanic or Latino,589.0,38775.0,1519.0,984.0
+2021 (provisional),Pennsylvania,42,"Union County, PA",42119,White,Not Hispanic or Latino,472.0,37463.0,1259.9,735.9
+2021 (provisional),Pennsylvania,42,"Venango County, PA",42121,White,Not Hispanic or Latino,853.0,48178.0,1770.5,1076.6
+2021 (provisional),Pennsylvania,42,"Warren County, PA",42123,White,Not Hispanic or Latino,678.0,37576.0,1804.3,1082.4
+2021 (provisional),Pennsylvania,42,"Washington County, PA",42125,Black or African American,Not Hispanic or Latino,128.0,6637.0,1928.6,1701.5
+2021 (provisional),Pennsylvania,42,"Washington County, PA",42125,White,Hispanic or Latino,10.0,3126.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Washington County, PA",42125,White,Not Hispanic or Latino,2812.0,189676.0,1482.5,952.6
+2021 (provisional),Pennsylvania,42,"Washington County, PA",42125,White,Not Stated,14.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Pennsylvania,42,"Washington County, PA",42125,More than one race,Not Hispanic or Latino,10.0,3910.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Wayne County, PA",42127,Black or African American,Not Hispanic or Latino,11.0,1633.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Wayne County, PA",42127,White,Hispanic or Latino,15.0,2142.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Wayne County, PA",42127,White,Not Hispanic or Latino,798.0,45913.0,1738.1,1025.4
+2021 (provisional),Pennsylvania,42,"Westmoreland County, PA",42129,Asian,Not Hispanic or Latino,21.0,3433.0,611.7,593.4
+2021 (provisional),Pennsylvania,42,"Westmoreland County, PA",42129,Black or African American,Not Hispanic or Latino,109.0,8740.0,1247.1,1405.1
+2021 (provisional),Pennsylvania,42,"Westmoreland County, PA",42129,White,Hispanic or Latino,11.0,3698.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"Westmoreland County, PA",42129,White,Not Hispanic or Latino,5039.0,324442.0,1553.1,903.2
+2021 (provisional),Pennsylvania,42,"Wyoming County, PA",42131,White,Not Hispanic or Latino,386.0,25274.0,1527.3,1009.4
+2021 (provisional),Pennsylvania,42,"York County, PA",42133,Asian,Not Hispanic or Latino,16.0,6696.0,Unreliable,Unreliable
+2021 (provisional),Pennsylvania,42,"York County, PA",42133,Black or African American,Not Hispanic or Latino,254.0,26446.0,960.4,1241.1
+2021 (provisional),Pennsylvania,42,"York County, PA",42133,White,Hispanic or Latino,156.0,28081.0,555.5,1049.8
+2021 (provisional),Pennsylvania,42,"York County, PA",42133,White,Not Hispanic or Latino,4790.0,369690.0,1295.7,862.5
+2021 (provisional),Pennsylvania,42,"York County, PA",42133,More than one race,Not Hispanic or Latino,15.0,8593.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Adams County, PA",42001,White,Not Hispanic or Latino,220.0,91152.0,241.4,143.6
+2022 (provisional and partial),Pennsylvania,42,"Allegheny County, PA",42003,Asian,Not Hispanic or Latino,15.0,51843.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Allegheny County, PA",42003,Black or African American,Not Hispanic or Latino,311.0,159830.0,194.6,179.8
+2022 (provisional and partial),Pennsylvania,42,"Allegheny County, PA",42003,White,Hispanic or Latino,10.0,21746.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Allegheny County, PA",42003,White,Not Hispanic or Latino,1879.0,942324.0,199.4,119.2
+2022 (provisional and partial),Pennsylvania,42,"Armstrong County, PA",42005,White,Not Hispanic or Latino,147.0,62191.0,236.4,145.0
+2022 (provisional and partial),Pennsylvania,42,"Beaver County, PA",42007,Black or African American,Not Hispanic or Latino,31.0,10280.0,301.6,292.5
+2022 (provisional and partial),Pennsylvania,42,"Beaver County, PA",42007,White,Not Hispanic or Latino,370.0,144403.0,256.2,145.6
+2022 (provisional and partial),Pennsylvania,42,"Bedford County, PA",42009,White,Not Hispanic or Latino,117.0,46194.0,253.3,147.7
+2022 (provisional and partial),Pennsylvania,42,"Berks County, PA",42011,Black or African American,Not Hispanic or Latino,20.0,18025.0,111.0,130.0
+2022 (provisional and partial),Pennsylvania,42,"Berks County, PA",42011,White,Hispanic or Latino,53.0,71415.0,74.2,130.8
+2022 (provisional and partial),Pennsylvania,42,"Berks County, PA",42011,White,Not Hispanic or Latino,668.0,292979.0,228.0,130.5
+2022 (provisional and partial),Pennsylvania,42,"Blair County, PA",42013,White,Not Hispanic or Latino,290.0,114228.0,253.9,161.7
+2022 (provisional and partial),Pennsylvania,42,"Bradford County, PA",42015,White,Not Hispanic or Latino,137.0,57627.0,237.7,149.7
+2022 (provisional and partial),Pennsylvania,42,"Bucks County, PA",42017,Asian,Not Hispanic or Latino,30.0,33572.0,89.4,96.0
+2022 (provisional and partial),Pennsylvania,42,"Bucks County, PA",42017,Black or African American,Not Hispanic or Latino,38.0,25940.0,146.5,171.9
+2022 (provisional and partial),Pennsylvania,42,"Bucks County, PA",42017,White,Hispanic or Latino,27.0,30815.0,87.6,150.7
+2022 (provisional and partial),Pennsylvania,42,"Bucks County, PA",42017,White,Not Hispanic or Latino,1088.0,519984.0,209.2,127.8
+2022 (provisional and partial),Pennsylvania,42,"Butler County, PA",42019,White,Not Hispanic or Latino,358.0,178142.0,201.0,134.5
+2022 (provisional and partial),Pennsylvania,42,"Cambria County, PA",42021,Black or African American,Not Hispanic or Latino,11.0,4613.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Cambria County, PA",42021,White,Not Hispanic or Latino,292.0,118787.0,245.8,137.3
+2022 (provisional and partial),Pennsylvania,42,"Cameron County, PA",42023,White,Not Hispanic or Latino,18.0,4138.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Carbon County, PA",42025,White,Not Hispanic or Latino,136.0,58009.0,234.4,147.1
+2022 (provisional and partial),Pennsylvania,42,"Centre County, PA",42027,White,Not Hispanic or Latino,178.0,137996.0,129.0,102.9
+2022 (provisional and partial),Pennsylvania,42,"Chester County, PA",42029,Asian,Not Hispanic or Latino,12.0,33987.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Chester County, PA",42029,Black or African American,Not Hispanic or Latino,56.0,29739.0,188.3,178.6
+2022 (provisional and partial),Pennsylvania,42,"Chester County, PA",42029,White,Hispanic or Latino,15.0,33489.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Chester County, PA",42029,White,Not Hispanic or Latino,562.0,412992.0,136.1,94.6
+2022 (provisional and partial),Pennsylvania,42,"Clarion County, PA",42031,White,Not Hispanic or Latino,85.0,36685.0,231.7,157.6
+2022 (provisional and partial),Pennsylvania,42,"Clearfield County, PA",42033,White,Not Hispanic or Latino,149.0,72854.0,204.5,116.6
+2022 (provisional and partial),Pennsylvania,42,"Clinton County, PA",42035,White,Not Hispanic or Latino,81.0,36019.0,224.9,154.6
+2022 (provisional and partial),Pennsylvania,42,"Columbia County, PA",42037,White,Not Hispanic or Latino,133.0,60136.0,221.2,147.7
+2022 (provisional and partial),Pennsylvania,42,"Crawford County, PA",42039,White,Not Hispanic or Latino,189.0,79207.0,238.6,160.7
+2022 (provisional and partial),Pennsylvania,42,"Cumberland County, PA",42041,Black or African American,Not Hispanic or Latino,11.0,11149.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Cumberland County, PA",42041,White,Not Hispanic or Latino,445.0,214330.0,207.6,131.4
+2022 (provisional and partial),Pennsylvania,42,"Dauphin County, PA",42043,Asian,Not Hispanic or Latino,11.0,16298.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Dauphin County, PA",42043,Black or African American,Not Hispanic or Latino,78.0,48016.0,162.4,167.2
+2022 (provisional and partial),Pennsylvania,42,"Dauphin County, PA",42043,White,Hispanic or Latino,27.0,19906.0,135.6,267.8
+2022 (provisional and partial),Pennsylvania,42,"Dauphin County, PA",42043,White,Not Hispanic or Latino,384.0,177863.0,215.9,132.3
+2022 (provisional and partial),Pennsylvania,42,"Delaware County, PA",42045,Asian,Not Hispanic or Latino,16.0,35885.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Delaware County, PA",42045,Black or African American,Not Hispanic or Latino,184.0,126200.0,145.8,176.7
+2022 (provisional and partial),Pennsylvania,42,"Delaware County, PA",42045,White,Hispanic or Latino,10.0,16587.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Delaware County, PA",42045,White,Not Hispanic or Latino,696.0,367657.0,189.3,114.3
+2022 (provisional and partial),Pennsylvania,42,"Elk County, PA",42047,White,Not Hispanic or Latino,76.0,28775.0,264.1,160.9
+2022 (provisional and partial),Pennsylvania,42,"Erie County, PA",42049,Black or African American,Not Hispanic or Latino,22.0,19562.0,112.5,152.8
+2022 (provisional and partial),Pennsylvania,42,"Erie County, PA",42049,White,Not Hispanic or Latino,492.0,224377.0,219.3,141.4
+2022 (provisional and partial),Pennsylvania,42,"Fayette County, PA",42051,Black or African American,Not Hispanic or Latino,12.0,5980.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Fayette County, PA",42051,White,Not Hispanic or Latino,321.0,117176.0,273.9,165.7
+2022 (provisional and partial),Pennsylvania,42,"Forest County, PA",42053,White,Not Hispanic or Latino,12.0,5061.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Franklin County, PA",42055,White,Not Hispanic or Latino,323.0,135358.0,238.6,148.8
+2022 (provisional and partial),Pennsylvania,42,"Fulton County, PA",42057,White,Not Hispanic or Latino,38.0,13872.0,273.9,175.4
+2022 (provisional and partial),Pennsylvania,42,"Greene County, PA",42059,White,Not Hispanic or Latino,72.0,33195.0,216.9,151.2
+2022 (provisional and partial),Pennsylvania,42,"Huntingdon County, PA",42061,White,Not Hispanic or Latino,84.0,40335.0,208.3,131.1
+2022 (provisional and partial),Pennsylvania,42,"Indiana County, PA",42063,White,Not Hispanic or Latino,162.0,78440.0,206.5,137.6
+2022 (provisional and partial),Pennsylvania,42,"Jefferson County, PA",42065,White,Not Hispanic or Latino,110.0,41808.0,263.1,168.8
+2022 (provisional and partial),Pennsylvania,42,"Juniata County, PA",42067,White,Not Hispanic or Latino,58.0,23087.0,251.2,165.3
+2022 (provisional and partial),Pennsylvania,42,"Lackawanna County, PA",42069,White,Hispanic or Latino,10.0,14626.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Lackawanna County, PA",42069,White,Not Hispanic or Latino,388.0,173486.0,223.6,131.4
+2022 (provisional and partial),Pennsylvania,42,"Lancaster County, PA",42071,Black or African American,Not Hispanic or Latino,22.0,19672.0,111.8,140.4
+2022 (provisional and partial),Pennsylvania,42,"Lancaster County, PA",42071,White,Hispanic or Latino,48.0,45790.0,104.8,175.0
+2022 (provisional and partial),Pennsylvania,42,"Lancaster County, PA",42071,White,Not Hispanic or Latino,916.0,441973.0,207.3,128.0
+2022 (provisional and partial),Pennsylvania,42,"Lawrence County, PA",42073,White,Not Hispanic or Latino,207.0,77714.0,266.4,159.9
+2022 (provisional and partial),Pennsylvania,42,"Lebanon County, PA",42075,White,Hispanic or Latino,19.0,16605.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Lebanon County, PA",42075,White,Not Hispanic or Latino,280.0,114021.0,245.6,139.5
+2022 (provisional and partial),Pennsylvania,42,"Lehigh County, PA",42077,Black or African American,Not Hispanic or Latino,23.0,21961.0,104.7,167.1
+2022 (provisional and partial),Pennsylvania,42,"Lehigh County, PA",42077,White,Hispanic or Latino,60.0,74751.0,80.3,157.7
+2022 (provisional and partial),Pennsylvania,42,"Lehigh County, PA",42077,White,Not Hispanic or Latino,490.0,227874.0,215.0,118.6
+2022 (provisional and partial),Pennsylvania,42,"Luzerne County, PA",42079,Black or African American,Not Hispanic or Latino,17.0,13633.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Luzerne County, PA",42079,White,Hispanic or Latino,13.0,33451.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Luzerne County, PA",42079,White,Not Hispanic or Latino,664.0,247477.0,268.3,155.8
+2022 (provisional and partial),Pennsylvania,42,"Lycoming County, PA",42081,White,Not Hispanic or Latino,220.0,101873.0,216.0,137.9
+2022 (provisional and partial),Pennsylvania,42,"Mc Kean County, PA",42083,White,Not Hispanic or Latino,114.0,37590.0,303.3,194.9
+2022 (provisional and partial),Pennsylvania,42,"Mercer County, PA",42085,Black or African American,Not Hispanic or Latino,19.0,6209.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Mercer County, PA",42085,White,Not Hispanic or Latino,223.0,97565.0,228.6,132.0
+2022 (provisional and partial),Pennsylvania,42,"Mifflin County, PA",42087,White,Not Hispanic or Latino,87.0,44068.0,197.4,117.0
+2022 (provisional and partial),Pennsylvania,42,"Monroe County, PA",42089,Black or African American,Not Hispanic or Latino,19.0,23781.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Monroe County, PA",42089,White,Hispanic or Latino,29.0,22356.0,129.7,159.5
+2022 (provisional and partial),Pennsylvania,42,"Monroe County, PA",42089,White,Not Hispanic or Latino,262.0,108022.0,242.5,161.9
+2022 (provisional and partial),Pennsylvania,42,"Montgomery County, PA",42091,Asian,Not Hispanic or Latino,37.0,67960.0,54.4,61.9
+2022 (provisional and partial),Pennsylvania,42,"Montgomery County, PA",42091,Black or African American,Not Hispanic or Latino,122.0,79389.0,153.7,140.2
+2022 (provisional and partial),Pennsylvania,42,"Montgomery County, PA",42091,White,Hispanic or Latino,40.0,36852.0,108.5,172.1
+2022 (provisional and partial),Pennsylvania,42,"Montgomery County, PA",42091,White,Not Hispanic or Latino,1127.0,621199.0,181.4,108.6
+2022 (provisional and partial),Pennsylvania,42,"Montour County, PA",42093,White,Not Hispanic or Latino,40.0,16315.0,245.2,137.9
+2022 (provisional and partial),Pennsylvania,42,"Northampton County, PA",42095,Black or African American,Not Hispanic or Latino,28.0,17699.0,158.2,213.4
+2022 (provisional and partial),Pennsylvania,42,"Northampton County, PA",42095,White,Hispanic or Latino,35.0,35757.0,97.9,146.1
+2022 (provisional and partial),Pennsylvania,42,"Northampton County, PA",42095,White,Not Hispanic or Latino,537.0,228378.0,235.1,131.1
+2022 (provisional and partial),Pennsylvania,42,"Northumberland County, PA",42097,White,Not Hispanic or Latino,171.0,82554.0,207.1,125.3
+2022 (provisional and partial),Pennsylvania,42,"Perry County, PA",42099,White,Not Hispanic or Latino,100.0,43862.0,228.0,168.7
+2022 (provisional and partial),Pennsylvania,42,"Philadelphia County, PA",42101,Asian,Not Hispanic or Latino,97.0,121565.0,79.8,94.7
+2022 (provisional and partial),Pennsylvania,42,"Philadelphia County, PA",42101,Black or African American,Not Hispanic or Latino,1303.0,635169.0,205.1,189.8
+2022 (provisional and partial),Pennsylvania,42,"Philadelphia County, PA",42101,White,Hispanic or Latino,178.0,165382.0,107.6,160.4
+2022 (provisional and partial),Pennsylvania,42,"Philadelphia County, PA",42101,White,Not Hispanic or Latino,1015.0,538985.0,188.3,135.9
+2022 (provisional and partial),Pennsylvania,42,"Pike County, PA",42103,White,Not Hispanic or Latino,94.0,44460.0,211.4,121.0
+2022 (provisional and partial),Pennsylvania,42,"Potter County, PA",42105,White,Not Hispanic or Latino,31.0,15837.0,195.7,126.0
+2022 (provisional and partial),Pennsylvania,42,"Schuylkill County, PA",42107,White,Not Hispanic or Latino,353.0,125866.0,280.5,168.0
+2022 (provisional and partial),Pennsylvania,42,"Snyder County, PA",42109,White,Not Hispanic or Latino,70.0,38224.0,183.1,116.6
+2022 (provisional and partial),Pennsylvania,42,"Somerset County, PA",42111,White,Not Hispanic or Latino,189.0,68652.0,275.3,159.4
+2022 (provisional and partial),Pennsylvania,42,"Sullivan County, PA",42113,White,Not Hispanic or Latino,13.0,5513.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Susquehanna County, PA",42115,White,Not Hispanic or Latino,92.0,38384.0,239.7,143.6
+2022 (provisional and partial),Pennsylvania,42,"Tioga County, PA",42117,White,Not Hispanic or Latino,93.0,38775.0,239.8,144.7
+2022 (provisional and partial),Pennsylvania,42,"Union County, PA",42119,White,Not Hispanic or Latino,65.0,37463.0,173.5,101.6
+2022 (provisional and partial),Pennsylvania,42,"Venango County, PA",42121,White,Not Hispanic or Latino,132.0,48178.0,274.0,160.4
+2022 (provisional and partial),Pennsylvania,42,"Warren County, PA",42123,White,Not Hispanic or Latino,84.0,37576.0,223.5,126.5
+2022 (provisional and partial),Pennsylvania,42,"Washington County, PA",42125,Black or African American,Not Hispanic or Latino,19.0,6637.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Washington County, PA",42125,White,Not Hispanic or Latino,418.0,189676.0,220.4,140.4
+2022 (provisional and partial),Pennsylvania,42,"Wayne County, PA",42127,White,Not Hispanic or Latino,108.0,45913.0,235.2,131.4
+2022 (provisional and partial),Pennsylvania,42,"Westmoreland County, PA",42129,Black or African American,Not Hispanic or Latino,18.0,8740.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"Westmoreland County, PA",42129,White,Not Hispanic or Latino,840.0,324442.0,258.9,150.1
+2022 (provisional and partial),Pennsylvania,42,"Wyoming County, PA",42131,White,Not Hispanic or Latino,48.0,25274.0,189.9,122.0
+2022 (provisional and partial),Pennsylvania,42,"York County, PA",42133,Black or African American,Not Hispanic or Latino,38.0,26446.0,143.7,199.0
+2022 (provisional and partial),Pennsylvania,42,"York County, PA",42133,White,Hispanic or Latino,18.0,28081.0,Unreliable,Unreliable
+2022 (provisional and partial),Pennsylvania,42,"York County, PA",42133,White,Not Hispanic or Latino,731.0,369690.0,197.7,129.2

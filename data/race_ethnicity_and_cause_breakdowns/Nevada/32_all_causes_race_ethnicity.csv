@@ -1,0 +1,217 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Nevada,32,"Churchill County, NV",32001,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1065.0,Unreliable,Unreliable
+2018,Nevada,32,"Churchill County, NV",32001,White,Hispanic or Latino,14.0,2813.0,Unreliable,Unreliable
+2018,Nevada,32,"Churchill County, NV",32001,White,Not Hispanic or Latino,260.0,17774.0,1462.8,1008.4
+2018,Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Not Hispanic or Latino,57.0,10202.0,558.7,549.2
+2018,Nevada,32,"Clark County, NV",32003,Asian,Hispanic or Latino,13.0,11465.0,Unreliable,Unreliable
+2018,Nevada,32,"Clark County, NV",32003,Asian,Not Hispanic or Latino,1104.0,219887.0,502.1,430.8
+2018,Nevada,32,"Clark County, NV",32003,Black or African American,Hispanic or Latino,23.0,25915.0,88.8,194.8
+2018,Nevada,32,"Clark County, NV",32003,Black or African American,Not Hispanic or Latino,2103.0,260376.0,807.7,931.1
+2018,Nevada,32,"Clark County, NV",32003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,138.0,15466.0,892.3,1153.7
+2018,Nevada,32,"Clark County, NV",32003,White,Hispanic or Latino,1698.0,618382.0,274.6,462.7
+2018,Nevada,32,"Clark County, NV",32003,White,Not Hispanic or Latino,11645.0,941736.0,1236.5,825.3
+2018,Nevada,32,"Clark County, NV",32003,More than one race,Not Hispanic or Latino,167.0,82214.0,203.1,416.6
+2018,Nevada,32,"Douglas County, NV",32005,American Indian or Alaska Native,Not Hispanic or Latino,11.0,806.0,Unreliable,Unreliable
+2018,Nevada,32,"Douglas County, NV",32005,White,Hispanic or Latino,20.0,5475.0,365.3,397.5
+2018,Nevada,32,"Douglas County, NV",32005,White,Not Hispanic or Latino,491.0,38926.0,1261.4,637.9
+2018,Nevada,32,"Elko County, NV",32007,American Indian or Alaska Native,Not Hispanic or Latino,28.0,2495.0,1122.2,1048.3
+2018,Nevada,32,"Elko County, NV",32007,White,Hispanic or Latino,38.0,11233.0,338.3,554.4
+2018,Nevada,32,"Elko County, NV",32007,White,Not Hispanic or Latino,254.0,34930.0,727.2,727.4
+2018,Nevada,32,"Esmeralda County, NV",32009,White,Not Hispanic or Latino,10.0,554.0,Unreliable,Unreliable
+2018,Nevada,32,"Eureka County, NV",32011,White,Not Hispanic or Latino,14.0,1603.0,Unreliable,Unreliable
+2018,Nevada,32,"Humboldt County, NV",32013,American Indian or Alaska Native,Not Hispanic or Latino,13.0,615.0,Unreliable,Unreliable
+2018,Nevada,32,"Humboldt County, NV",32013,White,Hispanic or Latino,12.0,4180.0,Unreliable,Unreliable
+2018,Nevada,32,"Humboldt County, NV",32013,White,Not Hispanic or Latino,119.0,10882.0,1093.5,923.5
+2018,Nevada,32,"Lander County, NV",32015,White,Not Hispanic or Latino,48.0,3865.0,1241.9,1019.6
+2018,Nevada,32,"Lincoln County, NV",32017,White,Not Hispanic or Latino,38.0,4377.0,868.2,547.0
+2018,Nevada,32,"Lyon County, NV",32019,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1227.0,Unreliable,Unreliable
+2018,Nevada,32,"Lyon County, NV",32019,Asian,Not Hispanic or Latino,10.0,829.0,Unreliable,Unreliable
+2018,Nevada,32,"Lyon County, NV",32019,White,Hispanic or Latino,25.0,8522.0,293.4,411.6
+2018,Nevada,32,"Lyon County, NV",32019,White,Not Hispanic or Latino,562.0,41483.0,1354.8,873.2
+2018,Nevada,32,"Mineral County, NV",32021,White,Not Hispanic or Latino,50.0,2774.0,1802.5,950.0
+2018,Nevada,32,"Nye County, NV",32023,Black or African American,Not Hispanic or Latino,21.0,1461.0,1437.4,1118.3
+2018,Nevada,32,"Nye County, NV",32023,White,Hispanic or Latino,26.0,5994.0,433.8,468.0
+2018,Nevada,32,"Nye County, NV",32023,White,Not Hispanic or Latino,744.0,34314.0,2168.2,1069.4
+2018,Nevada,32,"Pershing County, NV",32027,White,Not Hispanic or Latino,55.0,4314.0,1274.9,835.9
+2018,Nevada,32,"Storey County, NV",32029,White,Not Hispanic or Latino,42.0,3384.0,1241.1,633.1
+2018,Nevada,32,"Washoe County, NV",32031,American Indian or Alaska Native,Not Hispanic or Latino,52.0,6245.0,832.7,775.3
+2018,Nevada,32,"Washoe County, NV",32031,Asian,Not Hispanic or Latino,121.0,25324.0,477.8,459.2
+2018,Nevada,32,"Washoe County, NV",32031,Black or African American,Not Hispanic or Latino,100.0,10586.0,944.6,1118.0
+2018,Nevada,32,"Washoe County, NV",32031,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,19.0,2776.0,Unreliable,Unreliable
+2018,Nevada,32,"Washoe County, NV",32031,White,Hispanic or Latino,242.0,103240.0,234.4,443.5
+2018,Nevada,32,"Washoe County, NV",32031,White,Not Hispanic or Latino,3274.0,291709.0,1122.4,799.0
+2018,Nevada,32,"Washoe County, NV",32031,More than one race,Not Hispanic or Latino,29.0,13426.0,216.0,556.6
+2018,Nevada,32,"White Pine County, NV",32033,White,Not Hispanic or Latino,89.0,6773.0,1314.0,873.9
+2018,Nevada,32,"Carson City, NV",32510,Black or African American,Not Hispanic or Latino,11.0,1045.0,Unreliable,Unreliable
+2018,Nevada,32,"Carson City, NV",32510,White,Hispanic or Latino,37.0,12229.0,302.6,457.2
+2018,Nevada,32,"Carson City, NV",32510,White,Not Hispanic or Latino,703.0,36979.0,1901.1,1075.7
+2019,Nevada,32,"Churchill County, NV",32001,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1099.0,Unreliable,Unreliable
+2019,Nevada,32,"Churchill County, NV",32001,White,Hispanic or Latino,14.0,2880.0,Unreliable,Unreliable
+2019,Nevada,32,"Churchill County, NV",32001,White,Not Hispanic or Latino,261.0,18059.0,1445.3,1012.9
+2019,Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Hispanic or Latino,12.0,17629.0,Unreliable,Unreliable
+2019,Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Not Hispanic or Latino,70.0,10429.0,671.2,667.0
+2019,Nevada,32,"Clark County, NV",32003,Asian,Hispanic or Latino,16.0,11549.0,Unreliable,Unreliable
+2019,Nevada,32,"Clark County, NV",32003,Asian,Not Hispanic or Latino,1192.0,223204.0,534.0,428.7
+2019,Nevada,32,"Clark County, NV",32003,Black or African American,Hispanic or Latino,36.0,26725.0,134.7,294.7
+2019,Nevada,32,"Clark County, NV",32003,Black or African American,Not Hispanic or Latino,2178.0,269223.0,809.0,914.1
+2019,Nevada,32,"Clark County, NV",32003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,129.0,15999.0,806.3,958.5
+2019,Nevada,32,"Clark County, NV",32003,White,Hispanic or Latino,1802.0,631389.0,285.4,486.3
+2019,Nevada,32,"Clark County, NV",32003,White,Not Hispanic or Latino,11947.0,944618.0,1264.7,821.1
+2019,Nevada,32,"Clark County, NV",32003,More than one race,Hispanic or Latino,19.0,26094.0,Unreliable,Unreliable
+2019,Nevada,32,"Clark County, NV",32003,More than one race,Not Hispanic or Latino,144.0,85964.0,167.5,364.9
+2019,Nevada,32,"Douglas County, NV",32005,White,Hispanic or Latino,21.0,5578.0,376.5,449.5
+2019,Nevada,32,"Douglas County, NV",32005,White,Not Hispanic or Latino,512.0,39214.0,1305.7,661.7
+2019,Nevada,32,"Elko County, NV",32007,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2445.0,Unreliable,Unreliable
+2019,Nevada,32,"Elko County, NV",32007,White,Hispanic or Latino,28.0,11387.0,245.9,341.7
+2019,Nevada,32,"Elko County, NV",32007,White,Not Hispanic or Latino,279.0,35113.0,794.6,757.5
+2019,Nevada,32,"Eureka County, NV",32011,White,Not Hispanic or Latino,19.0,1630.0,Unreliable,Unreliable
+2019,Nevada,32,"Humboldt County, NV",32013,American Indian or Alaska Native,Not Hispanic or Latino,10.0,619.0,Unreliable,Unreliable
+2019,Nevada,32,"Humboldt County, NV",32013,White,Hispanic or Latino,12.0,4210.0,Unreliable,Unreliable
+2019,Nevada,32,"Humboldt County, NV",32013,White,Not Hispanic or Latino,102.0,10894.0,936.3,793.5
+2019,Nevada,32,"Lander County, NV",32015,White,Not Hispanic or Latino,44.0,3824.0,1150.6,868.6
+2019,Nevada,32,"Lincoln County, NV",32017,White,Not Hispanic or Latino,56.0,4382.0,1278.0,693.0
+2019,Nevada,32,"Lyon County, NV",32019,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1268.0,Unreliable,Unreliable
+2019,Nevada,32,"Lyon County, NV",32019,White,Hispanic or Latino,22.0,8968.0,245.3,361.1
+2019,Nevada,32,"Lyon County, NV",32019,White,Not Hispanic or Latino,611.0,42439.0,1439.7,941.6
+2019,Nevada,32,"Mineral County, NV",32021,American Indian or Alaska Native,Not Hispanic or Latino,16.0,673.0,Unreliable,Unreliable
+2019,Nevada,32,"Mineral County, NV",32021,White,Not Hispanic or Latino,58.0,2743.0,2114.5,1009.4
+2019,Nevada,32,"Nye County, NV",32023,Asian,Not Hispanic or Latino,12.0,785.0,Unreliable,Unreliable
+2019,Nevada,32,"Nye County, NV",32023,Black or African American,Not Hispanic or Latino,15.0,1553.0,Unreliable,Unreliable
+2019,Nevada,32,"Nye County, NV",32023,White,Hispanic or Latino,38.0,6270.0,606.1,682.6
+2019,Nevada,32,"Nye County, NV",32023,White,Not Hispanic or Latino,762.0,34920.0,2182.1,1043.8
+2019,Nevada,32,"Pershing County, NV",32027,White,Not Hispanic or Latino,61.0,4318.0,1412.7,955.9
+2019,Nevada,32,"Storey County, NV",32029,White,Not Hispanic or Latino,44.0,3446.0,1276.8,621.8
+2019,Nevada,32,"Washoe County, NV",32031,American Indian or Alaska Native,Not Hispanic or Latino,50.0,6314.0,791.9,777.8
+2019,Nevada,32,"Washoe County, NV",32031,Asian,Not Hispanic or Latino,123.0,25617.0,480.1,432.3
+2019,Nevada,32,"Washoe County, NV",32031,Black or African American,Not Hispanic or Latino,91.0,11043.0,824.1,963.0
+2019,Nevada,32,"Washoe County, NV",32031,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,19.0,2848.0,Unreliable,Unreliable
+2019,Nevada,32,"Washoe County, NV",32031,White,Hispanic or Latino,275.0,105148.0,261.5,472.0
+2019,Nevada,32,"Washoe County, NV",32031,White,Not Hispanic or Latino,3381.0,293830.0,1150.7,815.6
+2019,Nevada,32,"Washoe County, NV",32031,More than one race,Not Hispanic or Latino,31.0,13983.0,221.7,489.5
+2019,Nevada,32,"White Pine County, NV",32033,White,Not Hispanic or Latino,77.0,6804.0,1131.7,711.9
+2019,Nevada,32,"Carson City, NV",32510,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1068.0,Unreliable,Unreliable
+2019,Nevada,32,"Carson City, NV",32510,Black or African American,Not Hispanic or Latino,13.0,1117.0,Unreliable,Unreliable
+2019,Nevada,32,"Carson City, NV",32510,White,Hispanic or Latino,38.0,12455.0,305.1,446.2
+2019,Nevada,32,"Carson City, NV",32510,White,Not Hispanic or Latino,746.0,37120.0,2009.7,1105.8
+2020,Nevada,32,"Churchill County, NV",32001,American Indian or Alaska Native,Not Hispanic or Latino,20.0,1072.0,1865.7,1564.8
+2020,Nevada,32,"Churchill County, NV",32001,White,Hispanic or Latino,13.0,2978.0,Unreliable,Unreliable
+2020,Nevada,32,"Churchill County, NV",32001,White,Not Hispanic or Latino,326.0,18189.0,1792.3,1218.8
+2020,Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Hispanic or Latino,13.0,18273.0,Unreliable,Unreliable
+2020,Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Not Hispanic or Latino,79.0,10461.0,755.2,693.3
+2020,Nevada,32,"Clark County, NV",32003,Asian,Hispanic or Latino,21.0,12687.0,165.5,377.5
+2020,Nevada,32,"Clark County, NV",32003,Asian,Not Hispanic or Latino,1625.0,234353.0,693.4,535.8
+2020,Nevada,32,"Clark County, NV",32003,Black or African American,Hispanic or Latino,50.0,29130.0,171.6,473.0
+2020,Nevada,32,"Clark County, NV",32003,Black or African American,Not Hispanic or Latino,2840.0,278675.0,1019.1,1124.8
+2020,Nevada,32,"Clark County, NV",32003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,189.0,17343.0,1089.8,1298.1
+2020,Nevada,32,"Clark County, NV",32003,White,Hispanic or Latino,2801.0,644571.0,434.6,695.9
+2020,Nevada,32,"Clark County, NV",32003,White,Not Hispanic or Latino,13374.0,946125.0,1413.6,901.1
+2020,Nevada,32,"Clark County, NV",32003,More than one race,Hispanic or Latino,18.0,27851.0,Unreliable,Unreliable
+2020,Nevada,32,"Clark County, NV",32003,More than one race,Not Hispanic or Latino,212.0,92183.0,230.0,510.4
+2020,Nevada,32,"Douglas County, NV",32005,White,Hispanic or Latino,28.0,5506.0,508.5,520.7
+2020,Nevada,32,"Douglas County, NV",32005,White,Not Hispanic or Latino,568.0,39365.0,1442.9,680.3
+2020,Nevada,32,"Elko County, NV",32007,American Indian or Alaska Native,Not Hispanic or Latino,28.0,2437.0,1149.0,1021.3
+2020,Nevada,32,"Elko County, NV",32007,White,Hispanic or Latino,52.0,11521.0,451.3,735.4
+2020,Nevada,32,"Elko County, NV",32007,White,Not Hispanic or Latino,326.0,35079.0,929.3,861.5
+2020,Nevada,32,"Esmeralda County, NV",32009,White,Not Hispanic or Latino,10.0,592.0,Unreliable,Unreliable
+2020,Nevada,32,"Eureka County, NV",32011,White,Not Hispanic or Latino,13.0,1632.0,Unreliable,Unreliable
+2020,Nevada,32,"Humboldt County, NV",32013,White,Hispanic or Latino,15.0,4271.0,Unreliable,Unreliable
+2020,Nevada,32,"Humboldt County, NV",32013,White,Not Hispanic or Latino,121.0,10919.0,1108.2,887.7
+2020,Nevada,32,"Lander County, NV",32015,White,Not Hispanic or Latino,49.0,3834.0,1278.0,971.1
+2020,Nevada,32,"Lincoln County, NV",32017,White,Not Hispanic or Latino,52.0,4386.0,1185.6,657.6
+2020,Nevada,32,"Lyon County, NV",32019,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1257.0,Unreliable,Unreliable
+2020,Nevada,32,"Lyon County, NV",32019,White,Hispanic or Latino,44.0,9254.0,475.5,687.4
+2020,Nevada,32,"Lyon County, NV",32019,White,Not Hispanic or Latino,745.0,42692.0,1745.1,1113.2
+2020,Nevada,32,"Mineral County, NV",32021,American Indian or Alaska Native,Not Hispanic or Latino,11.0,663.0,Unreliable,Unreliable
+2020,Nevada,32,"Mineral County, NV",32021,White,Not Hispanic or Latino,75.0,2726.0,2751.3,1372.2
+2020,Nevada,32,"Nye County, NV",32023,Black or African American,Not Hispanic or Latino,23.0,1625.0,1415.4,1129.2
+2020,Nevada,32,"Nye County, NV",32023,White,Hispanic or Latino,49.0,6565.0,746.4,851.7
+2020,Nevada,32,"Nye County, NV",32023,White,Not Hispanic or Latino,834.0,35739.0,2333.6,1148.0
+2020,Nevada,32,"Pershing County, NV",32027,White,Hispanic or Latino,12.0,1390.0,Unreliable,Unreliable
+2020,Nevada,32,"Pershing County, NV",32027,White,Not Hispanic or Latino,46.0,4216.0,1091.1,711.4
+2020,Nevada,32,"Storey County, NV",32029,White,Not Hispanic or Latino,38.0,3516.0,1080.8,560.6
+2020,Nevada,32,"Washoe County, NV",32031,American Indian or Alaska Native,Hispanic or Latino,13.0,4605.0,Unreliable,Unreliable
+2020,Nevada,32,"Washoe County, NV",32031,American Indian or Alaska Native,Not Hispanic or Latino,79.0,6199.0,1274.4,1211.4
+2020,Nevada,32,"Washoe County, NV",32031,Asian,Not Hispanic or Latino,182.0,26560.0,685.2,606.0
+2020,Nevada,32,"Washoe County, NV",32031,Black or African American,Not Hispanic or Latino,104.0,11217.0,927.2,1065.6
+2020,Nevada,32,"Washoe County, NV",32031,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,17.0,2985.0,Unreliable,Unreliable
+2020,Nevada,32,"Washoe County, NV",32031,White,Hispanic or Latino,429.0,107277.0,399.9,676.7
+2020,Nevada,32,"Washoe County, NV",32031,White,Not Hispanic or Latino,3857.0,294448.0,1309.9,910.4
+2020,Nevada,32,"Washoe County, NV",32031,More than one race,Not Hispanic or Latino,38.0,14665.0,259.1,486.5
+2020,Nevada,32,"White Pine County, NV",32033,White,Not Hispanic or Latino,79.0,6778.0,1165.5,732.4
+2020,Nevada,32,"Carson City, NV",32510,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1117.0,Unreliable,Unreliable
+2020,Nevada,32,"Carson City, NV",32510,Asian,Not Hispanic or Latino,11.0,1340.0,Unreliable,Unreliable
+2020,Nevada,32,"Carson City, NV",32510,Black or African American,Not Hispanic or Latino,10.0,1075.0,Unreliable,Unreliable
+2020,Nevada,32,"Carson City, NV",32510,White,Hispanic or Latino,64.0,12473.0,513.1,825.4
+2020,Nevada,32,"Carson City, NV",32510,White,Not Hispanic or Latino,814.0,36998.0,2200.1,1248.0
+2020,Nevada,32,"Carson City, NV",32510,More than one race,Not Hispanic or Latino,15.0,1407.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Churchill County, NV",32001,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1072.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Churchill County, NV",32001,White,Hispanic or Latino,14.0,2978.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Churchill County, NV",32001,White,Not Hispanic or Latino,342.0,18189.0,1880.3,1256.4
+2021 (provisional),Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Hispanic or Latino,23.0,18273.0,125.9,288.7
+2021 (provisional),Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Not Hispanic or Latino,93.0,10461.0,889.0,831.7
+2021 (provisional),Nevada,32,"Clark County, NV",32003,Asian,Hispanic or Latino,18.0,12687.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Clark County, NV",32003,Asian,Not Hispanic or Latino,1777.0,234353.0,758.3,585.0
+2021 (provisional),Nevada,32,"Clark County, NV",32003,Black or African American,Hispanic or Latino,63.0,29130.0,216.3,397.6
+2021 (provisional),Nevada,32,"Clark County, NV",32003,Black or African American,Not Hispanic or Latino,3146.0,278675.0,1128.9,1233.7
+2021 (provisional),Nevada,32,"Clark County, NV",32003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,251.0,17343.0,1447.3,1733.3
+2021 (provisional),Nevada,32,"Clark County, NV",32003,White,Hispanic or Latino,3018.0,644571.0,468.2,714.6
+2021 (provisional),Nevada,32,"Clark County, NV",32003,White,Not Hispanic or Latino,14134.0,946125.0,1493.9,950.6
+2021 (provisional),Nevada,32,"Clark County, NV",32003,More than one race,Hispanic or Latino,38.0,27851.0,136.4,421.6
+2021 (provisional),Nevada,32,"Clark County, NV",32003,More than one race,Not Hispanic or Latino,254.0,92183.0,275.5,589.8
+2021 (provisional),Nevada,32,"Douglas County, NV",32005,White,Hispanic or Latino,27.0,5506.0,490.4,512.5
+2021 (provisional),Nevada,32,"Douglas County, NV",32005,White,Not Hispanic or Latino,610.0,39365.0,1549.6,771.0
+2021 (provisional),Nevada,32,"Elko County, NV",32007,American Indian or Alaska Native,Not Hispanic or Latino,40.0,2437.0,1641.4,1455.1
+2021 (provisional),Nevada,32,"Elko County, NV",32007,White,Hispanic or Latino,63.0,11521.0,546.8,836.8
+2021 (provisional),Nevada,32,"Elko County, NV",32007,White,Not Hispanic or Latino,388.0,35079.0,1106.1,1006.3
+2021 (provisional),Nevada,32,"Esmeralda County, NV",32009,White,Not Hispanic or Latino,11.0,592.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Eureka County, NV",32011,White,Not Hispanic or Latino,27.0,1632.0,1654.4,1198.5
+2021 (provisional),Nevada,32,"Humboldt County, NV",32013,White,Hispanic or Latino,24.0,4271.0,561.9,758.2
+2021 (provisional),Nevada,32,"Humboldt County, NV",32013,White,Not Hispanic or Latino,172.0,10919.0,1575.2,1302.5
+2021 (provisional),Nevada,32,"Lander County, NV",32015,White,Not Hispanic or Latino,54.0,3834.0,1408.5,1038.6
+2021 (provisional),Nevada,32,"Lincoln County, NV",32017,White,Not Hispanic or Latino,56.0,4386.0,1276.8,731.1
+2021 (provisional),Nevada,32,"Lyon County, NV",32019,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1257.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Lyon County, NV",32019,Asian,Not Hispanic or Latino,10.0,881.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Lyon County, NV",32019,White,Hispanic or Latino,45.0,9254.0,486.3,704.3
+2021 (provisional),Nevada,32,"Lyon County, NV",32019,White,Not Hispanic or Latino,802.0,42692.0,1878.6,1205.4
+2021 (provisional),Nevada,32,"Mineral County, NV",32021,American Indian or Alaska Native,Not Hispanic or Latino,17.0,663.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Mineral County, NV",32021,White,Not Hispanic or Latino,63.0,2726.0,2311.1,1380.9
+2021 (provisional),Nevada,32,"Nye County, NV",32023,Asian,Not Hispanic or Latino,13.0,862.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Nye County, NV",32023,Black or African American,Not Hispanic or Latino,30.0,1625.0,1846.2,1289.9
+2021 (provisional),Nevada,32,"Nye County, NV",32023,White,Hispanic or Latino,58.0,6565.0,883.5,969.5
+2021 (provisional),Nevada,32,"Nye County, NV",32023,White,Not Hispanic or Latino,962.0,35739.0,2691.7,1291.4
+2021 (provisional),Nevada,32,"Pershing County, NV",32027,White,Not Hispanic or Latino,72.0,4216.0,1707.8,1136.6
+2021 (provisional),Nevada,32,"Storey County, NV",32029,White,Not Hispanic or Latino,45.0,3516.0,1279.9,579.9
+2021 (provisional),Nevada,32,"Washoe County, NV",32031,American Indian or Alaska Native,Not Hispanic or Latino,74.0,6199.0,1193.7,1161.1
+2021 (provisional),Nevada,32,"Washoe County, NV",32031,Asian,Not Hispanic or Latino,172.0,26560.0,647.6,592.4
+2021 (provisional),Nevada,32,"Washoe County, NV",32031,Black or African American,Not Hispanic or Latino,145.0,11217.0,1292.7,1455.3
+2021 (provisional),Nevada,32,"Washoe County, NV",32031,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,37.0,2985.0,1239.5,1536.0
+2021 (provisional),Nevada,32,"Washoe County, NV",32031,White,Hispanic or Latino,412.0,107277.0,384.1,643.9
+2021 (provisional),Nevada,32,"Washoe County, NV",32031,White,Not Hispanic or Latino,3952.0,294448.0,1342.2,933.5
+2021 (provisional),Nevada,32,"Washoe County, NV",32031,More than one race,Not Hispanic or Latino,40.0,14665.0,272.8,586.6
+2021 (provisional),Nevada,32,"White Pine County, NV",32033,White,Not Hispanic or Latino,93.0,6778.0,1372.1,889.6
+2021 (provisional),Nevada,32,"Carson City, NV",32510,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1117.0,Unreliable,Unreliable
+2021 (provisional),Nevada,32,"Carson City, NV",32510,Asian,Not Hispanic or Latino,24.0,1340.0,1791.0,1245.1
+2021 (provisional),Nevada,32,"Carson City, NV",32510,Black or African American,Not Hispanic or Latino,21.0,1075.0,1953.5,3009.8
+2021 (provisional),Nevada,32,"Carson City, NV",32510,White,Hispanic or Latino,68.0,12473.0,545.2,827.0
+2021 (provisional),Nevada,32,"Carson City, NV",32510,White,Not Hispanic or Latino,848.0,36998.0,2292.0,1290.5
+2022 (provisional and partial),Nevada,32,"Churchill County, NV",32001,White,Not Hispanic or Latino,50.0,18189.0,274.9,193.1
+2022 (provisional and partial),Nevada,32,"Clark County, NV",32003,American Indian or Alaska Native,Not Hispanic or Latino,13.0,10461.0,Unreliable,Unreliable
+2022 (provisional and partial),Nevada,32,"Clark County, NV",32003,Asian,Not Hispanic or Latino,261.0,234353.0,111.4,84.4
+2022 (provisional and partial),Nevada,32,"Clark County, NV",32003,Black or African American,Not Hispanic or Latino,440.0,278675.0,157.9,177.4
+2022 (provisional and partial),Nevada,32,"Clark County, NV",32003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,32.0,17343.0,184.5,222.5
+2022 (provisional and partial),Nevada,32,"Clark County, NV",32003,White,Hispanic or Latino,464.0,644571.0,72.0,116.0
+2022 (provisional and partial),Nevada,32,"Clark County, NV",32003,White,Not Hispanic or Latino,2093.0,946125.0,221.2,139.1
+2022 (provisional and partial),Nevada,32,"Clark County, NV",32003,More than one race,Not Hispanic or Latino,41.0,92183.0,44.5,92.3
+2022 (provisional and partial),Nevada,32,"Douglas County, NV",32005,White,Not Hispanic or Latino,102.0,39365.0,259.1,116.1
+2022 (provisional and partial),Nevada,32,"Elko County, NV",32007,White,Not Hispanic or Latino,44.0,35079.0,125.4,116.9
+2022 (provisional and partial),Nevada,32,"Humboldt County, NV",32013,White,Not Hispanic or Latino,21.0,10919.0,192.3,140.0
+2022 (provisional and partial),Nevada,32,"Lincoln County, NV",32017,White,Not Hispanic or Latino,11.0,4386.0,Unreliable,Unreliable
+2022 (provisional and partial),Nevada,32,"Lyon County, NV",32019,White,Not Hispanic or Latino,125.0,42692.0,292.8,187.4
+2022 (provisional and partial),Nevada,32,"Nye County, NV",32023,White,Not Hispanic or Latino,142.0,35739.0,397.3,187.3
+2022 (provisional and partial),Nevada,32,"Washoe County, NV",32031,American Indian or Alaska Native,Not Hispanic or Latino,15.0,6199.0,Unreliable,Unreliable
+2022 (provisional and partial),Nevada,32,"Washoe County, NV",32031,Asian,Not Hispanic or Latino,31.0,26560.0,116.7,109.5
+2022 (provisional and partial),Nevada,32,"Washoe County, NV",32031,Black or African American,Not Hispanic or Latino,16.0,11217.0,Unreliable,Unreliable
+2022 (provisional and partial),Nevada,32,"Washoe County, NV",32031,White,Hispanic or Latino,56.0,107277.0,52.2,94.7
+2022 (provisional and partial),Nevada,32,"Washoe County, NV",32031,White,Not Hispanic or Latino,597.0,294448.0,202.8,139.5
+2022 (provisional and partial),Nevada,32,"White Pine County, NV",32033,White,Not Hispanic or Latino,14.0,6778.0,Unreliable,Unreliable
+2022 (provisional and partial),Nevada,32,"Carson City, NV",32510,White,Not Hispanic or Latino,124.0,36998.0,335.2,192.8

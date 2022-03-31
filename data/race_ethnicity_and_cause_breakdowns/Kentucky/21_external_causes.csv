@@ -1,0 +1,41 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Kentucky,"Boone County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,131533.0,19.0
+2018,Kentucky,"Boone County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,131533.0,Unreliable
+2018,Kentucky,"Boone County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,131533.0,Unreliable
+2018,Kentucky,"Boyd County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,47240.0,Unreliable
+2018,Kentucky,"Boyd County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,47240.0,Unreliable
+2018,Kentucky,"Bullitt County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,81069.0,Unreliable
+2018,Kentucky,"Campbell County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,93152.0,31.1
+2018,Kentucky,"Campbell County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,93152.0,25.8
+2018,Kentucky,"Campbell County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,93152.0,Unreliable
+2018,Kentucky,"Christian County, KY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,71671.0,Unreliable
+2018,Kentucky,"Christian County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,71671.0,Unreliable
+2018,Kentucky,"Fayette County, KY",Nontransport accidents,Other fall on same level,W18,10.0,323780.0,Unreliable
+2018,Kentucky,"Fayette County, KY",Nontransport accidents,Unspecified fall,W19,13.0,323780.0,Unreliable
+2018,Kentucky,"Fayette County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,76.0,323780.0,23.5
+2018,Kentucky,"Fayette County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,323780.0,12.4
+2018,Kentucky,"Fayette County, KY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,19.0,323780.0,Unreliable
+2018,Kentucky,"Floyd County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,35845.0,Unreliable
+2018,Kentucky,"Jefferson County, KY",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,14.0,770517.0,Unreliable
+2018,Kentucky,"Jefferson County, KY",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,770517.0,Unreliable
+2018,Kentucky,"Jefferson County, KY",Nontransport accidents,Unspecified fall,W19,43.0,770517.0,5.6
+2018,Kentucky,"Jefferson County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,23.0,770517.0,3.0
+2018,Kentucky,"Jefferson County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,86.0,770517.0,11.2
+2018,Kentucky,"Jefferson County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,161.0,770517.0,20.9
+2018,Kentucky,"Jefferson County, KY",Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,19.0,770517.0,Unreliable
+2018,Kentucky,"Jefferson County, KY",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,17.0,770517.0,Unreliable
+2018,Kentucky,"Jefferson County, KY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,31.0,770517.0,4.0
+2018,Kentucky,"Jefferson County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,73.0,770517.0,9.5
+2018,Kentucky,"Jefferson County, KY",Assault (homicide),Assault by other and unspecified firearm discharge,X95,74.0,770517.0,9.6
+2018,Kentucky,"Jessamine County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,53920.0,Unreliable
+2018,Kentucky,"Kenton County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,61.0,166051.0,36.7
+2018,Kentucky,"Kenton County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,166051.0,19.9
+2018,Kentucky,"Kenton County, KY",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,166051.0,Unreliable
+2018,Kentucky,"Kenton County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,166051.0,Unreliable
+2018,Kentucky,"Madison County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,92368.0,Unreliable
+2018,Kentucky,"Madison County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30.0,92368.0,32.5
+2018,Kentucky,"Madison County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,92368.0,Unreliable
+2018,Kentucky,"Pike County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,58402.0,Unreliable
+2018,Kentucky,"Pike County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,58402.0,Unreliable
+2018,Kentucky,"Scott County, KY",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,56031.0,Unreliable
+2018,Kentucky,"Warren County, KY",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,131264.0,Unreliable

@@ -1,0 +1,9 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Montana,"Flathead County, MT",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,102106.0,Unreliable
+2018,Montana,"Gallatin County, MT",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,111876.0,Unreliable
+2018,Montana,"Missoula County, MT",Nontransport accidents,Unspecified fall,W19,10.0,118791.0,Unreliable
+2018,Montana,"Missoula County, MT",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,118791.0,Unreliable
+2018,Montana,"Missoula County, MT",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,118791.0,Unreliable
+2018,Montana,"Yellowstone County, MT",Nontransport accidents,Unspecified fall,W19,18.0,160137.0,Unreliable
+2018,Montana,"Yellowstone County, MT",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,160137.0,Unreliable
+2018,Montana,"Yellowstone County, MT",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,160137.0,Unreliable

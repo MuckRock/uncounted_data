@@ -1,0 +1,272 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Utah,49,"Beaver County, UT",49001,White,Not Hispanic or Latino,66.0,5560.0,1187.1,1159.2
+2018,Utah,49,"Box Elder County, UT",49003,White,Hispanic or Latino,19.0,4603.0,Unreliable,Unreliable
+2018,Utah,49,"Box Elder County, UT",49003,White,Not Hispanic or Latino,368.0,47782.0,770.2,748.8
+2018,Utah,49,"Cache County, UT",49005,White,Hispanic or Latino,17.0,11952.0,Unreliable,Unreliable
+2018,Utah,49,"Cache County, UT",49005,White,Not Hispanic or Latino,573.0,105895.0,541.1,662.8
+2018,Utah,49,"Carbon County, UT",49007,White,Hispanic or Latino,16.0,2406.0,Unreliable,Unreliable
+2018,Utah,49,"Carbon County, UT",49007,White,Not Hispanic or Latino,194.0,16832.0,1152.6,920.8
+2018,Utah,49,"Davis County, UT",49011,Asian,Not Hispanic or Latino,27.0,6888.0,392.0,460.5
+2018,Utah,49,"Davis County, UT",49011,Black or African American,Not Hispanic or Latino,19.0,4244.0,Unreliable,Unreliable
+2018,Utah,49,"Davis County, UT",49011,White,Hispanic or Latino,67.0,30647.0,218.6,443.8
+2018,Utah,49,"Davis County, UT",49011,White,Not Hispanic or Latino,1729.0,293713.0,588.7,705.0
+2018,Utah,49,"Davis County, UT",49011,More than one race,Not Hispanic or Latino,14.0,7876.0,Unreliable,Unreliable
+2018,Utah,49,"Duchesne County, UT",49013,American Indian or Alaska Native,Not Hispanic or Latino,10.0,687.0,Unreliable,Unreliable
+2018,Utah,49,"Duchesne County, UT",49013,White,Not Hispanic or Latino,129.0,16962.0,760.5,784.4
+2018,Utah,49,"Emery County, UT",49015,White,Not Hispanic or Latino,99.0,9097.0,1088.3,875.5
+2018,Utah,49,"Garfield County, UT",49017,White,Not Hispanic or Latino,64.0,4476.0,1429.8,964.7
+2018,Utah,49,"Grand County, UT",49019,White,Not Hispanic or Latino,88.0,7984.0,1102.2,826.6
+2018,Utah,49,"Iron County, UT",49021,White,Hispanic or Latino,13.0,3963.0,Unreliable,Unreliable
+2018,Utah,49,"Iron County, UT",49021,White,Not Hispanic or Latino,310.0,45319.0,684.0,721.2
+2018,Utah,49,"Juab County, UT",49023,White,Not Hispanic or Latino,70.0,10618.0,659.3,754.8
+2018,Utah,49,"Kane County, UT",49025,White,Not Hispanic or Latino,79.0,6997.0,1129.1,865.6
+2018,Utah,49,"Millard County, UT",49027,White,Not Hispanic or Latino,96.0,10744.0,893.5,630.0
+2018,Utah,49,"Morgan County, UT",49029,White,Not Hispanic or Latino,67.0,11395.0,588.0,739.1
+2018,Utah,49,"Piute County, UT",49031,White,Not Hispanic or Latino,27.0,1298.0,2080.1,1045.7
+2018,Utah,49,"Rich County, UT",49033,White,Not Hispanic or Latino,13.0,2235.0,Unreliable,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,American Indian or Alaska Native,Not Hispanic or Latino,41.0,7574.0,541.3,856.8
+2018,Utah,49,"Salt Lake County, UT",49035,Asian,Not Hispanic or Latino,127.0,51575.0,246.2,363.1
+2018,Utah,49,"Salt Lake County, UT",49035,Black or African American,Not Hispanic or Latino,91.0,20073.0,453.3,1096.6
+2018,Utah,49,"Salt Lake County, UT",49035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,117.0,18855.0,620.5,1167.6
+2018,Utah,49,"Salt Lake County, UT",49035,White,Hispanic or Latino,522.0,190951.0,273.4,567.0
+2018,Utah,49,"Salt Lake County, UT",49035,White,Not Hispanic or Latino,5843.0,814393.0,717.5,726.6
+2018,Utah,49,"Salt Lake County, UT",49035,More than one race,Not Hispanic or Latino,45.0,26314.0,171.0,803.1
+2018,Utah,49,"San Juan County, UT",49037,American Indian or Alaska Native,Not Hispanic or Latino,70.0,7324.0,955.8,1055.2
+2018,Utah,49,"San Juan County, UT",49037,White,Not Hispanic or Latino,52.0,6743.0,771.2,606.2
+2018,Utah,49,"Sanpete County, UT",49039,White,Not Hispanic or Latino,194.0,26203.0,740.4,699.5
+2018,Utah,49,"Sevier County, UT",49041,White,Not Hispanic or Latino,197.0,19673.0,1001.4,855.6
+2018,Utah,49,"Summit County, UT",49043,White,Not Hispanic or Latino,140.0,35320.0,396.4,460.0
+2018,Utah,49,"Tooele County, UT",49045,White,Hispanic or Latino,29.0,7929.0,365.7,589.8
+2018,Utah,49,"Tooele County, UT",49045,White,Not Hispanic or Latino,340.0,57923.0,587.0,773.9
+2018,Utah,49,"Uintah County, UT",49047,American Indian or Alaska Native,Not Hispanic or Latino,29.0,2461.0,1178.4,1444.4
+2018,Utah,49,"Uintah County, UT",49047,White,Not Hispanic or Latino,213.0,28802.0,739.5,803.3
+2018,Utah,49,"Utah County, UT",49049,Asian,Not Hispanic or Latino,18.0,10740.0,Unreliable,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,18.0,5407.0,Unreliable,Unreliable
+2018,Utah,49,"Utah County, UT",49049,White,Hispanic or Latino,123.0,67279.0,182.8,441.4
+2018,Utah,49,"Utah County, UT",49049,White,Not Hispanic or Latino,2405.0,510527.0,471.1,700.5
+2018,Utah,49,"Utah County, UT",49049,More than one race,Not Hispanic or Latino,13.0,14503.0,Unreliable,Unreliable
+2018,Utah,49,"Wasatch County, UT",49051,White,Not Hispanic or Latino,136.0,27599.0,492.8,617.4
+2018,Utah,49,"Washington County, UT",49053,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1745.0,Unreliable,Unreliable
+2018,Utah,49,"Washington County, UT",49053,White,Hispanic or Latino,42.0,15663.0,268.1,442.6
+2018,Utah,49,"Washington County, UT",49053,White,Not Hispanic or Latino,1348.0,144581.0,932.3,582.6
+2018,Utah,49,"Wayne County, UT",49055,White,Not Hispanic or Latino,27.0,2424.0,1113.9,861.0
+2018,Utah,49,"Weber County, UT",49057,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1362.0,Unreliable,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Asian,Not Hispanic or Latino,14.0,3674.0,Unreliable,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Black or African American,Not Hispanic or Latino,23.0,3396.0,677.3,858.1
+2018,Utah,49,"Weber County, UT",49057,White,Hispanic or Latino,126.0,42586.0,295.9,634.8
+2018,Utah,49,"Weber County, UT",49057,White,Not Hispanic or Latino,1563.0,194024.0,805.6,795.2
+2018,Utah,49,"Weber County, UT",49057,More than one race,Not Hispanic or Latino,14.0,5193.0,Unreliable,Unreliable
+2019,Utah,49,"Beaver County, UT",49001,White,Not Hispanic or Latino,53.0,5626.0,942.1,906.6
+2019,Utah,49,"Box Elder County, UT",49003,White,Hispanic or Latino,14.0,4759.0,Unreliable,Unreliable
+2019,Utah,49,"Box Elder County, UT",49003,White,Not Hispanic or Latino,361.0,48585.0,743.0,720.9
+2019,Utah,49,"Cache County, UT",49005,White,Hispanic or Latino,17.0,12051.0,Unreliable,Unreliable
+2019,Utah,49,"Cache County, UT",49005,White,Not Hispanic or Latino,575.0,107176.0,536.5,648.4
+2019,Utah,49,"Carbon County, UT",49007,White,Hispanic or Latino,22.0,2447.0,899.1,1025.0
+2019,Utah,49,"Carbon County, UT",49007,White,Not Hispanic or Latino,192.0,16960.0,1132.1,883.7
+2019,Utah,49,"Daggett County, UT",49009,White,Not Hispanic or Latino,12.0,876.0,Unreliable,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Asian,Not Hispanic or Latino,26.0,6933.0,375.0,451.3
+2019,Utah,49,"Davis County, UT",49011,Black or African American,Not Hispanic or Latino,21.0,4317.0,486.4,994.1
+2019,Utah,49,"Davis County, UT",49011,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,17.0,2627.0,Unreliable,Unreliable
+2019,Utah,49,"Davis County, UT",49011,White,Hispanic or Latino,83.0,31698.0,261.8,574.5
+2019,Utah,49,"Davis County, UT",49011,White,Not Hispanic or Latino,1690.0,295816.0,571.3,675.2
+2019,Utah,49,"Davis County, UT",49011,More than one race,Not Hispanic or Latino,12.0,8085.0,Unreliable,Unreliable
+2019,Utah,49,"Duchesne County, UT",49013,White,Not Hispanic or Latino,151.0,16876.0,894.8,880.3
+2019,Utah,49,"Emery County, UT",49015,White,Not Hispanic or Latino,106.0,9071.0,1168.6,942.9
+2019,Utah,49,"Garfield County, UT",49017,White,Not Hispanic or Latino,36.0,4453.0,808.4,497.7
+2019,Utah,49,"Grand County, UT",49019,White,Not Hispanic or Latino,78.0,7985.0,976.8,652.0
+2019,Utah,49,"Iron County, UT",49021,White,Hispanic or Latino,11.0,4167.0,Unreliable,Unreliable
+2019,Utah,49,"Iron County, UT",49021,White,Not Hispanic or Latino,303.0,47059.0,643.9,709.8
+2019,Utah,49,"Juab County, UT",49023,White,Not Hispanic or Latino,90.0,10942.0,822.5,957.2
+2019,Utah,49,"Kane County, UT",49025,White,Not Hispanic or Latino,82.0,7142.0,1148.1,777.1
+2019,Utah,49,"Millard County, UT",49027,White,Not Hispanic or Latino,98.0,10922.0,897.3,639.9
+2019,Utah,49,"Morgan County, UT",49029,White,Not Hispanic or Latino,70.0,11449.0,611.4,744.6
+2019,Utah,49,"Piute County, UT",49031,White,Not Hispanic or Latino,16.0,1323.0,Unreliable,Unreliable
+2019,Utah,49,"Rich County, UT",49033,White,Not Hispanic or Latino,19.0,2264.0,Unreliable,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,American Indian or Alaska Native,Hispanic or Latino,10.0,8424.0,Unreliable,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,American Indian or Alaska Native,Not Hispanic or Latino,40.0,7685.0,520.5,719.2
+2019,Utah,49,"Salt Lake County, UT",49035,Asian,Not Hispanic or Latino,124.0,51190.0,242.2,337.1
+2019,Utah,49,"Salt Lake County, UT",49035,Black or African American,Not Hispanic or Latino,93.0,21279.0,437.1,930.2
+2019,Utah,49,"Salt Lake County, UT",49035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,118.0,19094.0,618.0,1158.9
+2019,Utah,49,"Salt Lake County, UT",49035,White,Hispanic or Latino,510.0,195081.0,261.4,535.3
+2019,Utah,49,"Salt Lake County, UT",49035,White,Not Hispanic or Latino,5960.0,815955.0,730.4,726.4
+2019,Utah,49,"Salt Lake County, UT",49035,More than one race,Not Hispanic or Latino,45.0,26991.0,166.7,602.1
+2019,Utah,49,"San Juan County, UT",49037,American Indian or Alaska Native,Not Hispanic or Latino,67.0,7197.0,930.9,1020.0
+2019,Utah,49,"San Juan County, UT",49037,White,Not Hispanic or Latino,55.0,6780.0,811.2,593.4
+2019,Utah,49,"Sanpete County, UT",49039,White,Not Hispanic or Latino,192.0,26597.0,721.9,672.4
+2019,Utah,49,"Sevier County, UT",49041,White,Not Hispanic or Latino,219.0,19735.0,1109.7,946.4
+2019,Utah,49,"Summit County, UT",49043,White,Not Hispanic or Latino,151.0,35397.0,426.6,467.7
+2019,Utah,49,"Tooele County, UT",49045,White,Hispanic or Latino,36.0,8405.0,428.3,852.1
+2019,Utah,49,"Tooele County, UT",49045,White,Not Hispanic or Latino,373.0,59583.0,626.0,850.6
+2019,Utah,49,"Uintah County, UT",49047,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2453.0,1263.8,1467.7
+2019,Utah,49,"Uintah County, UT",49047,White,Not Hispanic or Latino,224.0,29116.0,769.3,833.8
+2019,Utah,49,"Utah County, UT",49049,Asian,Not Hispanic or Latino,17.0,11360.0,Unreliable,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Black or African American,Not Hispanic or Latino,12.0,3900.0,Unreliable,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,25.0,5551.0,450.4,762.1
+2019,Utah,49,"Utah County, UT",49049,White,Hispanic or Latino,136.0,69941.0,194.4,529.4
+2019,Utah,49,"Utah County, UT",49049,White,Not Hispanic or Latino,2517.0,519850.0,484.2,701.0
+2019,Utah,49,"Utah County, UT",49049,More than one race,Not Hispanic or Latino,11.0,15194.0,Unreliable,Unreliable
+2019,Utah,49,"Wasatch County, UT",49051,White,Not Hispanic or Latino,147.0,28351.0,518.5,619.3
+2019,Utah,49,"Washington County, UT",49053,White,Hispanic or Latino,40.0,16741.0,238.9,461.9
+2019,Utah,49,"Washington County, UT",49053,White,Not Hispanic or Latino,1385.0,148785.0,930.9,569.4
+2019,Utah,49,"Wayne County, UT",49055,White,Not Hispanic or Latino,19.0,2437.0,Unreliable,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Asian,Not Hispanic or Latino,28.0,3780.0,740.7,665.0
+2019,Utah,49,"Weber County, UT",49057,Black or African American,Not Hispanic or Latino,21.0,3521.0,596.4,800.3
+2019,Utah,49,"Weber County, UT",49057,White,Hispanic or Latino,158.0,43348.0,364.5,723.6
+2019,Utah,49,"Weber County, UT",49057,White,Not Hispanic or Latino,1594.0,196648.0,810.6,797.3
+2020,Utah,49,"Beaver County, UT",49001,White,Not Hispanic or Latino,48.0,5676.0,845.7,837.9
+2020,Utah,49,"Box Elder County, UT",49003,White,Hispanic or Latino,31.0,4805.0,645.2,1257.2
+2020,Utah,49,"Box Elder County, UT",49003,White,Not Hispanic or Latino,448.0,49370.0,907.4,875.8
+2020,Utah,49,"Cache County, UT",49005,White,Hispanic or Latino,22.0,12199.0,180.3,683.4
+2020,Utah,49,"Cache County, UT",49005,White,Not Hispanic or Latino,624.0,108553.0,574.8,689.2
+2020,Utah,49,"Carbon County, UT",49007,White,Hispanic or Latino,23.0,2532.0,908.4,951.3
+2020,Utah,49,"Carbon County, UT",49007,White,Not Hispanic or Latino,236.0,17100.0,1380.1,1087.7
+2020,Utah,49,"Davis County, UT",49011,Asian,Not Hispanic or Latino,28.0,7160.0,391.1,439.0
+2020,Utah,49,"Davis County, UT",49011,Black or African American,Not Hispanic or Latino,21.0,4417.0,475.4,743.5
+2020,Utah,49,"Davis County, UT",49011,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,19.0,2767.0,Unreliable,Unreliable
+2020,Utah,49,"Davis County, UT",49011,White,Hispanic or Latino,119.0,32546.0,365.6,790.5
+2020,Utah,49,"Davis County, UT",49011,White,Not Hispanic or Latino,2003.0,297508.0,673.3,773.8
+2020,Utah,49,"Davis County, UT",49011,More than one race,Not Hispanic or Latino,15.0,8500.0,Unreliable,Unreliable
+2020,Utah,49,"Duchesne County, UT",49013,White,Not Hispanic or Latino,149.0,16870.0,883.2,868.8
+2020,Utah,49,"Emery County, UT",49015,White,Not Hispanic or Latino,104.0,9214.0,1128.7,895.5
+2020,Utah,49,"Garfield County, UT",49017,White,Not Hispanic or Latino,57.0,4461.0,1277.7,843.8
+2020,Utah,49,"Grand County, UT",49019,White,Not Hispanic or Latino,76.0,7946.0,956.5,608.6
+2020,Utah,49,"Iron County, UT",49021,White,Hispanic or Latino,16.0,4484.0,Unreliable,Unreliable
+2020,Utah,49,"Iron County, UT",49021,White,Not Hispanic or Latino,376.0,48572.0,774.1,803.9
+2020,Utah,49,"Juab County, UT",49023,White,Not Hispanic or Latino,83.0,11050.0,751.1,819.0
+2020,Utah,49,"Kane County, UT",49025,White,Not Hispanic or Latino,65.0,7146.0,909.6,608.9
+2020,Utah,49,"Millard County, UT",49027,White,Not Hispanic or Latino,133.0,11065.0,1202.0,861.3
+2020,Utah,49,"Morgan County, UT",49029,White,Not Hispanic or Latino,78.0,11787.0,661.7,785.7
+2020,Utah,49,"Piute County, UT",49031,White,Not Hispanic or Latino,18.0,1312.0,Unreliable,Unreliable
+2020,Utah,49,"Rich County, UT",49033,White,Not Hispanic or Latino,15.0,2246.0,Unreliable,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,American Indian or Alaska Native,Hispanic or Latino,10.0,8884.0,Unreliable,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,American Indian or Alaska Native,Not Hispanic or Latino,62.0,7663.0,809.1,1325.9
+2020,Utah,49,"Salt Lake County, UT",49035,Asian,Not Hispanic or Latino,192.0,51134.0,375.5,515.7
+2020,Utah,49,"Salt Lake County, UT",49035,Black or African American,Not Hispanic or Latino,98.0,21084.0,464.8,885.1
+2020,Utah,49,"Salt Lake County, UT",49035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,167.0,20324.0,821.7,1495.1
+2020,Utah,49,"Salt Lake County, UT",49035,White,Hispanic or Latino,710.0,196276.0,361.7,730.1
+2020,Utah,49,"Salt Lake County, UT",49035,White,Not Hispanic or Latino,6572.0,816521.0,804.9,791.5
+2020,Utah,49,"Salt Lake County, UT",49035,More than one race,Hispanic or Latino,12.0,7110.0,Unreliable,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,More than one race,Not Hispanic or Latino,57.0,27741.0,205.5,694.2
+2020,Utah,49,"San Juan County, UT",49037,American Indian or Alaska Native,Not Hispanic or Latino,112.0,7060.0,1586.4,1606.3
+2020,Utah,49,"San Juan County, UT",49037,White,Not Hispanic or Latino,52.0,6840.0,760.2,604.7
+2020,Utah,49,"Sanpete County, UT",49039,White,Hispanic or Latino,10.0,2421.0,Unreliable,Unreliable
+2020,Utah,49,"Sanpete County, UT",49039,White,Not Hispanic or Latino,234.0,27052.0,865.0,780.9
+2020,Utah,49,"Sevier County, UT",49041,White,Not Hispanic or Latino,223.0,19966.0,1116.9,939.6
+2020,Utah,49,"Summit County, UT",49043,White,Not Hispanic or Latino,165.0,35831.0,460.5,454.8
+2020,Utah,49,"Tooele County, UT",49045,White,Hispanic or Latino,47.0,8850.0,531.1,959.3
+2020,Utah,49,"Tooele County, UT",49045,White,Not Hispanic or Latino,354.0,60940.0,580.9,762.9
+2020,Utah,49,"Uintah County, UT",49047,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2393.0,1295.4,1311.9
+2020,Utah,49,"Uintah County, UT",49047,White,Not Hispanic or Latino,263.0,29375.0,895.3,984.0
+2020,Utah,49,"Utah County, UT",49049,Asian,Not Hispanic or Latino,19.0,11595.0,Unreliable,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Black or African American,Not Hispanic or Latino,12.0,4018.0,Unreliable,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,44.0,6053.0,726.9,1486.7
+2020,Utah,49,"Utah County, UT",49049,White,Hispanic or Latino,187.0,72052.0,259.5,608.1
+2020,Utah,49,"Utah County, UT",49049,White,Not Hispanic or Latino,2807.0,530105.0,529.5,771.4
+2020,Utah,49,"Utah County, UT",49049,More than one race,Not Hispanic or Latino,18.0,16154.0,Unreliable,Unreliable
+2020,Utah,49,"Wasatch County, UT",49051,White,Hispanic or Latino,11.0,4434.0,Unreliable,Unreliable
+2020,Utah,49,"Wasatch County, UT",49051,White,Not Hispanic or Latino,181.0,29200.0,619.9,721.6
+2020,Utah,49,"Washington County, UT",49053,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1845.0,Unreliable,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Asian,Not Hispanic or Latino,11.0,1798.0,Unreliable,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Black or African American,Not Hispanic or Latino,15.0,1187.0,Unreliable,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,15.0,1536.0,Unreliable,Unreliable
+2020,Utah,49,"Washington County, UT",49053,White,Hispanic or Latino,61.0,17476.0,349.1,525.9
+2020,Utah,49,"Washington County, UT",49053,White,Not Hispanic or Latino,1618.0,154747.0,1045.6,624.4
+2020,Utah,49,"Wayne County, UT",49055,White,Not Hispanic or Latino,37.0,2484.0,1489.5,1082.5
+2020,Utah,49,"Weber County, UT",49057,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1384.0,Unreliable,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Asian,Not Hispanic or Latino,27.0,3826.0,705.7,626.1
+2020,Utah,49,"Weber County, UT",49057,Black or African American,Not Hispanic or Latino,40.0,3411.0,1172.7,1458.9
+2020,Utah,49,"Weber County, UT",49057,White,Hispanic or Latino,204.0,43328.0,470.8,914.4
+2020,Utah,49,"Weber County, UT",49057,White,Not Hispanic or Latino,1795.0,198486.0,904.3,866.3
+2020,Utah,49,"Weber County, UT",49057,More than one race,Not Hispanic or Latino,10.0,5641.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Beaver County, UT",49001,White,Not Hispanic or Latino,85.0,5676.0,1497.5,1410.9
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,White,Hispanic or Latino,29.0,4805.0,603.5,1220.9
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,White,Not Hispanic or Latino,472.0,49370.0,956.0,923.9
+2021 (provisional),Utah,49,"Cache County, UT",49005,White,Hispanic or Latino,34.0,12199.0,278.7,768.2
+2021 (provisional),Utah,49,"Cache County, UT",49005,White,Not Hispanic or Latino,674.0,108553.0,620.9,749.3
+2021 (provisional),Utah,49,"Carbon County, UT",49007,White,Hispanic or Latino,32.0,2532.0,1263.8,1294.6
+2021 (provisional),Utah,49,"Carbon County, UT",49007,White,Not Hispanic or Latino,255.0,17100.0,1491.2,1185.2
+2021 (provisional),Utah,49,"Davis County, UT",49011,Asian,Not Hispanic or Latino,28.0,7160.0,391.1,419.6
+2021 (provisional),Utah,49,"Davis County, UT",49011,Black or African American,Not Hispanic or Latino,21.0,4417.0,475.4,899.2
+2021 (provisional),Utah,49,"Davis County, UT",49011,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,19.0,2767.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,White,Hispanic or Latino,112.0,32546.0,344.1,682.4
+2021 (provisional),Utah,49,"Davis County, UT",49011,White,Not Hispanic or Latino,2117.0,297508.0,711.6,814.0
+2021 (provisional),Utah,49,"Davis County, UT",49011,More than one race,Not Hispanic or Latino,15.0,8500.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Duchesne County, UT",49013,American Indian or Alaska Native,Not Hispanic or Latino,14.0,712.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Duchesne County, UT",49013,White,Not Hispanic or Latino,173.0,16870.0,1025.5,1018.0
+2021 (provisional),Utah,49,"Emery County, UT",49015,White,Not Hispanic or Latino,117.0,9214.0,1269.8,1034.2
+2021 (provisional),Utah,49,"Garfield County, UT",49017,White,Not Hispanic or Latino,58.0,4461.0,1300.2,866.9
+2021 (provisional),Utah,49,"Grand County, UT",49019,White,Not Hispanic or Latino,80.0,7946.0,1006.8,664.3
+2021 (provisional),Utah,49,"Iron County, UT",49021,White,Hispanic or Latino,21.0,4484.0,468.3,943.8
+2021 (provisional),Utah,49,"Iron County, UT",49021,White,Not Hispanic or Latino,410.0,48572.0,844.1,866.3
+2021 (provisional),Utah,49,"Juab County, UT",49023,White,Not Hispanic or Latino,81.0,11050.0,733.0,821.6
+2021 (provisional),Utah,49,"Kane County, UT",49025,White,Not Hispanic or Latino,105.0,7146.0,1469.4,1051.6
+2021 (provisional),Utah,49,"Millard County, UT",49027,White,Not Hispanic or Latino,150.0,11065.0,1355.6,998.6
+2021 (provisional),Utah,49,"Morgan County, UT",49029,White,Not Hispanic or Latino,63.0,11787.0,534.5,591.0
+2021 (provisional),Utah,49,"Piute County, UT",49031,White,Not Hispanic or Latino,22.0,1312.0,1676.8,888.5
+2021 (provisional),Utah,49,"Rich County, UT",49033,White,Not Hispanic or Latino,20.0,2246.0,890.5,721.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,American Indian or Alaska Native,Not Hispanic or Latino,69.0,7663.0,900.4,1368.5
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Asian,Not Hispanic or Latino,186.0,51134.0,363.8,489.6
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Black or African American,Not Hispanic or Latino,109.0,21084.0,517.0,997.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,181.0,20324.0,890.6,1620.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,White,Hispanic or Latino,723.0,196276.0,368.4,721.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,White,Not Hispanic or Latino,6582.0,816521.0,806.1,789.4
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,More than one race,Not Hispanic or Latino,54.0,27741.0,194.7,677.1
+2021 (provisional),Utah,49,"San Juan County, UT",49037,American Indian or Alaska Native,Not Hispanic or Latino,87.0,7060.0,1232.3,1266.1
+2021 (provisional),Utah,49,"San Juan County, UT",49037,White,Not Hispanic or Latino,60.0,6840.0,877.2,681.7
+2021 (provisional),Utah,49,"Sanpete County, UT",49039,White,Hispanic or Latino,10.0,2421.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Sanpete County, UT",49039,White,Not Hispanic or Latino,267.0,27052.0,987.0,894.0
+2021 (provisional),Utah,49,"Sevier County, UT",49041,White,Not Hispanic or Latino,228.0,19966.0,1141.9,957.3
+2021 (provisional),Utah,49,"Summit County, UT",49043,White,Hispanic or Latino,15.0,4270.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Summit County, UT",49043,White,Not Hispanic or Latino,189.0,35831.0,527.5,508.4
+2021 (provisional),Utah,49,"Tooele County, UT",49045,White,Hispanic or Latino,53.0,8850.0,598.9,1041.9
+2021 (provisional),Utah,49,"Tooele County, UT",49045,White,Not Hispanic or Latino,448.0,60940.0,735.1,966.8
+2021 (provisional),Utah,49,"Uintah County, UT",49047,American Indian or Alaska Native,Not Hispanic or Latino,39.0,2393.0,1629.8,1983.7
+2021 (provisional),Utah,49,"Uintah County, UT",49047,White,Hispanic or Latino,13.0,2336.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Uintah County, UT",49047,White,Not Hispanic or Latino,278.0,29375.0,946.4,1007.1
+2021 (provisional),Utah,49,"Utah County, UT",49049,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2910.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Asian,Not Hispanic or Latino,26.0,11595.0,224.2,500.2
+2021 (provisional),Utah,49,"Utah County, UT",49049,Black or African American,Not Hispanic or Latino,14.0,4018.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,43.0,6053.0,710.4,1609.0
+2021 (provisional),Utah,49,"Utah County, UT",49049,White,Hispanic or Latino,199.0,72052.0,276.2,649.2
+2021 (provisional),Utah,49,"Utah County, UT",49049,White,Not Hispanic or Latino,2924.0,530105.0,551.6,798.0
+2021 (provisional),Utah,49,"Utah County, UT",49049,More than one race,Not Hispanic or Latino,14.0,16154.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Wasatch County, UT",49051,White,Not Hispanic or Latino,162.0,29200.0,554.8,643.9
+2021 (provisional),Utah,49,"Washington County, UT",49053,Asian,Not Hispanic or Latino,17.0,1798.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,18.0,1536.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,White,Hispanic or Latino,63.0,17476.0,360.5,569.5
+2021 (provisional),Utah,49,"Washington County, UT",49053,White,Not Hispanic or Latino,1760.0,154747.0,1137.3,706.4
+2021 (provisional),Utah,49,"Washington County, UT",49053,More than one race,Not Hispanic or Latino,12.0,3489.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Wayne County, UT",49055,White,Not Hispanic or Latino,33.0,2484.0,1328.5,946.2
+2021 (provisional),Utah,49,"Weber County, UT",49057,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1384.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Asian,Not Hispanic or Latino,19.0,3826.0,Unreliable,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Black or African American,Not Hispanic or Latino,32.0,3411.0,938.1,1249.9
+2021 (provisional),Utah,49,"Weber County, UT",49057,White,Hispanic or Latino,212.0,43328.0,489.3,931.2
+2021 (provisional),Utah,49,"Weber County, UT",49057,White,Not Hispanic or Latino,1820.0,198486.0,916.9,879.3
+2021 (provisional),Utah,49,"Weber County, UT",49057,More than one race,Not Hispanic or Latino,14.0,5641.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Beaver County, UT",49001,White,Not Hispanic or Latino,11.0,5676.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Box Elder County, UT",49003,White,Not Hispanic or Latino,61.0,49370.0,123.6,119.2
+2022 (provisional and partial),Utah,49,"Cache County, UT",49005,White,Not Hispanic or Latino,90.0,108553.0,82.9,99.4
+2022 (provisional and partial),Utah,49,"Carbon County, UT",49007,White,Not Hispanic or Latino,37.0,17100.0,216.4,165.1
+2022 (provisional and partial),Utah,49,"Davis County, UT",49011,White,Hispanic or Latino,18.0,32546.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Davis County, UT",49011,White,Not Hispanic or Latino,205.0,297508.0,68.9,80.3
+2022 (provisional and partial),Utah,49,"Duchesne County, UT",49013,White,Not Hispanic or Latino,17.0,16870.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Emery County, UT",49015,White,Not Hispanic or Latino,12.0,9214.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Iron County, UT",49021,White,Not Hispanic or Latino,54.0,48572.0,111.2,116.5
+2022 (provisional and partial),Utah,49,"Juab County, UT",49023,White,Not Hispanic or Latino,12.0,11050.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Asian,Not Hispanic or Latino,19.0,51134.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Black or African American,Not Hispanic or Latino,14.0,21084.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,18.0,20324.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,White,Hispanic or Latino,75.0,196276.0,38.2,73.2
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,White,Not Hispanic or Latino,753.0,816521.0,92.2,90.3
+2022 (provisional and partial),Utah,49,"Sanpete County, UT",49039,White,Not Hispanic or Latino,29.0,27052.0,107.2,98.2
+2022 (provisional and partial),Utah,49,"Sevier County, UT",49041,White,Not Hispanic or Latino,23.0,19966.0,115.2,92.8
+2022 (provisional and partial),Utah,49,"Summit County, UT",49043,White,Not Hispanic or Latino,16.0,35831.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Tooele County, UT",49045,White,Not Hispanic or Latino,50.0,60940.0,82.0,107.4
+2022 (provisional and partial),Utah,49,"Uintah County, UT",49047,White,Not Hispanic or Latino,33.0,29375.0,112.3,120.8
+2022 (provisional and partial),Utah,49,"Utah County, UT",49049,White,Hispanic or Latino,21.0,72052.0,29.1,61.4
+2022 (provisional and partial),Utah,49,"Utah County, UT",49049,White,Not Hispanic or Latino,343.0,530105.0,64.7,96.1
+2022 (provisional and partial),Utah,49,"Wasatch County, UT",49051,White,Not Hispanic or Latino,20.0,29200.0,68.5,81.7
+2022 (provisional and partial),Utah,49,"Washington County, UT",49053,White,Hispanic or Latino,12.0,17476.0,Unreliable,Unreliable
+2022 (provisional and partial),Utah,49,"Washington County, UT",49053,White,Not Hispanic or Latino,231.0,154747.0,149.3,90.2
+2022 (provisional and partial),Utah,49,"Weber County, UT",49057,White,Hispanic or Latino,22.0,43328.0,50.8,108.0
+2022 (provisional and partial),Utah,49,"Weber County, UT",49057,White,Not Hispanic or Latino,207.0,198486.0,104.3,101.1

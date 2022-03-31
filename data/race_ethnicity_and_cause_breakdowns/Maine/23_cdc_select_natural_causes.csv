@@ -1,0 +1,1059 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,20.0,107679.0,18.6
+2018,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,79.0,107679.0,73.4
+2018,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,13.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,18.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,14.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,11.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,Unspecified dementia,F03,51.0,107679.0,47.4
+2018,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,100.0,107679.0,92.9
+2018,Maine,23,"Androscoggin County, ME",23001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,32.0,107679.0,29.7
+2018,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,77.0,107679.0,71.5
+2018,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,Congestive heart failure,I50.0,20.0,107679.0,18.6
+2018,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,15.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,23.0,107679.0,21.4
+2018,Maine,23,"Androscoggin County, ME",23001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,73.0,107679.0,67.8
+2018,Maine,23,"Androscoggin County, ME",23001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,12.0,107679.0,Unreliable
+2018,Maine,23,"Androscoggin County, ME",23001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,13.0,107679.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,46.0,67111.0,68.5
+2018,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,Unspecified dementia,F03,61.0,67111.0,90.9
+2018,Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,27.0,67111.0,40.2
+2018,Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,37.0,67111.0,55.1
+2018,Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,36.0,67111.0,53.6
+2018,Maine,23,"Aroostook County, ME",23003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,14.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,67111.0,Unreliable
+2018,Maine,23,"Aroostook County, ME",23003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,57.0,67111.0,84.9
+2018,Maine,23,"Aroostook County, ME",23003,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,67111.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Sepsis,"Septicaemia, unspecified",A41.9,14.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,12.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,24.0,293557.0,8.2
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm of rectum,C20,12.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,11.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,13.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,43.0,293557.0,14.6
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,150.0,293557.0,51.1
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,36.0,293557.0,12.3
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,293557.0,7.2
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,14.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,20.0,293557.0,6.8
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,14.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,33.0,293557.0,11.2
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,11.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,13.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,16.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,28.0,293557.0,9.5
+2018,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,51.0,293557.0,17.4
+2018,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,Unspecified dementia,F03,236.0,293557.0,80.4
+2018,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,105.0,293557.0,35.8
+2018,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Essential (primary) hypertension,I10,15.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,21.0,293557.0,7.2
+2018,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,11.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,79.0,293557.0,26.9
+2018,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,26.0,293557.0,8.9
+2018,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,141.0,293557.0,48.0
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,24.0,293557.0,8.2
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,12.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,24.0,293557.0,8.2
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Congestive heart failure,I50.0,81.0,293557.0,27.6
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,21.0,293557.0,7.2
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,33.0,293557.0,11.2
+2018,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,15.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,21.0,293557.0,7.2
+2018,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,47.0,293557.0,16.0
+2018,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,16.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,12.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,37.0,293557.0,12.6
+2018,Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,30.0,293557.0,10.2
+2018,Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,118.0,293557.0,40.2
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,26.0,293557.0,8.9
+2018,Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,15.0,293557.0,Unreliable
+2018,Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic kidney disease, stage 5",N18.5,22.0,293557.0,7.5
+2018,Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic renal failure, unspecified",N18.9,20.0,293557.0,6.8
+2018,Maine,23,"Franklin County, ME",23007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,29897.0,Unreliable
+2018,Maine,23,"Franklin County, ME",23007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,29897.0,Unreliable
+2018,Maine,23,"Franklin County, ME",23007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,29897.0,Unreliable
+2018,Maine,23,"Franklin County, ME",23007,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,29897.0,70.2
+2018,Maine,23,"Franklin County, ME",23007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,29897.0,Unreliable
+2018,Maine,23,"Franklin County, ME",23007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,29897.0,Unreliable
+2018,Maine,23,"Franklin County, ME",23007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,29897.0,80.3
+2018,Maine,23,"Franklin County, ME",23007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,29897.0,Unreliable
+2018,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,54811.0,Unreliable
+2018,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,28.0,54811.0,51.1
+2018,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,54811.0,Unreliable
+2018,Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,Unspecified dementia,F03,44.0,54811.0,80.3
+2018,Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,54811.0,Unreliable
+2018,Maine,23,"Hancock County, ME",23009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,54811.0,47.4
+2018,Maine,23,"Hancock County, ME",23009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,54811.0,51.1
+2018,Maine,23,"Hancock County, ME",23009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,54811.0,47.4
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,17.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,65.0,122083.0,53.2
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,24.0,122083.0,19.7
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,17.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,11.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,14.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,19.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,11.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,Unspecified dementia,F03,96.0,122083.0,78.6
+2018,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,46.0,122083.0,37.7
+2018,Maine,23,"Kennebec County, ME",23011,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,18.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,49.0,122083.0,40.1
+2018,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,71.0,122083.0,58.2
+2018,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,16.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,23.0,122083.0,18.8
+2018,Maine,23,"Kennebec County, ME",23011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,53.0,122083.0,43.4
+2018,Maine,23,"Kennebec County, ME",23011,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,122083.0,Unreliable
+2018,Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,71.0,122083.0,58.2
+2018,Maine,23,"Knox County, ME",23013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,30.0,39771.0,75.4
+2018,Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,39771.0,62.9
+2018,Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,39771.0,52.8
+2018,Maine,23,"Knox County, ME",23013,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,39771.0,Unreliable
+2018,Maine,23,"Knox County, ME",23013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,39771.0,Unreliable
+2018,Maine,23,"Knox County, ME",23013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,39771.0,62.9
+2018,Maine,23,"Knox County, ME",23013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,39771.0,Unreliable
+2018,Maine,23,"Knox County, ME",23013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,39771.0,57.8
+2018,Maine,23,"Lincoln County, ME",23015,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,34342.0,Unreliable
+2018,Maine,23,"Lincoln County, ME",23015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,34342.0,64.1
+2018,Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,34342.0,Unreliable
+2018,Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,34342.0,Unreliable
+2018,Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,34342.0,Unreliable
+2018,Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,34342.0,81.5
+2018,Maine,23,"Lincoln County, ME",23015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,34342.0,Unreliable
+2018,Maine,23,"Lincoln County, ME",23015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,34342.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,52.0,57618.0,90.2
+2018,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,Unspecified dementia,F03,45.0,57618.0,78.1
+2018,Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,40.0,57618.0,69.4
+2018,Maine,23,"Oxford County, ME",23017,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,14.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,57618.0,Unreliable
+2018,Maine,23,"Oxford County, ME",23017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,48.0,57618.0,83.3
+2018,Maine,23,"Penobscot County, ME",23019,Sepsis,"Septicaemia, unspecified",A41.9,19.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,19.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,25.0,151096.0,16.5
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,114.0,151096.0,75.4
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,21.0,151096.0,13.9
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,151096.0,13.9
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,11.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm without specification of site,C80,30.0,151096.0,19.9
+2018,Maine,23,"Penobscot County, ME",23019,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,13.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,16.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,Unspecified dementia,F03,99.0,151096.0,65.5
+2018,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,50.0,151096.0,33.1
+2018,Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,14.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,61.0,151096.0,40.4
+2018,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,92.0,151096.0,60.9
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,12.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,20.0,151096.0,13.2
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,13.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,17.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Congestive heart failure,I50.0,21.0,151096.0,13.9
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,15.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,27.0,151096.0,17.9
+2018,Maine,23,"Penobscot County, ME",23019,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,27.0,151096.0,17.9
+2018,Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,17.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,77.0,151096.0,51.0
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,11.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,16.0,151096.0,Unreliable
+2018,Maine,23,"Penobscot County, ME",23019,Renal failure,"Chronic kidney disease, stage 5",N18.5,14.0,151096.0,Unreliable
+2018,Maine,23,"Piscataquis County, ME",23021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,16800.0,Unreliable
+2018,Maine,23,"Piscataquis County, ME",23021,Alzheimer disease and dementia,Unspecified dementia,F03,23.0,16800.0,136.9
+2018,Maine,23,"Piscataquis County, ME",23021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,16800.0,Unreliable
+2018,Maine,23,"Piscataquis County, ME",23021,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,16800.0,Unreliable
+2018,Maine,23,"Piscataquis County, ME",23021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,16800.0,Unreliable
+2018,Maine,23,"Sagadahoc County, ME",23023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,35634.0,58.9
+2018,Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,35634.0,Unreliable
+2018,Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,35634.0,Unreliable
+2018,Maine,23,"Sagadahoc County, ME",23023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,35634.0,Unreliable
+2018,Maine,23,"Sagadahoc County, ME",23023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,35634.0,61.7
+2018,Maine,23,"Sagadahoc County, ME",23023,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,35634.0,Unreliable
+2018,Maine,23,"Sagadahoc County, ME",23023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,35634.0,Unreliable
+2018,Maine,23,"Somerset County, ME",23025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,40.0,50592.0,79.1
+2018,Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,50592.0,43.5
+2018,Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,50592.0,Unreliable
+2018,Maine,23,"Somerset County, ME",23025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,30.0,50592.0,59.3
+2018,Maine,23,"Somerset County, ME",23025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,33.0,50592.0,65.2
+2018,Maine,23,"Somerset County, ME",23025,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,10.0,50592.0,Unreliable
+2018,Maine,23,"Somerset County, ME",23025,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,50592.0,Unreliable
+2018,Maine,23,"Somerset County, ME",23025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,50592.0,Unreliable
+2018,Maine,23,"Somerset County, ME",23025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,38.0,50592.0,75.1
+2018,Maine,23,"Waldo County, ME",23027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,39694.0,73.1
+2018,Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,39694.0,Unreliable
+2018,Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,39694.0,Unreliable
+2018,Maine,23,"Waldo County, ME",23027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,39694.0,Unreliable
+2018,Maine,23,"Waldo County, ME",23027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,39694.0,68.0
+2018,Maine,23,"Waldo County, ME",23027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,39694.0,Unreliable
+2018,Maine,23,"Waldo County, ME",23027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,39694.0,Unreliable
+2018,Maine,23,"Washington County, ME",23029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,31490.0,73.0
+2018,Maine,23,"Washington County, ME",23029,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,31490.0,Unreliable
+2018,Maine,23,"Washington County, ME",23029,Alzheimer disease and dementia,Unspecified dementia,F03,37.0,31490.0,117.5
+2018,Maine,23,"Washington County, ME",23029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,31490.0,Unreliable
+2018,Maine,23,"Washington County, ME",23029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,31490.0,79.4
+2018,Maine,23,"Washington County, ME",23029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,31490.0,66.7
+2018,Maine,23,"Washington County, ME",23029,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,31490.0,Unreliable
+2018,Maine,23,"Washington County, ME",23029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,31490.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Sepsis,"Septicaemia, unspecified",A41.9,20.0,206229.0,9.7
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,15.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,30.0,206229.0,14.5
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,13.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,29.0,206229.0,14.1
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,144.0,206229.0,69.8
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,206229.0,10.7
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of prostate,C61,23.0,206229.0,11.2
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,17.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,15.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm without specification of site,C80,25.0,206229.0,12.1
+2018,Maine,23,"York County, ME",23031,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,17.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,23.0,206229.0,11.2
+2018,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,35.0,206229.0,17.0
+2018,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,Unspecified dementia,F03,113.0,206229.0,54.8
+2018,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,89.0,206229.0,43.2
+2018,Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,19.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,12.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,36.0,206229.0,17.5
+2018,Maine,23,"York County, ME",23031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,121.0,206229.0,58.7
+2018,Maine,23,"York County, ME",23031,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,14.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,20.0,206229.0,9.7
+2018,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,10.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,19.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Congestive heart failure,I50.0,39.0,206229.0,18.9
+2018,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,23.0,206229.0,11.2
+2018,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,27.0,206229.0,13.1
+2018,Maine,23,"York County, ME",23031,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,11.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,39.0,206229.0,18.9
+2018,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,10.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,34.0,206229.0,16.5
+2018,Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,20.0,206229.0,9.7
+2018,Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,82.0,206229.0,39.8
+2018,Maine,23,"York County, ME",23031,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,206229.0,Unreliable
+2018,Maine,23,"York County, ME",23031,Renal failure,"Chronic renal failure, unspecified",N18.9,14.0,206229.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,12.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,61.0,108277.0,56.3
+2019,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,19.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,Malignant neoplasm of prostate,C61,12.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,16.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,Unspecified dementia,F03,74.0,108277.0,68.3
+2019,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,71.0,108277.0,65.6
+2019,Maine,23,"Androscoggin County, ME",23001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,10.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,31.0,108277.0,28.6
+2019,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,116.0,108277.0,107.1
+2019,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,11.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,14.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,31.0,108277.0,28.6
+2019,Maine,23,"Androscoggin County, ME",23001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,16.0,108277.0,Unreliable
+2019,Maine,23,"Androscoggin County, ME",23001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,20.0,108277.0,18.5
+2019,Maine,23,"Androscoggin County, ME",23001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,74.0,108277.0,68.3
+2019,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,15.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,49.0,67055.0,73.1
+2019,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,Unspecified dementia,F03,66.0,67055.0,98.4
+2019,Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,33.0,67055.0,49.2
+2019,Maine,23,"Aroostook County, ME",23003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,10.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,67055.0,38.8
+2019,Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,54.0,67055.0,80.5
+2019,Maine,23,"Aroostook County, ME",23003,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,11.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,18.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,17.0,67055.0,Unreliable
+2019,Maine,23,"Aroostook County, ME",23003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,38.0,67055.0,56.7
+2019,Maine,23,"Aroostook County, ME",23003,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,67055.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,25.0,295003.0,8.5
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,34.0,295003.0,11.5
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,41.0,295003.0,13.9
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,139.0,295003.0,47.1
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,41.0,295003.0,13.9
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,10.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm of ovary,C56,10.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm of prostate,C61,24.0,295003.0,8.1
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,14.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,24.0,295003.0,8.1
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,18.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,30.0,295003.0,10.2
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,15.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,13.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,43.0,295003.0,14.6
+2019,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,80.0,295003.0,27.1
+2019,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,Unspecified dementia,F03,241.0,295003.0,81.7
+2019,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,103.0,295003.0,34.9
+2019,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,16.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,36.0,295003.0,12.2
+2019,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,19.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,10.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,68.0,295003.0,23.1
+2019,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,134.0,295003.0,45.4
+2019,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,15.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,34.0,295003.0,11.5
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,19.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Congestive heart failure,I50.0,47.0,295003.0,15.9
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,16.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,28.0,295003.0,9.5
+2019,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,11.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,39.0,295003.0,13.2
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,13.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,22.0,295003.0,7.5
+2019,Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,32.0,295003.0,10.8
+2019,Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,111.0,295003.0,37.6
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,17.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,12.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic kidney disease, stage 5",N18.5,16.0,295003.0,Unreliable
+2019,Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic renal failure, unspecified",N18.9,18.0,295003.0,Unreliable
+2019,Maine,23,"Franklin County, ME",23007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,30199.0,Unreliable
+2019,Maine,23,"Franklin County, ME",23007,Alzheimer disease and dementia,Unspecified dementia,F03,31.0,30199.0,102.7
+2019,Maine,23,"Franklin County, ME",23007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,30199.0,Unreliable
+2019,Maine,23,"Franklin County, ME",23007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,30199.0,Unreliable
+2019,Maine,23,"Franklin County, ME",23007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,30199.0,Unreliable
+2019,Maine,23,"Franklin County, ME",23007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,30199.0,Unreliable
+2019,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,44.0,54987.0,80.0
+2019,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,54987.0,Unreliable
+2019,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,54987.0,Unreliable
+2019,Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,Unspecified dementia,F03,50.0,54987.0,90.9
+2019,Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,54987.0,40.0
+2019,Maine,23,"Hancock County, ME",23009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,54987.0,47.3
+2019,Maine,23,"Hancock County, ME",23009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,54987.0,56.4
+2019,Maine,23,"Hancock County, ME",23009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,54987.0,Unreliable
+2019,Maine,23,"Hancock County, ME",23009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,33.0,54987.0,60.0
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,23.0,122302.0,18.8
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,122302.0,22.1
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Upper lobe, bronchus or lung - Malignant neoplasms",C34.1,12.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,81.0,122302.0,66.2
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,18.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,Unspecified dementia,F03,82.0,122302.0,67.0
+2019,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,32.0,122302.0,26.2
+2019,Maine,23,"Kennebec County, ME",23011,Hypertensive diseases,Essential (primary) hypertension,I10,15.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,44.0,122302.0,36.0
+2019,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,92.0,122302.0,75.2
+2019,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,18.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,20.0,122302.0,16.4
+2019,Maine,23,"Kennebec County, ME",23011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,44.0,122302.0,36.0
+2019,Maine,23,"Kennebec County, ME",23011,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,13.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,10.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,14.0,122302.0,Unreliable
+2019,Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,67.0,122302.0,54.8
+2019,Maine,23,"Knox County, ME",23013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,39772.0,62.9
+2019,Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,39772.0,62.9
+2019,Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,38.0,39772.0,95.5
+2019,Maine,23,"Knox County, ME",23013,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,39772.0,Unreliable
+2019,Maine,23,"Knox County, ME",23013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,22.0,39772.0,55.3
+2019,Maine,23,"Knox County, ME",23013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,39772.0,60.3
+2019,Maine,23,"Knox County, ME",23013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,39772.0,Unreliable
+2019,Maine,23,"Knox County, ME",23013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,39772.0,Unreliable
+2019,Maine,23,"Lincoln County, ME",23015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,34634.0,63.5
+2019,Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,34634.0,Unreliable
+2019,Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,34634.0,Unreliable
+2019,Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,34634.0,Unreliable
+2019,Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,34634.0,75.1
+2019,Maine,23,"Lincoln County, ME",23015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,34634.0,Unreliable
+2019,Maine,23,"Lincoln County, ME",23015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,34634.0,Unreliable
+2019,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,57975.0,Unreliable
+2019,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,38.0,57975.0,65.5
+2019,Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,57975.0,Unreliable
+2019,Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,Unspecified dementia,F03,58.0,57975.0,100.0
+2019,Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,57975.0,39.7
+2019,Maine,23,"Oxford County, ME",23017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,57975.0,Unreliable
+2019,Maine,23,"Oxford County, ME",23017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,42.0,57975.0,72.4
+2019,Maine,23,"Oxford County, ME",23017,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,12.0,57975.0,Unreliable
+2019,Maine,23,"Oxford County, ME",23017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,57975.0,Unreliable
+2019,Maine,23,"Oxford County, ME",23017,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,57975.0,Unreliable
+2019,Maine,23,"Oxford County, ME",23017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,44.0,57975.0,75.9
+2019,Maine,23,"Penobscot County, ME",23019,Sepsis,"Septicaemia, unspecified",A41.9,15.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,19.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,19.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,21.0,152148.0,13.8
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,92.0,152148.0,60.5
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,152148.0,17.7
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm of prostate,C61,23.0,152148.0,15.1
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,20.0,152148.0,13.1
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm without specification of site,C80,28.0,152148.0,18.4
+2019,Maine,23,"Penobscot County, ME",23019,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,16.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,Unspecified dementia,F03,129.0,152148.0,84.8
+2019,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,49.0,152148.0,32.2
+2019,Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,11.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,50.0,152148.0,32.9
+2019,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,89.0,152148.0,58.5
+2019,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,17.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Congestive heart failure,I50.0,19.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,14.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,24.0,152148.0,15.8
+2019,Maine,23,"Penobscot County, ME",23019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,33.0,152148.0,21.7
+2019,Maine,23,"Penobscot County, ME",23019,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,45.0,152148.0,29.6
+2019,Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,81.0,152148.0,53.2
+2019,Maine,23,"Penobscot County, ME",23019,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,152148.0,Unreliable
+2019,Maine,23,"Penobscot County, ME",23019,Renal failure,"Chronic renal failure, unspecified",N18.9,13.0,152148.0,Unreliable
+2019,Maine,23,"Piscataquis County, ME",23021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,16785.0,125.1
+2019,Maine,23,"Piscataquis County, ME",23021,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,16785.0,Unreliable
+2019,Maine,23,"Piscataquis County, ME",23021,Alzheimer disease and dementia,Unspecified dementia,F03,23.0,16785.0,137.0
+2019,Maine,23,"Piscataquis County, ME",23021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,16785.0,Unreliable
+2019,Maine,23,"Sagadahoc County, ME",23023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,35856.0,Unreliable
+2019,Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,Unspecified dementia,F03,31.0,35856.0,86.5
+2019,Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,35856.0,Unreliable
+2019,Maine,23,"Sagadahoc County, ME",23023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,35856.0,Unreliable
+2019,Maine,23,"Sagadahoc County, ME",23023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,35856.0,Unreliable
+2019,Maine,23,"Sagadahoc County, ME",23023,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,35856.0,Unreliable
+2019,Maine,23,"Sagadahoc County, ME",23023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,35856.0,Unreliable
+2019,Maine,23,"Somerset County, ME",23025,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,15.0,50484.0,Unreliable
+2019,Maine,23,"Somerset County, ME",23025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,35.0,50484.0,69.3
+2019,Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,Unspecified dementia,F03,24.0,50484.0,47.5
+2019,Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,50484.0,Unreliable
+2019,Maine,23,"Somerset County, ME",23025,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,50484.0,Unreliable
+2019,Maine,23,"Somerset County, ME",23025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,24.0,50484.0,47.5
+2019,Maine,23,"Somerset County, ME",23025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,39.0,50484.0,77.3
+2019,Maine,23,"Somerset County, ME",23025,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,13.0,50484.0,Unreliable
+2019,Maine,23,"Somerset County, ME",23025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,50484.0,Unreliable
+2019,Maine,23,"Somerset County, ME",23025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,51.0,50484.0,101.0
+2019,Maine,23,"Waldo County, ME",23027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,39715.0,60.4
+2019,Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,Unspecified dementia,F03,20.0,39715.0,50.4
+2019,Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,39715.0,Unreliable
+2019,Maine,23,"Waldo County, ME",23027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,39715.0,50.4
+2019,Maine,23,"Waldo County, ME",23027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,39715.0,50.4
+2019,Maine,23,"Waldo County, ME",23027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,35.0,39715.0,88.1
+2019,Maine,23,"Washington County, ME",23029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,26.0,31379.0,82.9
+2019,Maine,23,"Washington County, ME",23029,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,31379.0,70.1
+2019,Maine,23,"Washington County, ME",23029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,31379.0,Unreliable
+2019,Maine,23,"Washington County, ME",23029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,31379.0,Unreliable
+2019,Maine,23,"Washington County, ME",23029,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,31379.0,Unreliable
+2019,Maine,23,"Washington County, ME",23029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,31379.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Sepsis,"Septicaemia, unspecified",A41.9,10.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,24.0,207641.0,11.6
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,23.0,207641.0,11.1
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,11.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,45.0,207641.0,21.7
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,145.0,207641.0,69.8
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,207641.0,13.0
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of ovary,C56,13.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of prostate,C61,29.0,207641.0,14.0
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,21.0,207641.0,10.1
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,18.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm without specification of site,C80,22.0,207641.0,10.6
+2019,Maine,23,"York County, ME",23031,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,17.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,26.0,207641.0,12.5
+2019,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,50.0,207641.0,24.1
+2019,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,Unspecified dementia,F03,140.0,207641.0,67.4
+2019,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,76.0,207641.0,36.6
+2019,Maine,23,"York County, ME",23031,Hypertensive diseases,Essential (primary) hypertension,I10,16.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,33.0,207641.0,15.9
+2019,Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,60.0,207641.0,28.9
+2019,Maine,23,"York County, ME",23031,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,207641.0,10.6
+2019,Maine,23,"York County, ME",23031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,106.0,207641.0,51.0
+2019,Maine,23,"York County, ME",23031,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,18.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,14.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,15.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Congestive heart failure,I50.0,21.0,207641.0,10.1
+2019,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,18.0,207641.0,Unreliable
+2019,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,25.0,207641.0,12.0
+2019,Maine,23,"York County, ME",23031,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,49.0,207641.0,23.6
+2019,Maine,23,"York County, ME",23031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,25.0,207641.0,12.0
+2019,Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,21.0,207641.0,10.1
+2019,Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,114.0,207641.0,54.9
+2019,Maine,23,"York County, ME",23031,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,13.0,207641.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,16.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,76.0,108547.0,70.0
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,108547.0,20.3
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,13.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,Unspecified dementia,F03,68.0,108547.0,62.6
+2020,Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,82.0,108547.0,75.5
+2020,Maine,23,"Androscoggin County, ME",23001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,10.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,35.0,108547.0,32.2
+2020,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,102.0,108547.0,94.0
+2020,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,17.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,38.0,108547.0,35.0
+2020,Maine,23,"Androscoggin County, ME",23001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,108547.0,Unreliable
+2020,Maine,23,"Androscoggin County, ME",23001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,61.0,108547.0,56.2
+2020,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,66804.0,40.4
+2020,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,50.0,66804.0,74.8
+2020,Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,Unspecified dementia,F03,71.0,66804.0,106.3
+2020,Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,33.0,66804.0,49.4
+2020,Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,47.0,66804.0,70.4
+2020,Maine,23,"Aroostook County, ME",23003,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,17.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,32.0,66804.0,47.9
+2020,Maine,23,"Aroostook County, ME",23003,Influenza and pneumonia,"Bacterial pneumonia, unspecified",J15.9,10.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,19.0,66804.0,Unreliable
+2020,Maine,23,"Aroostook County, ME",23003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,40.0,66804.0,59.9
+2020,Maine,23,"Cumberland County, ME",23005,Sepsis,"Septicaemia, unspecified",A41.9,10.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,15.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,44.0,298111.0,14.8
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,14.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,11.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,41.0,298111.0,13.8
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,151.0,298111.0,50.7
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,11.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,43.0,298111.0,14.4
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm of prostate,C61,35.0,298111.0,11.7
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,20.0,298111.0,6.7
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,18.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,23.0,298111.0,7.7
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,10.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,12.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,14.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,33.0,298111.0,11.1
+2020,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,78.0,298111.0,26.2
+2020,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,Unspecified dementia,F03,230.0,298111.0,77.2
+2020,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,107.0,298111.0,35.9
+2020,Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,13.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Essential (primary) hypertension,I10,15.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,49.0,298111.0,16.4
+2020,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,48.0,298111.0,16.1
+2020,Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,11.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,46.0,298111.0,15.4
+2020,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,150.0,298111.0,50.3
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,37.0,298111.0,12.4
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Congestive heart failure,I50.0,35.0,298111.0,11.7
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,17.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,34.0,298111.0,11.4
+2020,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,14.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,72.0,298111.0,24.2
+2020,Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,11.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,11.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,20.0,298111.0,6.7
+2020,Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,20.0,298111.0,6.7
+2020,Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,96.0,298111.0,32.2
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,20.0,298111.0,6.7
+2020,Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,17.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic kidney disease, stage 5",N18.5,18.0,298111.0,Unreliable
+2020,Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic renal failure, unspecified",N18.9,11.0,298111.0,Unreliable
+2020,Maine,23,"Franklin County, ME",23007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,29986.0,Unreliable
+2020,Maine,23,"Franklin County, ME",23007,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,29986.0,93.4
+2020,Maine,23,"Franklin County, ME",23007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,29986.0,Unreliable
+2020,Maine,23,"Franklin County, ME",23007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,29986.0,80.0
+2020,Maine,23,"Franklin County, ME",23007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,29986.0,Unreliable
+2020,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,55088.0,Unreliable
+2020,Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,55088.0,52.6
+2020,Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,Unspecified dementia,F03,53.0,55088.0,96.2
+2020,Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,55088.0,Unreliable
+2020,Maine,23,"Hancock County, ME",23009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,55088.0,45.4
+2020,Maine,23,"Hancock County, ME",23009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,41.0,55088.0,74.4
+2020,Maine,23,"Hancock County, ME",23009,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,13.0,55088.0,Unreliable
+2020,Maine,23,"Hancock County, ME",23009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,55088.0,Unreliable
+2020,Maine,23,"Hancock County, ME",23009,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,55088.0,Unreliable
+2020,Maine,23,"Hancock County, ME",23009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,28.0,55088.0,50.8
+2020,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,14.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,18.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,22.0,122955.0,17.9
+2020,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,65.0,122955.0,52.9
+2020,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,28.0,122955.0,22.8
+2020,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Malignant neoplasm of prostate,C61,25.0,122955.0,20.3
+2020,Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,19.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,Unspecified dementia,F03,103.0,122955.0,83.8
+2020,Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,47.0,122955.0,38.2
+2020,Maine,23,"Kennebec County, ME",23011,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,19.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,17.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,11.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,122955.0,33.3
+2020,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,77.0,122955.0,62.6
+2020,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,14.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,14.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,17.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,34.0,122955.0,27.7
+2020,Maine,23,"Kennebec County, ME",23011,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,17.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,122955.0,Unreliable
+2020,Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,54.0,122955.0,43.9
+2020,Maine,23,"Kennebec County, ME",23011,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,122955.0,Unreliable
+2020,Maine,23,"Knox County, ME",23013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,27.0,39951.0,67.6
+2020,Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,39951.0,Unreliable
+2020,Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,28.0,39951.0,70.1
+2020,Maine,23,"Knox County, ME",23013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,39951.0,Unreliable
+2020,Maine,23,"Knox County, ME",23013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,39951.0,67.6
+2020,Maine,23,"Knox County, ME",23013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,39951.0,Unreliable
+2020,Maine,23,"Lincoln County, ME",23015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,34.0,34775.0,97.8
+2020,Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,10.0,34775.0,Unreliable
+2020,Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,Unspecified dementia,F03,30.0,34775.0,86.3
+2020,Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,34775.0,63.3
+2020,Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,34775.0,Unreliable
+2020,Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,34775.0,71.9
+2020,Maine,23,"Lincoln County, ME",23015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,34775.0,Unreliable
+2020,Maine,23,"Lincoln County, ME",23015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,34775.0,Unreliable
+2020,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,44.0,58132.0,75.7
+2020,Maine,23,"Oxford County, ME",23017,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,58132.0,Unreliable
+2020,Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,Unspecified dementia,F03,64.0,58132.0,110.1
+2020,Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,58132.0,Unreliable
+2020,Maine,23,"Oxford County, ME",23017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,58132.0,Unreliable
+2020,Maine,23,"Oxford County, ME",23017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,39.0,58132.0,67.1
+2020,Maine,23,"Oxford County, ME",23017,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,58132.0,Unreliable
+2020,Maine,23,"Oxford County, ME",23017,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,22.0,58132.0,37.8
+2020,Maine,23,"Oxford County, ME",23017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,19.0,58132.0,Unreliable
+2020,Maine,23,"Oxford County, ME",23017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,34.0,58132.0,58.5
+2020,Maine,23,"Penobscot County, ME",23019,Sepsis,"Septicaemia, unspecified",A41.9,11.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,20.0,151655.0,13.2
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,151655.0,17.8
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,102.0,151655.0,67.3
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,20.0,151655.0,13.2
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,14.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,14.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,20.0,151655.0,13.2
+2020,Maine,23,"Penobscot County, ME",23019,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,22.0,151655.0,14.5
+2020,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,Unspecified dementia,F03,121.0,151655.0,79.8
+2020,Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,49.0,151655.0,32.3
+2020,Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Essential (primary) hypertension,I10,17.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,22.0,151655.0,14.5
+2020,Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,65.0,151655.0,42.9
+2020,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,106.0,151655.0,69.9
+2020,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,14.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,10.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,22.0,151655.0,14.5
+2020,Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,22.0,151655.0,14.5
+2020,Maine,23,"Penobscot County, ME",23019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,35.0,151655.0,23.1
+2020,Maine,23,"Penobscot County, ME",23019,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,24.0,151655.0,15.8
+2020,Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,77.0,151655.0,50.8
+2020,Maine,23,"Penobscot County, ME",23019,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,151655.0,Unreliable
+2020,Maine,23,"Penobscot County, ME",23019,Renal failure,"Chronic renal failure, unspecified",N18.9,13.0,151655.0,Unreliable
+2020,Maine,23,"Piscataquis County, ME",23021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,16996.0,Unreliable
+2020,Maine,23,"Piscataquis County, ME",23021,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,16996.0,Unreliable
+2020,Maine,23,"Piscataquis County, ME",23021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,16996.0,117.7
+2020,Maine,23,"Piscataquis County, ME",23021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,16996.0,Unreliable
+2020,Maine,23,"Sagadahoc County, ME",23023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,36044.0,Unreliable
+2020,Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,36044.0,77.7
+2020,Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,36044.0,Unreliable
+2020,Maine,23,"Sagadahoc County, ME",23023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,36044.0,66.6
+2020,Maine,23,"Sagadahoc County, ME",23023,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,10.0,36044.0,Unreliable
+2020,Maine,23,"Sagadahoc County, ME",23023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,36044.0,Unreliable
+2020,Maine,23,"Somerset County, ME",23025,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,50635.0,Unreliable
+2020,Maine,23,"Somerset County, ME",23025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,39.0,50635.0,77.0
+2020,Maine,23,"Somerset County, ME",23025,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,50635.0,Unreliable
+2020,Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,Unspecified dementia,F03,37.0,50635.0,73.1
+2020,Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,50635.0,Unreliable
+2020,Maine,23,"Somerset County, ME",23025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,50635.0,Unreliable
+2020,Maine,23,"Somerset County, ME",23025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,44.0,50635.0,86.9
+2020,Maine,23,"Somerset County, ME",23025,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,12.0,50635.0,Unreliable
+2020,Maine,23,"Somerset County, ME",23025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,26.0,50635.0,51.3
+2020,Maine,23,"Somerset County, ME",23025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,37.0,50635.0,73.1
+2020,Maine,23,"Waldo County, ME",23027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,26.0,39923.0,65.1
+2020,Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,39923.0,Unreliable
+2020,Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,39923.0,Unreliable
+2020,Maine,23,"Waldo County, ME",23027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,39923.0,Unreliable
+2020,Maine,23,"Waldo County, ME",23027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,39923.0,50.1
+2020,Maine,23,"Waldo County, ME",23027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,39923.0,Unreliable
+2020,Maine,23,"Waldo County, ME",23027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,39923.0,60.1
+2020,Maine,23,"Washington County, ME",23029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,27.0,31473.0,85.8
+2020,Maine,23,"Washington County, ME",23029,Alzheimer disease and dementia,Unspecified dementia,F03,37.0,31473.0,117.6
+2020,Maine,23,"Washington County, ME",23029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,31.0,31473.0,98.5
+2020,Maine,23,"Washington County, ME",23029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,31473.0,79.4
+2020,Maine,23,"Washington County, ME",23029,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,31473.0,Unreliable
+2020,Maine,23,"Washington County, ME",23029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,31473.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,18.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,21.0,209066.0,10.0
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of rectum,C20,10.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,32.0,209066.0,15.3
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,116.0,209066.0,55.5
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,209066.0,12.9
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,12.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of ovary,C56,15.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of prostate,C61,24.0,209066.0,11.5
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,21.0,209066.0,10.0
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,18.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm without specification of site,C80,20.0,209066.0,9.6
+2020,Maine,23,"York County, ME",23031,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,12.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,25.0,209066.0,12.0
+2020,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,41.0,209066.0,19.6
+2020,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,Unspecified dementia,F03,114.0,209066.0,54.5
+2020,Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,115.0,209066.0,55.0
+2020,Maine,23,"York County, ME",23031,Hypertensive diseases,Essential (primary) hypertension,I10,13.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,36.0,209066.0,17.2
+2020,Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,23.0,209066.0,11.0
+2020,Maine,23,"York County, ME",23031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,53.0,209066.0,25.4
+2020,Maine,23,"York County, ME",23031,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,209066.0,10.5
+2020,Maine,23,"York County, ME",23031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,123.0,209066.0,58.8
+2020,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,14.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Congestive heart failure,I50.0,30.0,209066.0,14.3
+2020,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,24.0,209066.0,11.5
+2020,Maine,23,"York County, ME",23031,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,34.0,209066.0,16.3
+2020,Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,12.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,17.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,88.0,209066.0,42.1
+2020,Maine,23,"York County, ME",23031,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,18.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,11.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,209066.0,Unreliable
+2020,Maine,23,"York County, ME",23031,Renal failure,"Chronic renal failure, unspecified",N18.9,12.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,16.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,61.0,108547.0,56.2
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,16.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,12.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,Unspecified dementia,F03,68.0,108547.0,62.6
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,84.0,108547.0,77.4
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,43.0,108547.0,39.6
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,127.0,108547.0,117.0
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,18.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,32.0,108547.0,29.5
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,108547.0,Unreliable
+2021 (provisional),Maine,23,"Androscoggin County, ME",23001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,69.0,108547.0,63.6
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,18.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,37.0,66804.0,55.4
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,Unspecified dementia,F03,54.0,66804.0,80.8
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,25.0,66804.0,37.4
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,11.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,39.0,66804.0,58.4
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,59.0,66804.0,88.3
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,22.0,66804.0,32.9
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,30.0,66804.0,44.9
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,56.0,66804.0,83.8
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Aroostook County, ME",23003,Renal failure,"Chronic renal failure, unspecified",N18.9,12.0,66804.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,23.0,298111.0,7.7
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,25.0,298111.0,8.4
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,15.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,63.0,298111.0,21.1
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,127.0,298111.0,42.6
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,12.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,32.0,298111.0,10.7
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm of ovary,C56,10.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm of prostate,C61,40.0,298111.0,13.4
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,14.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,17.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Malignant neoplasm without specification of site,C80,32.0,298111.0,10.7
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,13.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,14.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,17.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,24.0,298111.0,8.1
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,78.0,298111.0,26.2
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,Unspecified dementia,F03,236.0,298111.0,79.2
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,96.0,298111.0,32.2
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Essential (primary) hypertension,I10,19.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,54.0,298111.0,18.1
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,44.0,298111.0,14.8
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,11.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,10.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,10.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,53.0,298111.0,17.8
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,31.0,298111.0,10.4
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,164.0,298111.0,55.0
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,17.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,26.0,298111.0,8.7
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,11.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,15.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,15.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,43.0,298111.0,14.4
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,13.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,59.0,298111.0,19.8
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,15.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,22.0,298111.0,7.4
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,17.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,120.0,298111.0,40.3
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,22.0,298111.0,7.4
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,11.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,298111.0,Unreliable
+2021 (provisional),Maine,23,"Cumberland County, ME",23005,Renal failure,"Chronic renal failure, unspecified",N18.9,20.0,298111.0,6.7
+2021 (provisional),Maine,23,"Franklin County, ME",23007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,29986.0,Unreliable
+2021 (provisional),Maine,23,"Franklin County, ME",23007,Alzheimer disease and dementia,Unspecified dementia,F03,27.0,29986.0,90.0
+2021 (provisional),Maine,23,"Franklin County, ME",23007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,29986.0,Unreliable
+2021 (provisional),Maine,23,"Franklin County, ME",23007,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,29986.0,Unreliable
+2021 (provisional),Maine,23,"Franklin County, ME",23007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,29986.0,Unreliable
+2021 (provisional),Maine,23,"Franklin County, ME",23007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,29986.0,Unreliable
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,55088.0,Unreliable
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,35.0,55088.0,63.5
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,55088.0,Unreliable
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,55088.0,Unreliable
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,Unspecified dementia,F03,49.0,55088.0,88.9
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,55088.0,Unreliable
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,55088.0,61.7
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Ischemic heart disease,Atherosclerotic heart disease,I25.1,42.0,55088.0,76.2
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,12.0,55088.0,Unreliable
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,55088.0,Unreliable
+2021 (provisional),Maine,23,"Hancock County, ME",23009,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,27.0,55088.0,49.0
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,17.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,24.0,122955.0,19.5
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,75.0,122955.0,61.0
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,122955.0,17.9
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Malignant neoplasm of prostate,C61,22.0,122955.0,17.9
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,28.0,122955.0,22.8
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,22.0,122955.0,17.9
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,Unspecified dementia,F03,102.0,122955.0,83.0
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,43.0,122955.0,35.0
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,22.0,122955.0,17.9
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,24.0,122955.0,19.5
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,81.0,122955.0,65.9
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,74.0,122955.0,60.2
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,10.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,19.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,31.0,122955.0,25.2
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,57.0,122955.0,46.4
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,14.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Kennebec County, ME",23011,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,122955.0,Unreliable
+2021 (provisional),Maine,23,"Knox County, ME",23013,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,39951.0,Unreliable
+2021 (provisional),Maine,23,"Knox County, ME",23013,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,39951.0,Unreliable
+2021 (provisional),Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,Unspecified dementia,F03,27.0,39951.0,67.6
+2021 (provisional),Maine,23,"Knox County, ME",23013,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,31.0,39951.0,77.6
+2021 (provisional),Maine,23,"Knox County, ME",23013,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,39951.0,Unreliable
+2021 (provisional),Maine,23,"Knox County, ME",23013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,39951.0,Unreliable
+2021 (provisional),Maine,23,"Knox County, ME",23013,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,39951.0,Unreliable
+2021 (provisional),Maine,23,"Knox County, ME",23013,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,39951.0,Unreliable
+2021 (provisional),Maine,23,"Knox County, ME",23013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,39951.0,65.1
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,34775.0,Unreliable
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,34775.0,63.3
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,34775.0,71.9
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,34775.0,63.3
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,34775.0,Unreliable
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,34775.0,Unreliable
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,34775.0,66.1
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,34775.0,Unreliable
+2021 (provisional),Maine,23,"Lincoln County, ME",23015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,34775.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,53.0,58132.0,91.2
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Malignant neoplasms,Malignant neoplasm of prostate,C61,18.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,Unspecified dementia,F03,68.0,58132.0,117.0
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,14.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,58132.0,36.1
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,46.0,58132.0,79.1
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,11.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,58132.0,Unreliable
+2021 (provisional),Maine,23,"Oxford County, ME",23017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,38.0,58132.0,65.4
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,16.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,28.0,151655.0,18.5
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,27.0,151655.0,17.8
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,82.0,151655.0,54.1
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm of prostate,C61,17.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,16.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,Malignant neoplasm without specification of site,C80,22.0,151655.0,14.5
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,22.0,151655.0,14.5
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,22.0,151655.0,14.5
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,Unspecified dementia,F03,110.0,151655.0,72.5
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,33.0,151655.0,21.8
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Essential (primary) hypertension,I10,17.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,32.0,151655.0,21.1
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,56.0,151655.0,36.9
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,151655.0,16.5
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,101.0,151655.0,66.6
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,17.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,19.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,29.0,151655.0,19.1
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,37.0,151655.0,24.4
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,15.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,70.0,151655.0,46.2
+2021 (provisional),Maine,23,"Penobscot County, ME",23019,Renal failure,"Chronic kidney disease, stage 5",N18.5,17.0,151655.0,Unreliable
+2021 (provisional),Maine,23,"Piscataquis County, ME",23021,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,16996.0,Unreliable
+2021 (provisional),Maine,23,"Piscataquis County, ME",23021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,16996.0,Unreliable
+2021 (provisional),Maine,23,"Piscataquis County, ME",23021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,16996.0,Unreliable
+2021 (provisional),Maine,23,"Piscataquis County, ME",23021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,16996.0,Unreliable
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,36044.0,58.3
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,36044.0,Unreliable
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,36044.0,Unreliable
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,Unspecified dementia,F03,35.0,36044.0,97.1
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,36044.0,55.5
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,36044.0,Unreliable
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,36044.0,Unreliable
+2021 (provisional),Maine,23,"Sagadahoc County, ME",23023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,36044.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,43.0,50635.0,84.9
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,Unspecified dementia,F03,44.0,50635.0,86.9
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,10.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,54.0,50635.0,106.6
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,50635.0,Unreliable
+2021 (provisional),Maine,23,"Somerset County, ME",23025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,50635.0,57.3
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,39923.0,72.6
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,39923.0,Unreliable
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,39923.0,Unreliable
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,39923.0,Unreliable
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,39923.0,65.1
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,11.0,39923.0,Unreliable
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,39923.0,Unreliable
+2021 (provisional),Maine,23,"Waldo County, ME",23027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,39923.0,52.6
+2021 (provisional),Maine,23,"Washington County, ME",23029,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,31473.0,Unreliable
+2021 (provisional),Maine,23,"Washington County, ME",23029,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,31473.0,69.9
+2021 (provisional),Maine,23,"Washington County, ME",23029,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,31473.0,79.4
+2021 (provisional),Maine,23,"Washington County, ME",23029,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,31473.0,Unreliable
+2021 (provisional),Maine,23,"Washington County, ME",23029,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,31473.0,Unreliable
+2021 (provisional),Maine,23,"Washington County, ME",23029,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,31473.0,Unreliable
+2021 (provisional),Maine,23,"Washington County, ME",23029,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,31473.0,Unreliable
+2021 (provisional),Maine,23,"Washington County, ME",23029,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,31473.0,92.1
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,22.0,209066.0,10.5
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,29.0,209066.0,13.9
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of rectum,C20,11.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,54.0,209066.0,25.8
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,121.0,209066.0,57.9
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,15.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of ovary,C56,15.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm of prostate,C61,38.0,209066.0,18.2
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,14.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,25.0,209066.0,12.0
+2021 (provisional),Maine,23,"York County, ME",23031,Malignant neoplasms,Malignant neoplasm without specification of site,C80,27.0,209066.0,12.9
+2021 (provisional),Maine,23,"York County, ME",23031,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,17.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,18.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,13.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,38.0,209066.0,18.2
+2021 (provisional),Maine,23,"York County, ME",23031,Alzheimer disease and dementia,Unspecified dementia,F03,135.0,209066.0,64.6
+2021 (provisional),Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,75.0,209066.0,35.9
+2021 (provisional),Maine,23,"York County, ME",23031,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,11.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,32.0,209066.0,15.3
+2021 (provisional),Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,33.0,209066.0,15.8
+2021 (provisional),Maine,23,"York County, ME",23031,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,55.0,209066.0,26.3
+2021 (provisional),Maine,23,"York County, ME",23031,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,21.0,209066.0,10.0
+2021 (provisional),Maine,23,"York County, ME",23031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,143.0,209066.0,68.4
+2021 (provisional),Maine,23,"York County, ME",23031,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,14.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,19.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,13.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,13.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,21.0,209066.0,10.0
+2021 (provisional),Maine,23,"York County, ME",23031,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,48.0,209066.0,23.0
+2021 (provisional),Maine,23,"York County, ME",23031,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,81.0,209066.0,38.7
+2021 (provisional),Maine,23,"York County, ME",23031,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,209066.0,Unreliable
+2021 (provisional),Maine,23,"York County, ME",23031,Renal failure,"Chronic renal failure, unspecified",N18.9,19.0,209066.0,Unreliable
+2022 (provisional and partial),Maine,23,"Androscoggin County, ME",23001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,108547.0,Unreliable
+2022 (provisional and partial),Maine,23,"Androscoggin County, ME",23001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,108547.0,22.1
+2022 (provisional and partial),Maine,23,"Aroostook County, ME",23003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,66804.0,Unreliable
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,298111.0,7.4
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,298111.0,Unreliable
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,12.0,298111.0,Unreliable
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,Unspecified dementia,F03,32.0,298111.0,10.7
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,298111.0,6.7
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,298111.0,8.1
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,298111.0,Unreliable
+2022 (provisional and partial),Maine,23,"Cumberland County, ME",23005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,298111.0,Unreliable
+2022 (provisional and partial),Maine,23,"Kennebec County, ME",23011,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,122955.0,20.3
+2022 (provisional and partial),Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,122955.0,Unreliable
+2022 (provisional and partial),Maine,23,"Kennebec County, ME",23011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,122955.0,Unreliable
+2022 (provisional and partial),Maine,23,"Kennebec County, ME",23011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,122955.0,Unreliable
+2022 (provisional and partial),Maine,23,"Penobscot County, ME",23019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,151655.0,Unreliable
+2022 (provisional and partial),Maine,23,"Penobscot County, ME",23019,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,151655.0,Unreliable
+2022 (provisional and partial),Maine,23,"Penobscot County, ME",23019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,151655.0,Unreliable
+2022 (provisional and partial),Maine,23,"Penobscot County, ME",23019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,151655.0,Unreliable
+2022 (provisional and partial),Maine,23,"Somerset County, ME",23025,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,50635.0,Unreliable
+2022 (provisional and partial),Maine,23,"York County, ME",23031,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,209066.0,Unreliable
+2022 (provisional and partial),Maine,23,"York County, ME",23031,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,209066.0,10.5
+2022 (provisional and partial),Maine,23,"York County, ME",23031,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,209066.0,10.5
+2022 (provisional and partial),Maine,23,"York County, ME",23031,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,209066.0,Unreliable
+2022 (provisional and partial),Maine,23,"York County, ME",23031,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,209066.0,Unreliable

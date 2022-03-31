@@ -1,0 +1,83 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Virginia,"Albemarle County, VA",Nontransport accidents,Other fall on same level,W18,19.0,108718.0,Unreliable
+2018,Virginia,"Bedford County, VA",Nontransport accidents,Other fall on same level,W18,10.0,78747.0,Unreliable
+2018,Virginia,"Chesterfield County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,348556.0,Unreliable
+2018,Virginia,"Chesterfield County, VA",Nontransport accidents,Other fall on same level,W18,20.0,348556.0,5.7
+2018,Virginia,"Chesterfield County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,70.0,348556.0,20.1
+2018,Virginia,"Chesterfield County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,348556.0,Unreliable
+2018,Virginia,"Chesterfield County, VA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,348556.0,Unreliable
+2018,Virginia,"Chesterfield County, VA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,13.0,348556.0,Unreliable
+2018,Virginia,"Chesterfield County, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,348556.0,Unreliable
+2018,Virginia,"Fairfax County, VA",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,16.0,1150795.0,Unreliable
+2018,Virginia,"Fairfax County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,21.0,1150795.0,1.8
+2018,Virginia,"Fairfax County, VA",Nontransport accidents,Fall on and from stairs and steps,W10,16.0,1150795.0,Unreliable
+2018,Virginia,"Fairfax County, VA",Nontransport accidents,Other fall on same level,W18,33.0,1150795.0,2.9
+2018,Virginia,"Fairfax County, VA",Nontransport accidents,Unspecified fall,W19,33.0,1150795.0,2.9
+2018,Virginia,"Fairfax County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,43.0,1150795.0,3.7
+2018,Virginia,"Fairfax County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,39.0,1150795.0,3.4
+2018,Virginia,"Fairfax County, VA",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,1150795.0,Unreliable
+2018,Virginia,"Fairfax County, VA",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,1150795.0,Unreliable
+2018,Virginia,"Fairfax County, VA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,42.0,1150795.0,3.6
+2018,Virginia,"Fairfax County, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,30.0,1150795.0,2.6
+2018,Virginia,"Fauquier County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,70675.0,Unreliable
+2018,Virginia,"Fauquier County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,70675.0,Unreliable
+2018,Virginia,"Franklin County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,56195.0,Unreliable
+2018,Virginia,"Frederick County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,88355.0,Unreliable
+2018,Virginia,"Hanover County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,107239.0,Unreliable
+2018,Virginia,"Henrico County, VA",Nontransport accidents,Other fall on same level,W18,31.0,329261.0,9.4
+2018,Virginia,"Henrico County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,329261.0,14.9
+2018,Virginia,"Henrico County, VA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,329261.0,Unreliable
+2018,Virginia,"Loudoun County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,406850.0,Unreliable
+2018,Virginia,"Loudoun County, VA",Nontransport accidents,Other fall on same level,W18,12.0,406850.0,Unreliable
+2018,Virginia,"Loudoun County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,406850.0,Unreliable
+2018,Virginia,"Loudoun County, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,406850.0,Unreliable
+2018,Virginia,"Pittsylvania County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,60949.0,Unreliable
+2018,Virginia,"Pittsylvania County, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,60949.0,Unreliable
+2018,Virginia,"Prince William County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,468011.0,Unreliable
+2018,Virginia,"Prince William County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,32.0,468011.0,6.8
+2018,Virginia,"Prince William County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,468011.0,4.3
+2018,Virginia,"Prince William County, VA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,468011.0,Unreliable
+2018,Virginia,"Prince William County, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,468011.0,Unreliable
+2018,Virginia,"Roanoke County, VA",Nontransport accidents,Other fall on same level,W18,12.0,94073.0,Unreliable
+2018,Virginia,"Roanoke County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,94073.0,Unreliable
+2018,Virginia,"Rockingham County, VA",Nontransport accidents,Other fall on same level,W18,11.0,81244.0,Unreliable
+2018,Virginia,"Spotsylvania County, VA",Nontransport accidents,Other fall on same level,W18,10.0,134238.0,Unreliable
+2018,Virginia,"Spotsylvania County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,134238.0,18.6
+2018,Virginia,"Stafford County, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,149960.0,Unreliable
+2018,Virginia,"Washington County, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,54402.0,Unreliable
+2018,Virginia,"Chesapeake city, VA",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,242634.0,Unreliable
+2018,Virginia,"Chesapeake city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,23.0,242634.0,9.5
+2018,Virginia,"Chesapeake city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,242634.0,Unreliable
+2018,Virginia,"Chesapeake city, VA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,242634.0,Unreliable
+2018,Virginia,"Colonial Heights city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,17833.0,Unreliable
+2018,Virginia,"Danville city, VA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,40693.0,Unreliable
+2018,Virginia,"Hampton city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,134313.0,14.9
+2018,Virginia,"Hampton city, VA",Assault (homicide),Assault by handgun discharge,X93,13.0,134313.0,Unreliable
+2018,Virginia,"Hopewell city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,22596.0,Unreliable
+2018,Virginia,"Newport News city, VA",Nontransport accidents,Other fall on same level,W18,11.0,178626.0,Unreliable
+2018,Virginia,"Newport News city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33.0,178626.0,18.5
+2018,Virginia,"Newport News city, VA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,178626.0,Unreliable
+2018,Virginia,"Newport News city, VA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,178626.0,Unreliable
+2018,Virginia,"Newport News city, VA",Assault (homicide),Assault by handgun discharge,X93,13.0,178626.0,Unreliable
+2018,Virginia,"Norfolk city, VA",Nontransport accidents,Other fall on same level,W18,14.0,244076.0,Unreliable
+2018,Virginia,"Norfolk city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,32.0,244076.0,13.1
+2018,Virginia,"Norfolk city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,244076.0,Unreliable
+2018,Virginia,"Norfolk city, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,244076.0,Unreliable
+2018,Virginia,"Norfolk city, VA",Assault (homicide),Assault by handgun discharge,X93,19.0,244076.0,Unreliable
+2018,Virginia,"Petersburg city, VA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,31567.0,Unreliable
+2018,Virginia,"Portsmouth city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,22.0,94632.0,23.2
+2018,Virginia,"Richmond city, VA",Nontransport accidents,Other fall on same level,W18,12.0,228783.0,Unreliable
+2018,Virginia,"Richmond city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,64.0,228783.0,28.0
+2018,Virginia,"Richmond city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,228783.0,Unreliable
+2018,Virginia,"Richmond city, VA",Assault (homicide),Assault by other and unspecified firearm discharge,X95,30.0,228783.0,13.1
+2018,Virginia,"Roanoke city, VA",Nontransport accidents,Other fall on same level,W18,12.0,99920.0,Unreliable
+2018,Virginia,"Roanoke city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,27.0,99920.0,27.0
+2018,Virginia,"Roanoke city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,99920.0,21.0
+2018,Virginia,"Roanoke city, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,99920.0,Unreliable
+2018,Virginia,"Virginia Beach city, VA",Nontransport accidents,Other fall on same level,W18,28.0,450189.0,6.2
+2018,Virginia,"Virginia Beach city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,36.0,450189.0,8.0
+2018,Virginia,"Virginia Beach city, VA",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,450189.0,4.9
+2018,Virginia,"Virginia Beach city, VA",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,450189.0,Unreliable
+2018,Virginia,"Virginia Beach city, VA",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,25.0,450189.0,5.6
+2018,Virginia,"Virginia Beach city, VA",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,450189.0,Unreliable
+2018,Virginia,"Virginia Beach city, VA",Assault (homicide),Assault by handgun discharge,X93,11.0,450189.0,Unreliable

@@ -1,0 +1,853 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Michigan,26,"Alcona County, MI",26001,White,Not Hispanic or Latino,176.0,9918.0,1774.6,749.2
+2018,Michigan,26,"Alger County, MI",26003,White,Not Hispanic or Latino,112.0,7598.0,1474.1,801.9
+2018,Michigan,26,"Allegan County, MI",26005,American Indian or Alaska Native,Not Hispanic or Latino,17.0,656.0,Unreliable,Unreliable
+2018,Michigan,26,"Allegan County, MI",26005,Black or African American,Not Hispanic or Latino,11.0,1542.0,Unreliable,Unreliable
+2018,Michigan,26,"Allegan County, MI",26005,White,Hispanic or Latino,23.0,7823.0,294.0,547.6
+2018,Michigan,26,"Allegan County, MI",26005,White,Not Hispanic or Latino,950.0,103493.0,917.9,725.2
+2018,Michigan,26,"Alpena County, MI",26007,White,Not Hispanic or Latino,393.0,27112.0,1449.5,843.1
+2018,Michigan,26,"Antrim County, MI",26009,White,Not Hispanic or Latino,277.0,22094.0,1253.7,688.7
+2018,Michigan,26,"Arenac County, MI",26011,White,Not Hispanic or Latino,186.0,14216.0,1308.4,774.1
+2018,Michigan,26,"Baraga County, MI",26013,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1124.0,Unreliable,Unreliable
+2018,Michigan,26,"Baraga County, MI",26013,White,Not Hispanic or Latino,90.0,6018.0,1495.5,831.5
+2018,Michigan,26,"Barry County, MI",26015,White,Not Hispanic or Latino,609.0,57485.0,1059.4,788.3
+2018,Michigan,26,"Bay County, MI",26017,Black or African American,Not Hispanic or Latino,18.0,1734.0,Unreliable,Unreliable
+2018,Michigan,26,"Bay County, MI",26017,White,Hispanic or Latino,18.0,4881.0,Unreliable,Unreliable
+2018,Michigan,26,"Bay County, MI",26017,White,Not Hispanic or Latino,1230.0,93421.0,1316.6,835.2
+2018,Michigan,26,"Benzie County, MI",26019,White,Not Hispanic or Latino,210.0,16601.0,1265.0,719.3
+2018,Michigan,26,"Berrien County, MI",26021,Asian,Not Hispanic or Latino,10.0,3207.0,Unreliable,Unreliable
+2018,Michigan,26,"Berrien County, MI",26021,Black or African American,Not Hispanic or Latino,233.0,22473.0,1036.8,1121.3
+2018,Michigan,26,"Berrien County, MI",26021,White,Hispanic or Latino,19.0,7502.0,Unreliable,Unreliable
+2018,Michigan,26,"Berrien County, MI",26021,White,Not Hispanic or Latino,1493.0,115163.0,1296.4,773.5
+2018,Michigan,26,"Berrien County, MI",26021,White,Not Stated,22.0,Not Applicable,Not Applicable,Not Applicable
+2018,Michigan,26,"Berrien County, MI",26021,More than one race,Not Hispanic or Latino,16.0,3608.0,Unreliable,Unreliable
+2018,Michigan,26,"Branch County, MI",26023,White,Not Hispanic or Latino,468.0,39263.0,1192.0,891.3
+2018,Michigan,26,"Calhoun County, MI",26025,Black or African American,Not Hispanic or Latino,152.0,14475.0,1050.1,1009.6
+2018,Michigan,26,"Calhoun County, MI",26025,White,Hispanic or Latino,31.0,5736.0,540.4,1004.5
+2018,Michigan,26,"Calhoun County, MI",26025,White,Not Hispanic or Latino,1398.0,103892.0,1345.6,912.0
+2018,Michigan,26,"Calhoun County, MI",26025,More than one race,Not Hispanic or Latino,11.0,4174.0,Unreliable,Unreliable
+2018,Michigan,26,"Cass County, MI",26027,Black or African American,Not Hispanic or Latino,37.0,2596.0,1425.3,1031.9
+2018,Michigan,26,"Cass County, MI",26027,White,Not Hispanic or Latino,497.0,44567.0,1115.2,779.6
+2018,Michigan,26,"Charlevoix County, MI",26029,White,Not Hispanic or Latino,283.0,24599.0,1150.5,686.5
+2018,Michigan,26,"Cheboygan County, MI",26031,White,Not Hispanic or Latino,320.0,23380.0,1368.7,769.9
+2018,Michigan,26,"Chippewa County, MI",26033,American Indian or Alaska Native,Not Hispanic or Latino,50.0,5871.0,851.6,1034.8
+2018,Michigan,26,"Chippewa County, MI",26033,White,Not Hispanic or Latino,358.0,26099.0,1371.7,856.2
+2018,Michigan,26,"Clare County, MI",26035,White,Not Hispanic or Latino,439.0,29135.0,1506.8,978.1
+2018,Michigan,26,"Clinton County, MI",26037,White,Hispanic or Latino,13.0,3171.0,Unreliable,Unreliable
+2018,Michigan,26,"Clinton County, MI",26037,White,Not Hispanic or Latino,573.0,71119.0,805.7,615.0
+2018,Michigan,26,"Crawford County, MI",26039,White,Not Hispanic or Latino,191.0,13114.0,1456.5,798.0
+2018,Michigan,26,"Delta County, MI",26041,White,Not Hispanic or Latino,450.0,33294.0,1351.6,784.6
+2018,Michigan,26,"Dickinson County, MI",26043,White,Not Hispanic or Latino,297.0,24139.0,1230.4,740.1
+2018,Michigan,26,"Eaton County, MI",26045,American Indian or Alaska Native,Not Hispanic or Latino,11.0,430.0,Unreliable,Unreliable
+2018,Michigan,26,"Eaton County, MI",26045,Black or African American,Not Hispanic or Latino,43.0,7324.0,587.1,753.7
+2018,Michigan,26,"Eaton County, MI",26045,White,Hispanic or Latino,26.0,5123.0,507.5,795.4
+2018,Michigan,26,"Eaton County, MI",26045,White,Not Hispanic or Latino,1009.0,90926.0,1109.7,775.2
+2018,Michigan,26,"Eaton County, MI",26045,More than one race,Not Hispanic or Latino,11.0,2432.0,Unreliable,Unreliable
+2018,Michigan,26,"Emmet County, MI",26047,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1184.0,Unreliable,Unreliable
+2018,Michigan,26,"Emmet County, MI",26047,White,Not Hispanic or Latino,350.0,30369.0,1152.5,707.6
+2018,Michigan,26,"Genesee County, MI",26049,Asian,Not Hispanic or Latino,19.0,4170.0,Unreliable,Unreliable
+2018,Michigan,26,"Genesee County, MI",26049,Black or African American,Not Hispanic or Latino,919.0,81301.0,1130.4,1085.8
+2018,Michigan,26,"Genesee County, MI",26049,White,Hispanic or Latino,70.0,11645.0,601.1,865.9
+2018,Michigan,26,"Genesee County, MI",26049,White,Not Hispanic or Latino,3732.0,295060.0,1264.8,889.7
+2018,Michigan,26,"Genesee County, MI",26049,More than one race,Not Hispanic or Latino,39.0,10202.0,382.3,944.4
+2018,Michigan,26,"Gladwin County, MI",26051,White,Not Hispanic or Latino,393.0,24241.0,1621.2,923.1
+2018,Michigan,26,"Gogebic County, MI",26053,White,Not Hispanic or Latino,172.0,13566.0,1267.9,633.4
+2018,Michigan,26,"Grand Traverse County, MI",26055,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1040.0,Unreliable,Unreliable
+2018,Michigan,26,"Grand Traverse County, MI",26055,White,Not Hispanic or Latino,917.0,85836.0,1068.3,712.3
+2018,Michigan,26,"Grand Traverse County, MI",26055,More than one race,Not Hispanic or Latino,11.0,1583.0,Unreliable,Unreliable
+2018,Michigan,26,"Gratiot County, MI",26057,White,Hispanic or Latino,15.0,2272.0,Unreliable,Unreliable
+2018,Michigan,26,"Gratiot County, MI",26057,White,Not Hispanic or Latino,476.0,34812.0,1367.3,904.9
+2018,Michigan,26,"Hillsdale County, MI",26059,White,Not Hispanic or Latino,501.0,43284.0,1157.5,830.7
+2018,Michigan,26,"Houghton County, MI",26061,White,Not Hispanic or Latino,350.0,33290.0,1051.4,770.6
+2018,Michigan,26,"Huron County, MI",26063,White,Not Hispanic or Latino,491.0,29660.0,1655.4,904.7
+2018,Michigan,26,"Ingham County, MI",26065,Asian,Not Hispanic or Latino,34.0,21199.0,160.4,365.1
+2018,Michigan,26,"Ingham County, MI",26065,Black or African American,Not Hispanic or Latino,279.0,33646.0,829.2,1059.9
+2018,Michigan,26,"Ingham County, MI",26065,White,Hispanic or Latino,78.0,18521.0,421.1,662.5
+2018,Michigan,26,"Ingham County, MI",26065,White,Not Hispanic or Latino,1781.0,202703.0,878.6,738.9
+2018,Michigan,26,"Ingham County, MI",26065,White,Not Stated,17.0,Not Applicable,Not Applicable,Not Applicable
+2018,Michigan,26,"Ingham County, MI",26065,More than one race,Not Hispanic or Latino,27.0,10745.0,251.3,895.2
+2018,Michigan,26,"Ionia County, MI",26067,White,Not Hispanic or Latino,515.0,56752.0,907.5,800.6
+2018,Michigan,26,"Iosco County, MI",26069,White,Not Hispanic or Latino,420.0,23428.0,1792.7,946.8
+2018,Michigan,26,"Iron County, MI",26071,White,Not Hispanic or Latino,183.0,10451.0,1751.0,792.3
+2018,Michigan,26,"Isabella County, MI",26073,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2413.0,Unreliable,Unreliable
+2018,Michigan,26,"Isabella County, MI",26073,White,Hispanic or Latino,13.0,1978.0,Unreliable,Unreliable
+2018,Michigan,26,"Isabella County, MI",26073,White,Not Hispanic or Latino,492.0,60102.0,818.6,787.5
+2018,Michigan,26,"Jackson County, MI",26075,Black or African American,Not Hispanic or Latino,101.0,12589.0,802.3,1073.9
+2018,Michigan,26,"Jackson County, MI",26075,White,Hispanic or Latino,24.0,4801.0,499.9,729.9
+2018,Michigan,26,"Jackson County, MI",26075,White,Not Hispanic or Latino,1591.0,134369.0,1184.1,827.3
+2018,Michigan,26,"Jackson County, MI",26075,More than one race,Not Hispanic or Latino,20.0,4108.0,486.9,1435.6
+2018,Michigan,26,"Kalamazoo County, MI",26077,Asian,Not Hispanic or Latino,14.0,7282.0,Unreliable,Unreliable
+2018,Michigan,26,"Kalamazoo County, MI",26077,Black or African American,Not Hispanic or Latino,210.0,30203.0,695.3,979.7
+2018,Michigan,26,"Kalamazoo County, MI",26077,White,Hispanic or Latino,32.0,10672.0,299.9,678.0
+2018,Michigan,26,"Kalamazoo County, MI",26077,White,Not Hispanic or Latino,1988.0,204597.0,971.7,747.7
+2018,Michigan,26,"Kalamazoo County, MI",26077,More than one race,Not Hispanic or Latino,20.0,8373.0,238.9,794.7
+2018,Michigan,26,"Kalkaska County, MI",26079,White,Not Hispanic or Latino,208.0,16676.0,1247.3,963.3
+2018,Michigan,26,"Kent County, MI",26081,American Indian or Alaska Native,Not Hispanic or Latino,18.0,2209.0,Unreliable,Unreliable
+2018,Michigan,26,"Kent County, MI",26081,Asian,Not Hispanic or Latino,33.0,21473.0,153.7,240.7
+2018,Michigan,26,"Kent County, MI",26081,Black or African American,Not Hispanic or Latino,461.0,63126.0,730.3,999.0
+2018,Michigan,26,"Kent County, MI",26081,White,Hispanic or Latino,142.0,57450.0,247.2,548.6
+2018,Michigan,26,"Kent County, MI",26081,White,Not Hispanic or Latino,4248.0,480394.0,884.3,691.3
+2018,Michigan,26,"Kent County, MI",26081,More than one race,Not Hispanic or Latino,27.0,16283.0,165.8,589.3
+2018,Michigan,26,"Keweenaw County, MI",26083,White,Not Hispanic or Latino,28.0,2047.0,1367.9,603.0
+2018,Michigan,26,"Lake County, MI",26085,Black or African American,Not Hispanic or Latino,17.0,994.0,Unreliable,Unreliable
+2018,Michigan,26,"Lake County, MI",26085,White,Not Hispanic or Latino,171.0,10139.0,1686.6,976.0
+2018,Michigan,26,"Lapeer County, MI",26087,White,Hispanic or Latino,10.0,3788.0,Unreliable,Unreliable
+2018,Michigan,26,"Lapeer County, MI",26087,White,Not Hispanic or Latino,878.0,80815.0,1086.4,813.4
+2018,Michigan,26,"Leelanau County, MI",26089,White,Not Hispanic or Latino,263.0,19556.0,1344.9,565.1
+2018,Michigan,26,"Lenawee County, MI",26091,White,Hispanic or Latino,60.0,7072.0,848.4,1111.7
+2018,Michigan,26,"Lenawee County, MI",26091,White,Not Hispanic or Latino,985.0,85030.0,1158.4,800.9
+2018,Michigan,26,"Livingston County, MI",26093,Black or African American,Not Hispanic or Latino,12.0,1137.0,Unreliable,Unreliable
+2018,Michigan,26,"Livingston County, MI",26093,White,Hispanic or Latino,16.0,4186.0,Unreliable,Unreliable
+2018,Michigan,26,"Livingston County, MI",26093,White,Not Hispanic or Latino,1489.0,180153.0,826.5,664.1
+2018,Michigan,26,"Luce County, MI",26095,White,Not Hispanic or Latino,77.0,4902.0,1570.8,882.5
+2018,Michigan,26,"Mackinac County, MI",26097,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1751.0,1199.3,1080.8
+2018,Michigan,26,"Mackinac County, MI",26097,White,Not Hispanic or Latino,131.0,7873.0,1663.9,852.8
+2018,Michigan,26,"Macomb County, MI",26099,American Indian or Alaska Native,Not Hispanic or Latino,11.0,2371.0,Unreliable,Unreliable
+2018,Michigan,26,"Macomb County, MI",26099,Asian,Not Hispanic or Latino,109.0,35946.0,303.2,394.0
+2018,Michigan,26,"Macomb County, MI",26099,Black or African American,Not Hispanic or Latino,743.0,105475.0,704.4,1075.4
+2018,Michigan,26,"Macomb County, MI",26099,White,Hispanic or Latino,81.0,19513.0,415.1,602.5
+2018,Michigan,26,"Macomb County, MI",26099,White,Not Hispanic or Latino,7820.0,687407.0,1137.6,773.0
+2018,Michigan,26,"Macomb County, MI",26099,White,Not Stated,42.0,Not Applicable,Not Applicable,Not Applicable
+2018,Michigan,26,"Macomb County, MI",26099,More than one race,Not Hispanic or Latino,33.0,19874.0,166.0,363.6
+2018,Michigan,26,"Manistee County, MI",26101,White,Not Hispanic or Latino,310.0,21804.0,1421.8,756.9
+2018,Michigan,26,"Marquette County, MI",26103,White,Not Hispanic or Latino,691.0,61253.0,1128.1,777.0
+2018,Michigan,26,"Mason County, MI",26105,White,Not Hispanic or Latino,353.0,26552.0,1329.5,815.1
+2018,Michigan,26,"Mecosta County, MI",26107,White,Not Hispanic or Latino,381.0,39679.0,960.2,732.2
+2018,Michigan,26,"Mecosta County, MI",26107,More than one race,Not Hispanic or Latino,11.0,957.0,Unreliable,Unreliable
+2018,Michigan,26,"Menominee County, MI",26109,White,Not Hispanic or Latino,289.0,21280.0,1358.1,712.2
+2018,Michigan,26,"Midland County, MI",26111,White,Not Hispanic or Latino,746.0,76100.0,980.3,658.4
+2018,Michigan,26,"Missaukee County, MI",26113,White,Not Hispanic or Latino,166.0,14120.0,1175.6,779.1
+2018,Michigan,26,"Monroe County, MI",26115,Black or African American,Not Hispanic or Latino,35.0,3743.0,935.1,937.6
+2018,Michigan,26,"Monroe County, MI",26115,White,Hispanic or Latino,25.0,4816.0,519.1,1063.7
+2018,Michigan,26,"Monroe County, MI",26115,White,Not Hispanic or Latino,1477.0,137126.0,1077.1,781.4
+2018,Michigan,26,"Monroe County, MI",26115,More than one race,Not Hispanic or Latino,11.0,2574.0,Unreliable,Unreliable
+2018,Michigan,26,"Montcalm County, MI",26117,White,Not Hispanic or Latino,637.0,58612.0,1086.8,828.1
+2018,Michigan,26,"Montmorency County, MI",26119,White,Not Hispanic or Latino,174.0,8866.0,1962.6,941.0
+2018,Michigan,26,"Muskegon County, MI",26121,Black or African American,Not Hispanic or Latino,246.0,24012.0,1024.5,1163.5
+2018,Michigan,26,"Muskegon County, MI",26121,White,Hispanic or Latino,45.0,8329.0,540.3,949.0
+2018,Michigan,26,"Muskegon County, MI",26121,White,Not Hispanic or Latino,1507.0,132457.0,1137.7,815.5
+2018,Michigan,26,"Muskegon County, MI",26121,More than one race,Not Hispanic or Latino,23.0,4579.0,502.3,1437.6
+2018,Michigan,26,"Newaygo County, MI",26123,White,Hispanic or Latino,12.0,2556.0,Unreliable,Unreliable
+2018,Michigan,26,"Newaygo County, MI",26123,White,Not Hispanic or Latino,480.0,44258.0,1084.5,764.0
+2018,Michigan,26,"Oakland County, MI",26125,American Indian or Alaska Native,Not Hispanic or Latino,16.0,3003.0,Unreliable,Unreliable
+2018,Michigan,26,"Oakland County, MI",26125,Asian,Not Hispanic or Latino,181.0,100819.0,179.5,274.4
+2018,Michigan,26,"Oakland County, MI",26125,Black or African American,Not Hispanic or Latino,1605.0,173435.0,925.4,813.2
+2018,Michigan,26,"Oakland County, MI",26125,White,Hispanic or Latino,157.0,45577.0,344.5,587.0
+2018,Michigan,26,"Oakland County, MI",26125,White,Not Hispanic or Latino,8664.0,902927.0,959.5,670.0
+2018,Michigan,26,"Oakland County, MI",26125,White,Not Stated,23.0,Not Applicable,Not Applicable,Not Applicable
+2018,Michigan,26,"Oakland County, MI",26125,More than one race,Not Hispanic or Latino,51.0,25777.0,197.9,393.6
+2018,Michigan,26,"Oceana County, MI",26127,White,Not Hispanic or Latino,241.0,21639.0,1113.7,711.0
+2018,Michigan,26,"Ogemaw County, MI",26129,White,Not Hispanic or Latino,353.0,19784.0,1784.3,1029.8
+2018,Michigan,26,"Ontonagon County, MI",26131,White,Not Hispanic or Latino,96.0,5484.0,1750.5,869.3
+2018,Michigan,26,"Osceola County, MI",26133,White,Not Hispanic or Latino,243.0,22005.0,1104.3,759.7
+2018,Michigan,26,"Oscoda County, MI",26135,White,Not Hispanic or Latino,123.0,7879.0,1561.1,906.8
+2018,Michigan,26,"Otsego County, MI",26137,White,Not Hispanic or Latino,275.0,23252.0,1182.7,826.3
+2018,Michigan,26,"Ottawa County, MI",26139,Asian,Not Hispanic or Latino,22.0,8379.0,262.6,362.4
+2018,Michigan,26,"Ottawa County, MI",26139,Black or African American,Not Hispanic or Latino,19.0,4531.0,Unreliable,Unreliable
+2018,Michigan,26,"Ottawa County, MI",26139,White,Hispanic or Latino,57.0,25902.0,220.1,450.5
+2018,Michigan,26,"Ottawa County, MI",26139,White,Not Hispanic or Latino,1939.0,242805.0,798.6,624.8
+2018,Michigan,26,"Presque Isle County, MI",26141,White,Not Hispanic or Latino,200.0,12168.0,1643.7,763.3
+2018,Michigan,26,"Roscommon County, MI",26143,White,Not Hispanic or Latino,373.0,22577.0,1652.1,854.3
+2018,Michigan,26,"Saginaw County, MI",26145,Black or African American,Not Hispanic or Latino,374.0,35303.0,1059.4,1037.9
+2018,Michigan,26,"Saginaw County, MI",26145,White,Hispanic or Latino,91.0,13371.0,680.6,742.0
+2018,Michigan,26,"Saginaw County, MI",26145,White,Not Hispanic or Latino,1776.0,132032.0,1345.1,816.4
+2018,Michigan,26,"Saginaw County, MI",26145,More than one race,Not Hispanic or Latino,12.0,3709.0,Unreliable,Unreliable
+2018,Michigan,26,"St. Clair County, MI",26147,Black or African American,Not Hispanic or Latino,37.0,3838.0,964.0,915.5
+2018,Michigan,26,"St. Clair County, MI",26147,White,Hispanic or Latino,16.0,4656.0,Unreliable,Unreliable
+2018,Michigan,26,"St. Clair County, MI",26147,White,Not Hispanic or Latino,1715.0,145061.0,1182.3,836.9
+2018,Michigan,26,"St. Joseph County, MI",26149,Black or African American,Not Hispanic or Latino,17.0,1476.0,Unreliable,Unreliable
+2018,Michigan,26,"St. Joseph County, MI",26149,White,Not Hispanic or Latino,643.0,52644.0,1221.4,867.2
+2018,Michigan,26,"Sanilac County, MI",26151,White,Not Hispanic or Latino,486.0,38692.0,1256.1,814.1
+2018,Michigan,26,"Schoolcraft County, MI",26153,White,Not Hispanic or Latino,111.0,6899.0,1608.9,820.4
+2018,Michigan,26,"Shiawassee County, MI",26155,White,Not Hispanic or Latino,763.0,64082.0,1190.7,889.7
+2018,Michigan,26,"Tuscola County, MI",26157,White,Not Hispanic or Latino,634.0,48975.0,1294.5,880.5
+2018,Michigan,26,"Van Buren County, MI",26159,Black or African American,Not Hispanic or Latino,45.0,2785.0,1615.8,1190.2
+2018,Michigan,26,"Van Buren County, MI",26159,White,Hispanic or Latino,20.0,7915.0,252.7,603.8
+2018,Michigan,26,"Van Buren County, MI",26159,White,Not Hispanic or Latino,686.0,61080.0,1123.1,782.3
+2018,Michigan,26,"Van Buren County, MI",26159,More than one race,Not Hispanic or Latino,16.0,1709.0,Unreliable,Unreliable
+2018,Michigan,26,"Washtenaw County, MI",26161,Asian,Not Hispanic or Latino,53.0,35546.0,149.1,260.1
+2018,Michigan,26,"Washtenaw County, MI",26161,Black or African American,Not Hispanic or Latino,329.0,44530.0,738.8,882.0
+2018,Michigan,26,"Washtenaw County, MI",26161,White,Hispanic or Latino,29.0,14855.0,195.2,431.0
+2018,Michigan,26,"Washtenaw County, MI",26161,White,Not Hispanic or Latino,1944.0,259857.0,748.1,625.9
+2018,Michigan,26,"Washtenaw County, MI",26161,More than one race,Not Hispanic or Latino,27.0,11899.0,226.9,676.5
+2018,Michigan,26,"Wayne County, MI",26163,American Indian or Alaska Native,Not Hispanic or Latino,45.0,5856.0,768.4,776.3
+2018,Michigan,26,"Wayne County, MI",26163,Asian,Not Hispanic or Latino,154.0,61227.0,251.5,313.7
+2018,Michigan,26,"Wayne County, MI",26163,Black or African American,Hispanic or Latino,24.0,8492.0,282.6,1158.4
+2018,Michigan,26,"Wayne County, MI",26163,Black or African American,Not Hispanic or Latino,7629.0,671783.0,1135.6,1048.6
+2018,Michigan,26,"Wayne County, MI",26163,Black or African American,Not Stated,73.0,Not Applicable,Not Applicable,Not Applicable
+2018,Michigan,26,"Wayne County, MI",26163,White,Hispanic or Latino,369.0,90503.0,407.7,646.1
+2018,Michigan,26,"Wayne County, MI",26163,White,Not Hispanic or Latino,9883.0,867716.0,1139.0,820.9
+2018,Michigan,26,"Wayne County, MI",26163,White,Not Stated,76.0,Not Applicable,Not Applicable,Not Applicable
+2018,Michigan,26,"Wayne County, MI",26163,More than one race,Not Hispanic or Latino,105.0,40721.0,257.9,496.9
+2018,Michigan,26,"Wexford County, MI",26165,White,Not Hispanic or Latino,361.0,31618.0,1141.8,814.4
+2019,Michigan,26,"Alcona County, MI",26001,White,Not Hispanic or Latino,189.0,9920.0,1905.2,852.1
+2019,Michigan,26,"Alger County, MI",26003,White,Not Hispanic or Latino,103.0,7600.0,1355.3,708.9
+2019,Michigan,26,"Allegan County, MI",26005,White,Hispanic or Latino,29.0,7953.0,364.6,602.6
+2019,Michigan,26,"Allegan County, MI",26005,White,Not Hispanic or Latino,1029.0,104074.0,988.7,771.7
+2019,Michigan,26,"Alpena County, MI",26007,White,Not Hispanic or Latino,368.0,27117.0,1357.1,769.5
+2019,Michigan,26,"Antrim County, MI",26009,White,Not Hispanic or Latino,261.0,22017.0,1185.4,632.3
+2019,Michigan,26,"Arenac County, MI",26011,White,Not Hispanic or Latino,198.0,14032.0,1411.1,796.2
+2019,Michigan,26,"Baraga County, MI",26013,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1110.0,Unreliable,Unreliable
+2019,Michigan,26,"Baraga County, MI",26013,White,Not Hispanic or Latino,104.0,5910.0,1759.7,889.6
+2019,Michigan,26,"Barry County, MI",26015,White,Hispanic or Latino,11.0,1697.0,Unreliable,Unreliable
+2019,Michigan,26,"Barry County, MI",26015,White,Not Hispanic or Latino,546.0,57731.0,945.8,710.6
+2019,Michigan,26,"Bay County, MI",26017,Black or African American,Not Hispanic or Latino,17.0,1669.0,Unreliable,Unreliable
+2019,Michigan,26,"Bay County, MI",26017,White,Hispanic or Latino,34.0,4906.0,693.0,976.8
+2019,Michigan,26,"Bay County, MI",26017,White,Not Hispanic or Latino,1303.0,92621.0,1406.8,884.6
+2019,Michigan,26,"Benzie County, MI",26019,White,Not Hispanic or Latino,219.0,16641.0,1316.0,733.1
+2019,Michigan,26,"Berrien County, MI",26021,Black or African American,Not Hispanic or Latino,201.0,22204.0,905.2,936.0
+2019,Michigan,26,"Berrien County, MI",26021,White,Hispanic or Latino,16.0,7562.0,Unreliable,Unreliable
+2019,Michigan,26,"Berrien County, MI",26021,White,Not Hispanic or Latino,1453.0,114674.0,1267.1,743.2
+2019,Michigan,26,"Berrien County, MI",26021,More than one race,Not Hispanic or Latino,10.0,3626.0,Unreliable,Unreliable
+2019,Michigan,26,"Branch County, MI",26023,White,Not Hispanic or Latino,483.0,39170.0,1233.1,882.8
+2019,Michigan,26,"Calhoun County, MI",26025,Black or African American,Not Hispanic or Latino,148.0,14450.0,1024.2,947.2
+2019,Michigan,26,"Calhoun County, MI",26025,White,Hispanic or Latino,29.0,5815.0,498.7,900.9
+2019,Michigan,26,"Calhoun County, MI",26025,White,Not Hispanic or Latino,1386.0,103409.0,1340.3,906.7
+2019,Michigan,26,"Cass County, MI",26027,Black or African American,Not Hispanic or Latino,22.0,2598.0,846.8,625.0
+2019,Michigan,26,"Cass County, MI",26027,White,Not Hispanic or Latino,482.0,44683.0,1078.7,748.6
+2019,Michigan,26,"Charlevoix County, MI",26029,White,Not Hispanic or Latino,302.0,24445.0,1235.4,717.4
+2019,Michigan,26,"Cheboygan County, MI",26031,White,Not Hispanic or Latino,344.0,23198.0,1482.9,822.4
+2019,Michigan,26,"Chippewa County, MI",26033,American Indian or Alaska Native,Not Hispanic or Latino,51.0,5902.0,864.1,1046.2
+2019,Michigan,26,"Chippewa County, MI",26033,White,Not Hispanic or Latino,313.0,25859.0,1210.4,719.2
+2019,Michigan,26,"Chippewa County, MI",26033,More than one race,Not Hispanic or Latino,12.0,1935.0,Unreliable,Unreliable
+2019,Michigan,26,"Clare County, MI",26035,White,Not Hispanic or Latino,490.0,29284.0,1673.3,1060.9
+2019,Michigan,26,"Clinton County, MI",26037,White,Not Hispanic or Latino,620.0,71277.0,869.8,649.5
+2019,Michigan,26,"Crawford County, MI",26039,White,Not Hispanic or Latino,213.0,13196.0,1614.1,916.0
+2019,Michigan,26,"Delta County, MI",26041,White,Not Hispanic or Latino,454.0,33089.0,1372.1,756.6
+2019,Michigan,26,"Dickinson County, MI",26043,White,Not Hispanic or Latino,316.0,23944.0,1319.7,720.3
+2019,Michigan,26,"Eaton County, MI",26045,Black or African American,Not Hispanic or Latino,50.0,7505.0,666.2,811.6
+2019,Michigan,26,"Eaton County, MI",26045,White,Hispanic or Latino,19.0,5264.0,Unreliable,Unreliable
+2019,Michigan,26,"Eaton County, MI",26045,White,Not Hispanic or Latino,1001.0,90805.0,1102.4,756.2
+2019,Michigan,26,"Emmet County, MI",26047,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1178.0,Unreliable,Unreliable
+2019,Michigan,26,"Emmet County, MI",26047,White,Not Hispanic or Latino,371.0,30435.0,1219.0,735.6
+2019,Michigan,26,"Genesee County, MI",26049,Asian,Not Hispanic or Latino,17.0,4058.0,Unreliable,Unreliable
+2019,Michigan,26,"Genesee County, MI",26049,Black or African American,Not Hispanic or Latino,886.0,81205.0,1091.1,1045.3
+2019,Michigan,26,"Genesee County, MI",26049,White,Hispanic or Latino,60.0,11862.0,505.8,734.8
+2019,Michigan,26,"Genesee County, MI",26049,White,Not Hispanic or Latino,3701.0,293713.0,1260.1,865.0
+2019,Michigan,26,"Genesee County, MI",26049,More than one race,Not Hispanic or Latino,29.0,10401.0,278.8,644.9
+2019,Michigan,26,"Gladwin County, MI",26051,White,Not Hispanic or Latino,365.0,24259.0,1504.6,881.4
+2019,Michigan,26,"Gogebic County, MI",26053,White,Not Hispanic or Latino,215.0,12886.0,1668.5,817.1
+2019,Michigan,26,"Grand Traverse County, MI",26055,White,Not Hispanic or Latino,886.0,86259.0,1027.1,668.7
+2019,Michigan,26,"Gratiot County, MI",26057,White,Hispanic or Latino,11.0,2274.0,Unreliable,Unreliable
+2019,Michigan,26,"Gratiot County, MI",26057,White,Not Hispanic or Latino,477.0,34820.0,1369.9,881.3
+2019,Michigan,26,"Hillsdale County, MI",26059,White,Not Hispanic or Latino,531.0,43093.0,1232.2,854.4
+2019,Michigan,26,"Houghton County, MI",26061,White,Not Hispanic or Latino,371.0,32867.0,1128.8,839.0
+2019,Michigan,26,"Huron County, MI",26063,White,Not Hispanic or Latino,408.0,29399.0,1387.8,749.2
+2019,Michigan,26,"Ingham County, MI",26065,Asian,Not Hispanic or Latino,30.0,20309.0,147.7,348.1
+2019,Michigan,26,"Ingham County, MI",26065,Black or African American,Not Hispanic or Latino,284.0,34287.0,828.3,1024.1
+2019,Michigan,26,"Ingham County, MI",26065,White,Hispanic or Latino,102.0,18816.0,542.1,816.9
+2019,Michigan,26,"Ingham County, MI",26065,White,Not Hispanic or Latino,1838.0,202255.0,908.8,759.0
+2019,Michigan,26,"Ingham County, MI",26065,More than one race,Not Hispanic or Latino,26.0,10808.0,240.6,737.8
+2019,Michigan,26,"Ionia County, MI",26067,White,Not Hispanic or Latino,537.0,57034.0,941.5,802.3
+2019,Michigan,26,"Iosco County, MI",26069,White,Not Hispanic or Latino,406.0,23410.0,1734.3,927.7
+2019,Michigan,26,"Iron County, MI",26071,White,Not Hispanic or Latino,204.0,10395.0,1962.5,920.5
+2019,Michigan,26,"Isabella County, MI",26073,American Indian or Alaska Native,Not Hispanic or Latino,23.0,2430.0,946.5,2611.2
+2019,Michigan,26,"Isabella County, MI",26073,White,Not Hispanic or Latino,451.0,59522.0,757.7,717.6
+2019,Michigan,26,"Jackson County, MI",26075,Black or African American,Not Hispanic or Latino,92.0,12552.0,733.0,1001.4
+2019,Michigan,26,"Jackson County, MI",26075,White,Hispanic or Latino,21.0,4829.0,434.9,578.6
+2019,Michigan,26,"Jackson County, MI",26075,White,Not Hispanic or Latino,1599.0,134032.0,1193.0,827.2
+2019,Michigan,26,"Jackson County, MI",26075,More than one race,Not Hispanic or Latino,16.0,4151.0,Unreliable,Unreliable
+2019,Michigan,26,"Kalamazoo County, MI",26077,Asian,Not Hispanic or Latino,18.0,7328.0,Unreliable,Unreliable
+2019,Michigan,26,"Kalamazoo County, MI",26077,Black or African American,Not Hispanic or Latino,229.0,30160.0,759.3,972.2
+2019,Michigan,26,"Kalamazoo County, MI",26077,White,Hispanic or Latino,30.0,11110.0,270.0,572.1
+2019,Michigan,26,"Kalamazoo County, MI",26077,White,Not Hispanic or Latino,1902.0,204086.0,932.0,701.2
+2019,Michigan,26,"Kalamazoo County, MI",26077,More than one race,Not Hispanic or Latino,10.0,8560.0,Unreliable,Unreliable
+2019,Michigan,26,"Kalkaska County, MI",26079,White,Not Hispanic or Latino,226.0,16904.0,1337.0,1023.4
+2019,Michigan,26,"Kent County, MI",26081,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2225.0,943.8,1667.9
+2019,Michigan,26,"Kent County, MI",26081,Asian,Not Hispanic or Latino,34.0,21512.0,158.1,253.7
+2019,Michigan,26,"Kent County, MI",26081,Black or African American,Not Hispanic or Latino,450.0,63842.0,704.9,947.0
+2019,Michigan,26,"Kent County, MI",26081,White,Hispanic or Latino,149.0,58768.0,253.5,518.5
+2019,Michigan,26,"Kent County, MI",26081,White,Not Hispanic or Latino,4269.0,481382.0,886.8,682.8
+2019,Michigan,26,"Kent County, MI",26081,More than one race,Not Hispanic or Latino,39.0,16534.0,235.9,849.0
+2019,Michigan,26,"Keweenaw County, MI",26083,White,Not Hispanic or Latino,24.0,2034.0,1179.9,723.7
+2019,Michigan,26,"Lake County, MI",26085,Black or African American,Not Hispanic or Latino,15.0,915.0,Unreliable,Unreliable
+2019,Michigan,26,"Lake County, MI",26085,White,Not Hispanic or Latino,133.0,10196.0,1304.4,705.6
+2019,Michigan,26,"Lapeer County, MI",26087,White,Hispanic or Latino,16.0,3813.0,Unreliable,Unreliable
+2019,Michigan,26,"Lapeer County, MI",26087,White,Not Hispanic or Latino,925.0,80377.0,1150.8,855.2
+2019,Michigan,26,"Lapeer County, MI",26087,More than one race,Not Hispanic or Latino,14.0,1170.0,Unreliable,Unreliable
+2019,Michigan,26,"Leelanau County, MI",26089,White,Not Hispanic or Latino,223.0,19562.0,1140.0,507.1
+2019,Michigan,26,"Lenawee County, MI",26091,Black or African American,Not Hispanic or Latino,12.0,2505.0,Unreliable,Unreliable
+2019,Michigan,26,"Lenawee County, MI",26091,White,Hispanic or Latino,42.0,7119.0,590.0,729.7
+2019,Michigan,26,"Lenawee County, MI",26091,White,Not Hispanic or Latino,1031.0,85146.0,1210.9,830.6
+2019,Michigan,26,"Livingston County, MI",26093,White,Hispanic or Latino,10.0,4280.0,Unreliable,Unreliable
+2019,Michigan,26,"Livingston County, MI",26093,White,Not Hispanic or Latino,1466.0,180756.0,811.0,644.1
+2019,Michigan,26,"Luce County, MI",26095,White,Not Hispanic or Latino,77.0,4809.0,1601.2,935.6
+2019,Michigan,26,"Mackinac County, MI",26097,American Indian or Alaska Native,Not Hispanic or Latino,26.0,1736.0,1497.7,1643.6
+2019,Michigan,26,"Mackinac County, MI",26097,White,Not Hispanic or Latino,141.0,7842.0,1798.0,795.3
+2019,Michigan,26,"Macomb County, MI",26099,American Indian or Alaska Native,Not Hispanic or Latino,12.0,2370.0,Unreliable,Unreliable
+2019,Michigan,26,"Macomb County, MI",26099,Asian,Not Hispanic or Latino,114.0,36857.0,309.3,388.1
+2019,Michigan,26,"Macomb County, MI",26099,Black or African American,Not Hispanic or Latino,784.0,108482.0,722.7,1079.9
+2019,Michigan,26,"Macomb County, MI",26099,White,Hispanic or Latino,64.0,20072.0,318.9,458.1
+2019,Michigan,26,"Macomb County, MI",26099,White,Not Hispanic or Latino,7882.0,681480.0,1156.6,773.5
+2019,Michigan,26,"Macomb County, MI",26099,White,Not Stated,39.0,Not Applicable,Not Applicable,Not Applicable
+2019,Michigan,26,"Macomb County, MI",26099,More than one race,Not Hispanic or Latino,42.0,20464.0,205.2,457.0
+2019,Michigan,26,"Manistee County, MI",26101,White,Not Hispanic or Latino,303.0,21756.0,1392.7,754.1
+2019,Michigan,26,"Marquette County, MI",26103,White,Not Hispanic or Latino,684.0,61315.0,1115.6,778.3
+2019,Michigan,26,"Mason County, MI",26105,White,Not Hispanic or Latino,345.0,26623.0,1295.9,749.4
+2019,Michigan,26,"Mecosta County, MI",26107,White,Not Hispanic or Latino,396.0,39566.0,1000.9,770.4
+2019,Michigan,26,"Menominee County, MI",26109,White,Not Hispanic or Latino,293.0,21065.0,1390.9,741.5
+2019,Michigan,26,"Midland County, MI",26111,White,Not Hispanic or Latino,736.0,75853.0,970.3,654.6
+2019,Michigan,26,"Missaukee County, MI",26113,White,Not Hispanic or Latino,169.0,14175.0,1192.2,784.7
+2019,Michigan,26,"Monroe County, MI",26115,Black or African American,Not Hispanic or Latino,28.0,3768.0,743.1,915.7
+2019,Michigan,26,"Monroe County, MI",26115,White,Hispanic or Latino,20.0,4948.0,404.2,893.1
+2019,Michigan,26,"Monroe County, MI",26115,White,Not Hispanic or Latino,1496.0,136994.0,1092.0,774.3
+2019,Michigan,26,"Monroe County, MI",26115,More than one race,Not Hispanic or Latino,10.0,2644.0,Unreliable,Unreliable
+2019,Michigan,26,"Montcalm County, MI",26117,White,Not Hispanic or Latino,682.0,58517.0,1165.5,863.2
+2019,Michigan,26,"Montmorency County, MI",26119,White,Not Hispanic or Latino,160.0,8900.0,1797.8,830.6
+2019,Michigan,26,"Muskegon County, MI",26121,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1352.0,Unreliable,Unreliable
+2019,Michigan,26,"Muskegon County, MI",26121,Black or African American,Not Hispanic or Latino,223.0,23704.0,940.8,1026.9
+2019,Michigan,26,"Muskegon County, MI",26121,White,Hispanic or Latino,40.0,8319.0,480.8,877.9
+2019,Michigan,26,"Muskegon County, MI",26121,White,Not Hispanic or Latino,1476.0,132573.0,1113.3,785.7
+2019,Michigan,26,"Muskegon County, MI",26121,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2019,Michigan,26,"Muskegon County, MI",26121,More than one race,Not Hispanic or Latino,22.0,4702.0,467.9,1060.3
+2019,Michigan,26,"Newaygo County, MI",26123,White,Hispanic or Latino,11.0,2615.0,Unreliable,Unreliable
+2019,Michigan,26,"Newaygo County, MI",26123,White,Not Hispanic or Latino,500.0,44201.0,1131.2,809.2
+2019,Michigan,26,"Oakland County, MI",26125,American Indian or Alaska Native,Not Hispanic or Latino,14.0,3001.0,Unreliable,Unreliable
+2019,Michigan,26,"Oakland County, MI",26125,Asian,Not Hispanic or Latino,205.0,101972.0,201.0,294.8
+2019,Michigan,26,"Oakland County, MI",26125,Black or African American,Not Hispanic or Latino,1633.0,172086.0,948.9,805.2
+2019,Michigan,26,"Oakland County, MI",26125,White,Hispanic or Latino,122.0,47041.0,259.3,451.1
+2019,Michigan,26,"Oakland County, MI",26125,White,Not Hispanic or Latino,8772.0,899565.0,975.1,668.8
+2019,Michigan,26,"Oakland County, MI",26125,White,Not Stated,17.0,Not Applicable,Not Applicable,Not Applicable
+2019,Michigan,26,"Oakland County, MI",26125,More than one race,Not Hispanic or Latino,34.0,26102.0,130.3,242.9
+2019,Michigan,26,"Oceana County, MI",26127,White,Hispanic or Latino,13.0,3640.0,Unreliable,Unreliable
+2019,Michigan,26,"Oceana County, MI",26127,White,Not Hispanic or Latino,244.0,21514.0,1134.1,729.0
+2019,Michigan,26,"Ogemaw County, MI",26129,White,Not Hispanic or Latino,318.0,19808.0,1605.4,896.6
+2019,Michigan,26,"Ontonagon County, MI",26131,White,Not Hispanic or Latino,89.0,5412.0,1644.5,678.2
+2019,Michigan,26,"Osceola County, MI",26133,White,Not Hispanic or Latino,261.0,22100.0,1181.0,802.7
+2019,Michigan,26,"Oscoda County, MI",26135,White,Not Hispanic or Latino,114.0,7840.0,1454.1,764.4
+2019,Michigan,26,"Otsego County, MI",26137,White,Not Hispanic or Latino,274.0,23245.0,1178.7,771.0
+2019,Michigan,26,"Ottawa County, MI",26139,Asian,Not Hispanic or Latino,21.0,8253.0,254.5,451.1
+2019,Michigan,26,"Ottawa County, MI",26139,Black or African American,Not Hispanic or Latino,17.0,4573.0,Unreliable,Unreliable
+2019,Michigan,26,"Ottawa County, MI",26139,White,Hispanic or Latino,78.0,26625.0,293.0,632.8
+2019,Michigan,26,"Ottawa County, MI",26139,White,Not Hispanic or Latino,1982.0,243469.0,814.1,616.8
+2019,Michigan,26,"Presque Isle County, MI",26141,White,Not Hispanic or Latino,184.0,12009.0,1532.2,747.0
+2019,Michigan,26,"Roscommon County, MI",26143,White,Not Hispanic or Latino,384.0,22674.0,1693.6,840.6
+2019,Michigan,26,"Saginaw County, MI",26145,Black or African American,Not Hispanic or Latino,384.0,35156.0,1092.3,1035.7
+2019,Michigan,26,"Saginaw County, MI",26145,White,Hispanic or Latino,98.0,13579.0,721.7,802.4
+2019,Michigan,26,"Saginaw County, MI",26145,White,Not Hispanic or Latino,1615.0,131726.0,1226.0,731.3
+2019,Michigan,26,"Saginaw County, MI",26145,More than one race,Not Hispanic or Latino,11.0,3806.0,Unreliable,Unreliable
+2019,Michigan,26,"St. Clair County, MI",26147,Black or African American,Not Hispanic or Latino,46.0,3861.0,1191.4,1211.0
+2019,Michigan,26,"St. Clair County, MI",26147,White,Hispanic or Latino,18.0,4752.0,Unreliable,Unreliable
+2019,Michigan,26,"St. Clair County, MI",26147,White,Not Hispanic or Latino,1777.0,144813.0,1227.1,856.9
+2019,Michigan,26,"St. Clair County, MI",26147,More than one race,Not Hispanic or Latino,10.0,3223.0,Unreliable,Unreliable
+2019,Michigan,26,"St. Joseph County, MI",26149,Black or African American,Not Hispanic or Latino,19.0,1411.0,Unreliable,Unreliable
+2019,Michigan,26,"St. Joseph County, MI",26149,White,Not Hispanic or Latino,652.0,52463.0,1242.8,881.9
+2019,Michigan,26,"Sanilac County, MI",26151,White,Not Hispanic or Latino,496.0,38613.0,1284.5,827.9
+2019,Michigan,26,"Schoolcraft County, MI",26153,White,Not Hispanic or Latino,100.0,6908.0,1447.6,742.5
+2019,Michigan,26,"Shiawassee County, MI",26155,White,Hispanic or Latino,13.0,1784.0,Unreliable,Unreliable
+2019,Michigan,26,"Shiawassee County, MI",26155,White,Not Hispanic or Latino,765.0,63891.0,1197.4,854.6
+2019,Michigan,26,"Tuscola County, MI",26157,White,Not Hispanic or Latino,649.0,48627.0,1334.6,876.6
+2019,Michigan,26,"Van Buren County, MI",26159,Black or African American,Not Hispanic or Latino,40.0,2760.0,1449.3,1013.7
+2019,Michigan,26,"Van Buren County, MI",26159,White,Hispanic or Latino,21.0,7912.0,265.4,523.6
+2019,Michigan,26,"Van Buren County, MI",26159,White,Not Hispanic or Latino,681.0,61320.0,1110.6,780.5
+2019,Michigan,26,"Van Buren County, MI",26159,More than one race,Not Hispanic or Latino,15.0,1748.0,Unreliable,Unreliable
+2019,Michigan,26,"Washtenaw County, MI",26161,Asian,Not Hispanic or Latino,66.0,34203.0,193.0,296.8
+2019,Michigan,26,"Washtenaw County, MI",26161,Black or African American,Not Hispanic or Latino,297.0,44180.0,672.2,790.3
+2019,Michigan,26,"Washtenaw County, MI",26161,White,Hispanic or Latino,28.0,15006.0,186.6,382.7
+2019,Michigan,26,"Washtenaw County, MI",26161,White,Not Hispanic or Latino,2049.0,257895.0,794.5,645.7
+2019,Michigan,26,"Washtenaw County, MI",26161,More than one race,Not Hispanic or Latino,27.0,12102.0,223.1,683.7
+2019,Michigan,26,"Wayne County, MI",26163,American Indian or Alaska Native,Not Hispanic or Latino,42.0,5800.0,724.1,804.7
+2019,Michigan,26,"Wayne County, MI",26163,Asian,Not Hispanic or Latino,190.0,61364.0,309.6,364.2
+2019,Michigan,26,"Wayne County, MI",26163,Black or African American,Hispanic or Latino,33.0,8572.0,385.0,1220.6
+2019,Michigan,26,"Wayne County, MI",26163,Black or African American,Not Hispanic or Latino,7682.0,668934.0,1148.4,1043.0
+2019,Michigan,26,"Wayne County, MI",26163,Black or African American,Not Stated,64.0,Not Applicable,Not Applicable,Not Applicable
+2019,Michigan,26,"Wayne County, MI",26163,White,Hispanic or Latino,366.0,91452.0,400.2,627.4
+2019,Michigan,26,"Wayne County, MI",26163,White,Not Hispanic or Latino,9743.0,863929.0,1127.8,804.6
+2019,Michigan,26,"Wayne County, MI",26163,White,Not Stated,73.0,Not Applicable,Not Applicable,Not Applicable
+2019,Michigan,26,"Wayne County, MI",26163,More than one race,Not Hispanic or Latino,121.0,41676.0,290.3,510.8
+2019,Michigan,26,"Wexford County, MI",26165,White,Not Hispanic or Latino,346.0,31654.0,1093.1,778.5
+2020,Michigan,26,"Alcona County, MI",26001,White,Not Hispanic or Latino,196.0,10005.0,1959.0,897.2
+2020,Michigan,26,"Alger County, MI",26003,White,Not Hispanic or Latino,94.0,7517.0,1250.5,712.2
+2020,Michigan,26,"Allegan County, MI",26005,American Indian or Alaska Native,Not Hispanic or Latino,10.0,641.0,Unreliable,Unreliable
+2020,Michigan,26,"Allegan County, MI",26005,Black or African American,Not Hispanic or Latino,19.0,1566.0,Unreliable,Unreliable
+2020,Michigan,26,"Allegan County, MI",26005,White,Hispanic or Latino,46.0,8124.0,566.2,985.5
+2020,Michigan,26,"Allegan County, MI",26005,White,Not Hispanic or Latino,1176.0,104638.0,1123.9,880.8
+2020,Michigan,26,"Alpena County, MI",26007,White,Not Hispanic or Latino,403.0,26913.0,1497.4,837.7
+2020,Michigan,26,"Antrim County, MI",26009,White,Not Hispanic or Latino,305.0,22151.0,1376.9,747.0
+2020,Michigan,26,"Arenac County, MI",26011,White,Not Hispanic or Latino,243.0,14057.0,1728.7,1001.1
+2020,Michigan,26,"Baraga County, MI",26013,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1086.0,Unreliable,Unreliable
+2020,Michigan,26,"Baraga County, MI",26013,White,Not Hispanic or Latino,108.0,5889.0,1833.9,920.8
+2020,Michigan,26,"Barry County, MI",26015,White,Not Hispanic or Latino,625.0,58122.0,1075.3,797.6
+2020,Michigan,26,"Bay County, MI",26017,Black or African American,Not Hispanic or Latino,14.0,1763.0,Unreliable,Unreliable
+2020,Michigan,26,"Bay County, MI",26017,White,Hispanic or Latino,38.0,5034.0,754.9,1083.7
+2020,Michigan,26,"Bay County, MI",26017,White,Not Hispanic or Latino,1471.0,91711.0,1604.0,998.3
+2020,Michigan,26,"Benzie County, MI",26019,White,Not Hispanic or Latino,260.0,16707.0,1556.2,862.4
+2020,Michigan,26,"Berrien County, MI",26021,Black or African American,Not Hispanic or Latino,290.0,21862.0,1326.5,1356.5
+2020,Michigan,26,"Berrien County, MI",26021,White,Hispanic or Latino,17.0,7767.0,Unreliable,Unreliable
+2020,Michigan,26,"Berrien County, MI",26021,White,Not Hispanic or Latino,1577.0,114171.0,1381.3,814.4
+2020,Michigan,26,"Berrien County, MI",26021,More than one race,Not Hispanic or Latino,10.0,3842.0,Unreliable,Unreliable
+2020,Michigan,26,"Branch County, MI",26023,Black or African American,Not Hispanic or Latino,18.0,942.0,Unreliable,Unreliable
+2020,Michigan,26,"Branch County, MI",26023,White,Not Hispanic or Latino,518.0,38963.0,1329.5,942.5
+2020,Michigan,26,"Calhoun County, MI",26025,Black or African American,Not Hispanic or Latino,223.0,14255.0,1564.4,1457.9
+2020,Michigan,26,"Calhoun County, MI",26025,White,Hispanic or Latino,29.0,5941.0,488.1,802.7
+2020,Michigan,26,"Calhoun County, MI",26025,White,Not Hispanic or Latino,1633.0,102619.0,1591.3,1067.0
+2020,Michigan,26,"Calhoun County, MI",26025,White,Not Stated,16.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Cass County, MI",26027,Black or African American,Not Hispanic or Latino,46.0,2549.0,1804.6,1268.9
+2020,Michigan,26,"Cass County, MI",26027,White,Not Hispanic or Latino,600.0,44528.0,1347.5,894.8
+2020,Michigan,26,"Charlevoix County, MI",26029,White,Not Hispanic or Latino,279.0,24412.0,1142.9,693.0
+2020,Michigan,26,"Cheboygan County, MI",26031,White,Not Hispanic or Latino,382.0,23260.0,1642.3,868.4
+2020,Michigan,26,"Chippewa County, MI",26033,American Indian or Alaska Native,Not Hispanic or Latino,56.0,5981.0,936.3,1097.4
+2020,Michigan,26,"Chippewa County, MI",26033,White,Not Hispanic or Latino,297.0,25493.0,1165.0,699.9
+2020,Michigan,26,"Chippewa County, MI",26033,More than one race,Not Hispanic or Latino,16.0,1938.0,Unreliable,Unreliable
+2020,Michigan,26,"Clare County, MI",26035,White,Not Hispanic or Latino,498.0,29072.0,1713.0,1092.6
+2020,Michigan,26,"Clinton County, MI",26037,White,Hispanic or Latino,24.0,3321.0,722.7,1086.1
+2020,Michigan,26,"Clinton County, MI",26037,White,Not Hispanic or Latino,698.0,71293.0,979.1,721.9
+2020,Michigan,26,"Crawford County, MI",26039,White,Not Hispanic or Latino,179.0,13161.0,1360.1,754.6
+2020,Michigan,26,"Delta County, MI",26041,American Indian or Alaska Native,Not Hispanic or Latino,14.0,953.0,Unreliable,Unreliable
+2020,Michigan,26,"Delta County, MI",26041,White,Not Hispanic or Latino,574.0,32858.0,1746.9,962.9
+2020,Michigan,26,"Dickinson County, MI",26043,White,Not Hispanic or Latino,399.0,23789.0,1677.2,947.8
+2020,Michigan,26,"Eaton County, MI",26045,Black or African American,Not Hispanic or Latino,66.0,7515.0,878.2,987.4
+2020,Michigan,26,"Eaton County, MI",26045,White,Hispanic or Latino,31.0,5221.0,593.8,840.7
+2020,Michigan,26,"Eaton County, MI",26045,White,Not Hispanic or Latino,1126.0,90539.0,1243.7,841.6
+2020,Michigan,26,"Emmet County, MI",26047,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1179.0,Unreliable,Unreliable
+2020,Michigan,26,"Emmet County, MI",26047,White,Not Hispanic or Latino,412.0,30285.0,1360.4,805.9
+2020,Michigan,26,"Genesee County, MI",26049,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1838.0,Unreliable,Unreliable
+2020,Michigan,26,"Genesee County, MI",26049,Asian,Not Hispanic or Latino,22.0,4128.0,532.9,416.6
+2020,Michigan,26,"Genesee County, MI",26049,Black or African American,Not Hispanic or Latino,1228.0,81217.0,1512.0,1442.0
+2020,Michigan,26,"Genesee County, MI",26049,White,Hispanic or Latino,100.0,12204.0,819.4,1190.5
+2020,Michigan,26,"Genesee County, MI",26049,White,Not Hispanic or Latino,4130.0,291316.0,1417.7,966.0
+2020,Michigan,26,"Genesee County, MI",26049,More than one race,Not Hispanic or Latino,19.0,11094.0,Unreliable,Unreliable
+2020,Michigan,26,"Gladwin County, MI",26051,White,Not Hispanic or Latino,446.0,24221.0,1841.4,1068.2
+2020,Michigan,26,"Gogebic County, MI",26053,White,Not Hispanic or Latino,244.0,12730.0,1916.7,925.6
+2020,Michigan,26,"Grand Traverse County, MI",26055,White,Not Hispanic or Latino,1022.0,86592.0,1180.2,770.0
+2020,Michigan,26,"Gratiot County, MI",26057,White,Hispanic or Latino,17.0,2331.0,Unreliable,Unreliable
+2020,Michigan,26,"Gratiot County, MI",26057,White,Not Hispanic or Latino,534.0,34403.0,1552.2,1008.8
+2020,Michigan,26,"Hillsdale County, MI",26059,White,Not Hispanic or Latino,625.0,43049.0,1451.8,989.9
+2020,Michigan,26,"Houghton County, MI",26061,White,Not Hispanic or Latino,401.0,32462.0,1235.3,900.3
+2020,Michigan,26,"Huron County, MI",26063,White,Not Hispanic or Latino,492.0,29071.0,1692.4,891.5
+2020,Michigan,26,"Ingham County, MI",26065,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1233.0,Unreliable,Unreliable
+2020,Michigan,26,"Ingham County, MI",26065,Asian,Not Hispanic or Latino,53.0,19284.0,274.8,566.8
+2020,Michigan,26,"Ingham County, MI",26065,Black or African American,Not Hispanic or Latino,368.0,33871.0,1086.5,1358.6
+2020,Michigan,26,"Ingham County, MI",26065,White,Hispanic or Latino,114.0,18959.0,601.3,867.8
+2020,Michigan,26,"Ingham County, MI",26065,White,Not Hispanic or Latino,2087.0,200951.0,1038.6,851.3
+2020,Michigan,26,"Ingham County, MI",26065,More than one race,Not Hispanic or Latino,18.0,11351.0,Unreliable,Unreliable
+2020,Michigan,26,"Ionia County, MI",26067,White,Hispanic or Latino,14.0,2806.0,Unreliable,Unreliable
+2020,Michigan,26,"Ionia County, MI",26067,White,Not Hispanic or Latino,578.0,56761.0,1018.3,848.2
+2020,Michigan,26,"Iosco County, MI",26069,White,Not Hispanic or Latino,464.0,23429.0,1980.5,1015.7
+2020,Michigan,26,"Iron County, MI",26071,White,Not Hispanic or Latino,248.0,10377.0,2389.9,1152.9
+2020,Michigan,26,"Isabella County, MI",26073,American Indian or Alaska Native,Not Hispanic or Latino,39.0,2353.0,1657.5,2127.8
+2020,Michigan,26,"Isabella County, MI",26073,Black or African American,Not Hispanic or Latino,10.0,1771.0,Unreliable,Unreliable
+2020,Michigan,26,"Isabella County, MI",26073,White,Not Hispanic or Latino,558.0,59248.0,941.8,889.2
+2020,Michigan,26,"Jackson County, MI",26075,Black or African American,Not Hispanic or Latino,130.0,12113.0,1073.2,1385.4
+2020,Michigan,26,"Jackson County, MI",26075,White,Hispanic or Latino,27.0,4885.0,552.7,744.0
+2020,Michigan,26,"Jackson County, MI",26075,White,Not Hispanic or Latino,1819.0,132399.0,1373.9,935.8
+2020,Michigan,26,"Jackson County, MI",26075,More than one race,Not Hispanic or Latino,20.0,4544.0,440.1,968.2
+2020,Michigan,26,"Kalamazoo County, MI",26077,Black or African American,Not Hispanic or Latino,277.0,30283.0,914.7,1199.6
+2020,Michigan,26,"Kalamazoo County, MI",26077,White,Hispanic or Latino,43.0,11369.0,378.2,757.2
+2020,Michigan,26,"Kalamazoo County, MI",26077,White,Not Hispanic or Latino,2198.0,203975.0,1077.6,799.1
+2020,Michigan,26,"Kalamazoo County, MI",26077,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Kalamazoo County, MI",26077,More than one race,Not Hispanic or Latino,10.0,8882.0,Unreliable,Unreliable
+2020,Michigan,26,"Kalkaska County, MI",26079,White,Not Hispanic or Latino,242.0,16842.0,1436.9,1030.4
+2020,Michigan,26,"Kent County, MI",26081,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2135.0,Unreliable,Unreliable
+2020,Michigan,26,"Kent County, MI",26081,Asian,Not Hispanic or Latino,73.0,21844.0,334.2,490.9
+2020,Michigan,26,"Kent County, MI",26081,Black or African American,Not Hispanic or Latino,606.0,64481.0,939.8,1235.8
+2020,Michigan,26,"Kent County, MI",26081,White,Hispanic or Latino,212.0,59653.0,355.4,735.0
+2020,Michigan,26,"Kent County, MI",26081,White,Not Hispanic or Latino,4741.0,479847.0,988.0,758.7
+2020,Michigan,26,"Kent County, MI",26081,White,Not Stated,20.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Kent County, MI",26081,More than one race,Not Hispanic or Latino,20.0,17394.0,115.0,241.8
+2020,Michigan,26,"Keweenaw County, MI",26083,White,Not Hispanic or Latino,28.0,2039.0,1373.2,668.6
+2020,Michigan,26,"Lake County, MI",26085,Black or African American,Not Hispanic or Latino,13.0,832.0,Unreliable,Unreliable
+2020,Michigan,26,"Lake County, MI",26085,White,Not Hispanic or Latino,190.0,9969.0,1905.9,1057.0
+2020,Michigan,26,"Lapeer County, MI",26087,White,Hispanic or Latino,21.0,4055.0,517.9,956.3
+2020,Michigan,26,"Lapeer County, MI",26087,White,Not Hispanic or Latino,992.0,80132.0,1238.0,902.8
+2020,Michigan,26,"Leelanau County, MI",26089,American Indian or Alaska Native,Not Hispanic or Latino,12.0,589.0,Unreliable,Unreliable
+2020,Michigan,26,"Leelanau County, MI",26089,White,Not Hispanic or Latino,271.0,19613.0,1381.7,600.5
+2020,Michigan,26,"Lenawee County, MI",26091,Black or African American,Not Hispanic or Latino,17.0,2387.0,Unreliable,Unreliable
+2020,Michigan,26,"Lenawee County, MI",26091,White,Hispanic or Latino,55.0,7319.0,751.5,944.6
+2020,Michigan,26,"Lenawee County, MI",26091,White,Not Hispanic or Latino,1160.0,84337.0,1375.4,928.4
+2020,Michigan,26,"Livingston County, MI",26093,White,Hispanic or Latino,18.0,4459.0,Unreliable,Unreliable
+2020,Michigan,26,"Livingston County, MI",26093,White,Not Hispanic or Latino,1730.0,180850.0,956.6,727.7
+2020,Michigan,26,"Luce County, MI",26095,White,Not Hispanic or Latino,67.0,4748.0,1411.1,791.7
+2020,Michigan,26,"Mackinac County, MI",26097,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1725.0,Unreliable,Unreliable
+2020,Michigan,26,"Mackinac County, MI",26097,White,Not Hispanic or Latino,144.0,7859.0,1832.3,829.3
+2020,Michigan,26,"Macomb County, MI",26099,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2377.0,Unreliable,Unreliable
+2020,Michigan,26,"Macomb County, MI",26099,Asian,Not Hispanic or Latino,178.0,38244.0,465.4,564.7
+2020,Michigan,26,"Macomb County, MI",26099,Black or African American,Not Hispanic or Latino,1085.0,111386.0,974.1,1403.8
+2020,Michigan,26,"Macomb County, MI",26099,Black or African American,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Macomb County, MI",26099,White,Hispanic or Latino,80.0,20552.0,389.3,560.4
+2020,Michigan,26,"Macomb County, MI",26099,White,Not Hispanic or Latino,9403.0,672554.0,1398.1,919.9
+2020,Michigan,26,"Macomb County, MI",26099,White,Not Stated,60.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Macomb County, MI",26099,More than one race,Not Hispanic or Latino,33.0,21308.0,154.9,327.7
+2020,Michigan,26,"Manistee County, MI",26101,American Indian or Alaska Native,Not Hispanic or Latino,12.0,525.0,Unreliable,Unreliable
+2020,Michigan,26,"Manistee County, MI",26101,White,Not Hispanic or Latino,383.0,21892.0,1749.5,966.5
+2020,Michigan,26,"Marquette County, MI",26103,White,Not Hispanic or Latino,698.0,60653.0,1150.8,789.7
+2020,Michigan,26,"Mason County, MI",26105,White,Not Hispanic or Latino,390.0,26575.0,1467.5,867.4
+2020,Michigan,26,"Mecosta County, MI",26107,White,Not Hispanic or Latino,478.0,39983.0,1195.5,910.1
+2020,Michigan,26,"Menominee County, MI",26109,White,Not Hispanic or Latino,294.0,20906.0,1406.3,751.5
+2020,Michigan,26,"Midland County, MI",26111,White,Hispanic or Latino,13.0,2267.0,Unreliable,Unreliable
+2020,Michigan,26,"Midland County, MI",26111,White,Not Hispanic or Latino,881.0,75944.0,1160.1,757.3
+2020,Michigan,26,"Missaukee County, MI",26113,White,Not Hispanic or Latino,194.0,14193.0,1366.9,918.1
+2020,Michigan,26,"Monroe County, MI",26115,Black or African American,Not Hispanic or Latino,40.0,3840.0,1041.7,1199.5
+2020,Michigan,26,"Monroe County, MI",26115,White,Hispanic or Latino,21.0,5073.0,414.0,707.9
+2020,Michigan,26,"Monroe County, MI",26115,White,Not Hispanic or Latino,1718.0,136757.0,1256.2,898.8
+2020,Michigan,26,"Montcalm County, MI",26117,White,Hispanic or Latino,12.0,2019.0,Unreliable,Unreliable
+2020,Michigan,26,"Montcalm County, MI",26117,White,Not Hispanic or Latino,708.0,58083.0,1218.9,896.3
+2020,Michigan,26,"Montmorency County, MI",26119,White,Not Hispanic or Latino,193.0,8879.0,2173.7,1257.9
+2020,Michigan,26,"Muskegon County, MI",26121,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1256.0,Unreliable,Unreliable
+2020,Michigan,26,"Muskegon County, MI",26121,Black or African American,Not Hispanic or Latino,304.0,23560.0,1290.3,1426.5
+2020,Michigan,26,"Muskegon County, MI",26121,White,Hispanic or Latino,58.0,8501.0,682.3,1301.2
+2020,Michigan,26,"Muskegon County, MI",26121,White,Not Hispanic or Latino,1788.0,132318.0,1351.3,938.0
+2020,Michigan,26,"Muskegon County, MI",26121,More than one race,Not Hispanic or Latino,11.0,5119.0,Unreliable,Unreliable
+2020,Michigan,26,"Newaygo County, MI",26123,Black or African American,Not Hispanic or Latino,10.0,478.0,Unreliable,Unreliable
+2020,Michigan,26,"Newaygo County, MI",26123,White,Not Hispanic or Latino,560.0,44513.0,1258.1,895.1
+2020,Michigan,26,"Oakland County, MI",26125,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2992.0,Unreliable,Unreliable
+2020,Michigan,26,"Oakland County, MI",26125,Asian,Not Hispanic or Latino,290.0,103519.0,280.1,407.1
+2020,Michigan,26,"Oakland County, MI",26125,Black or African American,Hispanic or Latino,17.0,3344.0,Unreliable,Unreliable
+2020,Michigan,26,"Oakland County, MI",26125,Black or African American,Not Hispanic or Latino,2280.0,170542.0,1336.9,1108.2
+2020,Michigan,26,"Oakland County, MI",26125,White,Hispanic or Latino,190.0,49218.0,386.0,707.8
+2020,Michigan,26,"Oakland County, MI",26125,White,Not Hispanic or Latino,10055.0,892097.0,1127.1,762.5
+2020,Michigan,26,"Oakland County, MI",26125,White,Not Stated,18.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Oakland County, MI",26125,More than one race,Not Hispanic or Latino,53.0,26975.0,196.5,322.9
+2020,Michigan,26,"Oceana County, MI",26127,White,Hispanic or Latino,24.0,3726.0,644.1,1337.1
+2020,Michigan,26,"Oceana County, MI",26127,White,Not Hispanic or Latino,291.0,21816.0,1333.9,820.6
+2020,Michigan,26,"Ogemaw County, MI",26129,White,Not Hispanic or Latino,337.0,19723.0,1708.7,981.1
+2020,Michigan,26,"Ontonagon County, MI",26131,White,Not Hispanic or Latino,130.0,5363.0,2424.0,1010.5
+2020,Michigan,26,"Osceola County, MI",26133,White,Not Hispanic or Latino,270.0,22063.0,1223.8,807.6
+2020,Michigan,26,"Oscoda County, MI",26135,White,Not Hispanic or Latino,167.0,7949.0,2100.9,1146.8
+2020,Michigan,26,"Otsego County, MI",26137,White,Not Hispanic or Latino,321.0,23329.0,1376.0,908.4
+2020,Michigan,26,"Ottawa County, MI",26139,Asian,Not Hispanic or Latino,26.0,8213.0,316.6,499.9
+2020,Michigan,26,"Ottawa County, MI",26139,Black or African American,Not Hispanic or Latino,29.0,4772.0,607.7,1074.1
+2020,Michigan,26,"Ottawa County, MI",26139,White,Hispanic or Latino,98.0,26992.0,363.1,792.8
+2020,Michigan,26,"Ottawa County, MI",26139,White,Not Hispanic or Latino,2327.0,245335.0,948.5,716.2
+2020,Michigan,26,"Ottawa County, MI",26139,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Presque Isle County, MI",26141,White,Not Hispanic or Latino,199.0,12047.0,1651.9,810.2
+2020,Michigan,26,"Roscommon County, MI",26143,White,Not Hispanic or Latino,455.0,22685.0,2005.7,1048.8
+2020,Michigan,26,"Saginaw County, MI",26145,Asian,Not Hispanic or Latino,11.0,2512.0,Unreliable,Unreliable
+2020,Michigan,26,"Saginaw County, MI",26145,Black or African American,Not Hispanic or Latino,509.0,35039.0,1452.7,1386.1
+2020,Michigan,26,"Saginaw County, MI",26145,White,Hispanic or Latino,125.0,13737.0,910.0,978.8
+2020,Michigan,26,"Saginaw County, MI",26145,White,Not Hispanic or Latino,2023.0,130545.0,1549.7,918.5
+2020,Michigan,26,"Saginaw County, MI",26145,More than one race,Not Hispanic or Latino,14.0,4034.0,Unreliable,Unreliable
+2020,Michigan,26,"St. Clair County, MI",26147,Black or African American,Not Hispanic or Latino,48.0,3839.0,1250.3,1268.1
+2020,Michigan,26,"St. Clair County, MI",26147,White,Hispanic or Latino,24.0,4854.0,494.4,751.6
+2020,Michigan,26,"St. Clair County, MI",26147,White,Not Hispanic or Latino,2013.0,144783.0,1390.4,971.7
+2020,Michigan,26,"St. Joseph County, MI",26149,Black or African American,Not Hispanic or Latino,14.0,1417.0,Unreliable,Unreliable
+2020,Michigan,26,"St. Joseph County, MI",26149,White,Hispanic or Latino,17.0,4721.0,Unreliable,Unreliable
+2020,Michigan,26,"St. Joseph County, MI",26149,White,Not Hispanic or Latino,718.0,52171.0,1376.2,964.5
+2020,Michigan,26,"Sanilac County, MI",26151,White,Hispanic or Latino,11.0,1446.0,Unreliable,Unreliable
+2020,Michigan,26,"Sanilac County, MI",26151,White,Not Hispanic or Latino,555.0,38088.0,1457.2,905.9
+2020,Michigan,26,"Schoolcraft County, MI",26153,White,Not Hispanic or Latino,119.0,6910.0,1722.1,911.8
+2020,Michigan,26,"Shiawassee County, MI",26155,White,Not Hispanic or Latino,831.0,63549.0,1307.7,940.2
+2020,Michigan,26,"Tuscola County, MI",26157,White,Not Hispanic or Latino,752.0,48563.0,1548.5,1006.2
+2020,Michigan,26,"Van Buren County, MI",26159,Black or African American,Not Hispanic or Latino,50.0,2657.0,1881.8,1250.6
+2020,Michigan,26,"Van Buren County, MI",26159,White,Hispanic or Latino,38.0,7985.0,475.9,895.2
+2020,Michigan,26,"Van Buren County, MI",26159,White,Not Hispanic or Latino,808.0,60955.0,1325.6,922.9
+2020,Michigan,26,"Washtenaw County, MI",26161,Asian,Not Hispanic or Latino,69.0,33881.0,203.7,294.8
+2020,Michigan,26,"Washtenaw County, MI",26161,Black or African American,Not Hispanic or Latino,420.0,43762.0,959.7,1078.4
+2020,Michigan,26,"Washtenaw County, MI",26161,White,Hispanic or Latino,37.0,15273.0,242.3,479.9
+2020,Michigan,26,"Washtenaw County, MI",26161,White,Not Hispanic or Latino,2152.0,256685.0,838.4,675.7
+2020,Michigan,26,"Washtenaw County, MI",26161,More than one race,Not Hispanic or Latino,16.0,12451.0,Unreliable,Unreliable
+2020,Michigan,26,"Wayne County, MI",26163,American Indian or Alaska Native,Not Hispanic or Latino,38.0,5659.0,671.5,829.3
+2020,Michigan,26,"Wayne County, MI",26163,Asian,Not Hispanic or Latino,256.0,61487.0,416.3,485.3
+2020,Michigan,26,"Wayne County, MI",26163,Black or African American,Hispanic or Latino,35.0,8896.0,393.4,1339.1
+2020,Michigan,26,"Wayne County, MI",26163,Black or African American,Not Hispanic or Latino,10449.0,665082.0,1571.1,1422.3
+2020,Michigan,26,"Wayne County, MI",26163,Black or African American,Not Stated,120.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Wayne County, MI",26163,White,Hispanic or Latino,532.0,92474.0,575.3,845.8
+2020,Michigan,26,"Wayne County, MI",26163,White,Not Hispanic or Latino,11377.0,856116.0,1328.9,941.2
+2020,Michigan,26,"Wayne County, MI",26163,White,Not Stated,130.0,Not Applicable,Not Applicable,Not Applicable
+2020,Michigan,26,"Wayne County, MI",26163,More than one race,Not Hispanic or Latino,93.0,43031.0,216.1,403.2
+2020,Michigan,26,"Wexford County, MI",26165,White,Not Hispanic or Latino,373.0,31720.0,1175.9,848.5
+2021 (provisional),Michigan,26,"Alcona County, MI",26001,White,Not Hispanic or Latino,225.0,10005.0,2248.9,1024.8
+2021 (provisional),Michigan,26,"Alger County, MI",26003,White,Not Hispanic or Latino,104.0,7517.0,1383.5,748.7
+2021 (provisional),Michigan,26,"Allegan County, MI",26005,Black or African American,Not Hispanic or Latino,15.0,1566.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Allegan County, MI",26005,White,Hispanic or Latino,35.0,8124.0,430.8,795.6
+2021 (provisional),Michigan,26,"Allegan County, MI",26005,White,Not Hispanic or Latino,1208.0,104638.0,1154.5,879.6
+2021 (provisional),Michigan,26,"Alpena County, MI",26007,White,Not Hispanic or Latino,465.0,26913.0,1727.8,963.7
+2021 (provisional),Michigan,26,"Antrim County, MI",26009,White,Not Hispanic or Latino,327.0,22151.0,1476.2,814.5
+2021 (provisional),Michigan,26,"Arenac County, MI",26011,White,Not Hispanic or Latino,246.0,14057.0,1750.0,1058.0
+2021 (provisional),Michigan,26,"Baraga County, MI",26013,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1086.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Baraga County, MI",26013,White,Not Hispanic or Latino,98.0,5889.0,1664.1,835.0
+2021 (provisional),Michigan,26,"Barry County, MI",26015,White,Not Hispanic or Latino,753.0,58122.0,1295.6,957.1
+2021 (provisional),Michigan,26,"Bay County, MI",26017,Black or African American,Not Hispanic or Latino,21.0,1763.0,1191.2,1739.2
+2021 (provisional),Michigan,26,"Bay County, MI",26017,White,Hispanic or Latino,39.0,5034.0,774.7,1008.4
+2021 (provisional),Michigan,26,"Bay County, MI",26017,White,Not Hispanic or Latino,1478.0,91711.0,1611.6,1020.7
+2021 (provisional),Michigan,26,"Benzie County, MI",26019,White,Not Hispanic or Latino,232.0,16707.0,1388.6,809.5
+2021 (provisional),Michigan,26,"Berrien County, MI",26021,Black or African American,Not Hispanic or Latino,261.0,21862.0,1193.9,1211.3
+2021 (provisional),Michigan,26,"Berrien County, MI",26021,White,Hispanic or Latino,34.0,7767.0,437.7,736.7
+2021 (provisional),Michigan,26,"Berrien County, MI",26021,White,Not Hispanic or Latino,1676.0,114171.0,1468.0,859.8
+2021 (provisional),Michigan,26,"Branch County, MI",26023,White,Not Hispanic or Latino,545.0,38963.0,1398.8,995.4
+2021 (provisional),Michigan,26,"Calhoun County, MI",26025,American Indian or Alaska Native,Not Hispanic or Latino,11.0,775.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Calhoun County, MI",26025,Black or African American,Not Hispanic or Latino,191.0,14255.0,1339.9,1216.3
+2021 (provisional),Michigan,26,"Calhoun County, MI",26025,White,Hispanic or Latino,43.0,5941.0,723.8,1191.5
+2021 (provisional),Michigan,26,"Calhoun County, MI",26025,White,Not Hispanic or Latino,1570.0,102619.0,1529.9,1034.0
+2021 (provisional),Michigan,26,"Calhoun County, MI",26025,White,Not Stated,12.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Cass County, MI",26027,Black or African American,Not Hispanic or Latino,37.0,2549.0,1451.5,958.1
+2021 (provisional),Michigan,26,"Cass County, MI",26027,White,Not Hispanic or Latino,575.0,44528.0,1291.3,868.3
+2021 (provisional),Michigan,26,"Charlevoix County, MI",26029,White,Not Hispanic or Latino,364.0,24412.0,1491.1,866.1
+2021 (provisional),Michigan,26,"Cheboygan County, MI",26031,American Indian or Alaska Native,Not Hispanic or Latino,12.0,730.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Cheboygan County, MI",26031,White,Not Hispanic or Latino,424.0,23260.0,1822.9,974.2
+2021 (provisional),Michigan,26,"Chippewa County, MI",26033,American Indian or Alaska Native,Not Hispanic or Latino,57.0,5981.0,953.0,1113.0
+2021 (provisional),Michigan,26,"Chippewa County, MI",26033,White,Not Hispanic or Latino,381.0,25493.0,1494.5,895.4
+2021 (provisional),Michigan,26,"Chippewa County, MI",26033,More than one race,Not Hispanic or Latino,10.0,1938.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Clare County, MI",26035,White,Not Hispanic or Latino,542.0,29072.0,1864.3,1203.9
+2021 (provisional),Michigan,26,"Clinton County, MI",26037,White,Hispanic or Latino,13.0,3321.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Clinton County, MI",26037,White,Not Hispanic or Latino,739.0,71293.0,1036.6,761.5
+2021 (provisional),Michigan,26,"Crawford County, MI",26039,White,Not Hispanic or Latino,216.0,13161.0,1641.2,906.1
+2021 (provisional),Michigan,26,"Delta County, MI",26041,American Indian or Alaska Native,Not Hispanic or Latino,12.0,953.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Delta County, MI",26041,White,Not Hispanic or Latino,531.0,32858.0,1616.0,904.4
+2021 (provisional),Michigan,26,"Dickinson County, MI",26043,White,Not Hispanic or Latino,353.0,23789.0,1483.9,857.8
+2021 (provisional),Michigan,26,"Eaton County, MI",26045,Black or African American,Not Hispanic or Latino,64.0,7515.0,851.6,1000.6
+2021 (provisional),Michigan,26,"Eaton County, MI",26045,White,Hispanic or Latino,34.0,5221.0,651.2,963.7
+2021 (provisional),Michigan,26,"Eaton County, MI",26045,White,Not Hispanic or Latino,1206.0,90539.0,1332.0,904.1
+2021 (provisional),Michigan,26,"Emmet County, MI",26047,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1179.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Emmet County, MI",26047,White,Not Hispanic or Latino,364.0,30285.0,1201.9,721.0
+2021 (provisional),Michigan,26,"Genesee County, MI",26049,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1838.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Genesee County, MI",26049,Asian,Not Hispanic or Latino,11.0,4128.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Genesee County, MI",26049,Black or African American,Not Hispanic or Latino,1168.0,81217.0,1438.1,1395.2
+2021 (provisional),Michigan,26,"Genesee County, MI",26049,White,Hispanic or Latino,92.0,12204.0,753.9,998.5
+2021 (provisional),Michigan,26,"Genesee County, MI",26049,White,Not Hispanic or Latino,4300.0,291316.0,1476.1,1011.7
+2021 (provisional),Michigan,26,"Genesee County, MI",26049,More than one race,Not Hispanic or Latino,23.0,11094.0,207.3,533.7
+2021 (provisional),Michigan,26,"Gladwin County, MI",26051,White,Not Hispanic or Latino,473.0,24221.0,1952.9,1111.9
+2021 (provisional),Michigan,26,"Gogebic County, MI",26053,White,Not Hispanic or Latino,202.0,12730.0,1586.8,779.3
+2021 (provisional),Michigan,26,"Grand Traverse County, MI",26055,American Indian or Alaska Native,Not Hispanic or Latino,12.0,995.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Grand Traverse County, MI",26055,White,Not Hispanic or Latino,1088.0,86592.0,1256.5,815.2
+2021 (provisional),Michigan,26,"Gratiot County, MI",26057,White,Hispanic or Latino,19.0,2331.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Gratiot County, MI",26057,White,Not Hispanic or Latino,500.0,34403.0,1453.4,981.7
+2021 (provisional),Michigan,26,"Hillsdale County, MI",26059,White,Not Hispanic or Latino,647.0,43049.0,1502.9,1042.5
+2021 (provisional),Michigan,26,"Houghton County, MI",26061,White,Not Hispanic or Latino,378.0,32462.0,1164.4,858.8
+2021 (provisional),Michigan,26,"Huron County, MI",26063,White,Not Hispanic or Latino,521.0,29071.0,1792.2,968.6
+2021 (provisional),Michigan,26,"Ingham County, MI",26065,Asian,Not Hispanic or Latino,16.0,19284.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Ingham County, MI",26065,Black or African American,Hispanic or Latino,14.0,2248.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Ingham County, MI",26065,Black or African American,Not Hispanic or Latino,395.0,33871.0,1166.2,1427.1
+2021 (provisional),Michigan,26,"Ingham County, MI",26065,White,Hispanic or Latino,161.0,18959.0,849.2,1170.5
+2021 (provisional),Michigan,26,"Ingham County, MI",26065,White,Not Hispanic or Latino,2213.0,200951.0,1101.3,909.8
+2021 (provisional),Michigan,26,"Ingham County, MI",26065,White,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Ingham County, MI",26065,More than one race,Not Hispanic or Latino,17.0,11351.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Ionia County, MI",26067,White,Hispanic or Latino,10.0,2806.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Ionia County, MI",26067,White,Not Hispanic or Latino,607.0,56761.0,1069.4,895.4
+2021 (provisional),Michigan,26,"Iosco County, MI",26069,White,Not Hispanic or Latino,489.0,23429.0,2087.2,1094.4
+2021 (provisional),Michigan,26,"Iron County, MI",26071,White,Not Hispanic or Latino,192.0,10377.0,1850.2,860.4
+2021 (provisional),Michigan,26,"Isabella County, MI",26073,American Indian or Alaska Native,Not Hispanic or Latino,43.0,2353.0,1827.5,2503.1
+2021 (provisional),Michigan,26,"Isabella County, MI",26073,White,Hispanic or Latino,13.0,2087.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Isabella County, MI",26073,White,Not Hispanic or Latino,606.0,59248.0,1022.8,957.0
+2021 (provisional),Michigan,26,"Jackson County, MI",26075,Black or African American,Not Hispanic or Latino,169.0,12113.0,1395.2,1766.9
+2021 (provisional),Michigan,26,"Jackson County, MI",26075,White,Hispanic or Latino,27.0,4885.0,552.7,773.9
+2021 (provisional),Michigan,26,"Jackson County, MI",26075,White,Not Hispanic or Latino,1928.0,132399.0,1456.2,997.1
+2021 (provisional),Michigan,26,"Jackson County, MI",26075,More than one race,Not Hispanic or Latino,21.0,4544.0,462.1,1515.4
+2021 (provisional),Michigan,26,"Kalamazoo County, MI",26077,Asian,Not Hispanic or Latino,14.0,7378.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Kalamazoo County, MI",26077,Black or African American,Not Hispanic or Latino,290.0,30283.0,957.6,1238.9
+2021 (provisional),Michigan,26,"Kalamazoo County, MI",26077,White,Hispanic or Latino,46.0,11369.0,404.6,820.8
+2021 (provisional),Michigan,26,"Kalamazoo County, MI",26077,White,Not Hispanic or Latino,2271.0,203975.0,1113.4,840.0
+2021 (provisional),Michigan,26,"Kalamazoo County, MI",26077,White,Not Stated,11.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Kalamazoo County, MI",26077,More than one race,Not Hispanic or Latino,15.0,8882.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Kalkaska County, MI",26079,White,Not Hispanic or Latino,244.0,16842.0,1448.8,1069.2
+2021 (provisional),Michigan,26,"Kent County, MI",26081,American Indian or Alaska Native,Not Hispanic or Latino,16.0,2135.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Kent County, MI",26081,Asian,Not Hispanic or Latino,27.0,21844.0,123.6,196.4
+2021 (provisional),Michigan,26,"Kent County, MI",26081,Black or African American,Hispanic or Latino,11.0,6065.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Kent County, MI",26081,Black or African American,Not Hispanic or Latino,636.0,64481.0,986.3,1282.2
+2021 (provisional),Michigan,26,"Kent County, MI",26081,White,Hispanic or Latino,231.0,59653.0,387.2,816.0
+2021 (provisional),Michigan,26,"Kent County, MI",26081,White,Not Hispanic or Latino,4857.0,479847.0,1012.2,780.6
+2021 (provisional),Michigan,26,"Kent County, MI",26081,More than one race,Not Hispanic or Latino,15.0,17394.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Keweenaw County, MI",26083,White,Not Hispanic or Latino,35.0,2039.0,1716.5,917.7
+2021 (provisional),Michigan,26,"Lake County, MI",26085,Black or African American,Not Hispanic or Latino,14.0,832.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Lake County, MI",26085,White,Not Hispanic or Latino,178.0,9969.0,1785.5,1052.6
+2021 (provisional),Michigan,26,"Lapeer County, MI",26087,White,Hispanic or Latino,31.0,4055.0,764.5,1319.8
+2021 (provisional),Michigan,26,"Lapeer County, MI",26087,White,Not Hispanic or Latino,1150.0,80132.0,1435.1,1057.3
+2021 (provisional),Michigan,26,"Leelanau County, MI",26089,White,Not Hispanic or Latino,297.0,19613.0,1514.3,649.5
+2021 (provisional),Michigan,26,"Lenawee County, MI",26091,Black or African American,Not Hispanic or Latino,14.0,2387.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Lenawee County, MI",26091,White,Hispanic or Latino,70.0,7319.0,956.4,1192.6
+2021 (provisional),Michigan,26,"Lenawee County, MI",26091,White,Not Hispanic or Latino,1214.0,84337.0,1439.5,985.3
+2021 (provisional),Michigan,26,"Livingston County, MI",26093,White,Hispanic or Latino,23.0,4459.0,515.8,753.9
+2021 (provisional),Michigan,26,"Livingston County, MI",26093,White,Not Hispanic or Latino,1857.0,180850.0,1026.8,786.8
+2021 (provisional),Michigan,26,"Livingston County, MI",26093,More than one race,Not Hispanic or Latino,11.0,2560.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Luce County, MI",26095,White,Not Hispanic or Latino,82.0,4748.0,1727.0,964.3
+2021 (provisional),Michigan,26,"Mackinac County, MI",26097,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1725.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Mackinac County, MI",26097,White,Not Hispanic or Latino,158.0,7859.0,2010.4,881.8
+2021 (provisional),Michigan,26,"Mackinac County, MI",26097,More than one race,Not Hispanic or Latino,16.0,545.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Macomb County, MI",26099,American Indian or Alaska Native,Not Hispanic or Latino,10.0,2377.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Macomb County, MI",26099,Asian,Not Hispanic or Latino,100.0,38244.0,261.5,328.8
+2021 (provisional),Michigan,26,"Macomb County, MI",26099,Black or African American,Not Hispanic or Latino,1009.0,111386.0,905.9,1243.3
+2021 (provisional),Michigan,26,"Macomb County, MI",26099,White,Hispanic or Latino,96.0,20552.0,467.1,679.1
+2021 (provisional),Michigan,26,"Macomb County, MI",26099,White,Not Hispanic or Latino,9322.0,672554.0,1386.1,921.8
+2021 (provisional),Michigan,26,"Macomb County, MI",26099,White,Not Stated,62.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Macomb County, MI",26099,More than one race,Not Hispanic or Latino,39.0,21308.0,183.0,363.0
+2021 (provisional),Michigan,26,"Manistee County, MI",26101,White,Not Hispanic or Latino,359.0,21892.0,1639.9,905.9
+2021 (provisional),Michigan,26,"Marquette County, MI",26103,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1251.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Marquette County, MI",26103,White,Not Hispanic or Latino,770.0,60653.0,1269.5,879.5
+2021 (provisional),Michigan,26,"Mason County, MI",26105,White,Not Hispanic or Latino,429.0,26575.0,1614.3,932.7
+2021 (provisional),Michigan,26,"Mecosta County, MI",26107,White,Not Hispanic or Latino,456.0,39983.0,1140.5,856.8
+2021 (provisional),Michigan,26,"Menominee County, MI",26109,White,Not Hispanic or Latino,321.0,20906.0,1535.4,811.3
+2021 (provisional),Michigan,26,"Midland County, MI",26111,White,Hispanic or Latino,11.0,2267.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Midland County, MI",26111,White,Not Hispanic or Latino,917.0,75944.0,1207.5,785.6
+2021 (provisional),Michigan,26,"Missaukee County, MI",26113,White,Not Hispanic or Latino,201.0,14193.0,1416.2,957.6
+2021 (provisional),Michigan,26,"Monroe County, MI",26115,Black or African American,Not Hispanic or Latino,39.0,3840.0,1015.6,1046.6
+2021 (provisional),Michigan,26,"Monroe County, MI",26115,White,Hispanic or Latino,30.0,5073.0,591.4,913.1
+2021 (provisional),Michigan,26,"Monroe County, MI",26115,White,Not Hispanic or Latino,1841.0,136757.0,1346.2,948.3
+2021 (provisional),Michigan,26,"Montcalm County, MI",26117,White,Hispanic or Latino,11.0,2019.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Montcalm County, MI",26117,White,Not Hispanic or Latino,793.0,58083.0,1365.3,1002.5
+2021 (provisional),Michigan,26,"Montmorency County, MI",26119,White,Not Hispanic or Latino,197.0,8879.0,2218.7,1120.6
+2021 (provisional),Michigan,26,"Muskegon County, MI",26121,Black or African American,Not Hispanic or Latino,266.0,23560.0,1129.0,1232.7
+2021 (provisional),Michigan,26,"Muskegon County, MI",26121,White,Hispanic or Latino,49.0,8501.0,576.4,973.3
+2021 (provisional),Michigan,26,"Muskegon County, MI",26121,White,Not Hispanic or Latino,1791.0,132318.0,1353.6,943.1
+2021 (provisional),Michigan,26,"Muskegon County, MI",26121,White,Not Stated,22.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Muskegon County, MI",26121,More than one race,Not Hispanic or Latino,15.0,5119.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Newaygo County, MI",26123,White,Hispanic or Latino,15.0,2640.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Newaygo County, MI",26123,White,Not Hispanic or Latino,613.0,44513.0,1377.1,970.8
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,American Indian or Alaska Native,Not Hispanic or Latino,15.0,2992.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,Asian,Not Hispanic or Latino,194.0,103519.0,187.4,263.8
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,Black or African American,Hispanic or Latino,10.0,3344.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,Black or African American,Not Hispanic or Latino,1989.0,170542.0,1166.3,958.1
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,White,Hispanic or Latino,221.0,49218.0,449.0,752.2
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,White,Not Hispanic or Latino,9906.0,892097.0,1110.4,756.0
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,White,Not Stated,22.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Oakland County, MI",26125,More than one race,Not Hispanic or Latino,48.0,26975.0,177.9,304.6
+2021 (provisional),Michigan,26,"Oceana County, MI",26127,White,Hispanic or Latino,20.0,3726.0,536.8,830.8
+2021 (provisional),Michigan,26,"Oceana County, MI",26127,White,Not Hispanic or Latino,298.0,21816.0,1366.0,815.2
+2021 (provisional),Michigan,26,"Ogemaw County, MI",26129,White,Not Hispanic or Latino,380.0,19723.0,1926.7,1128.8
+2021 (provisional),Michigan,26,"Ontonagon County, MI",26131,White,Not Hispanic or Latino,101.0,5363.0,1883.3,944.3
+2021 (provisional),Michigan,26,"Osceola County, MI",26133,White,Not Hispanic or Latino,281.0,22063.0,1273.6,851.9
+2021 (provisional),Michigan,26,"Oscoda County, MI",26135,White,Not Hispanic or Latino,170.0,7949.0,2138.6,1261.7
+2021 (provisional),Michigan,26,"Otsego County, MI",26137,White,Not Hispanic or Latino,361.0,23329.0,1547.4,1015.6
+2021 (provisional),Michigan,26,"Ottawa County, MI",26139,Asian,Not Hispanic or Latino,13.0,8213.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Ottawa County, MI",26139,Black or African American,Not Hispanic or Latino,30.0,4772.0,628.7,1362.7
+2021 (provisional),Michigan,26,"Ottawa County, MI",26139,White,Hispanic or Latino,108.0,26992.0,400.1,771.6
+2021 (provisional),Michigan,26,"Ottawa County, MI",26139,White,Not Hispanic or Latino,2365.0,245335.0,964.0,737.2
+2021 (provisional),Michigan,26,"Presque Isle County, MI",26141,White,Not Hispanic or Latino,205.0,12047.0,1701.7,780.9
+2021 (provisional),Michigan,26,"Roscommon County, MI",26143,White,Not Hispanic or Latino,462.0,22685.0,2036.6,1077.7
+2021 (provisional),Michigan,26,"Saginaw County, MI",26145,Asian,Not Hispanic or Latino,11.0,2512.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Saginaw County, MI",26145,Black or African American,Not Hispanic or Latino,499.0,35039.0,1424.1,1335.1
+2021 (provisional),Michigan,26,"Saginaw County, MI",26145,White,Hispanic or Latino,145.0,13737.0,1055.5,1165.3
+2021 (provisional),Michigan,26,"Saginaw County, MI",26145,White,Not Hispanic or Latino,1907.0,130545.0,1460.8,881.3
+2021 (provisional),Michigan,26,"St. Clair County, MI",26147,Black or African American,Not Hispanic or Latino,66.0,3839.0,1719.2,1741.5
+2021 (provisional),Michigan,26,"St. Clair County, MI",26147,White,Hispanic or Latino,28.0,4854.0,576.8,1034.9
+2021 (provisional),Michigan,26,"St. Clair County, MI",26147,White,Not Hispanic or Latino,2235.0,144783.0,1543.7,1053.7
+2021 (provisional),Michigan,26,"St. Joseph County, MI",26149,Black or African American,Not Hispanic or Latino,23.0,1417.0,1623.1,1571.1
+2021 (provisional),Michigan,26,"St. Joseph County, MI",26149,White,Hispanic or Latino,20.0,4721.0,423.6,773.6
+2021 (provisional),Michigan,26,"St. Joseph County, MI",26149,White,Not Hispanic or Latino,740.0,52171.0,1418.4,987.6
+2021 (provisional),Michigan,26,"Sanilac County, MI",26151,White,Hispanic or Latino,17.0,1446.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Sanilac County, MI",26151,White,Not Hispanic or Latino,620.0,38088.0,1627.8,1040.6
+2021 (provisional),Michigan,26,"Schoolcraft County, MI",26153,White,Not Hispanic or Latino,119.0,6910.0,1722.1,855.9
+2021 (provisional),Michigan,26,"Schoolcraft County, MI",26153,More than one race,Not Hispanic or Latino,10.0,302.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Shiawassee County, MI",26155,White,Hispanic or Latino,10.0,1756.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Shiawassee County, MI",26155,White,Not Hispanic or Latino,851.0,63549.0,1339.1,963.5
+2021 (provisional),Michigan,26,"Tuscola County, MI",26157,White,Hispanic or Latino,13.0,1708.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Tuscola County, MI",26157,White,Not Hispanic or Latino,765.0,48563.0,1575.3,1009.7
+2021 (provisional),Michigan,26,"Tuscola County, MI",26157,More than one race,Not Hispanic or Latino,11.0,623.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Van Buren County, MI",26159,Black or African American,Not Hispanic or Latino,44.0,2657.0,1656.0,1253.5
+2021 (provisional),Michigan,26,"Van Buren County, MI",26159,White,Hispanic or Latino,31.0,7985.0,388.2,729.5
+2021 (provisional),Michigan,26,"Van Buren County, MI",26159,White,Not Hispanic or Latino,876.0,60955.0,1437.1,1001.5
+2021 (provisional),Michigan,26,"Van Buren County, MI",26159,More than one race,Not Hispanic or Latino,13.0,1852.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Washtenaw County, MI",26161,Asian,Not Hispanic or Latino,37.0,33881.0,109.2,145.3
+2021 (provisional),Michigan,26,"Washtenaw County, MI",26161,Black or African American,Not Hispanic or Latino,363.0,43762.0,829.5,944.1
+2021 (provisional),Michigan,26,"Washtenaw County, MI",26161,White,Hispanic or Latino,45.0,15273.0,294.6,593.0
+2021 (provisional),Michigan,26,"Washtenaw County, MI",26161,White,Not Hispanic or Latino,2157.0,256685.0,840.3,681.1
+2021 (provisional),Michigan,26,"Washtenaw County, MI",26161,More than one race,Not Hispanic or Latino,18.0,12451.0,Unreliable,Unreliable
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,American Indian or Alaska Native,Not Hispanic or Latino,46.0,5659.0,812.9,841.5
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,Asian,Not Hispanic or Latino,125.0,61487.0,203.3,232.9
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,Black or African American,Hispanic or Latino,40.0,8896.0,449.6,1210.0
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,Black or African American,Not Hispanic or Latino,9473.0,665082.0,1424.3,1289.3
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,Black or African American,Not Stated,50.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,White,Hispanic or Latino,599.0,92474.0,647.7,950.9
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,White,Not Hispanic or Latino,11123.0,856116.0,1299.2,927.8
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,White,Not Stated,112.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Michigan,26,"Wayne County, MI",26163,More than one race,Not Hispanic or Latino,86.0,43031.0,199.9,405.2
+2021 (provisional),Michigan,26,"Wexford County, MI",26165,White,Not Hispanic or Latino,499.0,31720.0,1573.1,1123.4
+2022 (provisional and partial),Michigan,26,"Alcona County, MI",26001,White,Not Hispanic or Latino,35.0,10005.0,349.8,180.9
+2022 (provisional and partial),Michigan,26,"Alger County, MI",26003,White,Not Hispanic or Latino,13.0,7517.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Allegan County, MI",26005,White,Not Hispanic or Latino,149.0,104638.0,142.4,107.4
+2022 (provisional and partial),Michigan,26,"Alpena County, MI",26007,White,Not Hispanic or Latino,44.0,26913.0,163.5,85.0
+2022 (provisional and partial),Michigan,26,"Antrim County, MI",26009,White,Not Hispanic or Latino,43.0,22151.0,194.1,101.8
+2022 (provisional and partial),Michigan,26,"Arenac County, MI",26011,White,Not Hispanic or Latino,44.0,14057.0,313.0,178.8
+2022 (provisional and partial),Michigan,26,"Baraga County, MI",26013,White,Not Hispanic or Latino,18.0,5889.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Barry County, MI",26015,White,Not Hispanic or Latino,119.0,58122.0,204.7,146.4
+2022 (provisional and partial),Michigan,26,"Bay County, MI",26017,White,Not Hispanic or Latino,224.0,91711.0,244.2,156.7
+2022 (provisional and partial),Michigan,26,"Benzie County, MI",26019,White,Not Hispanic or Latino,30.0,16707.0,179.6,97.6
+2022 (provisional and partial),Michigan,26,"Berrien County, MI",26021,Black or African American,Not Hispanic or Latino,28.0,21862.0,128.1,132.6
+2022 (provisional and partial),Michigan,26,"Berrien County, MI",26021,White,Not Hispanic or Latino,271.0,114171.0,237.4,144.8
+2022 (provisional and partial),Michigan,26,"Branch County, MI",26023,White,Not Hispanic or Latino,83.0,38963.0,213.0,150.5
+2022 (provisional and partial),Michigan,26,"Calhoun County, MI",26025,Black or African American,Not Hispanic or Latino,21.0,14255.0,147.3,123.8
+2022 (provisional and partial),Michigan,26,"Calhoun County, MI",26025,White,Not Hispanic or Latino,226.0,102619.0,220.2,143.8
+2022 (provisional and partial),Michigan,26,"Cass County, MI",26027,White,Not Hispanic or Latino,87.0,44528.0,195.4,134.4
+2022 (provisional and partial),Michigan,26,"Charlevoix County, MI",26029,White,Not Hispanic or Latino,59.0,24412.0,241.7,134.3
+2022 (provisional and partial),Michigan,26,"Cheboygan County, MI",26031,White,Not Hispanic or Latino,49.0,23260.0,210.7,111.5
+2022 (provisional and partial),Michigan,26,"Chippewa County, MI",26033,American Indian or Alaska Native,Not Hispanic or Latino,16.0,5981.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Chippewa County, MI",26033,White,Not Hispanic or Latino,47.0,25493.0,184.4,110.3
+2022 (provisional and partial),Michigan,26,"Clare County, MI",26035,White,Not Hispanic or Latino,63.0,29072.0,216.7,130.8
+2022 (provisional and partial),Michigan,26,"Clinton County, MI",26037,White,Not Hispanic or Latino,85.0,71293.0,119.2,89.2
+2022 (provisional and partial),Michigan,26,"Crawford County, MI",26039,White,Not Hispanic or Latino,33.0,13161.0,250.7,122.8
+2022 (provisional and partial),Michigan,26,"Delta County, MI",26041,White,Not Hispanic or Latino,68.0,32858.0,207.0,115.0
+2022 (provisional and partial),Michigan,26,"Dickinson County, MI",26043,White,Not Hispanic or Latino,41.0,23789.0,172.3,94.1
+2022 (provisional and partial),Michigan,26,"Eaton County, MI",26045,White,Not Hispanic or Latino,159.0,90539.0,175.6,120.8
+2022 (provisional and partial),Michigan,26,"Emmet County, MI",26047,White,Not Hispanic or Latino,59.0,30285.0,194.8,111.9
+2022 (provisional and partial),Michigan,26,"Genesee County, MI",26049,Black or African American,Not Hispanic or Latino,198.0,81217.0,243.8,232.9
+2022 (provisional and partial),Michigan,26,"Genesee County, MI",26049,White,Hispanic or Latino,14.0,12204.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Genesee County, MI",26049,White,Not Hispanic or Latino,668.0,291316.0,229.3,155.1
+2022 (provisional and partial),Michigan,26,"Gladwin County, MI",26051,White,Not Hispanic or Latino,56.0,24221.0,231.2,146.3
+2022 (provisional and partial),Michigan,26,"Gogebic County, MI",26053,White,Not Hispanic or Latino,30.0,12730.0,235.7,148.0
+2022 (provisional and partial),Michigan,26,"Grand Traverse County, MI",26055,White,Not Hispanic or Latino,142.0,86592.0,164.0,112.3
+2022 (provisional and partial),Michigan,26,"Gratiot County, MI",26057,White,Not Hispanic or Latino,76.0,34403.0,220.9,137.2
+2022 (provisional and partial),Michigan,26,"Hillsdale County, MI",26059,White,Not Hispanic or Latino,94.0,43049.0,218.4,147.9
+2022 (provisional and partial),Michigan,26,"Houghton County, MI",26061,White,Not Hispanic or Latino,65.0,32462.0,200.2,162.8
+2022 (provisional and partial),Michigan,26,"Huron County, MI",26063,White,Not Hispanic or Latino,82.0,29071.0,282.1,150.8
+2022 (provisional and partial),Michigan,26,"Ingham County, MI",26065,Black or African American,Not Hispanic or Latino,62.0,33871.0,183.0,242.0
+2022 (provisional and partial),Michigan,26,"Ingham County, MI",26065,White,Hispanic or Latino,29.0,18959.0,153.0,242.0
+2022 (provisional and partial),Michigan,26,"Ingham County, MI",26065,White,Not Hispanic or Latino,348.0,200951.0,173.2,138.0
+2022 (provisional and partial),Michigan,26,"Ionia County, MI",26067,White,Not Hispanic or Latino,100.0,56761.0,176.2,146.5
+2022 (provisional and partial),Michigan,26,"Iosco County, MI",26069,White,Not Hispanic or Latino,67.0,23429.0,286.0,133.0
+2022 (provisional and partial),Michigan,26,"Iron County, MI",26071,White,Not Hispanic or Latino,35.0,10377.0,337.3,147.6
+2022 (provisional and partial),Michigan,26,"Isabella County, MI",26073,White,Not Hispanic or Latino,81.0,59248.0,136.7,127.9
+2022 (provisional and partial),Michigan,26,"Jackson County, MI",26075,Black or African American,Not Hispanic or Latino,22.0,12113.0,181.6,225.9
+2022 (provisional and partial),Michigan,26,"Jackson County, MI",26075,White,Not Hispanic or Latino,272.0,132399.0,205.4,138.3
+2022 (provisional and partial),Michigan,26,"Kalamazoo County, MI",26077,Black or African American,Not Hispanic or Latino,41.0,30283.0,135.4,175.2
+2022 (provisional and partial),Michigan,26,"Kalamazoo County, MI",26077,White,Not Hispanic or Latino,302.0,203975.0,148.1,110.2
+2022 (provisional and partial),Michigan,26,"Kalkaska County, MI",26079,White,Not Hispanic or Latino,28.0,16842.0,166.3,128.0
+2022 (provisional and partial),Michigan,26,"Kent County, MI",26081,Black or African American,Not Hispanic or Latino,83.0,64481.0,128.7,166.7
+2022 (provisional and partial),Michigan,26,"Kent County, MI",26081,White,Hispanic or Latino,31.0,59653.0,52.0,106.4
+2022 (provisional and partial),Michigan,26,"Kent County, MI",26081,White,Not Hispanic or Latino,643.0,479847.0,134.0,104.7
+2022 (provisional and partial),Michigan,26,"Lake County, MI",26085,White,Not Hispanic or Latino,17.0,9969.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Lapeer County, MI",26087,White,Not Hispanic or Latino,174.0,80132.0,217.1,155.0
+2022 (provisional and partial),Michigan,26,"Leelanau County, MI",26089,White,Not Hispanic or Latino,35.0,19613.0,178.5,83.1
+2022 (provisional and partial),Michigan,26,"Lenawee County, MI",26091,White,Hispanic or Latino,14.0,7319.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Lenawee County, MI",26091,White,Not Hispanic or Latino,189.0,84337.0,224.1,154.5
+2022 (provisional and partial),Michigan,26,"Livingston County, MI",26093,White,Not Hispanic or Latino,267.0,180850.0,147.6,116.6
+2022 (provisional and partial),Michigan,26,"Luce County, MI",26095,White,Not Hispanic or Latino,15.0,4748.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Mackinac County, MI",26097,White,Not Hispanic or Latino,25.0,7859.0,318.1,157.9
+2022 (provisional and partial),Michigan,26,"Macomb County, MI",26099,Asian,Not Hispanic or Latino,10.0,38244.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Macomb County, MI",26099,Black or African American,Not Hispanic or Latino,141.0,111386.0,126.6,174.1
+2022 (provisional and partial),Michigan,26,"Macomb County, MI",26099,White,Hispanic or Latino,17.0,20552.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Macomb County, MI",26099,White,Not Hispanic or Latino,1445.0,672554.0,214.9,141.4
+2022 (provisional and partial),Michigan,26,"Manistee County, MI",26101,White,Not Hispanic or Latino,57.0,21892.0,260.4,142.1
+2022 (provisional and partial),Michigan,26,"Marquette County, MI",26103,White,Not Hispanic or Latino,93.0,60653.0,153.3,100.1
+2022 (provisional and partial),Michigan,26,"Mason County, MI",26105,White,Not Hispanic or Latino,64.0,26575.0,240.8,146.8
+2022 (provisional and partial),Michigan,26,"Mecosta County, MI",26107,White,Not Hispanic or Latino,62.0,39983.0,155.1,116.3
+2022 (provisional and partial),Michigan,26,"Menominee County, MI",26109,White,Not Hispanic or Latino,39.0,20906.0,186.5,85.8
+2022 (provisional and partial),Michigan,26,"Midland County, MI",26111,White,Not Hispanic or Latino,132.0,75944.0,173.8,112.9
+2022 (provisional and partial),Michigan,26,"Missaukee County, MI",26113,White,Not Hispanic or Latino,34.0,14193.0,239.6,164.6
+2022 (provisional and partial),Michigan,26,"Monroe County, MI",26115,White,Not Hispanic or Latino,272.0,136757.0,198.9,141.2
+2022 (provisional and partial),Michigan,26,"Montcalm County, MI",26117,White,Not Hispanic or Latino,134.0,58083.0,230.7,165.9
+2022 (provisional and partial),Michigan,26,"Montmorency County, MI",26119,White,Not Hispanic or Latino,21.0,8879.0,236.5,108.9
+2022 (provisional and partial),Michigan,26,"Muskegon County, MI",26121,Black or African American,Not Hispanic or Latino,44.0,23560.0,186.8,195.3
+2022 (provisional and partial),Michigan,26,"Muskegon County, MI",26121,White,Not Hispanic or Latino,274.0,132318.0,207.1,142.8
+2022 (provisional and partial),Michigan,26,"Newaygo County, MI",26123,White,Not Hispanic or Latino,102.0,44513.0,229.1,154.0
+2022 (provisional and partial),Michigan,26,"Oakland County, MI",26125,Asian,Not Hispanic or Latino,23.0,103519.0,22.2,31.2
+2022 (provisional and partial),Michigan,26,"Oakland County, MI",26125,Black or African American,Not Hispanic or Latino,296.0,170542.0,173.6,139.6
+2022 (provisional and partial),Michigan,26,"Oakland County, MI",26125,White,Hispanic or Latino,31.0,49218.0,63.0,123.2
+2022 (provisional and partial),Michigan,26,"Oakland County, MI",26125,White,Not Hispanic or Latino,1520.0,892097.0,170.4,115.6
+2022 (provisional and partial),Michigan,26,"Oceana County, MI",26127,White,Not Hispanic or Latino,42.0,21816.0,192.5,122.6
+2022 (provisional and partial),Michigan,26,"Ogemaw County, MI",26129,White,Not Hispanic or Latino,51.0,19723.0,258.6,135.0
+2022 (provisional and partial),Michigan,26,"Ontonagon County, MI",26131,White,Not Hispanic or Latino,25.0,5363.0,466.2,218.9
+2022 (provisional and partial),Michigan,26,"Osceola County, MI",26133,White,Not Hispanic or Latino,47.0,22063.0,213.0,141.0
+2022 (provisional and partial),Michigan,26,"Oscoda County, MI",26135,White,Not Hispanic or Latino,29.0,7949.0,364.8,186.5
+2022 (provisional and partial),Michigan,26,"Otsego County, MI",26137,White,Not Hispanic or Latino,61.0,23329.0,261.5,172.4
+2022 (provisional and partial),Michigan,26,"Ottawa County, MI",26139,White,Hispanic or Latino,25.0,26992.0,92.6,193.3
+2022 (provisional and partial),Michigan,26,"Ottawa County, MI",26139,White,Not Hispanic or Latino,358.0,245335.0,145.9,111.8
+2022 (provisional and partial),Michigan,26,"Presque Isle County, MI",26141,White,Not Hispanic or Latino,23.0,12047.0,190.9,77.1
+2022 (provisional and partial),Michigan,26,"Roscommon County, MI",26143,White,Not Hispanic or Latino,59.0,22685.0,260.1,122.1
+2022 (provisional and partial),Michigan,26,"Saginaw County, MI",26145,Black or African American,Not Hispanic or Latino,50.0,35039.0,142.7,141.7
+2022 (provisional and partial),Michigan,26,"Saginaw County, MI",26145,White,Hispanic or Latino,16.0,13737.0,Unreliable,Unreliable
+2022 (provisional and partial),Michigan,26,"Saginaw County, MI",26145,White,Not Hispanic or Latino,290.0,130545.0,222.1,128.9
+2022 (provisional and partial),Michigan,26,"St. Clair County, MI",26147,White,Not Hispanic or Latino,285.0,144783.0,196.8,134.5
+2022 (provisional and partial),Michigan,26,"St. Joseph County, MI",26149,White,Not Hispanic or Latino,118.0,52171.0,226.2,152.1
+2022 (provisional and partial),Michigan,26,"Sanilac County, MI",26151,White,Not Hispanic or Latino,74.0,38088.0,194.3,113.4
+2022 (provisional and partial),Michigan,26,"Schoolcraft County, MI",26153,White,Not Hispanic or Latino,21.0,6910.0,303.9,136.8
+2022 (provisional and partial),Michigan,26,"Shiawassee County, MI",26155,White,Not Hispanic or Latino,140.0,63549.0,220.3,157.0
+2022 (provisional and partial),Michigan,26,"Tuscola County, MI",26157,White,Not Hispanic or Latino,108.0,48563.0,222.4,139.2
+2022 (provisional and partial),Michigan,26,"Van Buren County, MI",26159,White,Not Hispanic or Latino,127.0,60955.0,208.4,151.1
+2022 (provisional and partial),Michigan,26,"Washtenaw County, MI",26161,Black or African American,Not Hispanic or Latino,64.0,43762.0,146.2,171.7
+2022 (provisional and partial),Michigan,26,"Washtenaw County, MI",26161,White,Not Hispanic or Latino,319.0,256685.0,124.3,100.2
+2022 (provisional and partial),Michigan,26,"Wayne County, MI",26163,Asian,Not Hispanic or Latino,23.0,61487.0,37.4,46.6
+2022 (provisional and partial),Michigan,26,"Wayne County, MI",26163,Black or African American,Not Hispanic or Latino,1263.0,665082.0,189.9,172.0
+2022 (provisional and partial),Michigan,26,"Wayne County, MI",26163,White,Hispanic or Latino,81.0,92474.0,87.6,136.5
+2022 (provisional and partial),Michigan,26,"Wayne County, MI",26163,White,Not Hispanic or Latino,1713.0,856116.0,200.1,143.1
+2022 (provisional and partial),Michigan,26,"Wayne County, MI",26163,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),Michigan,26,"Wayne County, MI",26163,More than one race,Not Hispanic or Latino,22.0,43031.0,51.1,87.7
+2022 (provisional and partial),Michigan,26,"Wexford County, MI",26165,White,Not Hispanic or Latino,67.0,31720.0,211.2,160.6

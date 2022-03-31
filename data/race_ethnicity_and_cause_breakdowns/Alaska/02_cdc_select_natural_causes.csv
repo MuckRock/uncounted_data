@@ -1,0 +1,249 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Alaska,02,"Anchorage Borough, AK",02020,Sepsis,"Septicaemia, unspecified",A41.9,24.0,291538.0,8.2
+2018,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,18.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,14.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,24.0,291538.0,8.2
+2018,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,66.0,291538.0,22.6
+2018,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,26.0,291538.0,8.9
+2018,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,291538.0,7.2
+2018,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm without specification of site,C80,20.0,291538.0,6.9
+2018,Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,15.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,17.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,28.0,291538.0,9.6
+2018,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,Unspecified dementia,F03,49.0,291538.0,16.8
+2018,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,69.0,291538.0,23.7
+2018,Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Essential (primary) hypertension,I10,14.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,23.0,291538.0,7.9
+2018,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,68.0,291538.0,23.3
+2018,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,Atherosclerotic heart disease,I25.1,52.0,291538.0,17.8
+2018,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,16.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,11.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,35.0,291538.0,12.0
+2018,Alaska,02,"Anchorage Borough, AK",02020,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,14.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,40.0,291538.0,13.7
+2018,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,291538.0,Unreliable
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,98971.0,20.2
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,98971.0,Unreliable
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,98971.0,25.3
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,98971.0,Unreliable
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Other diseases of the circulatory system,Congestive heart failure,I50.0,20.0,98971.0,20.2
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,22.0,98971.0,22.2
+2018,Alaska,02,"Juneau Borough, AK",02110,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,32113.0,Unreliable
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,26.0,58533.0,44.4
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,58533.0,Unreliable
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,58533.0,Unreliable
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,58533.0,37.6
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,58533.0,Unreliable
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,58533.0,Unreliable
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,58533.0,Unreliable
+2018,Alaska,02,"Kenai Peninsula Borough, AK",02122,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,58533.0,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,107610.0,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,36.0,107610.0,33.5
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,107610.0,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,107610.0,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,107610.0,23.2
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,107610.0,18.6
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,107610.0,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,107610.0,23.2
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,107610.0,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,107610.0,Unreliable
+2018,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,107610.0,22.3
+2019,Alaska,02,"Anchorage Borough, AK",02020,Sepsis,"Septicaemia, unspecified",A41.9,19.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,15.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,24.0,288000.0,8.3
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,17.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,10.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,21.0,288000.0,7.3
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,84.0,288000.0,29.2
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,25.0,288000.0,8.7
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm of prostate,C61,27.0,288000.0,9.4
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm without specification of site,C80,18.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,23.0,288000.0,8.0
+2019,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,Unspecified dementia,F03,60.0,288000.0,20.8
+2019,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,66.0,288000.0,22.9
+2019,Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Essential (primary) hypertension,I10,17.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,23.0,288000.0,8.0
+2019,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,288000.0,11.8
+2019,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,56.0,288000.0,19.4
+2019,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,Atherosclerotic heart disease,I25.1,56.0,288000.0,19.4
+2019,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,27.0,288000.0,9.4
+2019,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,24.0,288000.0,8.3
+2019,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,20.0,288000.0,6.9
+2019,Alaska,02,"Anchorage Borough, AK",02020,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,31.0,288000.0,10.8
+2019,Alaska,02,"Anchorage Borough, AK",02020,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,51.0,288000.0,17.7
+2019,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,288000.0,Unreliable
+2019,Alaska,02,"Anchorage Borough, AK",02020,Renal failure,"Chronic kidney disease, stage 5",N18.5,16.0,288000.0,Unreliable
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,96849.0,20.7
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,96849.0,Unreliable
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,96849.0,25.8
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,96849.0,Unreliable
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,96849.0,Unreliable
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,96849.0,Unreliable
+2019,Alaska,02,"Fairbanks North Star Borough, AK",02090,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,96849.0,Unreliable
+2019,Alaska,02,"Juneau Borough, AK",02110,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,31974.0,Unreliable
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,58708.0,Unreliable
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,58708.0,42.6
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,58708.0,Unreliable
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Alzheimer disease and dementia,Unspecified dementia,F03,20.0,58708.0,34.1
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,58708.0,Unreliable
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,58708.0,Unreliable
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,58708.0,Unreliable
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,58708.0,Unreliable
+2019,Alaska,02,"Kenai Peninsula Borough, AK",02122,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,58708.0,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,108317.0,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,108317.0,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,38.0,108317.0,35.1
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,108317.0,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,108317.0,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,108317.0,20.3
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,25.0,108317.0,23.1
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,108317.0,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,108317.0,18.5
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,108317.0,21.2
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,108317.0,Unreliable
+2019,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,108317.0,22.2
+2020,Alaska,02,"Anchorage Borough, AK",02020,Sepsis,"Septicaemia, unspecified",A41.9,34.0,287095.0,11.8
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,20.0,287095.0,7.0
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm of rectum,C20,10.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,16.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,39.0,287095.0,13.6
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,88.0,287095.0,30.7
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,31.0,287095.0,10.8
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm without specification of site,C80,38.0,287095.0,13.2
+2020,Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,15.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,13.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,21.0,287095.0,7.3
+2020,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,Unspecified dementia,F03,58.0,287095.0,20.2
+2020,Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,68.0,287095.0,23.7
+2020,Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Essential (primary) hypertension,I10,15.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,21.0,287095.0,7.3
+2020,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,32.0,287095.0,11.1
+2020,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,82.0,287095.0,28.6
+2020,Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,Atherosclerotic heart disease,I25.1,69.0,287095.0,24.0
+2020,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,12.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,22.0,287095.0,7.7
+2020,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,23.0,287095.0,8.0
+2020,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,11.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,21.0,287095.0,7.3
+2020,Alaska,02,"Anchorage Borough, AK",02020,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,48.0,287095.0,16.7
+2020,Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,14.0,287095.0,Unreliable
+2020,Alaska,02,"Anchorage Borough, AK",02020,Renal failure,"Chronic kidney disease, stage 5",N18.5,18.0,287095.0,Unreliable
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,95651.0,Unreliable
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,31.0,95651.0,32.4
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,95651.0,Unreliable
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,95651.0,Unreliable
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,31.0,95651.0,32.4
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,95651.0,Unreliable
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,95651.0,Unreliable
+2020,Alaska,02,"Fairbanks North Star Borough, AK",02090,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,95651.0,Unreliable
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,59414.0,35.3
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,59414.0,Unreliable
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,59414.0,Unreliable
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,59414.0,Unreliable
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,26.0,59414.0,43.8
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,59414.0,Unreliable
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,59414.0,Unreliable
+2020,Alaska,02,"Kenai Peninsula Borough, AK",02122,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,59414.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,36.0,110213.0,32.7
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,Malignant neoplasm of prostate,C61,15.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,Unspecified dementia,F03,32.0,110213.0,29.0
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,32.0,110213.0,29.0
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,110213.0,18.1
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,110213.0,Unreliable
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,39.0,110213.0,35.4
+2020,Alaska,02,"Matanuska-Susitna Borough, AK",02170,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Sepsis,"Septicaemia, unspecified",A41.9,28.0,287095.0,9.8
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,11.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,11.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,15.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,25.0,287095.0,8.7
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,71.0,287095.0,24.7
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,24.0,287095.0,8.4
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm of prostate,C61,23.0,287095.0,8.0
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,14.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,16.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,Malignant neoplasm without specification of site,C80,26.0,287095.0,9.1
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,17.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,20.0,287095.0,7.0
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,Unspecified dementia,F03,62.0,287095.0,21.6
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,76.0,287095.0,26.5
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Essential (primary) hypertension,I10,19.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,34.0,287095.0,11.8
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,33.0,287095.0,11.5
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,54.0,287095.0,18.8
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Ischemic heart disease,Atherosclerotic heart disease,I25.1,73.0,287095.0,25.4
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,12.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,16.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,30.0,287095.0,10.4
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,17.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,Congestive heart failure,I50.0,30.0,287095.0,10.4
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,18.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,16.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,47.0,287095.0,16.4
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,55.0,287095.0,19.2
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,16.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,287095.0,Unreliable
+2021 (provisional),Alaska,02,"Anchorage Borough, AK",02020,Renal failure,"Chronic kidney disease, stage 5",N18.5,21.0,287095.0,7.3
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,12.0,95651.0,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,95651.0,25.1
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,95651.0,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,95651.0,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,95651.0,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,95651.0,22.0
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,95651.0,Unreliable
+2021 (provisional),Alaska,02,"Fairbanks North Star Borough, AK",02090,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,95651.0,22.0
+2021 (provisional),Alaska,02,"Juneau Borough, AK",02110,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,31849.0,Unreliable
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,59414.0,40.4
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,59414.0,Unreliable
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,59414.0,Unreliable
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,59414.0,Unreliable
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,59414.0,Unreliable
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,59414.0,33.7
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,59414.0,Unreliable
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,59414.0,Unreliable
+2021 (provisional),Alaska,02,"Kenai Peninsula Borough, AK",02122,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,59414.0,35.3
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,13.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,38.0,110213.0,34.5
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,Unspecified dementia,F03,23.0,110213.0,20.9
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,24.0,110213.0,21.8
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,30.0,110213.0,27.2
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Ischemic heart disease,Atherosclerotic heart disease,I25.1,35.0,110213.0,31.8
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,110213.0,Unreliable
+2021 (provisional),Alaska,02,"Matanuska-Susitna Borough, AK",02170,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,33.0,110213.0,29.9
+2022 (provisional and partial),Alaska,02,"Anchorage Borough, AK",02020,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,287095.0,Unreliable
+2022 (provisional and partial),Alaska,02,"Anchorage Borough, AK",02020,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,287095.0,Unreliable

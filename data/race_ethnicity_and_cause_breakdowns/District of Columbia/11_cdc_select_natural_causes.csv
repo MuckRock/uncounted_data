@@ -1,0 +1,271 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,District of Columbia,11,"District of Columbia, DC",11001,Sepsis,"Septicaemia, unspecified",A41.9,55.0,702455.0,7.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,17.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,27.0,702455.0,3.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,70.0,702455.0,10.0
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of rectum,C20,12.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,35.0,702455.0,5.0
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,17.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,106.0,702455.0,15.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,165.0,702455.0,23.5
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,106.0,702455.0,15.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,33.0,702455.0,4.7
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of ovary,C56,27.0,702455.0,3.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of prostate,C61,90.0,702455.0,12.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,19.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,29.0,702455.0,4.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,27.0,702455.0,3.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,50.0,702455.0,7.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,31.0,702455.0,4.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,13.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,18.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with ketoacidosis",E14.1,18.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,27.0,702455.0,3.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,55.0,702455.0,7.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,26.0,702455.0,3.7
+2018,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,Unspecified dementia,F03,107.0,702455.0,15.2
+2018,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,103.0,702455.0,14.7
+2018,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,91.0,702455.0,13.0
+2018,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Essential (primary) hypertension,I10,31.0,702455.0,4.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,37.0,702455.0,5.3
+2018,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,200.0,702455.0,28.5
+2018,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,43.0,702455.0,6.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart and renal disease with renal failure,I13.1,18.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,125.0,702455.0,17.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,418.0,702455.0,59.5
+2018,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,141.0,702455.0,20.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,14.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,24.0,702455.0,3.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,21.0,702455.0,3.0
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,18.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,10.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,38.0,702455.0,5.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,37.0,702455.0,5.3
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,33.0,702455.0,4.7
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Congestive heart failure,I50.0,54.0,702455.0,7.7
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,30.0,702455.0,4.3
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,23.0,702455.0,3.3
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,11.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,31.0,702455.0,4.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,59.0,702455.0,8.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,50.0,702455.0,7.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,19.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,13.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,10.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,11.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,13.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,I80.2,13.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,56.0,702455.0,8.0
+2018,District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,27.0,702455.0,3.8
+2018,District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,101.0,702455.0,14.4
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,29.0,702455.0,4.1
+2018,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,15.0,702455.0,Unreliable
+2018,District of Columbia,11,"District of Columbia, DC",11001,Renal failure,"Chronic kidney disease, stage 5",N18.5,29.0,702455.0,4.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Sepsis,"Septicaemia, unspecified",A41.9,70.0,705749.0,9.9
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,17.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,22.0,705749.0,3.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,73.0,705749.0,10.3
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of rectum,C20,10.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,43.0,705749.0,6.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,21.0,705749.0,3.0
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,12.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,89.0,705749.0,12.6
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,188.0,705749.0,26.6
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,11.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,98.0,705749.0,13.9
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,22.0,705749.0,3.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,13.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of ovary,C56,26.0,705749.0,3.7
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of prostate,C61,61.0,705749.0,8.6
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,14.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,25.0,705749.0,3.5
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,28.0,705749.0,4.0
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,47.0,705749.0,6.7
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,26.0,705749.0,3.7
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,10.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,16.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with ketoacidosis",E14.1,11.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,28.0,705749.0,4.0
+2019,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with peripheral circulatory complications",E14.5,10.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,44.0,705749.0,6.2
+2019,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,22.0,705749.0,3.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,Unspecified dementia,F03,157.0,705749.0,22.2
+2019,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,80.0,705749.0,11.3
+2019,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,57.0,705749.0,8.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Essential (primary) hypertension,I10,49.0,705749.0,6.9
+2019,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,29.0,705749.0,4.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,168.0,705749.0,23.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,62.0,705749.0,8.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart and renal disease with renal failure,I13.1,16.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,12.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,130.0,705749.0,18.4
+2019,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,351.0,705749.0,49.7
+2019,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,154.0,705749.0,21.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,15.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,18.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,23.0,705749.0,3.3
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,20.0,705749.0,2.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,34.0,705749.0,4.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,28.0,705749.0,4.0
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,48.0,705749.0,6.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Congestive heart failure,I50.0,48.0,705749.0,6.8
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,16.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,26.0,705749.0,3.7
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,14.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,22.0,705749.0,3.1
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,94.0,705749.0,13.3
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,51.0,705749.0,7.2
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,12.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,17.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,11.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,12.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,12.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,61.0,705749.0,8.6
+2019,District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,19.0,705749.0,Unreliable
+2019,District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,98.0,705749.0,13.9
+2019,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,38.0,705749.0,5.4
+2019,District of Columbia,11,"District of Columbia, DC",11001,Renal failure,"Chronic kidney disease, stage 5",N18.5,32.0,705749.0,4.5
+2020,District of Columbia,11,"District of Columbia, DC",11001,Sepsis,"Septicaemia, unspecified",A41.9,73.0,712816.0,10.2
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,26.0,712816.0,3.6
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,13.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,70.0,712816.0,9.8
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of rectum,C20,18.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,43.0,712816.0,6.0
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,13.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,73.0,712816.0,10.2
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Larynx, unspecified - Malignant neoplasms",C32.9,10.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,171.0,712816.0,24.0
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,76.0,712816.0,10.7
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,11.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,23.0,712816.0,3.2
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,17.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of ovary,C56,18.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of prostate,C61,79.0,712816.0,11.1
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,20.0,712816.0,2.8
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,21.0,712816.0,2.9
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,60.0,712816.0,8.4
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,14.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,34.0,712816.0,4.8
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,11.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,17.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,22.0,712816.0,3.1
+2020,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with ketoacidosis",E14.1,14.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,39.0,712816.0,5.5
+2020,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with multiple complications",E14.7,10.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,54.0,712816.0,7.6
+2020,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,26.0,712816.0,3.6
+2020,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,Unspecified dementia,F03,194.0,712816.0,27.2
+2020,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,88.0,712816.0,12.3
+2020,District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,55.0,712816.0,7.7
+2020,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Essential (primary) hypertension,I10,52.0,712816.0,7.3
+2020,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,36.0,712816.0,5.1
+2020,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,181.0,712816.0,25.4
+2020,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,55.0,712816.0,7.7
+2020,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart and renal disease with renal failure,I13.1,25.0,712816.0,3.5
+2020,District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,16.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,117.0,712816.0,16.4
+2020,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,415.0,712816.0,58.2
+2020,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,193.0,712816.0,27.1
+2020,District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,33.0,712816.0,4.6
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,22.0,712816.0,3.1
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,24.0,712816.0,3.4
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,35.0,712816.0,4.9
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,43.0,712816.0,6.0
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,40.0,712816.0,5.6
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Congestive heart failure,I50.0,54.0,712816.0,7.6
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,30.0,712816.0,4.2
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,11.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,11.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,18.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,19.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,18.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,88.0,712816.0,12.3
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,68.0,712816.0,9.5
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,10.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Generalized and unspecified atherosclerosis,I70.9,11.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,16.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,I80.2,12.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,69.0,712816.0,9.7
+2020,District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,28.0,712816.0,3.9
+2020,District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,94.0,712816.0,13.2
+2020,District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,11.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,42.0,712816.0,5.9
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,16.0,712816.0,Unreliable
+2020,District of Columbia,11,"District of Columbia, DC",11001,Renal failure,"Chronic kidney disease, stage 5",N18.5,29.0,712816.0,4.1
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Sepsis,"Septicaemia, unspecified",A41.9,78.0,712816.0,10.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,21.0,712816.0,2.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,27.0,712816.0,3.8
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,68.0,712816.0,9.5
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of rectum,C20,12.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,28.0,712816.0,3.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,13.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,11.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,73.0,712816.0,10.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,182.0,712816.0,25.5
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,10.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,84.0,712816.0,11.8
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,20.0,712816.0,2.8
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,15.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of ovary,C56,31.0,712816.0,4.3
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm of prostate,C61,73.0,712816.0,10.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,17.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,23.0,712816.0,3.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,15.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,46.0,712816.0,6.5
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,10.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,33.0,712816.0,4.6
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,22.0,712816.0,3.1
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with ketoacidosis",E14.1,17.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,35.0,712816.0,4.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, with multiple complications",E14.7,12.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,56.0,712816.0,7.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,26.0,712816.0,3.6
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,Unspecified dementia,F03,199.0,712816.0,27.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,63.0,712816.0,8.8
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,64.0,712816.0,9.0
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Essential (primary) hypertension,I10,33.0,712816.0,4.6
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,35.0,712816.0,4.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,188.0,712816.0,26.4
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,49.0,712816.0,6.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart and renal disease with renal failure,I13.1,33.0,712816.0,4.6
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,17.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,135.0,712816.0,18.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,353.0,712816.0,49.5
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,159.0,712816.0,22.3
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,22.0,712816.0,3.1
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,11.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,20.0,712816.0,2.8
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,27.0,712816.0,3.8
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Acute and subacute infective endocarditis,I33.0,10.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,18.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,36.0,712816.0,5.1
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,51.0,712816.0,7.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,23.0,712816.0,3.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Congestive heart failure,I50.0,35.0,712816.0,4.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,24.0,712816.0,3.4
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,13.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,29.0,712816.0,4.1
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,20.0,712816.0,2.8
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,104.0,712816.0,14.6
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,48.0,712816.0,6.7
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,13.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,14.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,10.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,12.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,12.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,49.0,712816.0,6.9
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,81.0,712816.0,11.4
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,13.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,44.0,712816.0,6.2
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,10.0,712816.0,Unreliable
+2021 (provisional),District of Columbia,11,"District of Columbia, DC",11001,Renal failure,"Chronic kidney disease, stage 5",N18.5,29.0,712816.0,4.1
+2022 (provisional and partial),District of Columbia,11,"District of Columbia, DC",11001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,712816.0,Unreliable

@@ -1,0 +1,102 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Tennessee,"Anderson County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,76482.0,Unreliable
+2018,Tennessee,"Blount County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,131349.0,Unreliable
+2018,Tennessee,"Blount County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,131349.0,Unreliable
+2018,Tennessee,"Blount County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,131349.0,15.2
+2018,Tennessee,"Blount County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,131349.0,Unreliable
+2018,Tennessee,"Bradley County, TN",Nontransport accidents,Unspecified fall,W19,10.0,106727.0,Unreliable
+2018,Tennessee,"Bradley County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,106727.0,Unreliable
+2018,Tennessee,"Bradley County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,106727.0,Unreliable
+2018,Tennessee,"Carter County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,56351.0,Unreliable
+2018,Tennessee,"Cheatham County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,40439.0,Unreliable
+2018,Tennessee,"Coffee County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,55700.0,Unreliable
+2018,Tennessee,"Cumberland County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,59673.0,Unreliable
+2018,Tennessee,"Davidson County, TN",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,692587.0,Unreliable
+2018,Tennessee,"Davidson County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,31.0,692587.0,4.5
+2018,Tennessee,"Davidson County, TN",Nontransport accidents,Other fall on same level,W18,11.0,692587.0,Unreliable
+2018,Tennessee,"Davidson County, TN",Nontransport accidents,Unspecified fall,W19,87.0,692587.0,12.6
+2018,Tennessee,"Davidson County, TN",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,15.0,692587.0,Unreliable
+2018,Tennessee,"Davidson County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,121.0,692587.0,17.5
+2018,Tennessee,"Davidson County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,102.0,692587.0,14.7
+2018,Tennessee,"Davidson County, TN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,26.0,692587.0,3.8
+2018,Tennessee,"Davidson County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,37.0,692587.0,5.3
+2018,Tennessee,"Davidson County, TN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,81.0,692587.0,11.7
+2018,Tennessee,"Greene County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,69087.0,Unreliable
+2018,Tennessee,"Greene County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,69087.0,Unreliable
+2018,Tennessee,"Hamilton County, TN",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,364286.0,Unreliable
+2018,Tennessee,"Hamilton County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,364286.0,Unreliable
+2018,Tennessee,"Hamilton County, TN",Nontransport accidents,Other fall on same level,W18,24.0,364286.0,6.6
+2018,Tennessee,"Hamilton County, TN",Nontransport accidents,Unspecified fall,W19,14.0,364286.0,Unreliable
+2018,Tennessee,"Hamilton County, TN",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,364286.0,Unreliable
+2018,Tennessee,"Hamilton County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,364286.0,Unreliable
+2018,Tennessee,"Hamilton County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,364286.0,8.0
+2018,Tennessee,"Hamilton County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,364286.0,5.8
+2018,Tennessee,"Hamilton County, TN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,364286.0,Unreliable
+2018,Tennessee,"Hamilton County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,364286.0,6.0
+2018,Tennessee,"Hamilton County, TN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,27.0,364286.0,7.4
+2018,Tennessee,"Hawkins County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,56530.0,Unreliable
+2018,Tennessee,"Knox County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,30.0,465289.0,6.4
+2018,Tennessee,"Knox County, TN",Nontransport accidents,Other fall on same level,W18,42.0,465289.0,9.0
+2018,Tennessee,"Knox County, TN",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,465289.0,Unreliable
+2018,Tennessee,"Knox County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,18.0,465289.0,Unreliable
+2018,Tennessee,"Knox County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,120.0,465289.0,25.8
+2018,Tennessee,"Knox County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,110.0,465289.0,23.6
+2018,Tennessee,"Knox County, TN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,27.0,465289.0,5.8
+2018,Tennessee,"Knox County, TN",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,26.0,465289.0,5.6
+2018,Tennessee,"Knox County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,465289.0,4.5
+2018,Tennessee,"Knox County, TN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,21.0,465289.0,4.5
+2018,Tennessee,"Maury County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,94340.0,Unreliable
+2018,Tennessee,"Maury County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,94340.0,Unreliable
+2018,Tennessee,"Maury County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,94340.0,Unreliable
+2018,Tennessee,"Montgomery County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,205950.0,Unreliable
+2018,Tennessee,"Montgomery County, TN",Nontransport accidents,Unspecified fall,W19,17.0,205950.0,Unreliable
+2018,Tennessee,"Montgomery County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,27.0,205950.0,13.1
+2018,Tennessee,"Montgomery County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,205950.0,10.7
+2018,Tennessee,"Montgomery County, TN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,205950.0,Unreliable
+2018,Tennessee,"Montgomery County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,205950.0,10.2
+2018,Tennessee,"Montgomery County, TN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,205950.0,Unreliable
+2018,Tennessee,"Putnam County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,78843.0,Unreliable
+2018,Tennessee,"Roane County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,53140.0,Unreliable
+2018,Tennessee,"Roane County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,53140.0,Unreliable
+2018,Tennessee,"Roane County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,53140.0,Unreliable
+2018,Tennessee,"Rutherford County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17.0,324890.0,Unreliable
+2018,Tennessee,"Rutherford County, TN",Nontransport accidents,Unspecified fall,W19,13.0,324890.0,Unreliable
+2018,Tennessee,"Rutherford County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,40.0,324890.0,12.3
+2018,Tennessee,"Rutherford County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,37.0,324890.0,11.4
+2018,Tennessee,"Rutherford County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,26.0,324890.0,8.0
+2018,Tennessee,"Rutherford County, TN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,324890.0,Unreliable
+2018,Tennessee,"Sevier County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,97892.0,Unreliable
+2018,Tennessee,"Sevier County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28.0,97892.0,28.6
+2018,Tennessee,"Shelby County, TN",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,38.0,935764.0,4.1
+2018,Tennessee,"Shelby County, TN",Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,10.0,935764.0,Unreliable
+2018,Tennessee,"Shelby County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,96.0,935764.0,10.3
+2018,Tennessee,"Shelby County, TN",Nontransport accidents,Unspecified fall,W19,54.0,935764.0,5.8
+2018,Tennessee,"Shelby County, TN",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,935764.0,Unreliable
+2018,Tennessee,"Shelby County, TN",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,14.0,935764.0,Unreliable
+2018,Tennessee,"Shelby County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,64.0,935764.0,6.8
+2018,Tennessee,"Shelby County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,73.0,935764.0,7.8
+2018,Tennessee,"Shelby County, TN",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,15.0,935764.0,Unreliable
+2018,Tennessee,"Shelby County, TN",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,23.0,935764.0,2.5
+2018,Tennessee,"Shelby County, TN",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,935764.0,Unreliable
+2018,Tennessee,"Shelby County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,48.0,935764.0,5.1
+2018,Tennessee,"Shelby County, TN",Assault (homicide),Assault by other and unspecified firearm discharge,X95,210.0,935764.0,22.4
+2018,Tennessee,"Sullivan County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,157668.0,Unreliable
+2018,Tennessee,"Sullivan County, TN",Nontransport accidents,Unspecified fall,W19,23.0,157668.0,14.6
+2018,Tennessee,"Sullivan County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,157668.0,Unreliable
+2018,Tennessee,"Sullivan County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31.0,157668.0,19.7
+2018,Tennessee,"Sullivan County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,157668.0,Unreliable
+2018,Tennessee,"Sumner County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,26.0,187149.0,13.9
+2018,Tennessee,"Sumner County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,187149.0,Unreliable
+2018,Tennessee,"Sumner County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,25.0,187149.0,13.4
+2018,Tennessee,"Tipton County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,61581.0,Unreliable
+2018,Tennessee,"Tipton County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,61581.0,Unreliable
+2018,Tennessee,"Washington County, TN",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,128607.0,Unreliable
+2018,Tennessee,"Washington County, TN",Nontransport accidents,Other fall on same level,W18,13.0,128607.0,Unreliable
+2018,Tennessee,"Washington County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,128607.0,Unreliable
+2018,Tennessee,"Williamson County, TN",Nontransport accidents,Unspecified fall,W19,35.0,231729.0,15.1
+2018,Tennessee,"Williamson County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,231729.0,Unreliable
+2018,Tennessee,"Williamson County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,231729.0,9.1
+2018,Tennessee,"Williamson County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,231729.0,Unreliable
+2018,Tennessee,"Wilson County, TN",Nontransport accidents,Unspecified fall,W19,16.0,140625.0,Unreliable
+2018,Tennessee,"Wilson County, TN",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,140625.0,Unreliable
+2018,Tennessee,"Wilson County, TN",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,140625.0,Unreliable

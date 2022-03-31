@@ -1,0 +1,31 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Kansas,"Butler County, KS",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,66765.0,Unreliable
+2018,Kansas,"Douglas County, KS",Nontransport accidents,Other fall on same level,W18,10.0,121436.0,Unreliable
+2018,Kansas,"Johnson County, KS",Nontransport accidents,Other fall on same level,W18,55.0,597555.0,9.2
+2018,Kansas,"Johnson County, KS",Nontransport accidents,Unspecified fall,W19,13.0,597555.0,Unreliable
+2018,Kansas,"Johnson County, KS",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,24.0,597555.0,4.0
+2018,Kansas,"Johnson County, KS",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,597555.0,Unreliable
+2018,Kansas,"Johnson County, KS",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12.0,597555.0,Unreliable
+2018,Kansas,"Johnson County, KS",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,30.0,597555.0,5.0
+2018,Kansas,"Johnson County, KS",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,39.0,597555.0,6.5
+2018,Kansas,"Johnson County, KS",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,597555.0,Unreliable
+2018,Kansas,"McPherson County, KS",Nontransport accidents,Unspecified fall,W19,13.0,28537.0,Unreliable
+2018,Kansas,"Reno County, KS",Nontransport accidents,Unspecified fall,W19,22.0,62342.0,35.3
+2018,Kansas,"Sedgwick County, KS",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,54.0,513607.0,10.5
+2018,Kansas,"Sedgwick County, KS",Nontransport accidents,Unspecified fall,W19,73.0,513607.0,14.2
+2018,Kansas,"Sedgwick County, KS",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,21.0,513607.0,4.1
+2018,Kansas,"Sedgwick County, KS",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,513607.0,4.9
+2018,Kansas,"Sedgwick County, KS",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,27.0,513607.0,5.3
+2018,Kansas,"Sedgwick County, KS",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,24.0,513607.0,4.7
+2018,Kansas,"Sedgwick County, KS",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,20.0,513607.0,3.9
+2018,Kansas,"Sedgwick County, KS",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,35.0,513607.0,6.8
+2018,Kansas,"Sedgwick County, KS",Assault (homicide),Assault by other and unspecified firearm discharge,X95,34.0,513607.0,6.6
+2018,Kansas,"Shawnee County, KS",Nontransport accidents,Other fall on same level,W18,13.0,177499.0,Unreliable
+2018,Kansas,"Shawnee County, KS",Nontransport accidents,Unspecified fall,W19,10.0,177499.0,Unreliable
+2018,Kansas,"Shawnee County, KS",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,177499.0,Unreliable
+2018,Kansas,"Shawnee County, KS",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,177499.0,Unreliable
+2018,Kansas,"Shawnee County, KS",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,177499.0,Unreliable
+2018,Kansas,"Shawnee County, KS",Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,177499.0,Unreliable
+2018,Kansas,"Wyandotte County, KS",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,165324.0,Unreliable
+2018,Kansas,"Wyandotte County, KS",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,165324.0,Unreliable
+2018,Kansas,"Wyandotte County, KS",Assault (homicide),Assault by other and unspecified firearm discharge,X95,24.0,165324.0,14.5

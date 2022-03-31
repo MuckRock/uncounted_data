@@ -1,0 +1,56 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Connecticut,09,"Fairfield County, CT",09001,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,943823.0,Unreliable
+2018,Connecticut,09,"Fairfield County, CT",09001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24.0,943823.0,2.5
+2018,Connecticut,09,"Fairfield County, CT",09001,Nontransport accidents,Unspecified fall,W19,85.0,943823.0,9.0
+2018,Connecticut,09,"Fairfield County, CT",09001,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,15.0,943823.0,Unreliable
+2018,Connecticut,09,"Fairfield County, CT",09001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,85.0,943823.0,9.0
+2018,Connecticut,09,"Fairfield County, CT",09001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,77.0,943823.0,8.2
+2018,Connecticut,09,"Fairfield County, CT",09001,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,12.0,943823.0,Unreliable
+2018,Connecticut,09,"Fairfield County, CT",09001,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,943823.0,Unreliable
+2018,Connecticut,09,"Fairfield County, CT",09001,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,943823.0,Unreliable
+2018,Connecticut,09,"Fairfield County, CT",09001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,27.0,943823.0,2.9
+2018,Connecticut,09,"Fairfield County, CT",09001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,943823.0,Unreliable
+2018,Connecticut,09,"Hartford County, CT",09003,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,22.0,892697.0,2.5
+2018,Connecticut,09,"Hartford County, CT",09003,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,37.0,892697.0,4.1
+2018,Connecticut,09,"Hartford County, CT",09003,Nontransport accidents,Fall on and from stairs and steps,W10,10.0,892697.0,Unreliable
+2018,Connecticut,09,"Hartford County, CT",09003,Nontransport accidents,Unspecified fall,W19,77.0,892697.0,8.6
+2018,Connecticut,09,"Hartford County, CT",09003,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,17.0,892697.0,Unreliable
+2018,Connecticut,09,"Hartford County, CT",09003,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,147.0,892697.0,16.5
+2018,Connecticut,09,"Hartford County, CT",09003,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,132.0,892697.0,14.8
+2018,Connecticut,09,"Hartford County, CT",09003,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,12.0,892697.0,Unreliable
+2018,Connecticut,09,"Hartford County, CT",09003,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,24.0,892697.0,2.7
+2018,Connecticut,09,"Hartford County, CT",09003,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,892697.0,Unreliable
+2018,Connecticut,09,"Hartford County, CT",09003,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,46.0,892697.0,5.2
+2018,Connecticut,09,"Hartford County, CT",09003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,892697.0,2.2
+2018,Connecticut,09,"Hartford County, CT",09003,Assault (homicide),Assault by other and unspecified firearm discharge,X95,19.0,892697.0,Unreliable
+2018,Connecticut,09,"Litchfield County, CT",09005,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,181111.0,Unreliable
+2018,Connecticut,09,"Litchfield County, CT",09005,Nontransport accidents,Unspecified fall,W19,17.0,181111.0,Unreliable
+2018,Connecticut,09,"Litchfield County, CT",09005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,41.0,181111.0,22.6
+2018,Connecticut,09,"Litchfield County, CT",09005,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,32.0,181111.0,17.7
+2018,Connecticut,09,"Litchfield County, CT",09005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,181111.0,Unreliable
+2018,Connecticut,09,"Litchfield County, CT",09005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,181111.0,Unreliable
+2018,Connecticut,09,"Middlesex County, CT",09007,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,39.0,162682.0,24.0
+2018,Connecticut,09,"Middlesex County, CT",09007,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,162682.0,Unreliable
+2018,Connecticut,09,"New Haven County, CT",09009,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,857620.0,Unreliable
+2018,Connecticut,09,"New Haven County, CT",09009,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,34.0,857620.0,4.0
+2018,Connecticut,09,"New Haven County, CT",09009,Nontransport accidents,Fall on and from stairs and steps,W10,12.0,857620.0,Unreliable
+2018,Connecticut,09,"New Haven County, CT",09009,Nontransport accidents,Unspecified fall,W19,87.0,857620.0,10.1
+2018,Connecticut,09,"New Haven County, CT",09009,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,19.0,857620.0,Unreliable
+2018,Connecticut,09,"New Haven County, CT",09009,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,115.0,857620.0,13.4
+2018,Connecticut,09,"New Haven County, CT",09009,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,123.0,857620.0,14.3
+2018,Connecticut,09,"New Haven County, CT",09009,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,22.0,857620.0,2.6
+2018,Connecticut,09,"New Haven County, CT",09009,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,14.0,857620.0,Unreliable
+2018,Connecticut,09,"New Haven County, CT",09009,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,37.0,857620.0,4.3
+2018,Connecticut,09,"New Haven County, CT",09009,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,29.0,857620.0,3.4
+2018,Connecticut,09,"New Haven County, CT",09009,Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,857620.0,Unreliable
+2018,Connecticut,09,"New London County, CT",09011,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,266784.0,Unreliable
+2018,Connecticut,09,"New London County, CT",09011,Nontransport accidents,Unspecified fall,W19,35.0,266784.0,13.1
+2018,Connecticut,09,"New London County, CT",09011,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,50.0,266784.0,18.7
+2018,Connecticut,09,"New London County, CT",09011,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,266784.0,15.0
+2018,Connecticut,09,"New London County, CT",09011,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,266784.0,Unreliable
+2018,Connecticut,09,"Tolland County, CT",09013,Nontransport accidents,Unspecified fall,W19,11.0,150921.0,Unreliable
+2018,Connecticut,09,"Tolland County, CT",09013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,150921.0,13.9
+2018,Connecticut,09,"Tolland County, CT",09013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,150921.0,Unreliable
+2018,Connecticut,09,"Windham County, CT",09015,Nontransport accidents,Unspecified fall,W19,16.0,117027.0,Unreliable
+2018,Connecticut,09,"Windham County, CT",09015,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,23.0,117027.0,19.7
+2018,Connecticut,09,"Windham County, CT",09015,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,117027.0,Unreliable

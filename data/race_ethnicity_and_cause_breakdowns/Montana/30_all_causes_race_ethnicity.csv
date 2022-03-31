@@ -1,0 +1,326 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Montana,30,"Beaverhead County, MT",30001,White,Not Hispanic or Latino,88.0,8490.0,1036.5,663.2
+2018,Montana,30,"Big Horn County, MT",30003,American Indian or Alaska Native,Not Hispanic or Latino,89.0,8344.0,1066.6,1427.4
+2018,Montana,30,"Big Horn County, MT",30003,White,Not Hispanic or Latino,42.0,3547.0,1184.1,740.4
+2018,Montana,30,"Blaine County, MT",30005,American Indian or Alaska Native,Not Hispanic or Latino,24.0,3306.0,726.0,886.0
+2018,Montana,30,"Blaine County, MT",30005,White,Not Hispanic or Latino,30.0,3013.0,995.7,546.0
+2018,Montana,30,"Broadwater County, MT",30007,White,Not Hispanic or Latino,56.0,5665.0,988.5,721.1
+2018,Montana,30,"Carbon County, MT",30009,White,Not Hispanic or Latino,104.0,10084.0,1031.3,578.1
+2018,Montana,30,"Carter County, MT",30011,White,Not Hispanic or Latino,18.0,1189.0,Unreliable,Unreliable
+2018,Montana,30,"Cascade County, MT",30013,American Indian or Alaska Native,Not Hispanic or Latino,40.0,3582.0,1116.7,1278.1
+2018,Montana,30,"Cascade County, MT",30013,White,Not Hispanic or Latino,808.0,69408.0,1164.1,761.5
+2018,Montana,30,"Cascade County, MT",30013,More than one race,Not Hispanic or Latino,27.0,2867.0,941.8,1941.4
+2018,Montana,30,"Chouteau County, MT",30015,White,Not Hispanic or Latino,56.0,4421.0,1266.7,753.7
+2018,Montana,30,"Custer County, MT",30017,White,Not Hispanic or Latino,132.0,10594.0,1246.0,787.1
+2018,Montana,30,"Daniels County, MT",30019,White,Not Hispanic or Latino,24.0,1593.0,1506.6,705.7
+2018,Montana,30,"Dawson County, MT",30021,White,Not Hispanic or Latino,87.0,7997.0,1087.9,616.2
+2018,Montana,30,"Deer Lodge County, MT",30023,White,Not Hispanic or Latino,114.0,8196.0,1390.9,862.0
+2018,Montana,30,"Fallon County, MT",30025,White,Not Hispanic or Latino,29.0,2774.0,1045.4,794.5
+2018,Montana,30,"Fergus County, MT",30027,White,Not Hispanic or Latino,126.0,10441.0,1206.8,706.9
+2018,Montana,30,"Flathead County, MT",30029,White,Not Hispanic or Latino,914.0,94680.0,965.4,706.9
+2018,Montana,30,"Gallatin County, MT",30031,White,Not Hispanic or Latino,541.0,102084.0,530.0,560.2
+2018,Montana,30,"Garfield County, MT",30033,White,Not Hispanic or Latino,15.0,1235.0,Unreliable,Unreliable
+2018,Montana,30,"Glacier County, MT",30035,American Indian or Alaska Native,Not Hispanic or Latino,75.0,8654.0,866.7,1082.1
+2018,Montana,30,"Glacier County, MT",30035,White,Not Hispanic or Latino,53.0,4187.0,1265.8,906.5
+2018,Montana,30,"Granite County, MT",30039,White,Not Hispanic or Latino,31.0,3180.0,974.8,511.1
+2018,Montana,30,"Hill County, MT",30041,American Indian or Alaska Native,Not Hispanic or Latino,43.0,3778.0,1138.2,1937.4
+2018,Montana,30,"Hill County, MT",30041,White,Not Hispanic or Latino,104.0,11306.0,919.9,650.2
+2018,Montana,30,"Jefferson County, MT",30043,White,Not Hispanic or Latino,106.0,11234.0,943.6,765.2
+2018,Montana,30,"Judith Basin County, MT",30045,White,Not Hispanic or Latino,22.0,1882.0,1169.0,601.1
+2018,Montana,30,"Lake County, MT",30047,American Indian or Alaska Native,Not Hispanic or Latino,74.0,6823.0,1084.6,1681.7
+2018,Montana,30,"Lake County, MT",30047,White,Not Hispanic or Latino,225.0,19707.0,1141.7,626.4
+2018,Montana,30,"Lewis and Clark County, MT",30049,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1318.0,Unreliable,Unreliable
+2018,Montana,30,"Lewis and Clark County, MT",30049,White,Not Hispanic or Latino,579.0,62641.0,924.3,680.3
+2018,Montana,30,"Liberty County, MT",30051,White,Not Hispanic or Latino,15.0,2333.0,Unreliable,Unreliable
+2018,Montana,30,"Lincoln County, MT",30053,White,Not Hispanic or Latino,241.0,18303.0,1316.7,728.3
+2018,Montana,30,"McCone County, MT",30055,White,Not Hispanic or Latino,18.0,1577.0,Unreliable,Unreliable
+2018,Montana,30,"Madison County, MT",30057,White,Not Hispanic or Latino,65.0,7901.0,822.7,452.3
+2018,Montana,30,"Meagher County, MT",30059,White,Not Hispanic or Latino,25.0,1769.0,1413.2,711.7
+2018,Montana,30,"Mineral County, MT",30061,White,Not Hispanic or Latino,49.0,3954.0,1239.3,723.2
+2018,Montana,30,"Missoula County, MT",30063,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2808.0,747.9,1380.6
+2018,Montana,30,"Missoula County, MT",30063,White,Not Hispanic or Latino,850.0,105938.0,802.4,690.7
+2018,Montana,30,"Musselshell County, MT",30065,White,Not Hispanic or Latino,72.0,4209.0,1710.6,1007.6
+2018,Montana,30,"Park County, MT",30067,White,Not Hispanic or Latino,137.0,15591.0,878.7,601.6
+2018,Montana,30,"Phillips County, MT",30071,White,Not Hispanic or Latino,63.0,3391.0,1857.9,1016.4
+2018,Montana,30,"Pondera County, MT",30073,American Indian or Alaska Native,Not Hispanic or Latino,17.0,822.0,Unreliable,Unreliable
+2018,Montana,30,"Pondera County, MT",30073,White,Not Hispanic or Latino,68.0,4838.0,1405.5,736.9
+2018,Montana,30,"Powder River County, MT",30075,White,Not Hispanic or Latino,15.0,1603.0,Unreliable,Unreliable
+2018,Montana,30,"Powell County, MT",30077,White,Not Hispanic or Latino,75.0,6187.0,1212.2,788.1
+2018,Montana,30,"Prairie County, MT",30079,White,Not Hispanic or Latino,21.0,983.0,2136.3,827.2
+2018,Montana,30,"Ravalli County, MT",30081,White,Not Hispanic or Latino,456.0,40018.0,1139.5,695.2
+2018,Montana,30,"Richland County, MT",30083,White,Not Hispanic or Latino,84.0,9752.0,861.4,758.7
+2018,Montana,30,"Roosevelt County, MT",30085,American Indian or Alaska Native,Not Hispanic or Latino,72.0,6415.0,1122.4,1633.8
+2018,Montana,30,"Roosevelt County, MT",30085,White,Not Hispanic or Latino,47.0,3693.0,1272.7,796.2
+2018,Montana,30,"Rosebud County, MT",30087,American Indian or Alaska Native,Not Hispanic or Latino,49.0,3265.0,1500.8,2464.8
+2018,Montana,30,"Rosebud County, MT",30087,White,Not Hispanic or Latino,47.0,4979.0,944.0,567.6
+2018,Montana,30,"Sanders County, MT",30089,White,Not Hispanic or Latino,142.0,10663.0,1331.7,714.3
+2018,Montana,30,"Sheridan County, MT",30091,White,Not Hispanic or Latino,39.0,3089.0,1262.5,634.3
+2018,Montana,30,"Silver Bow County, MT",30093,American Indian or Alaska Native,Not Hispanic or Latino,11.0,634.0,Unreliable,Unreliable
+2018,Montana,30,"Silver Bow County, MT",30093,White,Not Hispanic or Latino,385.0,31384.0,1226.7,835.7
+2018,Montana,30,"Stillwater County, MT",30095,White,Not Hispanic or Latino,81.0,8785.0,922.0,616.0
+2018,Montana,30,"Sweet Grass County, MT",30097,White,Not Hispanic or Latino,28.0,3468.0,807.4,432.1
+2018,Montana,30,"Teton County, MT",30099,White,Not Hispanic or Latino,54.0,5746.0,939.8,540.7
+2018,Montana,30,"Toole County, MT",30101,White,Not Hispanic or Latino,67.0,4185.0,1601.0,941.5
+2018,Montana,30,"Valley County, MT",30105,American Indian or Alaska Native,Not Hispanic or Latino,11.0,651.0,Unreliable,Unreliable
+2018,Montana,30,"Valley County, MT",30105,White,Not Hispanic or Latino,83.0,6294.0,1318.7,700.9
+2018,Montana,30,"Wheatland County, MT",30107,White,Not Hispanic or Latino,35.0,1984.0,1764.1,1134.8
+2018,Montana,30,"Wibaux County, MT",30109,White,Not Hispanic or Latino,15.0,961.0,Unreliable,Unreliable
+2018,Montana,30,"Yellowstone County, MT",30111,American Indian or Alaska Native,Not Hispanic or Latino,54.0,6518.0,828.5,1440.4
+2018,Montana,30,"Yellowstone County, MT",30111,Black or African American,Not Hispanic or Latino,11.0,1052.0,Unreliable,Unreliable
+2018,Montana,30,"Yellowstone County, MT",30111,White,Hispanic or Latino,28.0,7232.0,387.2,756.6
+2018,Montana,30,"Yellowstone County, MT",30111,White,Not Hispanic or Latino,1498.0,137946.0,1085.9,771.2
+2019,Montana,30,"Beaverhead County, MT",30001,White,Not Hispanic or Latino,77.0,8464.0,909.7,529.7
+2019,Montana,30,"Big Horn County, MT",30003,American Indian or Alaska Native,Not Hispanic or Latino,114.0,8384.0,1359.7,1942.0
+2019,Montana,30,"Big Horn County, MT",30003,White,Not Hispanic or Latino,47.0,3528.0,1332.2,685.0
+2019,Montana,30,"Blaine County, MT",30005,American Indian or Alaska Native,Not Hispanic or Latino,40.0,3271.0,1222.9,1635.7
+2019,Montana,30,"Blaine County, MT",30005,White,Not Hispanic or Latino,35.0,2929.0,1194.9,700.2
+2019,Montana,30,"Broadwater County, MT",30007,White,Not Hispanic or Latino,53.0,5820.0,910.7,581.2
+2019,Montana,30,"Carbon County, MT",30009,White,Not Hispanic or Latino,106.0,10082.0,1051.4,593.4
+2019,Montana,30,"Carter County, MT",30011,White,Not Hispanic or Latino,12.0,1200.0,Unreliable,Unreliable
+2019,Montana,30,"Cascade County, MT",30013,American Indian or Alaska Native,Not Hispanic or Latino,46.0,3475.0,1323.7,1508.0
+2019,Montana,30,"Cascade County, MT",30013,White,Hispanic or Latino,16.0,2824.0,Unreliable,Unreliable
+2019,Montana,30,"Cascade County, MT",30013,White,Not Hispanic or Latino,805.0,69115.0,1164.7,762.8
+2019,Montana,30,"Cascade County, MT",30013,More than one race,Not Hispanic or Latino,26.0,2810.0,925.3,2042.0
+2019,Montana,30,"Chouteau County, MT",30015,White,Not Hispanic or Latino,43.0,4325.0,994.2,546.7
+2019,Montana,30,"Custer County, MT",30017,White,Not Hispanic or Latino,138.0,10387.0,1328.6,838.1
+2019,Montana,30,"Daniels County, MT",30019,White,Not Hispanic or Latino,17.0,1551.0,Unreliable,Unreliable
+2019,Montana,30,"Dawson County, MT",30021,White,Not Hispanic or Latino,79.0,7942.0,994.7,620.9
+2019,Montana,30,"Deer Lodge County, MT",30023,White,Not Hispanic or Latino,113.0,8197.0,1378.6,849.1
+2019,Montana,30,"Fallon County, MT",30025,White,Not Hispanic or Latino,27.0,2698.0,1000.7,672.5
+2019,Montana,30,"Fergus County, MT",30027,White,Not Hispanic or Latino,151.0,10355.0,1458.2,809.4
+2019,Montana,30,"Flathead County, MT",30029,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1166.0,Unreliable,Unreliable
+2019,Montana,30,"Flathead County, MT",30029,White,Not Hispanic or Latino,922.0,96151.0,958.9,702.8
+2019,Montana,30,"Gallatin County, MT",30031,White,Not Hispanic or Latino,587.0,104460.0,561.9,593.5
+2019,Montana,30,"Glacier County, MT",30035,American Indian or Alaska Native,Not Hispanic or Latino,84.0,8629.0,973.5,1210.2
+2019,Montana,30,"Glacier County, MT",30035,White,Not Hispanic or Latino,30.0,4148.0,723.2,510.1
+2019,Montana,30,"Granite County, MT",30039,White,Not Hispanic or Latino,28.0,3175.0,881.9,404.7
+2019,Montana,30,"Hill County, MT",30041,American Indian or Alaska Native,Not Hispanic or Latino,35.0,3873.0,903.7,1392.5
+2019,Montana,30,"Hill County, MT",30041,White,Not Hispanic or Latino,106.0,11262.0,941.2,667.5
+2019,Montana,30,"Jefferson County, MT",30043,White,Not Hispanic or Latino,98.0,11276.0,869.1,669.9
+2019,Montana,30,"Judith Basin County, MT",30045,White,Not Hispanic or Latino,25.0,1923.0,1300.1,621.1
+2019,Montana,30,"Lake County, MT",30047,American Indian or Alaska Native,Not Hispanic or Latino,75.0,6872.0,1091.4,1681.2
+2019,Montana,30,"Lake County, MT",30047,White,Not Hispanic or Latino,250.0,19797.0,1262.8,675.9
+2019,Montana,30,"Lewis and Clark County, MT",30049,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1368.0,Unreliable,Unreliable
+2019,Montana,30,"Lewis and Clark County, MT",30049,White,Not Hispanic or Latino,668.0,63216.0,1056.7,756.9
+2019,Montana,30,"Liberty County, MT",30051,White,Not Hispanic or Latino,11.0,2235.0,Unreliable,Unreliable
+2019,Montana,30,"Lincoln County, MT",30053,White,Not Hispanic or Latino,249.0,18445.0,1350.0,723.2
+2019,Montana,30,"McCone County, MT",30055,White,Not Hispanic or Latino,18.0,1563.0,Unreliable,Unreliable
+2019,Montana,30,"Madison County, MT",30057,White,Not Hispanic or Latino,113.0,7957.0,1420.1,780.0
+2019,Montana,30,"Meagher County, MT",30059,White,Not Hispanic or Latino,22.0,1774.0,1240.1,589.2
+2019,Montana,30,"Mineral County, MT",30061,White,Not Hispanic or Latino,47.0,4023.0,1168.3,634.1
+2019,Montana,30,"Missoula County, MT",30063,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2871.0,1079.8,2085.9
+2019,Montana,30,"Missoula County, MT",30063,White,Not Hispanic or Latino,858.0,106505.0,805.6,696.8
+2019,Montana,30,"Missoula County, MT",30063,More than one race,Not Hispanic or Latino,10.0,3357.0,Unreliable,Unreliable
+2019,Montana,30,"Musselshell County, MT",30065,White,Not Hispanic or Latino,50.0,4155.0,1203.4,727.7
+2019,Montana,30,"Park County, MT",30067,White,Not Hispanic or Latino,170.0,15444.0,1100.8,707.9
+2019,Montana,30,"Phillips County, MT",30071,White,Not Hispanic or Latino,63.0,3268.0,1927.8,1001.1
+2019,Montana,30,"Pondera County, MT",30073,American Indian or Alaska Native,Not Hispanic or Latino,17.0,834.0,Unreliable,Unreliable
+2019,Montana,30,"Pondera County, MT",30073,White,Not Hispanic or Latino,61.0,4756.0,1282.6,641.5
+2019,Montana,30,"Powder River County, MT",30075,White,Not Hispanic or Latino,22.0,1559.0,1411.2,683.9
+2019,Montana,30,"Powell County, MT",30077,White,Not Hispanic or Latino,84.0,6105.0,1375.9,937.6
+2019,Montana,30,"Prairie County, MT",30079,White,Not Hispanic or Latino,21.0,959.0,2189.8,874.2
+2019,Montana,30,"Ravalli County, MT",30081,White,Not Hispanic or Latino,513.0,40584.0,1264.0,742.6
+2019,Montana,30,"Richland County, MT",30083,White,Not Hispanic or Latino,82.0,9599.0,854.3,701.2
+2019,Montana,30,"Roosevelt County, MT",30085,American Indian or Alaska Native,Not Hispanic or Latino,89.0,6376.0,1395.9,2092.0
+2019,Montana,30,"Roosevelt County, MT",30085,White,Not Hispanic or Latino,46.0,3666.0,1254.8,818.2
+2019,Montana,30,"Rosebud County, MT",30087,American Indian or Alaska Native,Not Hispanic or Latino,41.0,3267.0,1255.0,2012.0
+2019,Montana,30,"Rosebud County, MT",30087,White,Not Hispanic or Latino,50.0,4841.0,1032.8,655.2
+2019,Montana,30,"Sanders County, MT",30089,White,Not Hispanic or Latino,159.0,10881.0,1461.3,757.6
+2019,Montana,30,"Sheridan County, MT",30091,White,Not Hispanic or Latino,49.0,2989.0,1639.3,820.0
+2019,Montana,30,"Silver Bow County, MT",30093,White,Not Hispanic or Latino,427.0,31476.0,1356.6,917.3
+2019,Montana,30,"Stillwater County, MT",30095,White,Not Hispanic or Latino,76.0,8906.0,853.4,560.6
+2019,Montana,30,"Sweet Grass County, MT",30097,White,Not Hispanic or Latino,35.0,3466.0,1009.8,476.0
+2019,Montana,30,"Teton County, MT",30099,White,Not Hispanic or Latino,75.0,5726.0,1309.8,802.4
+2019,Montana,30,"Toole County, MT",30101,White,Not Hispanic or Latino,45.0,4077.0,1103.8,683.7
+2019,Montana,30,"Valley County, MT",30105,American Indian or Alaska Native,Not Hispanic or Latino,11.0,648.0,Unreliable,Unreliable
+2019,Montana,30,"Valley County, MT",30105,White,Not Hispanic or Latino,87.0,6248.0,1392.4,728.2
+2019,Montana,30,"Wheatland County, MT",30107,White,Not Hispanic or Latino,26.0,1921.0,1353.5,831.4
+2019,Montana,30,"Wibaux County, MT",30109,White,Not Hispanic or Latino,18.0,901.0,Unreliable,Unreliable
+2019,Montana,30,"Yellowstone County, MT",30111,American Indian or Alaska Native,Not Hispanic or Latino,60.0,6601.0,909.0,1383.7
+2019,Montana,30,"Yellowstone County, MT",30111,White,Hispanic or Latino,27.0,7298.0,370.0,840.8
+2019,Montana,30,"Yellowstone County, MT",30111,White,Not Hispanic or Latino,1488.0,138637.0,1073.3,751.3
+2019,Montana,30,"Yellowstone County, MT",30111,More than one race,Not Hispanic or Latino,10.0,4291.0,Unreliable,Unreliable
+2020,Montana,30,"Beaverhead County, MT",30001,White,Not Hispanic or Latino,118.0,8498.0,1388.6,820.4
+2020,Montana,30,"Big Horn County, MT",30003,American Indian or Alaska Native,Not Hispanic or Latino,156.0,8303.0,1878.8,2819.5
+2020,Montana,30,"Big Horn County, MT",30003,White,Not Hispanic or Latino,56.0,3461.0,1618.0,841.3
+2020,Montana,30,"Blaine County, MT",30005,American Indian or Alaska Native,Not Hispanic or Latino,51.0,3277.0,1556.3,2031.1
+2020,Montana,30,"Blaine County, MT",30005,White,Not Hispanic or Latino,53.0,2846.0,1862.3,1008.1
+2020,Montana,30,"Broadwater County, MT",30007,White,Not Hispanic or Latino,53.0,5977.0,886.7,549.6
+2020,Montana,30,"Carbon County, MT",30009,White,Not Hispanic or Latino,126.0,10253.0,1228.9,711.7
+2020,Montana,30,"Carter County, MT",30011,White,Not Hispanic or Latino,22.0,1181.0,1862.8,935.3
+2020,Montana,30,"Cascade County, MT",30013,American Indian or Alaska Native,Not Hispanic or Latino,51.0,3350.0,1522.4,1591.7
+2020,Montana,30,"Cascade County, MT",30013,White,Hispanic or Latino,11.0,2938.0,Unreliable,Unreliable
+2020,Montana,30,"Cascade County, MT",30013,White,Not Hispanic or Latino,976.0,68894.0,1416.7,912.2
+2020,Montana,30,"Cascade County, MT",30013,More than one race,Not Hispanic or Latino,25.0,2932.0,852.7,1463.5
+2020,Montana,30,"Chouteau County, MT",30015,White,Not Hispanic or Latino,60.0,4366.0,1374.3,675.9
+2020,Montana,30,"Custer County, MT",30017,White,Not Hispanic or Latino,134.0,10241.0,1308.5,827.9
+2020,Montana,30,"Daniels County, MT",30019,White,Not Hispanic or Latino,28.0,1497.0,1870.4,811.6
+2020,Montana,30,"Dawson County, MT",30021,White,Not Hispanic or Latino,132.0,7875.0,1676.2,1014.9
+2020,Montana,30,"Deer Lodge County, MT",30023,White,Not Hispanic or Latino,146.0,8247.0,1770.3,1117.5
+2020,Montana,30,"Fallon County, MT",30025,White,Not Hispanic or Latino,38.0,2676.0,1420.0,975.5
+2020,Montana,30,"Fergus County, MT",30027,White,Not Hispanic or Latino,168.0,10383.0,1618.0,966.6
+2020,Montana,30,"Flathead County, MT",30029,White,Not Hispanic or Latino,1115.0,97834.0,1139.7,840.3
+2020,Montana,30,"Gallatin County, MT",30031,White,Not Hispanic or Latino,610.0,106252.0,574.1,598.2
+2020,Montana,30,"Garfield County, MT",30033,White,Not Hispanic or Latino,13.0,1236.0,Unreliable,Unreliable
+2020,Montana,30,"Glacier County, MT",30035,American Indian or Alaska Native,Not Hispanic or Latino,142.0,8572.0,1656.6,2107.7
+2020,Montana,30,"Glacier County, MT",30035,White,Not Hispanic or Latino,32.0,4079.0,784.5,554.5
+2020,Montana,30,"Golden Valley County, MT",30037,White,Not Hispanic or Latino,15.0,738.0,Unreliable,Unreliable
+2020,Montana,30,"Granite County, MT",30039,White,Not Hispanic or Latino,26.0,3098.0,839.3,482.0
+2020,Montana,30,"Hill County, MT",30041,American Indian or Alaska Native,Not Hispanic or Latino,47.0,3808.0,1234.2,2150.6
+2020,Montana,30,"Hill County, MT",30041,White,Not Hispanic or Latino,140.0,11157.0,1254.8,916.1
+2020,Montana,30,"Jefferson County, MT",30043,White,Not Hispanic or Latino,152.0,11368.0,1337.1,968.6
+2020,Montana,30,"Judith Basin County, MT",30045,White,Not Hispanic or Latino,15.0,1893.0,Unreliable,Unreliable
+2020,Montana,30,"Lake County, MT",30047,American Indian or Alaska Native,Not Hispanic or Latino,85.0,6960.0,1221.3,1811.1
+2020,Montana,30,"Lake County, MT",30047,White,Not Hispanic or Latino,275.0,20236.0,1359.0,715.8
+2020,Montana,30,"Lewis and Clark County, MT",30049,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1302.0,Unreliable,Unreliable
+2020,Montana,30,"Lewis and Clark County, MT",30049,White,Not Hispanic or Latino,672.0,63824.0,1052.9,760.1
+2020,Montana,30,"Liberty County, MT",30051,White,Not Hispanic or Latino,21.0,2268.0,925.9,417.0
+2020,Montana,30,"Lincoln County, MT",30053,White,Not Hispanic or Latino,283.0,18764.0,1508.2,840.5
+2020,Montana,30,"McCone County, MT",30055,White,Not Hispanic or Latino,14.0,1547.0,Unreliable,Unreliable
+2020,Montana,30,"Madison County, MT",30057,White,Not Hispanic or Latino,104.0,8268.0,1257.9,664.4
+2020,Montana,30,"Meagher County, MT",30059,White,Not Hispanic or Latino,20.0,1739.0,1150.1,540.3
+2020,Montana,30,"Mineral County, MT",30061,White,Not Hispanic or Latino,62.0,4150.0,1494.0,759.6
+2020,Montana,30,"Missoula County, MT",30063,American Indian or Alaska Native,Not Hispanic or Latino,25.0,2943.0,849.5,1456.2
+2020,Montana,30,"Missoula County, MT",30063,White,Hispanic or Latino,13.0,3462.0,Unreliable,Unreliable
+2020,Montana,30,"Missoula County, MT",30063,White,Not Hispanic or Latino,946.0,107774.0,877.8,735.9
+2020,Montana,30,"Musselshell County, MT",30065,White,Not Hispanic or Latino,71.0,4197.0,1691.7,886.9
+2020,Montana,30,"Park County, MT",30067,White,Not Hispanic or Latino,188.0,15579.0,1206.8,745.0
+2020,Montana,30,"Phillips County, MT",30071,American Indian or Alaska Native,Not Hispanic or Latino,12.0,359.0,Unreliable,Unreliable
+2020,Montana,30,"Phillips County, MT",30071,White,Not Hispanic or Latino,44.0,3240.0,1358.0,678.6
+2020,Montana,30,"Pondera County, MT",30073,American Indian or Alaska Native,Not Hispanic or Latino,12.0,808.0,Unreliable,Unreliable
+2020,Montana,30,"Pondera County, MT",30073,White,Not Hispanic or Latino,62.0,4653.0,1332.5,726.0
+2020,Montana,30,"Powder River County, MT",30075,White,Not Hispanic or Latino,20.0,1551.0,1289.5,495.4
+2020,Montana,30,"Powell County, MT",30077,White,Not Hispanic or Latino,90.0,6024.0,1494.0,943.0
+2020,Montana,30,"Prairie County, MT",30079,White,Not Hispanic or Latino,20.0,945.0,2116.4,770.5
+2020,Montana,30,"Ravalli County, MT",30081,White,Not Hispanic or Latino,545.0,41652.0,1308.5,740.3
+2020,Montana,30,"Richland County, MT",30083,White,Not Hispanic or Latino,112.0,9756.0,1148.0,980.3
+2020,Montana,30,"Roosevelt County, MT",30085,American Indian or Alaska Native,Not Hispanic or Latino,137.0,6450.0,2124.0,3034.6
+2020,Montana,30,"Roosevelt County, MT",30085,White,Not Hispanic or Latino,54.0,3625.0,1489.7,926.3
+2020,Montana,30,"Rosebud County, MT",30087,American Indian or Alaska Native,Not Hispanic or Latino,77.0,3241.0,2375.8,3456.5
+2020,Montana,30,"Rosebud County, MT",30087,White,Not Hispanic or Latino,57.0,4767.0,1195.7,686.1
+2020,Montana,30,"Sanders County, MT",30089,American Indian or Alaska Native,Not Hispanic or Latino,10.0,425.0,Unreliable,Unreliable
+2020,Montana,30,"Sanders County, MT",30089,White,Not Hispanic or Latino,176.0,10895.0,1615.4,854.1
+2020,Montana,30,"Sheridan County, MT",30091,White,Not Hispanic or Latino,37.0,2947.0,1255.5,593.5
+2020,Montana,30,"Silver Bow County, MT",30093,White,Not Hispanic or Latino,454.0,31620.0,1435.8,998.5
+2020,Montana,30,"Stillwater County, MT",30095,White,Not Hispanic or Latino,105.0,9134.0,1149.6,726.3
+2020,Montana,30,"Sweet Grass County, MT",30097,White,Not Hispanic or Latino,50.0,3410.0,1466.3,773.0
+2020,Montana,30,"Teton County, MT",30099,White,Not Hispanic or Latino,79.0,5810.0,1359.7,819.4
+2020,Montana,30,"Toole County, MT",30101,White,Not Hispanic or Latino,52.0,4039.0,1287.4,835.5
+2020,Montana,30,"Valley County, MT",30105,American Indian or Alaska Native,Not Hispanic or Latino,12.0,618.0,Unreliable,Unreliable
+2020,Montana,30,"Valley County, MT",30105,White,Not Hispanic or Latino,90.0,6226.0,1445.6,766.7
+2020,Montana,30,"Wheatland County, MT",30107,White,Not Hispanic or Latino,33.0,1954.0,1688.8,980.8
+2020,Montana,30,"Wibaux County, MT",30109,White,Not Hispanic or Latino,23.0,862.0,2668.2,1093.4
+2020,Montana,30,"Yellowstone County, MT",30111,American Indian or Alaska Native,Not Hispanic or Latino,86.0,6738.0,1276.3,2002.5
+2020,Montana,30,"Yellowstone County, MT",30111,Black or African American,Not Hispanic or Latino,10.0,1062.0,Unreliable,Unreliable
+2020,Montana,30,"Yellowstone County, MT",30111,White,Hispanic or Latino,51.0,7535.0,676.8,1351.3
+2020,Montana,30,"Yellowstone County, MT",30111,White,Not Hispanic or Latino,1724.0,139329.0,1237.4,875.7
+2020,Montana,30,"Yellowstone County, MT",30111,More than one race,Not Hispanic or Latino,12.0,4545.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Beaverhead County, MT",30001,White,Not Hispanic or Latino,117.0,8498.0,1376.8,817.2
+2021 (provisional),Montana,30,"Big Horn County, MT",30003,American Indian or Alaska Native,Not Hispanic or Latino,115.0,8303.0,1385.0,1958.2
+2021 (provisional),Montana,30,"Big Horn County, MT",30003,White,Not Hispanic or Latino,44.0,3461.0,1271.3,763.2
+2021 (provisional),Montana,30,"Blaine County, MT",30005,American Indian or Alaska Native,Not Hispanic or Latino,42.0,3277.0,1281.7,1621.9
+2021 (provisional),Montana,30,"Blaine County, MT",30005,White,Not Hispanic or Latino,32.0,2846.0,1124.4,654.5
+2021 (provisional),Montana,30,"Broadwater County, MT",30007,White,Not Hispanic or Latino,88.0,5977.0,1472.3,974.1
+2021 (provisional),Montana,30,"Carbon County, MT",30009,White,Not Hispanic or Latino,105.0,10253.0,1024.1,607.5
+2021 (provisional),Montana,30,"Carter County, MT",30011,White,Not Hispanic or Latino,12.0,1181.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Cascade County, MT",30013,American Indian or Alaska Native,Not Hispanic or Latino,60.0,3350.0,1791.0,1863.3
+2021 (provisional),Montana,30,"Cascade County, MT",30013,Black or African American,Not Hispanic or Latino,10.0,1212.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Cascade County, MT",30013,White,Hispanic or Latino,16.0,2938.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Cascade County, MT",30013,White,Not Hispanic or Latino,910.0,68894.0,1320.9,867.0
+2021 (provisional),Montana,30,"Cascade County, MT",30013,More than one race,Not Hispanic or Latino,22.0,2932.0,750.3,1238.0
+2021 (provisional),Montana,30,"Chouteau County, MT",30015,White,Not Hispanic or Latino,61.0,4366.0,1397.2,815.0
+2021 (provisional),Montana,30,"Custer County, MT",30017,White,Not Hispanic or Latino,152.0,10241.0,1484.2,988.1
+2021 (provisional),Montana,30,"Daniels County, MT",30019,White,Not Hispanic or Latino,20.0,1497.0,1336.0,602.3
+2021 (provisional),Montana,30,"Dawson County, MT",30021,White,Not Hispanic or Latino,136.0,7875.0,1727.0,1079.8
+2021 (provisional),Montana,30,"Deer Lodge County, MT",30023,White,Not Hispanic or Latino,121.0,8247.0,1467.2,873.7
+2021 (provisional),Montana,30,"Fallon County, MT",30025,White,Not Hispanic or Latino,34.0,2676.0,1270.6,969.5
+2021 (provisional),Montana,30,"Fergus County, MT",30027,White,Not Hispanic or Latino,170.0,10383.0,1637.3,922.9
+2021 (provisional),Montana,30,"Flathead County, MT",30029,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1188.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Flathead County, MT",30029,White,Not Hispanic or Latino,1213.0,97834.0,1239.9,931.6
+2021 (provisional),Montana,30,"Gallatin County, MT",30031,White,Hispanic or Latino,14.0,4253.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Gallatin County, MT",30031,White,Not Hispanic or Latino,633.0,106252.0,595.8,617.7
+2021 (provisional),Montana,30,"Garfield County, MT",30033,White,Not Hispanic or Latino,18.0,1236.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Glacier County, MT",30035,American Indian or Alaska Native,Not Hispanic or Latino,127.0,8572.0,1481.6,1788.4
+2021 (provisional),Montana,30,"Glacier County, MT",30035,White,Not Hispanic or Latino,52.0,4079.0,1274.8,849.8
+2021 (provisional),Montana,30,"Golden Valley County, MT",30037,White,Not Hispanic or Latino,17.0,738.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Granite County, MT",30039,White,Not Hispanic or Latino,39.0,3098.0,1258.9,705.2
+2021 (provisional),Montana,30,"Hill County, MT",30041,American Indian or Alaska Native,Not Hispanic or Latino,50.0,3808.0,1313.0,2115.2
+2021 (provisional),Montana,30,"Hill County, MT",30041,White,Not Hispanic or Latino,143.0,11157.0,1281.7,962.7
+2021 (provisional),Montana,30,"Hill County, MT",30041,More than one race,Not Hispanic or Latino,11.0,563.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Jefferson County, MT",30043,White,Not Hispanic or Latino,170.0,11368.0,1495.4,1117.9
+2021 (provisional),Montana,30,"Judith Basin County, MT",30045,White,Not Hispanic or Latino,23.0,1893.0,1215.0,813.6
+2021 (provisional),Montana,30,"Lake County, MT",30047,American Indian or Alaska Native,Not Hispanic or Latino,96.0,6960.0,1379.3,2021.3
+2021 (provisional),Montana,30,"Lake County, MT",30047,White,Not Hispanic or Latino,287.0,20236.0,1418.3,756.6
+2021 (provisional),Montana,30,"Lewis and Clark County, MT",30049,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1302.0,1689.7,1845.4
+2021 (provisional),Montana,30,"Lewis and Clark County, MT",30049,White,Not Hispanic or Latino,729.0,63824.0,1142.2,828.9
+2021 (provisional),Montana,30,"Liberty County, MT",30051,White,Not Hispanic or Latino,15.0,2268.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Lincoln County, MT",30053,White,Not Hispanic or Latino,326.0,18764.0,1737.4,978.9
+2021 (provisional),Montana,30,"McCone County, MT",30055,White,Not Hispanic or Latino,24.0,1547.0,1551.4,757.1
+2021 (provisional),Montana,30,"Madison County, MT",30057,White,Not Hispanic or Latino,104.0,8268.0,1257.9,628.4
+2021 (provisional),Montana,30,"Meagher County, MT",30059,White,Not Hispanic or Latino,19.0,1739.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Mineral County, MT",30061,White,Not Hispanic or Latino,79.0,4150.0,1903.6,1135.4
+2021 (provisional),Montana,30,"Missoula County, MT",30063,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2943.0,883.5,1219.9
+2021 (provisional),Montana,30,"Missoula County, MT",30063,White,Hispanic or Latino,13.0,3462.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Missoula County, MT",30063,White,Not Hispanic or Latino,1029.0,107774.0,954.8,799.0
+2021 (provisional),Montana,30,"Musselshell County, MT",30065,White,Not Hispanic or Latino,91.0,4197.0,2168.2,1302.1
+2021 (provisional),Montana,30,"Park County, MT",30067,White,Not Hispanic or Latino,196.0,15579.0,1258.1,794.9
+2021 (provisional),Montana,30,"Phillips County, MT",30071,American Indian or Alaska Native,Not Hispanic or Latino,11.0,359.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Phillips County, MT",30071,White,Not Hispanic or Latino,56.0,3240.0,1728.4,986.9
+2021 (provisional),Montana,30,"Pondera County, MT",30073,American Indian or Alaska Native,Not Hispanic or Latino,12.0,808.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Pondera County, MT",30073,White,Not Hispanic or Latino,57.0,4653.0,1225.0,647.4
+2021 (provisional),Montana,30,"Powder River County, MT",30075,White,Not Hispanic or Latino,22.0,1551.0,1418.4,923.2
+2021 (provisional),Montana,30,"Powell County, MT",30077,White,Not Hispanic or Latino,79.0,6024.0,1311.4,806.5
+2021 (provisional),Montana,30,"Prairie County, MT",30079,White,Not Hispanic or Latino,12.0,945.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Ravalli County, MT",30081,White,Not Hispanic or Latino,640.0,41652.0,1536.5,892.3
+2021 (provisional),Montana,30,"Richland County, MT",30083,White,Not Hispanic or Latino,124.0,9756.0,1271.0,1047.0
+2021 (provisional),Montana,30,"Roosevelt County, MT",30085,American Indian or Alaska Native,Not Hispanic or Latino,134.0,6450.0,2077.5,3115.6
+2021 (provisional),Montana,30,"Roosevelt County, MT",30085,White,Not Hispanic or Latino,52.0,3625.0,1434.5,956.6
+2021 (provisional),Montana,30,"Rosebud County, MT",30087,American Indian or Alaska Native,Not Hispanic or Latino,72.0,3241.0,2221.5,3085.9
+2021 (provisional),Montana,30,"Rosebud County, MT",30087,White,Not Hispanic or Latino,52.0,4767.0,1090.8,645.8
+2021 (provisional),Montana,30,"Sanders County, MT",30089,White,Not Hispanic or Latino,226.0,10895.0,2074.3,1046.8
+2021 (provisional),Montana,30,"Sheridan County, MT",30091,White,Not Hispanic or Latino,59.0,2947.0,2002.0,1158.2
+2021 (provisional),Montana,30,"Silver Bow County, MT",30093,American Indian or Alaska Native,Not Hispanic or Latino,14.0,636.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Silver Bow County, MT",30093,White,Hispanic or Latino,15.0,1263.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Silver Bow County, MT",30093,White,Not Hispanic or Latino,502.0,31620.0,1587.6,1101.4
+2021 (provisional),Montana,30,"Stillwater County, MT",30095,White,Not Hispanic or Latino,128.0,9134.0,1401.4,950.9
+2021 (provisional),Montana,30,"Sweet Grass County, MT",30097,White,Not Hispanic or Latino,41.0,3410.0,1202.3,540.7
+2021 (provisional),Montana,30,"Teton County, MT",30099,White,Not Hispanic or Latino,87.0,5810.0,1497.4,875.4
+2021 (provisional),Montana,30,"Toole County, MT",30101,White,Not Hispanic or Latino,69.0,4039.0,1708.3,1128.4
+2021 (provisional),Montana,30,"Valley County, MT",30105,American Indian or Alaska Native,Not Hispanic or Latino,12.0,618.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Valley County, MT",30105,White,Not Hispanic or Latino,89.0,6226.0,1429.5,790.8
+2021 (provisional),Montana,30,"Wheatland County, MT",30107,White,Not Hispanic or Latino,30.0,1954.0,1535.3,928.2
+2021 (provisional),Montana,30,"Wibaux County, MT",30109,White,Not Hispanic or Latino,20.0,862.0,2320.2,1093.0
+2021 (provisional),Montana,30,"Yellowstone County, MT",30111,American Indian or Alaska Native,Not Hispanic or Latino,85.0,6738.0,1261.5,1992.0
+2021 (provisional),Montana,30,"Yellowstone County, MT",30111,Black or African American,Not Hispanic or Latino,14.0,1062.0,Unreliable,Unreliable
+2021 (provisional),Montana,30,"Yellowstone County, MT",30111,White,Hispanic or Latino,55.0,7535.0,729.9,1471.6
+2021 (provisional),Montana,30,"Yellowstone County, MT",30111,White,Not Hispanic or Latino,1752.0,139329.0,1257.5,896.5
+2021 (provisional),Montana,30,"Yellowstone County, MT",30111,More than one race,Not Hispanic or Latino,20.0,4545.0,440.0,1539.0
+2022 (provisional and partial),Montana,30,"Beaverhead County, MT",30001,White,Not Hispanic or Latino,16.0,8498.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Big Horn County, MT",30003,American Indian or Alaska Native,Not Hispanic or Latino,13.0,8303.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Cascade County, MT",30013,White,Not Hispanic or Latino,117.0,68894.0,169.8,105.5
+2022 (provisional and partial),Montana,30,"Custer County, MT",30017,White,Not Hispanic or Latino,21.0,10241.0,205.1,128.1
+2022 (provisional and partial),Montana,30,"Dawson County, MT",30021,White,Not Hispanic or Latino,14.0,7875.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Deer Lodge County, MT",30023,White,Not Hispanic or Latino,17.0,8247.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Fergus County, MT",30027,White,Not Hispanic or Latino,22.0,10383.0,211.9,126.6
+2022 (provisional and partial),Montana,30,"Flathead County, MT",30029,White,Not Hispanic or Latino,179.0,97834.0,183.0,134.3
+2022 (provisional and partial),Montana,30,"Gallatin County, MT",30031,White,Not Hispanic or Latino,96.0,106252.0,90.4,93.6
+2022 (provisional and partial),Montana,30,"Hill County, MT",30041,White,Not Hispanic or Latino,20.0,11157.0,179.3,121.7
+2022 (provisional and partial),Montana,30,"Jefferson County, MT",30043,White,Not Hispanic or Latino,18.0,11368.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Lake County, MT",30047,White,Not Hispanic or Latino,40.0,20236.0,197.7,101.0
+2022 (provisional and partial),Montana,30,"Lewis and Clark County, MT",30049,White,Not Hispanic or Latino,119.0,63824.0,186.5,131.2
+2022 (provisional and partial),Montana,30,"Lincoln County, MT",30053,White,Not Hispanic or Latino,53.0,18764.0,282.5,158.4
+2022 (provisional and partial),Montana,30,"Madison County, MT",30057,White,Not Hispanic or Latino,19.0,8268.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Missoula County, MT",30063,White,Not Hispanic or Latino,121.0,107774.0,112.3,92.9
+2022 (provisional and partial),Montana,30,"Musselshell County, MT",30065,White,Not Hispanic or Latino,10.0,4197.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Park County, MT",30067,White,Not Hispanic or Latino,26.0,15579.0,166.9,105.9
+2022 (provisional and partial),Montana,30,"Pondera County, MT",30073,White,Not Hispanic or Latino,12.0,4653.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Powell County, MT",30077,White,Not Hispanic or Latino,11.0,6024.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Ravalli County, MT",30081,White,Not Hispanic or Latino,87.0,41652.0,208.9,116.9
+2022 (provisional and partial),Montana,30,"Roosevelt County, MT",30085,American Indian or Alaska Native,Not Hispanic or Latino,15.0,6450.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Roosevelt County, MT",30085,White,Not Hispanic or Latino,10.0,3625.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Sanders County, MT",30089,White,Not Hispanic or Latino,26.0,10895.0,238.6,109.1
+2022 (provisional and partial),Montana,30,"Silver Bow County, MT",30093,White,Not Hispanic or Latino,73.0,31620.0,230.9,162.9
+2022 (provisional and partial),Montana,30,"Stillwater County, MT",30095,White,Not Hispanic or Latino,13.0,9134.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Teton County, MT",30099,White,Not Hispanic or Latino,13.0,5810.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Yellowstone County, MT",30111,American Indian or Alaska Native,Not Hispanic or Latino,17.0,6738.0,Unreliable,Unreliable
+2022 (provisional and partial),Montana,30,"Yellowstone County, MT",30111,White,Not Hispanic or Latino,224.0,139329.0,160.8,114.2

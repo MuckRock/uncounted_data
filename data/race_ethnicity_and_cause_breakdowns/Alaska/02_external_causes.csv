@@ -1,0 +1,9 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Alaska,02,"Anchorage Borough, AK",02020,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,291538.0,8.2
+2018,Alaska,02,"Anchorage Borough, AK",02020,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,20.0,291538.0,6.9
+2018,Alaska,02,"Anchorage Borough, AK",02020,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,291538.0,Unreliable
+2018,Alaska,02,"Anchorage Borough, AK",02020,Assault (homicide),Assault by other and unspecified firearm discharge,X95,22.0,291538.0,7.5
+2018,Alaska,02,"Bethel Census Area, AK",02050,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,11.0,18216.0,Unreliable
+2018,Alaska,02,"Fairbanks North Star Borough, AK",02090,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,98971.0,Unreliable

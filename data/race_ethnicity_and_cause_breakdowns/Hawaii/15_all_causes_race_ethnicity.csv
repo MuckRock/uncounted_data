@@ -1,0 +1,142 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Hawaii,15,"Hawaii County, HI",15001,Asian,Not Hispanic or Latino,455.0,40392.0,1126.5,446.4
+2018,Hawaii,15,"Hawaii County, HI",15001,Black or African American,Not Hispanic or Latino,11.0,1349.0,Unreliable,Unreliable
+2018,Hawaii,15,"Hawaii County, HI",15001,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,130.0,23847.0,545.1,545.0
+2018,Hawaii,15,"Hawaii County, HI",15001,White,Hispanic or Latino,60.0,7683.0,780.9,839.6
+2018,Hawaii,15,"Hawaii County, HI",15001,White,Not Hispanic or Latino,727.0,60965.0,1192.5,658.9
+2018,Hawaii,15,"Hawaii County, HI",15001,More than one race,Hispanic or Latino,57.0,13128.0,434.2,2604.9
+2018,Hawaii,15,"Hawaii County, HI",15001,More than one race,Not Hispanic or Latino,281.0,47778.0,588.1,762.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Asian,Not Hispanic or Latino,4347.0,409241.0,1062.2,465.9
+2018,Hawaii,15,"Honolulu County, HI",15003,Asian,Not Stated,55.0,Not Applicable,Not Applicable,Not Applicable
+2018,Hawaii,15,"Honolulu County, HI",15003,Black or African American,Not Hispanic or Latino,64.0,25028.0,255.7,561.5
+2018,Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,522.0,87527.0,596.4,594.1
+2018,Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2018,Hawaii,15,"Honolulu County, HI",15003,White,Hispanic or Latino,122.0,36240.0,336.6,705.5
+2018,Hawaii,15,"Honolulu County, HI",15003,White,Not Hispanic or Latino,1329.0,176454.0,753.2,589.4
+2018,Hawaii,15,"Honolulu County, HI",15003,White,Not Stated,50.0,Not Applicable,Not Applicable,Not Applicable
+2018,Hawaii,15,"Honolulu County, HI",15003,More than one race,Hispanic or Latino,213.0,39329.0,541.6,26702.7
+2018,Hawaii,15,"Honolulu County, HI",15003,More than one race,Not Hispanic or Latino,1186.0,182043.0,651.5,833.2
+2018,Hawaii,15,"Kauai County, HI",15007,Asian,Not Hispanic or Latino,234.0,21326.0,1097.3,464.9
+2018,Hawaii,15,"Kauai County, HI",15007,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,34.0,6116.0,555.9,520.4
+2018,Hawaii,15,"Kauai County, HI",15007,White,Hispanic or Latino,15.0,2619.0,Unreliable,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,White,Not Hispanic or Latino,185.0,21202.0,872.6,522.0
+2018,Hawaii,15,"Kauai County, HI",15007,More than one race,Hispanic or Latino,15.0,3653.0,Unreliable,Unreliable
+2018,Hawaii,15,"Kauai County, HI",15007,More than one race,Not Hispanic or Latino,79.0,14792.0,534.1,785.7
+2018,Hawaii,15,"Maui County, HI",15009,Asian,Not Hispanic or Latino,372.0,46751.0,795.7,396.3
+2018,Hawaii,15,"Maui County, HI",15009,Black or African American,Not Hispanic or Latino,11.0,1131.0,Unreliable,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,75.0,16675.0,449.8,468.5
+2018,Hawaii,15,"Maui County, HI",15009,White,Hispanic or Latino,32.0,7963.0,401.9,544.1
+2018,Hawaii,15,"Maui County, HI",15009,White,Not Hispanic or Latino,460.0,50399.0,912.7,575.5
+2018,Hawaii,15,"Maui County, HI",15009,More than one race,Hispanic or Latino,16.0,7413.0,Unreliable,Unreliable
+2018,Hawaii,15,"Maui County, HI",15009,More than one race,Not Hispanic or Latino,188.0,32568.0,577.3,825.3
+2019,Hawaii,15,"Hawaii County, HI",15001,Asian,Not Hispanic or Latino,499.0,40676.0,1226.8,479.2
+2019,Hawaii,15,"Hawaii County, HI",15001,Black or African American,Not Hispanic or Latino,11.0,1423.0,Unreliable,Unreliable
+2019,Hawaii,15,"Hawaii County, HI",15001,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,119.0,23736.0,501.3,495.8
+2019,Hawaii,15,"Hawaii County, HI",15001,White,Hispanic or Latino,55.0,7747.0,710.0,747.6
+2019,Hawaii,15,"Hawaii County, HI",15001,White,Not Hispanic or Latino,725.0,60857.0,1191.3,638.5
+2019,Hawaii,15,"Hawaii County, HI",15001,More than one race,Hispanic or Latino,63.0,13226.0,476.3,3285.6
+2019,Hawaii,15,"Hawaii County, HI",15001,More than one race,Not Hispanic or Latino,335.0,48178.0,695.3,864.2
+2019,Hawaii,15,"Honolulu County, HI",15003,Asian,Hispanic or Latino,11.0,11253.0,Unreliable,Unreliable
+2019,Hawaii,15,"Honolulu County, HI",15003,Asian,Not Hispanic or Latino,4244.0,407182.0,1042.3,448.0
+2019,Hawaii,15,"Honolulu County, HI",15003,Asian,Not Stated,51.0,Not Applicable,Not Applicable,Not Applicable
+2019,Hawaii,15,"Honolulu County, HI",15003,Black or African American,Not Hispanic or Latino,63.0,24761.0,254.4,494.6
+2019,Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,547.0,87047.0,628.4,603.4
+2019,Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Stated,24.0,Not Applicable,Not Applicable,Not Applicable
+2019,Hawaii,15,"Honolulu County, HI",15003,White,Hispanic or Latino,138.0,36161.0,381.6,774.6
+2019,Hawaii,15,"Honolulu County, HI",15003,White,Not Hispanic or Latino,1255.0,174205.0,720.4,553.0
+2019,Hawaii,15,"Honolulu County, HI",15003,White,Not Stated,55.0,Not Applicable,Not Applicable,Not Applicable
+2019,Hawaii,15,"Honolulu County, HI",15003,More than one race,Hispanic or Latino,212.0,39470.0,537.1,12748.0
+2019,Hawaii,15,"Honolulu County, HI",15003,More than one race,Not Hispanic or Latino,1217.0,182372.0,667.3,824.8
+2019,Hawaii,15,"Kauai County, HI",15007,Asian,Not Hispanic or Latino,234.0,21355.0,1095.8,418.3
+2019,Hawaii,15,"Kauai County, HI",15007,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,38.0,6075.0,625.5,550.0
+2019,Hawaii,15,"Kauai County, HI",15007,White,Hispanic or Latino,18.0,2713.0,Unreliable,Unreliable
+2019,Hawaii,15,"Kauai County, HI",15007,White,Not Hispanic or Latino,212.0,21171.0,1001.4,604.4
+2019,Hawaii,15,"Kauai County, HI",15007,More than one race,Hispanic or Latino,20.0,3725.0,536.9,5488.1
+2019,Hawaii,15,"Kauai County, HI",15007,More than one race,Not Hispanic or Latino,87.0,14848.0,585.9,800.4
+2019,Hawaii,15,"Maui County, HI",15009,Asian,Not Hispanic or Latino,425.0,46689.0,910.3,462.8
+2019,Hawaii,15,"Maui County, HI",15009,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,95.0,16469.0,576.8,565.8
+2019,Hawaii,15,"Maui County, HI",15009,White,Hispanic or Latino,42.0,8073.0,520.3,624.5
+2019,Hawaii,15,"Maui County, HI",15009,White,Not Hispanic or Latino,441.0,50366.0,875.6,540.6
+2019,Hawaii,15,"Maui County, HI",15009,More than one race,Hispanic or Latino,45.0,7556.0,595.6,2284.9
+2019,Hawaii,15,"Maui County, HI",15009,More than one race,Not Hispanic or Latino,197.0,32900.0,598.8,795.3
+2020,Hawaii,15,"Hawaii County, HI",15001,Asian,Not Hispanic or Latino,484.0,40086.0,1207.4,463.2
+2020,Hawaii,15,"Hawaii County, HI",15001,Black or African American,Not Hispanic or Latino,11.0,1381.0,Unreliable,Unreliable
+2020,Hawaii,15,"Hawaii County, HI",15001,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,153.0,24195.0,632.4,595.0
+2020,Hawaii,15,"Hawaii County, HI",15001,White,Hispanic or Latino,50.0,7964.0,627.8,625.6
+2020,Hawaii,15,"Hawaii County, HI",15001,White,Not Hispanic or Latino,735.0,60606.0,1212.8,608.9
+2020,Hawaii,15,"Hawaii County, HI",15001,More than one race,Hispanic or Latino,61.0,14183.0,430.1,7188.2
+2020,Hawaii,15,"Hawaii County, HI",15001,More than one race,Not Hispanic or Latino,350.0,48965.0,714.8,828.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Asian,Not Hispanic or Latino,4330.0,397745.0,1088.6,456.5
+2020,Hawaii,15,"Honolulu County, HI",15003,Asian,Not Stated,53.0,Not Applicable,Not Applicable,Not Applicable
+2020,Hawaii,15,"Honolulu County, HI",15003,Black or African American,Not Hispanic or Latino,85.0,24332.0,349.3,666.2
+2020,Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,614.0,89607.0,685.2,652.9
+2020,Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Stated,18.0,Not Applicable,Not Applicable,Not Applicable
+2020,Hawaii,15,"Honolulu County, HI",15003,White,Hispanic or Latino,151.0,35492.0,425.4,842.5
+2020,Hawaii,15,"Honolulu County, HI",15003,White,Not Hispanic or Latino,1394.0,169501.0,822.4,610.7
+2020,Hawaii,15,"Honolulu County, HI",15003,White,Not Stated,67.0,Not Applicable,Not Applicable,Not Applicable
+2020,Hawaii,15,"Honolulu County, HI",15003,More than one race,Hispanic or Latino,251.0,40134.0,625.4,1507.3
+2020,Hawaii,15,"Honolulu County, HI",15003,More than one race,Not Hispanic or Latino,1347.0,182769.0,737.0,877.8
+2020,Hawaii,15,"Kauai County, HI",15007,Asian,Not Hispanic or Latino,231.0,20857.0,1107.5,435.1
+2020,Hawaii,15,"Kauai County, HI",15007,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,28.0,6109.0,458.3,409.2
+2020,Hawaii,15,"Kauai County, HI",15007,White,Hispanic or Latino,18.0,2595.0,Unreliable,Unreliable
+2020,Hawaii,15,"Kauai County, HI",15007,White,Not Hispanic or Latino,201.0,20915.0,961.0,551.9
+2020,Hawaii,15,"Kauai County, HI",15007,More than one race,Hispanic or Latino,22.0,3842.0,572.6,8745.7
+2020,Hawaii,15,"Kauai County, HI",15007,More than one race,Not Hispanic or Latino,79.0,15032.0,525.5,709.4
+2020,Hawaii,15,"Maui County, HI",15009,Asian,Not Hispanic or Latino,394.0,46349.0,850.1,425.7
+2020,Hawaii,15,"Maui County, HI",15009,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,80.0,16404.0,487.7,479.5
+2020,Hawaii,15,"Maui County, HI",15009,White,Hispanic or Latino,41.0,7996.0,512.8,661.1
+2020,Hawaii,15,"Maui County, HI",15009,White,Not Hispanic or Latino,437.0,49962.0,874.7,508.4
+2020,Hawaii,15,"Maui County, HI",15009,More than one race,Hispanic or Latino,45.0,7908.0,569.0,8785.8
+2020,Hawaii,15,"Maui County, HI",15009,More than one race,Not Hispanic or Latino,217.0,33594.0,645.9,922.2
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Asian,Not Hispanic or Latino,494.0,40086.0,1232.4,470.1
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Black or African American,Not Hispanic or Latino,17.0,1381.0,Unreliable,Unreliable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,157.0,24195.0,648.9,614.4
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,White,Hispanic or Latino,79.0,7964.0,992.0,1006.6
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,White,Not Hispanic or Latino,772.0,60606.0,1273.8,660.6
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,White,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,More than one race,Hispanic or Latino,83.0,14183.0,585.2,10895.6
+2021 (provisional),Hawaii,15,"Hawaii County, HI",15001,More than one race,Not Hispanic or Latino,418.0,48965.0,853.7,974.1
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Asian,Hispanic or Latino,13.0,11909.0,Unreliable,Unreliable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Asian,Not Hispanic or Latino,4530.0,397745.0,1138.9,484.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Asian,Not Stated,64.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Black or African American,Not Hispanic or Latino,76.0,24332.0,312.3,582.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,735.0,89607.0,820.2,785.3
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Stated,22.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,White,Hispanic or Latino,144.0,35492.0,405.7,804.4
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,White,Not Hispanic or Latino,1483.0,169501.0,874.9,641.5
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,White,Not Stated,53.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,More than one race,Hispanic or Latino,218.0,40134.0,543.2,1472.1
+2021 (provisional),Hawaii,15,"Honolulu County, HI",15003,More than one race,Not Hispanic or Latino,1411.0,182769.0,772.0,916.9
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Asian,Not Hispanic or Latino,226.0,20857.0,1083.6,442.9
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,41.0,6109.0,671.1,577.6
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,White,Hispanic or Latino,19.0,2595.0,Unreliable,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,White,Not Hispanic or Latino,199.0,20915.0,951.5,550.7
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,More than one race,Hispanic or Latino,13.0,3842.0,Unreliable,Unreliable
+2021 (provisional),Hawaii,15,"Kauai County, HI",15007,More than one race,Not Hispanic or Latino,86.0,15032.0,572.1,770.6
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Asian,Not Hispanic or Latino,422.0,46349.0,910.5,467.8
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Asian,Not Stated,13.0,Not Applicable,Not Applicable,Not Applicable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Black or African American,Not Hispanic or Latino,11.0,1186.0,Unreliable,Unreliable
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,116.0,16404.0,707.1,677.8
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,White,Hispanic or Latino,40.0,7996.0,500.3,679.8
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,White,Not Hispanic or Latino,528.0,49962.0,1056.8,640.1
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,More than one race,Hispanic or Latino,40.0,7908.0,505.8,9044.8
+2021 (provisional),Hawaii,15,"Maui County, HI",15009,More than one race,Not Hispanic or Latino,202.0,33594.0,601.3,797.7
+2022 (provisional and partial),Hawaii,15,"Hawaii County, HI",15001,Asian,Not Hispanic or Latino,69.0,40086.0,172.1,68.8
+2022 (provisional and partial),Hawaii,15,"Hawaii County, HI",15001,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,24.0,24195.0,99.2,92.2
+2022 (provisional and partial),Hawaii,15,"Hawaii County, HI",15001,White,Not Hispanic or Latino,118.0,60606.0,194.7,96.2
+2022 (provisional and partial),Hawaii,15,"Hawaii County, HI",15001,More than one race,Not Hispanic or Latino,44.0,48965.0,89.9,103.1
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Asian,Not Hispanic or Latino,619.0,397745.0,155.6,64.3
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Asian,Not Stated,10.0,Not Applicable,Not Applicable,Not Applicable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Black or African American,Not Hispanic or Latino,11.0,24332.0,Unreliable,Unreliable
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,105.0,89607.0,117.2,112.3
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,White,Hispanic or Latino,27.0,35492.0,76.1,148.5
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,White,Not Hispanic or Latino,191.0,169501.0,112.7,82.2
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,More than one race,Hispanic or Latino,28.0,40134.0,69.8,172.2
+2022 (provisional and partial),Hawaii,15,"Honolulu County, HI",15003,More than one race,Not Hispanic or Latino,171.0,182769.0,93.6,111.2
+2022 (provisional and partial),Hawaii,15,"Kauai County, HI",15007,Asian,Not Hispanic or Latino,39.0,20857.0,187.0,91.9
+2022 (provisional and partial),Hawaii,15,"Kauai County, HI",15007,White,Not Hispanic or Latino,27.0,20915.0,129.1,72.9
+2022 (provisional and partial),Hawaii,15,"Kauai County, HI",15007,More than one race,Not Hispanic or Latino,13.0,15032.0,Unreliable,Unreliable
+2022 (provisional and partial),Hawaii,15,"Maui County, HI",15009,Asian,Not Hispanic or Latino,59.0,46349.0,127.3,60.8
+2022 (provisional and partial),Hawaii,15,"Maui County, HI",15009,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,11.0,16404.0,Unreliable,Unreliable
+2022 (provisional and partial),Hawaii,15,"Maui County, HI",15009,White,Not Hispanic or Latino,72.0,49962.0,144.1,87.0
+2022 (provisional and partial),Hawaii,15,"Maui County, HI",15009,More than one race,Not Hispanic or Latino,39.0,33594.0,116.1,154.2

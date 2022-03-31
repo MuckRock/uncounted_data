@@ -1,0 +1,37 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Nevada,"Clark County, NV",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,61.0,2231647.0,2.7
+2018,Nevada,"Clark County, NV",Transport accidents (unintentional injuries),Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,10.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,13.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,23.0,2231647.0,1.0
+2018,Nevada,"Clark County, NV",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,81.0,2231647.0,3.6
+2018,Nevada,"Clark County, NV",Nontransport accidents,Other fall on same level,W18,14.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Nontransport accidents,Unspecified fall,W19,145.0,2231647.0,6.5
+2018,Nevada,"Clark County, NV",Nontransport accidents,Drowning and submersion while in swimming-pool,W67,10.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Nontransport accidents,Accidental suffocation and strangulation in bed,W75,18.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,14.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Nontransport accidents,Exposure to excessive natural heat,X30,58.0,2231647.0,2.6
+2018,Nevada,"Clark County, NV",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,155.0,2231647.0,6.9
+2018,Nevada,"Clark County, NV",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,103.0,2231647.0,4.6
+2018,Nevada,"Clark County, NV",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,161.0,2231647.0,7.2
+2018,Nevada,"Clark County, NV",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,11.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X62,10.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,40.0,2231647.0,1.8
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,114.0,2231647.0,5.1
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,52.0,2231647.0,2.3
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,184.0,2231647.0,8.2
+2018,Nevada,"Clark County, NV",Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,16.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Assault (homicide),Assault by other and unspecified firearm discharge,X95,130.0,2231647.0,5.8
+2018,Nevada,"Clark County, NV",Assault (homicide),Assault by sharp object,X99,15.0,2231647.0,Unreliable
+2018,Nevada,"Clark County, NV",Assault (homicide),Assault by unspecified means,Y09,24.0,2231647.0,1.1
+2018,Nevada,"Clark County, NV",,Legal intervention involving firearm discharge,Y35.0,13.0,2231647.0,Unreliable
+2018,Nevada,"Lyon County, NV",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,55808.0,Unreliable
+2018,Nevada,"Nye County, NV",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,45346.0,Unreliable
+2018,Nevada,"Washoe County, NV",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,465735.0,Unreliable
+2018,Nevada,"Washoe County, NV",Nontransport accidents,Other fall on same level,W18,77.0,465735.0,16.5
+2018,Nevada,"Washoe County, NV",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,32.0,465735.0,6.9
+2018,Nevada,"Washoe County, NV",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,46.0,465735.0,9.9
+2018,Nevada,"Washoe County, NV",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,465735.0,Unreliable
+2018,Nevada,"Washoe County, NV",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,38.0,465735.0,8.2
+2018,Nevada,"Washoe County, NV",Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,465735.0,Unreliable

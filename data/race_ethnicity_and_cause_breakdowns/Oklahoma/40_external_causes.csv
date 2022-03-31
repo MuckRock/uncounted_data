@@ -1,0 +1,48 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Oklahoma,"Canadian County, OK",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,144447.0,Unreliable
+2018,Oklahoma,"Canadian County, OK",Nontransport accidents,Unspecified fall,W19,26.0,144447.0,18.0
+2018,Oklahoma,"Cherokee County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,48675.0,Unreliable
+2018,Oklahoma,"Cleveland County, OK",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,281669.0,Unreliable
+2018,Oklahoma,"Cleveland County, OK",Nontransport accidents,Unspecified fall,W19,37.0,281669.0,13.1
+2018,Oklahoma,"Cleveland County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,14.0,281669.0,Unreliable
+2018,Oklahoma,"Cleveland County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,281669.0,Unreliable
+2018,Oklahoma,"Cleveland County, OK",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,281669.0,Unreliable
+2018,Oklahoma,"Cleveland County, OK",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,18.0,281669.0,Unreliable
+2018,Oklahoma,"Comanche County, OK",Nontransport accidents,Unspecified fall,W19,18.0,120422.0,Unreliable
+2018,Oklahoma,"Garfield County, OK",Nontransport accidents,Unspecified fall,W19,14.0,60913.0,Unreliable
+2018,Oklahoma,"Grady County, OK",Nontransport accidents,Unspecified fall,W19,16.0,55551.0,Unreliable
+2018,Oklahoma,"Kay County, OK",Nontransport accidents,Unspecified fall,W19,21.0,44161.0,47.6
+2018,Oklahoma,"McClain County, OK",Nontransport accidents,Unspecified fall,W19,13.0,39985.0,Unreliable
+2018,Oklahoma,"Muskogee County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,68362.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,14.0,792582.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,14.0,792582.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,67.0,792582.0,8.5
+2018,Oklahoma,"Oklahoma County, OK",Nontransport accidents,Other fall on same level,W18,11.0,792582.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Nontransport accidents,Unspecified fall,W19,183.0,792582.0,23.1
+2018,Oklahoma,"Oklahoma County, OK",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,18.0,792582.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,38.0,792582.0,4.8
+2018,Oklahoma,"Oklahoma County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37.0,792582.0,4.7
+2018,Oklahoma,"Oklahoma County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,32.0,792582.0,4.0
+2018,Oklahoma,"Oklahoma County, OK",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,13.0,792582.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,46.0,792582.0,5.8
+2018,Oklahoma,"Oklahoma County, OK",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,68.0,792582.0,8.6
+2018,Oklahoma,"Oklahoma County, OK",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,792582.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,792582.0,Unreliable
+2018,Oklahoma,"Oklahoma County, OK",Assault (homicide),Assault by other and unspecified firearm discharge,X95,37.0,792582.0,4.7
+2018,Oklahoma,"Pontotoc County, OK",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,38247.0,Unreliable
+2018,Oklahoma,"Pottawatomie County, OK",Nontransport accidents,Unspecified fall,W19,14.0,72679.0,Unreliable
+2018,Oklahoma,"Pottawatomie County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,72679.0,Unreliable
+2018,Oklahoma,"Rogers County, OK",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,91984.0,Unreliable
+2018,Oklahoma,"Tulsa County, OK",Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,14.0,648360.0,Unreliable
+2018,Oklahoma,"Tulsa County, OK",Transport accidents (unintentional injuries),Car occupant [any] injured in unspecified traffic accident,V49.9,26.0,648360.0,4.0
+2018,Oklahoma,"Tulsa County, OK",Nontransport accidents,Unspecified fall,W19,90.0,648360.0,13.9
+2018,Oklahoma,"Tulsa County, OK",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,10.0,648360.0,Unreliable
+2018,Oklahoma,"Tulsa County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,39.0,648360.0,6.0
+2018,Oklahoma,"Tulsa County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,32.0,648360.0,4.9
+2018,Oklahoma,"Tulsa County, OK",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,42.0,648360.0,6.5
+2018,Oklahoma,"Tulsa County, OK",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,35.0,648360.0,5.4
+2018,Oklahoma,"Tulsa County, OK",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,57.0,648360.0,8.8
+2018,Oklahoma,"Tulsa County, OK",Assault (homicide),Assault by handgun discharge,X93,28.0,648360.0,4.3
+2018,Oklahoma,"Tulsa County, OK",Assault (homicide),Assault by other and unspecified firearm discharge,X95,23.0,648360.0,3.5
+2018,Oklahoma,"Wagoner County, OK",Transport accidents (unintentional injuries),Car occupant [any] injured in unspecified traffic accident,V49.9,11.0,80110.0,Unreliable
+2018,Oklahoma,"Wagoner County, OK",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,80110.0,Unreliable

@@ -1,0 +1,120 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Michigan,"Bay County, MI",Nontransport accidents,Unspecified fall,W19,11.0,103923.0,Unreliable
+2018,Michigan,"Bay County, MI",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,14.0,103923.0,Unreliable
+2018,Michigan,"Berrien County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,154141.0,Unreliable
+2018,Michigan,"Berrien County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,154141.0,Unreliable
+2018,Michigan,"Calhoun County, MI",Nontransport accidents,Other fall on same level,W18,10.0,134487.0,Unreliable
+2018,Michigan,"Calhoun County, MI",Nontransport accidents,Unspecified fall,W19,10.0,134487.0,Unreliable
+2018,Michigan,"Calhoun County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,22.0,134487.0,16.4
+2018,Michigan,"Calhoun County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,134487.0,17.1
+2018,Michigan,"Calhoun County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,134487.0,Unreliable
+2018,Michigan,"Calhoun County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,134487.0,Unreliable
+2018,Michigan,"Eaton County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,109826.0,Unreliable
+2018,Michigan,"Genesee County, MI",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,12.0,406892.0,Unreliable
+2018,Michigan,"Genesee County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,27.0,406892.0,6.6
+2018,Michigan,"Genesee County, MI",Nontransport accidents,Unspecified fall,W19,21.0,406892.0,5.2
+2018,Michigan,"Genesee County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,129.0,406892.0,31.7
+2018,Michigan,"Genesee County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,66.0,406892.0,16.2
+2018,Michigan,"Genesee County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,406892.0,Unreliable
+2018,Michigan,"Genesee County, MI",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,406892.0,Unreliable
+2018,Michigan,"Genesee County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,32.0,406892.0,7.9
+2018,Michigan,"Genesee County, MI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,35.0,406892.0,8.6
+2018,Michigan,"Ingham County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,292735.0,Unreliable
+2018,Michigan,"Ingham County, MI",Nontransport accidents,Other fall on same level,W18,23.0,292735.0,7.9
+2018,Michigan,"Ingham County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37.0,292735.0,12.6
+2018,Michigan,"Ingham County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,48.0,292735.0,16.4
+2018,Michigan,"Ingham County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,292735.0,Unreliable
+2018,Michigan,"Ingham County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,292735.0,Unreliable
+2018,Michigan,"Jackson County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,158823.0,Unreliable
+2018,Michigan,"Jackson County, MI",Nontransport accidents,Unspecified fall,W19,17.0,158823.0,Unreliable
+2018,Michigan,"Jackson County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,158823.0,12.6
+2018,Michigan,"Kalamazoo County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17.0,264870.0,Unreliable
+2018,Michigan,"Kalamazoo County, MI",Nontransport accidents,Other fall on same level,W18,16.0,264870.0,Unreliable
+2018,Michigan,"Kalamazoo County, MI",Nontransport accidents,Unspecified fall,W19,26.0,264870.0,9.8
+2018,Michigan,"Kalamazoo County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,264870.0,Unreliable
+2018,Michigan,"Kalamazoo County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,264870.0,8.7
+2018,Michigan,"Kalamazoo County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,264870.0,Unreliable
+2018,Michigan,"Kent County, MI",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,17.0,653786.0,Unreliable
+2018,Michigan,"Kent County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24.0,653786.0,3.7
+2018,Michigan,"Kent County, MI",Nontransport accidents,Other fall on same level,W18,46.0,653786.0,7.0
+2018,Michigan,"Kent County, MI",Nontransport accidents,Unspecified fall,W19,36.0,653786.0,5.5
+2018,Michigan,"Kent County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,68.0,653786.0,10.4
+2018,Michigan,"Kent County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,653786.0,Unreliable
+2018,Michigan,"Kent County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,42.0,653786.0,6.4
+2018,Michigan,"Kent County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,27.0,653786.0,4.1
+2018,Michigan,"Kent County, MI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,653786.0,Unreliable
+2018,Michigan,"Lenawee County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,98266.0,Unreliable
+2018,Michigan,"Livingston County, MI",Nontransport accidents,Unspecified fall,W19,21.0,191224.0,11.0
+2018,Michigan,"Livingston County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,191224.0,11.0
+2018,Michigan,"Macomb County, MI",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,16.0,874759.0,Unreliable
+2018,Michigan,"Macomb County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,874759.0,Unreliable
+2018,Michigan,"Macomb County, MI",Nontransport accidents,Other fall on same level,W18,15.0,874759.0,Unreliable
+2018,Michigan,"Macomb County, MI",Nontransport accidents,Unspecified fall,W19,93.0,874759.0,10.6
+2018,Michigan,"Macomb County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,192.0,874759.0,21.9
+2018,Michigan,"Macomb County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,85.0,874759.0,9.7
+2018,Michigan,"Macomb County, MI",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,15.0,874759.0,Unreliable
+2018,Michigan,"Macomb County, MI",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12.0,874759.0,Unreliable
+2018,Michigan,"Macomb County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,41.0,874759.0,4.7
+2018,Michigan,"Macomb County, MI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,47.0,874759.0,5.4
+2018,Michigan,"Macomb County, MI",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,14.0,874759.0,Unreliable
+2018,Michigan,"Macomb County, MI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,27.0,874759.0,3.1
+2018,Michigan,"Macomb County, MI",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,10.0,874759.0,Unreliable
+2018,Michigan,"Macomb County, MI",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,18.0,874759.0,Unreliable
+2018,Michigan,"Monroe County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37.0,150439.0,24.6
+2018,Michigan,"Monroe County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,150439.0,Unreliable
+2018,Michigan,"Muskegon County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,173588.0,Unreliable
+2018,Michigan,"Muskegon County, MI",Nontransport accidents,Unspecified fall,W19,15.0,173588.0,Unreliable
+2018,Michigan,"Muskegon County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,24.0,173588.0,13.8
+2018,Michigan,"Muskegon County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,173588.0,Unreliable
+2018,Michigan,"Muskegon County, MI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,173588.0,Unreliable
+2018,Michigan,"Oakland County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,26.0,1259201.0,2.1
+2018,Michigan,"Oakland County, MI",Nontransport accidents,Unspecified fall,W19,147.0,1259201.0,11.7
+2018,Michigan,"Oakland County, MI",Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,15.0,1259201.0,Unreliable
+2018,Michigan,"Oakland County, MI",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,11.0,1259201.0,Unreliable
+2018,Michigan,"Oakland County, MI",Nontransport accidents,Exposure to excessive natural cold,X31,10.0,1259201.0,Unreliable
+2018,Michigan,"Oakland County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,58.0,1259201.0,4.6
+2018,Michigan,"Oakland County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,1259201.0,Unreliable
+2018,Michigan,"Oakland County, MI",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,21.0,1259201.0,1.7
+2018,Michigan,"Oakland County, MI",Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18.0,1259201.0,Unreliable
+2018,Michigan,"Oakland County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,53.0,1259201.0,4.2
+2018,Michigan,"Oakland County, MI",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10.0,1259201.0,Unreliable
+2018,Michigan,"Oakland County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,66.0,1259201.0,5.2
+2018,Michigan,"Oakland County, MI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,50.0,1259201.0,4.0
+2018,Michigan,"Oakland County, MI",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,80.0,1259201.0,6.4
+2018,Michigan,"Ottawa County, MI",Nontransport accidents,Other fall on same level,W18,23.0,290494.0,7.9
+2018,Michigan,"Ottawa County, MI",Nontransport accidents,Unspecified fall,W19,29.0,290494.0,10.0
+2018,Michigan,"Ottawa County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,290494.0,7.2
+2018,Michigan,"Ottawa County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,290494.0,Unreliable
+2018,Michigan,"Ottawa County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,290494.0,Unreliable
+2018,Michigan,"Saginaw County, MI",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,11.0,190800.0,Unreliable
+2018,Michigan,"Saginaw County, MI",Nontransport accidents,Unspecified fall,W19,30.0,190800.0,15.7
+2018,Michigan,"Saginaw County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,190800.0,Unreliable
+2018,Michigan,"Saginaw County, MI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,14.0,190800.0,Unreliable
+2018,Michigan,"Saginaw County, MI",,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,15.0,190800.0,Unreliable
+2018,Michigan,"Saginaw County, MI",,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,20.0,190800.0,10.5
+2018,Michigan,"St. Clair County, MI",Nontransport accidents,Unspecified fall,W19,12.0,159337.0,Unreliable
+2018,Michigan,"St. Clair County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,36.0,159337.0,22.6
+2018,Michigan,"St. Clair County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,159337.0,Unreliable
+2018,Michigan,"St. Clair County, MI",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,159337.0,Unreliable
+2018,Michigan,"Washtenaw County, MI",Nontransport accidents,Unspecified fall,W19,34.0,370963.0,9.2
+2018,Michigan,"Washtenaw County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,71.0,370963.0,19.1
+2018,Michigan,"Wayne County, MI",Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,25.0,1753893.0,1.4
+2018,Michigan,"Wayne County, MI",Transport accidents (unintentional injuries),Motorcycle rider [any] injured in unspecified traffic accident,V29.9,10.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,53.0,1753893.0,3.0
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Other fall on same level,W18,15.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Unspecified fall,W19,65.0,1753893.0,3.7
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Accidental suffocation and strangulation in bed,W75,28.0,1753893.0,1.6
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,12.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,18.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,13.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,18.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,647.0,1753893.0,36.9
+2018,Michigan,"Wayne County, MI",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,90.0,1753893.0,5.1
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,13.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,68.0,1753893.0,3.9
+2018,Michigan,"Wayne County, MI",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,65.0,1753893.0,3.7
+2018,Michigan,"Wayne County, MI",Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,17.0,1753893.0,Unreliable
+2018,Michigan,"Wayne County, MI",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,103.0,1753893.0,5.9
+2018,Michigan,"Wayne County, MI",Assault (homicide),Assault by other and unspecified firearm discharge,X95,243.0,1753893.0,13.9
+2018,Michigan,"Wayne County, MI",Assault (homicide),Assault by sharp object,X99,14.0,1753893.0,Unreliable

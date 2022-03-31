@@ -1,0 +1,607 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,Washington,53,"Adams County, WA",53001,White,Hispanic or Latino,23.0,11029.0,208.5,472.4
+2018,Washington,53,"Adams County, WA",53001,White,Not Hispanic or Latino,74.0,6534.0,1132.5,683.0
+2018,Washington,53,"Asotin County, WA",53003,White,Not Hispanic or Latino,261.0,20332.0,1283.7,754.8
+2018,Washington,53,"Benton County, WA",53005,Asian,Not Hispanic or Latino,17.0,6171.0,Unreliable,Unreliable
+2018,Washington,53,"Benton County, WA",53005,Black or African American,Not Hispanic or Latino,11.0,2967.0,Unreliable,Unreliable
+2018,Washington,53,"Benton County, WA",53005,White,Hispanic or Latino,84.0,40990.0,204.9,498.6
+2018,Washington,53,"Benton County, WA",53005,White,Not Hispanic or Latino,1326.0,140871.0,941.3,695.3
+2018,Washington,53,"Benton County, WA",53005,More than one race,Not Hispanic or Latino,10.0,5224.0,Unreliable,Unreliable
+2018,Washington,53,"Chelan County, WA",53007,White,Hispanic or Latino,28.0,19763.0,141.7,365.1
+2018,Washington,53,"Chelan County, WA",53007,White,Not Hispanic or Latino,660.0,52011.0,1269.0,703.8
+2018,Washington,53,"Clallam County, WA",53009,American Indian or Alaska Native,Not Hispanic or Latino,42.0,3518.0,1193.9,1503.5
+2018,Washington,53,"Clallam County, WA",53009,Asian,Not Hispanic or Latino,12.0,1402.0,Unreliable,Unreliable
+2018,Washington,53,"Clallam County, WA",53009,White,Hispanic or Latino,10.0,3554.0,Unreliable,Unreliable
+2018,Washington,53,"Clallam County, WA",53009,White,Not Hispanic or Latino,978.0,63326.0,1544.4,716.5
+2018,Washington,53,"Clallam County, WA",53009,More than one race,Not Hispanic or Latino,14.0,2702.0,Unreliable,Unreliable
+2018,Washington,53,"Clark County, WA",53011,American Indian or Alaska Native,Not Hispanic or Latino,21.0,3569.0,588.4,741.6
+2018,Washington,53,"Clark County, WA",53011,Asian,Not Hispanic or Latino,95.0,22880.0,415.2,426.8
+2018,Washington,53,"Clark County, WA",53011,Black or African American,Not Hispanic or Latino,56.0,9988.0,560.7,789.2
+2018,Washington,53,"Clark County, WA",53011,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,27.0,3983.0,677.9,927.3
+2018,Washington,53,"Clark County, WA",53011,White,Hispanic or Latino,80.0,40661.0,196.7,528.4
+2018,Washington,53,"Clark County, WA",53011,White,Not Hispanic or Latino,3320.0,375836.0,883.4,718.4
+2018,Washington,53,"Clark County, WA",53011,More than one race,Not Hispanic or Latino,28.0,17616.0,158.9,499.5
+2018,Washington,53,"Columbia County, WA",53013,White,Not Hispanic or Latino,46.0,3439.0,1337.6,650.7
+2018,Washington,53,"Cowlitz County, WA",53015,Asian,Not Hispanic or Latino,10.0,1689.0,Unreliable,Unreliable
+2018,Washington,53,"Cowlitz County, WA",53015,White,Hispanic or Latino,17.0,8382.0,Unreliable,Unreliable
+2018,Washington,53,"Cowlitz County, WA",53015,White,Not Hispanic or Latino,1081.0,90887.0,1189.4,814.8
+2018,Washington,53,"Cowlitz County, WA",53015,More than one race,Not Hispanic or Latino,13.0,3494.0,Unreliable,Unreliable
+2018,Washington,53,"Douglas County, WA",53017,White,Hispanic or Latino,16.0,12511.0,Unreliable,Unreliable
+2018,Washington,53,"Douglas County, WA",53017,White,Not Hispanic or Latino,285.0,27393.0,1040.4,594.0
+2018,Washington,53,"Ferry County, WA",53019,White,Not Hispanic or Latino,74.0,5545.0,1334.5,754.5
+2018,Washington,53,"Franklin County, WA",53021,White,Hispanic or Latino,109.0,47124.0,231.3,607.1
+2018,Washington,53,"Franklin County, WA",53021,White,Not Hispanic or Latino,292.0,37725.0,774.0,691.0
+2018,Washington,53,"Garfield County, WA",53023,White,Not Hispanic or Latino,35.0,2000.0,1750.0,884.8
+2018,Washington,53,"Grant County, WA",53025,White,Hispanic or Latino,103.0,37801.0,272.5,606.5
+2018,Washington,53,"Grant County, WA",53025,White,Not Hispanic or Latino,598.0,51954.0,1151.0,781.7
+2018,Washington,53,"Grays Harbor County, WA",53027,American Indian or Alaska Native,Not Hispanic or Latino,42.0,3161.0,1328.7,1401.3
+2018,Washington,53,"Grays Harbor County, WA",53027,Asian,Not Hispanic or Latino,11.0,984.0,Unreliable,Unreliable
+2018,Washington,53,"Grays Harbor County, WA",53027,White,Hispanic or Latino,18.0,5929.0,Unreliable,Unreliable
+2018,Washington,53,"Grays Harbor County, WA",53027,White,Not Hispanic or Latino,779.0,58514.0,1331.3,806.2
+2018,Washington,53,"Grays Harbor County, WA",53027,More than one race,Not Hispanic or Latino,13.0,2556.0,Unreliable,Unreliable
+2018,Washington,53,"Island County, WA",53029,Asian,Not Hispanic or Latino,14.0,4099.0,Unreliable,Unreliable
+2018,Washington,53,"Island County, WA",53029,White,Hispanic or Latino,18.0,5587.0,Unreliable,Unreliable
+2018,Washington,53,"Island County, WA",53029,White,Not Hispanic or Latino,762.0,66556.0,1144.9,640.3
+2018,Washington,53,"Jefferson County, WA",53031,White,Not Hispanic or Latino,383.0,28091.0,1363.4,630.7
+2018,Washington,53,"King County, WA",53033,American Indian or Alaska Native,Hispanic or Latino,14.0,9114.0,Unreliable,Unreliable
+2018,Washington,53,"King County, WA",53033,American Indian or Alaska Native,Not Hispanic or Latino,113.0,13256.0,852.4,862.6
+2018,Washington,53,"King County, WA",53033,Asian,Hispanic or Latino,11.0,5530.0,Unreliable,Unreliable
+2018,Washington,53,"King County, WA",53033,Asian,Not Hispanic or Latino,1252.0,423482.0,295.6,358.2
+2018,Washington,53,"King County, WA",53033,Black or African American,Hispanic or Latino,20.0,8385.0,238.5,1935.2
+2018,Washington,53,"King County, WA",53033,Black or African American,Not Hispanic or Latino,838.0,146278.0,572.9,754.0
+2018,Washington,53,"King County, WA",53033,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,97.0,17746.0,546.6,853.8
+2018,Washington,53,"King County, WA",53033,White,Hispanic or Latino,375.0,179323.0,209.1,431.9
+2018,Washington,53,"King County, WA",53033,White,Not Hispanic or Latino,10334.0,1314450.0,786.2,599.2
+2018,Washington,53,"King County, WA",53033,White,Not Stated,21.0,Not Applicable,Not Applicable,Not Applicable
+2018,Washington,53,"King County, WA",53033,More than one race,Hispanic or Latino,12.0,14733.0,Unreliable,Unreliable
+2018,Washington,53,"King County, WA",53033,More than one race,Not Hispanic or Latino,165.0,99688.0,165.5,404.6
+2018,Washington,53,"Kitsap County, WA",53035,American Indian or Alaska Native,Not Hispanic or Latino,26.0,3740.0,695.2,837.4
+2018,Washington,53,"Kitsap County, WA",53035,Asian,Not Hispanic or Latino,73.0,14098.0,517.8,405.4
+2018,Washington,53,"Kitsap County, WA",53035,Black or African American,Not Hispanic or Latino,40.0,7666.0,521.8,842.7
+2018,Washington,53,"Kitsap County, WA",53035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,20.0,2409.0,830.2,1125.7
+2018,Washington,53,"Kitsap County, WA",53035,White,Hispanic or Latino,38.0,16956.0,224.1,489.9
+2018,Washington,53,"Kitsap County, WA",53035,White,Not Hispanic or Latino,1983.0,205796.0,963.6,685.4
+2018,Washington,53,"Kitsap County, WA",53035,More than one race,Not Hispanic or Latino,37.0,14573.0,253.9,561.6
+2018,Washington,53,"Kittitas County, WA",53037,White,Not Hispanic or Latino,290.0,39670.0,731.0,593.1
+2018,Washington,53,"Klickitat County, WA",53039,White,Not Hispanic or Latino,198.0,18153.0,1090.7,651.7
+2018,Washington,53,"Lewis County, WA",53041,White,Hispanic or Latino,20.0,7071.0,282.8,528.4
+2018,Washington,53,"Lewis County, WA",53041,White,Not Hispanic or Latino,911.0,66190.0,1376.3,861.5
+2018,Washington,53,"Lewis County, WA",53041,More than one race,Not Hispanic or Latino,10.0,2388.0,Unreliable,Unreliable
+2018,Washington,53,"Lincoln County, WA",53043,White,Not Hispanic or Latino,117.0,9781.0,1196.2,659.9
+2018,Washington,53,"Mason County, WA",53045,American Indian or Alaska Native,Not Hispanic or Latino,18.0,2001.0,Unreliable,Unreliable
+2018,Washington,53,"Mason County, WA",53045,White,Hispanic or Latino,15.0,5044.0,Unreliable,Unreliable
+2018,Washington,53,"Mason County, WA",53045,White,Not Hispanic or Latino,636.0,52400.0,1213.7,742.0
+2018,Washington,53,"Okanogan County, WA",53047,American Indian or Alaska Native,Not Hispanic or Latino,45.0,4417.0,1018.8,1047.6
+2018,Washington,53,"Okanogan County, WA",53047,White,Hispanic or Latino,17.0,7098.0,Unreliable,Unreliable
+2018,Washington,53,"Okanogan County, WA",53047,White,Not Hispanic or Latino,360.0,27254.0,1320.9,698.4
+2018,Washington,53,"Pacific County, WA",53049,White,Not Hispanic or Latino,319.0,18068.0,1765.6,865.4
+2018,Washington,53,"Pend Oreille County, WA",53051,White,Not Hispanic or Latino,163.0,12027.0,1355.3,827.4
+2018,Washington,53,"Pierce County, WA",53053,American Indian or Alaska Native,Not Hispanic or Latino,94.0,10365.0,906.9,1184.7
+2018,Washington,53,"Pierce County, WA",53053,Asian,Not Hispanic or Latino,351.0,59073.0,594.2,504.5
+2018,Washington,53,"Pierce County, WA",53053,Black or African American,Hispanic or Latino,11.0,5403.0,Unreliable,Unreliable
+2018,Washington,53,"Pierce County, WA",53053,Black or African American,Not Hispanic or Latino,436.0,62243.0,700.5,895.0
+2018,Washington,53,"Pierce County, WA",53053,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,94.0,14114.0,666.0,1042.8
+2018,Washington,53,"Pierce County, WA",53053,White,Hispanic or Latino,167.0,75367.0,221.6,533.5
+2018,Washington,53,"Pierce County, WA",53053,White,Not Hispanic or Latino,5585.0,590952.0,945.1,755.0
+2018,Washington,53,"Pierce County, WA",53053,More than one race,Not Hispanic or Latino,136.0,55399.0,245.5,589.3
+2018,Washington,53,"San Juan County, WA",53055,White,Not Hispanic or Latino,131.0,15093.0,868.0,418.3
+2018,Washington,53,"Skagit County, WA",53057,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2109.0,948.3,1344.7
+2018,Washington,53,"Skagit County, WA",53057,Asian,Not Hispanic or Latino,10.0,2843.0,Unreliable,Unreliable
+2018,Washington,53,"Skagit County, WA",53057,White,Hispanic or Latino,34.0,20879.0,162.8,390.3
+2018,Washington,53,"Skagit County, WA",53057,White,Not Hispanic or Latino,1148.0,94838.0,1210.5,699.5
+2018,Washington,53,"Skamania County, WA",53059,White,Not Hispanic or Latino,79.0,10443.0,756.5,529.3
+2018,Washington,53,"Snohomish County, WA",53061,American Indian or Alaska Native,Not Hispanic or Latino,68.0,8788.0,773.8,884.5
+2018,Washington,53,"Snohomish County, WA",53061,Asian,Not Hispanic or Latino,260.0,93069.0,279.4,342.8
+2018,Washington,53,"Snohomish County, WA",53061,Black or African American,Not Hispanic or Latino,76.0,27554.0,275.8,456.4
+2018,Washington,53,"Snohomish County, WA",53061,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,26.0,5199.0,500.1,874.4
+2018,Washington,53,"Snohomish County, WA",53061,White,Hispanic or Latino,140.0,71300.0,196.4,471.4
+2018,Washington,53,"Snohomish County, WA",53061,White,Not Hispanic or Latino,4924.0,561043.0,877.7,723.4
+2018,Washington,53,"Snohomish County, WA",53061,More than one race,Not Hispanic or Latino,66.0,34139.0,193.3,598.2
+2018,Washington,53,"Spokane County, WA",53063,American Indian or Alaska Native,Not Hispanic or Latino,59.0,7307.0,807.4,1076.7
+2018,Washington,53,"Spokane County, WA",53063,Asian,Not Hispanic or Latino,55.0,12069.0,455.7,521.5
+2018,Washington,53,"Spokane County, WA",53063,Black or African American,Not Hispanic or Latino,66.0,9617.0,686.3,988.0
+2018,Washington,53,"Spokane County, WA",53063,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,14.0,2943.0,Unreliable,Unreliable
+2018,Washington,53,"Spokane County, WA",53063,White,Hispanic or Latino,68.0,24706.0,275.2,461.6
+2018,Washington,53,"Spokane County, WA",53063,White,Not Hispanic or Latino,4422.0,433749.0,1019.5,787.1
+2018,Washington,53,"Spokane County, WA",53063,More than one race,Not Hispanic or Latino,42.0,18473.0,227.4,514.6
+2018,Washington,53,"Stevens County, WA",53065,American Indian or Alaska Native,Not Hispanic or Latino,28.0,2380.0,1176.5,1122.6
+2018,Washington,53,"Stevens County, WA",53065,White,Not Hispanic or Latino,446.0,39112.0,1140.3,735.2
+2018,Washington,53,"Thurston County, WA",53067,American Indian or Alaska Native,Not Hispanic or Latino,24.0,3740.0,641.7,704.1
+2018,Washington,53,"Thurston County, WA",53067,Asian,Not Hispanic or Latino,84.0,17212.0,488.0,510.5
+2018,Washington,53,"Thurston County, WA",53067,Black or African American,Not Hispanic or Latino,45.0,9190.0,489.7,768.8
+2018,Washington,53,"Thurston County, WA",53067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,14.0,2505.0,Unreliable,Unreliable
+2018,Washington,53,"Thurston County, WA",53067,White,Hispanic or Latino,57.0,20807.0,273.9,563.6
+2018,Washington,53,"Thurston County, WA",53067,White,Not Hispanic or Latino,2114.0,213578.0,989.8,702.1
+2018,Washington,53,"Thurston County, WA",53067,More than one race,Not Hispanic or Latino,28.0,13895.0,201.5,449.8
+2018,Washington,53,"Wahkiakum County, WA",53069,White,Not Hispanic or Latino,44.0,3866.0,1138.1,636.0
+2018,Washington,53,"Walla Walla County, WA",53071,White,Hispanic or Latino,32.0,12154.0,263.3,528.4
+2018,Washington,53,"Walla Walla County, WA",53071,White,Not Hispanic or Latino,513.0,43494.0,1179.5,676.0
+2018,Washington,53,"Whatcom County, WA",53073,American Indian or Alaska Native,Not Hispanic or Latino,58.0,5762.0,1006.6,1391.5
+2018,Washington,53,"Whatcom County, WA",53073,Asian,Not Hispanic or Latino,25.0,10153.0,246.2,276.1
+2018,Washington,53,"Whatcom County, WA",53073,Black or African American,Not Hispanic or Latino,16.0,2408.0,Unreliable,Unreliable
+2018,Washington,53,"Whatcom County, WA",53073,White,Hispanic or Latino,45.0,17379.0,258.9,468.0
+2018,Washington,53,"Whatcom County, WA",53073,White,Not Hispanic or Latino,1452.0,177637.0,817.4,590.7
+2018,Washington,53,"Whitman County, WA",53075,White,Not Hispanic or Latino,255.0,39049.0,653.0,679.5
+2018,Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Hispanic or Latino,10.0,7315.0,Unreliable,Unreliable
+2018,Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Not Hispanic or Latino,110.0,9139.0,1203.6,1359.1
+2018,Washington,53,"Yakima County, WA",53077,Asian,Not Hispanic or Latino,18.0,2913.0,Unreliable,Unreliable
+2018,Washington,53,"Yakima County, WA",53077,Black or African American,Not Hispanic or Latino,26.0,2076.0,1252.4,1450.3
+2018,Washington,53,"Yakima County, WA",53077,White,Hispanic or Latino,326.0,112033.0,291.0,556.7
+2018,Washington,53,"Yakima County, WA",53077,White,Not Hispanic or Latino,1593.0,107291.0,1484.7,849.2
+2018,Washington,53,"Yakima County, WA",53077,More than one race,Not Hispanic or Latino,23.0,4344.0,529.5,819.5
+2019,Washington,53,"Adams County, WA",53001,White,Hispanic or Latino,30.0,11191.0,268.1,755.5
+2019,Washington,53,"Adams County, WA",53001,White,Not Hispanic or Latino,96.0,6491.0,1479.0,901.9
+2019,Washington,53,"Asotin County, WA",53003,White,Not Hispanic or Latino,275.0,20275.0,1356.4,768.4
+2019,Washington,53,"Benton County, WA",53005,Asian,Not Hispanic or Latino,27.0,6352.0,425.1,462.2
+2019,Washington,53,"Benton County, WA",53005,Black or African American,Not Hispanic or Latino,12.0,3008.0,Unreliable,Unreliable
+2019,Washington,53,"Benton County, WA",53005,White,Hispanic or Latino,71.0,42181.0,168.3,402.5
+2019,Washington,53,"Benton County, WA",53005,White,Not Hispanic or Latino,1365.0,141820.0,962.5,693.6
+2019,Washington,53,"Benton County, WA",53005,More than one race,Not Hispanic or Latino,11.0,5251.0,Unreliable,Unreliable
+2019,Washington,53,"Chelan County, WA",53007,White,Hispanic or Latino,35.0,19786.0,176.9,398.0
+2019,Washington,53,"Chelan County, WA",53007,White,Not Hispanic or Latino,711.0,52166.0,1363.0,755.6
+2019,Washington,53,"Clallam County, WA",53009,American Indian or Alaska Native,Not Hispanic or Latino,31.0,3538.0,876.2,858.5
+2019,Washington,53,"Clallam County, WA",53009,Asian,Not Hispanic or Latino,10.0,1416.0,Unreliable,Unreliable
+2019,Washington,53,"Clallam County, WA",53009,White,Hispanic or Latino,14.0,3622.0,Unreliable,Unreliable
+2019,Washington,53,"Clallam County, WA",53009,White,Not Hispanic or Latino,1064.0,63730.0,1669.5,764.7
+2019,Washington,53,"Clallam County, WA",53009,More than one race,Not Hispanic or Latino,16.0,2733.0,Unreliable,Unreliable
+2019,Washington,53,"Clark County, WA",53011,American Indian or Alaska Native,Not Hispanic or Latino,11.0,3591.0,Unreliable,Unreliable
+2019,Washington,53,"Clark County, WA",53011,Asian,Not Hispanic or Latino,94.0,23784.0,395.2,392.9
+2019,Washington,53,"Clark County, WA",53011,Black or African American,Not Hispanic or Latino,71.0,10402.0,682.6,981.2
+2019,Washington,53,"Clark County, WA",53011,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,24.0,4146.0,578.9,945.3
+2019,Washington,53,"Clark County, WA",53011,White,Hispanic or Latino,80.0,42165.0,189.7,463.1
+2019,Washington,53,"Clark County, WA",53011,White,Not Hispanic or Latino,3560.0,378396.0,940.8,745.6
+2019,Washington,53,"Clark County, WA",53011,More than one race,Not Hispanic or Latino,24.0,18166.0,132.1,349.5
+2019,Washington,53,"Columbia County, WA",53013,White,Not Hispanic or Latino,58.0,3364.0,1724.1,793.5
+2019,Washington,53,"Cowlitz County, WA",53015,White,Hispanic or Latino,18.0,8697.0,Unreliable,Unreliable
+2019,Washington,53,"Cowlitz County, WA",53015,White,Not Hispanic or Latino,1179.0,92005.0,1281.5,865.5
+2019,Washington,53,"Cowlitz County, WA",53015,More than one race,Not Hispanic or Latino,10.0,3575.0,Unreliable,Unreliable
+2019,Washington,53,"Douglas County, WA",53017,White,Hispanic or Latino,21.0,12804.0,164.0,388.8
+2019,Washington,53,"Douglas County, WA",53017,White,Not Hispanic or Latino,307.0,27529.0,1115.2,613.5
+2019,Washington,53,"Ferry County, WA",53019,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1175.0,Unreliable,Unreliable
+2019,Washington,53,"Ferry County, WA",53019,White,Not Hispanic or Latino,66.0,5565.0,1186.0,681.2
+2019,Washington,53,"Franklin County, WA",53021,Black or African American,Not Hispanic or Latino,12.0,2015.0,Unreliable,Unreliable
+2019,Washington,53,"Franklin County, WA",53021,White,Hispanic or Latino,99.0,47655.0,207.7,538.0
+2019,Washington,53,"Franklin County, WA",53021,White,Not Hispanic or Latino,309.0,37946.0,814.3,710.7
+2019,Washington,53,"Garfield County, WA",53023,White,Not Hispanic or Latino,26.0,1961.0,1325.9,691.0
+2019,Washington,53,"Grant County, WA",53025,White,Hispanic or Latino,95.0,37937.0,250.4,556.7
+2019,Washington,53,"Grant County, WA",53025,White,Not Hispanic or Latino,586.0,52089.0,1125.0,768.7
+2019,Washington,53,"Grays Harbor County, WA",53027,American Indian or Alaska Native,Not Hispanic or Latino,44.0,3215.0,1368.6,1335.5
+2019,Washington,53,"Grays Harbor County, WA",53027,White,Hispanic or Latino,20.0,6039.0,331.2,724.0
+2019,Washington,53,"Grays Harbor County, WA",53027,White,Not Hispanic or Latino,816.0,59303.0,1376.0,839.6
+2019,Washington,53,"Grays Harbor County, WA",53027,More than one race,Not Hispanic or Latino,17.0,2631.0,Unreliable,Unreliable
+2019,Washington,53,"Island County, WA",53029,Asian,Not Hispanic or Latino,18.0,4167.0,Unreliable,Unreliable
+2019,Washington,53,"Island County, WA",53029,Black or African American,Not Hispanic or Latino,12.0,2500.0,Unreliable,Unreliable
+2019,Washington,53,"Island County, WA",53029,White,Hispanic or Latino,16.0,5714.0,Unreliable,Unreliable
+2019,Washington,53,"Island County, WA",53029,White,Not Hispanic or Latino,752.0,66849.0,1124.9,652.4
+2019,Washington,53,"Jefferson County, WA",53031,White,Not Hispanic or Latino,394.0,28413.0,1386.7,637.4
+2019,Washington,53,"King County, WA",53033,American Indian or Alaska Native,Hispanic or Latino,10.0,9324.0,Unreliable,Unreliable
+2019,Washington,53,"King County, WA",53033,American Indian or Alaska Native,Not Hispanic or Latino,121.0,13298.0,909.9,962.9
+2019,Washington,53,"King County, WA",53033,Asian,Hispanic or Latino,16.0,5663.0,Unreliable,Unreliable
+2019,Washington,53,"King County, WA",53033,Asian,Not Hispanic or Latino,1343.0,439015.0,305.9,366.9
+2019,Washington,53,"King County, WA",53033,Black or African American,Not Hispanic or Latino,969.0,150292.0,644.7,833.3
+2019,Washington,53,"King County, WA",53033,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,121.0,17903.0,675.9,1050.9
+2019,Washington,53,"King County, WA",53033,White,Hispanic or Latino,425.0,182893.0,232.4,456.0
+2019,Washington,53,"King County, WA",53033,White,Not Hispanic or Latino,10364.0,1308250.0,792.2,597.8
+2019,Washington,53,"King County, WA",53033,More than one race,Hispanic or Latino,11.0,15187.0,Unreliable,Unreliable
+2019,Washington,53,"King County, WA",53033,More than one race,Not Hispanic or Latino,163.0,101382.0,160.8,426.9
+2019,Washington,53,"Kitsap County, WA",53035,American Indian or Alaska Native,Not Hispanic or Latino,23.0,3705.0,620.8,581.0
+2019,Washington,53,"Kitsap County, WA",53035,Asian,Not Hispanic or Latino,74.0,14029.0,527.5,403.2
+2019,Washington,53,"Kitsap County, WA",53035,Black or African American,Not Hispanic or Latino,49.0,7905.0,619.9,1059.2
+2019,Washington,53,"Kitsap County, WA",53035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,22.0,2455.0,896.1,838.8
+2019,Washington,53,"Kitsap County, WA",53035,White,Hispanic or Latino,45.0,17661.0,254.8,626.8
+2019,Washington,53,"Kitsap County, WA",53035,White,Not Hispanic or Latino,2112.0,206203.0,1024.2,721.9
+2019,Washington,53,"Kitsap County, WA",53035,More than one race,Not Hispanic or Latino,34.0,14799.0,229.7,531.7
+2019,Washington,53,"Kittitas County, WA",53037,White,Not Hispanic or Latino,345.0,40131.0,859.7,679.1
+2019,Washington,53,"Klickitat County, WA",53039,American Indian or Alaska Native,Not Hispanic or Latino,11.0,456.0,Unreliable,Unreliable
+2019,Washington,53,"Klickitat County, WA",53039,White,Not Hispanic or Latino,192.0,18451.0,1040.6,584.9
+2019,Washington,53,"Lewis County, WA",53041,White,Hispanic or Latino,17.0,7353.0,Unreliable,Unreliable
+2019,Washington,53,"Lewis County, WA",53041,White,Not Hispanic or Latino,889.0,66873.0,1329.4,836.6
+2019,Washington,53,"Lincoln County, WA",53043,White,Not Hispanic or Latino,106.0,9932.0,1067.3,647.1
+2019,Washington,53,"Mason County, WA",53045,American Indian or Alaska Native,Not Hispanic or Latino,20.0,2018.0,991.1,887.5
+2019,Washington,53,"Mason County, WA",53045,White,Not Hispanic or Latino,660.0,53265.0,1239.1,722.8
+2019,Washington,53,"Mason County, WA",53045,More than one race,Not Hispanic or Latino,13.0,2487.0,Unreliable,Unreliable
+2019,Washington,53,"Okanogan County, WA",53047,American Indian or Alaska Native,Not Hispanic or Latino,48.0,4464.0,1075.3,1141.5
+2019,Washington,53,"Okanogan County, WA",53047,White,Not Hispanic or Latino,412.0,27161.0,1516.9,827.7
+2019,Washington,53,"Pacific County, WA",53049,White,Not Hispanic or Latino,309.0,18352.0,1683.7,809.4
+2019,Washington,53,"Pend Oreille County, WA",53051,White,Not Hispanic or Latino,146.0,12111.0,1205.5,703.0
+2019,Washington,53,"Pierce County, WA",53053,American Indian or Alaska Native,Not Hispanic or Latino,81.0,10512.0,770.5,1084.3
+2019,Washington,53,"Pierce County, WA",53053,Asian,Not Hispanic or Latino,344.0,61239.0,561.7,474.0
+2019,Washington,53,"Pierce County, WA",53053,Black or African American,Not Hispanic or Latino,429.0,64132.0,668.9,837.9
+2019,Washington,53,"Pierce County, WA",53053,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,97.0,14710.0,659.4,977.8
+2019,Washington,53,"Pierce County, WA",53053,White,Hispanic or Latino,187.0,78403.0,238.5,539.3
+2019,Washington,53,"Pierce County, WA",53053,White,Not Hispanic or Latino,5622.0,594385.0,945.9,745.4
+2019,Washington,53,"Pierce County, WA",53053,More than one race,Not Hispanic or Latino,125.0,56975.0,219.4,556.7
+2019,Washington,53,"San Juan County, WA",53055,White,Not Hispanic or Latino,141.0,15476.0,911.1,456.1
+2019,Washington,53,"Skagit County, WA",53057,American Indian or Alaska Native,Not Hispanic or Latino,21.0,2083.0,1008.2,1053.9
+2019,Washington,53,"Skagit County, WA",53057,Asian,Not Hispanic or Latino,16.0,2783.0,Unreliable,Unreliable
+2019,Washington,53,"Skagit County, WA",53057,White,Hispanic or Latino,31.0,20967.0,147.9,309.0
+2019,Washington,53,"Skagit County, WA",53057,White,Not Hispanic or Latino,1168.0,95718.0,1220.3,694.9
+2019,Washington,53,"Skamania County, WA",53059,White,Not Hispanic or Latino,100.0,10510.0,951.5,655.2
+2019,Washington,53,"Snohomish County, WA",53061,American Indian or Alaska Native,Not Hispanic or Latino,63.0,8777.0,717.8,963.7
+2019,Washington,53,"Snohomish County, WA",53061,Asian,Not Hispanic or Latino,282.0,97272.0,289.9,350.1
+2019,Washington,53,"Snohomish County, WA",53061,Black or African American,Not Hispanic or Latino,97.0,28841.0,336.3,633.6
+2019,Washington,53,"Snohomish County, WA",53061,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,17.0,5278.0,Unreliable,Unreliable
+2019,Washington,53,"Snohomish County, WA",53061,White,Hispanic or Latino,156.0,72906.0,214.0,512.1
+2019,Washington,53,"Snohomish County, WA",53061,White,Not Hispanic or Latino,4891.0,559806.0,873.7,699.7
+2019,Washington,53,"Snohomish County, WA",53061,More than one race,Not Hispanic or Latino,87.0,34942.0,249.0,674.7
+2019,Washington,53,"Spokane County, WA",53063,American Indian or Alaska Native,Not Hispanic or Latino,57.0,7500.0,760.0,1000.3
+2019,Washington,53,"Spokane County, WA",53063,Asian,Not Hispanic or Latino,47.0,12310.0,381.8,387.1
+2019,Washington,53,"Spokane County, WA",53063,Black or African American,Not Hispanic or Latino,53.0,9774.0,542.3,673.1
+2019,Washington,53,"Spokane County, WA",53063,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,18.0,3070.0,Unreliable,Unreliable
+2019,Washington,53,"Spokane County, WA",53063,White,Hispanic or Latino,68.0,25827.0,263.3,441.6
+2019,Washington,53,"Spokane County, WA",53063,White,Not Hispanic or Latino,4401.0,439171.0,1002.1,770.4
+2019,Washington,53,"Spokane County, WA",53063,More than one race,Not Hispanic or Latino,30.0,19138.0,156.8,321.8
+2019,Washington,53,"Stevens County, WA",53065,American Indian or Alaska Native,Not Hispanic or Latino,17.0,2369.0,Unreliable,Unreliable
+2019,Washington,53,"Stevens County, WA",53065,White,Not Hispanic or Latino,422.0,39480.0,1068.9,648.2
+2019,Washington,53,"Thurston County, WA",53067,American Indian or Alaska Native,Not Hispanic or Latino,30.0,3821.0,785.1,996.7
+2019,Washington,53,"Thurston County, WA",53067,Asian,Not Hispanic or Latino,58.0,17699.0,327.7,314.0
+2019,Washington,53,"Thurston County, WA",53067,Black or African American,Not Hispanic or Latino,40.0,9445.0,423.5,774.0
+2019,Washington,53,"Thurston County, WA",53067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,15.0,2613.0,Unreliable,Unreliable
+2019,Washington,53,"Thurston County, WA",53067,White,Hispanic or Latino,59.0,21561.0,273.6,563.0
+2019,Washington,53,"Thurston County, WA",53067,White,Not Hispanic or Latino,2190.0,215268.0,1017.3,700.0
+2019,Washington,53,"Thurston County, WA",53067,More than one race,Not Hispanic or Latino,33.0,14478.0,227.9,553.7
+2019,Washington,53,"Wahkiakum County, WA",53069,White,Not Hispanic or Latino,64.0,3882.0,1648.6,787.2
+2019,Washington,53,"Walla Walla County, WA",53071,White,Hispanic or Latino,26.0,12174.0,213.6,394.3
+2019,Washington,53,"Walla Walla County, WA",53071,White,Not Hispanic or Latino,531.0,43334.0,1225.4,685.4
+2019,Washington,53,"Whatcom County, WA",53073,American Indian or Alaska Native,Not Hispanic or Latino,61.0,5838.0,1044.9,1208.5
+2019,Washington,53,"Whatcom County, WA",53073,Asian,Not Hispanic or Latino,42.0,10618.0,395.6,424.1
+2019,Washington,53,"Whatcom County, WA",53073,Black or African American,Not Hispanic or Latino,12.0,2399.0,Unreliable,Unreliable
+2019,Washington,53,"Whatcom County, WA",53073,White,Hispanic or Latino,48.0,18254.0,263.0,499.3
+2019,Washington,53,"Whatcom County, WA",53073,White,Not Hispanic or Latino,1671.0,179461.0,931.1,665.2
+2019,Washington,53,"Whatcom County, WA",53073,More than one race,Not Hispanic or Latino,13.0,7863.0,Unreliable,Unreliable
+2019,Washington,53,"Whitman County, WA",53075,White,Not Hispanic or Latino,256.0,39292.0,651.5,687.0
+2019,Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Not Hispanic or Latino,99.0,9200.0,1076.1,1350.7
+2019,Washington,53,"Yakima County, WA",53077,Asian,Not Hispanic or Latino,13.0,2998.0,Unreliable,Unreliable
+2019,Washington,53,"Yakima County, WA",53077,Black or African American,Not Hispanic or Latino,14.0,2101.0,Unreliable,Unreliable
+2019,Washington,53,"Yakima County, WA",53077,White,Hispanic or Latino,343.0,111986.0,306.3,601.8
+2019,Washington,53,"Yakima County, WA",53077,White,Not Hispanic or Latino,1506.0,106175.0,1418.4,822.9
+2019,Washington,53,"Yakima County, WA",53077,More than one race,Not Hispanic or Latino,12.0,4370.0,Unreliable,Unreliable
+2020,Washington,53,"Adams County, WA",53001,White,Hispanic or Latino,46.0,11245.0,409.1,881.6
+2020,Washington,53,"Adams County, WA",53001,White,Not Hispanic or Latino,78.0,6422.0,1214.6,700.8
+2020,Washington,53,"Asotin County, WA",53003,White,Not Hispanic or Latino,301.0,20401.0,1475.4,825.0
+2020,Washington,53,"Benton County, WA",53005,Asian,Not Hispanic or Latino,32.0,6522.0,490.6,465.3
+2020,Washington,53,"Benton County, WA",53005,Black or African American,Not Hispanic or Latino,20.0,2844.0,703.2,951.5
+2020,Washington,53,"Benton County, WA",53005,White,Hispanic or Latino,149.0,43587.0,341.8,812.1
+2020,Washington,53,"Benton County, WA",53005,White,Not Hispanic or Latino,1549.0,141816.0,1092.3,795.6
+2020,Washington,53,"Benton County, WA",53005,More than one race,Not Hispanic or Latino,11.0,5360.0,Unreliable,Unreliable
+2020,Washington,53,"Chelan County, WA",53007,White,Hispanic or Latino,53.0,19913.0,266.2,580.4
+2020,Washington,53,"Chelan County, WA",53007,White,Not Hispanic or Latino,693.0,52296.0,1325.1,715.1
+2020,Washington,53,"Clallam County, WA",53009,American Indian or Alaska Native,Not Hispanic or Latino,46.0,3475.0,1323.7,1357.5
+2020,Washington,53,"Clallam County, WA",53009,Asian,Not Hispanic or Latino,11.0,1462.0,Unreliable,Unreliable
+2020,Washington,53,"Clallam County, WA",53009,White,Hispanic or Latino,11.0,3764.0,Unreliable,Unreliable
+2020,Washington,53,"Clallam County, WA",53009,White,Not Hispanic or Latino,1000.0,63885.0,1565.3,731.0
+2020,Washington,53,"Clark County, WA",53011,American Indian or Alaska Native,Not Hispanic or Latino,14.0,3525.0,Unreliable,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Asian,Not Hispanic or Latino,105.0,24718.0,424.8,415.7
+2020,Washington,53,"Clark County, WA",53011,Black or African American,Not Hispanic or Latino,78.0,10996.0,709.3,811.0
+2020,Washington,53,"Clark County, WA",53011,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,24.0,4389.0,546.8,842.9
+2020,Washington,53,"Clark County, WA",53011,White,Hispanic or Latino,105.0,44499.0,236.0,576.5
+2020,Washington,53,"Clark County, WA",53011,White,Not Hispanic or Latino,3826.0,380899.0,1004.5,782.0
+2020,Washington,53,"Clark County, WA",53011,More than one race,Not Hispanic or Latino,29.0,19387.0,149.6,404.2
+2020,Washington,53,"Columbia County, WA",53013,White,Not Hispanic or Latino,60.0,3385.0,1772.5,890.9
+2020,Washington,53,"Cowlitz County, WA",53015,Asian,Not Hispanic or Latino,13.0,1700.0,Unreliable,Unreliable
+2020,Washington,53,"Cowlitz County, WA",53015,White,Hispanic or Latino,24.0,8793.0,272.9,448.6
+2020,Washington,53,"Cowlitz County, WA",53015,White,Not Hispanic or Latino,1248.0,92282.0,1352.4,901.2
+2020,Washington,53,"Cowlitz County, WA",53015,More than one race,Not Hispanic or Latino,10.0,3727.0,Unreliable,Unreliable
+2020,Washington,53,"Douglas County, WA",53017,White,Hispanic or Latino,31.0,12890.0,240.5,597.8
+2020,Washington,53,"Douglas County, WA",53017,White,Not Hispanic or Latino,302.0,27345.0,1104.4,623.1
+2020,Washington,53,"Ferry County, WA",53019,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1176.0,Unreliable,Unreliable
+2020,Washington,53,"Ferry County, WA",53019,White,Not Hispanic or Latino,84.0,5679.0,1479.1,780.8
+2020,Washington,53,"Franklin County, WA",53021,White,Hispanic or Latino,147.0,48462.0,303.3,742.4
+2020,Washington,53,"Franklin County, WA",53021,White,Not Hispanic or Latino,360.0,38562.0,933.6,806.4
+2020,Washington,53,"Garfield County, WA",53023,White,Not Hispanic or Latino,26.0,2007.0,1295.5,757.2
+2020,Washington,53,"Grant County, WA",53025,American Indian or Alaska Native,Not Hispanic or Latino,12.0,865.0,Unreliable,Unreliable
+2020,Washington,53,"Grant County, WA",53025,White,Hispanic or Latino,127.0,38764.0,327.6,687.9
+2020,Washington,53,"Grant County, WA",53025,White,Not Hispanic or Latino,658.0,52338.0,1257.2,821.8
+2020,Washington,53,"Grant County, WA",53025,More than one race,Not Hispanic or Latino,15.0,1717.0,Unreliable,Unreliable
+2020,Washington,53,"Grays Harbor County, WA",53027,American Indian or Alaska Native,Not Hispanic or Latino,27.0,3143.0,859.1,945.8
+2020,Washington,53,"Grays Harbor County, WA",53027,White,Hispanic or Latino,24.0,6168.0,389.1,697.2
+2020,Washington,53,"Grays Harbor County, WA",53027,White,Not Hispanic or Latino,875.0,59784.0,1463.6,869.6
+2020,Washington,53,"Grays Harbor County, WA",53027,More than one race,Not Hispanic or Latino,19.0,2696.0,Unreliable,Unreliable
+2020,Washington,53,"Island County, WA",53029,Asian,Not Hispanic or Latino,12.0,4132.0,Unreliable,Unreliable
+2020,Washington,53,"Island County, WA",53029,White,Hispanic or Latino,17.0,5926.0,Unreliable,Unreliable
+2020,Washington,53,"Island County, WA",53029,White,Not Hispanic or Latino,797.0,67195.0,1186.1,646.2
+2020,Washington,53,"Island County, WA",53029,More than one race,Not Hispanic or Latino,12.0,3695.0,Unreliable,Unreliable
+2020,Washington,53,"Jefferson County, WA",53031,White,Not Hispanic or Latino,389.0,28756.0,1352.8,647.3
+2020,Washington,53,"King County, WA",53033,American Indian or Alaska Native,Hispanic or Latino,12.0,9874.0,Unreliable,Unreliable
+2020,Washington,53,"King County, WA",53033,American Indian or Alaska Native,Not Hispanic or Latino,154.0,12963.0,1188.0,1202.7
+2020,Washington,53,"King County, WA",53033,Asian,Not Hispanic or Latino,1581.0,457740.0,345.4,409.2
+2020,Washington,53,"King County, WA",53033,Black or African American,Hispanic or Latino,18.0,9029.0,Unreliable,Unreliable
+2020,Washington,53,"King County, WA",53033,Black or African American,Not Hispanic or Latino,1016.0,152598.0,665.8,848.4
+2020,Washington,53,"King County, WA",53033,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,124.0,17767.0,697.9,1053.9
+2020,Washington,53,"King County, WA",53033,White,Hispanic or Latino,546.0,186743.0,292.4,546.2
+2020,Washington,53,"King County, WA",53033,White,Not Hispanic or Latino,10808.0,1296112.0,833.9,622.7
+2020,Washington,53,"King County, WA",53033,More than one race,Hispanic or Latino,22.0,16629.0,132.3,402.5
+2020,Washington,53,"King County, WA",53033,More than one race,Not Hispanic or Latino,200.0,107465.0,186.1,448.8
+2020,Washington,53,"Kitsap County, WA",53035,American Indian or Alaska Native,Not Hispanic or Latino,24.0,3601.0,666.5,753.8
+2020,Washington,53,"Kitsap County, WA",53035,Asian,Not Hispanic or Latino,79.0,14179.0,557.2,408.8
+2020,Washington,53,"Kitsap County, WA",53035,Black or African American,Not Hispanic or Latino,44.0,7949.0,553.5,782.0
+2020,Washington,53,"Kitsap County, WA",53035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,17.0,2437.0,Unreliable,Unreliable
+2020,Washington,53,"Kitsap County, WA",53035,White,Hispanic or Latino,43.0,18101.0,237.6,479.1
+2020,Washington,53,"Kitsap County, WA",53035,White,Not Hispanic or Latino,2114.0,206101.0,1025.7,707.0
+2020,Washington,53,"Kitsap County, WA",53035,More than one race,Not Hispanic or Latino,37.0,15432.0,239.8,541.5
+2020,Washington,53,"Kittitas County, WA",53037,White,Not Hispanic or Latino,345.0,41048.0,840.5,654.2
+2020,Washington,53,"Klickitat County, WA",53039,White,Not Hispanic or Latino,203.0,18679.0,1086.8,605.1
+2020,Washington,53,"Lewis County, WA",53041,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1105.0,Unreliable,Unreliable
+2020,Washington,53,"Lewis County, WA",53041,White,Hispanic or Latino,17.0,7663.0,Unreliable,Unreliable
+2020,Washington,53,"Lewis County, WA",53041,White,Not Hispanic or Latino,976.0,67760.0,1440.4,896.7
+2020,Washington,53,"Lewis County, WA",53041,More than one race,Not Hispanic or Latino,10.0,2592.0,Unreliable,Unreliable
+2020,Washington,53,"Lincoln County, WA",53043,White,Not Hispanic or Latino,122.0,10041.0,1215.0,665.9
+2020,Washington,53,"Mason County, WA",53045,American Indian or Alaska Native,Not Hispanic or Latino,24.0,2061.0,1164.5,1213.1
+2020,Washington,53,"Mason County, WA",53045,White,Hispanic or Latino,21.0,5430.0,386.7,629.7
+2020,Washington,53,"Mason County, WA",53045,White,Not Hispanic or Latino,687.0,54092.0,1270.1,757.0
+2020,Washington,53,"Mason County, WA",53045,More than one race,Not Hispanic or Latino,10.0,2611.0,Unreliable,Unreliable
+2020,Washington,53,"Okanogan County, WA",53047,American Indian or Alaska Native,Not Hispanic or Latino,60.0,4375.0,1371.4,1414.0
+2020,Washington,53,"Okanogan County, WA",53047,White,Hispanic or Latino,24.0,7355.0,326.3,657.6
+2020,Washington,53,"Okanogan County, WA",53047,White,Not Hispanic or Latino,389.0,27442.0,1417.5,725.7
+2020,Washington,53,"Pacific County, WA",53049,White,Not Hispanic or Latino,307.0,18685.0,1643.0,813.0
+2020,Washington,53,"Pend Oreille County, WA",53051,White,Not Hispanic or Latino,166.0,12426.0,1335.9,873.8
+2020,Washington,53,"Pierce County, WA",53053,American Indian or Alaska Native,Not Hispanic or Latino,88.0,10344.0,850.7,949.9
+2020,Washington,53,"Pierce County, WA",53053,Asian,Not Hispanic or Latino,377.0,63023.0,598.2,494.4
+2020,Washington,53,"Pierce County, WA",53053,Black or African American,Not Hispanic or Latino,537.0,65391.0,821.2,1049.3
+2020,Washington,53,"Pierce County, WA",53053,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,127.0,15006.0,846.3,1336.1
+2020,Washington,53,"Pierce County, WA",53053,White,Hispanic or Latino,223.0,81361.0,274.1,613.9
+2020,Washington,53,"Pierce County, WA",53053,White,Not Hispanic or Latino,5979.0,591368.0,1011.0,788.3
+2020,Washington,53,"Pierce County, WA",53053,More than one race,Not Hispanic or Latino,124.0,60536.0,204.8,493.9
+2020,Washington,53,"San Juan County, WA",53055,White,Not Hispanic or Latino,138.0,15377.0,897.4,420.0
+2020,Washington,53,"Skagit County, WA",53057,American Indian or Alaska Native,Not Hispanic or Latino,26.0,2087.0,1245.8,1272.0
+2020,Washington,53,"Skagit County, WA",53057,Asian,Not Hispanic or Latino,10.0,2888.0,Unreliable,Unreliable
+2020,Washington,53,"Skagit County, WA",53057,White,Hispanic or Latino,61.0,21811.0,279.7,584.0
+2020,Washington,53,"Skagit County, WA",53057,White,Not Hispanic or Latino,1252.0,96184.0,1301.7,743.5
+2020,Washington,53,"Skamania County, WA",53059,White,Not Hispanic or Latino,100.0,10449.0,957.0,577.9
+2020,Washington,53,"Snohomish County, WA",53061,American Indian or Alaska Native,Not Hispanic or Latino,89.0,8554.0,1040.4,1239.2
+2020,Washington,53,"Snohomish County, WA",53061,Asian,Not Hispanic or Latino,329.0,102591.0,320.7,390.6
+2020,Washington,53,"Snohomish County, WA",53061,Black or African American,Not Hispanic or Latino,132.0,30457.0,433.4,803.7
+2020,Washington,53,"Snohomish County, WA",53061,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,31.0,5052.0,613.6,735.1
+2020,Washington,53,"Snohomish County, WA",53061,White,Hispanic or Latino,176.0,75155.0,234.2,536.7
+2020,Washington,53,"Snohomish County, WA",53061,White,Not Hispanic or Latino,5337.0,555385.0,961.0,756.7
+2020,Washington,53,"Snohomish County, WA",53061,More than one race,Not Hispanic or Latino,93.0,37320.0,249.2,813.3
+2020,Washington,53,"Spokane County, WA",53063,American Indian or Alaska Native,Not Hispanic or Latino,64.0,7329.0,873.2,1096.6
+2020,Washington,53,"Spokane County, WA",53063,Asian,Not Hispanic or Latino,75.0,12313.0,609.1,609.9
+2020,Washington,53,"Spokane County, WA",53063,Black or African American,Not Hispanic or Latino,77.0,9922.0,776.1,1078.7
+2020,Washington,53,"Spokane County, WA",53063,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,26.0,3156.0,823.8,1197.6
+2020,Washington,53,"Spokane County, WA",53063,White,Hispanic or Latino,88.0,26865.0,327.6,593.1
+2020,Washington,53,"Spokane County, WA",53063,White,Not Hispanic or Latino,4902.0,441532.0,1110.2,848.1
+2020,Washington,53,"Spokane County, WA",53063,More than one race,Not Hispanic or Latino,54.0,20363.0,265.2,603.6
+2020,Washington,53,"Stevens County, WA",53065,American Indian or Alaska Native,Not Hispanic or Latino,23.0,2364.0,972.9,904.5
+2020,Washington,53,"Stevens County, WA",53065,White,Not Hispanic or Latino,475.0,40076.0,1185.2,740.5
+2020,Washington,53,"Thurston County, WA",53067,American Indian or Alaska Native,Not Hispanic or Latino,33.0,3751.0,879.8,1032.8
+2020,Washington,53,"Thurston County, WA",53067,Asian,Not Hispanic or Latino,83.0,17686.0,469.3,437.7
+2020,Washington,53,"Thurston County, WA",53067,Black or African American,Not Hispanic or Latino,38.0,9649.0,393.8,560.0
+2020,Washington,53,"Thurston County, WA",53067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,15.0,2750.0,Unreliable,Unreliable
+2020,Washington,53,"Thurston County, WA",53067,White,Hispanic or Latino,62.0,22556.0,274.9,608.9
+2020,Washington,53,"Thurston County, WA",53067,White,Not Hispanic or Latino,2250.0,216188.0,1040.8,720.0
+2020,Washington,53,"Thurston County, WA",53067,More than one race,Not Hispanic or Latino,44.0,15341.0,286.8,595.3
+2020,Washington,53,"Wahkiakum County, WA",53069,White,Not Hispanic or Latino,52.0,3899.0,1333.7,685.5
+2020,Washington,53,"Walla Walla County, WA",53071,White,Hispanic or Latino,61.0,12429.0,490.8,868.0
+2020,Washington,53,"Walla Walla County, WA",53071,White,Not Hispanic or Latino,571.0,43370.0,1316.6,758.3
+2020,Washington,53,"Whatcom County, WA",53073,American Indian or Alaska Native,Not Hispanic or Latino,61.0,5685.0,1073.0,1349.8
+2020,Washington,53,"Whatcom County, WA",53073,Asian,Not Hispanic or Latino,35.0,10739.0,325.9,329.3
+2020,Washington,53,"Whatcom County, WA",53073,Black or African American,Not Hispanic or Latino,15.0,2451.0,Unreliable,Unreliable
+2020,Washington,53,"Whatcom County, WA",53073,White,Hispanic or Latino,49.0,18845.0,260.0,475.3
+2020,Washington,53,"Whatcom County, WA",53073,White,Not Hispanic or Latino,1716.0,179842.0,954.2,680.8
+2020,Washington,53,"Whatcom County, WA",53073,More than one race,Not Hispanic or Latino,19.0,8385.0,Unreliable,Unreliable
+2020,Washington,53,"Whitman County, WA",53075,White,Not Hispanic or Latino,308.0,38834.0,793.1,834.5
+2020,Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Hispanic or Latino,11.0,8232.0,Unreliable,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Not Hispanic or Latino,172.0,8940.0,1923.9,2201.7
+2020,Washington,53,"Yakima County, WA",53077,Asian,Not Hispanic or Latino,22.0,2908.0,756.5,651.7
+2020,Washington,53,"Yakima County, WA",53077,Black or African American,Not Hispanic or Latino,23.0,2174.0,1058.0,1433.6
+2020,Washington,53,"Yakima County, WA",53077,White,Hispanic or Latino,512.0,113353.0,451.7,827.6
+2020,Washington,53,"Yakima County, WA",53077,White,Not Hispanic or Latino,1768.0,105042.0,1683.1,957.7
+2020,Washington,53,"Yakima County, WA",53077,More than one race,Not Hispanic or Latino,18.0,4455.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Adams County, WA",53001,White,Hispanic or Latino,50.0,11245.0,444.6,888.2
+2021 (provisional),Washington,53,"Adams County, WA",53001,White,Not Hispanic or Latino,100.0,6422.0,1557.1,942.2
+2021 (provisional),Washington,53,"Asotin County, WA",53003,White,Not Hispanic or Latino,274.0,20401.0,1343.1,791.2
+2021 (provisional),Washington,53,"Benton County, WA",53005,Asian,Not Hispanic or Latino,30.0,6522.0,460.0,442.9
+2021 (provisional),Washington,53,"Benton County, WA",53005,Black or African American,Not Hispanic or Latino,16.0,2844.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Benton County, WA",53005,White,Hispanic or Latino,140.0,43587.0,321.2,778.9
+2021 (provisional),Washington,53,"Benton County, WA",53005,White,Not Hispanic or Latino,1665.0,141816.0,1174.1,844.2
+2021 (provisional),Washington,53,"Benton County, WA",53005,More than one race,Not Hispanic or Latino,27.0,5360.0,503.7,972.9
+2021 (provisional),Washington,53,"Chelan County, WA",53007,White,Hispanic or Latino,40.0,19913.0,200.9,504.9
+2021 (provisional),Washington,53,"Chelan County, WA",53007,White,Not Hispanic or Latino,771.0,52296.0,1474.3,815.9
+2021 (provisional),Washington,53,"Clallam County, WA",53009,American Indian or Alaska Native,Not Hispanic or Latino,47.0,3475.0,1352.5,1390.6
+2021 (provisional),Washington,53,"Clallam County, WA",53009,White,Hispanic or Latino,14.0,3764.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Clallam County, WA",53009,White,Not Hispanic or Latino,1163.0,63885.0,1820.5,847.3
+2021 (provisional),Washington,53,"Clallam County, WA",53009,More than one race,Not Hispanic or Latino,13.0,2875.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Clark County, WA",53011,American Indian or Alaska Native,Hispanic or Latino,10.0,2487.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Clark County, WA",53011,American Indian or Alaska Native,Not Hispanic or Latino,27.0,3525.0,766.0,837.5
+2021 (provisional),Washington,53,"Clark County, WA",53011,Asian,Not Hispanic or Latino,109.0,24718.0,441.0,420.1
+2021 (provisional),Washington,53,"Clark County, WA",53011,Black or African American,Not Hispanic or Latino,84.0,10996.0,763.9,1024.0
+2021 (provisional),Washington,53,"Clark County, WA",53011,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,40.0,4389.0,911.4,1723.0
+2021 (provisional),Washington,53,"Clark County, WA",53011,White,Hispanic or Latino,132.0,44499.0,296.6,668.5
+2021 (provisional),Washington,53,"Clark County, WA",53011,White,Not Hispanic or Latino,4186.0,380899.0,1099.0,852.9
+2021 (provisional),Washington,53,"Clark County, WA",53011,More than one race,Not Hispanic or Latino,39.0,19387.0,201.2,448.7
+2021 (provisional),Washington,53,"Columbia County, WA",53013,White,Not Hispanic or Latino,69.0,3385.0,2038.4,957.7
+2021 (provisional),Washington,53,"Cowlitz County, WA",53015,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1604.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Cowlitz County, WA",53015,Asian,Not Hispanic or Latino,14.0,1700.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Cowlitz County, WA",53015,White,Hispanic or Latino,40.0,8793.0,454.9,894.2
+2021 (provisional),Washington,53,"Cowlitz County, WA",53015,White,Not Hispanic or Latino,1483.0,92282.0,1607.0,1081.3
+2021 (provisional),Washington,53,"Cowlitz County, WA",53015,More than one race,Not Hispanic or Latino,23.0,3727.0,617.1,904.1
+2021 (provisional),Washington,53,"Douglas County, WA",53017,White,Hispanic or Latino,29.0,12890.0,225.0,420.0
+2021 (provisional),Washington,53,"Douglas County, WA",53017,White,Not Hispanic or Latino,349.0,27345.0,1276.3,745.8
+2021 (provisional),Washington,53,"Ferry County, WA",53019,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1176.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Ferry County, WA",53019,White,Not Hispanic or Latino,115.0,5679.0,2025.0,1018.2
+2021 (provisional),Washington,53,"Franklin County, WA",53021,Asian,Not Hispanic or Latino,11.0,2095.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Franklin County, WA",53021,Black or African American,Not Hispanic or Latino,13.0,1988.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Franklin County, WA",53021,White,Hispanic or Latino,162.0,48462.0,334.3,792.7
+2021 (provisional),Washington,53,"Franklin County, WA",53021,White,Not Hispanic or Latino,348.0,38562.0,902.4,767.5
+2021 (provisional),Washington,53,"Garfield County, WA",53023,White,Not Hispanic or Latino,32.0,2007.0,1594.4,862.9
+2021 (provisional),Washington,53,"Grant County, WA",53025,White,Hispanic or Latino,147.0,38764.0,379.2,803.1
+2021 (provisional),Washington,53,"Grant County, WA",53025,White,Not Hispanic or Latino,728.0,52338.0,1391.0,928.2
+2021 (provisional),Washington,53,"Grant County, WA",53025,More than one race,Not Hispanic or Latino,13.0,1717.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Grays Harbor County, WA",53027,American Indian or Alaska Native,Not Hispanic or Latino,42.0,3143.0,1336.3,1232.9
+2021 (provisional),Washington,53,"Grays Harbor County, WA",53027,Asian,Not Hispanic or Latino,12.0,1047.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Grays Harbor County, WA",53027,Black or African American,Not Hispanic or Latino,11.0,951.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Grays Harbor County, WA",53027,White,Hispanic or Latino,25.0,6168.0,405.3,761.5
+2021 (provisional),Washington,53,"Grays Harbor County, WA",53027,White,Not Hispanic or Latino,1013.0,59784.0,1694.4,1007.3
+2021 (provisional),Washington,53,"Grays Harbor County, WA",53027,More than one race,Not Hispanic or Latino,20.0,2696.0,741.8,929.1
+2021 (provisional),Washington,53,"Island County, WA",53029,Asian,Not Hispanic or Latino,22.0,4132.0,532.4,390.8
+2021 (provisional),Washington,53,"Island County, WA",53029,Black or African American,Not Hispanic or Latino,15.0,2661.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Island County, WA",53029,White,Hispanic or Latino,18.0,5926.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Island County, WA",53029,White,Not Hispanic or Latino,827.0,67195.0,1230.7,679.0
+2021 (provisional),Washington,53,"Island County, WA",53029,More than one race,Not Hispanic or Latino,16.0,3695.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Jefferson County, WA",53031,White,Not Hispanic or Latino,421.0,28756.0,1464.0,692.0
+2021 (provisional),Washington,53,"Jefferson County, WA",53031,More than one race,Not Hispanic or Latino,11.0,1001.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"King County, WA",53033,American Indian or Alaska Native,Hispanic or Latino,16.0,9874.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"King County, WA",53033,American Indian or Alaska Native,Not Hispanic or Latino,164.0,12963.0,1265.1,1270.3
+2021 (provisional),Washington,53,"King County, WA",53033,Asian,Hispanic or Latino,10.0,6262.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"King County, WA",53033,Asian,Not Hispanic or Latino,1675.0,457740.0,365.9,428.3
+2021 (provisional),Washington,53,"King County, WA",53033,Black or African American,Hispanic or Latino,22.0,9029.0,243.7,975.4
+2021 (provisional),Washington,53,"King County, WA",53033,Black or African American,Not Hispanic or Latino,1158.0,152598.0,758.9,949.0
+2021 (provisional),Washington,53,"King County, WA",53033,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,163.0,17767.0,917.4,1330.1
+2021 (provisional),Washington,53,"King County, WA",53033,White,Hispanic or Latino,542.0,186743.0,290.2,527.9
+2021 (provisional),Washington,53,"King County, WA",53033,White,Not Hispanic or Latino,11021.0,1296112.0,850.3,637.7
+2021 (provisional),Washington,53,"King County, WA",53033,More than one race,Hispanic or Latino,10.0,16629.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"King County, WA",53033,More than one race,Not Hispanic or Latino,245.0,107465.0,228.0,556.8
+2021 (provisional),Washington,53,"Kitsap County, WA",53035,American Indian or Alaska Native,Not Hispanic or Latino,38.0,3601.0,1055.3,1276.3
+2021 (provisional),Washington,53,"Kitsap County, WA",53035,Asian,Not Hispanic or Latino,87.0,14179.0,613.6,454.1
+2021 (provisional),Washington,53,"Kitsap County, WA",53035,Black or African American,Not Hispanic or Latino,51.0,7949.0,641.6,940.4
+2021 (provisional),Washington,53,"Kitsap County, WA",53035,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,28.0,2437.0,1149.0,1121.6
+2021 (provisional),Washington,53,"Kitsap County, WA",53035,White,Hispanic or Latino,63.0,18101.0,348.0,702.0
+2021 (provisional),Washington,53,"Kitsap County, WA",53035,White,Not Hispanic or Latino,2316.0,206101.0,1123.7,772.0
+2021 (provisional),Washington,53,"Kitsap County, WA",53035,More than one race,Not Hispanic or Latino,49.0,15432.0,317.5,823.2
+2021 (provisional),Washington,53,"Kittitas County, WA",53037,White,Not Hispanic or Latino,368.0,41048.0,896.5,691.5
+2021 (provisional),Washington,53,"Klickitat County, WA",53039,American Indian or Alaska Native,Not Hispanic or Latino,13.0,480.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Klickitat County, WA",53039,White,Hispanic or Latino,10.0,2386.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Klickitat County, WA",53039,White,Not Hispanic or Latino,270.0,18679.0,1445.5,832.4
+2021 (provisional),Washington,53,"Lewis County, WA",53041,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1105.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Lewis County, WA",53041,White,Hispanic or Latino,30.0,7663.0,391.5,808.0
+2021 (provisional),Washington,53,"Lewis County, WA",53041,White,Not Hispanic or Latino,1062.0,67760.0,1567.3,987.4
+2021 (provisional),Washington,53,"Lewis County, WA",53041,More than one race,Not Hispanic or Latino,13.0,2592.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Lincoln County, WA",53043,White,Not Hispanic or Latino,139.0,10041.0,1384.3,763.6
+2021 (provisional),Washington,53,"Mason County, WA",53045,American Indian or Alaska Native,Not Hispanic or Latino,30.0,2061.0,1455.6,1365.8
+2021 (provisional),Washington,53,"Mason County, WA",53045,White,Hispanic or Latino,16.0,5430.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Mason County, WA",53045,White,Not Hispanic or Latino,799.0,54092.0,1477.1,903.3
+2021 (provisional),Washington,53,"Mason County, WA",53045,More than one race,Not Hispanic or Latino,13.0,2611.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Okanogan County, WA",53047,American Indian or Alaska Native,Not Hispanic or Latino,65.0,4375.0,1485.7,1542.7
+2021 (provisional),Washington,53,"Okanogan County, WA",53047,White,Hispanic or Latino,22.0,7355.0,299.1,666.0
+2021 (provisional),Washington,53,"Okanogan County, WA",53047,White,Not Hispanic or Latino,468.0,27442.0,1705.4,908.9
+2021 (provisional),Washington,53,"Pacific County, WA",53049,White,Not Hispanic or Latino,385.0,18685.0,2060.5,1021.8
+2021 (provisional),Washington,53,"Pend Oreille County, WA",53051,White,Not Hispanic or Latino,224.0,12426.0,1802.7,1107.9
+2021 (provisional),Washington,53,"Pierce County, WA",53053,American Indian or Alaska Native,Hispanic or Latino,19.0,5993.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Pierce County, WA",53053,American Indian or Alaska Native,Not Hispanic or Latino,127.0,10344.0,1227.8,1443.0
+2021 (provisional),Washington,53,"Pierce County, WA",53053,Asian,Not Hispanic or Latino,449.0,63023.0,712.4,604.5
+2021 (provisional),Washington,53,"Pierce County, WA",53053,Black or African American,Hispanic or Latino,10.0,6210.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Pierce County, WA",53053,Black or African American,Not Hispanic or Latino,578.0,65391.0,883.9,1095.0
+2021 (provisional),Washington,53,"Pierce County, WA",53053,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,176.0,15006.0,1172.9,1860.0
+2021 (provisional),Washington,53,"Pierce County, WA",53053,White,Hispanic or Latino,273.0,81361.0,335.5,746.8
+2021 (provisional),Washington,53,"Pierce County, WA",53053,White,Not Hispanic or Latino,6401.0,591368.0,1082.4,839.4
+2021 (provisional),Washington,53,"Pierce County, WA",53053,More than one race,Hispanic or Latino,14.0,10505.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Pierce County, WA",53053,More than one race,Not Hispanic or Latino,150.0,60536.0,247.8,598.1
+2021 (provisional),Washington,53,"San Juan County, WA",53055,White,Not Hispanic or Latino,149.0,15377.0,969.0,437.6
+2021 (provisional),Washington,53,"Skagit County, WA",53057,American Indian or Alaska Native,Not Hispanic or Latino,27.0,2087.0,1293.7,1290.8
+2021 (provisional),Washington,53,"Skagit County, WA",53057,Asian,Not Hispanic or Latino,17.0,2888.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Skagit County, WA",53057,White,Hispanic or Latino,66.0,21811.0,302.6,566.8
+2021 (provisional),Washington,53,"Skagit County, WA",53057,White,Not Hispanic or Latino,1392.0,96184.0,1447.2,834.4
+2021 (provisional),Washington,53,"Skagit County, WA",53057,More than one race,Not Hispanic or Latino,16.0,3309.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Skamania County, WA",53059,White,Not Hispanic or Latino,97.0,10449.0,928.3,608.6
+2021 (provisional),Washington,53,"Snohomish County, WA",53061,American Indian or Alaska Native,Not Hispanic or Latino,94.0,8554.0,1098.9,1181.1
+2021 (provisional),Washington,53,"Snohomish County, WA",53061,Asian,Not Hispanic or Latino,398.0,102591.0,387.9,461.9
+2021 (provisional),Washington,53,"Snohomish County, WA",53061,Black or African American,Not Hispanic or Latino,137.0,30457.0,449.8,839.2
+2021 (provisional),Washington,53,"Snohomish County, WA",53061,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,28.0,5052.0,554.2,753.9
+2021 (provisional),Washington,53,"Snohomish County, WA",53061,White,Hispanic or Latino,181.0,75155.0,240.8,496.2
+2021 (provisional),Washington,53,"Snohomish County, WA",53061,White,Not Hispanic or Latino,5416.0,555385.0,975.2,771.1
+2021 (provisional),Washington,53,"Snohomish County, WA",53061,More than one race,Not Hispanic or Latino,108.0,37320.0,289.4,813.2
+2021 (provisional),Washington,53,"Spokane County, WA",53063,American Indian or Alaska Native,Not Hispanic or Latino,82.0,7329.0,1118.8,1321.9
+2021 (provisional),Washington,53,"Spokane County, WA",53063,Asian,Not Hispanic or Latino,74.0,12313.0,601.0,614.8
+2021 (provisional),Washington,53,"Spokane County, WA",53063,Black or African American,Not Hispanic or Latino,97.0,9922.0,977.6,1317.1
+2021 (provisional),Washington,53,"Spokane County, WA",53063,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,26.0,3156.0,823.8,1111.4
+2021 (provisional),Washington,53,"Spokane County, WA",53063,White,Hispanic or Latino,120.0,26865.0,446.7,728.3
+2021 (provisional),Washington,53,"Spokane County, WA",53063,White,Not Hispanic or Latino,5383.0,441532.0,1219.2,932.0
+2021 (provisional),Washington,53,"Spokane County, WA",53063,More than one race,Not Hispanic or Latino,59.0,20363.0,289.7,631.0
+2021 (provisional),Washington,53,"Stevens County, WA",53065,American Indian or Alaska Native,Not Hispanic or Latino,32.0,2364.0,1353.6,1249.1
+2021 (provisional),Washington,53,"Stevens County, WA",53065,White,Not Hispanic or Latino,579.0,40076.0,1444.8,894.3
+2021 (provisional),Washington,53,"Thurston County, WA",53067,American Indian or Alaska Native,Not Hispanic or Latino,47.0,3751.0,1253.0,1329.4
+2021 (provisional),Washington,53,"Thurston County, WA",53067,Asian,Not Hispanic or Latino,89.0,17686.0,503.2,452.0
+2021 (provisional),Washington,53,"Thurston County, WA",53067,Black or African American,Not Hispanic or Latino,64.0,9649.0,663.3,930.4
+2021 (provisional),Washington,53,"Thurston County, WA",53067,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,23.0,2750.0,836.4,1202.9
+2021 (provisional),Washington,53,"Thurston County, WA",53067,White,Hispanic or Latino,73.0,22556.0,323.6,616.3
+2021 (provisional),Washington,53,"Thurston County, WA",53067,White,Not Hispanic or Latino,2543.0,216188.0,1176.3,817.2
+2021 (provisional),Washington,53,"Thurston County, WA",53067,More than one race,Not Hispanic or Latino,52.0,15341.0,339.0,664.7
+2021 (provisional),Washington,53,"Wahkiakum County, WA",53069,White,Not Hispanic or Latino,66.0,3899.0,1692.7,756.7
+2021 (provisional),Washington,53,"Walla Walla County, WA",53071,Black or African American,Not Hispanic or Latino,11.0,1141.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Walla Walla County, WA",53071,White,Hispanic or Latino,56.0,12429.0,450.6,813.3
+2021 (provisional),Washington,53,"Walla Walla County, WA",53071,White,Not Hispanic or Latino,627.0,43370.0,1445.7,832.7
+2021 (provisional),Washington,53,"Whatcom County, WA",53073,American Indian or Alaska Native,Not Hispanic or Latino,81.0,5685.0,1424.8,1709.9
+2021 (provisional),Washington,53,"Whatcom County, WA",53073,Asian,Not Hispanic or Latino,66.0,10739.0,614.6,623.1
+2021 (provisional),Washington,53,"Whatcom County, WA",53073,Black or African American,Not Hispanic or Latino,22.0,2451.0,897.6,1222.4
+2021 (provisional),Washington,53,"Whatcom County, WA",53073,White,Hispanic or Latino,65.0,18845.0,344.9,590.3
+2021 (provisional),Washington,53,"Whatcom County, WA",53073,White,Not Hispanic or Latino,1813.0,179842.0,1008.1,707.2
+2021 (provisional),Washington,53,"Whatcom County, WA",53073,More than one race,Not Hispanic or Latino,20.0,8385.0,238.5,643.5
+2021 (provisional),Washington,53,"Whitman County, WA",53075,White,Not Hispanic or Latino,372.0,38834.0,957.9,984.1
+2021 (provisional),Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Hispanic or Latino,13.0,8232.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Not Hispanic or Latino,173.0,8940.0,1935.1,2164.0
+2021 (provisional),Washington,53,"Yakima County, WA",53077,Asian,Not Hispanic or Latino,19.0,2908.0,Unreliable,Unreliable
+2021 (provisional),Washington,53,"Yakima County, WA",53077,Black or African American,Not Hispanic or Latino,30.0,2174.0,1379.9,1576.4
+2021 (provisional),Washington,53,"Yakima County, WA",53077,White,Hispanic or Latino,516.0,113353.0,455.2,836.9
+2021 (provisional),Washington,53,"Yakima County, WA",53077,White,Not Hispanic or Latino,1745.0,105042.0,1661.2,962.8
+2021 (provisional),Washington,53,"Yakima County, WA",53077,More than one race,Not Hispanic or Latino,27.0,4455.0,606.1,904.6
+2022 (provisional and partial),Washington,53,"Adams County, WA",53001,White,Not Hispanic or Latino,12.0,6422.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Asotin County, WA",53003,White,Not Hispanic or Latino,37.0,20401.0,181.4,96.4
+2022 (provisional and partial),Washington,53,"Benton County, WA",53005,White,Hispanic or Latino,15.0,43587.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Benton County, WA",53005,White,Not Hispanic or Latino,210.0,141816.0,148.1,106.5
+2022 (provisional and partial),Washington,53,"Chelan County, WA",53007,White,Not Hispanic or Latino,104.0,52296.0,198.9,108.5
+2022 (provisional and partial),Washington,53,"Clallam County, WA",53009,White,Not Hispanic or Latino,157.0,63885.0,245.8,105.2
+2022 (provisional and partial),Washington,53,"Clark County, WA",53011,Asian,Not Hispanic or Latino,17.0,24718.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Clark County, WA",53011,White,Hispanic or Latino,15.0,44499.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Clark County, WA",53011,White,Not Hispanic or Latino,536.0,380899.0,140.7,109.7
+2022 (provisional and partial),Washington,53,"Columbia County, WA",53013,White,Not Hispanic or Latino,12.0,3385.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Cowlitz County, WA",53015,White,Not Hispanic or Latino,174.0,92282.0,188.6,126.4
+2022 (provisional and partial),Washington,53,"Douglas County, WA",53017,White,Not Hispanic or Latino,43.0,27345.0,157.2,87.2
+2022 (provisional and partial),Washington,53,"Ferry County, WA",53019,White,Not Hispanic or Latino,15.0,5679.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Franklin County, WA",53021,White,Hispanic or Latino,18.0,48462.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Franklin County, WA",53021,White,Not Hispanic or Latino,47.0,38562.0,121.9,102.7
+2022 (provisional and partial),Washington,53,"Grant County, WA",53025,White,Hispanic or Latino,15.0,38764.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Grant County, WA",53025,White,Not Hispanic or Latino,97.0,52338.0,185.3,119.9
+2022 (provisional and partial),Washington,53,"Grays Harbor County, WA",53027,White,Not Hispanic or Latino,122.0,59784.0,204.1,116.2
+2022 (provisional and partial),Washington,53,"Island County, WA",53029,White,Not Hispanic or Latino,93.0,67195.0,138.4,71.5
+2022 (provisional and partial),Washington,53,"Jefferson County, WA",53031,White,Not Hispanic or Latino,49.0,28756.0,170.4,80.7
+2022 (provisional and partial),Washington,53,"King County, WA",53033,American Indian or Alaska Native,Not Hispanic or Latino,20.0,12963.0,154.3,165.7
+2022 (provisional and partial),Washington,53,"King County, WA",53033,Asian,Not Hispanic or Latino,214.0,457740.0,46.8,56.2
+2022 (provisional and partial),Washington,53,"King County, WA",53033,Black or African American,Not Hispanic or Latino,137.0,152598.0,89.8,117.2
+2022 (provisional and partial),Washington,53,"King County, WA",53033,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,18.0,17767.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"King County, WA",53033,White,Hispanic or Latino,64.0,186743.0,34.3,70.2
+2022 (provisional and partial),Washington,53,"King County, WA",53033,White,Not Hispanic or Latino,1397.0,1296112.0,107.8,80.4
+2022 (provisional and partial),Washington,53,"King County, WA",53033,More than one race,Not Hispanic or Latino,19.0,107465.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Kitsap County, WA",53035,Asian,Not Hispanic or Latino,16.0,14179.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Kitsap County, WA",53035,White,Not Hispanic or Latino,313.0,206101.0,151.9,102.6
+2022 (provisional and partial),Washington,53,"Kittitas County, WA",53037,White,Not Hispanic or Latino,55.0,41048.0,134.0,104.3
+2022 (provisional and partial),Washington,53,"Klickitat County, WA",53039,White,Not Hispanic or Latino,32.0,18679.0,171.3,97.1
+2022 (provisional and partial),Washington,53,"Lewis County, WA",53041,White,Not Hispanic or Latino,153.0,67760.0,225.8,141.3
+2022 (provisional and partial),Washington,53,"Lincoln County, WA",53043,White,Not Hispanic or Latino,13.0,10041.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Mason County, WA",53045,White,Not Hispanic or Latino,110.0,54092.0,203.4,125.3
+2022 (provisional and partial),Washington,53,"Okanogan County, WA",53047,American Indian or Alaska Native,Not Hispanic or Latino,17.0,4375.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Okanogan County, WA",53047,White,Not Hispanic or Latino,68.0,27442.0,247.8,130.9
+2022 (provisional and partial),Washington,53,"Pacific County, WA",53049,White,Not Hispanic or Latino,45.0,18685.0,240.8,143.3
+2022 (provisional and partial),Washington,53,"Pend Oreille County, WA",53051,White,Not Hispanic or Latino,30.0,12426.0,241.4,148.6
+2022 (provisional and partial),Washington,53,"Pierce County, WA",53053,American Indian or Alaska Native,Not Hispanic or Latino,17.0,10344.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Pierce County, WA",53053,Asian,Not Hispanic or Latino,63.0,63023.0,100.0,87.5
+2022 (provisional and partial),Washington,53,"Pierce County, WA",53053,Black or African American,Not Hispanic or Latino,80.0,65391.0,122.3,156.5
+2022 (provisional and partial),Washington,53,"Pierce County, WA",53053,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,22.0,15006.0,146.6,247.1
+2022 (provisional and partial),Washington,53,"Pierce County, WA",53053,White,Hispanic or Latino,46.0,81361.0,56.5,111.3
+2022 (provisional and partial),Washington,53,"Pierce County, WA",53053,White,Not Hispanic or Latino,866.0,591368.0,146.4,113.8
+2022 (provisional and partial),Washington,53,"Pierce County, WA",53053,More than one race,Not Hispanic or Latino,16.0,60536.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"San Juan County, WA",53055,White,Not Hispanic or Latino,18.0,15377.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Skagit County, WA",53057,White,Not Hispanic or Latino,149.0,96184.0,154.9,85.2
+2022 (provisional and partial),Washington,53,"Skamania County, WA",53059,White,Not Hispanic or Latino,14.0,10449.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Snohomish County, WA",53061,American Indian or Alaska Native,Not Hispanic or Latino,10.0,8554.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Snohomish County, WA",53061,Asian,Not Hispanic or Latino,39.0,102591.0,38.0,50.1
+2022 (provisional and partial),Washington,53,"Snohomish County, WA",53061,Black or African American,Not Hispanic or Latino,13.0,30457.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Snohomish County, WA",53061,White,Hispanic or Latino,35.0,75155.0,46.6,114.4
+2022 (provisional and partial),Washington,53,"Snohomish County, WA",53061,White,Not Hispanic or Latino,785.0,555385.0,141.3,112.3
+2022 (provisional and partial),Washington,53,"Snohomish County, WA",53061,More than one race,Not Hispanic or Latino,19.0,37320.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Spokane County, WA",53063,Asian,Not Hispanic or Latino,12.0,12313.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Spokane County, WA",53063,Black or African American,Not Hispanic or Latino,14.0,9922.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Spokane County, WA",53063,White,Hispanic or Latino,13.0,26865.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Spokane County, WA",53063,White,Not Hispanic or Latino,669.0,441532.0,151.5,115.3
+2022 (provisional and partial),Washington,53,"Stevens County, WA",53065,White,Not Hispanic or Latino,67.0,40076.0,167.2,98.3
+2022 (provisional and partial),Washington,53,"Thurston County, WA",53067,Asian,Not Hispanic or Latino,14.0,17686.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Thurston County, WA",53067,White,Hispanic or Latino,14.0,22556.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Thurston County, WA",53067,White,Not Hispanic or Latino,374.0,216188.0,173.0,122.5
+2022 (provisional and partial),Washington,53,"Walla Walla County, WA",53071,White,Hispanic or Latino,13.0,12429.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Walla Walla County, WA",53071,White,Not Hispanic or Latino,91.0,43370.0,209.8,112.0
+2022 (provisional and partial),Washington,53,"Whatcom County, WA",53073,American Indian or Alaska Native,Not Hispanic or Latino,11.0,5685.0,Unreliable,Unreliable
+2022 (provisional and partial),Washington,53,"Whatcom County, WA",53073,White,Not Hispanic or Latino,279.0,179842.0,155.1,110.2
+2022 (provisional and partial),Washington,53,"Whitman County, WA",53075,White,Not Hispanic or Latino,41.0,38834.0,105.6,109.3
+2022 (provisional and partial),Washington,53,"Yakima County, WA",53077,American Indian or Alaska Native,Not Hispanic or Latino,21.0,8940.0,234.9,253.4
+2022 (provisional and partial),Washington,53,"Yakima County, WA",53077,White,Hispanic or Latino,72.0,113353.0,63.5,121.6
+2022 (provisional and partial),Washington,53,"Yakima County, WA",53077,White,Not Hispanic or Latino,232.0,105042.0,220.9,120.1

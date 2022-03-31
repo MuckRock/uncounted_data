@@ -1,0 +1,26 @@
+year,state,county,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,New Hampshire,"Belknap County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,61022.0,Unreliable
+2018,New Hampshire,"Cheshire County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,76493.0,27.5
+2018,New Hampshire,"Grafton County, NH",Nontransport accidents,Other fall on same level,W18,15.0,89786.0,Unreliable
+2018,New Hampshire,"Hillsborough County, NH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19.0,415247.0,Unreliable
+2018,New Hampshire,"Hillsborough County, NH",Nontransport accidents,Other fall on same level,W18,28.0,415247.0,6.7
+2018,New Hampshire,"Hillsborough County, NH",Nontransport accidents,Unspecified fall,W19,20.0,415247.0,4.8
+2018,New Hampshire,"Hillsborough County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,119.0,415247.0,28.7
+2018,New Hampshire,"Hillsborough County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,27.0,415247.0,6.5
+2018,New Hampshire,"Hillsborough County, NH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,415247.0,Unreliable
+2018,New Hampshire,"Hillsborough County, NH",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,15.0,415247.0,Unreliable
+2018,New Hampshire,"Hillsborough County, NH",Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,415247.0,Unreliable
+2018,New Hampshire,"Merrimack County, NH",Nontransport accidents,Other fall on same level,W18,13.0,151132.0,Unreliable
+2018,New Hampshire,"Merrimack County, NH",Nontransport accidents,Unspecified fall,W19,12.0,151132.0,Unreliable
+2018,New Hampshire,"Merrimack County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37.0,151132.0,24.5
+2018,New Hampshire,"Merrimack County, NH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,151132.0,Unreliable
+2018,New Hampshire,"Rockingham County, NH",Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,309176.0,Unreliable
+2018,New Hampshire,"Rockingham County, NH",Nontransport accidents,Other fall on same level,W18,19.0,309176.0,Unreliable
+2018,New Hampshire,"Rockingham County, NH",Nontransport accidents,Unspecified fall,W19,19.0,309176.0,Unreliable
+2018,New Hampshire,"Rockingham County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,65.0,309176.0,21.0
+2018,New Hampshire,"Rockingham County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,309176.0,Unreliable
+2018,New Hampshire,"Rockingham County, NH",Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,24.0,309176.0,7.8
+2018,New Hampshire,"Rockingham County, NH",Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,16.0,309176.0,Unreliable
+2018,New Hampshire,"Strafford County, NH",Nontransport accidents,Other fall on same level,W18,16.0,130090.0,Unreliable
+2018,New Hampshire,"Strafford County, NH",Nontransport accidents,Unspecified fall,W19,14.0,130090.0,Unreliable
+2018,New Hampshire,"Strafford County, NH",Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35.0,130090.0,26.9

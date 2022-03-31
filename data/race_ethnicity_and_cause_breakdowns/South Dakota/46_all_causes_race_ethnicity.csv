@@ -1,0 +1,362 @@
+year,state,state_code,county,county_code,race,ethnicity,deaths,population,crude_rate,age_adjusted_rate
+2018,South Dakota,46,"Aurora County, SD",46003,White,Not Hispanic or Latino,37.0,2483.0,1490.1,832.8
+2018,South Dakota,46,"Beadle County, SD",46005,White,Not Hispanic or Latino,175.0,13935.0,1255.8,752.4
+2018,South Dakota,46,"Bennett County, SD",46007,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1961.0,1121.9,1665.9
+2018,South Dakota,46,"Bennett County, SD",46007,White,Not Hispanic or Latino,15.0,1109.0,Unreliable,Unreliable
+2018,South Dakota,46,"Bon Homme County, SD",46009,White,Not Hispanic or Latino,74.0,5973.0,1238.9,663.8
+2018,South Dakota,46,"Brookings County, SD",46011,White,Not Hispanic or Latino,198.0,31618.0,626.2,621.6
+2018,South Dakota,46,"Brown County, SD",46013,White,Not Hispanic or Latino,355.0,33779.0,1050.9,663.5
+2018,South Dakota,46,"Brule County, SD",46015,White,Not Hispanic or Latino,41.0,4395.0,932.9,563.6
+2018,South Dakota,46,"Buffalo County, SD",46017,American Indian or Alaska Native,Not Hispanic or Latino,23.0,1569.0,1465.9,2239.1
+2018,South Dakota,46,"Butte County, SD",46019,White,Not Hispanic or Latino,97.0,9302.0,1042.8,710.2
+2018,South Dakota,46,"Campbell County, SD",46021,White,Not Hispanic or Latino,12.0,1316.0,Unreliable,Unreliable
+2018,South Dakota,46,"Charles Mix County, SD",46023,American Indian or Alaska Native,Not Hispanic or Latino,31.0,2798.0,1107.9,1674.6
+2018,South Dakota,46,"Charles Mix County, SD",46023,White,Not Hispanic or Latino,78.0,5859.0,1331.3,605.9
+2018,South Dakota,46,"Clark County, SD",46025,White,Not Hispanic or Latino,37.0,3489.0,1060.5,680.3
+2018,South Dakota,46,"Clay County, SD",46027,White,Not Hispanic or Latino,92.0,12173.0,755.8,746.1
+2018,South Dakota,46,"Codington County, SD",46029,White,Not Hispanic or Latino,232.0,25933.0,894.6,608.8
+2018,South Dakota,46,"Corson County, SD",46031,American Indian or Alaska Native,Not Hispanic or Latino,30.0,2583.0,1161.4,1921.8
+2018,South Dakota,46,"Corson County, SD",46031,White,Not Hispanic or Latino,20.0,1191.0,1679.3,999.0
+2018,South Dakota,46,"Custer County, SD",46033,White,Not Hispanic or Latino,93.0,7896.0,1177.8,613.4
+2018,South Dakota,46,"Davison County, SD",46035,White,Not Hispanic or Latino,224.0,17922.0,1249.9,756.3
+2018,South Dakota,46,"Day County, SD",46037,American Indian or Alaska Native,Not Hispanic or Latino,10.0,487.0,Unreliable,Unreliable
+2018,South Dakota,46,"Day County, SD",46037,White,Not Hispanic or Latino,76.0,4721.0,1609.8,758.4
+2018,South Dakota,46,"Deuel County, SD",46039,White,Not Hispanic or Latino,50.0,4104.0,1218.3,681.3
+2018,South Dakota,46,"Dewey County, SD",46041,American Indian or Alaska Native,Not Hispanic or Latino,44.0,4158.0,1058.2,1614.4
+2018,South Dakota,46,"Dewey County, SD",46041,White,Not Hispanic or Latino,12.0,1187.0,Unreliable,Unreliable
+2018,South Dakota,46,"Douglas County, SD",46043,White,Not Hispanic or Latino,44.0,2755.0,1597.1,559.4
+2018,South Dakota,46,"Edmunds County, SD",46045,White,Not Hispanic or Latino,48.0,3676.0,1305.8,662.4
+2018,South Dakota,46,"Fall River County, SD",46047,White,Not Hispanic or Latino,111.0,5729.0,1937.5,967.7
+2018,South Dakota,46,"Faulk County, SD",46049,White,Not Hispanic or Latino,35.0,2255.0,1552.1,814.9
+2018,South Dakota,46,"Grant County, SD",46051,White,Not Hispanic or Latino,83.0,6573.0,1262.7,743.8
+2018,South Dakota,46,"Gregory County, SD",46053,White,Not Hispanic or Latino,60.0,3681.0,1630.0,655.3
+2018,South Dakota,46,"Haakon County, SD",46055,White,Not Hispanic or Latino,25.0,1756.0,1423.7,735.1
+2018,South Dakota,46,"Hamlin County, SD",46057,White,Not Hispanic or Latino,59.0,5683.0,1038.2,742.6
+2018,South Dakota,46,"Hand County, SD",46059,White,Not Hispanic or Latino,52.0,3149.0,1651.3,703.9
+2018,South Dakota,46,"Hanson County, SD",46061,White,Not Hispanic or Latino,17.0,3252.0,Unreliable,Unreliable
+2018,South Dakota,46,"Hughes County, SD",46065,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1956.0,Unreliable,Unreliable
+2018,South Dakota,46,"Hughes County, SD",46065,White,Not Hispanic or Latino,144.0,14438.0,997.4,656.4
+2018,South Dakota,46,"Hutchinson County, SD",46067,White,Not Hispanic or Latino,111.0,6925.0,1602.9,745.8
+2018,South Dakota,46,"Hyde County, SD",46069,White,Not Hispanic or Latino,15.0,1121.0,Unreliable,Unreliable
+2018,South Dakota,46,"Jackson County, SD",46071,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1651.0,Unreliable,Unreliable
+2018,South Dakota,46,"Jackson County, SD",46071,White,Not Hispanic or Latino,16.0,1304.0,Unreliable,Unreliable
+2018,South Dakota,46,"Jerauld County, SD",46073,White,Not Hispanic or Latino,31.0,1897.0,1634.2,716.5
+2018,South Dakota,46,"Jones County, SD",46075,White,Not Hispanic or Latino,12.0,825.0,Unreliable,Unreliable
+2018,South Dakota,46,"Kingsbury County, SD",46077,White,Not Hispanic or Latino,59.0,4648.0,1269.4,656.6
+2018,South Dakota,46,"Lake County, SD",46079,White,Not Hispanic or Latino,121.0,12127.0,997.8,694.1
+2018,South Dakota,46,"Lawrence County, SD",46081,White,Not Hispanic or Latino,248.0,23324.0,1063.3,693.5
+2018,South Dakota,46,"Lincoln County, SD",46083,White,Not Hispanic or Latino,265.0,54583.0,485.5,474.0
+2018,South Dakota,46,"Lyman County, SD",46085,American Indian or Alaska Native,Not Hispanic or Latino,16.0,1424.0,Unreliable,Unreliable
+2018,South Dakota,46,"Lyman County, SD",46085,White,Not Hispanic or Latino,29.0,2129.0,1362.1,742.8
+2018,South Dakota,46,"McCook County, SD",46087,White,Not Hispanic or Latino,65.0,5152.0,1261.6,789.4
+2018,South Dakota,46,"McPherson County, SD",46089,White,Not Hispanic or Latino,27.0,2323.0,1162.3,480.3
+2018,South Dakota,46,"Marshall County, SD",46091,White,Not Hispanic or Latino,35.0,4063.0,861.4,463.6
+2018,South Dakota,46,"Meade County, SD",46093,White,Not Hispanic or Latino,207.0,24629.0,840.5,706.2
+2018,South Dakota,46,"Mellette County, SD",46095,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1068.0,Unreliable,Unreliable
+2018,South Dakota,46,"Mellette County, SD",46095,White,Not Hispanic or Latino,12.0,772.0,Unreliable,Unreliable
+2018,South Dakota,46,"Miner County, SD",46097,White,Not Hispanic or Latino,34.0,2071.0,1641.7,869.9
+2018,South Dakota,46,"Minnehaha County, SD",46099,American Indian or Alaska Native,Not Hispanic or Latino,28.0,4544.0,616.2,1681.3
+2018,South Dakota,46,"Minnehaha County, SD",46099,Asian,Not Hispanic or Latino,15.0,4665.0,Unreliable,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,Black or African American,Not Hispanic or Latino,29.0,12494.0,232.1,1098.5
+2018,South Dakota,46,"Minnehaha County, SD",46099,White,Hispanic or Latino,12.0,8041.0,Unreliable,Unreliable
+2018,South Dakota,46,"Minnehaha County, SD",46099,White,Not Hispanic or Latino,1416.0,157051.0,901.6,753.2
+2018,South Dakota,46,"Moody County, SD",46101,American Indian or Alaska Native,Not Hispanic or Latino,12.0,807.0,Unreliable,Unreliable
+2018,South Dakota,46,"Moody County, SD",46101,White,Not Hispanic or Latino,54.0,4988.0,1082.6,617.2
+2018,South Dakota,46,"Pennington County, SD",46103,American Indian or Alaska Native,Not Hispanic or Latino,89.0,9796.0,908.5,1396.1
+2018,South Dakota,46,"Pennington County, SD",46103,Black or African American,Not Hispanic or Latino,10.0,1496.0,Unreliable,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,White,Hispanic or Latino,10.0,3554.0,Unreliable,Unreliable
+2018,South Dakota,46,"Pennington County, SD",46103,White,Not Hispanic or Latino,822.0,89406.0,919.4,614.6
+2018,South Dakota,46,"Perkins County, SD",46105,White,Not Hispanic or Latino,31.0,2759.0,1123.6,588.1
+2018,South Dakota,46,"Potter County, SD",46107,White,Not Hispanic or Latino,29.0,2054.0,1411.9,485.9
+2018,South Dakota,46,"Roberts County, SD",46109,American Indian or Alaska Native,Not Hispanic or Latino,43.0,3783.0,1136.7,1722.3
+2018,South Dakota,46,"Roberts County, SD",46109,White,Not Hispanic or Latino,77.0,5824.0,1322.1,611.1
+2018,South Dakota,46,"Sanborn County, SD",46111,White,Not Hispanic or Latino,30.0,2285.0,1312.9,802.4
+2018,South Dakota,46,"Shannon County, SD",46113,American Indian or Alaska Native,Not Hispanic or Latino,144.0,12811.0,1124.0,1682.0
+2018,South Dakota,46,"Spink County, SD",46115,White,Not Hispanic or Latino,75.0,6082.0,1233.1,739.7
+2018,South Dakota,46,"Stanley County, SD",46117,White,Not Hispanic or Latino,11.0,2637.0,Unreliable,Unreliable
+2018,South Dakota,46,"Sully County, SD",46119,White,Not Hispanic or Latino,16.0,1300.0,Unreliable,Unreliable
+2018,South Dakota,46,"Todd County, SD",46121,American Indian or Alaska Native,Not Hispanic or Latino,94.0,8497.0,1106.3,1892.5
+2018,South Dakota,46,"Todd County, SD",46121,White,Not Hispanic or Latino,10.0,818.0,Unreliable,Unreliable
+2018,South Dakota,46,"Tripp County, SD",46123,White,Not Hispanic or Latino,61.0,4429.0,1377.3,713.3
+2018,South Dakota,46,"Turner County, SD",46125,White,Not Hispanic or Latino,106.0,7980.0,1328.3,806.9
+2018,South Dakota,46,"Union County, SD",46127,White,Not Hispanic or Latino,122.0,14362.0,849.5,631.6
+2018,South Dakota,46,"Walworth County, SD",46129,American Indian or Alaska Native,Not Hispanic or Latino,11.0,765.0,Unreliable,Unreliable
+2018,South Dakota,46,"Walworth County, SD",46129,White,Not Hispanic or Latino,68.0,4313.0,1576.6,776.6
+2018,South Dakota,46,"Yankton County, SD",46135,White,Not Hispanic or Latino,232.0,20082.0,1155.3,734.7
+2018,South Dakota,46,"Ziebach County, SD",46137,American Indian or Alaska Native,Not Hispanic or Latino,11.0,1827.0,Unreliable,Unreliable
+2019,South Dakota,46,"Aurora County, SD",46003,White,Not Hispanic or Latino,31.0,2415.0,1283.6,664.2
+2019,South Dakota,46,"Beadle County, SD",46005,White,Not Hispanic or Latino,193.0,13872.0,1391.3,759.1
+2019,South Dakota,46,"Bennett County, SD",46007,American Indian or Alaska Native,Not Hispanic or Latino,15.0,1869.0,Unreliable,Unreliable
+2019,South Dakota,46,"Bennett County, SD",46007,White,Not Hispanic or Latino,17.0,1092.0,Unreliable,Unreliable
+2019,South Dakota,46,"Bon Homme County, SD",46009,White,Not Hispanic or Latino,92.0,5946.0,1547.3,717.0
+2019,South Dakota,46,"Brookings County, SD",46011,White,Not Hispanic or Latino,194.0,31540.0,615.1,586.5
+2019,South Dakota,46,"Brown County, SD",46013,White,Not Hispanic or Latino,323.0,33469.0,965.1,609.9
+2019,South Dakota,46,"Brule County, SD",46015,White,Not Hispanic or Latino,56.0,4412.0,1269.3,723.9
+2019,South Dakota,46,"Buffalo County, SD",46017,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1502.0,Unreliable,Unreliable
+2019,South Dakota,46,"Butte County, SD",46019,White,Not Hispanic or Latino,130.0,9495.0,1369.1,1007.7
+2019,South Dakota,46,"Campbell County, SD",46021,White,Not Hispanic or Latino,16.0,1305.0,Unreliable,Unreliable
+2019,South Dakota,46,"Charles Mix County, SD",46023,American Indian or Alaska Native,Not Hispanic or Latino,27.0,2818.0,958.1,1159.5
+2019,South Dakota,46,"Charles Mix County, SD",46023,White,Not Hispanic or Latino,79.0,5769.0,1369.4,623.2
+2019,South Dakota,46,"Clark County, SD",46025,White,Not Hispanic or Latino,39.0,3487.0,1118.4,710.5
+2019,South Dakota,46,"Clay County, SD",46027,White,Not Hispanic or Latino,93.0,12263.0,758.4,726.2
+2019,South Dakota,46,"Codington County, SD",46029,White,Not Hispanic or Latino,264.0,25899.0,1019.3,673.9
+2019,South Dakota,46,"Corson County, SD",46031,American Indian or Alaska Native,Not Hispanic or Latino,37.0,2515.0,1471.2,1909.7
+2019,South Dakota,46,"Corson County, SD",46031,White,Not Hispanic or Latino,12.0,1184.0,Unreliable,Unreliable
+2019,South Dakota,46,"Custer County, SD",46033,White,Not Hispanic or Latino,106.0,8006.0,1324.0,743.6
+2019,South Dakota,46,"Davison County, SD",46035,White,Not Hispanic or Latino,231.0,17785.0,1298.8,806.2
+2019,South Dakota,46,"Day County, SD",46037,White,Not Hispanic or Latino,61.0,4625.0,1318.9,673.6
+2019,South Dakota,46,"Deuel County, SD",46039,White,Not Hispanic or Latino,43.0,4061.0,1058.9,610.4
+2019,South Dakota,46,"Dewey County, SD",46041,American Indian or Alaska Native,Not Hispanic or Latino,42.0,4150.0,1012.0,1348.9
+2019,South Dakota,46,"Dewey County, SD",46041,White,Not Hispanic or Latino,13.0,1158.0,Unreliable,Unreliable
+2019,South Dakota,46,"Douglas County, SD",46043,White,Not Hispanic or Latino,42.0,2737.0,1534.5,760.3
+2019,South Dakota,46,"Edmunds County, SD",46045,White,Not Hispanic or Latino,34.0,3640.0,934.1,571.1
+2019,South Dakota,46,"Fall River County, SD",46047,White,Not Hispanic or Latino,116.0,5654.0,2051.6,970.4
+2019,South Dakota,46,"Faulk County, SD",46049,White,Not Hispanic or Latino,29.0,2233.0,1298.7,611.7
+2019,South Dakota,46,"Grant County, SD",46051,White,Not Hispanic or Latino,98.0,6495.0,1508.9,899.6
+2019,South Dakota,46,"Gregory County, SD",46053,White,Not Hispanic or Latino,55.0,3669.0,1499.0,680.0
+2019,South Dakota,46,"Haakon County, SD",46055,White,Not Hispanic or Latino,25.0,1739.0,1437.6,743.0
+2019,South Dakota,46,"Hamlin County, SD",46057,White,Not Hispanic or Latino,70.0,5727.0,1222.3,916.6
+2019,South Dakota,46,"Hand County, SD",46059,White,Not Hispanic or Latino,38.0,3082.0,1233.0,431.5
+2019,South Dakota,46,"Hanson County, SD",46061,White,Not Hispanic or Latino,24.0,3292.0,729.0,881.8
+2019,South Dakota,46,"Hughes County, SD",46065,American Indian or Alaska Native,Not Hispanic or Latino,19.0,1997.0,Unreliable,Unreliable
+2019,South Dakota,46,"Hughes County, SD",46065,White,Not Hispanic or Latino,180.0,14301.0,1258.7,806.8
+2019,South Dakota,46,"Hutchinson County, SD",46067,White,Not Hispanic or Latino,112.0,6879.0,1628.1,779.3
+2019,South Dakota,46,"Hyde County, SD",46069,White,Not Hispanic or Latino,25.0,1128.0,2216.3,812.1
+2019,South Dakota,46,"Jackson County, SD",46071,American Indian or Alaska Native,Not Hispanic or Latino,10.0,1700.0,Unreliable,Unreliable
+2019,South Dakota,46,"Jackson County, SD",46071,White,Not Hispanic or Latino,11.0,1314.0,Unreliable,Unreliable
+2019,South Dakota,46,"Jerauld County, SD",46073,White,Not Hispanic or Latino,38.0,1870.0,2032.1,860.7
+2019,South Dakota,46,"Kingsbury County, SD",46077,White,Not Hispanic or Latino,58.0,4651.0,1247.0,663.2
+2019,South Dakota,46,"Lake County, SD",46079,White,Not Hispanic or Latino,86.0,11847.0,725.9,517.9
+2019,South Dakota,46,"Lawrence County, SD",46081,White,Not Hispanic or Latino,224.0,23410.0,956.9,585.1
+2019,South Dakota,46,"Lincoln County, SD",46083,White,Not Hispanic or Latino,298.0,56371.0,528.6,502.1
+2019,South Dakota,46,"Lyman County, SD",46085,American Indian or Alaska Native,Not Hispanic or Latino,12.0,1462.0,Unreliable,Unreliable
+2019,South Dakota,46,"Lyman County, SD",46085,White,Not Hispanic or Latino,19.0,2068.0,Unreliable,Unreliable
+2019,South Dakota,46,"McCook County, SD",46087,White,Not Hispanic or Latino,82.0,5190.0,1580.0,1061.2
+2019,South Dakota,46,"McPherson County, SD",46089,White,Not Hispanic or Latino,41.0,2283.0,1795.9,801.0
+2019,South Dakota,46,"Marshall County, SD",46091,White,Not Hispanic or Latino,35.0,4102.0,853.2,442.6
+2019,South Dakota,46,"Meade County, SD",46093,White,Not Hispanic or Latino,230.0,24717.0,930.5,771.8
+2019,South Dakota,46,"Mellette County, SD",46095,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1093.0,Unreliable,Unreliable
+2019,South Dakota,46,"Miner County, SD",46097,White,Not Hispanic or Latino,32.0,2079.0,1539.2,905.7
+2019,South Dakota,46,"Minnehaha County, SD",46099,American Indian or Alaska Native,Not Hispanic or Latino,33.0,4686.0,704.2,2709.3
+2019,South Dakota,46,"Minnehaha County, SD",46099,Black or African American,Not Hispanic or Latino,34.0,11670.0,291.3,853.2
+2019,South Dakota,46,"Minnehaha County, SD",46099,White,Hispanic or Latino,18.0,8275.0,Unreliable,Unreliable
+2019,South Dakota,46,"Minnehaha County, SD",46099,White,Not Hispanic or Latino,1489.0,158275.0,940.8,796.4
+2019,South Dakota,46,"Moody County, SD",46101,American Indian or Alaska Native,Not Hispanic or Latino,10.0,815.0,Unreliable,Unreliable
+2019,South Dakota,46,"Moody County, SD",46101,White,Not Hispanic or Latino,45.0,5036.0,893.6,519.6
+2019,South Dakota,46,"Pennington County, SD",46103,American Indian or Alaska Native,Not Hispanic or Latino,107.0,10079.0,1061.6,1784.0
+2019,South Dakota,46,"Pennington County, SD",46103,White,Not Hispanic or Latino,946.0,90741.0,1042.5,696.7
+2019,South Dakota,46,"Perkins County, SD",46105,White,Not Hispanic or Latino,41.0,2682.0,1528.7,799.0
+2019,South Dakota,46,"Potter County, SD",46107,White,Not Hispanic or Latino,23.0,1987.0,1157.5,400.8
+2019,South Dakota,46,"Roberts County, SD",46109,American Indian or Alaska Native,Not Hispanic or Latino,45.0,3772.0,1193.0,1699.5
+2019,South Dakota,46,"Roberts County, SD",46109,White,Not Hispanic or Latino,71.0,5792.0,1225.8,565.7
+2019,South Dakota,46,"Sanborn County, SD",46111,White,Not Hispanic or Latino,25.0,2209.0,1131.7,837.4
+2019,South Dakota,46,"Shannon County, SD",46113,American Indian or Alaska Native,Not Hispanic or Latino,131.0,12647.0,1035.8,1566.7
+2019,South Dakota,46,"Spink County, SD",46115,White,Not Hispanic or Latino,66.0,5952.0,1108.9,627.9
+2019,South Dakota,46,"Stanley County, SD",46117,White,Not Hispanic or Latino,21.0,2670.0,786.5,487.2
+2019,South Dakota,46,"Todd County, SD",46121,American Indian or Alaska Native,Not Hispanic or Latino,72.0,8502.0,846.9,1410.4
+2019,South Dakota,46,"Tripp County, SD",46123,White,Not Hispanic or Latino,80.0,4329.0,1848.0,778.4
+2019,South Dakota,46,"Turner County, SD",46125,White,Not Hispanic or Latino,93.0,7943.0,1170.8,720.0
+2019,South Dakota,46,"Union County, SD",46127,White,Not Hispanic or Latino,139.0,14505.0,958.3,672.0
+2019,South Dakota,46,"Walworth County, SD",46129,White,Not Hispanic or Latino,55.0,4263.0,1290.2,565.0
+2019,South Dakota,46,"Yankton County, SD",46135,White,Not Hispanic or Latino,268.0,20005.0,1339.7,789.7
+2019,South Dakota,46,"Ziebach County, SD",46137,American Indian or Alaska Native,Not Hispanic or Latino,13.0,1873.0,Unreliable,Unreliable
+2020,South Dakota,46,"Aurora County, SD",46003,White,Not Hispanic or Latino,45.0,2380.0,1890.8,1069.6
+2020,South Dakota,46,"Beadle County, SD",46005,Asian,Not Hispanic or Latino,11.0,1938.0,Unreliable,Unreliable
+2020,South Dakota,46,"Beadle County, SD",46005,White,Not Hispanic or Latino,199.0,13657.0,1457.1,852.3
+2020,South Dakota,46,"Bennett County, SD",46007,American Indian or Alaska Native,Not Hispanic or Latino,28.0,1863.0,1503.0,1949.5
+2020,South Dakota,46,"Bon Homme County, SD",46009,White,Not Hispanic or Latino,116.0,5911.0,1962.4,948.4
+2020,South Dakota,46,"Brookings County, SD",46011,White,Not Hispanic or Latino,247.0,31792.0,776.9,765.4
+2020,South Dakota,46,"Brown County, SD",46013,American Indian or Alaska Native,Not Hispanic or Latino,17.0,1254.0,Unreliable,Unreliable
+2020,South Dakota,46,"Brown County, SD",46013,White,Not Hispanic or Latino,437.0,33158.0,1317.9,830.8
+2020,South Dakota,46,"Brule County, SD",46015,White,Not Hispanic or Latino,47.0,4341.0,1082.7,664.4
+2020,South Dakota,46,"Buffalo County, SD",46017,American Indian or Alaska Native,Not Hispanic or Latino,34.0,1496.0,2272.7,3415.4
+2020,South Dakota,46,"Butte County, SD",46019,White,Not Hispanic or Latino,109.0,9527.0,1144.1,723.0
+2020,South Dakota,46,"Campbell County, SD",46021,White,Not Hispanic or Latino,21.0,1301.0,1614.1,766.5
+2020,South Dakota,46,"Charles Mix County, SD",46023,American Indian or Alaska Native,Not Hispanic or Latino,58.0,2772.0,2092.4,2848.4
+2020,South Dakota,46,"Charles Mix County, SD",46023,White,Not Hispanic or Latino,92.0,5787.0,1589.8,762.1
+2020,South Dakota,46,"Clark County, SD",46025,White,Not Hispanic or Latino,45.0,3540.0,1271.2,658.1
+2020,South Dakota,46,"Clay County, SD",46027,White,Not Hispanic or Latino,104.0,12350.0,842.1,826.8
+2020,South Dakota,46,"Codington County, SD",46029,White,Not Hispanic or Latino,352.0,25758.0,1366.6,866.1
+2020,South Dakota,46,"Corson County, SD",46031,American Indian or Alaska Native,Not Hispanic or Latino,50.0,2494.0,2004.8,2813.0
+2020,South Dakota,46,"Corson County, SD",46031,White,Not Hispanic or Latino,18.0,1161.0,Unreliable,Unreliable
+2020,South Dakota,46,"Custer County, SD",46033,White,Not Hispanic or Latino,107.0,8054.0,1328.5,653.2
+2020,South Dakota,46,"Davison County, SD",46035,White,Not Hispanic or Latino,243.0,17756.0,1368.6,771.7
+2020,South Dakota,46,"Day County, SD",46037,White,Not Hispanic or Latino,95.0,4588.0,2070.6,841.6
+2020,South Dakota,46,"Deuel County, SD",46039,White,Not Hispanic or Latino,48.0,4063.0,1181.4,664.3
+2020,South Dakota,46,"Dewey County, SD",46041,American Indian or Alaska Native,Not Hispanic or Latino,72.0,4138.0,1740.0,2670.1
+2020,South Dakota,46,"Dewey County, SD",46041,White,Not Hispanic or Latino,16.0,1099.0,Unreliable,Unreliable
+2020,South Dakota,46,"Douglas County, SD",46043,White,Not Hispanic or Latino,51.0,2713.0,1879.8,834.4
+2020,South Dakota,46,"Edmunds County, SD",46045,White,Not Hispanic or Latino,53.0,3635.0,1458.0,729.7
+2020,South Dakota,46,"Fall River County, SD",46047,White,Not Hispanic or Latino,127.0,5630.0,2255.8,1143.2
+2020,South Dakota,46,"Faulk County, SD",46049,White,Not Hispanic or Latino,41.0,2246.0,1825.5,899.5
+2020,South Dakota,46,"Grant County, SD",46051,White,Not Hispanic or Latino,112.0,6448.0,1737.0,988.3
+2020,South Dakota,46,"Gregory County, SD",46053,White,Not Hispanic or Latino,77.0,3675.0,2095.2,983.1
+2020,South Dakota,46,"Haakon County, SD",46055,White,Not Hispanic or Latino,25.0,1704.0,1467.1,698.6
+2020,South Dakota,46,"Hamlin County, SD",46057,White,Not Hispanic or Latino,101.0,5765.0,1752.0,1300.4
+2020,South Dakota,46,"Hand County, SD",46059,White,Not Hispanic or Latino,51.0,3006.0,1696.6,783.1
+2020,South Dakota,46,"Hanson County, SD",46061,White,Not Hispanic or Latino,24.0,3325.0,721.8,769.8
+2020,South Dakota,46,"Harding County, SD",46063,White,Not Hispanic or Latino,12.0,1194.0,Unreliable,Unreliable
+2020,South Dakota,46,"Hughes County, SD",46065,American Indian or Alaska Native,Not Hispanic or Latino,23.0,1984.0,1159.3,1734.9
+2020,South Dakota,46,"Hughes County, SD",46065,White,Not Hispanic or Latino,174.0,14078.0,1236.0,791.3
+2020,South Dakota,46,"Hutchinson County, SD",46067,White,Not Hispanic or Latino,118.0,6859.0,1720.4,832.3
+2020,South Dakota,46,"Hyde County, SD",46069,White,Not Hispanic or Latino,22.0,1097.0,2005.5,784.5
+2020,South Dakota,46,"Jackson County, SD",46071,American Indian or Alaska Native,Not Hispanic or Latino,23.0,1694.0,1357.7,2158.3
+2020,South Dakota,46,"Jackson County, SD",46071,White,Not Hispanic or Latino,25.0,1291.0,1936.5,1065.2
+2020,South Dakota,46,"Jerauld County, SD",46073,White,Not Hispanic or Latino,36.0,1847.0,1949.1,821.0
+2020,South Dakota,46,"Kingsbury County, SD",46077,White,Not Hispanic or Latino,62.0,4688.0,1322.5,650.4
+2020,South Dakota,46,"Lake County, SD",46079,White,Not Hispanic or Latino,101.0,11603.0,870.5,583.0
+2020,South Dakota,46,"Lawrence County, SD",46081,White,Not Hispanic or Latino,285.0,23613.0,1207.0,726.5
+2020,South Dakota,46,"Lincoln County, SD",46083,White,Not Hispanic or Latino,369.0,57771.0,638.7,588.9
+2020,South Dakota,46,"Lyman County, SD",46085,American Indian or Alaska Native,Not Hispanic or Latino,24.0,1446.0,1659.8,2810.9
+2020,South Dakota,46,"Lyman County, SD",46085,White,Not Hispanic or Latino,30.0,2092.0,1434.0,746.8
+2020,South Dakota,46,"McCook County, SD",46087,White,Not Hispanic or Latino,82.0,5123.0,1600.6,1022.0
+2020,South Dakota,46,"McPherson County, SD",46089,White,Not Hispanic or Latino,37.0,2261.0,1636.4,681.0
+2020,South Dakota,46,"Marshall County, SD",46091,White,Not Hispanic or Latino,38.0,4068.0,934.1,474.8
+2020,South Dakota,46,"Meade County, SD",46093,White,Not Hispanic or Latino,222.0,24765.0,896.4,716.1
+2020,South Dakota,46,"Mellette County, SD",46095,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1126.0,Unreliable,Unreliable
+2020,South Dakota,46,"Miner County, SD",46097,White,Not Hispanic or Latino,31.0,2056.0,1507.8,761.3
+2020,South Dakota,46,"Minnehaha County, SD",46099,American Indian or Alaska Native,Not Hispanic or Latino,68.0,4647.0,1463.3,3696.9
+2020,South Dakota,46,"Minnehaha County, SD",46099,Asian,Not Hispanic or Latino,20.0,4346.0,460.2,1797.1
+2020,South Dakota,46,"Minnehaha County, SD",46099,Black or African American,Not Hispanic or Latino,40.0,12677.0,315.5,1025.7
+2020,South Dakota,46,"Minnehaha County, SD",46099,White,Hispanic or Latino,27.0,8783.0,307.4,972.2
+2020,South Dakota,46,"Minnehaha County, SD",46099,White,Not Hispanic or Latino,1718.0,159574.0,1076.6,909.7
+2020,South Dakota,46,"Minnehaha County, SD",46099,More than one race,Not Hispanic or Latino,13.0,4701.0,Unreliable,Unreliable
+2020,South Dakota,46,"Moody County, SD",46101,American Indian or Alaska Native,Not Hispanic or Latino,17.0,810.0,Unreliable,Unreliable
+2020,South Dakota,46,"Moody County, SD",46101,White,Not Hispanic or Latino,66.0,5006.0,1318.4,778.4
+2020,South Dakota,46,"Pennington County, SD",46103,American Indian or Alaska Native,Not Hispanic or Latino,137.0,9890.0,1385.2,2040.2
+2020,South Dakota,46,"Pennington County, SD",46103,White,Hispanic or Latino,19.0,4069.0,Unreliable,Unreliable
+2020,South Dakota,46,"Pennington County, SD",46103,White,Not Hispanic or Latino,1009.0,92377.0,1092.3,741.5
+2020,South Dakota,46,"Pennington County, SD",46103,More than one race,Not Hispanic or Latino,13.0,4068.0,Unreliable,Unreliable
+2020,South Dakota,46,"Perkins County, SD",46105,White,Not Hispanic or Latino,50.0,2642.0,1892.5,813.5
+2020,South Dakota,46,"Potter County, SD",46107,White,Not Hispanic or Latino,44.0,1975.0,2227.8,1042.1
+2020,South Dakota,46,"Roberts County, SD",46109,American Indian or Alaska Native,Not Hispanic or Latino,55.0,3716.0,1480.1,2044.6
+2020,South Dakota,46,"Roberts County, SD",46109,White,Not Hispanic or Latino,78.0,5750.0,1356.5,594.6
+2020,South Dakota,46,"Sanborn County, SD",46111,White,Not Hispanic or Latino,23.0,2178.0,1056.0,708.0
+2020,South Dakota,46,"Shannon County, SD",46113,American Indian or Alaska Native,Not Hispanic or Latino,207.0,12568.0,1647.0,2456.9
+2020,South Dakota,46,"Spink County, SD",46115,White,Not Hispanic or Latino,102.0,5871.0,1737.4,932.7
+2020,South Dakota,46,"Stanley County, SD",46117,White,Not Hispanic or Latino,20.0,2714.0,736.9,452.6
+2020,South Dakota,46,"Sully County, SD",46119,White,Not Hispanic or Latino,13.0,1281.0,Unreliable,Unreliable
+2020,South Dakota,46,"Todd County, SD",46121,American Indian or Alaska Native,Not Hispanic or Latino,120.0,8535.0,1406.0,2333.7
+2020,South Dakota,46,"Todd County, SD",46121,White,Not Hispanic or Latino,10.0,780.0,Unreliable,Unreliable
+2020,South Dakota,46,"Tripp County, SD",46123,American Indian or Alaska Native,Not Hispanic or Latino,17.0,765.0,Unreliable,Unreliable
+2020,South Dakota,46,"Tripp County, SD",46123,White,Not Hispanic or Latino,78.0,4286.0,1819.9,825.2
+2020,South Dakota,46,"Turner County, SD",46125,White,Not Hispanic or Latino,142.0,7926.0,1791.6,968.4
+2020,South Dakota,46,"Union County, SD",46127,White,Not Hispanic or Latino,163.0,14673.0,1110.9,770.2
+2020,South Dakota,46,"Walworth County, SD",46129,White,Not Hispanic or Latino,70.0,4193.0,1669.4,751.8
+2020,South Dakota,46,"Yankton County, SD",46135,White,Not Hispanic or Latino,256.0,19843.0,1290.1,721.2
+2020,South Dakota,46,"Ziebach County, SD",46137,American Indian or Alaska Native,Not Hispanic or Latino,21.0,1786.0,1175.8,1470.3
+2021 (provisional),South Dakota,46,"Aurora County, SD",46003,White,Not Hispanic or Latino,45.0,2380.0,1890.8,1100.3
+2021 (provisional),South Dakota,46,"Beadle County, SD",46005,White,Not Hispanic or Latino,173.0,13657.0,1266.7,730.5
+2021 (provisional),South Dakota,46,"Bennett County, SD",46007,American Indian or Alaska Native,Not Hispanic or Latino,25.0,1863.0,1341.9,1804.3
+2021 (provisional),South Dakota,46,"Bennett County, SD",46007,White,Not Hispanic or Latino,24.0,1129.0,2125.8,943.5
+2021 (provisional),South Dakota,46,"Bon Homme County, SD",46009,White,Not Hispanic or Latino,98.0,5911.0,1657.9,918.8
+2021 (provisional),South Dakota,46,"Brookings County, SD",46011,White,Not Hispanic or Latino,195.0,31792.0,613.4,614.1
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,American Indian or Alaska Native,Not Hispanic or Latino,14.0,1254.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Brown County, SD",46013,White,Not Hispanic or Latino,354.0,33158.0,1067.6,672.3
+2021 (provisional),South Dakota,46,"Brule County, SD",46015,White,Not Hispanic or Latino,47.0,4341.0,1082.7,679.6
+2021 (provisional),South Dakota,46,"Buffalo County, SD",46017,American Indian or Alaska Native,Not Hispanic or Latino,45.0,1496.0,3008.0,4021.2
+2021 (provisional),South Dakota,46,"Butte County, SD",46019,White,Not Hispanic or Latino,136.0,9527.0,1427.5,972.8
+2021 (provisional),South Dakota,46,"Campbell County, SD",46021,White,Not Hispanic or Latino,25.0,1301.0,1921.6,1020.0
+2021 (provisional),South Dakota,46,"Charles Mix County, SD",46023,American Indian or Alaska Native,Not Hispanic or Latino,47.0,2772.0,1695.5,2368.2
+2021 (provisional),South Dakota,46,"Charles Mix County, SD",46023,White,Not Hispanic or Latino,70.0,5787.0,1209.6,694.8
+2021 (provisional),South Dakota,46,"Clark County, SD",46025,White,Not Hispanic or Latino,31.0,3540.0,875.7,577.2
+2021 (provisional),South Dakota,46,"Clay County, SD",46027,White,Not Hispanic or Latino,112.0,12350.0,906.9,944.1
+2021 (provisional),South Dakota,46,"Codington County, SD",46029,White,Not Hispanic or Latino,268.0,25758.0,1040.5,703.2
+2021 (provisional),South Dakota,46,"Corson County, SD",46031,American Indian or Alaska Native,Not Hispanic or Latino,44.0,2494.0,1764.2,2509.0
+2021 (provisional),South Dakota,46,"Custer County, SD",46033,White,Not Hispanic or Latino,87.0,8054.0,1080.2,501.4
+2021 (provisional),South Dakota,46,"Davison County, SD",46035,White,Not Hispanic or Latino,225.0,17756.0,1267.2,729.3
+2021 (provisional),South Dakota,46,"Day County, SD",46037,White,Not Hispanic or Latino,63.0,4588.0,1373.1,637.4
+2021 (provisional),South Dakota,46,"Deuel County, SD",46039,White,Not Hispanic or Latino,40.0,4063.0,984.5,599.6
+2021 (provisional),South Dakota,46,"Dewey County, SD",46041,American Indian or Alaska Native,Not Hispanic or Latino,78.0,4138.0,1885.0,2979.8
+2021 (provisional),South Dakota,46,"Dewey County, SD",46041,White,Not Hispanic or Latino,13.0,1099.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Douglas County, SD",46043,White,Not Hispanic or Latino,46.0,2713.0,1695.5,757.0
+2021 (provisional),South Dakota,46,"Edmunds County, SD",46045,White,Not Hispanic or Latino,58.0,3635.0,1595.6,894.9
+2021 (provisional),South Dakota,46,"Fall River County, SD",46047,White,Not Hispanic or Latino,137.0,5630.0,2433.4,1191.4
+2021 (provisional),South Dakota,46,"Faulk County, SD",46049,White,Not Hispanic or Latino,30.0,2246.0,1335.7,627.1
+2021 (provisional),South Dakota,46,"Grant County, SD",46051,White,Not Hispanic or Latino,95.0,6448.0,1473.3,841.9
+2021 (provisional),South Dakota,46,"Gregory County, SD",46053,White,Not Hispanic or Latino,67.0,3675.0,1823.1,918.9
+2021 (provisional),South Dakota,46,"Haakon County, SD",46055,White,Not Hispanic or Latino,27.0,1704.0,1584.5,776.3
+2021 (provisional),South Dakota,46,"Hamlin County, SD",46057,White,Not Hispanic or Latino,53.0,5765.0,919.3,676.3
+2021 (provisional),South Dakota,46,"Hand County, SD",46059,White,Not Hispanic or Latino,58.0,3006.0,1929.5,754.9
+2021 (provisional),South Dakota,46,"Hanson County, SD",46061,White,Not Hispanic or Latino,34.0,3325.0,1022.6,1259.1
+2021 (provisional),South Dakota,46,"Harding County, SD",46063,White,Not Hispanic or Latino,10.0,1194.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Hughes County, SD",46065,American Indian or Alaska Native,Not Hispanic or Latino,18.0,1984.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Hughes County, SD",46065,White,Not Hispanic or Latino,186.0,14078.0,1321.2,884.8
+2021 (provisional),South Dakota,46,"Hutchinson County, SD",46067,White,Not Hispanic or Latino,108.0,6859.0,1574.6,744.9
+2021 (provisional),South Dakota,46,"Hyde County, SD",46069,White,Not Hispanic or Latino,34.0,1097.0,3099.4,1478.8
+2021 (provisional),South Dakota,46,"Jackson County, SD",46071,American Indian or Alaska Native,Not Hispanic or Latino,37.0,1694.0,2184.2,2965.7
+2021 (provisional),South Dakota,46,"Jackson County, SD",46071,White,Not Hispanic or Latino,33.0,1291.0,2556.2,1518.6
+2021 (provisional),South Dakota,46,"Jerauld County, SD",46073,White,Not Hispanic or Latino,12.0,1847.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Jones County, SD",46075,White,Not Hispanic or Latino,12.0,825.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Kingsbury County, SD",46077,White,Not Hispanic or Latino,71.0,4688.0,1514.5,747.5
+2021 (provisional),South Dakota,46,"Lake County, SD",46079,White,Not Hispanic or Latino,116.0,11603.0,999.7,706.4
+2021 (provisional),South Dakota,46,"Lawrence County, SD",46081,White,Not Hispanic or Latino,295.0,23613.0,1249.3,750.9
+2021 (provisional),South Dakota,46,"Lincoln County, SD",46083,White,Not Hispanic or Latino,294.0,57771.0,508.9,470.0
+2021 (provisional),South Dakota,46,"Lyman County, SD",46085,American Indian or Alaska Native,Not Hispanic or Latino,26.0,1446.0,1798.1,2524.5
+2021 (provisional),South Dakota,46,"Lyman County, SD",46085,White,Not Hispanic or Latino,23.0,2092.0,1099.4,631.7
+2021 (provisional),South Dakota,46,"McCook County, SD",46087,White,Not Hispanic or Latino,74.0,5123.0,1444.5,922.0
+2021 (provisional),South Dakota,46,"McPherson County, SD",46089,White,Not Hispanic or Latino,36.0,2261.0,1592.2,617.3
+2021 (provisional),South Dakota,46,"Marshall County, SD",46091,White,Not Hispanic or Latino,49.0,4068.0,1204.5,654.4
+2021 (provisional),South Dakota,46,"Meade County, SD",46093,White,Not Hispanic or Latino,234.0,24765.0,944.9,747.2
+2021 (provisional),South Dakota,46,"Mellette County, SD",46095,American Indian or Alaska Native,Not Hispanic or Latino,22.0,1126.0,1953.8,2582.9
+2021 (provisional),South Dakota,46,"Miner County, SD",46097,White,Not Hispanic or Latino,40.0,2056.0,1945.5,1127.3
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,American Indian or Alaska Native,Not Hispanic or Latino,47.0,4647.0,1011.4,2826.9
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,Black or African American,Not Hispanic or Latino,51.0,12677.0,402.3,1225.2
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,White,Hispanic or Latino,12.0,8783.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,White,Not Hispanic or Latino,1553.0,159574.0,973.2,829.7
+2021 (provisional),South Dakota,46,"Minnehaha County, SD",46099,More than one race,Not Hispanic or Latino,10.0,4701.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Moody County, SD",46101,American Indian or Alaska Native,Not Hispanic or Latino,12.0,810.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Moody County, SD",46101,White,Not Hispanic or Latino,55.0,5006.0,1098.7,659.1
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,American Indian or Alaska Native,Not Hispanic or Latino,148.0,9890.0,1496.5,2437.4
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,Black or African American,Not Hispanic or Latino,14.0,1518.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,White,Hispanic or Latino,18.0,4069.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,White,Not Hispanic or Latino,1046.0,92377.0,1132.3,755.7
+2021 (provisional),South Dakota,46,"Pennington County, SD",46103,More than one race,Not Hispanic or Latino,15.0,4068.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Perkins County, SD",46105,White,Not Hispanic or Latino,31.0,2642.0,1173.4,504.0
+2021 (provisional),South Dakota,46,"Potter County, SD",46107,White,Not Hispanic or Latino,32.0,1975.0,1620.3,589.4
+2021 (provisional),South Dakota,46,"Roberts County, SD",46109,American Indian or Alaska Native,Not Hispanic or Latino,54.0,3716.0,1453.2,1988.0
+2021 (provisional),South Dakota,46,"Roberts County, SD",46109,White,Not Hispanic or Latino,63.0,5750.0,1095.7,452.1
+2021 (provisional),South Dakota,46,"Sanborn County, SD",46111,White,Not Hispanic or Latino,30.0,2178.0,1377.4,981.3
+2021 (provisional),South Dakota,46,"Shannon County, SD",46113,American Indian or Alaska Native,Not Hispanic or Latino,184.0,12568.0,1464.0,1948.7
+2021 (provisional),South Dakota,46,"Spink County, SD",46115,White,Not Hispanic or Latino,67.0,5871.0,1141.2,681.4
+2021 (provisional),South Dakota,46,"Stanley County, SD",46117,White,Not Hispanic or Latino,31.0,2714.0,1142.2,722.5
+2021 (provisional),South Dakota,46,"Sully County, SD",46119,White,Not Hispanic or Latino,13.0,1281.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Todd County, SD",46121,American Indian or Alaska Native,Not Hispanic or Latino,127.0,8535.0,1488.0,2296.7
+2021 (provisional),South Dakota,46,"Tripp County, SD",46123,American Indian or Alaska Native,Not Hispanic or Latino,18.0,765.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Tripp County, SD",46123,White,Not Hispanic or Latino,50.0,4286.0,1166.6,610.9
+2021 (provisional),South Dakota,46,"Turner County, SD",46125,White,Not Hispanic or Latino,108.0,7926.0,1362.6,819.0
+2021 (provisional),South Dakota,46,"Union County, SD",46127,White,Not Hispanic or Latino,125.0,14673.0,851.9,596.2
+2021 (provisional),South Dakota,46,"Walworth County, SD",46129,American Indian or Alaska Native,Not Hispanic or Latino,12.0,728.0,Unreliable,Unreliable
+2021 (provisional),South Dakota,46,"Walworth County, SD",46129,White,Not Hispanic or Latino,74.0,4193.0,1764.8,798.1
+2021 (provisional),South Dakota,46,"Yankton County, SD",46135,White,Not Hispanic or Latino,256.0,19843.0,1290.1,767.7
+2021 (provisional),South Dakota,46,"Ziebach County, SD",46137,American Indian or Alaska Native,Not Hispanic or Latino,35.0,1786.0,1959.7,2128.0
+2022 (provisional and partial),South Dakota,46,"Beadle County, SD",46005,White,Not Hispanic or Latino,29.0,13657.0,212.3,108.1
+2022 (provisional and partial),South Dakota,46,"Brookings County, SD",46011,White,Not Hispanic or Latino,33.0,31792.0,103.8,102.6
+2022 (provisional and partial),South Dakota,46,"Brown County, SD",46013,White,Not Hispanic or Latino,39.0,33158.0,117.6,73.8
+2022 (provisional and partial),South Dakota,46,"Butte County, SD",46019,White,Not Hispanic or Latino,11.0,9527.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Clay County, SD",46027,White,Not Hispanic or Latino,12.0,12350.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Codington County, SD",46029,White,Not Hispanic or Latino,28.0,25758.0,108.7,77.2
+2022 (provisional and partial),South Dakota,46,"Custer County, SD",46033,White,Not Hispanic or Latino,12.0,8054.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Davison County, SD",46035,White,Not Hispanic or Latino,22.0,17756.0,123.9,66.0
+2022 (provisional and partial),South Dakota,46,"Day County, SD",46037,White,Not Hispanic or Latino,14.0,4588.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Deuel County, SD",46039,White,Not Hispanic or Latino,12.0,4063.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Fall River County, SD",46047,White,Not Hispanic or Latino,14.0,5630.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Grant County, SD",46051,White,Not Hispanic or Latino,11.0,6448.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Hughes County, SD",46065,White,Not Hispanic or Latino,16.0,14078.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Kingsbury County, SD",46077,White,Not Hispanic or Latino,10.0,4688.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Lake County, SD",46079,White,Not Hispanic or Latino,28.0,11603.0,241.3,162.8
+2022 (provisional and partial),South Dakota,46,"Lawrence County, SD",46081,White,Not Hispanic or Latino,25.0,23613.0,105.9,64.7
+2022 (provisional and partial),South Dakota,46,"Lincoln County, SD",46083,White,Not Hispanic or Latino,43.0,57771.0,74.4,68.2
+2022 (provisional and partial),South Dakota,46,"McCook County, SD",46087,White,Not Hispanic or Latino,11.0,5123.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Meade County, SD",46093,White,Not Hispanic or Latino,25.0,24765.0,100.9,85.2
+2022 (provisional and partial),South Dakota,46,"Minnehaha County, SD",46099,White,Not Hispanic or Latino,219.0,159574.0,137.2,119.4
+2022 (provisional and partial),South Dakota,46,"Moody County, SD",46101,White,Not Hispanic or Latino,10.0,5006.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Pennington County, SD",46103,American Indian or Alaska Native,Not Hispanic or Latino,11.0,9890.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Pennington County, SD",46103,White,Not Hispanic or Latino,135.0,92377.0,146.1,100.5
+2022 (provisional and partial),South Dakota,46,"Roberts County, SD",46109,White,Not Hispanic or Latino,16.0,5750.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Shannon County, SD",46113,American Indian or Alaska Native,Not Hispanic or Latino,20.0,12568.0,159.1,279.8
+2022 (provisional and partial),South Dakota,46,"Todd County, SD",46121,American Indian or Alaska Native,Not Hispanic or Latino,12.0,8535.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Turner County, SD",46125,White,Not Hispanic or Latino,13.0,7926.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Union County, SD",46127,White,Not Hispanic or Latino,16.0,14673.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Walworth County, SD",46129,White,Not Hispanic or Latino,14.0,4193.0,Unreliable,Unreliable
+2022 (provisional and partial),South Dakota,46,"Yankton County, SD",46135,White,Not Hispanic or Latino,37.0,19843.0,186.5,102.5

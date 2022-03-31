@@ -1,0 +1,1099 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Utah,49,"Box Elder County, UT",49003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,54950.0,Unreliable
+2018,Utah,49,"Box Elder County, UT",49003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,34.0,54950.0,61.9
+2018,Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,33.0,54950.0,60.1
+2018,Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,54950.0,Unreliable
+2018,Utah,49,"Box Elder County, UT",49003,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,54950.0,Unreliable
+2018,Utah,49,"Box Elder County, UT",49003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,54950.0,Unreliable
+2018,Utah,49,"Cache County, UT",49005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,127068.0,Unreliable
+2018,Utah,49,"Cache County, UT",49005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,127068.0,Unreliable
+2018,Utah,49,"Cache County, UT",49005,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,127068.0,Unreliable
+2018,Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,127068.0,22.0
+2018,Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,43.0,127068.0,33.8
+2018,Utah,49,"Cache County, UT",49005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,127068.0,22.0
+2018,Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,127068.0,Unreliable
+2018,Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,24.0,127068.0,18.9
+2018,Utah,49,"Cache County, UT",49005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,127068.0,Unreliable
+2018,Utah,49,"Carbon County, UT",49007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,20269.0,Unreliable
+2018,Utah,49,"Carbon County, UT",49007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,17.0,20269.0,Unreliable
+2018,Utah,49,"Carbon County, UT",49007,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,20269.0,Unreliable
+2018,Utah,49,"Carbon County, UT",49007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,20269.0,103.6
+2018,Utah,49,"Davis County, UT",49011,Sepsis,"Septicaemia, unspecified",A41.9,17.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,18.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,26.0,351713.0,7.4
+2018,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,44.0,351713.0,12.5
+2018,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,31.0,351713.0,8.8
+2018,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm of prostate,C61,33.0,351713.0,9.4
+2018,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,23.0,351713.0,6.5
+2018,Utah,49,"Davis County, UT",49011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,22.0,351713.0,6.3
+2018,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,19.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,Unspecified dementia,F03,52.0,351713.0,14.8
+2018,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,125.0,351713.0,35.5
+2018,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,13.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,11.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,42.0,351713.0,11.9
+2018,Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,351713.0,7.1
+2018,Utah,49,"Davis County, UT",49011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,85.0,351713.0,24.2
+2018,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,13.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,23.0,351713.0,6.5
+2018,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Congestive heart failure,I50.0,94.0,351713.0,26.7
+2018,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,13.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,40.0,351713.0,11.4
+2018,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,33.0,351713.0,9.4
+2018,Utah,49,"Davis County, UT",49011,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,57.0,351713.0,16.2
+2018,Utah,49,"Davis County, UT",49011,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,11.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,351713.0,Unreliable
+2018,Utah,49,"Davis County, UT",49011,Renal failure,Unspecified renal failure,N19,14.0,351713.0,Unreliable
+2018,Utah,49,"Iron County, UT",49021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,52775.0,Unreliable
+2018,Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,52775.0,Unreliable
+2018,Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,26.0,52775.0,49.3
+2018,Utah,49,"Iron County, UT",49021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,52775.0,Unreliable
+2018,Utah,49,"Iron County, UT",49021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,52775.0,Unreliable
+2018,Utah,49,"Iron County, UT",49021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,52775.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Sepsis,"Septicaemia, unspecified",A41.9,53.0,1152633.0,4.6
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,40.0,1152633.0,3.5
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,26.0,1152633.0,2.3
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,60.0,1152633.0,5.2
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,16.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,37.0,1152633.0,3.2
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,22.0,1152633.0,1.9
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,11.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,101.0,1152633.0,8.8
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,156.0,1152633.0,13.5
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,23.0,1152633.0,2.0
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,10.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,118.0,1152633.0,10.2
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,13.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of ovary,C56,27.0,1152633.0,2.3
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of prostate,C61,78.0,1152633.0,6.8
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,37.0,1152633.0,3.2
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,31.0,1152633.0,2.7
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,41.0,1152633.0,3.6
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm without specification of site,C80,90.0,1152633.0,7.8
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,16.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,18.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,23.0,1152633.0,2.0
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,19.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,11.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Insulin-dependent diabetes mellitus, without complications",E10.9,11.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,28.0,1152633.0,2.4
+2018,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,37.0,1152633.0,3.2
+2018,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,48.0,1152633.0,4.2
+2018,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, with peripheral circulatory complications",E14.5,11.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,82.0,1152633.0,7.1
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,33.0,1152633.0,2.9
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Unspecified dementia,F03,188.0,1152633.0,16.3
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,17.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,337.0,1152633.0,29.2
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Circumscribed brain atrophy,G31.0,15.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,47.0,1152633.0,4.1
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,23.0,1152633.0,2.0
+2018,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Degenerative disease of nervous system, unspecified",G31.9,11.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Essential (primary) hypertension,I10,36.0,1152633.0,3.1
+2018,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,33.0,1152633.0,2.9
+2018,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,61.0,1152633.0,5.3
+2018,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,23.0,1152633.0,2.0
+2018,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart and renal disease with renal failure,I13.1,11.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,150.0,1152633.0,13.0
+2018,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,81.0,1152633.0,7.0
+2018,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,299.0,1152633.0,25.9
+2018,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,23.0,1152633.0,2.0
+2018,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,11.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,39.0,1152633.0,3.4
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,22.0,1152633.0,1.9
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,36.0,1152633.0,3.1
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,13.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,37.0,1152633.0,3.2
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,10.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,106.0,1152633.0,9.2
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Congestive heart failure,I50.0,254.0,1152633.0,22.0
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,53.0,1152633.0,4.6
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,31.0,1152633.0,2.7
+2018,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,32.0,1152633.0,2.8
+2018,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,15.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,22.0,1152633.0,1.9
+2018,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,154.0,1152633.0,13.4
+2018,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,30.0,1152633.0,2.6
+2018,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,31.0,1152633.0,2.7
+2018,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,15.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,12.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,12.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,83.0,1152633.0,7.2
+2018,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,22.0,1152633.0,1.9
+2018,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,25.0,1152633.0,2.2
+2018,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,14.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,241.0,1152633.0,20.9
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,31.0,1152633.0,2.7
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,35.0,1152633.0,3.0
+2018,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,22.0,1152633.0,1.9
+2018,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Acute renal failure, unspecified",N17.9,13.0,1152633.0,Unreliable
+2018,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic kidney disease, stage 5",N18.5,29.0,1152633.0,2.5
+2018,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic renal failure, unspecified",N18.9,30.0,1152633.0,2.6
+2018,Utah,49,"Salt Lake County, UT",49035,Renal failure,Unspecified renal failure,N19,16.0,1152633.0,Unreliable
+2018,Utah,49,"Sanpete County, UT",49039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,30623.0,Unreliable
+2018,Utah,49,"Sanpete County, UT",49039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,30623.0,Unreliable
+2018,Utah,49,"Sevier County, UT",49041,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,21539.0,Unreliable
+2018,Utah,49,"Tooele County, UT",49045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,69907.0,Unreliable
+2018,Utah,49,"Tooele County, UT",49045,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,69907.0,Unreliable
+2018,Utah,49,"Tooele County, UT",49045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,69907.0,Unreliable
+2018,Utah,49,"Tooele County, UT",49045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,69907.0,Unreliable
+2018,Utah,49,"Tooele County, UT",49045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,69907.0,Unreliable
+2018,Utah,49,"Tooele County, UT",49045,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,69907.0,Unreliable
+2018,Utah,49,"Tooele County, UT",49045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,69907.0,Unreliable
+2018,Utah,49,"Uintah County, UT",49047,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,35438.0,Unreliable
+2018,Utah,49,"Uintah County, UT",49047,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,35438.0,Unreliable
+2018,Utah,49,"Uintah County, UT",49047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,35438.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Sepsis,"Septicaemia, unspecified",A41.9,38.0,622213.0,6.1
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,33.0,622213.0,5.3
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,35.0,622213.0,5.6
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,45.0,622213.0,7.2
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,47.0,622213.0,7.6
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm of ovary,C56,18.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm of prostate,C61,48.0,622213.0,7.7
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,18.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,20.0,622213.0,3.2
+2018,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,10.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,18.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,30.0,622213.0,4.8
+2018,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,15.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,Unspecified dementia,F03,101.0,622213.0,16.2
+2018,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,128.0,622213.0,20.6
+2018,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,14.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,78.0,622213.0,12.5
+2018,Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,622213.0,3.2
+2018,Utah,49,"Utah County, UT",49049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,117.0,622213.0,18.8
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,12.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,14.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,19.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,33.0,622213.0,5.3
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Congestive heart failure,I50.0,148.0,622213.0,23.8
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,10.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,10.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,11.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,76.0,622213.0,12.2
+2018,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,11.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,38.0,622213.0,6.1
+2018,Utah,49,"Utah County, UT",49049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,60.0,622213.0,9.6
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,25.0,622213.0,4.0
+2018,Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Renal failure,"Acute renal failure, unspecified",N17.9,15.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Renal failure,"Chronic kidney disease, stage 5",N18.5,24.0,622213.0,3.9
+2018,Utah,49,"Utah County, UT",49049,Renal failure,"Chronic renal failure, unspecified",N18.9,12.0,622213.0,Unreliable
+2018,Utah,49,"Utah County, UT",49049,Renal failure,Unspecified renal failure,N19,16.0,622213.0,Unreliable
+2018,Utah,49,"Wasatch County, UT",49051,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,33240.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Sepsis,"Septicaemia, unspecified",A41.9,17.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,19.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,26.0,171700.0,15.1
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,48.0,171700.0,28.0
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,14.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm of prostate,C61,18.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,18.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,Unspecified dementia,F03,56.0,171700.0,32.6
+2018,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,108.0,171700.0,62.9
+2018,Utah,49,"Washington County, UT",49053,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,35.0,171700.0,20.4
+2018,Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,17.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,67.0,171700.0,39.0
+2018,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,11.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,10.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,12.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,23.0,171700.0,13.4
+2018,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Congestive heart failure,I50.0,38.0,171700.0,22.1
+2018,Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,15.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,32.0,171700.0,18.6
+2018,Utah,49,"Washington County, UT",49053,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,22.0,171700.0,12.8
+2018,Utah,49,"Washington County, UT",49053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,56.0,171700.0,32.6
+2018,Utah,49,"Washington County, UT",49053,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,171700.0,Unreliable
+2018,Utah,49,"Washington County, UT",49053,Renal failure,"Chronic kidney disease, stage 5",N18.5,13.0,171700.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Sepsis,"Septicaemia, unspecified",A41.9,21.0,256359.0,8.2
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,25.0,256359.0,9.8
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,49.0,256359.0,19.1
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,26.0,256359.0,10.1
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm of ovary,C56,10.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm of prostate,C61,18.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,11.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,10.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,28.0,256359.0,10.9
+2018,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,25.0,256359.0,9.8
+2018,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,256359.0,9.8
+2018,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,107.0,256359.0,41.7
+2018,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,17.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,13.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,47.0,256359.0,18.3
+2018,Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,256359.0,8.6
+2018,Utah,49,"Weber County, UT",49057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,70.0,256359.0,27.3
+2018,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Congestive heart failure,I50.0,72.0,256359.0,28.1
+2018,Utah,49,"Weber County, UT",49057,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,32.0,256359.0,12.5
+2018,Utah,49,"Weber County, UT",49057,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,20.0,256359.0,7.8
+2018,Utah,49,"Weber County, UT",49057,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,76.0,256359.0,29.6
+2018,Utah,49,"Weber County, UT",49057,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,13.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Renal failure,"Chronic renal failure, unspecified",N18.9,11.0,256359.0,Unreliable
+2018,Utah,49,"Weber County, UT",49057,Renal failure,Unspecified renal failure,N19,13.0,256359.0,Unreliable
+2019,Utah,49,"Box Elder County, UT",49003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,24.0,56046.0,42.8
+2019,Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,56046.0,46.4
+2019,Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,56046.0,Unreliable
+2019,Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,56046.0,Unreliable
+2019,Utah,49,"Box Elder County, UT",49003,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,56046.0,Unreliable
+2019,Utah,49,"Box Elder County, UT",49003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,56046.0,Unreliable
+2019,Utah,49,"Box Elder County, UT",49003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,56046.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Sepsis,"Septicaemia, unspecified",A41.9,10.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,128289.0,21.8
+2019,Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,128289.0,17.1
+2019,Utah,49,"Cache County, UT",49005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,19.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,17.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,128289.0,Unreliable
+2019,Utah,49,"Cache County, UT",49005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,128289.0,Unreliable
+2019,Utah,49,"Carbon County, UT",49007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,20463.0,Unreliable
+2019,Utah,49,"Carbon County, UT",49007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,20463.0,Unreliable
+2019,Utah,49,"Carbon County, UT",49007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,20463.0,117.3
+2019,Utah,49,"Davis County, UT",49011,Sepsis,"Septicaemia, unspecified",A41.9,11.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,19.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,35.0,355481.0,9.8
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,37.0,355481.0,10.4
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,27.0,355481.0,7.6
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm of ovary,C56,10.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm of prostate,C61,33.0,355481.0,9.3
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,14.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,14.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,15.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,25.0,355481.0,7.0
+2019,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,27.0,355481.0,7.6
+2019,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,Unspecified dementia,F03,32.0,355481.0,9.0
+2019,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,125.0,355481.0,35.2
+2019,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,18.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,21.0,355481.0,5.9
+2019,Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,44.0,355481.0,12.4
+2019,Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,26.0,355481.0,7.3
+2019,Utah,49,"Davis County, UT",49011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,83.0,355481.0,23.3
+2019,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,12.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,33.0,355481.0,9.3
+2019,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Congestive heart failure,I50.0,90.0,355481.0,25.3
+2019,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,21.0,355481.0,5.9
+2019,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,11.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,54.0,355481.0,15.2
+2019,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,11.0,355481.0,Unreliable
+2019,Utah,49,"Davis County, UT",49011,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,21.0,355481.0,5.9
+2019,Utah,49,"Davis County, UT",49011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,43.0,355481.0,12.1
+2019,Utah,49,"Davis County, UT",49011,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,355481.0,Unreliable
+2019,Utah,49,"Duchesne County, UT",49013,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,19938.0,Unreliable
+2019,Utah,49,"Emery County, UT",49015,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,10012.0,Unreliable
+2019,Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,54839.0,Unreliable
+2019,Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,54839.0,41.9
+2019,Utah,49,"Iron County, UT",49021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,54839.0,Unreliable
+2019,Utah,49,"Iron County, UT",49021,Other diseases of the circulatory system,Congestive heart failure,I50.0,19.0,54839.0,Unreliable
+2019,Utah,49,"Millard County, UT",49027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,13188.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Sepsis,"Septicaemia, unspecified",A41.9,53.0,1160437.0,4.6
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,28.0,1160437.0,2.4
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,25.0,1160437.0,2.2
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Appendix - Malignant neoplasms,C18.1,10.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,89.0,1160437.0,7.7
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,14.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of rectum,C20,22.0,1160437.0,1.9
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,17.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,17.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,19.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,102.0,1160437.0,8.8
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,171.0,1160437.0,14.7
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,29.0,1160437.0,2.5
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,15.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,114.0,1160437.0,9.8
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,18.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,14.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of ovary,C56,34.0,1160437.0,2.9
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of prostate,C61,107.0,1160437.0,9.2
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,26.0,1160437.0,2.2
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,34.0,1160437.0,2.9
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,43.0,1160437.0,3.7
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm without specification of site,C80,75.0,1160437.0,6.5
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,21.0,1160437.0,1.8
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,23.0,1160437.0,2.0
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,13.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,30.0,1160437.0,2.6
+2019,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Insulin-dependent diabetes mellitus, without complications",E10.9,10.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,24.0,1160437.0,2.1
+2019,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,51.0,1160437.0,4.4
+2019,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,55.0,1160437.0,4.7
+2019,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,78.0,1160437.0,6.7
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,70.0,1160437.0,6.0
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Unspecified dementia,F03,203.0,1160437.0,17.5
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,10.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,315.0,1160437.0,27.1
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Circumscribed brain atrophy,G31.0,13.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,62.0,1160437.0,5.3
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,26.0,1160437.0,2.2
+2019,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Degenerative disease of nervous system, unspecified",G31.9,15.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Essential (primary) hypertension,I10,40.0,1160437.0,3.4
+2019,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,44.0,1160437.0,3.8
+2019,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,50.0,1160437.0,4.3
+2019,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,28.0,1160437.0,2.4
+2019,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,17.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,144.0,1160437.0,12.4
+2019,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,105.0,1160437.0,9.0
+2019,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,309.0,1160437.0,26.6
+2019,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,25.0,1160437.0,2.2
+2019,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,11.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,42.0,1160437.0,3.6
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,29.0,1160437.0,2.5
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,26.0,1160437.0,2.2
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,22.0,1160437.0,1.9
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,37.0,1160437.0,3.2
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,78.0,1160437.0,6.7
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Congestive heart failure,I50.0,244.0,1160437.0,21.0
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,50.0,1160437.0,4.3
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,29.0,1160437.0,2.5
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,16.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,14.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,38.0,1160437.0,3.3
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,11.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,19.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,138.0,1160437.0,11.9
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,14.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,19.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,25.0,1160437.0,2.2
+2019,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,26.0,1160437.0,2.2
+2019,Utah,49,"Salt Lake County, UT",49035,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,58.0,1160437.0,5.0
+2019,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,14.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,23.0,1160437.0,2.0
+2019,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,18.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,242.0,1160437.0,20.9
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,38.0,1160437.0,3.3
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,46.0,1160437.0,4.0
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,22.0,1160437.0,1.9
+2019,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Chronic respiratory failure,J96.1,15.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Acute renal failure, unspecified",N17.9,13.0,1160437.0,Unreliable
+2019,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic kidney disease, stage 5",N18.5,39.0,1160437.0,3.4
+2019,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic renal failure, unspecified",N18.9,32.0,1160437.0,2.8
+2019,Utah,49,"Salt Lake County, UT",49035,Renal failure,Unspecified renal failure,N19,20.0,1160437.0,1.7
+2019,Utah,49,"Sanpete County, UT",49039,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,30939.0,Unreliable
+2019,Utah,49,"Sanpete County, UT",49039,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,30939.0,Unreliable
+2019,Utah,49,"Sevier County, UT",49041,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,21620.0,Unreliable
+2019,Utah,49,"Sevier County, UT",49041,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,21620.0,Unreliable
+2019,Utah,49,"Summit County, UT",49043,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,42145.0,Unreliable
+2019,Utah,49,"Tooele County, UT",49045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,72259.0,Unreliable
+2019,Utah,49,"Tooele County, UT",49045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,27.0,72259.0,37.4
+2019,Utah,49,"Tooele County, UT",49045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,72259.0,Unreliable
+2019,Utah,49,"Tooele County, UT",49045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,72259.0,Unreliable
+2019,Utah,49,"Tooele County, UT",49045,Other diseases of the circulatory system,Congestive heart failure,I50.0,39.0,72259.0,54.0
+2019,Utah,49,"Tooele County, UT",49045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,72259.0,Unreliable
+2019,Utah,49,"Uintah County, UT",49047,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,35734.0,Unreliable
+2019,Utah,49,"Uintah County, UT",49047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,35734.0,Unreliable
+2019,Utah,49,"Uintah County, UT",49047,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,35734.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Sepsis,"Septicaemia, unspecified",A41.9,41.0,636235.0,6.4
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,40.0,636235.0,6.3
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,32.0,636235.0,5.0
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,43.0,636235.0,6.8
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,49.0,636235.0,7.7
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm of prostate,C61,46.0,636235.0,7.2
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,12.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,12.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,20.0,636235.0,3.1
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,24.0,636235.0,3.8
+2019,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,18.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,24.0,636235.0,3.8
+2019,Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,35.0,636235.0,5.5
+2019,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,25.0,636235.0,3.9
+2019,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,Unspecified dementia,F03,97.0,636235.0,15.2
+2019,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,130.0,636235.0,20.4
+2019,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,26.0,636235.0,4.1
+2019,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Essential (primary) hypertension,I10,23.0,636235.0,3.6
+2019,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,17.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,67.0,636235.0,10.5
+2019,Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,32.0,636235.0,5.0
+2019,Utah,49,"Utah County, UT",49049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,111.0,636235.0,17.4
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,15.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,16.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,11.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,27.0,636235.0,4.2
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Congestive heart failure,I50.0,170.0,636235.0,26.7
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,17.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,14.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,81.0,636235.0,12.7
+2019,Utah,49,"Utah County, UT",49049,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,42.0,636235.0,6.6
+2019,Utah,49,"Utah County, UT",49049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,60.0,636235.0,9.4
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,20.0,636235.0,3.1
+2019,Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,17.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Renal failure,"Chronic renal failure, unspecified",N18.9,11.0,636235.0,Unreliable
+2019,Utah,49,"Utah County, UT",49049,Renal failure,Unspecified renal failure,N19,24.0,636235.0,3.8
+2019,Utah,49,"Washington County, UT",49053,Sepsis,"Septicaemia, unspecified",A41.9,19.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,13.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,25.0,177556.0,14.1
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,50.0,177556.0,28.2
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm of prostate,C61,18.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,13.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm without specification of site,C80,21.0,177556.0,11.8
+2019,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,11.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,10.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,14.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,16.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,10.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,Unspecified dementia,F03,53.0,177556.0,29.8
+2019,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,104.0,177556.0,58.6
+2019,Utah,49,"Washington County, UT",49053,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,11.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,29.0,177556.0,16.3
+2019,Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,57.0,177556.0,32.1
+2019,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,38.0,177556.0,21.4
+2019,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Congestive heart failure,I50.0,46.0,177556.0,25.9
+2019,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,17.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,40.0,177556.0,22.5
+2019,Utah,49,"Washington County, UT",49053,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,19.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,47.0,177556.0,26.5
+2019,Utah,49,"Washington County, UT",49053,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Renal failure,"Chronic renal failure, unspecified",N18.9,10.0,177556.0,Unreliable
+2019,Utah,49,"Washington County, UT",49053,Renal failure,Unspecified renal failure,N19,11.0,177556.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Sepsis,"Septicaemia, unspecified",A41.9,15.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,23.0,260213.0,8.8
+2019,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,11.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,21.0,260213.0,8.1
+2019,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,43.0,260213.0,16.5
+2019,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,24.0,260213.0,9.2
+2019,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm of prostate,C61,30.0,260213.0,11.5
+2019,Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,13.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,34.0,260213.0,13.1
+2019,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,Unspecified dementia,F03,56.0,260213.0,21.5
+2019,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,89.0,260213.0,34.2
+2019,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Essential (primary) hypertension,I10,11.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,27.0,260213.0,10.4
+2019,Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,63.0,260213.0,24.2
+2019,Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,21.0,260213.0,8.1
+2019,Utah,49,"Weber County, UT",49057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,57.0,260213.0,21.9
+2019,Utah,49,"Weber County, UT",49057,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,17.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,15.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,21.0,260213.0,8.1
+2019,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Congestive heart failure,I50.0,91.0,260213.0,35.0
+2019,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,14.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,12.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,42.0,260213.0,16.1
+2019,Utah,49,"Weber County, UT",49057,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,21.0,260213.0,8.1
+2019,Utah,49,"Weber County, UT",49057,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,13.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,79.0,260213.0,30.4
+2019,Utah,49,"Weber County, UT",49057,Renal failure,"Chronic kidney disease, stage 5",N18.5,13.0,260213.0,Unreliable
+2019,Utah,49,"Weber County, UT",49057,Renal failure,"Chronic renal failure, unspecified",N18.9,20.0,260213.0,7.7
+2020,Utah,49,"Box Elder County, UT",49003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,57007.0,Unreliable
+2020,Utah,49,"Box Elder County, UT",49003,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,57007.0,Unreliable
+2020,Utah,49,"Box Elder County, UT",49003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,28.0,57007.0,49.1
+2020,Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,57007.0,45.6
+2020,Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,57007.0,Unreliable
+2020,Utah,49,"Box Elder County, UT",49003,Other diseases of the circulatory system,Congestive heart failure,I50.0,28.0,57007.0,49.1
+2020,Utah,49,"Box Elder County, UT",49003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,57007.0,Unreliable
+2020,Utah,49,"Box Elder County, UT",49003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,57007.0,Unreliable
+2020,Utah,49,"Cache County, UT",49005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,130004.0,Unreliable
+2020,Utah,49,"Cache County, UT",49005,Malignant neoplasms,Malignant neoplasm of prostate,C61,12.0,130004.0,Unreliable
+2020,Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,Unspecified dementia,F03,33.0,130004.0,25.4
+2020,Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,57.0,130004.0,43.8
+2020,Utah,49,"Cache County, UT",49005,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,130004.0,Unreliable
+2020,Utah,49,"Cache County, UT",49005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,130004.0,Unreliable
+2020,Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,13.0,130004.0,Unreliable
+2020,Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,130004.0,Unreliable
+2020,Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,27.0,130004.0,20.8
+2020,Utah,49,"Cache County, UT",49005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,130004.0,Unreliable
+2020,Utah,49,"Carbon County, UT",49007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,20760.0,Unreliable
+2020,Utah,49,"Carbon County, UT",49007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,36.0,20760.0,173.4
+2020,Utah,49,"Carbon County, UT",49007,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,20760.0,Unreliable
+2020,Utah,49,"Carbon County, UT",49007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,20760.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Sepsis,"Septicaemia, unspecified",A41.9,22.0,359232.0,6.1
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,30.0,359232.0,8.4
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,10.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,31.0,359232.0,8.6
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,49.0,359232.0,13.6
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,33.0,359232.0,9.2
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm of ovary,C56,11.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm of prostate,C61,24.0,359232.0,6.7
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,13.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,12.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,17.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,11.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,13.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,14.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,15.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,26.0,359232.0,7.2
+2020,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,Unspecified dementia,F03,50.0,359232.0,13.9
+2020,Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,127.0,359232.0,35.4
+2020,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Essential (primary) hypertension,I10,17.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,19.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,16.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,10.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,41.0,359232.0,11.4
+2020,Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,41.0,359232.0,11.4
+2020,Utah,49,"Davis County, UT",49011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,84.0,359232.0,23.4
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,19.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,11.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,11.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,10.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,21.0,359232.0,5.8
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Congestive heart failure,I50.0,107.0,359232.0,29.8
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,12.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,13.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,35.0,359232.0,9.7
+2020,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,11.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,15.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,22.0,359232.0,6.1
+2020,Utah,49,"Davis County, UT",49011,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,79.0,359232.0,22.0
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,19.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Renal failure,"Chronic renal failure, unspecified",N18.9,18.0,359232.0,Unreliable
+2020,Utah,49,"Davis County, UT",49011,Renal failure,Unspecified renal failure,N19,11.0,359232.0,Unreliable
+2020,Utah,49,"Duchesne County, UT",49013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,19894.0,Unreliable
+2020,Utah,49,"Emery County, UT",49015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,16.0,10147.0,Unreliable
+2020,Utah,49,"Iron County, UT",49021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,56814.0,Unreliable
+2020,Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,56814.0,Unreliable
+2020,Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,52.0,56814.0,91.5
+2020,Utah,49,"Iron County, UT",49021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,56814.0,Unreliable
+2020,Utah,49,"Iron County, UT",49021,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,56814.0,Unreliable
+2020,Utah,49,"Iron County, UT",49021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,56814.0,Unreliable
+2020,Utah,49,"Iron County, UT",49021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,56814.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Sepsis,"Septicaemia, unspecified",A41.9,55.0,1165517.0,4.7
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,26.0,1165517.0,2.2
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,22.0,1165517.0,1.9
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,55.0,1165517.0,4.7
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,16.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of rectum,C20,23.0,1165517.0,2.0
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,32.0,1165517.0,2.7
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,21.0,1165517.0,1.8
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,104.0,1165517.0,8.9
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,175.0,1165517.0,15.0
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,25.0,1165517.0,2.1
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,11.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,105.0,1165517.0,9.0
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,18.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,11.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,10.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of ovary,C56,42.0,1165517.0,3.6
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of prostate,C61,88.0,1165517.0,7.6
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,34.0,1165517.0,2.9
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,28.0,1165517.0,2.4
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,45.0,1165517.0,3.9
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm without specification of site,C80,67.0,1165517.0,5.7
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,11.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,21.0,1165517.0,1.8
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,24.0,1165517.0,2.1
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,18.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,23.0,1165517.0,2.0
+2020,Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,13.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Insulin-dependent diabetes mellitus, with renal complications",E10.2,11.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,43.0,1165517.0,3.7
+2020,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,51.0,1165517.0,4.4
+2020,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,73.0,1165517.0,6.3
+2020,Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,75.0,1165517.0,6.4
+2020,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,79.0,1165517.0,6.8
+2020,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Unspecified dementia,F03,230.0,1165517.0,19.7
+2020,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,13.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,347.0,1165517.0,29.8
+2020,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Circumscribed brain atrophy,G31.0,12.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,51.0,1165517.0,4.4
+2020,Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,32.0,1165517.0,2.7
+2020,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Essential (primary) hypertension,I10,51.0,1165517.0,4.4
+2020,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,70.0,1165517.0,6.0
+2020,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,64.0,1165517.0,5.5
+2020,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,36.0,1165517.0,3.1
+2020,Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,18.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,163.0,1165517.0,14.0
+2020,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,163.0,1165517.0,14.0
+2020,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,299.0,1165517.0,25.7
+2020,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,25.0,1165517.0,2.1
+2020,Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,17.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,38.0,1165517.0,3.3
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,28.0,1165517.0,2.4
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,27.0,1165517.0,2.3
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,18.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,56.0,1165517.0,4.8
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,67.0,1165517.0,5.7
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Congestive heart failure,I50.0,231.0,1165517.0,19.8
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,61.0,1165517.0,5.2
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,28.0,1165517.0,2.4
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,21.0,1165517.0,1.8
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,11.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,20.0,1165517.0,1.7
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,11.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,17.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,133.0,1165517.0,11.4
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,23.0,1165517.0,2.0
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,33.0,1165517.0,2.8
+2020,Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,25.0,1165517.0,2.1
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,13.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,10.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,50.0,1165517.0,4.3
+2020,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,18.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,40.0,1165517.0,3.4
+2020,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,260.0,1165517.0,22.3
+2020,Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,13.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,32.0,1165517.0,2.7
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,23.0,1165517.0,2.0
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,26.0,1165517.0,2.2
+2020,Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Chronic respiratory failure,J96.1,21.0,1165517.0,1.8
+2020,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Acute renal failure, unspecified",N17.9,11.0,1165517.0,Unreliable
+2020,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic kidney disease, stage 5",N18.5,34.0,1165517.0,2.9
+2020,Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic renal failure, unspecified",N18.9,25.0,1165517.0,2.1
+2020,Utah,49,"Salt Lake County, UT",49035,Renal failure,Unspecified renal failure,N19,16.0,1165517.0,Unreliable
+2020,Utah,49,"Sanpete County, UT",49039,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,31393.0,Unreliable
+2020,Utah,49,"Sanpete County, UT",49039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,31393.0,Unreliable
+2020,Utah,49,"Sevier County, UT",49041,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,21780.0,Unreliable
+2020,Utah,49,"Sevier County, UT",49041,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,21780.0,Unreliable
+2020,Utah,49,"Sevier County, UT",49041,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,21780.0,Unreliable
+2020,Utah,49,"Tooele County, UT",49045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,24.0,74512.0,32.2
+2020,Utah,49,"Tooele County, UT",49045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,74512.0,Unreliable
+2020,Utah,49,"Tooele County, UT",49045,Other diseases of the circulatory system,Congestive heart failure,I50.0,19.0,74512.0,Unreliable
+2020,Utah,49,"Tooele County, UT",49045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,25.0,74512.0,33.6
+2020,Utah,49,"Uintah County, UT",49047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,35970.0,Unreliable
+2020,Utah,49,"Uintah County, UT",49047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,35970.0,Unreliable
+2020,Utah,49,"Uintah County, UT",49047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,35970.0,Unreliable
+2020,Utah,49,"Uintah County, UT",49047,Other diseases of the circulatory system,Congestive heart failure,I50.0,18.0,35970.0,Unreliable
+2020,Utah,49,"Uintah County, UT",49047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,35970.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Sepsis,"Septicaemia, unspecified",A41.9,36.0,651059.0,5.5
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,38.0,651059.0,5.8
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,47.0,651059.0,7.2
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,37.0,651059.0,5.7
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,13.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,42.0,651059.0,6.5
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm of prostate,C61,46.0,651059.0,7.1
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,18.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,19.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,20.0,651059.0,3.1
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,15.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,15.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,20.0,651059.0,3.1
+2020,Utah,49,"Utah County, UT",49049,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,17.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,16.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,44.0,651059.0,6.8
+2020,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,22.0,651059.0,3.4
+2020,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,Unspecified dementia,F03,78.0,651059.0,12.0
+2020,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,Alzheimer disease with late onset,G30.1,11.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,158.0,651059.0,24.3
+2020,Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,45.0,651059.0,6.9
+2020,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Essential (primary) hypertension,I10,16.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,25.0,651059.0,3.8
+2020,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,18.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,14.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,10.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,52.0,651059.0,8.0
+2020,Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,36.0,651059.0,5.5
+2020,Utah,49,"Utah County, UT",49049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,126.0,651059.0,19.4
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,24.0,651059.0,3.7
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,15.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,23.0,651059.0,3.5
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,41.0,651059.0,6.3
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Congestive heart failure,I50.0,163.0,651059.0,25.0
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,28.0,651059.0,4.3
+2020,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,10.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,14.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,62.0,651059.0,9.5
+2020,Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,13.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,35.0,651059.0,5.4
+2020,Utah,49,"Utah County, UT",49049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,58.0,651059.0,8.9
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,18.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,14.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,12.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Renal failure,"Chronic kidney disease, stage 5",N18.5,14.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Renal failure,"Chronic renal failure, unspecified",N18.9,15.0,651059.0,Unreliable
+2020,Utah,49,"Utah County, UT",49049,Renal failure,Unspecified renal failure,N19,14.0,651059.0,Unreliable
+2020,Utah,49,"Wasatch County, UT",49051,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,35300.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Sepsis,"Septicaemia, unspecified",A41.9,25.0,184913.0,13.5
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,19.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,30.0,184913.0,16.2
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,38.0,184913.0,20.6
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,30.0,184913.0,16.2
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm of prostate,C61,26.0,184913.0,14.1
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,13.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,16.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,17.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,14.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,Unspecified dementia,F03,58.0,184913.0,31.4
+2020,Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,95.0,184913.0,51.4
+2020,Utah,49,"Washington County, UT",49053,Hypertensive diseases,Essential (primary) hypertension,I10,15.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,30.0,184913.0,16.2
+2020,Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,184913.0,10.8
+2020,Utah,49,"Washington County, UT",49053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,80.0,184913.0,43.3
+2020,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,26.0,184913.0,14.1
+2020,Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Congestive heart failure,I50.0,57.0,184913.0,30.8
+2020,Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,23.0,184913.0,12.4
+2020,Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,38.0,184913.0,20.6
+2020,Utah,49,"Washington County, UT",49053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,63.0,184913.0,34.1
+2020,Utah,49,"Washington County, UT",49053,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,10.0,184913.0,Unreliable
+2020,Utah,49,"Washington County, UT",49053,Renal failure,"Chronic kidney disease, stage 5",N18.5,22.0,184913.0,11.9
+2020,Utah,49,"Washington County, UT",49053,Renal failure,"Chronic renal failure, unspecified",N18.9,19.0,184913.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Sepsis,"Septicaemia, unspecified",A41.9,16.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,22.0,262658.0,8.4
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,40.0,262658.0,15.2
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,29.0,262658.0,11.0
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm of ovary,C56,10.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm of prostate,C61,22.0,262658.0,8.4
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,13.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,11.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,17.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,19.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,18.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,27.0,262658.0,10.3
+2020,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,25.0,262658.0,9.5
+2020,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,Unspecified dementia,F03,46.0,262658.0,17.5
+2020,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,92.0,262658.0,35.0
+2020,Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,14.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,19.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,29.0,262658.0,11.0
+2020,Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,38.0,262658.0,14.5
+2020,Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,61.0,262658.0,23.2
+2020,Utah,49,"Weber County, UT",49057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,76.0,262658.0,28.9
+2020,Utah,49,"Weber County, UT",49057,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,12.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Congestive heart failure,I50.0,80.0,262658.0,30.5
+2020,Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,12.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,41.0,262658.0,15.6
+2020,Utah,49,"Weber County, UT",49057,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,16.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,31.0,262658.0,11.8
+2020,Utah,49,"Weber County, UT",49057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,86.0,262658.0,32.7
+2020,Utah,49,"Weber County, UT",49057,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,14.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,262658.0,Unreliable
+2020,Utah,49,"Weber County, UT",49057,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,57007.0,Unreliable
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,57007.0,Unreliable
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,42.0,57007.0,73.7
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,57007.0,Unreliable
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,57007.0,Unreliable
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,57007.0,Unreliable
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,57007.0,Unreliable
+2021 (provisional),Utah,49,"Box Elder County, UT",49003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,57007.0,Unreliable
+2021 (provisional),Utah,49,"Cache County, UT",49005,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,130004.0,Unreliable
+2021 (provisional),Utah,49,"Cache County, UT",49005,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,130004.0,Unreliable
+2021 (provisional),Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,Unspecified dementia,F03,23.0,130004.0,17.7
+2021 (provisional),Utah,49,"Cache County, UT",49005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,43.0,130004.0,33.1
+2021 (provisional),Utah,49,"Cache County, UT",49005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,130004.0,Unreliable
+2021 (provisional),Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,130004.0,Unreliable
+2021 (provisional),Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,Congestive heart failure,I50.0,33.0,130004.0,25.4
+2021 (provisional),Utah,49,"Cache County, UT",49005,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,28.0,130004.0,21.5
+2021 (provisional),Utah,49,"Cache County, UT",49005,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,130004.0,Unreliable
+2021 (provisional),Utah,49,"Cache County, UT",49005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,130004.0,Unreliable
+2021 (provisional),Utah,49,"Carbon County, UT",49007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,20760.0,Unreliable
+2021 (provisional),Utah,49,"Carbon County, UT",49007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,20760.0,Unreliable
+2021 (provisional),Utah,49,"Carbon County, UT",49007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,26.0,20760.0,125.2
+2021 (provisional),Utah,49,"Carbon County, UT",49007,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,20760.0,Unreliable
+2021 (provisional),Utah,49,"Carbon County, UT",49007,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,20760.0,Unreliable
+2021 (provisional),Utah,49,"Carbon County, UT",49007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,20760.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Sepsis,"Septicaemia, unspecified",A41.9,20.0,359232.0,5.6
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,15.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,29.0,359232.0,8.1
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,54.0,359232.0,15.0
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,32.0,359232.0,8.9
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm of ovary,C56,15.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm of prostate,C61,24.0,359232.0,6.7
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,18.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,Malignant neoplasm without specification of site,C80,17.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,10.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,10.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,13.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,23.0,359232.0,6.4
+2021 (provisional),Utah,49,"Davis County, UT",49011,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,17.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,29.0,359232.0,8.1
+2021 (provisional),Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,33.0,359232.0,9.2
+2021 (provisional),Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,Unspecified dementia,F03,56.0,359232.0,15.6
+2021 (provisional),Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,112.0,359232.0,31.2
+2021 (provisional),Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,29.0,359232.0,8.1
+2021 (provisional),Utah,49,"Davis County, UT",49011,Hypertensive diseases,Essential (primary) hypertension,I10,16.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,12.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,19.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,13.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,52.0,359232.0,14.5
+2021 (provisional),Utah,49,"Davis County, UT",49011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,61.0,359232.0,17.0
+2021 (provisional),Utah,49,"Davis County, UT",49011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,58.0,359232.0,16.1
+2021 (provisional),Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,12.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,14.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,24.0,359232.0,6.7
+2021 (provisional),Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,Congestive heart failure,I50.0,75.0,359232.0,20.9
+2021 (provisional),Utah,49,"Davis County, UT",49011,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,33.0,359232.0,9.2
+2021 (provisional),Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,45.0,359232.0,12.5
+2021 (provisional),Utah,49,"Davis County, UT",49011,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,12.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,15.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,64.0,359232.0,17.8
+2021 (provisional),Utah,49,"Davis County, UT",49011,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,13.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,15.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Renal failure,"Acute renal failure, unspecified",N17.9,11.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Davis County, UT",49011,Renal failure,"Chronic kidney disease, stage 5",N18.5,18.0,359232.0,Unreliable
+2021 (provisional),Utah,49,"Duchesne County, UT",49013,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,19894.0,Unreliable
+2021 (provisional),Utah,49,"Emery County, UT",49015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,10147.0,Unreliable
+2021 (provisional),Utah,49,"Iron County, UT",49021,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,56814.0,Unreliable
+2021 (provisional),Utah,49,"Iron County, UT",49021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,56814.0,Unreliable
+2021 (provisional),Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,56814.0,Unreliable
+2021 (provisional),Utah,49,"Iron County, UT",49021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,28.0,56814.0,49.3
+2021 (provisional),Utah,49,"Iron County, UT",49021,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,56814.0,Unreliable
+2021 (provisional),Utah,49,"Iron County, UT",49021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,56814.0,Unreliable
+2021 (provisional),Utah,49,"Iron County, UT",49021,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,56814.0,Unreliable
+2021 (provisional),Utah,49,"Iron County, UT",49021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,56814.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Sepsis,"Septicaemia, unspecified",A41.9,70.0,1165517.0,6.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,22.0,1165517.0,1.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,22.0,1165517.0,1.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,58.0,1165517.0,5.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of rectosigmoid junction,C19,12.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of rectum,C20,19.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,41.0,1165517.0,3.5
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,16.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,11.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,92.0,1165517.0,7.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,149.0,1165517.0,12.8
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,26.0,1165517.0,2.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,12.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,120.0,1165517.0,10.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,21.0,1165517.0,1.8
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,14.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of ovary,C56,38.0,1165517.0,3.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm of prostate,C61,86.0,1165517.0,7.4
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,23.0,1165517.0,2.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,39.0,1165517.0,3.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,38.0,1165517.0,3.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasm without specification of site,C80,57.0,1165517.0,4.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,10.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,18.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,23.0,1165517.0,2.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Chronic lymphocytic leukaemia - Malignant neoplasms,C91.1,15.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,27.0,1165517.0,2.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,17.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Diabetes,"Insulin-dependent diabetes mellitus, with renal complications",E10.2,11.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Diabetes,"Insulin-dependent diabetes mellitus, without complications",E10.9,16.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,38.0,1165517.0,3.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,80.0,1165517.0,6.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,51.0,1165517.0,4.4
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,69.0,1165517.0,5.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,77.0,1165517.0,6.6
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Unspecified dementia,F03,182.0,1165517.0,15.6
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,305.0,1165517.0,26.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Circumscribed brain atrophy,G31.0,26.0,1165517.0,2.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,82.0,1165517.0,7.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,28.0,1165517.0,2.4
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Degenerative disease of nervous system, unspecified",G31.9,17.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Essential (primary) hypertension,I10,49.0,1165517.0,4.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,72.0,1165517.0,6.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,67.0,1165517.0,5.7
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,40.0,1165517.0,3.4
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,19.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,14.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,161.0,1165517.0,13.8
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,154.0,1165517.0,13.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,304.0,1165517.0,26.1
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,20.0,1165517.0,1.7
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,24.0,1165517.0,2.1
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,53.0,1165517.0,4.5
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,23.0,1165517.0,2.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,25.0,1165517.0,2.1
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,42.0,1165517.0,3.6
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,90.0,1165517.0,7.7
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Congestive heart failure,I50.0,187.0,1165517.0,16.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,73.0,1165517.0,6.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,67.0,1165517.0,5.7
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,21.0,1165517.0,1.8
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,12.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,17.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,125.0,1165517.0,10.7
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,13.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,19.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,31.0,1165517.0,2.7
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,21.0,1165517.0,1.8
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Dissection of aorta [any part],I71.0,12.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,45.0,1165517.0,3.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,24.0,1165517.0,2.1
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,21.0,1165517.0,1.8
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,11.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,227.0,1165517.0,19.5
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,13.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,39.0,1165517.0,3.3
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,28.0,1165517.0,2.4
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,34.0,1165517.0,2.9
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Other diseases of the respiratory system,Chronic respiratory failure,J96.1,20.0,1165517.0,1.7
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Renal failure,"Acute renal failure, unspecified",N17.9,14.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic kidney disease, stage 5",N18.5,49.0,1165517.0,4.2
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Renal failure,"Chronic renal failure, unspecified",N18.9,23.0,1165517.0,2.0
+2021 (provisional),Utah,49,"Salt Lake County, UT",49035,Renal failure,Unspecified renal failure,N19,13.0,1165517.0,Unreliable
+2021 (provisional),Utah,49,"Sanpete County, UT",49039,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,31393.0,Unreliable
+2021 (provisional),Utah,49,"Sanpete County, UT",49039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,31393.0,Unreliable
+2021 (provisional),Utah,49,"Sanpete County, UT",49039,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,31393.0,Unreliable
+2021 (provisional),Utah,49,"Sevier County, UT",49041,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,21780.0,Unreliable
+2021 (provisional),Utah,49,"Tooele County, UT",49045,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,74512.0,Unreliable
+2021 (provisional),Utah,49,"Tooele County, UT",49045,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,74512.0,Unreliable
+2021 (provisional),Utah,49,"Tooele County, UT",49045,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,74512.0,Unreliable
+2021 (provisional),Utah,49,"Tooele County, UT",49045,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,74512.0,Unreliable
+2021 (provisional),Utah,49,"Tooele County, UT",49045,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,74512.0,Unreliable
+2021 (provisional),Utah,49,"Tooele County, UT",49045,Other diseases of the circulatory system,Congestive heart failure,I50.0,22.0,74512.0,29.5
+2021 (provisional),Utah,49,"Tooele County, UT",49045,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,27.0,74512.0,36.2
+2021 (provisional),Utah,49,"Uintah County, UT",49047,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,35970.0,Unreliable
+2021 (provisional),Utah,49,"Uintah County, UT",49047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,35970.0,Unreliable
+2021 (provisional),Utah,49,"Uintah County, UT",49047,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,35970.0,Unreliable
+2021 (provisional),Utah,49,"Uintah County, UT",49047,Other diseases of the circulatory system,Congestive heart failure,I50.0,18.0,35970.0,Unreliable
+2021 (provisional),Utah,49,"Uintah County, UT",49047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,35970.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Sepsis,"Septicaemia, unspecified",A41.9,36.0,651059.0,5.5
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,26.0,651059.0,4.0
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,31.0,651059.0,4.8
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,53.0,651059.0,8.1
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,46.0,651059.0,7.1
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm of ovary,C56,23.0,651059.0,3.5
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm of prostate,C61,41.0,651059.0,6.3
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,19.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,18.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,17.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,18.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,28.0,651059.0,4.3
+2021 (provisional),Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,22.0,651059.0,3.4
+2021 (provisional),Utah,49,"Utah County, UT",49049,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,27.0,651059.0,4.1
+2021 (provisional),Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,19.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,Unspecified dementia,F03,81.0,651059.0,12.4
+2021 (provisional),Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,144.0,651059.0,22.1
+2021 (provisional),Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,55.0,651059.0,8.4
+2021 (provisional),Utah,49,"Utah County, UT",49049,Hypertensive diseases,Essential (primary) hypertension,I10,22.0,651059.0,3.4
+2021 (provisional),Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,24.0,651059.0,3.7
+2021 (provisional),Utah,49,"Utah County, UT",49049,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,22.0,651059.0,3.4
+2021 (provisional),Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,73.0,651059.0,11.2
+2021 (provisional),Utah,49,"Utah County, UT",49049,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,42.0,651059.0,6.5
+2021 (provisional),Utah,49,"Utah County, UT",49049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,119.0,651059.0,18.3
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,20.0,651059.0,3.1
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,13.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,51.0,651059.0,7.8
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Congestive heart failure,I50.0,162.0,651059.0,24.9
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,39.0,651059.0,6.0
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,11.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,64.0,651059.0,9.8
+2021 (provisional),Utah,49,"Utah County, UT",49049,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,11.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,30.0,651059.0,4.6
+2021 (provisional),Utah,49,"Utah County, UT",49049,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,11.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,41.0,651059.0,6.3
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,17.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,12.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,16.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Renal failure,"Chronic kidney disease, stage 5",N18.5,27.0,651059.0,4.1
+2021 (provisional),Utah,49,"Utah County, UT",49049,Renal failure,"Chronic renal failure, unspecified",N18.9,10.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Utah County, UT",49049,Renal failure,Unspecified renal failure,N19,11.0,651059.0,Unreliable
+2021 (provisional),Utah,49,"Wasatch County, UT",49051,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,10.0,35300.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Sepsis,"Septicaemia, unspecified",A41.9,20.0,184913.0,10.8
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,20.0,184913.0,10.8
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,15.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,54.0,184913.0,29.2
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,31.0,184913.0,16.8
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm of ovary,C56,15.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm of prostate,C61,28.0,184913.0,15.1
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,13.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,Malignant neoplasm without specification of site,C80,22.0,184913.0,11.9
+2021 (provisional),Utah,49,"Washington County, UT",49053,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,13.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,12.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,Unspecified dementia,F03,61.0,184913.0,33.0
+2021 (provisional),Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,104.0,184913.0,56.2
+2021 (provisional),Utah,49,"Washington County, UT",49053,Hypertensive diseases,Essential (primary) hypertension,I10,11.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,30.0,184913.0,16.2
+2021 (provisional),Utah,49,"Washington County, UT",49053,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,184913.0,10.8
+2021 (provisional),Utah,49,"Washington County, UT",49053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,68.0,184913.0,36.8
+2021 (provisional),Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,10.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,13.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,Congestive heart failure,I50.0,38.0,184913.0,20.6
+2021 (provisional),Utah,49,"Washington County, UT",49053,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,18.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,13.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,32.0,184913.0,17.3
+2021 (provisional),Utah,49,"Washington County, UT",49053,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,45.0,184913.0,24.3
+2021 (provisional),Utah,49,"Washington County, UT",49053,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,14.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Renal failure,"Chronic kidney disease, stage 5",N18.5,17.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Washington County, UT",49053,Renal failure,"Chronic renal failure, unspecified",N18.9,10.0,184913.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Sepsis,"Septicaemia, unspecified",A41.9,19.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,22.0,262658.0,8.4
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,46.0,262658.0,17.5
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,25.0,262658.0,9.5
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm of prostate,C61,22.0,262658.0,8.4
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,10.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,13.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,19.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,12.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,26.0,262658.0,9.9
+2021 (provisional),Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,27.0,262658.0,10.3
+2021 (provisional),Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,Unspecified dementia,F03,31.0,262658.0,11.8
+2021 (provisional),Utah,49,"Weber County, UT",49057,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,99.0,262658.0,37.7
+2021 (provisional),Utah,49,"Weber County, UT",49057,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,38.0,262658.0,14.5
+2021 (provisional),Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,56.0,262658.0,21.3
+2021 (provisional),Utah,49,"Weber County, UT",49057,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,51.0,262658.0,19.4
+2021 (provisional),Utah,49,"Weber County, UT",49057,Ischemic heart disease,Atherosclerotic heart disease,I25.1,73.0,262658.0,27.8
+2021 (provisional),Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,14.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,Congestive heart failure,I50.0,78.0,262658.0,29.7
+2021 (provisional),Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,18.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,18.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,37.0,262658.0,14.1
+2021 (provisional),Utah,49,"Weber County, UT",49057,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,83.0,262658.0,31.6
+2021 (provisional),Utah,49,"Weber County, UT",49057,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,14.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,15.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Renal failure,"Chronic kidney disease, stage 5",N18.5,12.0,262658.0,Unreliable
+2021 (provisional),Utah,49,"Weber County, UT",49057,Renal failure,"Chronic renal failure, unspecified",N18.9,10.0,262658.0,Unreliable
+2022 (provisional and partial),Utah,49,"Davis County, UT",49011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,359232.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,48.0,1165517.0,4.1
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,10.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,16.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,1165517.0,2.4
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Salt Lake County, UT",49035,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,1165517.0,Unreliable
+2022 (provisional and partial),Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,651059.0,Unreliable
+2022 (provisional and partial),Utah,49,"Utah County, UT",49049,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,651059.0,Unreliable
+2022 (provisional and partial),Utah,49,"Utah County, UT",49049,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,651059.0,Unreliable
+2022 (provisional and partial),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,651059.0,Unreliable
+2022 (provisional and partial),Utah,49,"Utah County, UT",49049,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,651059.0,Unreliable
+2022 (provisional and partial),Utah,49,"Washington County, UT",49053,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,184913.0,Unreliable
+2022 (provisional and partial),Utah,49,"Washington County, UT",49053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,184913.0,Unreliable
+2022 (provisional and partial),Utah,49,"Weber County, UT",49057,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,262658.0,Unreliable

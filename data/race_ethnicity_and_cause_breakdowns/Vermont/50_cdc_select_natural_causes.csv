@@ -1,0 +1,396 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Vermont,50,"Addison County, VT",50001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,36973.0,64.9
+2018,Vermont,50,"Addison County, VT",50001,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,36973.0,Unreliable
+2018,Vermont,50,"Addison County, VT",50001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,36973.0,56.8
+2018,Vermont,50,"Addison County, VT",50001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,36973.0,Unreliable
+2018,Vermont,50,"Addison County, VT",50001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,36973.0,62.2
+2018,Vermont,50,"Addison County, VT",50001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,36973.0,Unreliable
+2018,Vermont,50,"Bennington County, VT",50003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,35631.0,Unreliable
+2018,Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,Unspecified dementia,F03,35.0,35631.0,98.2
+2018,Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,35631.0,56.1
+2018,Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,31.0,35631.0,87.0
+2018,Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,35631.0,67.4
+2018,Vermont,50,"Bennington County, VT",50003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,25.0,35631.0,70.2
+2018,Vermont,50,"Caledonia County, VT",50005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,30302.0,Unreliable
+2018,Vermont,50,"Caledonia County, VT",50005,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,30302.0,Unreliable
+2018,Vermont,50,"Caledonia County, VT",50005,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,10.0,30302.0,Unreliable
+2018,Vermont,50,"Caledonia County, VT",50005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,21.0,30302.0,69.3
+2018,Vermont,50,"Caledonia County, VT",50005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,30302.0,Unreliable
+2018,Vermont,50,"Caledonia County, VT",50005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,30302.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,14.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,36.0,164572.0,21.9
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,49.0,164572.0,29.8
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,16.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,10.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm of prostate,C61,21.0,164572.0,12.8
+2018,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,23.0,164572.0,14.0
+2018,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,Unspecified dementia,F03,32.0,164572.0,19.4
+2018,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,89.0,164572.0,54.1
+2018,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,15.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,17.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,164572.0,12.8
+2018,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,46.0,164572.0,28.0
+2018,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,51.0,164572.0,31.0
+2018,Vermont,50,"Chittenden County, VT",50007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,18.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,16.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,10.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,10.0,164572.0,Unreliable
+2018,Vermont,50,"Chittenden County, VT",50007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,164572.0,12.8
+2018,Vermont,50,"Franklin County, VT",50011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,49421.0,50.6
+2018,Vermont,50,"Franklin County, VT",50011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,49421.0,Unreliable
+2018,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,49421.0,Unreliable
+2018,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,32.0,49421.0,64.7
+2018,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,49421.0,46.5
+2018,Vermont,50,"Franklin County, VT",50011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,49421.0,Unreliable
+2018,Vermont,50,"Lamoille County, VT",50015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,25300.0,Unreliable
+2018,Vermont,50,"Orange County, VT",50017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,28999.0,69.0
+2018,Vermont,50,"Orange County, VT",50017,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,28999.0,Unreliable
+2018,Vermont,50,"Orange County, VT",50017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,28999.0,Unreliable
+2018,Vermont,50,"Orange County, VT",50017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,19.0,28999.0,Unreliable
+2018,Vermont,50,"Orange County, VT",50017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,28999.0,Unreliable
+2018,Vermont,50,"Orange County, VT",50017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,28999.0,Unreliable
+2018,Vermont,50,"Orleans County, VT",50019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,26907.0,Unreliable
+2018,Vermont,50,"Orleans County, VT",50019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,26907.0,Unreliable
+2018,Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,26907.0,Unreliable
+2018,Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,26907.0,Unreliable
+2018,Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,26907.0,Unreliable
+2018,Vermont,50,"Orleans County, VT",50019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,26907.0,Unreliable
+2018,Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,43.0,58672.0,73.3
+2018,Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,16.0,58672.0,Unreliable
+2018,Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,Unspecified dementia,F03,41.0,58672.0,69.9
+2018,Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,42.0,58672.0,71.6
+2018,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,58672.0,Unreliable
+2018,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,84.0,58672.0,143.2
+2018,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,58672.0,Unreliable
+2018,Vermont,50,"Rutland County, VT",50021,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,12.0,58672.0,Unreliable
+2018,Vermont,50,"Rutland County, VT",50021,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,58672.0,Unreliable
+2018,Vermont,50,"Rutland County, VT",50021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,58672.0,Unreliable
+2018,Vermont,50,"Rutland County, VT",50021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,36.0,58672.0,61.4
+2018,Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,25.0,58140.0,43.0
+2018,Vermont,50,"Washington County, VT",50023,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,58140.0,Unreliable
+2018,Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,58140.0,Unreliable
+2018,Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,28.0,58140.0,48.2
+2018,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,58140.0,Unreliable
+2018,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,41.0,58140.0,70.5
+2018,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,58140.0,41.3
+2018,Vermont,50,"Washington County, VT",50023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,25.0,58140.0,43.0
+2018,Vermont,50,"Windham County, VT",50025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,42756.0,Unreliable
+2018,Vermont,50,"Windham County, VT",50025,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,12.0,42756.0,Unreliable
+2018,Vermont,50,"Windham County, VT",50025,Alzheimer disease and dementia,Unspecified dementia,F03,26.0,42756.0,60.8
+2018,Vermont,50,"Windham County, VT",50025,Hypertensive diseases,Essential (primary) hypertension,I10,10.0,42756.0,Unreliable
+2018,Vermont,50,"Windham County, VT",50025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,36.0,42756.0,84.2
+2018,Vermont,50,"Windham County, VT",50025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,42756.0,Unreliable
+2018,Vermont,50,"Windham County, VT",50025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,42756.0,Unreliable
+2018,Vermont,50,"Windham County, VT",50025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,42756.0,46.8
+2018,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,55286.0,Unreliable
+2018,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,55286.0,52.5
+2018,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,55286.0,Unreliable
+2018,Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,55286.0,50.6
+2018,Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,41.0,55286.0,74.2
+2018,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,55286.0,Unreliable
+2018,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,36.0,55286.0,65.1
+2018,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,55286.0,54.3
+2018,Vermont,50,"Windsor County, VT",50027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,55286.0,Unreliable
+2018,Vermont,50,"Windsor County, VT",50027,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,55286.0,Unreliable
+2019,Vermont,50,"Addison County, VT",50001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,36777.0,Unreliable
+2019,Vermont,50,"Addison County, VT",50001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,36777.0,Unreliable
+2019,Vermont,50,"Addison County, VT",50001,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,36777.0,Unreliable
+2019,Vermont,50,"Addison County, VT",50001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,36777.0,Unreliable
+2019,Vermont,50,"Addison County, VT",50001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,36777.0,Unreliable
+2019,Vermont,50,"Addison County, VT",50001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,36777.0,59.8
+2019,Vermont,50,"Addison County, VT",50001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,36777.0,Unreliable
+2019,Vermont,50,"Addison County, VT",50001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,36777.0,Unreliable
+2019,Vermont,50,"Bennington County, VT",50003,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,12.0,35470.0,Unreliable
+2019,Vermont,50,"Bennington County, VT",50003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,35470.0,Unreliable
+2019,Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,35470.0,62.0
+2019,Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,35470.0,62.0
+2019,Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,31.0,35470.0,87.4
+2019,Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,35470.0,87.4
+2019,Vermont,50,"Bennington County, VT",50003,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,35470.0,Unreliable
+2019,Vermont,50,"Bennington County, VT",50003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,35470.0,73.3
+2019,Vermont,50,"Caledonia County, VT",50005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,29993.0,Unreliable
+2019,Vermont,50,"Caledonia County, VT",50005,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,29993.0,Unreliable
+2019,Vermont,50,"Caledonia County, VT",50005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,21.0,29993.0,70.0
+2019,Vermont,50,"Caledonia County, VT",50005,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,29993.0,Unreliable
+2019,Vermont,50,"Caledonia County, VT",50005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,29993.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,12.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,26.0,163774.0,15.9
+2019,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,72.0,163774.0,44.0
+2019,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,22.0,163774.0,13.4
+2019,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm of prostate,C61,17.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,17.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,163774.0,13.4
+2019,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,96.0,163774.0,58.6
+2019,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Essential (primary) hypertension,I10,14.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,17.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,17.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,81.0,163774.0,49.5
+2019,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,44.0,163774.0,26.9
+2019,Vermont,50,"Chittenden County, VT",50007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Cerebrovascular diseases,Cerebral atherosclerosis,I67.2,11.0,163774.0,Unreliable
+2019,Vermont,50,"Chittenden County, VT",50007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,163774.0,15.9
+2019,Vermont,50,"Chittenden County, VT",50007,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,10.0,163774.0,Unreliable
+2019,Vermont,50,"Essex County, VT",50009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,6163.0,Unreliable
+2019,Vermont,50,"Franklin County, VT",50011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,49402.0,48.6
+2019,Vermont,50,"Franklin County, VT",50011,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,49402.0,Unreliable
+2019,Vermont,50,"Franklin County, VT",50011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,49402.0,Unreliable
+2019,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,21.0,49402.0,42.5
+2019,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,38.0,49402.0,76.9
+2019,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,49402.0,52.6
+2019,Vermont,50,"Franklin County, VT",50011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,49402.0,Unreliable
+2019,Vermont,50,"Lamoille County, VT",50015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,25362.0,Unreliable
+2019,Vermont,50,"Lamoille County, VT",50015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,16.0,25362.0,Unreliable
+2019,Vermont,50,"Lamoille County, VT",50015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,25362.0,Unreliable
+2019,Vermont,50,"Orange County, VT",50017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,28892.0,Unreliable
+2019,Vermont,50,"Orange County, VT",50017,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,28892.0,Unreliable
+2019,Vermont,50,"Orange County, VT",50017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,28892.0,Unreliable
+2019,Vermont,50,"Orange County, VT",50017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,32.0,28892.0,110.8
+2019,Vermont,50,"Orange County, VT",50017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,28892.0,Unreliable
+2019,Vermont,50,"Orleans County, VT",50019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,27037.0,Unreliable
+2019,Vermont,50,"Orleans County, VT",50019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,27037.0,Unreliable
+2019,Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,27.0,27037.0,99.9
+2019,Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,27037.0,Unreliable
+2019,Vermont,50,"Orleans County, VT",50019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,27037.0,Unreliable
+2019,Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,58191.0,Unreliable
+2019,Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,29.0,58191.0,49.8
+2019,Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,58191.0,Unreliable
+2019,Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,58191.0,43.0
+2019,Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,45.0,58191.0,77.3
+2019,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,66.0,58191.0,113.4
+2019,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,58191.0,Unreliable
+2019,Vermont,50,"Rutland County, VT",50021,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,16.0,58191.0,Unreliable
+2019,Vermont,50,"Rutland County, VT",50021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,58191.0,Unreliable
+2019,Vermont,50,"Rutland County, VT",50021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,32.0,58191.0,55.0
+2019,Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,10.0,58409.0,Unreliable
+2019,Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,58409.0,Unreliable
+2019,Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,31.0,58409.0,53.1
+2019,Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,58409.0,Unreliable
+2019,Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,28.0,58409.0,47.9
+2019,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,58409.0,Unreliable
+2019,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,35.0,58409.0,59.9
+2019,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,58409.0,Unreliable
+2019,Vermont,50,"Washington County, VT",50023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,58409.0,Unreliable
+2019,Vermont,50,"Windham County, VT",50025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,42222.0,Unreliable
+2019,Vermont,50,"Windham County, VT",50025,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,42222.0,Unreliable
+2019,Vermont,50,"Windham County, VT",50025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,42222.0,Unreliable
+2019,Vermont,50,"Windham County, VT",50025,Hypertensive diseases,Essential (primary) hypertension,I10,14.0,42222.0,Unreliable
+2019,Vermont,50,"Windham County, VT",50025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,29.0,42222.0,68.7
+2019,Vermont,50,"Windham County, VT",50025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,42222.0,Unreliable
+2019,Vermont,50,"Windham County, VT",50025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,42222.0,Unreliable
+2019,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,33.0,55062.0,59.9
+2019,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,55062.0,Unreliable
+2019,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,55062.0,Unreliable
+2019,Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,55062.0,40.0
+2019,Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,55062.0,36.3
+2019,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,55062.0,Unreliable
+2019,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,39.0,55062.0,70.8
+2019,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,55062.0,49.0
+2019,Vermont,50,"Windsor County, VT",50027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,55062.0,Unreliable
+2019,Vermont,50,"Windsor County, VT",50027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,55062.0,41.8
+2020,Vermont,50,"Addison County, VT",50001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,36851.0,Unreliable
+2020,Vermont,50,"Addison County, VT",50001,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,36851.0,Unreliable
+2020,Vermont,50,"Addison County, VT",50001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,36851.0,Unreliable
+2020,Vermont,50,"Addison County, VT",50001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,39.0,36851.0,105.8
+2020,Vermont,50,"Addison County, VT",50001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,36851.0,Unreliable
+2020,Vermont,50,"Addison County, VT",50001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,36851.0,Unreliable
+2020,Vermont,50,"Bennington County, VT",50003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,35338.0,67.9
+2020,Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,Unspecified dementia,F03,22.0,35338.0,62.3
+2020,Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,25.0,35338.0,70.7
+2020,Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,38.0,35338.0,107.5
+2020,Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,31.0,35338.0,87.7
+2020,Vermont,50,"Bennington County, VT",50003,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,10.0,35338.0,Unreliable
+2020,Vermont,50,"Bennington County, VT",50003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,35338.0,59.4
+2020,Vermont,50,"Caledonia County, VT",50005,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,29705.0,Unreliable
+2020,Vermont,50,"Caledonia County, VT",50005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,29705.0,Unreliable
+2020,Vermont,50,"Caledonia County, VT",50005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,29705.0,74.1
+2020,Vermont,50,"Caledonia County, VT",50005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,29705.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,15.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,47.0,164306.0,28.6
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,20.0,164306.0,12.2
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm of ovary,C56,12.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm of prostate,C61,16.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,16.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,Unspecified dementia,F03,35.0,164306.0,21.3
+2020,Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,72.0,164306.0,43.8
+2020,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,26.0,164306.0,15.8
+2020,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,12.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,85.0,164306.0,51.7
+2020,Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,60.0,164306.0,36.5
+2020,Vermont,50,"Chittenden County, VT",50007,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,11.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,164306.0,Unreliable
+2020,Vermont,50,"Chittenden County, VT",50007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,164306.0,12.8
+2020,Vermont,50,"Chittenden County, VT",50007,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,12.0,164306.0,Unreliable
+2020,Vermont,50,"Essex County, VT",50009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,6123.0,Unreliable
+2020,Vermont,50,"Franklin County, VT",50011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,32.0,49685.0,64.4
+2020,Vermont,50,"Franklin County, VT",50011,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,49685.0,Unreliable
+2020,Vermont,50,"Franklin County, VT",50011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,49685.0,Unreliable
+2020,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,49685.0,Unreliable
+2020,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,20.0,49685.0,40.3
+2020,Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,49685.0,Unreliable
+2020,Vermont,50,"Franklin County, VT",50011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,49685.0,Unreliable
+2020,Vermont,50,"Lamoille County, VT",50015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,25341.0,Unreliable
+2020,Vermont,50,"Lamoille County, VT",50015,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,25341.0,Unreliable
+2020,Vermont,50,"Lamoille County, VT",50015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,18.0,25341.0,Unreliable
+2020,Vermont,50,"Lamoille County, VT",50015,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,25341.0,Unreliable
+2020,Vermont,50,"Lamoille County, VT",50015,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,25341.0,Unreliable
+2020,Vermont,50,"Orange County, VT",50017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,28837.0,Unreliable
+2020,Vermont,50,"Orange County, VT",50017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,25.0,28837.0,86.7
+2020,Vermont,50,"Orange County, VT",50017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,28837.0,Unreliable
+2020,Vermont,50,"Orange County, VT",50017,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,28837.0,Unreliable
+2020,Vermont,50,"Orleans County, VT",50019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,26897.0,Unreliable
+2020,Vermont,50,"Orleans County, VT",50019,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,26897.0,Unreliable
+2020,Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,41.0,26897.0,152.4
+2020,Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,26897.0,Unreliable
+2020,Vermont,50,"Orleans County, VT",50019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,26897.0,Unreliable
+2020,Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,57764.0,41.5
+2020,Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,57764.0,Unreliable
+2020,Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,Unspecified dementia,F03,40.0,57764.0,69.2
+2020,Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,28.0,57764.0,48.5
+2020,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,57764.0,Unreliable
+2020,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,103.0,57764.0,178.3
+2020,Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,57764.0,48.5
+2020,Vermont,50,"Rutland County, VT",50021,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,57764.0,Unreliable
+2020,Vermont,50,"Rutland County, VT",50021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,57764.0,Unreliable
+2020,Vermont,50,"Rutland County, VT",50021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,57764.0,45.0
+2020,Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,11.0,58328.0,Unreliable
+2020,Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,39.0,58328.0,66.9
+2020,Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,58328.0,36.0
+2020,Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,26.0,58328.0,44.6
+2020,Vermont,50,"Washington County, VT",50023,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,58328.0,Unreliable
+2020,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,58328.0,Unreliable
+2020,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,47.0,58328.0,80.6
+2020,Vermont,50,"Washington County, VT",50023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,35.0,58328.0,60.0
+2020,Vermont,50,"Washington County, VT",50023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,58328.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,42015.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,42015.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,42015.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,42015.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,42015.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,38.0,42015.0,90.4
+2020,Vermont,50,"Windham County, VT",50025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,42015.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,42015.0,Unreliable
+2020,Vermont,50,"Windham County, VT",50025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,42015.0,Unreliable
+2020,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,54988.0,Unreliable
+2020,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,15.0,54988.0,Unreliable
+2020,Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,27.0,54988.0,49.1
+2020,Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,54988.0,Unreliable
+2020,Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,54988.0,41.8
+2020,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,54988.0,36.4
+2020,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,56.0,54988.0,101.8
+2020,Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,33.0,54988.0,60.0
+2020,Vermont,50,"Windsor County, VT",50027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,54988.0,Unreliable
+2020,Vermont,50,"Windsor County, VT",50027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,54988.0,Unreliable
+2021 (provisional),Vermont,50,"Addison County, VT",50001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,36851.0,Unreliable
+2021 (provisional),Vermont,50,"Addison County, VT",50001,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,36851.0,Unreliable
+2021 (provisional),Vermont,50,"Addison County, VT",50001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,23.0,36851.0,62.4
+2021 (provisional),Vermont,50,"Addison County, VT",50001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,29.0,36851.0,78.7
+2021 (provisional),Vermont,50,"Addison County, VT",50001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,36851.0,Unreliable
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,35338.0,Unreliable
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,35338.0,Unreliable
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,35338.0,Unreliable
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,31.0,35338.0,87.7
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,35338.0,Unreliable
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,54.0,35338.0,152.8
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,Atherosclerotic heart disease,I25.1,23.0,35338.0,65.1
+2021 (provisional),Vermont,50,"Bennington County, VT",50003,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,22.0,35338.0,62.3
+2021 (provisional),Vermont,50,"Caledonia County, VT",50005,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,29705.0,70.7
+2021 (provisional),Vermont,50,"Caledonia County, VT",50005,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,29705.0,Unreliable
+2021 (provisional),Vermont,50,"Caledonia County, VT",50005,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,29705.0,Unreliable
+2021 (provisional),Vermont,50,"Caledonia County, VT",50005,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,22.0,29705.0,74.1
+2021 (provisional),Vermont,50,"Caledonia County, VT",50005,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,29705.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,15.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,28.0,164306.0,17.0
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,55.0,164306.0,33.5
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,13.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm of prostate,C61,16.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,12.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Malignant neoplasms,Malignant neoplasm without specification of site,C80,15.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,19.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,Unspecified dementia,F03,37.0,164306.0,22.5
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,76.0,164306.0,46.3
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,20.0,164306.0,12.2
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,22.0,164306.0,13.4
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,83.0,164306.0,50.5
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,54.0,164306.0,32.9
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,16.0,164306.0,Unreliable
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,20.0,164306.0,12.2
+2021 (provisional),Vermont,50,"Chittenden County, VT",50007,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,30.0,164306.0,18.3
+2021 (provisional),Vermont,50,"Essex County, VT",50009,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,15.0,6123.0,Unreliable
+2021 (provisional),Vermont,50,"Franklin County, VT",50011,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,49685.0,40.3
+2021 (provisional),Vermont,50,"Franklin County, VT",50011,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,49685.0,Unreliable
+2021 (provisional),Vermont,50,"Franklin County, VT",50011,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,49685.0,Unreliable
+2021 (provisional),Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,28.0,49685.0,56.4
+2021 (provisional),Vermont,50,"Franklin County, VT",50011,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,49685.0,56.4
+2021 (provisional),Vermont,50,"Franklin County, VT",50011,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,49685.0,Unreliable
+2021 (provisional),Vermont,50,"Lamoille County, VT",50015,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,14.0,25341.0,Unreliable
+2021 (provisional),Vermont,50,"Lamoille County, VT",50015,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,23.0,25341.0,90.8
+2021 (provisional),Vermont,50,"Orange County, VT",50017,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,28837.0,Unreliable
+2021 (provisional),Vermont,50,"Orange County, VT",50017,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,28837.0,Unreliable
+2021 (provisional),Vermont,50,"Orange County, VT",50017,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,29.0,28837.0,100.6
+2021 (provisional),Vermont,50,"Orange County, VT",50017,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,28837.0,Unreliable
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,26897.0,Unreliable
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,26897.0,Unreliable
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,26897.0,Unreliable
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,26897.0,Unreliable
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,26897.0,Unreliable
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,47.0,26897.0,174.7
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,26897.0,Unreliable
+2021 (provisional),Vermont,50,"Orleans County, VT",50019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,26897.0,Unreliable
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,57764.0,Unreliable
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,32.0,57764.0,55.4
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Malignant neoplasms,Malignant neoplasm of prostate,C61,11.0,57764.0,Unreliable
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,Unspecified dementia,F03,36.0,57764.0,62.3
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,25.0,57764.0,43.3
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,57764.0,Unreliable
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,88.0,57764.0,152.3
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,57764.0,43.3
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,57764.0,Unreliable
+2021 (provisional),Vermont,50,"Rutland County, VT",50021,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,28.0,57764.0,48.5
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,13.0,58328.0,Unreliable
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,23.0,58328.0,39.4
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,58328.0,Unreliable
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,58328.0,36.0
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,31.0,58328.0,53.1
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,11.0,58328.0,Unreliable
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,58328.0,Unreliable
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,39.0,58328.0,66.9
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,58328.0,51.4
+2021 (provisional),Vermont,50,"Washington County, VT",50023,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,58328.0,Unreliable
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,42015.0,Unreliable
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,21.0,42015.0,50.0
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,42015.0,Unreliable
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,20.0,42015.0,47.6
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,42015.0,Unreliable
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,52.0,42015.0,123.8
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,42015.0,47.6
+2021 (provisional),Vermont,50,"Windham County, VT",50025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,42015.0,Unreliable
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,14.0,54988.0,Unreliable
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,54988.0,36.4
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,54988.0,Unreliable
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,54988.0,38.2
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,34.0,54988.0,61.8
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,54988.0,Unreliable
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,71.0,54988.0,129.1
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Ischemic heart disease,Atherosclerotic heart disease,I25.1,26.0,54988.0,47.3
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,54988.0,Unreliable
+2021 (provisional),Vermont,50,"Windsor County, VT",50027,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,54988.0,Unreliable
+2022 (provisional and partial),Vermont,50,"Bennington County, VT",50003,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,35338.0,Unreliable
+2022 (provisional and partial),Vermont,50,"Chittenden County, VT",50007,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,164306.0,Unreliable
+2022 (provisional and partial),Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,164306.0,Unreliable
+2022 (provisional and partial),Vermont,50,"Chittenden County, VT",50007,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,164306.0,Unreliable
+2022 (provisional and partial),Vermont,50,"Rutland County, VT",50021,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,57764.0,Unreliable
+2022 (provisional and partial),Vermont,50,"Washington County, VT",50023,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,11.0,58328.0,Unreliable
+2022 (provisional and partial),Vermont,50,"Windham County, VT",50025,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,42015.0,Unreliable

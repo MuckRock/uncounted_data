@@ -1,0 +1,925 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Nebraska,31,"Adams County, NE",31001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,31511.0,Unreliable
+2018,Nebraska,31,"Adams County, NE",31001,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,31511.0,Unreliable
+2018,Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,26.0,31511.0,82.5
+2018,Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,31511.0,Unreliable
+2018,Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,31511.0,Unreliable
+2018,Nebraska,31,"Adams County, NE",31001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,19.0,31511.0,Unreliable
+2018,Nebraska,31,"Adams County, NE",31001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,31511.0,Unreliable
+2018,Nebraska,31,"Box Butte County, NE",31013,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,10.0,10772.0,Unreliable
+2018,Nebraska,31,"Buffalo County, NE",31019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,49615.0,Unreliable
+2018,Nebraska,31,"Buffalo County, NE",31019,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,49615.0,Unreliable
+2018,Nebraska,31,"Buffalo County, NE",31019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,49615.0,Unreliable
+2018,Nebraska,31,"Buffalo County, NE",31019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,49615.0,44.3
+2018,Nebraska,31,"Buffalo County, NE",31019,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,49615.0,Unreliable
+2018,Nebraska,31,"Buffalo County, NE",31019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,49615.0,58.5
+2018,Nebraska,31,"Cass County, NE",31025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,26159.0,Unreliable
+2018,Nebraska,31,"Cass County, NE",31025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,26159.0,76.5
+2018,Nebraska,31,"Cass County, NE",31025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,26159.0,Unreliable
+2018,Nebraska,31,"Custer County, NE",31041,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,10840.0,Unreliable
+2018,Nebraska,31,"Custer County, NE",31041,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,10840.0,Unreliable
+2018,Nebraska,31,"Custer County, NE",31041,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,10840.0,Unreliable
+2018,Nebraska,31,"Dakota County, NE",31043,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,20083.0,Unreliable
+2018,Nebraska,31,"Dawson County, NE",31047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,23709.0,Unreliable
+2018,Nebraska,31,"Dawson County, NE",31047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,23709.0,Unreliable
+2018,Nebraska,31,"Dodge County, NE",31053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,36791.0,59.8
+2018,Nebraska,31,"Dodge County, NE",31053,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,36791.0,Unreliable
+2018,Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,Unspecified dementia,F03,29.0,36791.0,78.8
+2018,Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,24.0,36791.0,65.2
+2018,Nebraska,31,"Dodge County, NE",31053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,36791.0,Unreliable
+2018,Nebraska,31,"Dodge County, NE",31053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,36791.0,65.2
+2018,Nebraska,31,"Dodge County, NE",31053,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,36791.0,Unreliable
+2018,Nebraska,31,"Dodge County, NE",31053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,38.0,36791.0,103.3
+2018,Nebraska,31,"Douglas County, NE",31055,Sepsis,"Septicaemia, unspecified",A41.9,45.0,566880.0,7.9
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,22.0,566880.0,3.9
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,61.0,566880.0,10.8
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of rectum,C20,15.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,12.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,77.0,566880.0,13.6
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,203.0,566880.0,35.8
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,14.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,51.0,566880.0,9.0
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,11.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of ovary,C56,18.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of prostate,C61,48.0,566880.0,8.5
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,19.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,23.0,566880.0,4.1
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,27.0,566880.0,4.8
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,41.0,566880.0,7.2
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,11.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,15.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,16.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,26.0,566880.0,4.6
+2018,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,22.0,566880.0,3.9
+2018,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,34.0,566880.0,6.0
+2018,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,78.0,566880.0,13.8
+2018,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,37.0,566880.0,6.5
+2018,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Unspecified dementia,F03,185.0,566880.0,32.6
+2018,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,175.0,566880.0,30.9
+2018,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,31.0,566880.0,5.5
+2018,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,13.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Essential (primary) hypertension,I10,65.0,566880.0,11.5
+2018,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,23.0,566880.0,4.1
+2018,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,23.0,566880.0,4.1
+2018,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,10.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,82.0,566880.0,14.5
+2018,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,12.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,226.0,566880.0,39.9
+2018,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,18.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,15.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,17.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,17.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,20.0,566880.0,3.5
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,20.0,566880.0,3.5
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,13.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,48.0,566880.0,8.5
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiac arrhythmia, unspecified",I49.9,11.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Congestive heart failure,I50.0,75.0,566880.0,13.2
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,40.0,566880.0,7.1
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,42.0,566880.0,7.4
+2018,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,27.0,566880.0,4.8
+2018,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,19.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,71.0,566880.0,12.5
+2018,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,10.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,10.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,58.0,566880.0,10.2
+2018,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,15.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,24.0,566880.0,4.2
+2018,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,212.0,566880.0,37.4
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,36.0,566880.0,6.4
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,27.0,566880.0,4.8
+2018,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,10.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Renal failure,"Chronic kidney disease, stage 5",N18.5,23.0,566880.0,4.1
+2018,Nebraska,31,"Douglas County, NE",31055,Renal failure,"Chronic renal failure, unspecified",N18.9,12.0,566880.0,Unreliable
+2018,Nebraska,31,"Douglas County, NE",31055,Renal failure,Unspecified renal failure,N19,11.0,566880.0,Unreliable
+2018,Nebraska,31,"Gage County, NE",31067,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,21493.0,Unreliable
+2018,Nebraska,31,"Gage County, NE",31067,Alzheimer disease and dementia,Unspecified dementia,F03,13.0,21493.0,Unreliable
+2018,Nebraska,31,"Gage County, NE",31067,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,21493.0,102.4
+2018,Nebraska,31,"Gage County, NE",31067,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,21493.0,Unreliable
+2018,Nebraska,31,"Gage County, NE",31067,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,21493.0,Unreliable
+2018,Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,61607.0,Unreliable
+2018,Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,61607.0,39.0
+2018,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,61607.0,45.4
+2018,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,61607.0,Unreliable
+2018,Nebraska,31,"Hall County, NE",31079,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,27.0,61607.0,43.8
+2018,Nebraska,31,"Hall County, NE",31079,Ischemic heart disease,Atherosclerotic heart disease,I25.1,32.0,61607.0,51.9
+2018,Nebraska,31,"Hall County, NE",31079,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,61607.0,Unreliable
+2018,Nebraska,31,"Hall County, NE",31079,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,61607.0,Unreliable
+2018,Nebraska,31,"Hall County, NE",31079,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,11.0,61607.0,Unreliable
+2018,Nebraska,31,"Hall County, NE",31079,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,61607.0,Unreliable
+2018,Nebraska,31,"Hall County, NE",31079,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,28.0,61607.0,45.4
+2018,Nebraska,31,"Holt County, NE",31089,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,10178.0,Unreliable
+2018,Nebraska,31,"Holt County, NE",31089,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,10178.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Sepsis,"Septicaemia, unspecified",A41.9,21.0,317272.0,6.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,12.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,28.0,317272.0,8.8
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,34.0,317272.0,10.7
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,103.0,317272.0,32.5
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,35.0,317272.0,11.0
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,10.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm of ovary,C56,12.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm of prostate,C61,32.0,317272.0,10.1
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,23.0,317272.0,7.2
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm without specification of site,C80,24.0,317272.0,7.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,11.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,13.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,13.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,11.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,317272.0,6.3
+2018,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,Unspecified dementia,F03,85.0,317272.0,26.8
+2018,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,93.0,317272.0,29.3
+2018,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,40.0,317272.0,12.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Essential (primary) hypertension,I10,21.0,317272.0,6.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,18.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,38.0,317272.0,12.0
+2018,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,17.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Atherosclerotic heart disease,I25.1,121.0,317272.0,38.1
+2018,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,10.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,11.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,18.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,24.0,317272.0,7.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Congestive heart failure,I50.0,50.0,317272.0,15.8
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,21.0,317272.0,6.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,11.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,15.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,13.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,21.0,317272.0,6.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,24.0,317272.0,7.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,12.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,21.0,317272.0,6.6
+2018,Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,130.0,317272.0,41.0
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,30.0,317272.0,9.5
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,12.0,317272.0,Unreliable
+2018,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,20.0,317272.0,6.3
+2018,Nebraska,31,"Lancaster County, NE",31109,Renal failure,"Chronic kidney disease, stage 5",N18.5,10.0,317272.0,Unreliable
+2018,Nebraska,31,"Lincoln County, NE",31111,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,35185.0,Unreliable
+2018,Nebraska,31,"Lincoln County, NE",31111,Alzheimer disease and dementia,Unspecified dementia,F03,18.0,35185.0,Unreliable
+2018,Nebraska,31,"Lincoln County, NE",31111,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,35185.0,Unreliable
+2018,Nebraska,31,"Lincoln County, NE",31111,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,35185.0,Unreliable
+2018,Nebraska,31,"Lincoln County, NE",31111,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,35185.0,Unreliable
+2018,Nebraska,31,"Lincoln County, NE",31111,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,35185.0,Unreliable
+2018,Nebraska,31,"Lincoln County, NE",31111,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,25.0,35185.0,71.1
+2018,Nebraska,31,"Madison County, NE",31119,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,35392.0,Unreliable
+2018,Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,Unspecified dementia,F03,39.0,35392.0,110.2
+2018,Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,35392.0,Unreliable
+2018,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,19.0,35392.0,Unreliable
+2018,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,35392.0,Unreliable
+2018,Nebraska,31,"Madison County, NE",31119,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,35392.0,Unreliable
+2018,Nebraska,31,"Madison County, NE",31119,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,20.0,35392.0,56.5
+2018,Nebraska,31,"Otoe County, NE",31131,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,15985.0,Unreliable
+2018,Nebraska,31,"Otoe County, NE",31131,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,15985.0,Unreliable
+2018,Nebraska,31,"Platte County, NE",31141,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,33363.0,Unreliable
+2018,Nebraska,31,"Platte County, NE",31141,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,33363.0,Unreliable
+2018,Nebraska,31,"Platte County, NE",31141,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,33363.0,Unreliable
+2018,Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,20.0,33363.0,59.9
+2018,Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,33363.0,Unreliable
+2018,Nebraska,31,"Platte County, NE",31141,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,33363.0,Unreliable
+2018,Nebraska,31,"Platte County, NE",31141,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,33363.0,Unreliable
+2018,Nebraska,31,"Polk County, NE",31143,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,5278.0,Unreliable
+2018,Nebraska,31,"Red Willow County, NE",31145,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,10726.0,Unreliable
+2018,Nebraska,31,"Red Willow County, NE",31145,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,10726.0,Unreliable
+2018,Nebraska,31,"Richardson County, NE",31147,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,7937.0,Unreliable
+2018,Nebraska,31,"Saline County, NE",31151,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,14350.0,Unreliable
+2018,Nebraska,31,"Saline County, NE",31151,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,14350.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,16.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,15.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,50.0,184459.0,27.1
+2018,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,Malignant neoplasm of prostate,C61,16.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,11.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,14.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,Unspecified dementia,F03,49.0,184459.0,26.6
+2018,Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,52.0,184459.0,28.2
+2018,Nebraska,31,"Sarpy County, NE",31153,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,12.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,27.0,184459.0,14.6
+2018,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,Atherosclerotic heart disease,I25.1,72.0,184459.0,39.0
+2018,Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,10.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,46.0,184459.0,24.9
+2018,Nebraska,31,"Sarpy County, NE",31153,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,11.0,184459.0,Unreliable
+2018,Nebraska,31,"Sarpy County, NE",31153,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,184459.0,Unreliable
+2018,Nebraska,31,"Saunders County, NE",31155,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,21303.0,Unreliable
+2018,Nebraska,31,"Saunders County, NE",31155,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,21303.0,Unreliable
+2018,Nebraska,31,"Saunders County, NE",31155,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,21303.0,Unreliable
+2018,Nebraska,31,"Saunders County, NE",31155,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,21303.0,Unreliable
+2018,Nebraska,31,"Scotts Bluff County, NE",31157,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,35989.0,Unreliable
+2018,Nebraska,31,"Scotts Bluff County, NE",31157,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,35989.0,Unreliable
+2018,Nebraska,31,"Scotts Bluff County, NE",31157,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,35989.0,Unreliable
+2018,Nebraska,31,"Scotts Bluff County, NE",31157,Ischemic heart disease,Atherosclerotic heart disease,I25.1,29.0,35989.0,80.6
+2018,Nebraska,31,"Scotts Bluff County, NE",31157,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,27.0,35989.0,75.0
+2018,Nebraska,31,"Seward County, NE",31159,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,17318.0,Unreliable
+2018,Nebraska,31,"Seward County, NE",31159,Ischemic heart disease,Atherosclerotic heart disease,I25.1,16.0,17318.0,Unreliable
+2018,Nebraska,31,"Thayer County, NE",31169,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,5039.0,Unreliable
+2018,Nebraska,31,"Thurston County, NE",31173,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,7303.0,Unreliable
+2018,Nebraska,31,"Washington County, NE",31177,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,20667.0,Unreliable
+2018,Nebraska,31,"Washington County, NE",31177,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,20667.0,Unreliable
+2018,Nebraska,31,"Washington County, NE",31177,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,20667.0,Unreliable
+2018,Nebraska,31,"York County, NE",31185,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,13772.0,Unreliable
+2018,Nebraska,31,"York County, NE",31185,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,13772.0,Unreliable
+2019,Nebraska,31,"Adams County, NE",31001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,31363.0,Unreliable
+2019,Nebraska,31,"Adams County, NE",31001,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,31363.0,Unreliable
+2019,Nebraska,31,"Adams County, NE",31001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,31363.0,Unreliable
+2019,Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,28.0,31363.0,89.3
+2019,Nebraska,31,"Adams County, NE",31001,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,31363.0,Unreliable
+2019,Nebraska,31,"Adams County, NE",31001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,14.0,31363.0,Unreliable
+2019,Nebraska,31,"Adams County, NE",31001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,31363.0,Unreliable
+2019,Nebraska,31,"Buffalo County, NE",31019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,49659.0,Unreliable
+2019,Nebraska,31,"Buffalo County, NE",31019,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,49659.0,Unreliable
+2019,Nebraska,31,"Buffalo County, NE",31019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,15.0,49659.0,Unreliable
+2019,Nebraska,31,"Buffalo County, NE",31019,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,49659.0,Unreliable
+2019,Nebraska,31,"Buffalo County, NE",31019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,30.0,49659.0,60.4
+2019,Nebraska,31,"Buffalo County, NE",31019,Other diseases of the circulatory system,Congestive heart failure,I50.0,13.0,49659.0,Unreliable
+2019,Nebraska,31,"Buffalo County, NE",31019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,19.0,49659.0,Unreliable
+2019,Nebraska,31,"Cass County, NE",31025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,17.0,26248.0,Unreliable
+2019,Nebraska,31,"Cass County, NE",31025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,26248.0,Unreliable
+2019,Nebraska,31,"Cass County, NE",31025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,26248.0,Unreliable
+2019,Nebraska,31,"Cass County, NE",31025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,26248.0,Unreliable
+2019,Nebraska,31,"Cheyenne County, NE",31033,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,8910.0,Unreliable
+2019,Nebraska,31,"Cuming County, NE",31039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,8846.0,Unreliable
+2019,Nebraska,31,"Custer County, NE",31041,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,10777.0,Unreliable
+2019,Nebraska,31,"Dakota County, NE",31043,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,20026.0,Unreliable
+2019,Nebraska,31,"Dawes County, NE",31045,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,8589.0,Unreliable
+2019,Nebraska,31,"Dawson County, NE",31047,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,23595.0,Unreliable
+2019,Nebraska,31,"Dawson County, NE",31047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,23595.0,Unreliable
+2019,Nebraska,31,"Dawson County, NE",31047,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,23595.0,Unreliable
+2019,Nebraska,31,"Dawson County, NE",31047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,23595.0,Unreliable
+2019,Nebraska,31,"Dixon County, NE",31051,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,5636.0,Unreliable
+2019,Nebraska,31,"Dodge County, NE",31053,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,36565.0,Unreliable
+2019,Nebraska,31,"Dodge County, NE",31053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,18.0,36565.0,Unreliable
+2019,Nebraska,31,"Dodge County, NE",31053,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,36565.0,Unreliable
+2019,Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,Unspecified dementia,F03,41.0,36565.0,112.1
+2019,Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,36565.0,57.4
+2019,Nebraska,31,"Dodge County, NE",31053,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,36565.0,Unreliable
+2019,Nebraska,31,"Dodge County, NE",31053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,36565.0,57.4
+2019,Nebraska,31,"Dodge County, NE",31053,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,36565.0,Unreliable
+2019,Nebraska,31,"Dodge County, NE",31053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,36565.0,65.6
+2019,Nebraska,31,"Douglas County, NE",31055,Sepsis,"Septicaemia, unspecified",A41.9,47.0,571327.0,8.2
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,28.0,571327.0,4.9
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,15.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,53.0,571327.0,9.3
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of rectum,C20,15.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,10.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,12.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,71.0,571327.0,12.4
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,193.0,571327.0,33.8
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,14.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,86.0,571327.0,15.1
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,16.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Malignant neoplasm of uterus, part unspecified",C55,10.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of ovary,C56,16.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of prostate,C61,54.0,571327.0,9.5
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,25.0,571327.0,4.4
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,19.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,25.0,571327.0,4.4
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,50.0,571327.0,8.8
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Non-Hodgkin lymphoma large cell (diffuse),C83.3,11.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Non-Hodgkin lymphoma, unspecified type",C85.9,13.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,16.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,22.0,571327.0,3.9
+2019,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,15.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,13.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,34.0,571327.0,6.0
+2019,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,62.0,571327.0,10.9
+2019,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,38.0,571327.0,6.7
+2019,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Unspecified dementia,F03,173.0,571327.0,30.3
+2019,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,208.0,571327.0,36.4
+2019,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Circumscribed brain atrophy,G31.0,15.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,43.0,571327.0,7.5
+2019,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,16.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Essential (primary) hypertension,I10,80.0,571327.0,14.0
+2019,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,23.0,571327.0,4.0
+2019,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,15.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,26.0,571327.0,4.6
+2019,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,13.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,71.0,571327.0,12.4
+2019,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,178.0,571327.0,31.2
+2019,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,14.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,20.0,571327.0,3.5
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,13.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,15.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,27.0,571327.0,4.7
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,20.0,571327.0,3.5
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,31.0,571327.0,5.4
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,50.0,571327.0,8.8
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Congestive heart failure,I50.0,62.0,571327.0,10.9
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,58.0,571327.0,10.2
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiovascular disease, unspecified",I51.6,10.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,39.0,571327.0,6.8
+2019,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,28.0,571327.0,4.9
+2019,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,20.0,571327.0,3.5
+2019,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,66.0,571327.0,11.6
+2019,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,12.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,14.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,14.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,50.0,571327.0,8.8
+2019,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,10.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,28.0,571327.0,4.9
+2019,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,13.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,207.0,571327.0,36.2
+2019,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Asthma, unspecified",J45.9,14.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,34.0,571327.0,6.0
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,15.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,13.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Renal failure,"Acute renal failure, unspecified",N17.9,11.0,571327.0,Unreliable
+2019,Nebraska,31,"Douglas County, NE",31055,Renal failure,"Chronic kidney disease, stage 5",N18.5,29.0,571327.0,5.1
+2019,Nebraska,31,"Douglas County, NE",31055,Renal failure,Unspecified renal failure,N19,12.0,571327.0,Unreliable
+2019,Nebraska,31,"Gage County, NE",31067,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,21513.0,Unreliable
+2019,Nebraska,31,"Gage County, NE",31067,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,21513.0,Unreliable
+2019,Nebraska,31,"Gage County, NE",31067,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,21513.0,93.0
+2019,Nebraska,31,"Gage County, NE",31067,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,21513.0,Unreliable
+2019,Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,61353.0,Unreliable
+2019,Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,61353.0,Unreliable
+2019,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,16.0,61353.0,Unreliable
+2019,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,Unspecified dementia,F03,25.0,61353.0,40.7
+2019,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,30.0,61353.0,48.9
+2019,Nebraska,31,"Hall County, NE",31079,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,23.0,61353.0,37.5
+2019,Nebraska,31,"Hall County, NE",31079,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,61353.0,34.2
+2019,Nebraska,31,"Hall County, NE",31079,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,61353.0,Unreliable
+2019,Nebraska,31,"Hall County, NE",31079,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,35.0,61353.0,57.0
+2019,Nebraska,31,"Jefferson County, NE",31095,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,7046.0,Unreliable
+2019,Nebraska,31,"Jefferson County, NE",31095,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,7046.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Sepsis,"Septicaemia, unspecified",A41.9,22.0,319090.0,6.9
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,16.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,21.0,319090.0,6.6
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,39.0,319090.0,12.2
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,94.0,319090.0,29.5
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,37.0,319090.0,11.6
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm of ovary,C56,12.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm of prostate,C61,25.0,319090.0,7.8
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,24.0,319090.0,7.5
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm without specification of site,C80,14.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,14.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,12.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,15.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,26.0,319090.0,8.1
+2019,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,10.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,Unspecified dementia,F03,72.0,319090.0,22.6
+2019,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,100.0,319090.0,31.3
+2019,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,62.0,319090.0,19.4
+2019,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Essential (primary) hypertension,I10,23.0,319090.0,7.2
+2019,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,21.0,319090.0,6.6
+2019,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,10.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,51.0,319090.0,16.0
+2019,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,14.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Atherosclerotic heart disease,I25.1,129.0,319090.0,40.4
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,23.0,319090.0,7.2
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,13.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,25.0,319090.0,7.8
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Congestive heart failure,I50.0,50.0,319090.0,15.7
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,28.0,319090.0,8.8
+2019,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,35.0,319090.0,11.0
+2019,Nebraska,31,"Lancaster County, NE",31109,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,27.0,319090.0,8.5
+2019,Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,122.0,319090.0,38.2
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,28.0,319090.0,8.8
+2019,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,Chronic respiratory failure,J96.1,10.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,319090.0,Unreliable
+2019,Nebraska,31,"Lancaster County, NE",31109,Renal failure,"Chronic renal failure, unspecified",N18.9,15.0,319090.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,10.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,11.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,34914.0,80.2
+2019,Nebraska,31,"Lincoln County, NE",31111,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,19.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Hypertensive diseases,Essential (primary) hypertension,I10,15.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,34914.0,Unreliable
+2019,Nebraska,31,"Lincoln County, NE",31111,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,34914.0,83.1
+2019,Nebraska,31,"Madison County, NE",31119,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,35099.0,Unreliable
+2019,Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,35099.0,79.8
+2019,Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,35099.0,62.7
+2019,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,35099.0,Unreliable
+2019,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,35099.0,Unreliable
+2019,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,35099.0,57.0
+2019,Nebraska,31,"Madison County, NE",31119,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,11.0,35099.0,Unreliable
+2019,Nebraska,31,"Madison County, NE",31119,Other diseases of the circulatory system,Congestive heart failure,I50.0,10.0,35099.0,Unreliable
+2019,Nebraska,31,"Madison County, NE",31119,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,35099.0,Unreliable
+2019,Nebraska,31,"Otoe County, NE",31131,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,16012.0,Unreliable
+2019,Nebraska,31,"Phelps County, NE",31137,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,9034.0,Unreliable
+2019,Nebraska,31,"Platte County, NE",31141,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,33470.0,Unreliable
+2019,Nebraska,31,"Platte County, NE",31141,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,33470.0,Unreliable
+2019,Nebraska,31,"Platte County, NE",31141,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,33470.0,Unreliable
+2019,Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,33470.0,Unreliable
+2019,Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,33470.0,Unreliable
+2019,Nebraska,31,"Platte County, NE",31141,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,33470.0,Unreliable
+2019,Nebraska,31,"Platte County, NE",31141,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,33470.0,Unreliable
+2019,Nebraska,31,"Polk County, NE",31143,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,5213.0,Unreliable
+2019,Nebraska,31,"Saline County, NE",31151,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,14224.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,14.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,21.0,187196.0,11.2
+2019,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,60.0,187196.0,32.1
+2019,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,17.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,Malignant neoplasm of prostate,C61,10.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,Malignant neoplasm without specification of site,C80,12.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,Unspecified dementia,F03,39.0,187196.0,20.8
+2019,Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,59.0,187196.0,31.5
+2019,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,34.0,187196.0,18.2
+2019,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,Atherosclerotic heart disease,I25.1,65.0,187196.0,34.7
+2019,Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,12.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,Congestive heart failure,I50.0,18.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,15.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,15.0,187196.0,Unreliable
+2019,Nebraska,31,"Sarpy County, NE",31153,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,22.0,187196.0,11.8
+2019,Nebraska,31,"Sarpy County, NE",31153,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,39.0,187196.0,20.8
+2019,Nebraska,31,"Saunders County, NE",31155,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,21578.0,Unreliable
+2019,Nebraska,31,"Saunders County, NE",31155,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,21578.0,Unreliable
+2019,Nebraska,31,"Saunders County, NE",31155,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,21578.0,Unreliable
+2019,Nebraska,31,"Saunders County, NE",31155,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,21578.0,Unreliable
+2019,Nebraska,31,"Scotts Bluff County, NE",31157,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,35618.0,67.4
+2019,Nebraska,31,"Scotts Bluff County, NE",31157,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,11.0,35618.0,Unreliable
+2019,Nebraska,31,"Scotts Bluff County, NE",31157,Alzheimer disease and dementia,Unspecified dementia,F03,41.0,35618.0,115.1
+2019,Nebraska,31,"Scotts Bluff County, NE",31157,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,35618.0,Unreliable
+2019,Nebraska,31,"Scotts Bluff County, NE",31157,Ischemic heart disease,Atherosclerotic heart disease,I25.1,24.0,35618.0,67.4
+2019,Nebraska,31,"Scotts Bluff County, NE",31157,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,13.0,35618.0,Unreliable
+2019,Nebraska,31,"Scotts Bluff County, NE",31157,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,18.0,35618.0,Unreliable
+2019,Nebraska,31,"Seward County, NE",31159,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,17284.0,Unreliable
+2019,Nebraska,31,"Thayer County, NE",31169,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,5003.0,Unreliable
+2019,Nebraska,31,"Washington County, NE",31177,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,20729.0,Unreliable
+2019,Nebraska,31,"Washington County, NE",31177,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,20729.0,Unreliable
+2019,Nebraska,31,"York County, NE",31185,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,13679.0,Unreliable
+2020,Nebraska,31,"Adams County, NE",31001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,31321.0,Unreliable
+2020,Nebraska,31,"Adams County, NE",31001,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,31321.0,Unreliable
+2020,Nebraska,31,"Adams County, NE",31001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,31321.0,Unreliable
+2020,Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,31321.0,Unreliable
+2020,Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,31321.0,Unreliable
+2020,Nebraska,31,"Adams County, NE",31001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,17.0,31321.0,Unreliable
+2020,Nebraska,31,"Adams County, NE",31001,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,31321.0,Unreliable
+2020,Nebraska,31,"Box Butte County, NE",31013,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,10696.0,Unreliable
+2020,Nebraska,31,"Box Butte County, NE",31013,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,10696.0,Unreliable
+2020,Nebraska,31,"Buffalo County, NE",31019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,16.0,50114.0,Unreliable
+2020,Nebraska,31,"Buffalo County, NE",31019,Alzheimer disease and dementia,Unspecified dementia,F03,27.0,50114.0,53.9
+2020,Nebraska,31,"Buffalo County, NE",31019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,50114.0,Unreliable
+2020,Nebraska,31,"Buffalo County, NE",31019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,25.0,50114.0,49.9
+2020,Nebraska,31,"Buffalo County, NE",31019,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,50114.0,Unreliable
+2020,Nebraska,31,"Buffalo County, NE",31019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,50114.0,Unreliable
+2020,Nebraska,31,"Cass County, NE",31025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,26232.0,Unreliable
+2020,Nebraska,31,"Cass County, NE",31025,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,26232.0,Unreliable
+2020,Nebraska,31,"Cass County, NE",31025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,26232.0,Unreliable
+2020,Nebraska,31,"Cass County, NE",31025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,26232.0,Unreliable
+2020,Nebraska,31,"Cass County, NE",31025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,26232.0,Unreliable
+2020,Nebraska,31,"Cuming County, NE",31039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,8798.0,Unreliable
+2020,Nebraska,31,"Custer County, NE",31041,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,10626.0,Unreliable
+2020,Nebraska,31,"Custer County, NE",31041,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,10626.0,Unreliable
+2020,Nebraska,31,"Dakota County, NE",31043,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,20070.0,Unreliable
+2020,Nebraska,31,"Dawson County, NE",31047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,23510.0,Unreliable
+2020,Nebraska,31,"Dawson County, NE",31047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,23510.0,Unreliable
+2020,Nebraska,31,"Dodge County, NE",31053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,28.0,36222.0,77.3
+2020,Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,Unspecified dementia,F03,29.0,36222.0,80.1
+2020,Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,36222.0,Unreliable
+2020,Nebraska,31,"Dodge County, NE",31053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,36222.0,60.7
+2020,Nebraska,31,"Dodge County, NE",31053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,24.0,36222.0,66.3
+2020,Nebraska,31,"Douglas County, NE",31055,Sepsis,"Septicaemia, unspecified",A41.9,37.0,574332.0,6.4
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,30.0,574332.0,5.2
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,11.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,55.0,574332.0,9.6
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of rectum,C20,11.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,17.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,13.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,12.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,84.0,574332.0,14.6
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,188.0,574332.0,32.7
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,70.0,574332.0,12.2
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,14.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of ovary,C56,17.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of prostate,C61,50.0,574332.0,8.7
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,21.0,574332.0,3.7
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,27.0,574332.0,4.7
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,28.0,574332.0,4.9
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,51.0,574332.0,8.9
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,17.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,21.0,574332.0,3.7
+2020,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,25.0,574332.0,4.4
+2020,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,11.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,28.0,574332.0,4.9
+2020,Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,87.0,574332.0,15.1
+2020,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,34.0,574332.0,5.9
+2020,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Unspecified dementia,F03,154.0,574332.0,26.8
+2020,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,232.0,574332.0,40.4
+2020,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,64.0,574332.0,11.1
+2020,Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,18.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Essential (primary) hypertension,I10,101.0,574332.0,17.6
+2020,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,31.0,574332.0,5.4
+2020,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,23.0,574332.0,4.0
+2020,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,40.0,574332.0,7.0
+2020,Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,22.0,574332.0,3.8
+2020,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,15.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,70.0,574332.0,12.2
+2020,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,17.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,174.0,574332.0,30.3
+2020,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,23.0,574332.0,4.0
+2020,Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,14.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,10.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,19.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,14.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,15.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,27.0,574332.0,4.7
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,17.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,49.0,574332.0,8.5
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Congestive heart failure,I50.0,67.0,574332.0,11.7
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,58.0,574332.0,10.1
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,25.0,574332.0,4.4
+2020,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,11.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,34.0,574332.0,5.9
+2020,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,23.0,574332.0,4.0
+2020,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,74.0,574332.0,12.9
+2020,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,17.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,17.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,20.0,574332.0,3.5
+2020,Nebraska,31,"Douglas County, NE",31055,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,43.0,574332.0,7.5
+2020,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,12.0,574332.0,Unreliable
+2020,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,22.0,574332.0,3.8
+2020,Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,186.0,574332.0,32.4
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,34.0,574332.0,5.9
+2020,Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,25.0,574332.0,4.4
+2020,Nebraska,31,"Douglas County, NE",31055,Renal failure,"Chronic kidney disease, stage 5",N18.5,40.0,574332.0,7.0
+2020,Nebraska,31,"Gage County, NE",31067,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,21431.0,Unreliable
+2020,Nebraska,31,"Gage County, NE",31067,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,16.0,21431.0,Unreliable
+2020,Nebraska,31,"Gage County, NE",31067,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,21431.0,Unreliable
+2020,Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,10.0,61028.0,Unreliable
+2020,Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,61028.0,32.8
+2020,Nebraska,31,"Hall County, NE",31079,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,61028.0,Unreliable
+2020,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,13.0,61028.0,Unreliable
+2020,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,Unspecified dementia,F03,36.0,61028.0,59.0
+2020,Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,27.0,61028.0,44.2
+2020,Nebraska,31,"Hall County, NE",31079,Ischemic heart disease,Atherosclerotic heart disease,I25.1,27.0,61028.0,44.2
+2020,Nebraska,31,"Hall County, NE",31079,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,61028.0,Unreliable
+2020,Nebraska,31,"Hall County, NE",31079,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,61028.0,34.4
+2020,Nebraska,31,"Holt County, NE",31089,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,9956.0,Unreliable
+2020,Nebraska,31,"Jefferson County, NE",31095,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,7099.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Sepsis,"Septicaemia, unspecified",A41.9,13.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,17.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,27.0,320650.0,8.4
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,33.0,320650.0,10.3
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,96.0,320650.0,29.9
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,36.0,320650.0,11.2
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm of prostate,C61,31.0,320650.0,9.7
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm without specification of site,C80,22.0,320650.0,6.9
+2020,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,14.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,18.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,320650.0,6.2
+2020,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,14.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,Unspecified dementia,F03,87.0,320650.0,27.1
+2020,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,77.0,320650.0,24.0
+2020,Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,73.0,320650.0,22.8
+2020,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Essential (primary) hypertension,I10,29.0,320650.0,9.0
+2020,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,23.0,320650.0,7.2
+2020,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,12.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,16.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,47.0,320650.0,14.7
+2020,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Atherosclerotic heart disease,I25.1,124.0,320650.0,38.7
+2020,Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,12.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,12.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,15.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,28.0,320650.0,8.7
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Congestive heart failure,I50.0,52.0,320650.0,16.2
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,28.0,320650.0,8.7
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,12.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,17.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,28.0,320650.0,8.7
+2020,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,15.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,17.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,23.0,320650.0,7.2
+2020,Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,12.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,125.0,320650.0,39.0
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,27.0,320650.0,8.4
+2020,Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,11.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Renal failure,"Chronic kidney disease, stage 5",N18.5,15.0,320650.0,Unreliable
+2020,Nebraska,31,"Lancaster County, NE",31109,Renal failure,"Chronic renal failure, unspecified",N18.9,14.0,320650.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,34347.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Malignant neoplasms,Malignant neoplasm without specification of site,C80,10.0,34347.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Alzheimer disease and dementia,Unspecified dementia,F03,29.0,34347.0,84.4
+2020,Nebraska,31,"Lincoln County, NE",31111,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,34347.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,34347.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Ischemic heart disease,Atherosclerotic heart disease,I25.1,20.0,34347.0,58.2
+2020,Nebraska,31,"Lincoln County, NE",31111,Other diseases of the circulatory system,Congestive heart failure,I50.0,14.0,34347.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,14.0,34347.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,34347.0,Unreliable
+2020,Nebraska,31,"Lincoln County, NE",31111,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,25.0,34347.0,72.8
+2020,Nebraska,31,"Madison County, NE",31119,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,34813.0,Unreliable
+2020,Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,Unspecified dementia,F03,27.0,34813.0,77.6
+2020,Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,18.0,34813.0,Unreliable
+2020,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,18.0,34813.0,Unreliable
+2020,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,10.0,34813.0,Unreliable
+2020,Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,Atherosclerotic heart disease,I25.1,15.0,34813.0,Unreliable
+2020,Nebraska,31,"Madison County, NE",31119,Other diseases of the circulatory system,Congestive heart failure,I50.0,16.0,34813.0,Unreliable
+2020,Nebraska,31,"Madison County, NE",31119,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,14.0,34813.0,Unreliable
+2020,Nebraska,31,"Otoe County, NE",31131,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,15965.0,Unreliable
+2020,Nebraska,31,"Phelps County, NE",31137,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,9006.0,Unreliable
+2020,Nebraska,31,"Platte County, NE",31141,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,33364.0,Unreliable
+2020,Nebraska,31,"Platte County, NE",31141,Alzheimer disease and dementia,Unspecified dementia,F03,12.0,33364.0,Unreliable
+2020,Nebraska,31,"Platte County, NE",31141,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,14.0,33364.0,Unreliable
+2020,Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,14.0,33364.0,Unreliable
+2020,Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,33364.0,Unreliable
+2020,Nebraska,31,"Platte County, NE",31141,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,33364.0,Unreliable
+2020,Nebraska,31,"Platte County, NE",31141,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,33364.0,Unreliable
+2020,Nebraska,31,"Red Willow County, NE",31145,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,10627.0,Unreliable
+2020,Nebraska,31,"Richardson County, NE",31147,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,7791.0,Unreliable
+2020,Nebraska,31,"Saline County, NE",31151,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,17.0,13987.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Sepsis,"Septicaemia, unspecified",A41.9,11.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,21.0,188856.0,11.1
+2020,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,29.0,188856.0,15.4
+2020,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,49.0,188856.0,25.9
+2020,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,20.0,188856.0,10.6
+2020,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,Malignant neoplasm of prostate,C61,14.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,10.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,Malignant neoplasm without specification of site,C80,11.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,Unspecified dementia,F03,60.0,188856.0,31.8
+2020,Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,83.0,188856.0,43.9
+2020,Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,16.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,30.0,188856.0,15.9
+2020,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,16.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,Atherosclerotic heart disease,I25.1,68.0,188856.0,36.0
+2020,Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,Congestive heart failure,I50.0,18.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,13.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,10.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,188856.0,Unreliable
+2020,Nebraska,31,"Sarpy County, NE",31153,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,51.0,188856.0,27.0
+2020,Nebraska,31,"Saunders County, NE",31155,Alzheimer disease and dementia,Unspecified dementia,F03,24.0,21927.0,109.5
+2020,Nebraska,31,"Saunders County, NE",31155,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,11.0,21927.0,Unreliable
+2020,Nebraska,31,"Saunders County, NE",31155,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,21927.0,Unreliable
+2020,Nebraska,31,"Saunders County, NE",31155,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,21927.0,Unreliable
+2020,Nebraska,31,"Saunders County, NE",31155,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,21927.0,Unreliable
+2020,Nebraska,31,"Scotts Bluff County, NE",31157,Alzheimer disease and dementia,Unspecified dementia,F03,28.0,35299.0,79.3
+2020,Nebraska,31,"Scotts Bluff County, NE",31157,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,35299.0,Unreliable
+2020,Nebraska,31,"Scotts Bluff County, NE",31157,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,35299.0,79.3
+2020,Nebraska,31,"Scotts Bluff County, NE",31157,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,13.0,35299.0,Unreliable
+2020,Nebraska,31,"Scotts Bluff County, NE",31157,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,23.0,35299.0,65.2
+2020,Nebraska,31,"Sheridan County, NE",31161,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,5150.0,Unreliable
+2020,Nebraska,31,"Thayer County, NE",31169,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,4887.0,Unreliable
+2020,Nebraska,31,"Washington County, NE",31177,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,20901.0,Unreliable
+2020,Nebraska,31,"Washington County, NE",31177,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,20901.0,Unreliable
+2020,Nebraska,31,"York County, NE",31185,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,13511.0,Unreliable
+2021 (provisional),Nebraska,31,"Adams County, NE",31001,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,15.0,31321.0,Unreliable
+2021 (provisional),Nebraska,31,"Adams County, NE",31001,Alzheimer disease and dementia,Unspecified dementia,F03,14.0,31321.0,Unreliable
+2021 (provisional),Nebraska,31,"Adams County, NE",31001,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,21.0,31321.0,67.0
+2021 (provisional),Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,31321.0,79.8
+2021 (provisional),Nebraska,31,"Adams County, NE",31001,Ischemic heart disease,Atherosclerotic heart disease,I25.1,19.0,31321.0,Unreliable
+2021 (provisional),Nebraska,31,"Adams County, NE",31001,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,11.0,31321.0,Unreliable
+2021 (provisional),Nebraska,31,"Buffalo County, NE",31019,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,50114.0,Unreliable
+2021 (provisional),Nebraska,31,"Buffalo County, NE",31019,Alzheimer disease and dementia,Unspecified dementia,F03,17.0,50114.0,Unreliable
+2021 (provisional),Nebraska,31,"Buffalo County, NE",31019,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,22.0,50114.0,43.9
+2021 (provisional),Nebraska,31,"Buffalo County, NE",31019,Ischemic heart disease,Atherosclerotic heart disease,I25.1,28.0,50114.0,55.9
+2021 (provisional),Nebraska,31,"Buffalo County, NE",31019,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,50114.0,Unreliable
+2021 (provisional),Nebraska,31,"Buffalo County, NE",31019,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,17.0,50114.0,Unreliable
+2021 (provisional),Nebraska,31,"Cass County, NE",31025,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,26232.0,Unreliable
+2021 (provisional),Nebraska,31,"Cass County, NE",31025,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,26232.0,Unreliable
+2021 (provisional),Nebraska,31,"Cass County, NE",31025,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,26232.0,Unreliable
+2021 (provisional),Nebraska,31,"Cass County, NE",31025,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,26232.0,Unreliable
+2021 (provisional),Nebraska,31,"Cass County, NE",31025,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,26232.0,Unreliable
+2021 (provisional),Nebraska,31,"Cass County, NE",31025,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,26232.0,Unreliable
+2021 (provisional),Nebraska,31,"Cuming County, NE",31039,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,8798.0,Unreliable
+2021 (provisional),Nebraska,31,"Custer County, NE",31041,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,10626.0,Unreliable
+2021 (provisional),Nebraska,31,"Dawson County, NE",31047,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,10.0,23510.0,Unreliable
+2021 (provisional),Nebraska,31,"Dawson County, NE",31047,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,23510.0,Unreliable
+2021 (provisional),Nebraska,31,"Dawson County, NE",31047,Ischemic heart disease,Atherosclerotic heart disease,I25.1,17.0,23510.0,Unreliable
+2021 (provisional),Nebraska,31,"Dawson County, NE",31047,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,23510.0,Unreliable
+2021 (provisional),Nebraska,31,"Dodge County, NE",31053,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,36222.0,66.3
+2021 (provisional),Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,Unspecified dementia,F03,23.0,36222.0,63.5
+2021 (provisional),Nebraska,31,"Dodge County, NE",31053,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,17.0,36222.0,Unreliable
+2021 (provisional),Nebraska,31,"Dodge County, NE",31053,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,10.0,36222.0,Unreliable
+2021 (provisional),Nebraska,31,"Dodge County, NE",31053,Ischemic heart disease,Atherosclerotic heart disease,I25.1,29.0,36222.0,80.1
+2021 (provisional),Nebraska,31,"Dodge County, NE",31053,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,26.0,36222.0,71.8
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Sepsis,"Septicaemia, unspecified",A41.9,48.0,574332.0,8.4
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,24.0,574332.0,4.2
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,11.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,54.0,574332.0,9.4
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of rectum,C20,24.0,574332.0,4.2
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Liver cell carcinoma - Malignant neoplasms,C22.0,13.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Intrahepatic bile duct carcinoma - Malignant neoplasms,C22.1,13.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Liver, unspecified - Malignant neoplasms",C22.9,14.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,82.0,574332.0,14.3
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,221.0,574332.0,38.5
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,55.0,574332.0,9.6
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Endometrium - Malignant neoplasms,C54.1,15.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of ovary,C56,16.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm of prostate,C61,67.0,574332.0,11.7
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,21.0,574332.0,3.7
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,24.0,574332.0,4.2
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,19.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasm without specification of site,C80,35.0,574332.0,6.1
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Multiple myeloma - Malignant neoplasms,C90.0,16.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,20.0,574332.0,3.5
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,Malignant neoplasms of independent (primary) multiple sites,C97,11.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,17.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,27.0,574332.0,4.7
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,77.0,574332.0,13.4
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Vascular dementia, unspecified",F01.9,22.0,574332.0,3.8
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Unspecified dementia,F03,119.0,574332.0,20.7
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,164.0,574332.0,28.6
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,80.0,574332.0,13.9
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Other specified degenerative diseases of nervous system,G31.8,16.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Essential (primary) hypertension,I10,104.0,574332.0,18.1
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,49.0,574332.0,8.5
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,28.0,574332.0,4.9
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,35.0,574332.0,6.1
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,14.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Acute subendocardial myocardial infarction,I21.4,16.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,85.0,574332.0,14.8
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,23.0,574332.0,4.0
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,172.0,574332.0,29.9
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,21.0,574332.0,3.7
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Chronic ischaemic heart disease, unspecified",I25.9,10.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Pulmonary embolism without mention of acute cor pulmonale,I26.9,13.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,14.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,30.0,574332.0,5.2
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Endocarditis, valve unspecified",I38,12.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Dilated cardiomyopathy,I42.0,10.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,30.0,574332.0,5.2
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Cardiac arrest, unspecified",I46.9,25.0,574332.0,4.4
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,45.0,574332.0,7.8
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Congestive heart failure,I50.0,62.0,574332.0,10.8
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,33.0,574332.0,5.7
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Heart disease, unspecified",I51.9,12.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Subarachnoid haemorrhage, unspecified",I60.9,16.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Intracerebral haemorrhage, unspecified",I61.9,23.0,574332.0,4.0
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,13.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,18.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,68.0,574332.0,11.8
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,15.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,20.0,574332.0,3.5
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,20.0,574332.0,3.5
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,"Peripheral vascular disease, unspecified",I73.9,12.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,43.0,574332.0,7.5
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Emphysema, unspecified",J43.9,12.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,19.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,162.0,574332.0,28.2
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,30.0,574332.0,5.2
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,Other interstitial pulmonary diseases with fibrosis,J84.1,23.0,574332.0,4.0
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,13.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Renal failure,"Acute renal failure, unspecified",N17.9,12.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Douglas County, NE",31055,Renal failure,"Chronic kidney disease, stage 5",N18.5,16.0,574332.0,Unreliable
+2021 (provisional),Nebraska,31,"Gage County, NE",31067,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,13.0,21431.0,Unreliable
+2021 (provisional),Nebraska,31,"Gage County, NE",31067,Alzheimer disease and dementia,Unspecified dementia,F03,11.0,21431.0,Unreliable
+2021 (provisional),Nebraska,31,"Gage County, NE",31067,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,16.0,21431.0,Unreliable
+2021 (provisional),Nebraska,31,"Gage County, NE",31067,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,21431.0,Unreliable
+2021 (provisional),Nebraska,31,"Gage County, NE",31067,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,11.0,21431.0,Unreliable
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,11.0,61028.0,Unreliable
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,24.0,61028.0,39.3
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,Unspecified dementia,F03,29.0,61028.0,47.5
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,25.0,61028.0,41.0
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,10.0,61028.0,Unreliable
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,61028.0,34.4
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Other diseases of the circulatory system,Congestive heart failure,I50.0,12.0,61028.0,Unreliable
+2021 (provisional),Nebraska,31,"Hall County, NE",31079,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,29.0,61028.0,47.5
+2021 (provisional),Nebraska,31,"Holt County, NE",31089,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,9956.0,Unreliable
+2021 (provisional),Nebraska,31,"Jefferson County, NE",31095,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,7099.0,Unreliable
+2021 (provisional),Nebraska,31,"Knox County, NE",31107,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,8304.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Sepsis,"Septicaemia, unspecified",A41.9,29.0,320650.0,9.0
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,20.0,320650.0,6.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Stomach, unspecified - Malignant neoplasms",C16.9,10.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,32.0,320650.0,10.0
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,41.0,320650.0,12.8
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,96.0,320650.0,29.9
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Malignant melanoma of skin, unspecified - Malignant neoplasms",C43.9,10.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,43.0,320650.0,13.4
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm of prostate,C61,16.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Malignant neoplasm of kidney, except renal pelvis",C64,10.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,15.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,17.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Malignant neoplasm without specification of site,C80,23.0,320650.0,7.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Non-insulin-dependent diabetes mellitus, with renal complications",E11.2,11.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Non-insulin-dependent diabetes mellitus, without complications",E11.9,13.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, with renal complications",E14.2,15.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,20.0,320650.0,6.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,Unspecified dementia,F03,68.0,320650.0,21.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,79.0,320650.0,24.6
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,84.0,320650.0,26.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Essential (primary) hypertension,I10,16.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,36.0,320650.0,11.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,14.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive renal disease with renal failure,I12.0,14.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Hypertensive diseases,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,I13.2,29.0,320650.0,9.0
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,36.0,320650.0,11.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,13.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Atherosclerotic heart disease,I25.1,120.0,320650.0,37.4
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Ischaemic cardiomyopathy,I25.5,10.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Other secondary pulmonary hypertension,I27.2,16.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Aortic (valve) stenosis,I35.0,13.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Cardiomyopathy, unspecified",I42.9,13.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,28.0,320650.0,8.7
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,Congestive heart failure,I50.0,52.0,320650.0,16.2
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,27.0,320650.0,8.4
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Cerebral infarction, unspecified",I63.9,10.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,31.0,320650.0,9.7
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Cerebrovascular disease, unspecified",I67.9,11.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,"Sequelae of stroke, not specified as haemorrhage or infarction",I69.4,13.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Cerebrovascular diseases,Sequelae of other and unspecified cerebrovascular diseases,I69.8,13.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,18.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,19.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,91.0,320650.0,28.4
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,21.0,320650.0,6.5
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Other diseases of the respiratory system,"Interstitial pulmonary disease, unspecified",J84.9,13.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lancaster County, NE",31109,Renal failure,"Chronic kidney disease, stage 5",N18.5,11.0,320650.0,Unreliable
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,34347.0,58.2
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Alzheimer disease and dementia,Unspecified dementia,F03,21.0,34347.0,61.1
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Hypertensive diseases,Essential (primary) hypertension,I10,13.0,34347.0,Unreliable
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,34347.0,Unreliable
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,34347.0,Unreliable
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,18.0,34347.0,Unreliable
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,13.0,34347.0,Unreliable
+2021 (provisional),Nebraska,31,"Lincoln County, NE",31111,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,21.0,34347.0,61.1
+2021 (provisional),Nebraska,31,"Madison County, NE",31119,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,12.0,34813.0,Unreliable
+2021 (provisional),Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,34813.0,Unreliable
+2021 (provisional),Nebraska,31,"Madison County, NE",31119,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,34813.0,Unreliable
+2021 (provisional),Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,34813.0,Unreliable
+2021 (provisional),Nebraska,31,"Madison County, NE",31119,Ischemic heart disease,Atherosclerotic heart disease,I25.1,11.0,34813.0,Unreliable
+2021 (provisional),Nebraska,31,"Madison County, NE",31119,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,11.0,34813.0,Unreliable
+2021 (provisional),Nebraska,31,"Madison County, NE",31119,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,15.0,34813.0,Unreliable
+2021 (provisional),Nebraska,31,"Otoe County, NE",31131,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,15965.0,Unreliable
+2021 (provisional),Nebraska,31,"Phelps County, NE",31137,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,9006.0,Unreliable
+2021 (provisional),Nebraska,31,"Phelps County, NE",31137,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,9006.0,Unreliable
+2021 (provisional),Nebraska,31,"Platte County, NE",31141,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,11.0,33364.0,Unreliable
+2021 (provisional),Nebraska,31,"Platte County, NE",31141,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,12.0,33364.0,Unreliable
+2021 (provisional),Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,15.0,33364.0,Unreliable
+2021 (provisional),Nebraska,31,"Platte County, NE",31141,Ischemic heart disease,Atherosclerotic heart disease,I25.1,18.0,33364.0,Unreliable
+2021 (provisional),Nebraska,31,"Platte County, NE",31141,Other diseases of the circulatory system,Congestive heart failure,I50.0,15.0,33364.0,Unreliable
+2021 (provisional),Nebraska,31,"Platte County, NE",31141,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,33364.0,Unreliable
+2021 (provisional),Nebraska,31,"Platte County, NE",31141,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,33364.0,Unreliable
+2021 (provisional),Nebraska,31,"Red Willow County, NE",31145,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,10627.0,Unreliable
+2021 (provisional),Nebraska,31,"Red Willow County, NE",31145,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,10.0,10627.0,Unreliable
+2021 (provisional),Nebraska,31,"Richardson County, NE",31147,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,7791.0,Unreliable
+2021 (provisional),Nebraska,31,"Saline County, NE",31151,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,11.0,13987.0,Unreliable
+2021 (provisional),Nebraska,31,"Saline County, NE",31151,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,13.0,13987.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Sepsis,"Septicaemia, unspecified",A41.9,12.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Oesophagus, unspecified - Malignant neoplasms",C15.9,15.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Colon, unspecified - Malignant neoplasms",C18.9,17.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,19.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,62.0,188856.0,32.8
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Breast, unspecified - Malignant neoplasms",C50.9,21.0,188856.0,11.1
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,Malignant neoplasm of prostate,C61,13.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Bladder, unspecified - Malignant neoplasms",C67.9,11.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,"Brain, unspecified - Malignant neoplasms",C71.9,12.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Malignant neoplasms,Malignant neoplasm without specification of site,C80,13.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,Unspecified dementia,F03,30.0,188856.0,15.9
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,69.0,188856.0,36.5
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,31.0,188856.0,16.4
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Hypertensive diseases,Essential (primary) hypertension,I10,12.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Hypertensive diseases,Hypertensive heart disease with (congestive) heart failure,I11.0,13.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Hypertensive diseases,Hypertensive heart disease without (congestive) heart failure,I11.9,12.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,25.0,188856.0,13.2
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,"Atherosclerotic cardiovascular disease, so described",I25.0,23.0,188856.0,12.2
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,Atherosclerotic heart disease,I25.1,70.0,188856.0,37.1
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,Atrial fibrillation and flutter,I48,15.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,Congestive heart failure,I50.0,17.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Other diseases of the circulatory system,"Heart failure, unspecified",I50.9,10.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Influenza and pneumonia,"Pneumonia, unspecified",J18.9,12.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Chronic lower respiratory diseases,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,10.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,42.0,188856.0,22.2
+2021 (provisional),Nebraska,31,"Sarpy County, NE",31153,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,12.0,188856.0,Unreliable
+2021 (provisional),Nebraska,31,"Saunders County, NE",31155,Alzheimer disease and dementia,Unspecified dementia,F03,19.0,21927.0,Unreliable
+2021 (provisional),Nebraska,31,"Saunders County, NE",31155,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,21927.0,Unreliable
+2021 (provisional),Nebraska,31,"Saunders County, NE",31155,Ischemic heart disease,Atherosclerotic heart disease,I25.1,13.0,21927.0,Unreliable
+2021 (provisional),Nebraska,31,"Saunders County, NE",31155,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,12.0,21927.0,Unreliable
+2021 (provisional),Nebraska,31,"Scotts Bluff County, NE",31157,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,19.0,35299.0,Unreliable
+2021 (provisional),Nebraska,31,"Scotts Bluff County, NE",31157,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,13.0,35299.0,Unreliable
+2021 (provisional),Nebraska,31,"Scotts Bluff County, NE",31157,Alzheimer disease and dementia,Unspecified dementia,F03,27.0,35299.0,76.5
+2021 (provisional),Nebraska,31,"Scotts Bluff County, NE",31157,Ischemic heart disease,Atherosclerotic heart disease,I25.1,32.0,35299.0,90.7
+2021 (provisional),Nebraska,31,"Scotts Bluff County, NE",31157,Cerebrovascular diseases,"Stroke, not specified as haemorrhage or infarction",I64,10.0,35299.0,Unreliable
+2021 (provisional),Nebraska,31,"Scotts Bluff County, NE",31157,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,22.0,35299.0,62.3
+2021 (provisional),Nebraska,31,"Scotts Bluff County, NE",31157,Other diseases of the respiratory system,Pneumonitis due to food and vomit,J69.0,10.0,35299.0,Unreliable
+2021 (provisional),Nebraska,31,"Seward County, NE",31159,Ischemic heart disease,Atherosclerotic heart disease,I25.1,12.0,17186.0,Unreliable
+2021 (provisional),Nebraska,31,"Thayer County, NE",31169,Alzheimer disease and dementia,Unspecified dementia,F03,10.0,4887.0,Unreliable
+2021 (provisional),Nebraska,31,"Washington County, NE",31177,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,12.0,20901.0,Unreliable
+2021 (provisional),Nebraska,31,"York County, NE",31185,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,10.0,13511.0,Unreliable
+2021 (provisional),Nebraska,31,"York County, NE",31185,Ischemic heart disease,Atherosclerotic heart disease,I25.1,14.0,13511.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Pancreas, unspecified - Malignant neoplasms",C25.9,10.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,22.0,574332.0,3.8
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Diabetes,"Unspecified diabetes mellitus, without complications",E14.9,10.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,Unspecified dementia,F03,16.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,31.0,574332.0,5.4
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,15.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Hypertensive diseases,Essential (primary) hypertension,I10,16.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,"Acute myocardial infarction, unspecified",I21.9,12.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Ischemic heart disease,Atherosclerotic heart disease,I25.1,22.0,574332.0,3.8
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Other diseases of the circulatory system,Congestive heart failure,I50.0,11.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Douglas County, NE",31055,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,16.0,574332.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Lancaster County, NE",31109,Malignant neoplasms,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,20.0,320650.0,6.2
+2022 (provisional and partial),Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,Unspecified dementia,F03,15.0,320650.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,320650.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Lancaster County, NE",31109,Alzheimer disease and dementia,"Senile degeneration of brain, not elsewhere classified",G31.1,20.0,320650.0,6.2
+2022 (provisional and partial),Nebraska,31,"Lancaster County, NE",31109,Ischemic heart disease,Atherosclerotic heart disease,I25.1,21.0,320650.0,6.5
+2022 (provisional and partial),Nebraska,31,"Lancaster County, NE",31109,Chronic lower respiratory diseases,"Chronic obstructive pulmonary disease, unspecified",J44.9,13.0,320650.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Sarpy County, NE",31153,Alzheimer disease and dementia,"Alzheimer disease, unspecified",G30.9,13.0,188856.0,Unreliable
+2022 (provisional and partial),Nebraska,31,"Sarpy County, NE",31153,Ischemic heart disease,Atherosclerotic heart disease,I25.1,10.0,188856.0,Unreliable
