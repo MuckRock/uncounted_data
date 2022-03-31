@@ -37,5 +37,7 @@ Measuring excess deaths helps determine how many more people are dying than a no
 
 2. CDC WONDER data for 2021 and 2022 are provisional and not yet final. This means some numbers are still subject to change. If any numbers raise a red flag for you though, you should check the numbers out on the ground, by asking local practitioners or by contacting the [National Center for Healthcare Statistics directly](https://www.cdc.gov/nchs/index.htm).
 
+
+
 ## Questions and Feedback
 The Documenting COVID-19 project can be reached at covid@muckrock.com.
