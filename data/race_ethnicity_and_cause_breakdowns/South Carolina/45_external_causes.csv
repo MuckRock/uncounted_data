@@ -1,0 +1,485 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,South Carolina,45,"Aiken County, SC",45003,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,169401.0,Unreliable
+2018,South Carolina,45,"Anderson County, SC",45007,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17.0,200482.0,Unreliable
+2018,South Carolina,45,"Berkeley County, SC",45015,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,221091.0,Unreliable
+2018,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,22.0,405905.0,5.4
+2018,South Carolina,45,"Cherokee County, SC",45021,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,57078.0,Unreliable
+2018,South Carolina,45,"Dorchester County, SC",45035,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,160647.0,Unreliable
+2018,South Carolina,45,"Florence County, SC",45041,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,138159.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,40.0,514213.0,7.8
+2018,South Carolina,45,"Greenwood County, SC",45047,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,70741.0,Unreliable
+2018,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,26.0,344147.0,7.6
+2018,South Carolina,45,"Lexington County, SC",45063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,27.0,295032.0,9.2
+2018,South Carolina,45,"Orangeburg County, SC",45075,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,86934.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,40.0,414576.0,9.6
+2018,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24.0,313888.0,7.6
+2018,South Carolina,45,"York County, SC",45091,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,23.0,274118.0,8.4
+2019,South Carolina,45,"Anderson County, SC",45007,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,202558.0,Unreliable
+2019,South Carolina,45,"Berkeley County, SC",45015,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,227907.0,Unreliable
+2019,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32.0,411406.0,7.8
+2019,South Carolina,45,"Dorchester County, SC",45035,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,162809.0,Unreliable
+2019,South Carolina,45,"Florence County, SC",45041,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,138293.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32.0,523542.0,6.1
+2019,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,25.0,354081.0,7.1
+2019,South Carolina,45,"Lancaster County, SC",45057,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,98012.0,Unreliable
+2019,South Carolina,45,"Laurens County, SC",45059,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,67493.0,Unreliable
+2019,South Carolina,45,"Lexington County, SC",45063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,29.0,298750.0,9.7
+2019,South Carolina,45,"Orangeburg County, SC",45075,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,86175.0,Unreliable
+2019,South Carolina,45,"Pickens County, SC",45077,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,126884.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,26.0,415759.0,6.3
+2019,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,319785.0,Unreliable
+2019,South Carolina,45,"York County, SC",45091,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,29.0,280979.0,10.3
+2020,South Carolina,45,"Aiken County, SC",45003,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,172895.0,Unreliable
+2020,South Carolina,45,"Anderson County, SC",45007,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,23.0,204353.0,11.3
+2020,South Carolina,45,"Berkeley County, SC",45015,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,22.0,235987.0,9.3
+2020,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,27.0,417981.0,6.5
+2020,South Carolina,45,"Chester County, SC",45023,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,32232.0,Unreliable
+2020,South Carolina,45,"Colleton County, SC",45029,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19.0,37481.0,Unreliable
+2020,South Carolina,45,"Dorchester County, SC",45035,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,165737.0,Unreliable
+2020,South Carolina,45,"Florence County, SC",45041,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,137588.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,46.0,532486.0,8.6
+2020,South Carolina,45,"Greenwood County, SC",45047,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,71074.0,Unreliable
+2020,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,29.0,365449.0,7.9
+2020,South Carolina,45,"Lexington County, SC",45063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17.0,303946.0,Unreliable
+2020,South Carolina,45,"Orangeburg County, SC",45075,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,85343.0,Unreliable
+2020,South Carolina,45,"Pickens County, SC",45077,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,127983.0,Unreliable
+2020,South Carolina,45,"Richland County, SC",45079,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,39.0,419051.0,9.3
+2020,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,31.0,326205.0,9.5
+2020,South Carolina,45,"York County, SC",45091,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,29.0,289105.0,10.0
+2021,South Carolina,45,"Anderson County, SC",45007,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,204353.0,Unreliable
+2021,South Carolina,45,"Berkeley County, SC",45015,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,235987.0,Unreliable
+2021,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,417981.0,Unreliable
+2021,South Carolina,45,"Florence County, SC",45041,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,137588.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,20.0,532486.0,3.8
+2021,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19.0,365449.0,Unreliable
+2021,South Carolina,45,"Kershaw County, SC",45055,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,67472.0,Unreliable
+2021,South Carolina,45,"Lancaster County, SC",45057,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,100926.0,Unreliable
+2021,South Carolina,45,"Lexington County, SC",45063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32.0,303946.0,10.5
+2021,South Carolina,45,"Orangeburg County, SC",45075,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,85343.0,Unreliable
+2021,South Carolina,45,"Pickens County, SC",45077,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,127983.0,Unreliable
+2021,South Carolina,45,"Richland County, SC",45079,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,27.0,419051.0,6.4
+2021,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,23.0,326205.0,7.1
+2021,South Carolina,45,"Sumter County, SC",45085,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,106360.0,Unreliable
+2021,South Carolina,45,"York County, SC",45091,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,289105.0,Unreliable
+2018,South Carolina,45,"Aiken County, SC",45003,Nontransport accidents,Unspecified fall,W19,15.0,169401.0,Unreliable
+2018,South Carolina,45,"Berkeley County, SC",45015,Nontransport accidents,Unspecified fall,W19,10.0,221091.0,Unreliable
+2018,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Unspecified fall,W19,18.0,405905.0,Unreliable
+2018,South Carolina,45,"Horry County, SC",45051,Nontransport accidents,Unspecified fall,W19,18.0,344147.0,Unreliable
+2018,South Carolina,45,"Kershaw County, SC",45055,Nontransport accidents,Unspecified fall,W19,11.0,65592.0,Unreliable
+2018,South Carolina,45,"Lexington County, SC",45063,Nontransport accidents,Unspecified fall,W19,32.0,295032.0,10.8
+2018,South Carolina,45,"Richland County, SC",45079,Nontransport accidents,Unspecified fall,W19,25.0,414576.0,6.0
+2018,South Carolina,45,"Spartanburg County, SC",45083,Nontransport accidents,Unspecified fall,W19,16.0,313888.0,Unreliable
+2018,South Carolina,45,"York County, SC",45091,Nontransport accidents,Unspecified fall,W19,55.0,274118.0,20.1
+2019,South Carolina,45,"Berkeley County, SC",45015,Nontransport accidents,Unspecified fall,W19,13.0,227907.0,Unreliable
+2019,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Unspecified fall,W19,17.0,411406.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Unspecified fall,W19,10.0,523542.0,Unreliable
+2019,South Carolina,45,"Horry County, SC",45051,Nontransport accidents,Unspecified fall,W19,20.0,354081.0,5.6
+2019,South Carolina,45,"Lexington County, SC",45063,Nontransport accidents,Unspecified fall,W19,41.0,298750.0,13.7
+2019,South Carolina,45,"Pickens County, SC",45077,Nontransport accidents,Unspecified fall,W19,24.0,126884.0,18.9
+2019,South Carolina,45,"Richland County, SC",45079,Nontransport accidents,Unspecified fall,W19,23.0,415759.0,5.5
+2019,South Carolina,45,"Spartanburg County, SC",45083,Nontransport accidents,Unspecified fall,W19,16.0,319785.0,Unreliable
+2019,South Carolina,45,"York County, SC",45091,Nontransport accidents,Unspecified fall,W19,56.0,280979.0,19.9
+2020,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Unspecified fall,W19,13.0,417981.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Unspecified fall,W19,18.0,532486.0,Unreliable
+2020,South Carolina,45,"Horry County, SC",45051,Nontransport accidents,Unspecified fall,W19,22.0,365449.0,6.0
+2020,South Carolina,45,"Lexington County, SC",45063,Nontransport accidents,Unspecified fall,W19,33.0,303946.0,10.9
+2020,South Carolina,45,"Pickens County, SC",45077,Nontransport accidents,Unspecified fall,W19,35.0,127983.0,27.3
+2020,South Carolina,45,"Richland County, SC",45079,Nontransport accidents,Unspecified fall,W19,33.0,419051.0,7.9
+2020,South Carolina,45,"York County, SC",45091,Nontransport accidents,Unspecified fall,W19,88.0,289105.0,30.4
+2021,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Unspecified fall,W19,10.0,532486.0,Unreliable
+2021,South Carolina,45,"Horry County, SC",45051,Nontransport accidents,Unspecified fall,W19,13.0,365449.0,Unreliable
+2021,South Carolina,45,"Lexington County, SC",45063,Nontransport accidents,Unspecified fall,W19,30.0,303946.0,9.9
+2021,South Carolina,45,"Pickens County, SC",45077,Nontransport accidents,Unspecified fall,W19,18.0,127983.0,Unreliable
+2021,South Carolina,45,"Richland County, SC",45079,Nontransport accidents,Unspecified fall,W19,18.0,419051.0,Unreliable
+2021,South Carolina,45,"York County, SC",45091,Nontransport accidents,Unspecified fall,W19,61.0,289105.0,21.1
+2018,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,169401.0,Unreliable
+2018,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,200482.0,Unreliable
+2018,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,221091.0,9.5
+2018,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,46.0,405905.0,11.3
+2018,South Carolina,45,"Dorchester County, SC",45035,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,160647.0,Unreliable
+2018,South Carolina,45,"Florence County, SC",45041,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,138159.0,Unreliable
+2018,South Carolina,45,"Georgetown County, SC",45043,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,62249.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,49.0,514213.0,9.5
+2018,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,41.0,344147.0,11.9
+2018,South Carolina,45,"Lancaster County, SC",45057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,95380.0,Unreliable
+2018,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,295032.0,Unreliable
+2018,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,124937.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,47.0,414576.0,11.3
+2018,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,38.0,313888.0,12.1
+2018,South Carolina,45,"Sumter County, SC",45085,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,106512.0,Unreliable
+2018,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37.0,274118.0,13.5
+2019,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,202558.0,Unreliable
+2019,South Carolina,45,"Beaufort County, SC",45013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,192122.0,Unreliable
+2019,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,227907.0,Unreliable
+2019,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,57.0,411406.0,13.9
+2019,South Carolina,45,"Florence County, SC",45041,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,138293.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35.0,523542.0,6.7
+2019,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,36.0,354081.0,10.2
+2019,South Carolina,45,"Lancaster County, SC",45057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,98012.0,Unreliable
+2019,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,298750.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,40.0,415759.0,9.6
+2019,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,28.0,319785.0,8.8
+2019,South Carolina,45,"Sumter County, SC",45085,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,106721.0,Unreliable
+2019,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29.0,280979.0,10.3
+2020,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35.0,172895.0,20.2
+2020,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,28.0,204353.0,13.7
+2020,South Carolina,45,"Beaufort County, SC",45013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,20.0,195656.0,10.2
+2020,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,23.0,235987.0,9.7
+2020,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,81.0,417981.0,19.4
+2020,South Carolina,45,"Chester County, SC",45023,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,32232.0,Unreliable
+2020,South Carolina,45,"Dorchester County, SC",45035,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,165737.0,Unreliable
+2020,South Carolina,45,"Florence County, SC",45041,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,137588.0,Unreliable
+2020,South Carolina,45,"Georgetown County, SC",45043,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,63353.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,47.0,532486.0,8.8
+2020,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,53.0,365449.0,14.5
+2020,South Carolina,45,"Kershaw County, SC",45055,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,67472.0,Unreliable
+2020,South Carolina,45,"Lancaster County, SC",45057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,38.0,100926.0,37.7
+2020,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35.0,303946.0,11.5
+2020,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,127983.0,Unreliable
+2020,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,55.0,419051.0,13.1
+2020,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,31.0,326205.0,9.5
+2020,South Carolina,45,"Sumter County, SC",45085,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,106360.0,Unreliable
+2020,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,48.0,289105.0,16.6
+2021,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,172895.0,14.5
+2021,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,204353.0,Unreliable
+2021,South Carolina,45,"Beaufort County, SC",45013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,195656.0,Unreliable
+2021,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,235987.0,8.9
+2021,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,62.0,417981.0,14.8
+2021,South Carolina,45,"Georgetown County, SC",45043,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,63353.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,32.0,532486.0,6.0
+2021,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,47.0,365449.0,12.9
+2021,South Carolina,45,"Lancaster County, SC",45057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,100926.0,Unreliable
+2021,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,303946.0,Unreliable
+2021,South Carolina,45,"Orangeburg County, SC",45075,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,85343.0,Unreliable
+2021,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,127983.0,Unreliable
+2021,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35.0,419051.0,8.4
+2021,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33.0,326205.0,10.1
+2021,South Carolina,45,"Williamsburg County, SC",45089,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,29825.0,Unreliable
+2021,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,47.0,289105.0,16.3
+2018,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,169401.0,13.6
+2018,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,200482.0,Unreliable
+2018,South Carolina,45,"Beaufort County, SC",45013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,188715.0,Unreliable
+2018,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,221091.0,10.9
+2018,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,405905.0,8.1
+2018,South Carolina,45,"Dorchester County, SC",45035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,160647.0,Unreliable
+2018,South Carolina,45,"Florence County, SC",45041,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,138159.0,Unreliable
+2018,South Carolina,45,"Georgetown County, SC",45043,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,62249.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,75.0,514213.0,14.6
+2018,South Carolina,45,"Greenwood County, SC",45047,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,70741.0,Unreliable
+2018,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,52.0,344147.0,15.1
+2018,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,295032.0,11.2
+2018,South Carolina,45,"Oconee County, SC",45073,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,78374.0,Unreliable
+2018,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,124937.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,414576.0,5.1
+2018,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31.0,313888.0,9.9
+2018,South Carolina,45,"Sumter County, SC",45085,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,106512.0,Unreliable
+2018,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,274118.0,Unreliable
+2019,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,170872.0,Unreliable
+2019,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,202558.0,11.8
+2019,South Carolina,45,"Beaufort County, SC",45013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,192122.0,Unreliable
+2019,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,227907.0,10.1
+2019,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,411406.0,5.1
+2019,South Carolina,45,"Dorchester County, SC",45035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,162809.0,Unreliable
+2019,South Carolina,45,"Florence County, SC",45041,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,138293.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,74.0,523542.0,14.1
+2019,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,89.0,354081.0,25.1
+2019,South Carolina,45,"Lancaster County, SC",45057,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,98012.0,Unreliable
+2019,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,32.0,298750.0,10.7
+2019,South Carolina,45,"Oconee County, SC",45073,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,79546.0,Unreliable
+2019,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,126884.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,415759.0,5.5
+2019,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,32.0,319785.0,10.0
+2019,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,280979.0,8.9
+2020,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,172895.0,15.0
+2020,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29.0,204353.0,14.2
+2020,South Carolina,45,"Beaufort County, SC",45013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,195656.0,Unreliable
+2020,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31.0,235987.0,13.1
+2020,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,65.0,417981.0,15.6
+2020,South Carolina,45,"Dillon County, SC",45033,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,30367.0,Unreliable
+2020,South Carolina,45,"Dorchester County, SC",45035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,32.0,165737.0,19.3
+2020,South Carolina,45,"Florence County, SC",45041,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23.0,137588.0,16.7
+2020,South Carolina,45,"Georgetown County, SC",45043,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,63353.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,105.0,532486.0,19.7
+2020,South Carolina,45,"Greenwood County, SC",45047,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,71074.0,Unreliable
+2020,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,126.0,365449.0,34.5
+2020,South Carolina,45,"Lancaster County, SC",45057,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,100926.0,Unreliable
+2020,South Carolina,45,"Laurens County, SC",45059,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,67883.0,38.3
+2020,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,49.0,303946.0,16.1
+2020,South Carolina,45,"Orangeburg County, SC",45075,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,85343.0,Unreliable
+2020,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30.0,127983.0,23.4
+2020,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,36.0,419051.0,8.6
+2020,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,69.0,326205.0,21.2
+2020,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31.0,289105.0,10.7
+2021,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,172895.0,Unreliable
+2021,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,204353.0,12.2
+2021,South Carolina,45,"Beaufort County, SC",45013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,195656.0,10.2
+2021,South Carolina,45,"Berkeley County, SC",45015,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,235987.0,14.0
+2021,South Carolina,45,"Charleston County, SC",45019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,417981.0,9.6
+2021,South Carolina,45,"Dorchester County, SC",45035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,165737.0,13.3
+2021,South Carolina,45,"Florence County, SC",45041,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,137588.0,18.9
+2021,South Carolina,45,"Georgetown County, SC",45043,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,63353.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,116.0,532486.0,21.8
+2021,South Carolina,45,"Greenwood County, SC",45047,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,71074.0,28.1
+2021,South Carolina,45,"Horry County, SC",45051,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,101.0,365449.0,27.6
+2021,South Carolina,45,"Lancaster County, SC",45057,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,100926.0,Unreliable
+2021,South Carolina,45,"Laurens County, SC",45059,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,67883.0,Unreliable
+2021,South Carolina,45,"Lexington County, SC",45063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,48.0,303946.0,15.8
+2021,South Carolina,45,"Oconee County, SC",45073,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,80015.0,Unreliable
+2021,South Carolina,45,"Orangeburg County, SC",45075,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,85343.0,Unreliable
+2021,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21.0,127983.0,16.4
+2021,South Carolina,45,"Richland County, SC",45079,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,33.0,419051.0,7.9
+2021,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,52.0,326205.0,15.9
+2021,South Carolina,45,"York County, SC",45091,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28.0,289105.0,9.7
+2018,South Carolina,45,"Aiken County, SC",45003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,25.0,169401.0,14.8
+2018,South Carolina,45,"Anderson County, SC",45007,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,200482.0,Unreliable
+2018,South Carolina,45,"Beaufort County, SC",45013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,188715.0,Unreliable
+2018,South Carolina,45,"Berkeley County, SC",45015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,221091.0,Unreliable
+2018,South Carolina,45,"Charleston County, SC",45019,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,34.0,405905.0,8.4
+2018,South Carolina,45,"Chesterfield County, SC",45025,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,45754.0,Unreliable
+2018,South Carolina,45,"Dorchester County, SC",45035,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,160647.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,49.0,514213.0,9.5
+2018,South Carolina,45,"Horry County, SC",45051,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,36.0,344147.0,10.5
+2018,South Carolina,45,"Lancaster County, SC",45057,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,95380.0,Unreliable
+2018,South Carolina,45,"Laurens County, SC",45059,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,66994.0,Unreliable
+2018,South Carolina,45,"Lexington County, SC",45063,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,25.0,295032.0,8.5
+2018,South Carolina,45,"Pickens County, SC",45077,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,124937.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,414576.0,5.3
+2018,South Carolina,45,"Spartanburg County, SC",45083,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,38.0,313888.0,12.1
+2018,South Carolina,45,"York County, SC",45091,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,24.0,274118.0,8.8
+2019,South Carolina,45,"Aiken County, SC",45003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,22.0,170872.0,12.9
+2019,South Carolina,45,"Anderson County, SC",45007,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,25.0,202558.0,12.3
+2019,South Carolina,45,"Beaufort County, SC",45013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,192122.0,Unreliable
+2019,South Carolina,45,"Berkeley County, SC",45015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,28.0,227907.0,12.3
+2019,South Carolina,45,"Charleston County, SC",45019,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,36.0,411406.0,8.8
+2019,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,49.0,523542.0,9.4
+2019,South Carolina,45,"Horry County, SC",45051,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,29.0,354081.0,8.2
+2019,South Carolina,45,"Kershaw County, SC",45055,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,66551.0,Unreliable
+2019,South Carolina,45,"Lexington County, SC",45063,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,31.0,298750.0,10.4
+2019,South Carolina,45,"Pickens County, SC",45077,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,126884.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,31.0,415759.0,7.5
+2019,South Carolina,45,"Spartanburg County, SC",45083,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,35.0,319785.0,10.9
+2019,South Carolina,45,"York County, SC",45091,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,29.0,280979.0,10.3
+2020,South Carolina,45,"Aiken County, SC",45003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,24.0,172895.0,13.9
+2020,South Carolina,45,"Anderson County, SC",45007,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,41.0,204353.0,20.1
+2020,South Carolina,45,"Beaufort County, SC",45013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,195656.0,Unreliable
+2020,South Carolina,45,"Berkeley County, SC",45015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,24.0,235987.0,10.2
+2020,South Carolina,45,"Charleston County, SC",45019,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,27.0,417981.0,6.5
+2020,South Carolina,45,"Dorchester County, SC",45035,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,165737.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,50.0,532486.0,9.4
+2020,South Carolina,45,"Horry County, SC",45051,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,41.0,365449.0,11.2
+2020,South Carolina,45,"Lancaster County, SC",45057,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,100926.0,Unreliable
+2020,South Carolina,45,"Lexington County, SC",45063,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,45.0,303946.0,14.8
+2020,South Carolina,45,"Pickens County, SC",45077,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,127983.0,Unreliable
+2020,South Carolina,45,"Richland County, SC",45079,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,419051.0,5.0
+2020,South Carolina,45,"Spartanburg County, SC",45083,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,44.0,326205.0,13.5
+2020,South Carolina,45,"York County, SC",45091,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,33.0,289105.0,11.4
+2021,South Carolina,45,"Aiken County, SC",45003,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,172895.0,Unreliable
+2021,South Carolina,45,"Anderson County, SC",45007,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,204353.0,Unreliable
+2021,South Carolina,45,"Berkeley County, SC",45015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,235987.0,Unreliable
+2021,South Carolina,45,"Charleston County, SC",45019,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,33.0,417981.0,7.9
+2021,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,35.0,532486.0,6.6
+2021,South Carolina,45,"Horry County, SC",45051,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,38.0,365449.0,10.4
+2021,South Carolina,45,"Lexington County, SC",45063,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,303946.0,Unreliable
+2021,South Carolina,45,"Richland County, SC",45079,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,419051.0,Unreliable
+2021,South Carolina,45,"Spartanburg County, SC",45083,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,21.0,326205.0,6.4
+2021,South Carolina,45,"York County, SC",45091,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,289105.0,Unreliable
+2018,South Carolina,45,"Aiken County, SC",45003,Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,169401.0,Unreliable
+2018,South Carolina,45,"Anderson County, SC",45007,Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,200482.0,Unreliable
+2018,South Carolina,45,"Beaufort County, SC",45013,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,188715.0,Unreliable
+2018,South Carolina,45,"Berkeley County, SC",45015,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,221091.0,Unreliable
+2018,South Carolina,45,"Charleston County, SC",45019,Assault (homicide),Assault by other and unspecified firearm discharge,X95,35.0,405905.0,8.6
+2018,South Carolina,45,"Darlington County, SC",45031,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,66802.0,Unreliable
+2018,South Carolina,45,"Florence County, SC",45041,Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,138159.0,14.5
+2018,South Carolina,45,"Greenville County, SC",45045,Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,514213.0,Unreliable
+2018,South Carolina,45,"Horry County, SC",45051,Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,344147.0,5.8
+2018,South Carolina,45,"Lexington County, SC",45063,Assault (homicide),Assault by other and unspecified firearm discharge,X95,22.0,295032.0,7.5
+2018,South Carolina,45,"Orangeburg County, SC",45075,Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,86934.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,Assault (homicide),Assault by other and unspecified firearm discharge,X95,40.0,414576.0,9.6
+2018,South Carolina,45,"Spartanburg County, SC",45083,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,313888.0,Unreliable
+2019,South Carolina,45,"Aiken County, SC",45003,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,170872.0,Unreliable
+2019,South Carolina,45,"Anderson County, SC",45007,Assault (homicide),Assault by other and unspecified firearm discharge,X95,19.0,202558.0,Unreliable
+2019,South Carolina,45,"Beaufort County, SC",45013,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,192122.0,Unreliable
+2019,South Carolina,45,"Berkeley County, SC",45015,Assault (homicide),Assault by other and unspecified firearm discharge,X95,21.0,227907.0,9.2
+2019,South Carolina,45,"Charleston County, SC",45019,Assault (homicide),Assault by other and unspecified firearm discharge,X95,47.0,411406.0,11.4
+2019,South Carolina,45,"Darlington County, SC",45031,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,66618.0,Unreliable
+2019,South Carolina,45,"Florence County, SC",45041,Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,138293.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Assault (homicide),Assault by other and unspecified firearm discharge,X95,25.0,523542.0,4.8
+2019,South Carolina,45,"Horry County, SC",45051,Assault (homicide),Assault by other and unspecified firearm discharge,X95,13.0,354081.0,Unreliable
+2019,South Carolina,45,"Lexington County, SC",45063,Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,298750.0,Unreliable
+2019,South Carolina,45,"Orangeburg County, SC",45075,Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,86175.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,Assault (homicide),Assault by other and unspecified firearm discharge,X95,48.0,415759.0,11.5
+2019,South Carolina,45,"Spartanburg County, SC",45083,Assault (homicide),Assault by other and unspecified firearm discharge,X95,26.0,319785.0,8.1
+2019,South Carolina,45,"Sumter County, SC",45085,Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,106721.0,Unreliable
+2019,South Carolina,45,"Williamsburg County, SC",45089,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,30368.0,Unreliable
+2019,South Carolina,45,"York County, SC",45091,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,280979.0,Unreliable
+2020,South Carolina,45,"Aiken County, SC",45003,Assault (homicide),Assault by other and unspecified firearm discharge,X95,22.0,172895.0,12.7
+2020,South Carolina,45,"Anderson County, SC",45007,Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,204353.0,9.8
+2020,South Carolina,45,"Barnwell County, SC",45011,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,20805.0,Unreliable
+2020,South Carolina,45,"Beaufort County, SC",45013,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,195656.0,Unreliable
+2020,South Carolina,45,"Berkeley County, SC",45015,Assault (homicide),Assault by other and unspecified firearm discharge,X95,23.0,235987.0,9.7
+2020,South Carolina,45,"Charleston County, SC",45019,Assault (homicide),Assault by other and unspecified firearm discharge,X95,51.0,417981.0,12.2
+2020,South Carolina,45,"Darlington County, SC",45031,Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,66509.0,Unreliable
+2020,South Carolina,45,"Dillon County, SC",45033,Assault (homicide),Assault by other and unspecified firearm discharge,X95,21.0,30367.0,69.2
+2020,South Carolina,45,"Dorchester County, SC",45035,Assault (homicide),Assault by other and unspecified firearm discharge,X95,15.0,165737.0,Unreliable
+2020,South Carolina,45,"Florence County, SC",45041,Assault (homicide),Assault by other and unspecified firearm discharge,X95,21.0,137588.0,15.3
+2020,South Carolina,45,"Greenville County, SC",45045,Assault (homicide),Assault by other and unspecified firearm discharge,X95,40.0,532486.0,7.5
+2020,South Carolina,45,"Horry County, SC",45051,Assault (homicide),Assault by other and unspecified firearm discharge,X95,31.0,365449.0,8.5
+2020,South Carolina,45,"Lexington County, SC",45063,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,303946.0,Unreliable
+2020,South Carolina,45,"Orangeburg County, SC",45075,Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,85343.0,Unreliable
+2020,South Carolina,45,"Richland County, SC",45079,Assault (homicide),Assault by other and unspecified firearm discharge,X95,43.0,419051.0,10.3
+2020,South Carolina,45,"Spartanburg County, SC",45083,Assault (homicide),Assault by other and unspecified firearm discharge,X95,21.0,326205.0,6.4
+2020,South Carolina,45,"Sumter County, SC",45085,Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,106360.0,Unreliable
+2020,South Carolina,45,"York County, SC",45091,Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,289105.0,Unreliable
+2021,South Carolina,45,"Aiken County, SC",45003,Assault (homicide),Assault by other and unspecified firearm discharge,X95,14.0,172895.0,Unreliable
+2021,South Carolina,45,"Anderson County, SC",45007,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,204353.0,Unreliable
+2021,South Carolina,45,"Berkeley County, SC",45015,Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,235987.0,Unreliable
+2021,South Carolina,45,"Charleston County, SC",45019,Assault (homicide),Assault by other and unspecified firearm discharge,X95,34.0,417981.0,8.1
+2021,South Carolina,45,"Darlington County, SC",45031,Assault (homicide),Assault by other and unspecified firearm discharge,X95,16.0,66509.0,Unreliable
+2021,South Carolina,45,"Florence County, SC",45041,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,137588.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,532486.0,Unreliable
+2021,South Carolina,45,"Horry County, SC",45051,Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,365449.0,Unreliable
+2021,South Carolina,45,"Lexington County, SC",45063,Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,303946.0,Unreliable
+2021,South Carolina,45,"Richland County, SC",45079,Assault (homicide),Assault by other and unspecified firearm discharge,X95,40.0,419051.0,9.5
+2021,South Carolina,45,"Spartanburg County, SC",45083,Assault (homicide),Assault by other and unspecified firearm discharge,X95,18.0,326205.0,Unreliable
+2021,South Carolina,45,"York County, SC",45091,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,289105.0,Unreliable
+2018,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Malaise and fatigue,R53,19.0,200482.0,Unreliable
+2019,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Malaise and fatigue,R53,18.0,202558.0,Unreliable
+2020,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Malaise and fatigue,R53,13.0,204353.0,Unreliable
+2018,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,14.0,200482.0,Unreliable
+2019,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,25.0,202558.0,12.3
+2019,South Carolina,45,"Greenville County, SC",45045,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,17.0,523542.0,Unreliable
+2020,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,47.0,204353.0,23.0
+2021,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,42.0,204353.0,20.6
+2018,South Carolina,45,"Anderson County, SC",45007,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,11.0,200482.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,21.0,514213.0,4.1
+2018,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,344147.0,Unreliable
+2018,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,15.0,313888.0,Unreliable
+2019,South Carolina,45,"Florence County, SC",45041,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,138293.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,11.0,523542.0,Unreliable
+2019,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,354081.0,Unreliable
+2020,South Carolina,45,"Florence County, SC",45041,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,137588.0,Unreliable
+2020,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,13.0,365449.0,Unreliable
+2021,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,417981.0,Unreliable
+2018,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,14.0,405905.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,514213.0,Unreliable
+2018,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,344147.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,414576.0,Unreliable
+2018,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,12.0,313888.0,Unreliable
+2019,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,411406.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13.0,523542.0,Unreliable
+2019,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,12.0,354081.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,415759.0,Unreliable
+2019,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,12.0,319785.0,Unreliable
+2020,South Carolina,45,"Charleston County, SC",45019,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15.0,417981.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,532486.0,Unreliable
+2020,South Carolina,45,"Horry County, SC",45051,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,12.0,365449.0,Unreliable
+2020,South Carolina,45,"Lexington County, SC",45063,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,303946.0,Unreliable
+2020,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,11.0,326205.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,532486.0,Unreliable
+2021,South Carolina,45,"Spartanburg County, SC",45083,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,326205.0,Unreliable
+2018,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Other fall on same level,W18,18.0,405905.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Other fall on same level,W18,63.0,514213.0,12.3
+2018,South Carolina,45,"Spartanburg County, SC",45083,Nontransport accidents,Other fall on same level,W18,10.0,313888.0,Unreliable
+2019,South Carolina,45,"Aiken County, SC",45003,Nontransport accidents,Other fall on same level,W18,15.0,170872.0,Unreliable
+2019,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Other fall on same level,W18,12.0,411406.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Other fall on same level,W18,65.0,523542.0,12.4
+2019,South Carolina,45,"Spartanburg County, SC",45083,Nontransport accidents,Other fall on same level,W18,13.0,319785.0,Unreliable
+2020,South Carolina,45,"Aiken County, SC",45003,Nontransport accidents,Other fall on same level,W18,20.0,172895.0,11.6
+2020,South Carolina,45,"Anderson County, SC",45007,Nontransport accidents,Other fall on same level,W18,11.0,204353.0,Unreliable
+2020,South Carolina,45,"Beaufort County, SC",45013,Nontransport accidents,Other fall on same level,W18,13.0,195656.0,Unreliable
+2020,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Other fall on same level,W18,13.0,417981.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Other fall on same level,W18,56.0,532486.0,10.5
+2020,South Carolina,45,"Spartanburg County, SC",45083,Nontransport accidents,Other fall on same level,W18,29.0,326205.0,8.9
+2021,South Carolina,45,"Aiken County, SC",45003,Nontransport accidents,Other fall on same level,W18,14.0,172895.0,Unreliable
+2021,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Other fall on same level,W18,20.0,417981.0,4.8
+2021,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Other fall on same level,W18,40.0,532486.0,7.5
+2021,South Carolina,45,"Spartanburg County, SC",45083,Nontransport accidents,Other fall on same level,W18,26.0,326205.0,8.0
+2018,South Carolina,45,"Charleston County, SC",45019,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,405905.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,514213.0,Unreliable
+2018,South Carolina,45,"Horry County, SC",45051,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,344147.0,Unreliable
+2018,South Carolina,45,"Lexington County, SC",45063,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,295032.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,414576.0,Unreliable
+2018,South Carolina,45,"Spartanburg County, SC",45083,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,313888.0,Unreliable
+2019,South Carolina,45,"Charleston County, SC",45019,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,411406.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,523542.0,Unreliable
+2019,South Carolina,45,"Horry County, SC",45051,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,354081.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,415759.0,Unreliable
+2019,South Carolina,45,"Spartanburg County, SC",45083,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,319785.0,Unreliable
+2019,South Carolina,45,"York County, SC",45091,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,280979.0,Unreliable
+2020,South Carolina,45,"Aiken County, SC",45003,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,172895.0,Unreliable
+2020,South Carolina,45,"Anderson County, SC",45007,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,204353.0,Unreliable
+2020,South Carolina,45,"Charleston County, SC",45019,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,417981.0,Unreliable
+2020,South Carolina,45,"Dorchester County, SC",45035,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,165737.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,532486.0,Unreliable
+2020,South Carolina,45,"Horry County, SC",45051,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,365449.0,Unreliable
+2020,South Carolina,45,"Richland County, SC",45079,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,419051.0,Unreliable
+2020,South Carolina,45,"York County, SC",45091,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,289105.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,532486.0,Unreliable
+2018,South Carolina,45,"Darlington County, SC",45031,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Dyspnoea,R06.0,17.0,66802.0,Unreliable
+2018,South Carolina,45,"Florence County, SC",45041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Dyspnoea,R06.0,58.0,138159.0,42.0
+2018,South Carolina,45,"Marion County, SC",45067,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Dyspnoea,R06.0,10.0,31039.0,Unreliable
+2018,South Carolina,45,"Williamsburg County, SC",45089,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Dyspnoea,R06.0,17.0,30606.0,Unreliable
+2019,South Carolina,45,"Florence County, SC",45041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Dyspnoea,R06.0,46.0,138293.0,33.3
+2019,South Carolina,45,"Marion County, SC",45067,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Dyspnoea,R06.0,20.0,30657.0,65.2
+2018,South Carolina,45,"Greenville County, SC",45045,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,16.0,514213.0,Unreliable
+2019,South Carolina,45,"York County, SC",45091,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,18.0,280979.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,16.0,514213.0,Unreliable
+2019,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,523542.0,Unreliable
+2019,South Carolina,45,"Pickens County, SC",45077,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,126884.0,Unreliable
+2019,South Carolina,45,"Spartanburg County, SC",45083,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,319785.0,Unreliable
+2020,South Carolina,45,"Aiken County, SC",45003,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,172895.0,Unreliable
+2020,South Carolina,45,"Anderson County, SC",45007,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,204353.0,Unreliable
+2020,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,16.0,532486.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13.0,532486.0,Unreliable
+2018,South Carolina,45,"Greenville County, SC",45045,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,514213.0,Unreliable
+2018,South Carolina,45,"Horry County, SC",45051,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,11.0,344147.0,Unreliable
+2018,South Carolina,45,"Richland County, SC",45079,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,16.0,414576.0,Unreliable
+2019,South Carolina,45,"Horry County, SC",45051,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,12.0,354081.0,Unreliable
+2019,South Carolina,45,"Richland County, SC",45079,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,13.0,415759.0,Unreliable
+2020,South Carolina,45,"Richland County, SC",45079,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,419051.0,Unreliable
+2020,South Carolina,45,"York County, SC",45091,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,289105.0,Unreliable
+2021,South Carolina,45,"Aiken County, SC",45003,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,172895.0,Unreliable
+2021,South Carolina,45,"Anderson County, SC",45007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,13.0,204353.0,Unreliable
+2021,South Carolina,45,"Beaufort County, SC",45013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,15.0,195656.0,Unreliable
+2021,South Carolina,45,"Berkeley County, SC",45015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,28.0,235987.0,11.9
+2021,South Carolina,45,"Charleston County, SC",45019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,20.0,417981.0,4.8
+2021,South Carolina,45,"Cherokee County, SC",45021,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,15.0,57316.0,Unreliable
+2021,South Carolina,45,"Darlington County, SC",45031,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,12.0,66509.0,Unreliable
+2021,South Carolina,45,"Dillon County, SC",45033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,10.0,30367.0,Unreliable
+2021,South Carolina,45,"Dorchester County, SC",45035,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,16.0,165737.0,Unreliable
+2021,South Carolina,45,"Florence County, SC",45041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,16.0,137588.0,Unreliable
+2021,South Carolina,45,"Georgetown County, SC",45043,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,63353.0,Unreliable
+2021,South Carolina,45,"Greenville County, SC",45045,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,63.0,532486.0,11.8
+2021,South Carolina,45,"Horry County, SC",45051,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,50.0,365449.0,13.7
+2021,South Carolina,45,"Lancaster County, SC",45057,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,17.0,100926.0,Unreliable
+2021,South Carolina,45,"Lexington County, SC",45063,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,24.0,303946.0,7.9
+2021,South Carolina,45,"Oconee County, SC",45073,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,10.0,80015.0,Unreliable
+2021,South Carolina,45,"Pickens County, SC",45077,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,127983.0,Unreliable
+2021,South Carolina,45,"Richland County, SC",45079,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,49.0,419051.0,11.7
+2021,South Carolina,45,"Spartanburg County, SC",45083,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,55.0,326205.0,16.9
+2021,South Carolina,45,"Sumter County, SC",45085,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,13.0,106360.0,Unreliable
+2021,South Carolina,45,"York County, SC",45091,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,72.0,289105.0,24.9
+2022,South Carolina,45,"Aiken County, SC",45003,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,172895.0,Unreliable
+2022,South Carolina,45,"Beaufort County, SC",45013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,10.0,195656.0,Unreliable
+2022,South Carolina,45,"Berkeley County, SC",45015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,19.0,235987.0,Unreliable
+2022,South Carolina,45,"Charleston County, SC",45019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,38.0,417981.0,9.1
+2022,South Carolina,45,"Dorchester County, SC",45035,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,13.0,165737.0,Unreliable
+2022,South Carolina,45,"Florence County, SC",45041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,11.0,137588.0,Unreliable
+2022,South Carolina,45,"Greenville County, SC",45045,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,57.0,532486.0,10.7
+2022,South Carolina,45,"Horry County, SC",45051,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,51.0,365449.0,14.0
+2022,South Carolina,45,"Lancaster County, SC",45057,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,17.0,100926.0,Unreliable
+2022,South Carolina,45,"Lexington County, SC",45063,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,26.0,303946.0,8.6
+2022,South Carolina,45,"Orangeburg County, SC",45075,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,85343.0,Unreliable
+2022,South Carolina,45,"Richland County, SC",45079,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,31.0,419051.0,7.4
+2022,South Carolina,45,"Spartanburg County, SC",45083,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,41.0,326205.0,12.6
+2022,South Carolina,45,"York County, SC",45091,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,123.0,289105.0,42.5
+2018,South Carolina,45,"Horry County, SC",45051,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,344147.0,Unreliable
+2019,South Carolina,45,"Horry County, SC",45051,Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,12.0,354081.0,Unreliable
+2019,South Carolina,45,"Spartanburg County, SC",45083,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,16.0,319785.0,Unreliable
+2020,South Carolina,45,"Charleston County, SC",45019,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,417981.0,Unreliable
+2020,South Carolina,45,"Horry County, SC",45051,Nontransport accidents,Exposure to unspecified factor causing fracture,X59.0,11.0,365449.0,Unreliable
+2018,South Carolina,45,"Spartanburg County, SC",45083,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other lack of expected normal physiological development,R62.8,11.0,313888.0,Unreliable
+2019,South Carolina,45,"Horry County, SC",45051,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other lack of expected normal physiological development,R62.8,11.0,354081.0,Unreliable
+2019,South Carolina,45,"Spartanburg County, SC",45083,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other lack of expected normal physiological development,R62.8,10.0,319785.0,Unreliable
+2020,South Carolina,45,"Richland County, SC",45079,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other lack of expected normal physiological development,R62.8,11.0,419051.0,Unreliable
+2019,South Carolina,45,"Cherokee County, SC",45021,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Respiratory arrest,R09.2,16.0,57300.0,Unreliable

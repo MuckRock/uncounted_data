@@ -1,0 +1,172 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,New Mexico,35,"Bernalillo County, NM",35001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,678701.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,27.0,679121.0,4.0
+2020,New Mexico,35,"Bernalillo County, NM",35001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,21.0,681666.0,3.1
+2020,New Mexico,35,"McKinley County, NM",35031,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,25.0,70824.0,35.3
+2020,New Mexico,35,"San Juan County, NM",35045,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,12.0,123312.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,147.0,681666.0,21.6
+2021,New Mexico,35,"Chaves County, NM",35005,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,12.0,64711.0,Unreliable
+2021,New Mexico,35,"Dona Ana County, NM",35013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,22.0,221262.0,9.9
+2021,New Mexico,35,"Eddy County, NM",35015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,58418.0,Unreliable
+2021,New Mexico,35,"McKinley County, NM",35031,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,70824.0,Unreliable
+2021,New Mexico,35,"Rio Arriba County, NM",35039,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,11.0,38521.0,Unreliable
+2021,New Mexico,35,"Sandoval County, NM",35043,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,12.0,148904.0,Unreliable
+2021,New Mexico,35,"San Juan County, NM",35045,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,23.0,123312.0,18.7
+2021,New Mexico,35,"San Miguel County, NM",35047,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,27144.0,Unreliable
+2021,New Mexico,35,"Santa Fe County, NM",35049,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,16.0,151946.0,Unreliable
+2021,New Mexico,35,"Taos County, NM",35055,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,15.0,32593.0,Unreliable
+2021,New Mexico,35,"Valencia County, NM",35061,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,19.0,77574.0,Unreliable
+2022,New Mexico,35,"Bernalillo County, NM",35001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,85.0,681666.0,12.5
+2022,New Mexico,35,"Dona Ana County, NM",35013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,19.0,221262.0,Unreliable
+2022,New Mexico,35,"Sandoval County, NM",35043,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,15.0,148904.0,Unreliable
+2022,New Mexico,35,"San Juan County, NM",35045,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,19.0,123312.0,Unreliable
+2022,New Mexico,35,"San Miguel County, NM",35047,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,10.0,27144.0,Unreliable
+2022,New Mexico,35,"Santa Fe County, NM",35049,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,12.0,151946.0,Unreliable
+2022,New Mexico,35,"Valencia County, NM",35061,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,13.0,77574.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,25.0,678701.0,3.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,27.0,679121.0,4.0
+2019,New Mexico,35,"McKinley County, NM",35031,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,14.0,71367.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,22.0,681666.0,3.2
+2021,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,17.0,681666.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,678701.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,72290.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,679121.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,681666.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10.0,681666.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Other fall on same level,W18,124.0,678701.0,18.3
+2018,New Mexico,35,"Dona Ana County, NM",35013,Nontransport accidents,Other fall on same level,W18,17.0,217522.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Nontransport accidents,Other fall on same level,W18,22.0,145179.0,15.2
+2018,New Mexico,35,"San Juan County, NM",35045,Nontransport accidents,Other fall on same level,W18,16.0,125043.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Nontransport accidents,Other fall on same level,W18,18.0,150056.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Other fall on same level,W18,106.0,679121.0,15.6
+2019,New Mexico,35,"Chaves County, NM",35005,Nontransport accidents,Other fall on same level,W18,10.0,64615.0,Unreliable
+2019,New Mexico,35,"Dona Ana County, NM",35013,Nontransport accidents,Other fall on same level,W18,27.0,218195.0,12.4
+2019,New Mexico,35,"Eddy County, NM",35015,Nontransport accidents,Other fall on same level,W18,10.0,58460.0,Unreliable
+2019,New Mexico,35,"Lea County, NM",35025,Nontransport accidents,Other fall on same level,W18,12.0,71070.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Nontransport accidents,Other fall on same level,W18,29.0,146748.0,19.8
+2019,New Mexico,35,"San Juan County, NM",35045,Nontransport accidents,Other fall on same level,W18,13.0,123958.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Nontransport accidents,Other fall on same level,W18,27.0,150358.0,18.0
+2020,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Other fall on same level,W18,102.0,681666.0,15.0
+2020,New Mexico,35,"Dona Ana County, NM",35013,Nontransport accidents,Other fall on same level,W18,13.0,221262.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Nontransport accidents,Other fall on same level,W18,26.0,148904.0,17.5
+2020,New Mexico,35,"San Juan County, NM",35045,Nontransport accidents,Other fall on same level,W18,16.0,123312.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Nontransport accidents,Other fall on same level,W18,27.0,151946.0,17.8
+2021,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Other fall on same level,W18,66.0,681666.0,9.7
+2021,New Mexico,35,"Dona Ana County, NM",35013,Nontransport accidents,Other fall on same level,W18,17.0,221262.0,Unreliable
+2021,New Mexico,35,"Sandoval County, NM",35043,Nontransport accidents,Other fall on same level,W18,18.0,148904.0,Unreliable
+2021,New Mexico,35,"Santa Fe County, NM",35049,Nontransport accidents,Other fall on same level,W18,16.0,151946.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Unspecified fall,W19,10.0,678701.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Unspecified fall,W19,13.0,679121.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Unspecified fall,W19,11.0,681666.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,32.0,678701.0,4.7
+2019,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,44.0,679121.0,6.5
+2019,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,218195.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,49.0,681666.0,7.2
+2020,New Mexico,35,"San Juan County, NM",35045,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,15.0,123312.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,53.0,681666.0,7.8
+2021,New Mexico,35,"San Juan County, NM",35045,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13.0,123312.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,51.0,678701.0,7.5
+2018,New Mexico,35,"Rio Arriba County, NM",35039,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,39006.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,145179.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,150056.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,70.0,679121.0,10.3
+2019,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,218195.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,150358.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,130.0,681666.0,19.1
+2020,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,221262.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,38521.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,148904.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,151946.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,99.0,681666.0,14.5
+2021,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,221262.0,Unreliable
+2021,New Mexico,35,"Rio Arriba County, NM",35039,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,38521.0,Unreliable
+2021,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,23.0,151946.0,15.1
+2018,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,81.0,678701.0,11.9
+2018,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,217522.0,Unreliable
+2018,New Mexico,35,"Rio Arriba County, NM",35039,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,39006.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,145179.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,150056.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,122.0,679121.0,18.0
+2019,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,218195.0,Unreliable
+2019,New Mexico,35,"Rio Arriba County, NM",35039,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,38921.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,123958.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30.0,150358.0,20.0
+2019,New Mexico,35,"Valencia County, NM",35061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,76688.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,165.0,681666.0,24.2
+2020,New Mexico,35,"Curry County, NM",35009,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,48793.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,221262.0,Unreliable
+2020,New Mexico,35,"Rio Arriba County, NM",35039,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22.0,38521.0,57.1
+2020,New Mexico,35,"Sandoval County, NM",35043,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,148904.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,27.0,151946.0,17.8
+2020,New Mexico,35,"Valencia County, NM",35061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,77574.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,145.0,681666.0,21.3
+2021,New Mexico,35,"Dona Ana County, NM",35013,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,221262.0,Unreliable
+2021,New Mexico,35,"Otero County, NM",35035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,67967.0,Unreliable
+2021,New Mexico,35,"Rio Arriba County, NM",35039,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,38521.0,Unreliable
+2021,New Mexico,35,"Sandoval County, NM",35043,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,18.0,148904.0,Unreliable
+2021,New Mexico,35,"Santa Fe County, NM",35049,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26.0,151946.0,17.1
+2021,New Mexico,35,"Valencia County, NM",35061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,77574.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,10.0,678701.0,Unreliable
+2018,New Mexico,35,"McKinley County, NM",35031,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,19.0,72290.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,12.0,125043.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,29.0,679121.0,4.3
+2019,New Mexico,35,"McKinley County, NM",35031,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,13.0,71367.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,12.0,123958.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,29.0,681666.0,4.3
+2020,New Mexico,35,"McKinley County, NM",35031,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,16.0,70824.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,28.0,123312.0,22.7
+2021,New Mexico,35,"Bernalillo County, NM",35001,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,19.0,681666.0,Unreliable
+2021,New Mexico,35,"McKinley County, NM",35031,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,11.0,70824.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18.0,678701.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,681666.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,51.0,678701.0,7.5
+2018,New Mexico,35,"McKinley County, NM",35031,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,72290.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,20.0,125043.0,16.0
+2018,New Mexico,35,"Santa Fe County, NM",35049,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,150056.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,50.0,679121.0,7.4
+2019,New Mexico,35,"McKinley County, NM",35031,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,71367.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,15.0,146748.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,123958.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,150358.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,33.0,681666.0,4.8
+2020,New Mexico,35,"Dona Ana County, NM",35013,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,221262.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,70824.0,Unreliable
+2020,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,18.0,123312.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,20.0,681666.0,2.9
+2021,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,123312.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,678701.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,71.0,678701.0,10.5
+2018,New Mexico,35,"Dona Ana County, NM",35013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,217522.0,Unreliable
+2018,New Mexico,35,"Otero County, NM",35035,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,66781.0,Unreliable
+2018,New Mexico,35,"Sandoval County, NM",35043,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,145179.0,Unreliable
+2018,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,125043.0,Unreliable
+2018,New Mexico,35,"Santa Fe County, NM",35049,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,150056.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,77.0,679121.0,11.3
+2019,New Mexico,35,"Dona Ana County, NM",35013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,218195.0,Unreliable
+2019,New Mexico,35,"Eddy County, NM",35015,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,58460.0,Unreliable
+2019,New Mexico,35,"Sandoval County, NM",35043,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,19.0,146748.0,Unreliable
+2019,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,123958.0,Unreliable
+2019,New Mexico,35,"Santa Fe County, NM",35049,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,150358.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,90.0,681666.0,13.2
+2020,New Mexico,35,"Chaves County, NM",35005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,64711.0,Unreliable
+2020,New Mexico,35,"Dona Ana County, NM",35013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,221262.0,9.0
+2020,New Mexico,35,"Lea County, NM",35025,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,71830.0,Unreliable
+2020,New Mexico,35,"Sandoval County, NM",35043,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,148904.0,13.4
+2020,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,123312.0,Unreliable
+2020,New Mexico,35,"Santa Fe County, NM",35049,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,151946.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,51.0,681666.0,7.5
+2021,New Mexico,35,"Dona Ana County, NM",35013,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,221262.0,Unreliable
+2021,New Mexico,35,"Sandoval County, NM",35043,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,20.0,148904.0,13.4
+2021,New Mexico,35,"San Juan County, NM",35045,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,123312.0,Unreliable
+2021,New Mexico,35,"Santa Fe County, NM",35049,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,151946.0,Unreliable
+2018,New Mexico,35,"Bernalillo County, NM",35001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,55.0,678701.0,8.1
+2019,New Mexico,35,"Bernalillo County, NM",35001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,50.0,679121.0,7.4
+2019,New Mexico,35,"Lea County, NM",35025,Assault (homicide),Assault by other and unspecified firearm discharge,X95,12.0,71070.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,60.0,681666.0,8.8
+2020,New Mexico,35,"Sandoval County, NM",35043,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,148904.0,Unreliable
+2021,New Mexico,35,"Bernalillo County, NM",35001,Assault (homicide),Assault by other and unspecified firearm discharge,X95,67.0,681666.0,9.8
+2021,New Mexico,35,"Santa Fe County, NM",35049,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,151946.0,Unreliable
+2019,New Mexico,35,"Bernalillo County, NM",35001,Assault (homicide),Assault by other specified means,Y08,13.0,679121.0,Unreliable
+2019,New Mexico,35,"McKinley County, NM",35031,Nontransport accidents,Exposure to excessive natural cold,X31,13.0,71367.0,Unreliable
+2020,New Mexico,35,"McKinley County, NM",35031,Nontransport accidents,Exposure to excessive natural cold,X31,12.0,70824.0,Unreliable
+2020,New Mexico,35,"Bernalillo County, NM",35001,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,15.0,681666.0,Unreliable

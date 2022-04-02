@@ -1,0 +1,8 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,North Dakota,38,"Cass County, ND",38017,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,181516.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,181923.0,Unreliable
+2020,North Dakota,38,"Ward County, ND",38101,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,68466.0,Unreliable
+2019,North Dakota,38,"Cass County, ND",38017,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,181923.0,Unreliable
+2020,North Dakota,38,"Cass County, ND",38017,Nontransport accidents,Unspecified fall,W19,15.0,183904.0,Unreliable
+2021,North Dakota,38,"Cass County, ND",38017,Nontransport accidents,Unspecified fall,W19,14.0,183904.0,Unreliable
+2021,North Dakota,38,"Burleigh County, ND",38015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,11.0,96212.0,Unreliable

@@ -1,0 +1,417 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Washington,53,"Benton County, WA",53005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,201877.0,Unreliable
+2018,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,25.0,481857.0,5.2
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,80.0,2233163.0,3.6
+2018,Washington,53,"Kitsap County, WA",53035,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,269805.0,Unreliable
+2018,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,37.0,891299.0,4.2
+2018,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,36.0,814901.0,4.4
+2018,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,30.0,514631.0,5.8
+2018,Washington,53,"Whatcom County, WA",53073,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,225685.0,Unreliable
+2018,Washington,53,"Yakima County, WA",53077,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,251446.0,Unreliable
+2019,Washington,53,"Benton County, WA",53005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,12.0,204390.0,Unreliable
+2019,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,25.0,488241.0,5.1
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,92.0,2252782.0,4.1
+2019,Washington,53,"Kitsap County, WA",53035,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,271473.0,Unreliable
+2019,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,44.0,904980.0,4.9
+2019,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,25.0,822083.0,3.0
+2019,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,22.0,522798.0,4.2
+2019,Washington,53,"Whatcom County, WA",53073,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,229247.0,Unreliable
+2020,Washington,53,"Benton County, WA",53005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,206426.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,25.0,496865.0,5.0
+2020,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,76.0,2274315.0,3.3
+2020,Washington,53,"Kitsap County, WA",53035,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,272787.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,30.0,913890.0,3.3
+2020,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,36.0,830393.0,4.3
+2020,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,528225.0,Unreliable
+2020,Washington,53,"Thurston County, WA",53067,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,16.0,294074.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,251879.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,52.0,2274315.0,2.3
+2021,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,19.0,913890.0,Unreliable
+2021,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,32.0,830393.0,3.9
+2021,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,528225.0,Unreliable
+2018,Washington,53,"Benton County, WA",53005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,201877.0,Unreliable
+2018,Washington,53,"Clallam County, WA",53009,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,15.0,76737.0,Unreliable
+2018,Washington,53,"Lewis County, WA",53041,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,79604.0,Unreliable
+2018,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,514631.0,Unreliable
+2018,Washington,53,"Yakima County, WA",53077,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,251446.0,Unreliable
+2019,Washington,53,"Benton County, WA",53005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,204390.0,Unreliable
+2019,Washington,53,"Clallam County, WA",53009,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,77331.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,17.0,2252782.0,Unreliable
+2020,Washington,53,"Benton County, WA",53005,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,16.0,206426.0,Unreliable
+2020,Washington,53,"Clallam County, WA",53009,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,13.0,78067.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,10.0,2274315.0,Unreliable
+2020,Washington,53,"Kitsap County, WA",53035,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,272787.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,14.0,913890.0,Unreliable
+2020,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,18.0,528225.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,11.0,251879.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by other and unspecified firearm discharge,X74,12.0,2274315.0,Unreliable
+2018,Washington,53,"Clallam County, WA",53009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,39.0,76737.0,50.8
+2018,Washington,53,"Clark County, WA",53011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,481857.0,Unreliable
+2018,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,59.0,2233163.0,2.6
+2018,Washington,53,"Pierce County, WA",53053,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,891299.0,Unreliable
+2018,Washington,53,"Spokane County, WA",53063,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,59.0,514631.0,11.5
+2018,Washington,53,"Thurston County, WA",53067,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,16.0,286419.0,Unreliable
+2019,Washington,53,"Clallam County, WA",53009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,21.0,77331.0,27.2
+2019,Washington,53,"Clark County, WA",53011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,30.0,488241.0,6.1
+2019,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,68.0,2252782.0,3.0
+2019,Washington,53,"Spokane County, WA",53063,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,66.0,522798.0,12.6
+2019,Washington,53,"Thurston County, WA",53067,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,18.0,290536.0,Unreliable
+2020,Washington,53,"Clallam County, WA",53009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,78067.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,34.0,496865.0,6.8
+2020,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,71.0,2274315.0,3.1
+2020,Washington,53,"Skagit County, WA",53057,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,24.0,130789.0,18.4
+2020,Washington,53,"Snohomish County, WA",53061,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,21.0,830393.0,2.5
+2020,Washington,53,"Spokane County, WA",53063,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,87.0,528225.0,16.5
+2021,Washington,53,"Clallam County, WA",53009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,35.0,78067.0,44.8
+2021,Washington,53,"Clark County, WA",53011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,66.0,496865.0,13.3
+2021,Washington,53,"Cowlitz County, WA",53015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,13.0,111371.0,Unreliable
+2021,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,152.0,2274315.0,6.7
+2021,Washington,53,"Kitsap County, WA",53035,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,37.0,272787.0,13.6
+2021,Washington,53,"Okanogan County, WA",53047,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,42620.0,Unreliable
+2021,Washington,53,"Pierce County, WA",53053,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,90.0,913890.0,9.8
+2021,Washington,53,"Skagit County, WA",53057,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,26.0,130789.0,19.9
+2021,Washington,53,"Snohomish County, WA",53061,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,37.0,830393.0,4.5
+2021,Washington,53,"Spokane County, WA",53063,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,137.0,528225.0,25.9
+2021,Washington,53,"Stevens County, WA",53065,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,10.0,46360.0,Unreliable
+2021,Washington,53,"Thurston County, WA",53067,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,49.0,294074.0,16.7
+2021,Washington,53,"Whatcom County, WA",53073,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,14.0,231016.0,Unreliable
+2021,Washington,53,"Yakima County, WA",53077,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,21.0,251879.0,8.3
+2022,Washington,53,"Clark County, WA",53011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,27.0,496865.0,5.4
+2022,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,46.0,2274315.0,2.0
+2022,Washington,53,"Kitsap County, WA",53035,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,19.0,272787.0,Unreliable
+2022,Washington,53,"Mason County, WA",53045,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,11.0,68224.0,Unreliable
+2022,Washington,53,"Pierce County, WA",53053,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,66.0,913890.0,7.2
+2022,Washington,53,"Snohomish County, WA",53061,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,46.0,830393.0,5.5
+2022,Washington,53,"Spokane County, WA",53063,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,54.0,528225.0,10.2
+2022,Washington,53,"Thurston County, WA",53067,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,24.0,294074.0,8.2
+2022,Washington,53,"Whatcom County, WA",53073,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,20.0,231016.0,8.7
+2018,Washington,53,"Clark County, WA",53011,Nontransport accidents,Other fall on same level,W18,12.0,481857.0,Unreliable
+2018,Washington,53,"Island County, WA",53029,Nontransport accidents,Other fall on same level,W18,17.0,84460.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Nontransport accidents,Other fall on same level,W18,166.0,2233163.0,7.4
+2018,Washington,53,"Kitsap County, WA",53035,Nontransport accidents,Other fall on same level,W18,24.0,269805.0,8.9
+2018,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Other fall on same level,W18,66.0,891299.0,7.4
+2018,Washington,53,"Skagit County, WA",53057,Nontransport accidents,Other fall on same level,W18,12.0,128206.0,Unreliable
+2018,Washington,53,"Snohomish County, WA",53061,Nontransport accidents,Other fall on same level,W18,100.0,814901.0,12.3
+2018,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Other fall on same level,W18,90.0,514631.0,17.5
+2018,Washington,53,"Thurston County, WA",53067,Nontransport accidents,Other fall on same level,W18,30.0,286419.0,10.5
+2018,Washington,53,"Whatcom County, WA",53073,Nontransport accidents,Other fall on same level,W18,17.0,225685.0,Unreliable
+2019,Washington,53,"Chelan County, WA",53007,Nontransport accidents,Other fall on same level,W18,10.0,77200.0,Unreliable
+2019,Washington,53,"Clark County, WA",53011,Nontransport accidents,Other fall on same level,W18,67.0,488241.0,13.7
+2019,Washington,53,"Island County, WA",53029,Nontransport accidents,Other fall on same level,W18,17.0,85141.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Other fall on same level,W18,153.0,2252782.0,6.8
+2019,Washington,53,"Kitsap County, WA",53035,Nontransport accidents,Other fall on same level,W18,22.0,271473.0,8.1
+2019,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Other fall on same level,W18,85.0,904980.0,9.4
+2019,Washington,53,"Skagit County, WA",53057,Nontransport accidents,Other fall on same level,W18,17.0,129205.0,Unreliable
+2019,Washington,53,"Snohomish County, WA",53061,Nontransport accidents,Other fall on same level,W18,105.0,822083.0,12.8
+2019,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Other fall on same level,W18,87.0,522798.0,16.6
+2019,Washington,53,"Thurston County, WA",53067,Nontransport accidents,Other fall on same level,W18,33.0,290536.0,11.4
+2019,Washington,53,"Whatcom County, WA",53073,Nontransport accidents,Other fall on same level,W18,12.0,229247.0,Unreliable
+2019,Washington,53,"Yakima County, WA",53077,Nontransport accidents,Other fall on same level,W18,13.0,250873.0,Unreliable
+2020,Washington,53,"Chelan County, WA",53007,Nontransport accidents,Other fall on same level,W18,10.0,77574.0,Unreliable
+2020,Washington,53,"Clallam County, WA",53009,Nontransport accidents,Other fall on same level,W18,10.0,78067.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Nontransport accidents,Other fall on same level,W18,92.0,496865.0,18.5
+2020,Washington,53,"Grays Harbor County, WA",53027,Nontransport accidents,Other fall on same level,W18,10.0,75950.0,Unreliable
+2020,Washington,53,"Island County, WA",53029,Nontransport accidents,Other fall on same level,W18,16.0,86014.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Other fall on same level,W18,152.0,2274315.0,6.7
+2020,Washington,53,"Kitsap County, WA",53035,Nontransport accidents,Other fall on same level,W18,20.0,272787.0,7.3
+2020,Washington,53,"Lewis County, WA",53041,Nontransport accidents,Other fall on same level,W18,12.0,82109.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Other fall on same level,W18,141.0,913890.0,15.4
+2020,Washington,53,"Skagit County, WA",53057,Nontransport accidents,Other fall on same level,W18,19.0,130789.0,Unreliable
+2020,Washington,53,"Snohomish County, WA",53061,Nontransport accidents,Other fall on same level,W18,134.0,830393.0,16.1
+2020,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Other fall on same level,W18,92.0,528225.0,17.4
+2020,Washington,53,"Thurston County, WA",53067,Nontransport accidents,Other fall on same level,W18,35.0,294074.0,11.9
+2020,Washington,53,"Whatcom County, WA",53073,Nontransport accidents,Other fall on same level,W18,13.0,231016.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Nontransport accidents,Other fall on same level,W18,11.0,251879.0,Unreliable
+2021,Washington,53,"Chelan County, WA",53007,Nontransport accidents,Other fall on same level,W18,11.0,77574.0,Unreliable
+2021,Washington,53,"Clark County, WA",53011,Nontransport accidents,Other fall on same level,W18,66.0,496865.0,13.3
+2021,Washington,53,"King County, WA",53033,Nontransport accidents,Other fall on same level,W18,140.0,2274315.0,6.2
+2021,Washington,53,"Kitsap County, WA",53035,Nontransport accidents,Other fall on same level,W18,21.0,272787.0,7.7
+2021,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Other fall on same level,W18,117.0,913890.0,12.8
+2021,Washington,53,"Skagit County, WA",53057,Nontransport accidents,Other fall on same level,W18,16.0,130789.0,Unreliable
+2021,Washington,53,"Snohomish County, WA",53061,Nontransport accidents,Other fall on same level,W18,80.0,830393.0,9.6
+2021,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Other fall on same level,W18,58.0,528225.0,11.0
+2021,Washington,53,"Thurston County, WA",53067,Nontransport accidents,Other fall on same level,W18,29.0,294074.0,9.9
+2018,Washington,53,"Clark County, WA",53011,Nontransport accidents,Unspecified fall,W19,50.0,481857.0,10.4
+2018,Washington,53,"Cowlitz County, WA",53015,Nontransport accidents,Unspecified fall,W19,10.0,108987.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Nontransport accidents,Unspecified fall,W19,14.0,2233163.0,Unreliable
+2018,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Unspecified fall,W19,31.0,514631.0,6.0
+2019,Washington,53,"Benton County, WA",53005,Nontransport accidents,Unspecified fall,W19,10.0,204390.0,Unreliable
+2019,Washington,53,"Clark County, WA",53011,Nontransport accidents,Unspecified fall,W19,28.0,488241.0,5.7
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Unspecified fall,W19,10.0,2252782.0,Unreliable
+2019,Washington,53,"Kitsap County, WA",53035,Nontransport accidents,Unspecified fall,W19,10.0,271473.0,Unreliable
+2019,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Unspecified fall,W19,24.0,522798.0,4.6
+2020,Washington,53,"Benton County, WA",53005,Nontransport accidents,Unspecified fall,W19,10.0,206426.0,Unreliable
+2020,Washington,53,"Clallam County, WA",53009,Nontransport accidents,Unspecified fall,W19,12.0,78067.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Unspecified fall,W19,27.0,2274315.0,1.2
+2020,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Unspecified fall,W19,24.0,528225.0,4.5
+2021,Washington,53,"Clallam County, WA",53009,Nontransport accidents,Unspecified fall,W19,10.0,78067.0,Unreliable
+2021,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Unspecified fall,W19,24.0,528225.0,4.5
+2018,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13.0,481857.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,47.0,2233163.0,2.1
+2018,Washington,53,"Kitsap County, WA",53035,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,269805.0,Unreliable
+2018,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,47.0,891299.0,5.3
+2018,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,17.0,814901.0,Unreliable
+2018,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,17.0,514631.0,Unreliable
+2019,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,21.0,488241.0,4.3
+2019,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,51.0,2252782.0,2.3
+2019,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,40.0,904980.0,4.4
+2019,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,31.0,822083.0,3.8
+2019,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13.0,522798.0,Unreliable
+2019,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,250873.0,Unreliable
+2020,Washington,53,"Benton County, WA",53005,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,206426.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,27.0,496865.0,5.4
+2020,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,62.0,2274315.0,2.7
+2020,Washington,53,"Lewis County, WA",53041,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,82109.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,39.0,913890.0,4.3
+2020,Washington,53,"Skagit County, WA",53057,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11.0,130789.0,Unreliable
+2020,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,31.0,830393.0,3.7
+2020,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,15.0,528225.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13.0,251879.0,Unreliable
+2021,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,496865.0,Unreliable
+2021,Washington,53,"Grant County, WA",53025,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,99377.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,28.0,2274315.0,1.2
+2021,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,50.0,913890.0,5.5
+2021,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,29.0,830393.0,3.5
+2021,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,16.0,528225.0,Unreliable
+2021,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,12.0,294074.0,Unreliable
+2021,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,17.0,251879.0,Unreliable
+2018,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,481857.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,106.0,2233163.0,4.7
+2018,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,58.0,891299.0,6.5
+2018,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,57.0,814901.0,7.0
+2018,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,514631.0,Unreliable
+2018,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,286419.0,Unreliable
+2018,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16.0,251446.0,Unreliable
+2019,Washington,53,"Benton County, WA",53005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,204390.0,Unreliable
+2019,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,488241.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,105.0,2252782.0,4.7
+2019,Washington,53,"Kitsap County, WA",53035,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,271473.0,Unreliable
+2019,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,61.0,904980.0,6.7
+2019,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,64.0,822083.0,7.8
+2019,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,522798.0,Unreliable
+2019,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,290536.0,Unreliable
+2019,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,26.0,250873.0,10.4
+2020,Washington,53,"Benton County, WA",53005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21.0,206426.0,10.2
+2020,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,44.0,496865.0,8.9
+2020,Washington,53,"Franklin County, WA",53021,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13.0,97075.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,139.0,2274315.0,6.1
+2020,Washington,53,"Kitsap County, WA",53035,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,272787.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,86.0,913890.0,9.4
+2020,Washington,53,"Skagit County, WA",53057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,130789.0,Unreliable
+2020,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,85.0,830393.0,10.2
+2020,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25.0,528225.0,4.7
+2020,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17.0,294074.0,Unreliable
+2020,Washington,53,"Whatcom County, WA",53073,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12.0,231016.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,48.0,251879.0,19.1
+2021,Washington,53,"Benton County, WA",53005,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14.0,206426.0,Unreliable
+2021,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,22.0,496865.0,4.4
+2021,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,104.0,2274315.0,4.6
+2021,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,72.0,913890.0,7.9
+2021,Washington,53,"Skagit County, WA",53057,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10.0,130789.0,Unreliable
+2021,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,70.0,830393.0,8.4
+2021,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,30.0,528225.0,5.7
+2021,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18.0,294074.0,Unreliable
+2021,Washington,53,"Whatcom County, WA",53073,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11.0,231016.0,Unreliable
+2021,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,39.0,251879.0,15.5
+2018,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,19.0,481857.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,167.0,2233163.0,7.5
+2018,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,27.0,891299.0,3.0
+2018,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,74.0,814901.0,9.1
+2018,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,37.0,514631.0,7.2
+2018,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,286419.0,Unreliable
+2018,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,251446.0,Unreliable
+2019,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,488241.0,4.9
+2019,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,207.0,2252782.0,9.2
+2019,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29.0,904980.0,3.2
+2019,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,67.0,822083.0,8.2
+2019,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,37.0,522798.0,7.1
+2019,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,290536.0,Unreliable
+2020,Washington,53,"Benton County, WA",53005,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,206426.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,496865.0,4.8
+2020,Washington,53,"Cowlitz County, WA",53015,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,111371.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,249.0,2274315.0,10.9
+2020,Washington,53,"Kitsap County, WA",53035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,272787.0,Unreliable
+2020,Washington,53,"Mason County, WA",53045,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,68224.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,99.0,913890.0,10.8
+2020,Washington,53,"Skagit County, WA",53057,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,130789.0,Unreliable
+2020,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,101.0,830393.0,12.2
+2020,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,53.0,528225.0,10.0
+2020,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,294074.0,Unreliable
+2020,Washington,53,"Whatcom County, WA",53073,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,231016.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11.0,251879.0,Unreliable
+2021,Washington,53,"Clallam County, WA",53009,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,78067.0,Unreliable
+2021,Washington,53,"Clark County, WA",53011,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,34.0,496865.0,6.8
+2021,Washington,53,"Grays Harbor County, WA",53027,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,75950.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,289.0,2274315.0,12.7
+2021,Washington,53,"Kitsap County, WA",53035,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,272787.0,Unreliable
+2021,Washington,53,"Mason County, WA",53045,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,68224.0,Unreliable
+2021,Washington,53,"Pierce County, WA",53053,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,112.0,913890.0,12.3
+2021,Washington,53,"Snohomish County, WA",53061,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,52.0,830393.0,6.3
+2021,Washington,53,"Spokane County, WA",53063,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,51.0,528225.0,9.7
+2021,Washington,53,"Thurston County, WA",53067,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,294074.0,Unreliable
+2021,Washington,53,"Whatcom County, WA",53073,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15.0,231016.0,Unreliable
+2021,Washington,53,"Yakima County, WA",53077,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,251879.0,Unreliable
+2018,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,29.0,481857.0,6.0
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,84.0,2233163.0,3.8
+2018,Washington,53,"Kitsap County, WA",53035,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,17.0,269805.0,Unreliable
+2018,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,64.0,891299.0,7.2
+2018,Washington,53,"Skagit County, WA",53057,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,128206.0,Unreliable
+2018,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,37.0,814901.0,4.5
+2018,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,29.0,514631.0,5.6
+2018,Washington,53,"Thurston County, WA",53067,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,18.0,286419.0,Unreliable
+2018,Washington,53,"Whatcom County, WA",53073,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,24.0,225685.0,10.6
+2019,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,32.0,488241.0,6.6
+2019,Washington,53,"Cowlitz County, WA",53015,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,110593.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,90.0,2252782.0,4.0
+2019,Washington,53,"Kitsap County, WA",53035,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,21.0,271473.0,7.7
+2019,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,73.0,904980.0,8.1
+2019,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,38.0,822083.0,4.6
+2019,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,31.0,522798.0,5.9
+2019,Washington,53,"Thurston County, WA",53067,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,17.0,290536.0,Unreliable
+2019,Washington,53,"Whatcom County, WA",53073,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,229247.0,9.6
+2019,Washington,53,"Yakima County, WA",53077,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,250873.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,37.0,496865.0,7.4
+2020,Washington,53,"Cowlitz County, WA",53015,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,111371.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,85.0,2274315.0,3.7
+2020,Washington,53,"Kitsap County, WA",53035,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,21.0,272787.0,7.7
+2020,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,52.0,913890.0,5.7
+2020,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,57.0,830393.0,6.9
+2020,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,28.0,528225.0,5.3
+2020,Washington,53,"Thurston County, WA",53067,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,25.0,294074.0,8.5
+2020,Washington,53,"Whatcom County, WA",53073,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,231016.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,251879.0,Unreliable
+2021,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,496865.0,4.4
+2021,Washington,53,"Cowlitz County, WA",53015,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,111371.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,64.0,2274315.0,2.8
+2021,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,31.0,913890.0,3.4
+2021,Washington,53,"Skagit County, WA",53057,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,130789.0,Unreliable
+2021,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,28.0,830393.0,3.4
+2021,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,18.0,528225.0,Unreliable
+2021,Washington,53,"Thurston County, WA",53067,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,294074.0,Unreliable
+2018,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,12.0,2233163.0,Unreliable
+2019,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,12.0,2252782.0,Unreliable
+2019,Washington,53,"Whatcom County, WA",53073,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,12.0,229247.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,19.0,2233163.0,Unreliable
+2018,Washington,53,"Pierce County, WA",53053,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10.0,891299.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,23.0,2252782.0,1.0
+2020,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,27.0,2274315.0,1.2
+2021,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,16.0,2274315.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,12.0,2233163.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,11.0,2252782.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,12.0,2233163.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11.0,2233163.0,Unreliable
+2018,Washington,53,"Snohomish County, WA",53061,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13.0,814901.0,Unreliable
+2018,Washington,53,"Spokane County, WA",53063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19.0,514631.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,2252782.0,Unreliable
+2019,Washington,53,"Pierce County, WA",53053,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,904980.0,Unreliable
+2019,Washington,53,"Yakima County, WA",53077,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,250873.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,496865.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,18.0,2274315.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,14.0,913890.0,Unreliable
+2020,Washington,53,"Spokane County, WA",53063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16.0,528225.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,20.0,251879.0,7.9
+2021,Washington,53,"Clark County, WA",53011,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,496865.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12.0,2274315.0,Unreliable
+2021,Washington,53,"Pierce County, WA",53053,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24.0,913890.0,2.6
+2021,Washington,53,"Spokane County, WA",53063,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15.0,528225.0,Unreliable
+2021,Washington,53,"Yakima County, WA",53077,Transport accidents (unintentional injuries),"Person injured in unspecified motor-vehicle accident, traffic",V89.2,20.0,251879.0,7.9
+2018,Washington,53,"King County, WA",53033,Nontransport accidents,Fall on and from stairs and steps,W10,21.0,2233163.0,0.9
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Fall on and from stairs and steps,W10,13.0,2252782.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Fall on and from stairs and steps,W10,19.0,2274315.0,Unreliable
+2020,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Fall on and from stairs and steps,W10,11.0,528225.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Nontransport accidents,Fall on and from stairs and steps,W10,15.0,2274315.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Nontransport accidents,Other fall from one level to another,W17,11.0,2233163.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,26.0,2233163.0,1.2
+2018,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,891299.0,Unreliable
+2018,Washington,53,"Snohomish County, WA",53061,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,814901.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,27.0,2252782.0,1.2
+2019,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,11.0,904980.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,20.0,2274315.0,0.9
+2021,Washington,53,"King County, WA",53033,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,15.0,2274315.0,Unreliable
+2021,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Inhalation and ingestion of other objects causing obstruction of respiratory tract,W80,10.0,913890.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,10.0,2233163.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,10.0,2252782.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,13.0,2274315.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to uncontrolled fire in building or structure,X00,10.0,2274315.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,12.0,2233163.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Accidental poisoning by and exposure to alcohol,X45,11.0,2252782.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,12.0,2233163.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,14.0,2252782.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,26.0,2233163.0,1.2
+2018,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,814901.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,23.0,2252782.0,1.0
+2019,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11.0,822083.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,23.0,2274315.0,1.0
+2020,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,13.0,913890.0,Unreliable
+2020,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10.0,528225.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,14.0,2274315.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-poisoning by and exposure to other gases and vapours,X67,17.0,2233163.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-poisoning by and exposure to other gases and vapours,X67,13.0,2252782.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-poisoning by and exposure to other gases and vapours,X67,11.0,2274315.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,23.0,2233163.0,1.0
+2018,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,13.0,891299.0,Unreliable
+2018,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12.0,814901.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,22.0,2252782.0,1.0
+2019,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,14.0,904980.0,Unreliable
+2019,Washington,53,"Snohomish County, WA",53061,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,13.0,822083.0,Unreliable
+2019,Washington,53,"Spokane County, WA",53063,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10.0,522798.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,496865.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12.0,2274315.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,19.0,2233163.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,13.0,2252782.0,Unreliable
+2019,Washington,53,"Pierce County, WA",53053,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,10.0,904980.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,12.0,2274315.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by jumping from a high place,X80,13.0,2274315.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by jumping or lying before moving object,X81,10.0,2233163.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Assault (homicide),Assault by other and unspecified firearm discharge,X95,53.0,2233163.0,2.4
+2018,Washington,53,"Pierce County, WA",53053,Assault (homicide),Assault by other and unspecified firearm discharge,X95,28.0,891299.0,3.1
+2018,Washington,53,"Snohomish County, WA",53061,Assault (homicide),Assault by other and unspecified firearm discharge,X95,10.0,814901.0,Unreliable
+2018,Washington,53,"Yakima County, WA",53077,Assault (homicide),Assault by other and unspecified firearm discharge,X95,21.0,251446.0,8.4
+2019,Washington,53,"King County, WA",53033,Assault (homicide),Assault by other and unspecified firearm discharge,X95,41.0,2252782.0,1.8
+2019,Washington,53,"Pierce County, WA",53053,Assault (homicide),Assault by other and unspecified firearm discharge,X95,29.0,904980.0,3.2
+2019,Washington,53,"Yakima County, WA",53077,Assault (homicide),Assault by other and unspecified firearm discharge,X95,22.0,250873.0,8.8
+2020,Washington,53,"King County, WA",53033,Assault (homicide),Assault by other and unspecified firearm discharge,X95,69.0,2274315.0,3.0
+2020,Washington,53,"Pierce County, WA",53053,Assault (homicide),Assault by other and unspecified firearm discharge,X95,34.0,913890.0,3.7
+2020,Washington,53,"Snohomish County, WA",53061,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,830393.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Assault (homicide),Assault by other and unspecified firearm discharge,X95,20.0,251879.0,7.9
+2021,Washington,53,"Clark County, WA",53011,Assault (homicide),Assault by other and unspecified firearm discharge,X95,17.0,496865.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Assault (homicide),Assault by other and unspecified firearm discharge,X95,56.0,2274315.0,2.5
+2021,Washington,53,"Pierce County, WA",53053,Assault (homicide),Assault by other and unspecified firearm discharge,X95,29.0,913890.0,3.2
+2021,Washington,53,"Snohomish County, WA",53061,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,830393.0,Unreliable
+2021,Washington,53,"Yakima County, WA",53077,Assault (homicide),Assault by other and unspecified firearm discharge,X95,11.0,251879.0,Unreliable
+2018,Washington,53,"King County, WA",53033,Assault (homicide),Assault by sharp object,X99,12.0,2233163.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Assault (homicide),Assault by sharp object,X99,15.0,2274315.0,Unreliable
+2018,Washington,53,"Pierce County, WA",53053,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,891299.0,Unreliable
+2019,Washington,53,"Pierce County, WA",53053,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,12.0,904980.0,Unreliable
+2020,Washington,53,"Clark County, WA",53011,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,496865.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,14.0,2274315.0,Unreliable
+2020,Washington,53,"Pierce County, WA",53053,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,10.0,913890.0,Unreliable
+2020,Washington,53,"Yakima County, WA",53077,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,17.0,251879.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,13.0,2274315.0,Unreliable
+2021,Washington,53,"Yakima County, WA",53077,Transport accidents (unintentional injuries),Person injured in collision between other specified motor vehicles (traffic),V87.7,11.0,251879.0,Unreliable
+2018,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Fall involving bed,W06,11.0,514631.0,Unreliable
+2019,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Sudden infant death syndrome - SIDS,R95,10.0,2252782.0,Unreliable
+2020,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Sudden infant death syndrome - SIDS,R95,11.0,2274315.0,Unreliable
+2021,Washington,53,"King County, WA",53033,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Sudden infant death syndrome - SIDS,R95,11.0,2274315.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,19.0,2252782.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Transport accidents (unintentional injuries),"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,19.0,2274315.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Drowning and submersion while in natural water,W69,11.0,2252782.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Drowning and submersion while in natural water,W69,14.0,2274315.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Nontransport accidents,Drowning and submersion while in natural water,W69,15.0,2274315.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to excessive natural cold,X31,17.0,2252782.0,Unreliable
+2019,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Exposure to excessive natural cold,X31,10.0,522798.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to excessive natural cold,X31,11.0,2274315.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to excessive natural cold,X31,10.0,2274315.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,16.0,2252782.0,Unreliable
+2019,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,10.0,522798.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,15.0,2274315.0,Unreliable
+2021,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Exposure to unspecified factor causing other and unspecified injury,X59.9,11.0,913890.0,Unreliable
+2019,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by sharp object,X78,13.0,2252782.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Intentional self-harm (suicide),Intentional self-harm by sharp object,X78,13.0,2274315.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Nontransport accidents,Inhalation and ingestion of food causing obstruction of respiratory tract,W79,10.0,2274315.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Assault (homicide),Assault by unspecified means,Y09,11.0,2274315.0,Unreliable
+2020,Washington,53,"King County, WA",53033,Sequelae of other accidents,Sequelae of other accidents,Y86,11.0,2274315.0,Unreliable
+2021,Washington,53,"King County, WA",53033,Nontransport accidents,Exposure to excessive natural heat,X30,27.0,2274315.0,1.2
+2021,Washington,53,"Pierce County, WA",53053,Nontransport accidents,Exposure to excessive natural heat,X30,12.0,913890.0,Unreliable
+2021,Washington,53,"Snohomish County, WA",53061,Nontransport accidents,Exposure to excessive natural heat,X30,10.0,830393.0,Unreliable
+2021,Washington,53,"Spokane County, WA",53063,Nontransport accidents,Exposure to excessive natural heat,X30,18.0,528225.0,Unreliable

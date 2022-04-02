@@ -1,0 +1,87 @@
+year,state,state_code,county,county_code,cause_category,cause,cause_code,deaths,population,crude_rate
+2018,Idaho,16,"Ada County, ID",16001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,26.0,469966.0,5.5
+2018,Idaho,16,"Canyon County, ID",16027,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,12.0,223499.0,Unreliable
+2018,Idaho,16,"Franklin County, ID",16041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,19.0,13726.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,36.0,481587.0,7.5
+2019,Idaho,16,"Bonneville County, ID",16019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,10.0,119062.0,Unreliable
+2019,Idaho,16,"Franklin County, ID",16041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,16.0,13876.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,22.0,494399.0,4.4
+2020,Idaho,16,"Franklin County, ID",16041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,18.0,14215.0,Unreliable
+2021,Idaho,16,"Ada County, ID",16001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,38.0,494399.0,7.7
+2021,Idaho,16,"Franklin County, ID",16041,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Senility,R54,10.0,14215.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Nontransport accidents,Other fall on same level,W18,35.0,469966.0,7.4
+2018,Idaho,16,"Canyon County, ID",16027,Nontransport accidents,Other fall on same level,W18,12.0,223499.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Nontransport accidents,Other fall on same level,W18,25.0,86081.0,29.0
+2019,Idaho,16,"Ada County, ID",16001,Nontransport accidents,Other fall on same level,W18,32.0,481587.0,6.6
+2019,Idaho,16,"Canyon County, ID",16027,Nontransport accidents,Other fall on same level,W18,22.0,229849.0,9.6
+2019,Idaho,16,"Kootenai County, ID",16055,Nontransport accidents,Other fall on same level,W18,18.0,165697.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Nontransport accidents,Other fall on same level,W18,16.0,86878.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Nontransport accidents,Other fall on same level,W18,44.0,494399.0,8.9
+2020,Idaho,16,"Canyon County, ID",16027,Nontransport accidents,Other fall on same level,W18,23.0,237053.0,9.7
+2020,Idaho,16,"Kootenai County, ID",16055,Nontransport accidents,Other fall on same level,W18,17.0,170628.0,Unreliable
+2020,Idaho,16,"Twin Falls County, ID",16083,Nontransport accidents,Other fall on same level,W18,15.0,88411.0,Unreliable
+2021,Idaho,16,"Ada County, ID",16001,Nontransport accidents,Other fall on same level,W18,41.0,494399.0,8.3
+2021,Idaho,16,"Kootenai County, ID",16055,Nontransport accidents,Other fall on same level,W18,13.0,170628.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13.0,469966.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,24.0,481587.0,5.0
+2019,Idaho,16,"Bonneville County, ID",16019,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10.0,119062.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,19.0,494399.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,469966.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,481587.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15.0,494399.0,Unreliable
+2021,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19.0,494399.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,469966.0,5.3
+2018,Idaho,16,"Canyon County, ID",16027,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,223499.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,161505.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,86081.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24.0,481587.0,5.0
+2019,Idaho,16,"Bannock County, ID",16005,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,87808.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,119062.0,Unreliable
+2019,Idaho,16,"Kootenai County, ID",16055,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12.0,165697.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10.0,86878.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40.0,494399.0,8.1
+2020,Idaho,16,"Kootenai County, ID",16055,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20.0,170628.0,11.7
+2020,Idaho,16,"Twin Falls County, ID",16083,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13.0,88411.0,Unreliable
+2021,Idaho,16,"Ada County, ID",16001,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,25.0,494399.0,5.1
+2021,Idaho,16,"Bonneville County, ID",16019,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17.0,122134.0,Unreliable
+2021,Idaho,16,"Canyon County, ID",16027,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14.0,237053.0,Unreliable
+2021,Idaho,16,"Kootenai County, ID",16055,Accidental drug overdose,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,16.0,170628.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,21.0,469966.0,4.5
+2018,Idaho,16,"Bannock County, ID",16005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,87138.0,Unreliable
+2018,Idaho,16,"Twin Falls County, ID",16083,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,10.0,86081.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,481587.0,Unreliable
+2019,Idaho,16,"Bannock County, ID",16005,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,11.0,87808.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,14.0,229849.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,17.0,494399.0,Unreliable
+2021,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-harm by hanging, strangulation and suffocation",X70,13.0,494399.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,54.0,469966.0,11.5
+2018,Idaho,16,"Bannock County, ID",16005,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,19.0,87138.0,Unreliable
+2018,Idaho,16,"Bonneville County, ID",16019,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,11.0,116854.0,Unreliable
+2018,Idaho,16,"Canyon County, ID",16027,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,19.0,223499.0,Unreliable
+2018,Idaho,16,"Kootenai County, ID",16055,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,25.0,161505.0,15.5
+2019,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,37.0,481587.0,7.7
+2019,Idaho,16,"Bonner County, ID",16017,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,12.0,45739.0,Unreliable
+2019,Idaho,16,"Bonneville County, ID",16019,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,15.0,119062.0,Unreliable
+2019,Idaho,16,"Canyon County, ID",16027,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,21.0,229849.0,9.1
+2019,Idaho,16,"Kootenai County, ID",16055,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,165697.0,Unreliable
+2019,Idaho,16,"Twin Falls County, ID",16083,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,86878.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,36.0,494399.0,7.3
+2020,Idaho,16,"Bannock County, ID",16005,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,15.0,88795.0,Unreliable
+2020,Idaho,16,"Bonneville County, ID",16019,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,21.0,122134.0,17.2
+2020,Idaho,16,"Canyon County, ID",16027,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,22.0,237053.0,9.3
+2020,Idaho,16,"Kootenai County, ID",16055,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,21.0,170628.0,12.3
+2020,Idaho,16,"Twin Falls County, ID",16083,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,14.0,88411.0,Unreliable
+2021,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,32.0,494399.0,6.5
+2021,Idaho,16,"Bannock County, ID",16005,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,10.0,88795.0,Unreliable
+2021,Idaho,16,"Canyon County, ID",16027,Intentional self-harm (suicide),Intentional self-harm by handgun discharge,X72,15.0,237053.0,Unreliable
+2018,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11.0,469966.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10.0,481587.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10.0,494399.0,Unreliable
+2019,Idaho,16,"Ada County, ID",16001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Shock, unspecified",R57.9,23.0,481587.0,4.8
+2019,Idaho,16,"Kootenai County, ID",16055,Nontransport accidents,Unspecified fall,W19,12.0,165697.0,Unreliable
+2020,Idaho,16,"Kootenai County, ID",16055,Nontransport accidents,Unspecified fall,W19,12.0,170628.0,Unreliable
+2020,Idaho,16,"Ada County, ID",16001,Intentional self-harm (suicide),"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12.0,494399.0,Unreliable
+2021,Idaho,16,"Ada County, ID",16001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,74.0,494399.0,15.0
+2021,Idaho,16,"Canyon County, ID",16027,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,16.0,237053.0,Unreliable
+2022,Idaho,16,"Ada County, ID",16001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,66.0,494399.0,13.3
+2022,Idaho,16,"Canyon County, ID",16027,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Other ill-defined and unspecified causes of mortality,R99,16.0,237053.0,Unreliable
