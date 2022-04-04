@@ -1,5 +1,5 @@
 # Documenting COVID-19 and MuckRock's Uncounted Project
-This repository contains data and findings used in Documenting COVID-19's Uncounted project: ["Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19"](https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/)
+This repository contains data and findings used in an ongoing investigation into undercounted and uncounted deaths with the Documenting COVID-19 project, MuckRock, Columbia University's Brown Institute for Media Innovation and the USA TODAY network. [More details on our Uncounted investigation.](https://www.muckrock.com/covid-uncounted/)
 
 ## Overview
 The data in this repository comes from three sources:
@@ -14,8 +14,8 @@ The data in this repository comes from three sources:
 
 
 ## Table of Contents
-Data
-Data Dictionaries
+1. Data
+2. Data Dictionaries
 
 ## What useful things will you find in the data folder?
 1. [Excess mortality modeling by state](data/excess_mortality_modeling), includes two datasets, one modeled by the CDC and a Boston University and University of Pennsylvania team [led by Andrew Stokes, an assistant professor of global health](https://www.bu.edu/articles/2022/underreporting-covid-19-deaths/?utm_campaign=social_experts&utm_source=twitter&utm_medium=photo&utm_content=research_publichealth)
@@ -30,7 +30,7 @@ Note: Any number of deaths under 10, whether from natural diseases or external c
 5. A Department of Justice survey of all medical examiner and coroner offices in the country, conducted in 2018 and published in 2021, provides [the resources, personnel, tools, and caseload of your local death investigation system](data/coroner_and_medical_examiner_survey). The entire survey is included along with a paired-down version in a separate .csv file
 
 ## Methodology and Caveats
-Our investigation focused on underreporting COVID deaths, but not all excess deaths are COVID deaths. We cover this in our [Uncounted "how to" guide](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/).
+Our investigation focused on underreporting COVID deaths, but not all excess deaths are COVID deaths. We cover this in our [Uncounted "how to" guide](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/):
 
 >The term “excess death” refers to the estimate of how many more people died in a given time period and region than expected. The expected number of deaths is derived through statistical modeling and typically accounts for changing mortality trends. Epidemiologists and demographers have used excess mortality to measure natural and non-natural disasters, such as during Hurricane Maria and opioid overdose deaths.
 
