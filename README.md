@@ -1,16 +1,16 @@
 # Documenting COVID-19 and MuckRock's Uncounted Project
-This repository contains data and findings used in Documenting COVID-19's Uncounted project with the USA TODAY network, found here: ["Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19"](https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/)
+This repository contains data and findings used in Documenting COVID-19's Uncounted project: ["Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19"](https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/)
 
 ## Overview
 The data in this repository comes from three sources:
 
 — The U.S. Centers for Disease Control and Prevention's [WONDER database](https://wonder.cdc.gov/), which contains provisional cause of death data and is updated every few weeks (last updated: March 18, 2022)
 
-— [Demographers from Boston University](https://github.com/Mortality-Surv-and-Reporting-Proj/county-level-estimates-of-excess-mortality), who have modeled excess deaths at the county level (last updated: Jan. 31, 2020)
+— [Demographers from Boston University and the University of Pennsylvania](https://github.com/Mortality-Surv-and-Reporting-Proj/county-level-estimates-of-excess-mortality), who have modeled excess deaths at the county level (last updated: Jan. 31, 2020)
 
 — The National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/web/NACJD/studies/38251), which has archived the U.S. Department of Justice's 2018 Census of Medical Examiner and Coroner Offices (last updated: Jan. 31, 2018)
 
-[Along with Documenting COVID-19's reporting recipe for the Uncounted project,](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/) the data can be combined to investigate counties with high amounts of unexplained excess deaths during the pandemic — deaths that point toward COVID-19 death undercounts.
+[Along with Documenting COVID-19's reporting recipe for the Uncounted project](https://www.muckrock.com/news/archives/2022/jan/06/how-to-use-uncounted-cdc-data/), the data can be combined to investigate counties with high amounts of unexplained excess deaths during the pandemic — deaths that point toward COVID-19 death undercounts.
 
 
 ## Table of Contents
@@ -23,7 +23,7 @@ The data in this repository comes from three sources:
 - The spreadsheet of natural cause deaths includes several causes of death [identified by the CDC](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) as deaths that "could represent misclassified COVID-19 deaths, or potentially could be indirectly related to COVID-19." The spreadsheet shows which CDC category the cause of death belongs to and the specific code and underlying cause of death. 
 - The spreadsheet of external causes includes [leading external causes of death in the 113 CDC code list](https://www.cdc.gov/nchs/nvss/mortality_tables.htm). Like the natural cause spreadsheet, this spreadsheet shows which CDC category the cause of death belongs to and the specific code and underlying cause of death
  
- *Important note for the country's smaller counties: Any number of deaths under 10, whether from natural diseases or external causes, will be suppressed by the CDC. No    data is included for the causes of death from these counties. In the county map accompanying this data, the counties whose data are supressed by the CDC are Denali Borough, AK, Lake and Peninsula Borough, AK, Skagway Municipality, AK, Valdez-Cordova Census Area, AK, Hinsdale County, CO, San Juan County, CO, Clark County, ID, Blaine County, NE, Key Paha County, NE, Logan County, NE, Loup County, NE, Thomas County, NE, Wheeler County, NE, Billings County, ND, Harding County, SD, and Borden County, TX.
+Note: Any number of deaths under 10, whether from natural diseases or external causes, is suppressed by the CDC. No data is included for the causes of death from these 16 counties. In the county map accompanying this data, the counties whose data are supressed are: Denali Borough, Alaska; Lake and Peninsula Borough, Alaska; Skagway Municipality, Alaska; Valdez-Cordova Census Area, Alaska; Hinsdale County, Colorado; San Juan County, Colorado; Clark County, Idaho; Blaine County, Nebraska; Key Paha County, Nebraska; Logan County, Nebraska; Loup County, Nebraska; Thomas County, Nebraska; Wheeler County, Nebraska; Billings County, North Dakota; Harding County, South Dakota; and Borden County, Texas.
 
 4. [Vaccination rates by state and county](data/vaccinations), which can be cross-referenced to other datasets found in this repository
 5. [Each state's medicolegal death investigation system](data/coroner_and_medical_examiner_survey) — coroner, mixed coroner/medical examiner or state medical examiner system
@@ -40,4 +40,4 @@ Measuring excess deaths helps determine how many more people are dying than a no
 
 
 ## Questions and Feedback
-The Documenting COVID-19 project can be reached at covid@muckrock.com.
+The Documenting COVID-19 project can be reached at covid@muckrock.com
